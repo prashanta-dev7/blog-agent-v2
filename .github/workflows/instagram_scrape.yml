@@ -1,0 +1,55 @@
+name: Instagram Scrape
+
+on:
+  schedule:
+    # 20:30 UTC = 02:00 IST — runs overnight, well before the 02:00 UTC
+    # feed refresh, so ig_posts.json is fresh when the team opens the
+    # dashboard at 07:30 IST.
+    - cron: "30 20 * * *"
+  workflow_dispatch:
+
+# Stop a previous run if a new one starts (e.g. manual re-trigger)
+concurrency:
+  group: instagram-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75   # 67 accounts × ~30s avg / 3 parallel ≈ 11 min,
+                          # but allow generous headroom for slow accounts
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Playwright + Chromium
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Run Instagram scraper
+        env:
+          INSTAGRAM_COOKIES: ${{ secrets.INSTAGRAM_COOKIES }}
+        run: python scrape_instagram.py
+
+      - name: Commit ig_posts.json
+        run: |
+          git config user.name  "AZA IG Bot"
+          git config user.email "bot@azafashions.com"
+          git add ig_posts.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh IG posts $(date -u '+%Y-%m-%d %H:%M UTC')"
+            # Pull-rebase before push to handle the rare case where the
+            # feed-refresh workflow committed something in between.
+            git pull --rebase origin main
+            git push
+          fi

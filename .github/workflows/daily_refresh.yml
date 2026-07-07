@@ -1,0 +1,44 @@
+name: Daily Feed Refresh
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+    - cron: "0 5,8,11 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-feeds:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4 python-dateutil pytrends
+
+      - name: Determine refresh mode
+        id: mode
+        run: |
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" = "02" ]; then
+            echo "args=" >> $GITHUB_OUTPUT
+          else
+            echo "args=--competitors-only" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fetch feeds
+        run: python fetch_feeds.py ${{ steps.mode.outputs.args }}
+
+      - name: Commit feed.json
+        run: |
+          git config user.name "AZA Feed Bot"
+          git config user.email "bot@azafashions.com"
+          git add feed.json index.html
+          git diff --staged --quiet || git commit -m "chore: refresh feed $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
