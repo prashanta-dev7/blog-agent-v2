@@ -1098,11 +1098,16 @@ async function downloadDocx() {
 
     // Build complete HTML document with styling and metadata
     const keywords = (currentBrief.seo_keywords || []).join(', ');
-    const flagsHtml = (currentReview.factual_flags && currentReview.factual_flags.length > 0) ?
-      '<br><strong>Factual Flags:</strong><br>' + currentReview.factual_flags.map(function(f) {
-        const flagText = typeof f === 'string' ? f : (f.text || f.issue || JSON.stringify(f));
-        return '• ' + escapeHtml(flagText);
-      }).join('<br>') : '';
+    let flagsHtml = '';
+    if (currentReview.factual_flags && currentReview.factual_flags.length > 0) {
+      flagsHtml = '<br><strong>Factual Flags:</strong><br>';
+      for (let i = 0; i < currentReview.factual_flags.length; i++) {
+        const flag = currentReview.factual_flags[i];
+        const flagText = typeof flag === 'string' ? flag : (flag.text || flag.issue || JSON.stringify(flag));
+        flagsHtml += '• ' + escapeHtml(flagText);
+        if (i < currentReview.factual_flags.length - 1) flagsHtml += '<br>';
+      }
+    }
 
     const htmlDoc = '<!DOCTYPE html><html><head><meta charset="UTF-8"><style>' +
       'body { font-family: Calibri, sans-serif; line-height: 1.5; }' +
