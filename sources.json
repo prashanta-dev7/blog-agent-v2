@@ -1,0 +1,550 @@
+{
+  "websites": [
+    {
+      "name": "AZA Blog",
+      "type": "website",
+      "url": "https://www.azafashions.com",
+      "tier": "owned",
+      "category": "Bridal & Wedding",
+      "articlesCount": 10
+    },
+    {
+      "name": "Fashion Gone Rogue",
+      "type": "website",
+      "url": "https://www.fashiongonerogue.com",
+      "tier": "industry",
+      "category": "Designer Spotlight",
+      "articlesCount": 9
+    },
+    {
+      "name": "FashionBeans",
+      "type": "website",
+      "url": "https://www.fashionbeans.com",
+      "tier": "industry",
+      "category": "Fashion & Style",
+      "articlesCount": 25
+    },
+    {
+      "name": "Fashionista",
+      "type": "website",
+      "url": "https://fashionista.com",
+      "tier": "industry",
+      "category": "Designer Spotlight",
+      "articlesCount": 40
+    },
+    {
+      "name": "Harper's Bazaar",
+      "type": "website",
+      "url": "https://www.harpersbazaar.com",
+      "tier": "industry",
+      "category": "Designer Spotlight",
+      "articlesCount": 40
+    },
+    {
+      "name": "Indian Cloth Store",
+      "type": "website",
+      "url": "https://www.indianclothstore.com",
+      "tier": "competitor",
+      "category": "Trend Alert",
+      "articlesCount": 2
+    },
+    {
+      "name": "Kalki Fashion Blog",
+      "type": "website",
+      "url": "https://blog.kalkifashion.com",
+      "tier": "competitor",
+      "category": "Celebrity Style",
+      "articlesCount": 10
+    },
+    {
+      "name": "Torani",
+      "type": "website",
+      "url": "https://www.torani.in",
+      "tier": "competitor",
+      "category": "Bridal & Wedding",
+      "articlesCount": 6
+    },
+    {
+      "name": "Vogue US",
+      "type": "website",
+      "url": "https://www.vogue.com",
+      "tier": "industry",
+      "category": "Trend Alert",
+      "articlesCount": 30
+    },
+    {
+      "name": "Who What Wear",
+      "type": "website",
+      "url": "https://www.whowhatwear.com",
+      "tier": "industry",
+      "category": "Trend Alert",
+      "articlesCount": 39
+    }
+  ],
+  "instagram": [
+    {
+      "handle": "a2z_fashionmag",
+      "type": "instagram",
+      "url": "https://instagram.com/a2z_fashionmag",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "anothermagazine",
+      "type": "instagram",
+      "url": "https://instagram.com/anothermagazine",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "bazaaraustralia",
+      "type": "instagram",
+      "url": "https://instagram.com/bazaaraustralia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "bazaarindia",
+      "type": "instagram",
+      "url": "https://instagram.com/bazaarindia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "bof",
+      "type": "instagram",
+      "url": "https://instagram.com/bof",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "bollywoodwomencloset",
+      "type": "instagram",
+      "url": "https://instagram.com/bollywoodwomencloset",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "bridestodayin",
+      "type": "instagram",
+      "url": "https://instagram.com/bridestodayin",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "brownfashiongal",
+      "type": "instagram",
+      "url": "https://instagram.com/brownfashiongal",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "checkthetag",
+      "type": "instagram",
+      "url": "https://instagram.com/checkthetag",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "cnnstyle",
+      "type": "instagram",
+      "url": "https://instagram.com/cnnstyle",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "coveteur",
+      "type": "instagram",
+      "url": "https://instagram.com/coveteur",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "cultmag",
+      "type": "instagram",
+      "url": "https://instagram.com/cultmag",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "dazed",
+      "type": "instagram",
+      "url": "https://instagram.com/dazed",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "diamond_world_magazine",
+      "type": "instagram",
+      "url": "https://instagram.com/diamond_world_magazine",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "diet_prada",
+      "type": "instagram",
+      "url": "https://instagram.com/diet_prada",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "dietsabya",
+      "type": "instagram",
+      "url": "https://instagram.com/dietsabya",
+      "category": "",
+      "postsCount": 5
+    },
+    {
+      "handle": "elleindia",
+      "type": "instagram",
+      "url": "https://instagram.com/elleindia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "elleusa",
+      "type": "instagram",
+      "url": "https://instagram.com/elleusa",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "esquireindia",
+      "type": "instagram",
+      "url": "https://instagram.com/esquireindia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "fashionispsychology",
+      "type": "instagram",
+      "url": "https://instagram.com/fashionispsychology",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "fashionlawjournal",
+      "type": "instagram",
+      "url": "https://instagram.com/fashionlawjournal",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "feminaindia",
+      "type": "instagram",
+      "url": "https://instagram.com/feminaindia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "goodonyou_app",
+      "type": "instagram",
+      "url": "https://instagram.com/goodonyou_app",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "gqindia",
+      "type": "instagram",
+      "url": "https://instagram.com/gqindia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "graziauk",
+      "type": "instagram",
+      "url": "https://instagram.com/graziauk",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "harpersbazaarus",
+      "type": "instagram",
+      "url": "https://instagram.com/harpersbazaarus",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "hellomag",
+      "type": "instagram",
+      "url": "https://instagram.com/hellomag",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "highsnobietystyle",
+      "type": "instagram",
+      "url": "https://instagram.com/highsnobietystyle",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "houseofsartorial",
+      "type": "instagram",
+      "url": "https://instagram.com/houseofsartorial",
+      "category": "",
+      "postsCount": 2
+    },
+    {
+      "handle": "hypebae",
+      "type": "instagram",
+      "url": "https://instagram.com/hypebae",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "hypebeast",
+      "type": "instagram",
+      "url": "https://instagram.com/hypebeast",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "idivaofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/idivaofficial",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "instylemagazine",
+      "type": "instagram",
+      "url": "https://instagram.com/instylemagazine",
+      "category": "",
+      "postsCount": 4
+    },
+    {
+      "handle": "lifestyleasiaindia",
+      "type": "instagram",
+      "url": "https://instagram.com/lifestyleasiaindia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "lofficielitalia",
+      "type": "instagram",
+      "url": "https://instagram.com/lofficielitalia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "lofficielusa",
+      "type": "instagram",
+      "url": "https://instagram.com/lofficielusa",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "luxuriousbymm",
+      "type": "instagram",
+      "url": "https://instagram.com/luxuriousbymm",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "manifest.ind",
+      "type": "instagram",
+      "url": "https://instagram.com/manifest.ind",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "nytstyle",
+      "type": "instagram",
+      "url": "https://instagram.com/nytstyle",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "opulentstylings",
+      "type": "instagram",
+      "url": "https://instagram.com/opulentstylings",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "outlandermagazine",
+      "type": "instagram",
+      "url": "https://instagram.com/outlandermagazine",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "shethepeoplenews",
+      "type": "instagram",
+      "url": "https://instagram.com/shethepeoplenews",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "spreeh.in",
+      "type": "instagram",
+      "url": "https://instagram.com/spreeh.in",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "stylecartel",
+      "type": "instagram",
+      "url": "https://instagram.com/stylecartel",
+      "category": "",
+      "postsCount": 2
+    },
+    {
+      "handle": "stylistelixir",
+      "type": "instagram",
+      "url": "https://instagram.com/stylistelixir",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "the.estd",
+      "type": "instagram",
+      "url": "https://instagram.com/the.estd",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "thecitizensposte",
+      "type": "instagram",
+      "url": "https://instagram.com/thecitizensposte",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "thefashionobserve",
+      "type": "instagram",
+      "url": "https://instagram.com/thefashionobserve",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "thenodmag",
+      "type": "instagram",
+      "url": "https://instagram.com/thenodmag",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "thevofashion",
+      "type": "instagram",
+      "url": "https://instagram.com/thevofashion",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "veronicatuckerthelabel",
+      "type": "instagram",
+      "url": "https://instagram.com/veronicatuckerthelabel",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "vogue.adria",
+      "type": "instagram",
+      "url": "https://instagram.com/vogue.adria",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "voguebeauty",
+      "type": "instagram",
+      "url": "https://instagram.com/voguebeauty",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "voguebusiness",
+      "type": "instagram",
+      "url": "https://instagram.com/voguebusiness",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "vogueindia",
+      "type": "instagram",
+      "url": "https://instagram.com/vogueindia",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "voguemagazine",
+      "type": "instagram",
+      "url": "https://instagram.com/voguemagazine",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "voguerunway",
+      "type": "instagram",
+      "url": "https://instagram.com/voguerunway",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "vogueshopping",
+      "type": "instagram",
+      "url": "https://instagram.com/vogueshopping",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "voguesingapore",
+      "type": "instagram",
+      "url": "https://instagram.com/voguesingapore",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "weddingaffairofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/weddingaffairofficial",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "weddingvows.in",
+      "type": "instagram",
+      "url": "https://instagram.com/weddingvows.in",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "who_wore_what_when",
+      "type": "instagram",
+      "url": "https://instagram.com/who_wore_what_when",
+      "category": "",
+      "postsCount": 5
+    },
+    {
+      "handle": "whowhatwear",
+      "type": "instagram",
+      "url": "https://instagram.com/whowhatwear",
+      "category": "",
+      "postsCount": 6
+    },
+    {
+      "handle": "womenculture.co",
+      "type": "instagram",
+      "url": "https://instagram.com/womenculture.co",
+      "category": "",
+      "postsCount": 2
+    },
+    {
+      "handle": "wwd",
+      "type": "instagram",
+      "url": "https://instagram.com/wwd",
+      "category": "",
+      "postsCount": 6
+    }
+  ],
+  "metadata": {
+    "totalWebsites": 10,
+    "totalInstagramAccounts": 65,
+    "lastUpdated": "2026-07-13T11:16:06.258Z",
+    "generatedFrom": [
+      "feed.json",
+      "ig_posts.json"
+    ]
+  }
+}
