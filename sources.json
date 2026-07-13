@@ -79,6 +79,78 @@
       "tier": "industry",
       "category": "Trend Alert",
       "articlesCount": 39
+    },
+    {
+      "name": "The Voice of Fashion",
+      "type": "website",
+      "url": "https://www.thevoiceoffashion.com",
+      "tier": "industry",
+      "category": "Indian Fashion Editorial",
+      "articlesCount": 10
+    },
+    {
+      "name": "Verve Magazine",
+      "type": "website",
+      "url": "https://www.vervemagazine.in",
+      "tier": "industry",
+      "category": "Indian Fashion Editorial",
+      "articlesCount": 10
+    },
+    {
+      "name": "Border and Fall",
+      "type": "website",
+      "url": "https://borderandfall.com",
+      "tier": "industry",
+      "category": "Craft & Textile",
+      "articlesCount": 10
+    },
+    {
+      "name": "Gaatha",
+      "type": "website",
+      "url": "https://gaatha.org",
+      "tier": "industry",
+      "category": "Craft & Textile",
+      "articlesCount": 10
+    },
+    {
+      "name": "Pinkvilla Fashion",
+      "type": "website",
+      "url": "https://www.pinkvilla.com/fashion",
+      "tier": "industry",
+      "category": "Celebrity Style",
+      "articlesCount": 10
+    },
+    {
+      "name": "Vogue India",
+      "type": "website",
+      "url": "https://www.vogue.in",
+      "tier": "industry",
+      "category": "Indian Fashion Editorial",
+      "articlesCount": 10
+    },
+    {
+      "name": "Elle India",
+      "type": "website",
+      "url": "https://www.elle.in",
+      "tier": "industry",
+      "category": "Indian Fashion Editorial",
+      "articlesCount": 10
+    },
+    {
+      "name": "Grazia India",
+      "type": "website",
+      "url": "https://www.grazia.co.in",
+      "tier": "industry",
+      "category": "Trend Alert",
+      "articlesCount": 10
+    },
+    {
+      "name": "Apparel Resources India",
+      "type": "website",
+      "url": "https://in.apparelresources.com",
+      "tier": "industry",
+      "category": "Fashion Business",
+      "articlesCount": 10
     }
   ],
   "instagram": [
@@ -86,462 +158,686 @@
       "handle": "a2z_fashionmag",
       "type": "instagram",
       "url": "https://instagram.com/a2z_fashionmag",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "anothermagazine",
       "type": "instagram",
       "url": "https://instagram.com/anothermagazine",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "bazaaraustralia",
       "type": "instagram",
       "url": "https://instagram.com/bazaaraustralia",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "bazaarindia",
       "type": "instagram",
       "url": "https://instagram.com/bazaarindia",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "bof",
       "type": "instagram",
       "url": "https://instagram.com/bof",
-      "category": "",
+      "category": "Fashion Business",
       "postsCount": 6
     },
     {
       "handle": "bollywoodwomencloset",
       "type": "instagram",
       "url": "https://instagram.com/bollywoodwomencloset",
-      "category": "",
+      "category": "Celebrity Style",
       "postsCount": 6
     },
     {
       "handle": "bridestodayin",
       "type": "instagram",
       "url": "https://instagram.com/bridestodayin",
-      "category": "",
+      "category": "Bridal & Wedding",
       "postsCount": 6
     },
     {
       "handle": "brownfashiongal",
       "type": "instagram",
       "url": "https://instagram.com/brownfashiongal",
-      "category": "",
+      "category": "South Asian Fashion",
       "postsCount": 6
     },
     {
       "handle": "checkthetag",
       "type": "instagram",
       "url": "https://instagram.com/checkthetag",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 6
     },
     {
       "handle": "cnnstyle",
       "type": "instagram",
       "url": "https://instagram.com/cnnstyle",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "coveteur",
       "type": "instagram",
       "url": "https://instagram.com/coveteur",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 6
     },
     {
       "handle": "cultmag",
       "type": "instagram",
       "url": "https://instagram.com/cultmag",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "dazed",
       "type": "instagram",
       "url": "https://instagram.com/dazed",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "diamond_world_magazine",
       "type": "instagram",
       "url": "https://instagram.com/diamond_world_magazine",
-      "category": "",
+      "category": "Jewellery & Accessories",
       "postsCount": 6
     },
     {
       "handle": "diet_prada",
       "type": "instagram",
       "url": "https://instagram.com/diet_prada",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "dietsabya",
       "type": "instagram",
       "url": "https://instagram.com/dietsabya",
-      "category": "",
+      "category": "Indian Designer",
       "postsCount": 5
     },
     {
       "handle": "elleindia",
       "type": "instagram",
       "url": "https://instagram.com/elleindia",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "elleusa",
       "type": "instagram",
       "url": "https://instagram.com/elleusa",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "esquireindia",
       "type": "instagram",
       "url": "https://instagram.com/esquireindia",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "fashionispsychology",
       "type": "instagram",
       "url": "https://instagram.com/fashionispsychology",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 6
     },
     {
       "handle": "fashionlawjournal",
       "type": "instagram",
       "url": "https://instagram.com/fashionlawjournal",
-      "category": "",
+      "category": "Fashion Business",
       "postsCount": 6
     },
     {
       "handle": "feminaindia",
       "type": "instagram",
       "url": "https://instagram.com/feminaindia",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "goodonyou_app",
       "type": "instagram",
       "url": "https://instagram.com/goodonyou_app",
-      "category": "",
+      "category": "Sustainable Fashion",
       "postsCount": 6
     },
     {
       "handle": "gqindia",
       "type": "instagram",
       "url": "https://instagram.com/gqindia",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "graziauk",
       "type": "instagram",
       "url": "https://instagram.com/graziauk",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "harpersbazaarus",
       "type": "instagram",
       "url": "https://instagram.com/harpersbazaarus",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "hellomag",
       "type": "instagram",
       "url": "https://instagram.com/hellomag",
-      "category": "",
+      "category": "Celebrity Style",
       "postsCount": 6
     },
     {
       "handle": "highsnobietystyle",
       "type": "instagram",
       "url": "https://instagram.com/highsnobietystyle",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "houseofsartorial",
       "type": "instagram",
       "url": "https://instagram.com/houseofsartorial",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 2
     },
     {
       "handle": "hypebae",
       "type": "instagram",
       "url": "https://instagram.com/hypebae",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "hypebeast",
       "type": "instagram",
       "url": "https://instagram.com/hypebeast",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "idivaofficial",
       "type": "instagram",
       "url": "https://instagram.com/idivaofficial",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "instylemagazine",
       "type": "instagram",
       "url": "https://instagram.com/instylemagazine",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 4
     },
     {
       "handle": "lifestyleasiaindia",
       "type": "instagram",
       "url": "https://instagram.com/lifestyleasiaindia",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "lofficielitalia",
       "type": "instagram",
       "url": "https://instagram.com/lofficielitalia",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "lofficielusa",
       "type": "instagram",
       "url": "https://instagram.com/lofficielusa",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "luxuriousbymm",
       "type": "instagram",
       "url": "https://instagram.com/luxuriousbymm",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 6
     },
     {
       "handle": "manifest.ind",
       "type": "instagram",
       "url": "https://instagram.com/manifest.ind",
-      "category": "",
+      "category": "Indian Designer",
       "postsCount": 6
     },
     {
       "handle": "nytstyle",
       "type": "instagram",
       "url": "https://instagram.com/nytstyle",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "opulentstylings",
       "type": "instagram",
       "url": "https://instagram.com/opulentstylings",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 6
     },
     {
       "handle": "outlandermagazine",
       "type": "instagram",
       "url": "https://instagram.com/outlandermagazine",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "shethepeoplenews",
       "type": "instagram",
       "url": "https://instagram.com/shethepeoplenews",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "spreeh.in",
       "type": "instagram",
       "url": "https://instagram.com/spreeh.in",
-      "category": "",
+      "category": "Indian Designer",
       "postsCount": 6
     },
     {
       "handle": "stylecartel",
       "type": "instagram",
       "url": "https://instagram.com/stylecartel",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 2
     },
     {
       "handle": "stylistelixir",
       "type": "instagram",
       "url": "https://instagram.com/stylistelixir",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 6
     },
     {
       "handle": "the.estd",
       "type": "instagram",
       "url": "https://instagram.com/the.estd",
-      "category": "",
+      "category": "Indian Designer",
       "postsCount": 6
     },
     {
       "handle": "thecitizensposte",
       "type": "instagram",
       "url": "https://instagram.com/thecitizensposte",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "thefashionobserve",
       "type": "instagram",
       "url": "https://instagram.com/thefashionobserve",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 6
     },
     {
       "handle": "thenodmag",
       "type": "instagram",
       "url": "https://instagram.com/thenodmag",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "thevofashion",
       "type": "instagram",
       "url": "https://instagram.com/thevofashion",
-      "category": "",
+      "category": "Indian Fashion Editorial",
       "postsCount": 6
     },
     {
       "handle": "veronicatuckerthelabel",
       "type": "instagram",
       "url": "https://instagram.com/veronicatuckerthelabel",
-      "category": "",
+      "category": "Indian Designer",
       "postsCount": 6
     },
     {
       "handle": "vogue.adria",
       "type": "instagram",
       "url": "https://instagram.com/vogue.adria",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "voguebeauty",
       "type": "instagram",
       "url": "https://instagram.com/voguebeauty",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "voguebusiness",
       "type": "instagram",
       "url": "https://instagram.com/voguebusiness",
-      "category": "",
+      "category": "Fashion Business",
       "postsCount": 6
     },
     {
       "handle": "vogueindia",
       "type": "instagram",
       "url": "https://instagram.com/vogueindia",
-      "category": "",
+      "category": "Indian Fashion Editorial",
       "postsCount": 6
     },
     {
       "handle": "voguemagazine",
       "type": "instagram",
       "url": "https://instagram.com/voguemagazine",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "voguerunway",
       "type": "instagram",
       "url": "https://instagram.com/voguerunway",
-      "category": "",
+      "category": "Fashion Week & Runway",
       "postsCount": 6
     },
     {
       "handle": "vogueshopping",
       "type": "instagram",
       "url": "https://instagram.com/vogueshopping",
-      "category": "",
+      "category": "Styling & Editorial",
       "postsCount": 6
     },
     {
       "handle": "voguesingapore",
       "type": "instagram",
       "url": "https://instagram.com/voguesingapore",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 6
     },
     {
       "handle": "weddingaffairofficial",
       "type": "instagram",
       "url": "https://instagram.com/weddingaffairofficial",
-      "category": "",
+      "category": "Bridal & Wedding",
       "postsCount": 6
     },
     {
       "handle": "weddingvows.in",
       "type": "instagram",
       "url": "https://instagram.com/weddingvows.in",
-      "category": "",
+      "category": "Bridal & Wedding",
       "postsCount": 6
     },
     {
       "handle": "who_wore_what_when",
       "type": "instagram",
       "url": "https://instagram.com/who_wore_what_when",
-      "category": "",
+      "category": "Celebrity Style",
       "postsCount": 5
     },
     {
       "handle": "whowhatwear",
       "type": "instagram",
       "url": "https://instagram.com/whowhatwear",
-      "category": "",
+      "category": "Trend Alert",
       "postsCount": 6
     },
     {
       "handle": "womenculture.co",
       "type": "instagram",
       "url": "https://instagram.com/womenculture.co",
-      "category": "",
+      "category": "Fashion Media",
       "postsCount": 2
     },
     {
       "handle": "wwd",
       "type": "instagram",
       "url": "https://instagram.com/wwd",
-      "category": "",
+      "category": "Fashion Business",
+      "postsCount": 6
+    },
+    {
+      "handle": "sabyasachiofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/sabyasachiofficial",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "anitadongre",
+      "type": "instagram",
+      "url": "https://instagram.com/anitadongre",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "raw_mango",
+      "type": "instagram",
+      "url": "https://instagram.com/raw_mango",
+      "category": "Regional Craft",
+      "postsCount": 6
+    },
+    {
+      "handle": "toraniofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/toraniofficial",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "rahulmishra_7",
+      "type": "instagram",
+      "url": "https://instagram.com/rahulmishra_7",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "gauravguptaofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/gauravguptaofficial",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "houseofmasaba",
+      "type": "instagram",
+      "url": "https://instagram.com/houseofmasaba",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "papadontpreachbyshubhika",
+      "type": "instagram",
+      "url": "https://instagram.com/papadontpreachbyshubhika",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "amitaggarwalofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/amitaggarwalofficial",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "anamikakhanna.in",
+      "type": "instagram",
+      "url": "https://instagram.com/anamikakhanna.in",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "taruntahiliani",
+      "type": "instagram",
+      "url": "https://instagram.com/taruntahiliani",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "abujanisandeepkhosla",
+      "type": "instagram",
+      "url": "https://instagram.com/abujanisandeepkhosla",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "ridhimehraofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/ridhimehraofficial",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "arpitamehtaofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/arpitamehtaofficial",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "payalsinghal",
+      "type": "instagram",
+      "url": "https://instagram.com/payalsinghal",
+      "category": "Indian Designer",
+      "postsCount": 6
+    },
+    {
+      "handle": "ekayabanaras",
+      "type": "instagram",
+      "url": "https://instagram.com/ekayabanaras",
+      "category": "Regional Craft",
+      "postsCount": 6
+    },
+    {
+      "handle": "angadioninsta",
+      "type": "instagram",
+      "url": "https://instagram.com/angadioninsta",
+      "category": "Regional Craft",
+      "postsCount": 6
+    },
+    {
+      "handle": "gaurangofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/gaurangofficial",
+      "category": "Regional Craft",
+      "postsCount": 6
+    },
+    {
+      "handle": "suta_bombay",
+      "type": "instagram",
+      "url": "https://instagram.com/suta_bombay",
+      "category": "Sustainable Fashion",
+      "postsCount": 6
+    },
+    {
+      "handle": "anavila_m",
+      "type": "instagram",
+      "url": "https://instagram.com/anavila_m",
+      "category": "Sustainable Fashion",
+      "postsCount": 6
+    },
+    {
+      "handle": "the_art_of_dhaga",
+      "type": "instagram",
+      "url": "https://instagram.com/the_art_of_dhaga",
+      "category": "Regional Craft",
+      "postsCount": 6
+    },
+    {
+      "handle": "elysians_ajrakh",
+      "type": "instagram",
+      "url": "https://instagram.com/elysians_ajrakh",
+      "category": "Regional Craft",
+      "postsCount": 6
+    },
+    {
+      "handle": "borderandfall",
+      "type": "instagram",
+      "url": "https://instagram.com/borderandfall",
+      "category": "Craft & Textile",
+      "postsCount": 6
+    },
+    {
+      "handle": "storiesbyjosephradhik",
+      "type": "instagram",
+      "url": "https://instagram.com/storiesbyjosephradhik",
+      "category": "Bridal & Wedding",
+      "postsCount": 6
+    },
+    {
+      "handle": "wedmegood",
+      "type": "instagram",
+      "url": "https://instagram.com/wedmegood",
+      "category": "Bridal & Wedding",
+      "postsCount": 6
+    },
+    {
+      "handle": "shaadiwish",
+      "type": "instagram",
+      "url": "https://instagram.com/shaadiwish",
+      "category": "Bridal & Wedding",
+      "postsCount": 6
+    },
+    {
+      "handle": "stylebyami",
+      "type": "instagram",
+      "url": "https://instagram.com/stylebyami",
+      "category": "Celebrity Style",
+      "postsCount": 6
+    },
+    {
+      "handle": "tanghavri",
+      "type": "instagram",
+      "url": "https://instagram.com/tanghavri",
+      "category": "Celebrity Style",
+      "postsCount": 6
+    },
+    {
+      "handle": "lakmefashionwk",
+      "type": "instagram",
+      "url": "https://instagram.com/lakmefashionwk",
+      "category": "Fashion Week & Runway",
+      "postsCount": 6
+    },
+    {
+      "handle": "fdciofficial",
+      "type": "instagram",
+      "url": "https://instagram.com/fdciofficial",
+      "category": "Fashion Week & Runway",
+      "postsCount": 6
+    },
+    {
+      "handle": "perniaspopupshop",
+      "type": "instagram",
+      "url": "https://instagram.com/perniaspopupshop",
+      "category": "Indian Fashion Editorial",
+      "postsCount": 6
+    },
+    {
+      "handle": "brownhistory",
+      "type": "instagram",
+      "url": "https://instagram.com/brownhistory",
+      "category": "South Asian Fashion",
       "postsCount": 6
     }
   ],
   "metadata": {
-    "totalWebsites": 10,
-    "totalInstagramAccounts": 65,
-    "lastUpdated": "2026-07-13T11:16:06.258Z",
+    "totalWebsites": 19,
+    "totalInstagramAccounts": 98,
+    "lastUpdated": "2026-07-13T00:00:00.000Z",
     "generatedFrom": [
       "feed.json",
       "ig_posts.json"

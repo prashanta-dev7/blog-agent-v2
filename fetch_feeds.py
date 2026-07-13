@@ -68,6 +68,12 @@ SOURCES = [
     {"name":"The Sartorialist","tier":"industry","pages":["https://www.thesartorialist.com"],"feeds":["https://www.thesartorialist.com/feed"]},
     {"name":"FashionBeans","tier":"industry","pages":["https://www.fashionbeans.com"],"feeds":["https://www.fashionbeans.com/feed"]},
     {"name":"Fashion Gone Rogue","tier":"industry","pages":["https://www.fashiongonerogue.com"],"feeds":["https://www.fashiongonerogue.com/feed"]},
+    {"name":"The Voice of Fashion","tier":"industry","pages":["https://www.thevoiceoffashion.com"],"feeds":[]},
+    {"name":"Verve Magazine","tier":"industry","pages":["https://www.vervemagazine.in"],"feeds":[]},
+    {"name":"Border and Fall","tier":"industry","pages":["https://borderandfall.com"],"feeds":[]},
+    {"name":"Gaatha","tier":"industry","pages":["https://gaatha.org"],"feeds":["https://gaatha.org/feed/"]},
+    {"name":"Pinkvilla Fashion","tier":"industry","pages":["https://www.pinkvilla.com/fashion"],"feeds":[]},
+    {"name":"Apparel Resources India","tier":"industry","pages":["https://in.apparelresources.com"],"feeds":["https://in.apparelresources.com/feed/"]},
 ]
 
 FASHION_KEYWORDS = [

@@ -42,6 +42,21 @@ ACCOUNTS = [
     "vogueshopping", "voguesingapore", "weddingaffairofficial",
     "weddingvows.in", "who_wore_what_when", "whowhatwear", "womenculture.co",
     "wwd",
+    # Indian designers
+    "sabyasachiofficial", "anitadongre", "raw_mango", "toraniofficial",
+    "rahulmishra_7", "gauravguptaofficial", "houseofmasaba",
+    "papadontpreachbyshubhika", "amitaggarwalofficial", "anamikakhanna.in",
+    "taruntahiliani", "abujanisandeepkhosla", "ridhimehraofficial",
+    "arpitamehtaofficial", "payalsinghal",
+    # Regional craft & textile
+    "ekayabanaras", "angadioninsta", "gaurangofficial", "suta_bombay",
+    "anavila_m", "the_art_of_dhaga", "elysians_ajrakh", "borderandfall",
+    # Bridal & wedding
+    "storiesbyjosephradhik", "wedmegood", "shaadiwish",
+    # Celebrity style
+    "stylebyami", "tanghavri",
+    # Fashion week & industry
+    "lakmefashionwk", "fdciofficial", "perniaspopupshop", "brownhistory",
 ]
 
 POSTS_PER_ACCOUNT = 6
