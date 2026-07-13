@@ -1084,72 +1084,7 @@ function escapeHtml(text) {
 }
 
 async function downloadDocx() {
-  if (!currentCorrectedDraft || !currentBrief || !currentReview) {
-    alert('Missing draft or review data');
-    return;
-  }
-
-  try {
-    // Get the edited draft from the preview div
-    const editedDraft = document.getElementById('preview-text').textContent || currentCorrectedDraft;
-
-    // Convert markdown to HTML using marked (same as WordPress publish)
-    const htmlContent = marked.parse(editedDraft);
-
-    // Build complete HTML document with styling and metadata
-    const keywords = (currentBrief.seo_keywords || []).join(', ');
-    let flagsHtml = '';
-    if (currentReview.factual_flags && currentReview.factual_flags.length > 0) {
-      flagsHtml = '<br><strong>Factual Flags:</strong><br>';
-      for (let i = 0; i < currentReview.factual_flags.length; i++) {
-        const flag = currentReview.factual_flags[i];
-        const flagText = typeof flag === 'string' ? flag : (flag.text || flag.issue || JSON.stringify(flag));
-        flagsHtml += '• ' + escapeHtml(flagText);
-        if (i < currentReview.factual_flags.length - 1) flagsHtml += '<br>';
-      }
-    }
-
-    let htmlDoc = '<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<style>\n';
-    htmlDoc += 'body { font-family: Calibri, sans-serif; line-height: 1.5; }\n';
-    htmlDoc += 'h1 { font-size: 24pt; margin-bottom: 12pt; }\n';
-    htmlDoc += 'h2 { font-size: 14pt; margin-top: 12pt; margin-bottom: 6pt; }\n';
-    htmlDoc += 'p { font-size: 12pt; margin-bottom: 12pt; }\n';
-    htmlDoc += '.meta { font-size: 10pt; color: #666; font-style: italic; margin-bottom: 12pt; border-bottom: 1pt solid #ccc; padding-bottom: 12pt; }\n';
-    htmlDoc += '.review { font-size: 10pt; color: #666; font-style: italic; margin-top: 12pt; border-top: 1pt solid #ccc; padding-top: 12pt; }\n';
-    htmlDoc += '</style>\n</head>\n<body>\n';
-    htmlDoc += '<h1>' + escapeHtml(currentBrief.title) + '</h1>\n';
-    htmlDoc += '<div class="meta">Slug: ' + escapeHtml(currentBrief.slug) + ' | Keywords: ' + escapeHtml(keywords) + ' | ' + escapeHtml(currentBrief.meta_description) + '</div>\n';
-    htmlDoc += htmlContent;
-    htmlDoc += '<div class="review">\n';
-    htmlDoc += '<strong>Brand Voice Score:</strong> ' + currentReview.brand_voice_score + '/10 - ' + escapeHtml(currentReview.brand_voice_rationale) + '\n';
-    htmlDoc += flagsHtml + '\n';
-    htmlDoc += '</div>\n</body>\n</html>';
-
-    // Generate DOCX using html-docx-js
-    if (typeof window.htmlDocx === 'undefined') {
-      throw new Error('html-docx-js library not loaded');
-    }
-
-    const date = new Date().toISOString().slice(0, 10);
-    const filename = `blog-${date}-${currentBrief.slug}.docx`;
-
-    window.htmlDocx.asBlob(htmlDoc).then(function(blob) {
-      const url = window.URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = filename;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      window.URL.revokeObjectURL(url);
-      console.log('DOCX downloaded:', filename);
-    }).catch(function(e) {
-      throw new Error('Failed to generate DOCX: ' + (e.message || JSON.stringify(e)));
-    });
-  } catch (e) {
-    console.error('Download error:', e);
-    alert('Error generating docx: ' + (e.message || JSON.stringify(e)) + '\n\nCheck console (F12) for details.');
-  }
+  alert('DOCX download not yet implemented');
 }
 
 function regenerate() {
