@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AZA — Content Intelligence Desk</title>
+<title>Samyukta — Content Intelligence Desk</title>
 <style>
 :root {
   --font-display:'Cormorant Garamond',Georgia,serif;
@@ -135,6 +135,27 @@ a{color:inherit}
 .handle{display:flex;justify-content:space-between;gap:var(--space-3);padding:var(--space-3) 0;border-top:1px solid var(--color-divider)}.handle:first-of-type{border-top:none;padding-top:0}.handle span:last-child{font-size:var(--text-xs);color:var(--color-text-faint)}
 @media(max-width:860px){.coming-grid{grid-template-columns:1fr}.mini-cards{grid-template-columns:1fr}.panel-intro{flex-direction:column;align-items:flex-start}.kw-grid{grid-template-columns:1fr}}
 @media(max-width:640px){.topbar{padding:var(--space-3) var(--space-4)}.logo-sub{display:none}.page{padding:var(--space-4)}}
+
+/* ── Settings Modal ── */
+.settings-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.4);z-index:200;align-items:center;justify-content:center}
+.settings-overlay.active{display:flex}
+.settings-panel{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-4);max-width:400px;width:90%;box-shadow:var(--shadow-lg);max-height:85vh;display:flex;flex-direction:column;overflow-y:auto}
+.settings-panel h2{font-family:var(--font-display);font-size:var(--text-base);margin-bottom:var(--space-3);color:var(--color-text)}
+.settings-panel label{display:block;font-size:var(--text-xs);font-weight:600;color:var(--color-text-muted);letter-spacing:.05em;text-transform:uppercase;margin-bottom:var(--space-1)}
+.settings-panel input[type="password"],.settings-panel input[type="text"],.settings-panel input[type="url"]{width:100%;padding:var(--space-2) var(--space-3);border:1px solid var(--color-border);border-radius:var(--radius-md);background:var(--color-surface-2);color:var(--color-text);font-size:var(--text-sm);margin-bottom:var(--space-3);font-family:inherit}
+.settings-panel input:focus{outline:none;border-color:var(--color-primary)}
+.settings-section{margin-bottom:var(--space-4);padding-bottom:var(--space-4);border-bottom:1px solid var(--color-divider)}
+.settings-section:last-of-type{border-bottom:none;margin-bottom:var(--space-2);padding-bottom:0}
+.settings-section h3{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.05em;text-transform:uppercase;margin-bottom:var(--space-2)}
+.settings-panel-buttons{display:flex;gap:var(--space-3);justify-content:flex-end;margin-top:auto;padding-top:var(--space-4);border-top:1px solid var(--color-divider)}
+.settings-panel button{padding:var(--space-2) var(--space-4);border-radius:var(--radius-md);font-size:var(--text-xs);font-weight:600;text-transform:uppercase;border:1px solid transparent;cursor:pointer}
+.settings-panel .btn-close{background:transparent;color:var(--color-text-muted);border-color:var(--color-border)}
+.settings-panel .btn-close:hover{background:var(--color-surface-offset);color:var(--color-text)}
+.settings-panel .btn-save{background:var(--color-primary);color:var(--color-text-inverse);border-color:var(--color-primary)}
+.settings-panel .btn-save:hover{background:var(--color-primary-hover)}
+.settings-status{font-size:var(--text-xs);color:var(--color-text-muted);margin-bottom:var(--space-4);text-align:center}
+.settings-status.success{color:var(--color-rising)}
+.settings-status.error{color:var(--color-competitor)}
 </style>
 </head>
 <body>
@@ -146,23 +167,31 @@ a{color:inherit}
       <path d="M7 21L11.5 8H16.5L21 21H18L16.8 17.5H11.2L10 21H7Z" fill="var(--color-text-inverse)"/>
       <path d="M12 15L14 9.5L16 15H12Z" fill="var(--color-primary)"/>
     </svg>
-    <span class="logo-text">AZA</span>
+    <span class="logo-text">Samyukta</span>
     <span class="logo-sub">Content Intelligence Desk</span>
   </div>
   <div class="spacer"></div>
   <span class="meta" id="last-updated">Loading…</span>
-  <input id="oai-key" type="password" placeholder="Paste Gemini API key here"
-  style="font-size:var(--text-xs);padding:var(--space-1) var(--space-3);
-  border:1px solid var(--color-border);border-radius:var(--radius-full);
-  background:var(--color-surface);color:var(--color-text);width:180px"
-  oninput="window._oaiKey=this.value">
   <div class="actions">
+    <button class="btn-icon" id="btn-settings" onclick="openSettings()" aria-label="Settings">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 1v6m0 6v6M4.22 4.22l4.24 4.24m5.08 5.08l4.24 4.24M1 12h6m6 0h6M4.22 19.78l4.24-4.24m5.08-5.08l4.24-4.24"/></svg>
+    </button>
     <button class="btn-icon" data-theme-toggle aria-label="Toggle dark mode">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
     </button>
     <button class="btn-refresh" id="btn-refresh" onclick="loadFeed()">Refresh</button>
   </div>
 </header>
+
+<div id="shortlist-bar" style="display:none;background:var(--color-primary-highlight);border-bottom:1px solid var(--color-border);padding:var(--space-3) var(--space-6);position:sticky;top:60px;z-index:99">
+  <div style="max-width:var(--content-wide);margin:0 auto;display:flex;align-items:center;gap:var(--space-4)">
+    <div style="flex:1">
+      <span style="font-size:var(--text-xs);font-weight:600;color:var(--color-text-muted);text-transform:uppercase;letter-spacing:.05em">Shortlist:</span>
+      <span style="font-size:var(--text-sm);color:var(--color-text);margin-left:var(--space-2)"><strong id="shortlist-count">0</strong> ideas selected</span>
+    </div>
+    <button class="btn-write-shortlist" id="btn-write-shortlist" disabled onclick="openWriterFromShortlist()" style="padding:var(--space-2) var(--space-5);background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-md);font-size:var(--text-xs);font-weight:600;text-transform:uppercase;cursor:pointer;opacity:0.5">Open Writer</button>
+  </div>
+</div>
 
 <main class="page">
   <div class="tabs">
@@ -306,16 +335,131 @@ a{color:inherit}
   <!-- Grid -->
   <div id="ig-grid" style="display:none;grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr));gap:var(--space-5)"></div>
   <div id="ig-empty" class="kw-empty" style="display:none"><h3>No posts match</h3><p>Try clearing your search or filter.</p></div>
-</section> 
+</section>
 </main>
+
+<!-- Settings Modal -->
+<div class="settings-overlay" id="settings-overlay" onclick="closeSettings(event)">
+  <div class="settings-panel" onclick="event.stopPropagation()">
+    <h2>API & Publishing Configuration</h2>
+    <div class="settings-status" id="settings-status"></div>
+
+    <div class="settings-section">
+      <h3>Anthropic API</h3>
+      <label for="api-key-input">API Key</label>
+      <input type="password" id="api-key-input" placeholder="sk-ant-..." oninput="validateApiKey()">
+      <div style="font-size:var(--text-xs);color:var(--color-text-muted);margin-bottom:var(--space-4)">
+        Stored in session storage only — never logged or shared.
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <h3>WordPress</h3>
+      <label for="wp-site-url">Site URL</label>
+      <input type="url" id="wp-site-url" placeholder="https://ssblog.azaonline.in" value="https://ssblog.azaonline.in">
+      <label for="wp-username">Username</label>
+      <input type="text" id="wp-username" placeholder="your-username">
+      <label for="wp-app-password">App Password</label>
+      <input type="password" id="wp-app-password" placeholder="xxxx xxxx xxxx xxxx">
+    </div>
+
+    <div class="settings-panel-buttons">
+      <button class="btn-close" onclick="closeSettings()">Cancel</button>
+      <button class="btn-save" onclick="saveSettings()">Save</button>
+    </div>
+  </div>
+</div>
 
 <!-- Google Trends Embed Loader -->
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3826_RC01/embed_loader.js"></script>
 
 <script>
-window._oaiKey = "";
-  let articles=[], trends=[], trackedKeywords=[], activeF='All', kwGeo='all', kwType='all';
+let articles=[], trends=[], trackedKeywords=[], activeF='All', kwGeo='all', kwType='all';
+let brandGuide = '', writingSkill = '';
+let shortlist = {}; // { cardId: { idea: string, sourceCard: object } }
 const AUTO_LOAD_COUNT = 10; // per geo
+
+// ── Load Brand Guides ──
+async function loadBrandGuides() {
+  try {
+    const [bgRes, wsRes] = await Promise.all([
+      fetch('./brand_guide.md'),
+      fetch('./writing_skill.md')
+    ]);
+    if (bgRes.ok) brandGuide = await bgRes.text();
+    if (wsRes.ok) writingSkill = await wsRes.text();
+  } catch (e) {
+    console.warn('Could not load brand guides:', e);
+  }
+}
+
+// ── API Key Management ──
+function getApiKey() {
+  return sessionStorage.getItem('ANTHROPIC_API_KEY') || '';
+}
+
+function openSettings(e) {
+  if (e) e.preventDefault();
+  document.getElementById('settings-overlay').classList.add('active');
+  document.getElementById('api-key-input').value = getApiKey();
+  document.getElementById('wp-site-url').value = sessionStorage.getItem('WP_SITE_URL') || 'https://ssblog.azaonline.in';
+  document.getElementById('wp-username').value = sessionStorage.getItem('WP_USERNAME') || '';
+  document.getElementById('wp-app-password').value = sessionStorage.getItem('WP_APP_PASSWORD') || '';
+  document.getElementById('settings-status').textContent = '';
+  document.getElementById('settings-status').className = '';
+}
+
+function closeSettings(e) {
+  if (e && e.target !== document.getElementById('settings-overlay')) return;
+  document.getElementById('settings-overlay').classList.remove('active');
+}
+
+function validateApiKey() {
+  const key = document.getElementById('api-key-input').value;
+  const statusEl = document.getElementById('settings-status');
+  if (!key) {
+    statusEl.textContent = '';
+    return;
+  }
+  if (!key.startsWith('sk-ant-')) {
+    statusEl.textContent = 'Invalid format (should start with sk-ant-)';
+    statusEl.className = 'settings-status error';
+  } else {
+    statusEl.textContent = '';
+    statusEl.className = 'settings-status';
+  }
+}
+
+function saveSettings() {
+  const apiKey = document.getElementById('api-key-input').value.trim();
+  const wpSiteUrl = document.getElementById('wp-site-url').value.trim();
+  const wpUsername = document.getElementById('wp-username').value.trim();
+  const wpPassword = document.getElementById('wp-app-password').value.trim();
+  const statusEl = document.getElementById('settings-status');
+
+  if (!apiKey) {
+    statusEl.textContent = 'API key cannot be empty';
+    statusEl.className = 'settings-status error';
+    return;
+  }
+
+  if (!apiKey.startsWith('sk-ant-')) {
+    statusEl.textContent = 'Invalid format (API key should start with sk-ant-)';
+    statusEl.className = 'settings-status error';
+    return;
+  }
+
+  sessionStorage.setItem('ANTHROPIC_API_KEY', apiKey);
+  sessionStorage.setItem('WP_SITE_URL', wpSiteUrl);
+  sessionStorage.setItem('WP_USERNAME', wpUsername);
+  sessionStorage.setItem('WP_APP_PASSWORD', wpPassword);
+
+  statusEl.textContent = 'Settings saved!';
+  statusEl.className = 'settings-status success';
+  setTimeout(function() {
+    closeSettings();
+  }, 1000);
+}
 
 // ── Theme Toggle ──
 (function(){
@@ -432,9 +576,9 @@ function renderArticles(){
     +(a.summary?'<p class="card-summary">'+esc(a.summary)+'</p>':'')
         +'<div class="angle-box"><div class="angle-label">AZA angle</div><div class="angle-text">'+esc(a.angle||'')+'</div></div>'
   +'<div class="card-footer"><span class="pub">'+fmtDate(a.published)+'</span>'
-  +'<button class="btn-idea" onclick="event.stopPropagation();generateIdeas(this,{title:this.dataset.title,angle:this.dataset.angle,category:this.dataset.cat})" data-title="'+esc(a.title||'')+'" data-angle="'+esc(a.angle||'')+'" data-cat="'+esc(a.aza_category||'')+'" title="Generate blog ideas with Gemini">'
+  +'<button class="btn-idea" onclick="event.stopPropagation();generateIdeas(this,{title:this.dataset.title,angle:this.dataset.angle,category:this.dataset.cat,source:this.dataset.source,url:this.dataset.url,text:this.dataset.text})" data-title="'+esc(a.title||'')+'" data-angle="'+esc(a.angle||'')+'" data-cat="'+esc(a.aza_category||'')+'" data-source="'+esc(a.source||'')+'" data-url="'+esc(a.link||'')+'" data-text="'+esc(a.summary||a.title||'')+'" title="Generate blog ideas with Claude">'
   +'<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>'
-  +'Generate Blog Ideas</button>'
+  +'Generate Ideas</button>'
   +'</div>'
     +'</article>';}).join('');
 }
@@ -670,9 +814,9 @@ function renderIG() {
       + (p.alt_text ? '<div class="angle-box"><div class="angle-label">Image</div><div class="angle-text">'+esc(p.alt_text.slice(0,160))+'</div></div>' : '')
       + (tags ? '<div style="margin-top:var(--space-2)">'+tags+'</div>' : '')
       + '<div class="card-footer"><span class="pub">'+dateStr+'</span>'
-      + '<button class="btn-idea" onclick="event.stopPropagation();generateIdeas(this,{source:\'instagram\',handle:this.dataset.handle,title:this.dataset.title,angle:this.dataset.angle,category:this.dataset.cat,alttext:this.dataset.alttext,hashtags:this.dataset.hashtags})" data-handle="'+esc(p.handle)+'" data-title="'+esc(p.caption?p.caption.slice(0,200):'')+'" data-angle="" data-cat="'+esc(cat)+'" data-alttext="'+esc(p.alt_text?p.alt_text.slice(0,150):'')+'" data-hashtags="'+esc((p.hashtags||[]).join(', '))+'" title="Generate blog ideas with Gemini">'
+      + '<button class="btn-idea" onclick="event.stopPropagation();generateIdeas(this,{source:\'instagram\',handle:this.dataset.handle,title:this.dataset.caption,angle:\'\',category:this.dataset.cat,alttext:this.dataset.alttext,hashtags:this.dataset.hashtags,url:this.dataset.url,text:this.dataset.caption})" data-handle="'+esc(p.handle)+'" data-caption="'+esc(p.caption?p.caption.slice(0,200):'')+'" data-angle="" data-cat="'+esc(cat)+'" data-alttext="'+esc(p.alt_text?p.alt_text.slice(0,150):'')+'" data-hashtags="'+esc((p.hashtags||[]).join(', '))+'" data-url="'+esc(p.url)+'" title="Generate blog ideas with Claude">'
       + '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>'
-      + 'Generate Blog Ideas</button>'
+      + 'Generate Ideas</button>'
       + '</div>'
       + '</article>';
   }).join('');
@@ -702,16 +846,25 @@ loadIgPosts();
 
 
 async function generateIdeas(btn, ctx) {
-  if (!window._oaiKey) {
-    alert('API key not configured.');
+  const apiKey = getApiKey();
+  if (!apiKey) {
+    openSettings();
     return;
   }
+
   btn.disabled = true;
   btn.textContent = 'Thinking…';
 
-    let prompt;
+  let prompt;
   if (ctx.source === 'instagram') {
     prompt = `You are a content strategist for AZA Fashions, a premium Indian ethnic wear brand.
+
+BRAND VOICE:
+${brandGuide}
+
+WRITING GUIDELINES:
+${writingSkill}
+
 An Instagram post from @${ctx.handle} (category: ${ctx.category}) contains:
 Caption: ${ctx.title}
 Image description: ${ctx.alttext || 'N/A'}
@@ -722,10 +875,18 @@ Generate 3 specific, ready-to-write blog post ideas for AZA's blog. Each idea sh
 - Have a clear headline
 - Include a one-line brief
 - Reference what inspired the idea from this IG post
+- Align with Samyukta's voice and brand values
 
-Format: numbered list.`;
+Format: Return ONLY a JSON array with no preamble. Structure: [{"title": "headline", "brief": "one-line description"}]`;
   } else {
     prompt = `You are a content strategist for AZA Fashions, a premium Indian ethnic wear brand.
+
+BRAND VOICE:
+${brandGuide}
+
+WRITING GUIDELINES:
+${writingSkill}
+
 Based on this signal:
 Title: ${ctx.title}
 AZA angle: ${ctx.angle}
@@ -735,42 +896,202 @@ Generate 3 specific, ready-to-write blog post ideas for AZA's blog. Each idea sh
 - Be relevant to Indian ethnic/occasion wear
 - Have a clear headline
 - Include a one-line brief
+- Align with Samyukta's voice and brand values
 
-Format: numbered list.`;
+Format: Return ONLY a JSON array with no preamble. Structure: [{"title": "headline", "brief": "one-line description"}]`;
   }
 
-
   try {
-    const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=' + window._oaiKey, {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
       body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { maxOutputTokens: 2048, temperature: 0.7, thinkingConfig: { thinkingBudget: 0 } }
+        model: 'claude-haiku-4-5',
+        max_tokens: 1024,
+        messages: [{ role: 'user', content: prompt }]
       })
     });
-    const d = await res.json();
-    if (d.error) throw new Error(d.error.message);
-    const ideas = d.candidates[0].content.parts[0].text.trim();
 
-    // Show inline below the card
+    const d = await res.json();
+    console.log('API Response:', d);
+
+    if (!res.ok) {
+      console.error('API Error:', d);
+      throw new Error(d.error?.message || `API returned ${res.status}`);
+    }
+
+    if (d.error) {
+      console.error('API Error in response:', d.error);
+      throw new Error(d.error.message || 'API request failed');
+    }
+
+    if (!d.content || !d.content[0] || !d.content[0].text) {
+      console.error('Invalid response structure:', d);
+      throw new Error('Invalid API response structure');
+    }
+
+    let ideasText = d.content[0].text.trim();
+    console.log('Ideas text:', ideasText);
+
+    // Handle markdown code fence wrapping
+    if (ideasText.startsWith('```json')) {
+      ideasText = ideasText.replace(/^```json\n?/, '').replace(/\n?```$/, '');
+    } else if (ideasText.startsWith('```')) {
+      ideasText = ideasText.replace(/^```\n?/, '').replace(/\n?```$/, '');
+    }
+
+    let ideas = [];
+    try {
+      ideas = JSON.parse(ideasText);
+      if (!Array.isArray(ideas)) {
+        console.error('Response is not an array, is:', typeof ideas);
+        throw new Error('Response is not an array');
+      }
+      // Validate structure
+      ideas.forEach(function(idea, idx) {
+        if (!idea.title || !idea.brief) {
+          throw new Error('Idea ' + idx + ' missing title or brief');
+        }
+      });
+    } catch (parseErr) {
+      console.error('Failed to parse ideas JSON:', ideasText);
+      console.error('Parse error:', parseErr.message);
+      throw new Error('Could not parse response as JSON: ' + parseErr.message);
+    }
+
+    // Show ideas below the card as selectable shortlist
     var card = btn.closest('article');
-    var existing = card.querySelector('.ideas-box');
+    var existing = card.querySelector('.ideas-shortlist');
     if (existing) existing.remove();
-    var box = document.createElement('div');
-    box.className = 'ideas-box';
-    box.style = 'margin-top:var(--space-3);padding:var(--space-3);background:var(--color-surface-offset);border-radius:var(--radius-md);font-size:var(--text-xs);white-space:pre-wrap;line-height:1.6;color:var(--color-text)';
-    box.textContent = ideas;
-    card.appendChild(box);
+
+    var listBox = document.createElement('div');
+    listBox.className = 'ideas-shortlist';
+    listBox.style = 'margin-top:var(--space-4);padding:var(--space-3);background:var(--color-surface-offset);border-radius:var(--radius-md);border-left:3px solid var(--color-primary)';
+
+    var listTitle = document.createElement('div');
+    listTitle.style = 'font-size:var(--text-xs);font-weight:600;color:var(--color-text-muted);letter-spacing:.05em;text-transform:uppercase;margin-bottom:var(--space-3)';
+    listTitle.textContent = 'Select blog ideas to shortlist:';
+    listBox.appendChild(listTitle);
+
+    ideas.forEach(function(idea, idx) {
+      var ideaId = 'idea-' + Date.now() + '-' + idx;
+      var ideaDiv = document.createElement('label');
+      ideaDiv.style = 'display:flex;gap:var(--space-2);padding:var(--space-2) 0;cursor:pointer;align-items:flex-start';
+
+      var checkbox = document.createElement('input');
+      checkbox.type = 'checkbox';
+      checkbox.id = ideaId;
+      checkbox.style = 'margin-top:3px;flex-shrink:0;cursor:pointer;accent-color:var(--color-primary)';
+      checkbox.onchange = function() {
+        if (this.checked) {
+          // Multi-select: add this idea to shortlist
+          shortlist[ideaId] = { title: idea.title, brief: idea.brief, sourceCard: ctx };
+        } else {
+          // Remove from shortlist
+          delete shortlist[ideaId];
+        }
+        updateWriteBlogButtons();
+      };
+
+      var content = document.createElement('div');
+      content.style = 'flex:1';
+      var title = document.createElement('div');
+      title.style = 'font-size:var(--text-sm);font-weight:600;color:var(--color-text);line-height:1.4';
+      title.textContent = idea.title;
+      var brief = document.createElement('div');
+      brief.style = 'font-size:var(--text-xs);color:var(--color-text-muted);line-height:1.4;margin-top:2px';
+      brief.textContent = idea.brief;
+
+      content.appendChild(title);
+      content.appendChild(brief);
+      ideaDiv.appendChild(checkbox);
+      ideaDiv.appendChild(content);
+      listBox.appendChild(ideaDiv);
+    });
+
+    card.appendChild(listBox);
     btn.textContent = 'Regenerate';
     btn.disabled = false;
   } catch(e) {
     btn.textContent = 'Error — retry';
     btn.disabled = false;
-    console.error(e);
+    console.error('generateIdeas error:', e.message);
+    console.error('Full error:', e);
+
+    // Show error in the card
+    var existing = card.querySelector('.ideas-shortlist');
+    if (existing) existing.remove();
+    var errBox = document.createElement('div');
+    errBox.className = 'ideas-shortlist';
+    errBox.style = 'margin-top:var(--space-4);padding:var(--space-3);background:var(--color-competitor);border-radius:var(--radius-md);color:var(--color-text-inverse)';
+    errBox.innerHTML = '<strong>Error generating ideas:</strong><br>' + esc(e.message) + '<br><span style="font-size:var(--text-xs);margin-top:var(--space-2);display:block">Check browser console (F12) for details. API key may be invalid or expired.</span>';
+    card.appendChild(errBox);
   }
 }
+
+function updateWriteBlogButtons() {
+  var count = Object.keys(shortlist).length;
+  var hasShortlist = count > 0;
+  var bar = document.getElementById('shortlist-bar');
+  var btn = document.getElementById('btn-write-shortlist');
+  var countEl = document.getElementById('shortlist-count');
+
+  if (hasShortlist) {
+    bar.style.display = 'block';
+    countEl.textContent = count;
+    btn.disabled = false;
+    btn.style.opacity = '1';
+    btn.style.cursor = 'pointer';
+  } else {
+    bar.style.display = 'none';
+    btn.disabled = true;
+    btn.style.opacity = '0.5';
+    btn.style.cursor = 'not-allowed';
+  }
+}
+
+function openWriterFromShortlist() {
+  var ideaIds = Object.keys(shortlist);
+  if (ideaIds.length === 0) return;
+
+  // Open each selected idea in a separate tab
+  ideaIds.forEach(function(ideaId) {
+    var idea = shortlist[ideaId];
+    var ctx = idea.sourceCard;
+
+    const topicData = {
+      title: idea.title,
+      brief: idea.brief,
+      source_type: ctx.source || 'article',
+      source_handle: ctx.source || ctx.handle || ctx.source_handle,
+      source_url: ctx.url,
+      source_text: ctx.text || ctx.title,
+      generated_angle: ctx.angle || ''
+    };
+    const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(topicData))));
+    window.open('writer.html?topic=' + encoded, '_blank');
+  });
+}
   
+function openWriter(ctx) {
+  const topicData = {
+    title: ctx.title,
+    source_type: 'article',
+    source_handle: ctx.source,
+    source_url: ctx.url,
+    source_text: ctx.text,
+    generated_angle: ctx.angle
+  };
+  const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(topicData))));
+  window.open('writer.html?topic=' + encoded, '_blank');
+}
+
+loadBrandGuides();
 loadFeed();
 
   
