@@ -1109,21 +1109,21 @@ async function downloadDocx() {
       }
     }
 
-    const htmlDoc = '<!DOCTYPE html><html><head><meta charset="UTF-8"><style>' +
-      'body { font-family: Calibri, sans-serif; line-height: 1.5; }' +
-      'h1 { font-size: 24pt; margin-bottom: 12pt; }' +
-      'h2 { font-size: 14pt; margin-top: 12pt; margin-bottom: 6pt; }' +
-      'p { font-size: 12pt; margin-bottom: 12pt; }' +
-      '.meta { font-size: 10pt; color: #666; font-style: italic; margin-bottom: 12pt; border-bottom: 1pt solid #ccc; padding-bottom: 12pt; }' +
-      '.review { font-size: 10pt; color: #666; font-style: italic; margin-top: 12pt; border-top: 1pt solid #ccc; padding-top: 12pt; }' +
-      '</style></head><body>' +
-      '<h1>' + escapeHtml(currentBrief.title) + '</h1>' +
-      '<div class="meta">Slug: ' + escapeHtml(currentBrief.slug) + ' | Keywords: ' + escapeHtml(keywords) + ' | ' + escapeHtml(currentBrief.meta_description) + '</div>' +
-      htmlContent +
-      '<div class="review">' +
-      '<strong>Brand Voice Score:</strong> ' + currentReview.brand_voice_score + '/10 - ' + escapeHtml(currentReview.brand_voice_rationale) +
-      flagsHtml +
-      '</div></body></html>';
+    let htmlDoc = '<!DOCTYPE html>\n<html>\n<head>\n<meta charset="UTF-8">\n<style>\n';
+    htmlDoc += 'body { font-family: Calibri, sans-serif; line-height: 1.5; }\n';
+    htmlDoc += 'h1 { font-size: 24pt; margin-bottom: 12pt; }\n';
+    htmlDoc += 'h2 { font-size: 14pt; margin-top: 12pt; margin-bottom: 6pt; }\n';
+    htmlDoc += 'p { font-size: 12pt; margin-bottom: 12pt; }\n';
+    htmlDoc += '.meta { font-size: 10pt; color: #666; font-style: italic; margin-bottom: 12pt; border-bottom: 1pt solid #ccc; padding-bottom: 12pt; }\n';
+    htmlDoc += '.review { font-size: 10pt; color: #666; font-style: italic; margin-top: 12pt; border-top: 1pt solid #ccc; padding-top: 12pt; }\n';
+    htmlDoc += '</style>\n</head>\n<body>\n';
+    htmlDoc += '<h1>' + escapeHtml(currentBrief.title) + '</h1>\n';
+    htmlDoc += '<div class="meta">Slug: ' + escapeHtml(currentBrief.slug) + ' | Keywords: ' + escapeHtml(keywords) + ' | ' + escapeHtml(currentBrief.meta_description) + '</div>\n';
+    htmlDoc += htmlContent;
+    htmlDoc += '<div class="review">\n';
+    htmlDoc += '<strong>Brand Voice Score:</strong> ' + currentReview.brand_voice_score + '/10 - ' + escapeHtml(currentReview.brand_voice_rationale) + '\n';
+    htmlDoc += flagsHtml + '\n';
+    htmlDoc += '</div>\n</body>\n</html>';
 
     // Generate DOCX using html-docx-js
     if (typeof window.htmlDocx === 'undefined') {
