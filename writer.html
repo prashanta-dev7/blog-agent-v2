@@ -141,9 +141,16 @@ a{color:inherit}
 .titles-section{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-6);box-shadow:var(--shadow-sm);margin-bottom:var(--space-6)}
 .titles-label{font-size:var(--text-xs);font-weight:600;color:var(--color-text-muted);letter-spacing:.05em;text-transform:uppercase;margin-bottom:var(--space-3)}
 .title-options{display:flex;flex-direction:column;gap:var(--space-3)}
-.title-option{padding:var(--space-3) var(--space-4);background:var(--color-surface-offset);border-radius:var(--radius-md);border-left:3px solid var(--color-primary);font-size:var(--text-sm);line-height:1.5;color:var(--color-text)}
+.title-option{display:flex;align-items:flex-start;gap:var(--space-3);padding:var(--space-3) var(--space-4);background:var(--color-surface-offset);border-radius:var(--radius-md);border:1px solid transparent;border-left:3px solid var(--color-primary);font-size:var(--text-sm);line-height:1.5;color:var(--color-text);cursor:pointer;transition:all var(--transition)}
 .title-option.secondary{border-left-color:var(--color-text-faint)}
+.title-option:hover{background:var(--color-surface-dynamic)}
+.title-option.selected{border-color:var(--color-primary);background:color-mix(in oklch,var(--color-primary) 10%,var(--color-surface-offset))}
 .title-option-label{font-size:var(--text-xs);font-weight:600;color:var(--color-text-muted);margin-bottom:var(--space-1);text-transform:uppercase;letter-spacing:.05em}
+.title-radio{flex-shrink:0;width:16px;height:16px;border-radius:var(--radius-full);border:2px solid var(--color-text-faint);margin-top:2px;display:flex;align-items:center;justify-content:center}
+.title-option.selected .title-radio{border-color:var(--color-primary)}
+.title-radio::after{content:'';width:8px;height:8px;border-radius:var(--radius-full);background:var(--color-primary);opacity:0;transition:opacity var(--transition)}
+.title-option.selected .title-radio::after{opacity:1}
+.title-option-body{flex:1}
 
 .actions-section{display:flex;gap:var(--space-4);flex-wrap:wrap;margin-top:var(--space-8)}
 .btn-primary{padding:var(--space-3) var(--space-6);background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-md);font-size:var(--text-xs);font-weight:600;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;transition:all var(--transition)}
@@ -374,13 +381,19 @@ a{color:inherit}
     <div class="titles-section">
       <div class="titles-label">Title Options</div>
       <div class="title-options">
-        <div class="title-option">
-          <div class="title-option-label">Original</div>
-          <div id="title-original">The Evolution of Ethnic Bridal Wear in Modern Indian Weddings</div>
+        <div class="title-option selected">
+          <div class="title-radio"></div>
+          <div class="title-option-body">
+            <div class="title-option-label">Original</div>
+            <div id="title-original">The Evolution of Ethnic Bridal Wear in Modern Indian Weddings</div>
+          </div>
         </div>
         <div class="title-option secondary">
-          <div class="title-option-label">Alternative</div>
-          <div id="title-alt">How Today's Indian Brides Are Rewriting Bridal Wear Rules</div>
+          <div class="title-radio"></div>
+          <div class="title-option-body">
+            <div class="title-option-label">Alternative</div>
+            <div id="title-alt">How Today's Indian Brides Are Rewriting Bridal Wear Rules</div>
+          </div>
         </div>
       </div>
     </div>
@@ -451,6 +464,13 @@ let currentDraft = null;
 let currentCorrectedDraft = null;
 let currentReview = null;
 let reviewAttempt = 1;
+let selectedTitle = null;
+
+function selectTitle(title, el) {
+  selectedTitle = title;
+  document.querySelectorAll('.title-option').forEach(function(o){ o.classList.remove('selected'); });
+  el.classList.add('selected');
+}
 
 async function loadBrandGuides() {
   try {
@@ -1049,18 +1069,38 @@ function renderCompleteState(review, correctedMarkdown) {
   // Draft Preview (full text, editable)
   document.getElementById('preview-text').textContent = correctedMarkdown;
 
-  // Title options
-  var titleOptions = '<div class="title-option">' +
-    '<div class="title-option-label">Original</div>' +
-    '<div class="title-text">' + escapeHtml(currentBrief.title) + '</div>' +
-    '</div>';
-  if (review.suggested_title_alternatives && review.suggested_title_alternatives.length > 0) {
-    titleOptions += '<div class="title-option secondary">' +
-      '<div class="title-option-label">Alternative</div>' +
-      '<div class="title-text">' + escapeHtml(review.suggested_title_alternatives[0]) + '</div>' +
-      '</div>';
+  // Title options — selectable, defaults to the original title
+  selectedTitle = currentBrief.title;
+  var titleOptionsContainer = document.querySelector('.title-options');
+  titleOptionsContainer.innerHTML = '';
+
+  function buildTitleOption(label, text, isSecondary, isSelected) {
+    var opt = document.createElement('div');
+    opt.className = 'title-option' + (isSecondary ? ' secondary' : '') + (isSelected ? ' selected' : '');
+    var radio = document.createElement('div');
+    radio.className = 'title-radio';
+    var body = document.createElement('div');
+    body.className = 'title-option-body';
+    var labelEl = document.createElement('div');
+    labelEl.className = 'title-option-label';
+    labelEl.textContent = label;
+    var textEl = document.createElement('div');
+    textEl.className = 'title-text';
+    textEl.textContent = text;
+    body.appendChild(labelEl);
+    body.appendChild(textEl);
+    opt.appendChild(radio);
+    opt.appendChild(body);
+    opt.addEventListener('click', function() { selectTitle(text, opt); });
+    return opt;
   }
-  document.querySelector('.title-options').innerHTML = titleOptions;
+
+  titleOptionsContainer.appendChild(buildTitleOption('Original', currentBrief.title, false, true));
+
+  var alternatives = review.suggested_title_alternatives || [];
+  alternatives.forEach(function(alt) {
+    titleOptionsContainer.appendChild(buildTitleOption('Alternative', alt, true, false));
+  });
 }
 
 function escapeHtml(text) {
@@ -1184,7 +1224,7 @@ async function publishToWordPress() {
 
     // Build post payload
     const payload = {
-      title: currentBrief.title,
+      title: selectedTitle || currentBrief.title,
       content: htmlContent,
       status: 'draft',
       slug: currentBrief.slug,
@@ -1221,7 +1261,7 @@ async function publishToWordPress() {
     const post = await response.json();
 
     // Update Yoast fields
-    await updateYoastFields(post.id, currentBrief, creds);
+    await updateYoastFields(post.id, currentBrief, creds, selectedTitle || currentBrief.title);
 
     // Show success state
     btn.style.display = 'none';
@@ -1244,11 +1284,11 @@ async function publishToWordPress() {
   }
 }
 
-async function updateYoastFields(postId, brief, creds) {
+async function updateYoastFields(postId, brief, creds, titleOverride) {
   try {
     const yoastPayload = {
       meta: {
-        _yoast_wpseo_title: brief.title,
+        _yoast_wpseo_title: titleOverride || brief.title,
         _yoast_wpseo_metadesc: brief.meta_description,
         _yoast_wpseo_focuskw: brief.seo_keywords && brief.seo_keywords.length > 0 ? brief.seo_keywords[0] : '',
         _yoast_wpseo_keywordsynonyms: brief.seo_keywords && brief.seo_keywords.length > 1 ? JSON.stringify(

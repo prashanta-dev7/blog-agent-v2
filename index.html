@@ -870,7 +870,15 @@ Caption: ${ctx.title}
 Image description: ${ctx.alttext || 'N/A'}
 Hashtags: ${ctx.hashtags || 'none'}
 
-Generate 3 specific, ready-to-write blog post ideas for AZA's blog. Each idea should:
+First, judge whether this post is genuinely relevant to Samyukta's brand: Indian ethnic
+and occasion wear, craft, regional artistry, and the content pillars in the brand voice
+above. If it is NOT relevant (e.g. purely Western streetwear, sneakers, generic celebrity
+content with no tie to Indian dress or craft, or otherwise outside the brand's pillars),
+respond with ONLY this JSON object and nothing else:
+{"relevant": false, "reason": "one sentence explaining why this doesn't fit the brand"}
+
+If it IS relevant, generate 3 specific, ready-to-write blog post ideas for AZA's blog.
+Each idea should:
 - Be relevant to Indian ethnic/occasion wear
 - Have a clear headline
 - Include a one-line brief
@@ -892,7 +900,15 @@ Title: ${ctx.title}
 AZA angle: ${ctx.angle}
 Category: ${ctx.category}
 
-Generate 3 specific, ready-to-write blog post ideas for AZA's blog. Each idea should:
+First, judge whether this signal is genuinely relevant to Samyukta's brand: Indian ethnic
+and occasion wear, craft, regional artistry, and the content pillars in the brand voice
+above. If it is NOT relevant (e.g. purely Western streetwear, sneakers, generic celebrity
+content with no tie to Indian dress or craft, or otherwise outside the brand's pillars),
+respond with ONLY this JSON object and nothing else:
+{"relevant": false, "reason": "one sentence explaining why this doesn't fit the brand"}
+
+If it IS relevant, generate 3 specific, ready-to-write blog post ideas for AZA's blog.
+Each idea should:
 - Be relevant to Indian ethnic/occasion wear
 - Have a clear headline
 - Include a one-line brief
@@ -945,29 +961,54 @@ Format: Return ONLY a JSON array with no preamble. Structure: [{"title": "headli
       ideasText = ideasText.replace(/^```\n?/, '').replace(/\n?```$/, '');
     }
 
-    let ideas = [];
+    let parsed;
     try {
-      ideas = JSON.parse(ideasText);
-      if (!Array.isArray(ideas)) {
-        console.error('Response is not an array, is:', typeof ideas);
-        throw new Error('Response is not an array');
-      }
-      // Validate structure
-      ideas.forEach(function(idea, idx) {
-        if (!idea.title || !idea.brief) {
-          throw new Error('Idea ' + idx + ' missing title or brief');
-        }
-      });
+      parsed = JSON.parse(ideasText);
     } catch (parseErr) {
       console.error('Failed to parse ideas JSON:', ideasText);
       console.error('Parse error:', parseErr.message);
       throw new Error('Could not parse response as JSON: ' + parseErr.message);
     }
 
-    // Show ideas below the card as selectable shortlist
     var card = btn.closest('article');
     var existing = card.querySelector('.ideas-shortlist');
     if (existing) existing.remove();
+
+    // Brand relevance check — model may reject the source instead of forcing ideas
+    if (parsed && typeof parsed === 'object' && !Array.isArray(parsed) && parsed.relevant === false) {
+      var notRelevantBox = document.createElement('div');
+      notRelevantBox.className = 'ideas-shortlist';
+      notRelevantBox.style = 'margin-top:var(--space-4);padding:var(--space-3);background:var(--color-surface-offset);border-radius:var(--radius-md);border-left:3px solid var(--color-text-faint)';
+
+      var nrLabel = document.createElement('div');
+      nrLabel.style = 'font-size:var(--text-xs);font-weight:600;color:var(--color-text-muted);letter-spacing:.05em;text-transform:uppercase;margin-bottom:var(--space-2)';
+      nrLabel.textContent = 'Not brand-relevant';
+
+      var nrReason = document.createElement('div');
+      nrReason.style = 'font-size:var(--text-sm);color:var(--color-text-muted)';
+      nrReason.textContent = parsed.reason || "This source doesn't align with Samyukta's brand pillars.";
+
+      notRelevantBox.appendChild(nrLabel);
+      notRelevantBox.appendChild(nrReason);
+      card.appendChild(notRelevantBox);
+
+      btn.textContent = 'Not Relevant';
+      btn.disabled = false;
+      return;
+    }
+
+    let ideas = parsed;
+    if (!Array.isArray(ideas)) {
+      console.error('Response is not an array, is:', typeof ideas);
+      throw new Error('Response is not an array');
+    }
+    ideas.forEach(function(idea, idx) {
+      if (!idea.title || !idea.brief) {
+        throw new Error('Idea ' + idx + ' missing title or brief');
+      }
+    });
+
+    // Show ideas below the card as selectable shortlist
 
     var listBox = document.createElement('div');
     listBox.className = 'ideas-shortlist';
