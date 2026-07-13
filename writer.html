@@ -386,12 +386,10 @@ a{color:inherit}
     </div>
 
     <div class="actions-section">
-      <button class="btn-primary" onclick="downloadDocx()">
-        <span>⬇ Download Docx</span>
-      </button>
       <button class="btn-primary" id="btn-publish-wp" onclick="publishToWordPress()" style="background:var(--color-accent)">
         <span id="publish-text">Publish to WordPress Draft →</span>
       </button>
+      <button class="btn-secondary" onclick="regenerate()">Regenerate Draft</button>
     </div>
     <div id="publish-success" style="display:none;margin-top:var(--space-4);text-align:center">
       <p style="color:var(--color-rising);font-weight:600;margin-bottom:var(--space-3)">✅ Draft created in WordPress</p>
@@ -399,10 +397,6 @@ a{color:inherit}
         <a id="preview-link" href="#" target="_blank" style="color:var(--color-primary);text-decoration:none;font-size:var(--text-xs);font-weight:600;text-transform:uppercase">Preview Draft ↗</a>
         <a id="edit-link" href="#" target="_blank" style="color:var(--color-primary);text-decoration:none;font-size:var(--text-xs);font-weight:600;text-transform:uppercase">Edit in WordPress ↗</a>
       </div>
-    </div>
-
-    <div class="actions-section" style="margin-top:var(--space-4);border-top:1px solid var(--color-divider);padding-top:var(--space-4)">
-      <button class="btn-secondary" onclick="regenerate()">Regenerate Draft</button>
     </div>
   </section>
 </main>
