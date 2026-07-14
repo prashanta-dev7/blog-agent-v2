@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T09:58:14.471177+00:00",
+  "generated_at": "2026-07-14T12:11:49.189823+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 188,
@@ -8,6 +8,76 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "c75a89d15c0a",
+      "title": "A Chance Encounter With Proust’s Goddaughter Unraveled a History of Antisemitism",
+      "link": "https://www.vogue.com/article/renoir-girls-essay",
+      "summary": "A Paris meeting, a Renoir painting, and a submerged history of antisemitism all came to the fore in research for 'The Renoir Girls.'",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Chance Encounter With Proust’s Goddaughter Unraveled a History of An...",
+      "score": 0,
+      "published": "2026-07-14T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "343b15a164cc",
+      "title": "Hailey Bieber on Creating Her Dream Jeans for Gap",
+      "link": "https://www.vogue.com/article/hailey-bieber-gap-denim-collaboration",
+      "summary": "Everything you need to know about the Hailey Jean, launching on July 16—a limited-edition capsule that reimagines Gap’s relaxed denim through her own personal style lens.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Hailey Bieber on Creating Her Dream Jeans for Gap...",
+      "score": 2,
+      "published": "2026-07-14T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e1c742eea09a",
+      "title": "On the Podcast: What We Are Watching, Reading, and Listening to This Summer",
+      "link": "https://www.vogue.com/article/on-the-podcast-what-we-are-watching-reading-and-listening-to-this-summer",
+      "summary": "To break down the season’s standout books, movies, and music, Chloe was joined in the studio by Vogue’s deputy editor, Taylor Antrim, and Senior Fashion Writer Hannah Jackson.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: On the Podcast: What We Are Watching, Reading, and Listening to This S...",
+      "score": 2,
+      "published": "2026-07-14T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1ef10233392",
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
+      "score": 0,
+      "published": "2026-07-14T10:08:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3d3877a7976",
+      "title": "The 34 Best Simple Wedding Dresses for Minimalist Brides",
+      "link": "https://www.vogue.com/slideshow/simple-wedding-dresses",
+      "summary": "Calling all minimalist brides: We found the best satin slips, crepe column gowns, and more simple wedding dresses perfect for your big day or courthouse ceremony.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 34 Best Simple Wedding Dresses for Minimalist Brides — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "cb9ba102220d",
       "title": "The Vogue Business AI Tracker",
@@ -79,16 +149,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67a930ec4277",
-      "title": "Wow, These 5 Popular Shoe Trends Are Deeply Discounted for the Nordstrom Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-shoe-deals-june-2026",
-      "summary": "Shop unbelievably amazing cross-category shoe deals.",
+      "id": "5d10d9c28c27",
+      "title": "It’s Here: The Easy, Elegant Accessory Trend Fashion People Are Wearing With Swimsuits",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-scarf-with-swimsuits-trend-2026",
+      "summary": "Cooler swim outfits ahead.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 5,
       "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -103,6 +173,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm a Shopping Director and Can't Get Over the Nordstrom Anniversary S...",
       "score": 2,
+      "published": "2026-07-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "67a930ec4277",
+      "title": "Wow, These 5 Popular Shoe Trends Are Deeply Discounted for the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-shoe-deals-june-2026",
+      "summary": "Shop unbelievably amazing cross-category shoe deals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -131,20 +215,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5d10d9c28c27",
-      "title": "It’s Here: The Easy, Elegant Accessory Trend Fashion People Are Wearing With Swimsuits",
-      "link": "https://www.whowhatwear.com/fashion/shopping/summer-scarf-with-swimsuits-trend-2026",
-      "summary": "Cooler swim outfits ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 5,
       "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -877,48 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d0f241a35277",
-      "title": "The Fall 2026 Fashion Trends to Know and Shop Now",
-      "link": "https://www.vogue.com/article/fall-winter-2026-fashion-trends",
-      "summary": "The top three trends of the fall 2026 season—which range from modern suiting codes to 1920s Art Deco eveningwear—are designed for work and play. Shop them now.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-07-13T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "24d83327dc9d",
-      "title": "Unpacking the Eternal Appeal of the Jane Austen Adaptation",
-      "link": "https://www.vogue.com/article/the-eternal-appeal-of-the-jane-austen-adaptation",
-      "summary": "From the new ‘Sense and Sensibility’ to Netflix’s upcoming ‘Pride and Prejudice’, our appetite for Jane Austen adaptations shows no signs of waning. Here’s why.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Unpacking the Eternal Appeal of the Jane Austen Adaptation...",
-      "score": 1,
-      "published": "2026-07-13T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "09e191d10980",
-      "title": "Dakota Johnson and Alexander Skårsgard on Their “Fiery” New Partnership",
-      "link": "https://www.vogue.com/article/dakota-johnson-and-alexander-skarsgard-interview-valentino",
-      "summary": "The actors had never collaborated—until Alessandro Michele brought the two together for Valentino Vendetta.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Dakota Johnson and Alexander Skårsgard on Their “Fiery” New Partnershi...",
-      "score": 0,
-      "published": "2026-07-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2cb2daa57477",
       "title": "Preppy Is Back, But Not How You Know It: How Fashion’s Chicest Are Wearing It This Summer",
       "link": "https://www.whowhatwear.com/fashion/luxury/urban-preppy-fashion-trend-2026",
@@ -947,20 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a81fd9892ddf",
-      "title": "Save Them Down—These Are the Summer Lip Combos Beauty Editors Are Wearing on Repeat",
-      "link": "https://www.whowhatwear.com/beauty/makeup/summer-lip-liner-lipstick-combinations-2026",
-      "summary": "Perfect pairings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "40ea07f1cfaa",
       "title": "From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently as a Beauty Director",
       "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-june-2026",
@@ -975,31 +989,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "112796c3fae8",
-      "title": "Local vs Global: How to Price an African Fashion Brand",
-      "link": "https://www.vogue.com/article/local-vs-global-how-to-price-an-african-fashion-brand",
-      "summary": "From streetwear to ready-to-wear, African fashion brands are rethinking their pricing strategy in order to win over consumers in the local and international market. Here’s how they’re attempting to get it right.",
-      "source": "Vogue US",
+      "id": "a81fd9892ddf",
+      "title": "Save Them Down—These Are the Summer Lip Combos Beauty Editors Are Wearing on Repeat",
+      "link": "https://www.whowhatwear.com/beauty/makeup/summer-lip-liner-lipstick-combinations-2026",
+      "summary": "Perfect pairings.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Local vs Global: How to Price an African Fashion Brand...",
-      "score": 3,
-      "published": "2026-07-13T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2dc04e99c0e",
-      "title": "Kate Middleton, the Princess of Wales’s Best Fashion Moments at Wimbledon",
-      "link": "https://www.vogue.com/slideshow/kate-middleton-wimbledon-outfits",
-      "summary": "From grass court greens to polka-dots and tennis whites: Vogue looks back at all of Kate Middleton, the Princess of Wales’s best fashion moments at Wimbledon.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kate Middleton, the Princess of Wales’s Best Fashion Moments at Wimble...",
-      "score": 1,
-      "published": "2026-07-12T22:02:57+00:00",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1102,7 +1102,7 @@
     },
     {
       "id": "08c4df347733",
-      "title": "Instead of Jeans, Fashion People in L.A. are Wearing Sandals With This Chic Leggings Trend",
+      "title": "Instead of Jeans, Fashion People in L.A. Are Wearing Sandals With This Chic Leggings Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/flared-leggings-sandals-outfit-hailey-bieber-2026",
       "summary": "I'll follow their lead.",
       "source": "Who What Wear",
@@ -1129,10 +1129,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "98582bd9390c",
-      "title": "The Viral $90 Gap Pants Every Chic Dresser Is Wearing Instead of Jeans",
-      "link": "https://www.whowhatwear.com/fashion/shopping/gap-easy-pants",
-      "summary": "Perfect for summer.",
+      "id": "480242f5b9cb",
+      "title": "I Write a Weekly Fashion Newsletter—These Are the Summer Hats Chic Women Are Wearing",
+      "link": "https://www.whowhatwear.com/fashion/summer/best-summer-hats",
+      "summary": "Bucket, raffia, and statement hats stylish women are wearing now.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1143,10 +1143,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "480242f5b9cb",
-      "title": "I Write a Weekly Fashion Newsletter—These Are the Summer Hats Chic Women Are Wearing",
-      "link": "https://www.whowhatwear.com/fashion/summer/best-summer-hats",
-      "summary": "Bucket, raffia, and statement hats stylish women are wearing now.",
+      "id": "98582bd9390c",
+      "title": "The Viral $90 Gap Pants Every Chic Dresser Is Wearing Instead of Jeans",
+      "link": "https://www.whowhatwear.com/fashion/shopping/gap-easy-pants",
+      "summary": "Perfect for summer.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1185,6 +1185,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6313816afe3e",
+      "title": "Ralph Lauren Kicks Off the Summer of Sport With Its Latest Wimbledon Collection",
+      "link": "https://www.whowhatwear.com/fashion/ralph-lauren-wimbledon-2026-collection",
+      "summary": "Inside the tennis capsule.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-12T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f522a5f25823",
       "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
       "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
@@ -1209,20 +1223,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
-      "published": "2026-07-12T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6313816afe3e",
-      "title": "Ralph Lauren Kicks Off the Summer of Sport With Its Latest Wimbledon Collection",
-      "link": "https://www.whowhatwear.com/fashion/ralph-lauren-wimbledon-2026-collection",
-      "summary": "Inside the tennis capsule.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
       "published": "2026-07-12T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1256,7 +1256,7 @@
     },
     {
       "id": "49582e02535f",
-      "title": "I'm a Minimalist Fashion Editor—This Is Everything I Pack for My Summer Holidays",
+      "title": "I'm a Minimalist Fashion Editor—This Is Everything I'm Packing for My Summer Holiday",
       "link": "https://www.whowhatwear.com/fashion/shopping/minimalist-holiday-packing-list",
       "summary": "Carry-on approved!",
       "source": "Who What Wear",
@@ -3035,52 +3035,52 @@
   ],
   "trends": [
     {
-      "term": "hotstar",
+      "term": "renault duster adventure edition",
       "summary": "",
-      "aza_category": "Celebrity Style"
+      "aza_category": "Trend Alert"
     },
     {
-      "term": "jiohotstar",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "eng बनाम ind",
+      "term": "japan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hang seng",
+      "term": "arvid lindblad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "belgium vs hungary",
+      "term": "shivam dube",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ന്യൂസ്",
+      "term": "washington sundar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जेएनवीएसटी",
+      "term": "ss528",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dear lottery result",
+      "term": "ગિરનાર",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "१९ जुलाई",
+      "term": "jio",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கூட்டுறவு",
+      "term": "sensex index",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "वंदे भारत",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
