@@ -1,25 +1,95 @@
 {
-  "generated_at": "2026-07-14T07:11:03.349655+00:00",
+  "generated_at": "2026-07-14T09:58:14.471177+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 189,
+  "industry_count": 188,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "7d37d4fc01de",
-      "title": "Story of a Kolkata mosque located on runway edge at Dum Dum airport",
-      "link": "https://www.indiatoday.in/india/story/kolkata-airport-bankra-mosque-prayers-halted-relocation-security-2947378-2026-07-14?utm_source=rss",
-      "summary": "Story of a Kolkata mosque located on runway edge at Dum Dum airport",
-      "source": "India Today Fashion",
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-07-14T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3efcb3dafbac",
+      "title": "What Fashion Tech Leaders Are Reading This Summer",
+      "link": "https://www.vogue.com/article/what-fashion-tech-leaders-are-reading-this-summer",
+      "summary": "From how tech fits into our broader culture and political power structures to how to cultivate a brand that resonates in the age of AI, leaders from Substack, Nothing, Daydream, and others share their recommended summer reading to reflect on how tech is shaping our lives.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What Fashion Tech Leaders Are Reading This Summer...",
+      "score": 2,
+      "published": "2026-07-14T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8d57bad745b",
+      "title": "I Just Saved You 4 Hours—15 Early Nordstrom Beauty Deals *Actually* Worth Shopping",
+      "link": "https://www.whowhatwear.com/beauty/nordstrom-anniversary-sale-early-access-beauty-deals",
+      "summary": "Save on Prada, Dyson, Le Labo, and more right this moment.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Saved You 4 Hours—15 Early Nordstrom Beauty Deals *Actually* Wo...",
       "score": 1,
-      "published": "2026-07-14T07:01:26+00:00",
+      "published": "2026-07-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7fbd884ea82",
+      "title": "Experts Agree—If You're Going to Buy 3 K-Beauty Items This Summer, It Should Be This, This, and This",
+      "link": "https://www.whowhatwear.com/beauty/skin/korean-skincare-summer-favorites-olive-young",
+      "summary": "The essentials you shouldn't skip.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Experts Agree—If You're Going to Buy 3 K-Beauty Items This Summer, It ...",
+      "score": 1,
+      "published": "2026-07-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f52d0c42724",
+      "title": "How to Secure the Circular Economy in South & Southeast Asia",
+      "link": "https://in.apparelresources.com/business-news/sustainability/secure-circular-economy-south-southeast-asia/",
+      "summary": "Across South and Southeast Asia, countries are taking steps to transition from linear &#8220;take-make-waste&#8221; models to more circular economies. According to the Organisation for Economic Cooperation and Development (OECD), only 12% of plastic waste in these regions is effectively recycled. As a result, Southeast",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Secure the Circular Economy in South & Southeast Asia...",
+      "score": 1,
+      "published": "2026-07-14T07:39:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "67a930ec4277",
+      "title": "Wow, These 5 Popular Shoe Trends Are Deeply Discounted for the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-shoe-deals-june-2026",
+      "summary": "Shop unbelievably amazing cross-category shoe deals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -37,10 +107,24 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67a930ec4277",
-      "title": "Wow, These 5 Popular Shoe Trends Are Deeply Discounted for the Nordstrom Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-shoe-deals-june-2026",
-      "summary": "Shop unbelievably amazing cross-category shoe deals.",
+      "id": "edea2161783b",
+      "title": "5 Swimsuit Print Trends Taking Over For Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/swimwear-print-trends-2026",
+      "summary": "What every insider is wearing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7fb8edc3ab72",
+      "title": "Not Purple, Not Yellow—Meet the Color Trend Quietly Entering Every Chic Girl's Summer Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/trends/aqua-blue-color-trend-2026",
+      "summary": "As seen on Alexandra Leclerc, Devon Lee Carlson, Addison Rae, and more.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -61,20 +145,6 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 5,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "edea2161783b",
-      "title": "5 Swimsuit Print Trends Taking Over For Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/swimwear-print-trends-2026",
-      "summary": "What every insider is wearing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -121,20 +191,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7fb8edc3ab72",
-      "title": "Not Purple, Not Yellow—Meet the Color Trend Quietly Entering Every Chic Girl's Summer Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/trends/aqua-blue-color-trend-2026",
-      "summary": "As seen on Alexandra Leclerc, Devon Lee Carlson, Addison Rae, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fb86f83f6856",
       "title": "Of Goddesses and Mortals—Dolce & Gabbana Take Alta Moda to Taormina",
       "link": "https://www.vogue.com/article/of-goddesses-and-mortals-dolce-and-gabbana-take-alta-moda-to-taormina",
@@ -149,20 +205,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7a9ee3117bb8",
-      "title": "Celebs and Fashion People Agree—This Is the Chicest Way to Wear Your Bob in Summer",
-      "link": "https://www.whowhatwear.com/beauty/hair/balayage-bob-hair-trend",
-      "summary": "I'm a fan.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Celebs and Fashion People Agree—This Is the Chicest Way to Wear Your B...",
-      "score": 2,
-      "published": "2026-07-14T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6be8dbb369fb",
       "title": "If You Want to Look Elegant This Summer Forget Jeans And Wear This Chic Trouser Trend Instead",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/satin-trousers-summer-2026-outfits",
@@ -172,6 +214,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-14T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a9ee3117bb8",
+      "title": "Celebs and Fashion People Agree—This Is the Chicest Way to Wear Your Bob in Summer",
+      "link": "https://www.whowhatwear.com/beauty/hair/balayage-bob-hair-trend",
+      "summary": "I'm a fan.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Celebs and Fashion People Agree—This Is the Chicest Way to Wear Your B...",
       "score": 2,
       "published": "2026-07-14T06:00:00+00:00",
       "discovered_via": "feed"
@@ -191,20 +247,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d6f80b88f5bc",
-      "title": "The 6 Best Pedicure Shades for Mature Feet, According to a Celebrity Nail Expert",
-      "link": "https://www.whowhatwear.com/beauty/nails/pedicures-for-mature-women",
-      "summary": "Ready for sandal season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-14T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "193e48b5df58",
       "title": "No, Not Leather: It Girls Are Wearing This Y2K Flip-Flop Trend With Shorts, Skirts and Dresses This Summer",
       "link": "https://www.whowhatwear.com/fashion/shoes/best-jelly-flip-flops-summer-2026",
@@ -215,6 +257,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-07-14T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6f80b88f5bc",
+      "title": "The 6 Best Pedicure Shades for Mature Feet, According to a Celebrity Nail Expert",
+      "link": "https://www.whowhatwear.com/beauty/nails/pedicures-for-mature-women",
+      "summary": "Ready for sandal season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-14T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -891,20 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "40ea07f1cfaa",
-      "title": "From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently as a Beauty Director",
-      "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-june-2026",
-      "summary": "I'm all about high-low beauty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently ...",
-      "score": 1,
-      "published": "2026-07-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a81fd9892ddf",
       "title": "Save Them Down—These Are the Summer Lip Combos Beauty Editors Are Wearing on Repeat",
       "link": "https://www.whowhatwear.com/beauty/makeup/summer-lip-liner-lipstick-combinations-2026",
@@ -915,6 +957,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-07-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "40ea07f1cfaa",
+      "title": "From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently as a Beauty Director",
+      "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-june-2026",
+      "summary": "I'm all about high-low beauty.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently ...",
+      "score": 1,
       "published": "2026-07-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -944,34 +1000,6 @@
       "angle": "Fashion Intelligence: Kate Middleton, the Princess of Wales’s Best Fashion Moments at Wimble...",
       "score": 1,
       "published": "2026-07-12T22:02:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "189b1f5b0098",
-      "title": "Beyoncé Brings the Business Capri Suit to the Stage With Jay-Z",
-      "link": "https://www.vogue.com/article/beyonce-business-capri-suit-jay-z-reasonable-doubt-show",
-      "summary": "It was a family affair at the first of three anniversary shows for Jay-Z, bringing out both Beyoncé and Blue Ivy Carter.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Beyoncé Brings the Business Capri Suit to the Stage With Jay-Z...",
-      "score": 1,
-      "published": "2026-07-12T21:31:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "333a3a55c4bb",
-      "title": "All the Best Celebrity Fashion at Wimbledon 2026",
-      "link": "https://www.vogue.com/slideshow/best-celebrity-fashions-wimbledon-2026",
-      "summary": "The tennis tournament is nearing its end, but Wimbledon 2026 has been a veritable feast of celebrity style. Here, see the best and boldest looks.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-12T21:27:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,20 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "480242f5b9cb",
-      "title": "I Write a Weekly Fashion Newsletter—These Are the Summer Hats Chic Women Are Wearing",
-      "link": "https://www.whowhatwear.com/fashion/summer/best-summer-hats",
-      "summary": "Bucket, raffia, and statement hats stylish women are wearing now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0f4c7b09f4b1",
       "title": "Wedding Guest Dressing Without the Meltdown—How to Shop Mid and Plus-Size, According to an Expert",
       "link": "https://www.whowhatwear.com/fashion/dresses/plus-size-wedding-guest-dresses",
@@ -1119,6 +1133,20 @@
       "title": "The Viral $90 Gap Pants Every Chic Dresser Is Wearing Instead of Jeans",
       "link": "https://www.whowhatwear.com/fashion/shopping/gap-easy-pants",
       "summary": "Perfect for summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "480242f5b9cb",
+      "title": "I Write a Weekly Fashion Newsletter—These Are the Summer Hats Chic Women Are Wearing",
+      "link": "https://www.whowhatwear.com/fashion/summer/best-summer-hats",
+      "summary": "Bucket, raffia, and statement hats stylish women are wearing now.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1157,20 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c96368dc80e",
-      "title": "Spiral Jewellery! Graphic Tees! Neon Colours! 7 Fashion Trends Making a Comeback for Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/summer/summer-fashion-trends-making-a-comeback-2026",
-      "summary": "Trust me, they're here to stay.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-12T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f522a5f25823",
       "title": "H&M Just Perfected the 5 Shoe Trends That Will Make Any Summer Outfit Look More Expensive",
       "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-shoe-trends-2026",
@@ -1181,6 +1195,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-07-12T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c96368dc80e",
+      "title": "Spiral Jewellery! Graphic Tees! Neon Colours! 7 Fashion Trends Making a Comeback for Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-fashion-trends-making-a-comeback-2026",
+      "summary": "Trust me, they're here to stay.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-07-12T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1199,20 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b761ad950307",
-      "title": "Spotted in London and New York: Here's How the Most Fashionable Women Dress for Summer in the City",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-in-the-city-capsule-wardrobe-2026",
-      "summary": "Your global fashion dispatch.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-12T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e3e57a0d2e08",
       "title": "From Paris to London, Here's How Chic European Women Are Wearing a Blouse and Jeans This Summer",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/european-blouse-jean-outfits-summer-2026",
@@ -1223,6 +1237,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-07-12T04:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b761ad950307",
+      "title": "Spotted in London and New York: Here's How the Most Fashionable Women Dress for Summer in the City",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-in-the-city-capsule-wardrobe-2026",
+      "summary": "Your global fashion dispatch.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-12T04:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1377,34 +1405,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: It's Here: Prada's It Bag for Summer 2026...",
       "score": 1,
-      "published": "2026-07-11T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "df087e82a5e3",
-      "title": "Fashion People Have Officially Crowned the It Sandals of Summer, and They’re So The Row-Coded",
-      "link": "https://www.whowhatwear.com/fashion/shopping/ancient-greek-sandals-saionara-red-jelly-flip-flops",
-      "summary": "The fashion set has spoken.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People Have Officially Crowned the It Sandals of Summer, and T...",
-      "score": 1,
-      "published": "2026-07-11T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3d648cae6359",
-      "title": "French Women and Fashion People Agree—This Summer Jeans Trend Looks Best With Heels",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/wide-leg-jeans-heels-outfit-charlize-theron-2026",
-      "summary": "Très chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-07-11T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1826,20 +1826,6 @@
       "angle": "Fashion Intelligence: 10 Best 7-Inch Inseam Shorts For Men in 2026...",
       "score": 1,
       "published": "2026-07-10T07:42:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f366a02fbd5d",
-      "title": "Footwear QCOs Extend Stock Deadline, Ease R&D Compliance",
-      "link": "https://in.apparelresources.com/business-news/retail/footwear-qcos-extend-stock-deadline-ease-rd-compliance/",
-      "summary": "The Department for Promotion of Industry and Internal Trade (DPIIT) has amended two Quality Control Orders (QCOs) governing leather, rubber and polymer-based footwear, extending the deadline for clearing legacy inventory and relaxing import norms for research and development (R&#38;D) samples. Under the revised provisi",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Footwear QCOs Extend Stock Deadline, Ease R&D Compliance...",
-      "score": 1,
-      "published": "2026-07-10T07:40:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3049,52 +3035,52 @@
   ],
   "trends": [
     {
-      "term": "ఉద్యోగి",
+      "term": "hotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "jiohotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "eng बनाम ind",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi index",
+      "term": "hang seng",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ayushman card",
+      "term": "belgium vs hungary",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sir form online",
+      "term": "ന്യൂസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tcs",
+      "term": "जेएनवीएसटी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nifty today",
+      "term": "dear lottery result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "groww share price",
+      "term": "१९ जुलाई",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "d. k. shivakumar",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "kalyan jewellers share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "cupid share price",
+      "term": "கூட்டுறவு",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
