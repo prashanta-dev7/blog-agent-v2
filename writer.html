@@ -1694,13 +1694,27 @@ async function uploadImageToWP(imageUrl, filename, altText) {
 }
 
 function getFeaturedImageUrl(originalUrl, width, height) {
-  if (!originalUrl) return null;
+  if (!originalUrl) {
+    console.warn('getFeaturedImageUrl: no URL provided');
+    return null;
+  }
+
   const w = width || parseInt(sessionStorage.getItem('FEATURED_IMAGE_WIDTH') || '1200');
   const h = height || parseInt(sessionStorage.getItem('FEATURED_IMAGE_HEIGHT') || '800');
-  return originalUrl.replace(
+
+  // If URL doesn't have ImageKit transform, just use original
+  if (!originalUrl.includes('tr:')) {
+    console.log('No ImageKit transform in URL, using original:', originalUrl);
+    return originalUrl;
+  }
+
+  const transformed = originalUrl.replace(
     /tr:[^/]+/,
     `tr:w-${w},h-${h},c-maintain_ratio`
   );
+
+  console.log('Featured image URL transform:', { original: originalUrl, transformed: transformed, dims: `${w}x${h}` });
+  return transformed;
 }
 
 function buildSectionHTML(sectionMarkdown, matchResult) {
@@ -1897,6 +1911,8 @@ async function publishToWordPress() {
 
 async function setFeaturedImage(postId, mediaId, creds) {
   try {
+    console.log(`Setting featured image: postId=${postId}, mediaId=${mediaId}`);
+
     const payload = {
       featured_media: mediaId
     };
@@ -1915,7 +1931,8 @@ async function setFeaturedImage(postId, mediaId, creds) {
       throw new Error(error.message || `Failed to set featured image: ${r.status}`);
     }
 
-    console.log('Featured image set successfully');
+    const result = await r.json();
+    console.log('Featured image set successfully:', { postId, mediaId, featured_media: result.featured_media });
   } catch (e) {
     // Non-blocking — log but don't throw
     console.warn('Featured image setup failed (non-blocking):', e);
