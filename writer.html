@@ -580,6 +580,29 @@ async function matchSection(sectionText, catalogue) {
   };
 }
 
+async function matchAllSections(sections, catalogue) {
+  const results = [];
+  for (const section of sections) {
+    const { matched, flagged, candidates, best } = await matchSection(
+      section.text, catalogue
+    );
+    results.push({
+      section_heading: section.heading,
+      section_text: section.text,
+      matched: matched,
+      flagged: flagged,
+      best_pid: best.product.pid,
+      best_score: best.score,
+      best_image: best.product.images[0],
+      pdp_url: best.product.pdp_url,
+      product: best.product,
+      candidates: candidates,
+      approved: false
+    });
+  }
+  return results;
+}
+
 function postProcess(text) {
   // Remove all em-dashes (—) from the output
   return text.replace(/—/g, '');
