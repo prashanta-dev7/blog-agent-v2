@@ -690,8 +690,14 @@ document.getElementById('catalogue-file-input').addEventListener('change', async
 });
 
 async function matchProductImages() {
-  if (!productCatalogue) {
-    alert('Please upload the product catalogue first');
+  if (!productCatalogue || productCatalogue.length === 0) {
+    alert('Product catalogue not loaded.\n\nSteps:\n1. Click Settings (gear icon)\n2. Scroll to "Product Catalogue"\n3. Upload products_with_embeddings.json file');
+    openSettings();
+    return;
+  }
+  if (!sessionStorage.getItem('OPENAI_API_KEY')) {
+    alert('OpenAI API key required for matching.\n\nAdd it in Settings under "OpenAI API Key"');
+    openSettings();
     return;
   }
   if (!currentDraft) {
@@ -725,12 +731,22 @@ async function matchProductImages() {
 
     matchResults = await matchAllSections(sections, productCatalogue);
     console.log('Match results:', matchResults);
-    renderMatchResults(matchResults);
 
+    // Check if any matches were found
+    const matchedSections = matchResults.filter(r => r.matched);
+    if (matchedSections.length === 0) {
+      console.warn('No product matches found above threshold (0.35). Try adjusting section text or threshold.');
+    }
+
+    renderMatchResults(matchResults);
     document.getElementById('match-results-container').style.display = 'block';
   } catch (err) {
     console.error('Image matching error:', err);
-    alert('Error matching images: ' + err.message);
+    if (err.message.includes('OpenAI')) {
+      alert('OpenAI embedding API error: ' + err.message + '\n\nCheck your API key in Settings.');
+    } else {
+      alert('Error matching images: ' + err.message);
+    }
   } finally {
     btn.disabled = false;
     btn.textContent = 'Match Product Images';
