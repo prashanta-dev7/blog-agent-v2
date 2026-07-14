@@ -1560,6 +1560,32 @@ function getFeaturedImageUrl(originalUrl, width, height) {
   );
 }
 
+function buildSectionHTML(sectionMarkdown, matchResult) {
+  let html = marked.parse(sectionMarkdown);
+
+  if (matchResult && matchResult.approved && matchResult.media_url) {
+    const figure = `
+<figure class="wp-block-image aligncenter">
+  <a href="${matchResult.pdp_url}" target="_blank" rel="noopener noreferrer">
+    <img src="${matchResult.media_url}" alt="${escapeHtml(matchResult.product.title)}" />
+  </a>
+  <figcaption>
+    <a href="${matchResult.pdp_url}" target="_blank" rel="noopener noreferrer">
+      ${escapeHtml(matchResult.product.title)}
+    </a>
+  </figcaption>
+</figure>`;
+
+    if (html.includes('</h2>')) {
+      html = html.replace('</h2>', `</h2>${figure}`);
+    } else {
+      html = figure + html;
+    }
+  }
+
+  return html;
+}
+
 function getWpCredentials() {
   return {
     siteUrl: sessionStorage.getItem('WP_SITE_URL'),
@@ -1591,8 +1617,61 @@ async function publishToWordPress() {
     btn.disabled = true;
     publishText.textContent = '⟳ Publishing...';
 
-    // Convert markdown to HTML using marked.js
-    const htmlContent = marked.parse(currentCorrectedDraft);
+    let htmlContent = '';
+
+    // If matchResults exist, build HTML with product figures
+    if (matchResults && matchResults.length > 0) {
+      publishText.textContent = '⟳ Uploading product images...';
+
+      // Upload approved matched images to WordPress media library
+      for (const match of matchResults) {
+        if (match.approved && match.best_image && !match.media_url) {
+          try {
+            const filename = `blog-product-${match.best_pid}.jpg`;
+            const result = await uploadImageToWP(match.best_image, filename, match.product.title);
+            match.media_url = result.media_url;
+            match.media_id = result.media_id;
+            console.log(`Uploaded image for section "${match.section_heading}": media_id=${result.media_id}`);
+          } catch (uploadErr) {
+            console.warn(`Failed to upload image for section "${match.section_heading}":`, uploadErr);
+            // Continue without image if upload fails
+          }
+        }
+      }
+
+      publishText.textContent = '⟳ Assembling post...';
+
+      // Build HTML sections with product figures
+      const lines = currentCorrectedDraft.split('\n');
+      let currentSection = null;
+      let currentText = [];
+
+      for (const line of lines) {
+        if (line.startsWith('## ')) {
+          if (currentSection) {
+            // Find matching result for this section
+            const match = matchResults.find(m => m.section_heading === currentSection);
+            htmlContent += buildSectionHTML(currentText.join('\n').trim(), match);
+          }
+          currentSection = line.slice(3).trim();
+          currentText = [];
+        } else if (currentSection) {
+          currentText.push(line);
+        } else {
+          // Intro text before first section
+          htmlContent += marked.parse(line);
+        }
+      }
+
+      // Process final section
+      if (currentSection) {
+        const match = matchResults.find(m => m.section_heading === currentSection);
+        htmlContent += buildSectionHTML(currentText.join('\n').trim(), match);
+      }
+    } else {
+      // No match results — just convert markdown to HTML
+      htmlContent = marked.parse(currentCorrectedDraft);
+    }
 
     // Build post payload
     const payload = {
@@ -1602,6 +1681,8 @@ async function publishToWordPress() {
       slug: currentBrief.slug,
       excerpt: currentBrief.meta_description
     };
+
+    publishText.textContent = '⟳ Creating post...';
 
     // Publish to WordPress REST API
     const response = await fetch(`${creds.siteUrl}/wp-json/wp/v2/posts`, {
@@ -1632,6 +1713,21 @@ async function publishToWordPress() {
 
     const post = await response.json();
 
+    // Set featured image if matched product approved
+    if (matchResults && matchResults.length > 0) {
+      const approvedMatch = matchResults.find(m => m.approved && m.matched && m.media_id);
+      if (approvedMatch) {
+        try {
+          publishText.textContent = '⟳ Setting featured image...';
+          const featuredUrl = getFeaturedImageUrl(approvedMatch.best_image);
+          await setFeaturedImage(post.id, approvedMatch.media_id, creds);
+          console.log(`Featured image set: media_id=${approvedMatch.media_id}`);
+        } catch (featErr) {
+          console.warn('Featured image setup failed (non-blocking):', featErr);
+        }
+      }
+    }
+
     // Update Yoast fields
     await updateYoastFields(post.id, currentBrief, creds, selectedTitle || currentBrief.title);
 
@@ -1653,6 +1749,30 @@ async function publishToWordPress() {
     statusEl.classList.remove('success');
     statusEl.style.display = 'block';
     statusEl.scrollIntoView({ behavior: 'smooth' });
+  }
+}
+
+async function setFeaturedImage(postId, mediaId, creds) {
+  try {
+    const payload = {
+      meta: {
+        _thumbnail_id: mediaId
+      }
+    };
+
+    await fetch(`${creds.siteUrl}/wp-json/wp/v2/posts/${postId}`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Basic ' + btoa(`${creds.username}:${creds.appPassword}`)
+      },
+      body: JSON.stringify(payload)
+    });
+
+    console.log('Featured image set successfully');
+  } catch (e) {
+    // Non-blocking — log but don't throw
+    console.warn('Featured image setup failed (non-blocking):', e);
   }
 }
 
