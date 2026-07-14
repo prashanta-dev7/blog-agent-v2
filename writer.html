@@ -552,6 +552,34 @@ async function embedText(text) {
   return d.data[0].embedding;
 }
 
+function cosineSim(a, b) {
+  let dot = 0, na = 0, nb = 0;
+  for (let i = 0; i < a.length; i++) {
+    dot += a[i] * b[i];
+    na += a[i] * a[i];
+    nb += b[i] * b[i];
+  }
+  return dot / (Math.sqrt(na) * Math.sqrt(nb));
+}
+
+const NO_MATCH_THRESHOLD = 0.35;
+
+async function matchSection(sectionText, catalogue) {
+  const sectionEmb = await embedText(sectionText);
+
+  const scored = catalogue
+    .map(function(p) { return { product: p, score: cosineSim(sectionEmb, p.embedding) }; })
+    .sort(function(a, b) { return b.score - a.score; })
+    .slice(0, 3);
+
+  return {
+    matched: scored[0].score >= NO_MATCH_THRESHOLD,
+    flagged: scored[0].score < NO_MATCH_THRESHOLD,
+    candidates: scored,
+    best: scored[0]
+  };
+}
+
 function postProcess(text) {
   // Remove all em-dashes (—) from the output
   return text.replace(/—/g, '');
