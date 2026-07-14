@@ -1659,15 +1659,31 @@ async function uploadImageToWP(imageUrl, filename, altText) {
     if (!imgResp.ok) {
       throw new Error(`Failed to fetch image: ${imgResp.status} from ${imageUrl}`);
     }
+
     const blob = await imgResp.blob();
     console.log(`Image downloaded: ${blob.size} bytes, type: ${blob.type}`);
 
+    // Validate blob
+    if (!blob || blob.size === 0) {
+      throw new Error(`Downloaded image is empty (${blob.size} bytes)`);
+    }
+    if (!blob.type.startsWith('image/')) {
+      console.warn(`Warning: blob type is ${blob.type}, expected image/*`);
+      // Force correct type if needed
+      const imageBlob = new Blob([blob], { type: 'image/jpeg' });
+      console.log(`Corrected blob type to image/jpeg`);
+      return uploadImageToWP(imageUrl, filename, altText); // Retry with corrected blob
+    }
+
+    // Create FormData with proper File object
     const form = new FormData();
-    form.append('file', blob, filename);
+    const file = new File([blob], filename, { type: blob.type || 'image/jpeg' });
+    form.append('file', file);
     if (altText) {
       form.append('alt_text', altText);
     }
 
+    console.log(`Uploading to WordPress: ${siteUrl}/wp-json/wp/v2/media`);
     const credentials = btoa(`${username}:${appPassword}`);
     const r = await fetch(`${siteUrl}/wp-json/wp/v2/media`, {
       method: 'POST',
@@ -1677,13 +1693,20 @@ async function uploadImageToWP(imageUrl, filename, altText) {
       body: form
     });
 
+    console.log(`WordPress response: ${r.status} ${r.statusText}`);
+    const media = await r.json();
+
     if (!r.ok) {
-      const error = await r.json();
-      const errorMsg = error.message || error.data?.message || `WordPress media upload failed: ${r.status}`;
+      console.error('WordPress error response:', media);
+      const errorMsg = media.message || media.data?.message || `WordPress media upload failed: ${r.status}`;
       throw new Error(errorMsg);
     }
 
-    const media = await r.json();
+    if (!media.id || !media.source_url) {
+      console.error('Invalid WordPress response:', media);
+      throw new Error(`Invalid response from WordPress: ${JSON.stringify(media)}`);
+    }
+
     console.log(`Image uploaded to WordPress: media_id=${media.id}, url=${media.source_url}`);
     return {
       media_id: media.id,
