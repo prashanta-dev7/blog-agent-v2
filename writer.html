@@ -834,21 +834,41 @@ async function matchProductImages() {
     const lines = currentDraft.split('\n');
     let currentSection = null;
     let currentText = [];
+
     for (const line of lines) {
       if (line.startsWith('## ')) {
+        // H2 heading: new section
         if (currentSection) {
           sections.push({ heading: currentSection, text: currentText.join('\n').trim() });
         }
         currentSection = line.slice(3).trim();
         currentText = [];
+      } else if (line.startsWith('# ')) {
+        // Skip H1 (title)
+        continue;
       } else if (currentSection) {
+        // Text under a heading
+        currentText.push(line);
+      } else if (line.trim().length > 0) {
+        // Text before any heading (intro paragraphs)
+        if (!currentSection) {
+          currentSection = '[Introduction]';
+        }
         currentText.push(line);
       }
     }
-    if (currentSection) {
+
+    // Save final section
+    if (currentSection && currentText.length > 0) {
       sections.push({ heading: currentSection, text: currentText.join('\n').trim() });
     }
 
+    if (sections.length === 0) {
+      alert('No sections found in blog. Blog needs either:\n1. H2 subheadings (## Title)\n2. Or at least 3 paragraphs of body text');
+      throw new Error('No sections to match');
+    }
+
+    console.log(`Found ${sections.length} section(s) to match`);
     matchResults = await matchAllSections(sections, productCatalogue);
     console.log('Match results:', matchResults);
 
