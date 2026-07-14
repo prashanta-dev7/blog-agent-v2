@@ -631,7 +631,14 @@ function cosineSim(a, b) {
   return dot / (Math.sqrt(na) * Math.sqrt(nb));
 }
 
-const NO_MATCH_THRESHOLD = 0.35;
+// Adjustable threshold for debugging mismatch issues
+let NO_MATCH_THRESHOLD = 0.35;
+
+// Temporary: lower threshold for testing (set to 0.30 if needed)
+function setMatchThreshold(value) {
+  NO_MATCH_THRESHOLD = value;
+  console.log(`Match threshold set to ${value}`);
+}
 
 async function matchSection(sectionText, catalogue) {
   const sectionEmb = await embedText(sectionText);
@@ -641,9 +648,12 @@ async function matchSection(sectionText, catalogue) {
     .sort(function(a, b) { return b.score - a.score; })
     .slice(0, 3);
 
+  const topScore = scored[0].score;
+  console.log(`Section score: ${topScore.toFixed(3)} (threshold: ${NO_MATCH_THRESHOLD}) - "${sectionText.substring(0, 50)}..."`);
+
   return {
-    matched: scored[0].score >= NO_MATCH_THRESHOLD,
-    flagged: scored[0].score < NO_MATCH_THRESHOLD,
+    matched: topScore >= NO_MATCH_THRESHOLD,
+    flagged: topScore < NO_MATCH_THRESHOLD,
     candidates: scored,
     best: scored[0]
   };
@@ -734,8 +744,12 @@ async function matchProductImages() {
 
     // Check if any matches were found
     const matchedSections = matchResults.filter(r => r.matched);
+    const bestScores = matchResults.map(r => ({ section: r.section_heading, score: r.best.score.toFixed(3) }));
+    console.log('Best scores per section:', bestScores);
+
     if (matchedSections.length === 0) {
-      console.warn('No product matches found above threshold (0.35). Try adjusting section text or threshold.');
+      const maxScore = Math.max(...matchResults.map(r => r.best.score));
+      console.warn(`No matches above 0.35 threshold. Highest score was ${maxScore.toFixed(3)}. Products may not match blog content topics.`);
     }
 
     renderMatchResults(matchResults);
