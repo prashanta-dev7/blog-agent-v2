@@ -427,6 +427,15 @@ a{color:inherit}
     </div>
 
     <div class="settings-section">
+      <h3>OpenAI (product image matching)</h3>
+      <label for="openai-key-input">API Key</label>
+      <input type="password" id="openai-key-input" placeholder="sk-...">
+      <div style="font-size:var(--text-xs);color:var(--color-text-muted);margin-bottom:var(--space-3)">
+        Used for embedding blog sections (~$0.00004 per blog, ~6 calls)
+      </div>
+    </div>
+
+    <div class="settings-section">
       <h3>WordPress</h3>
       <label for="wp-site-url">Site URL</label>
       <input type="url" id="wp-site-url" placeholder="https://ssblog.azaonline.in" value="https://ssblog.azaonline.in">
@@ -434,6 +443,27 @@ a{color:inherit}
       <input type="text" id="wp-username" placeholder="your-username">
       <label for="wp-app-password">App Password</label>
       <input type="password" id="wp-app-password" placeholder="xxxx xxxx xxxx xxxx">
+    </div>
+
+    <div class="settings-section">
+      <h3>Product Catalogue</h3>
+      <label for="catalogue-upload">Upload products_with_embeddings.json</label>
+      <input type="file" id="catalogue-upload" accept="application/json" style="margin-bottom:var(--space-2)">
+      <div id="catalogue-status" style="font-size:var(--text-xs);color:var(--color-text-muted);margin-bottom:var(--space-3)">No catalogue loaded</div>
+    </div>
+
+    <div class="settings-section">
+      <h3>Featured Image</h3>
+      <div style="display:flex;gap:var(--space-3)">
+        <div style="flex:1">
+          <label for="featured-width">Width (px)</label>
+          <input type="number" id="featured-width" placeholder="1200" min="1">
+        </div>
+        <div style="flex:1">
+          <label for="featured-height">Height (px)</label>
+          <input type="number" id="featured-height" placeholder="800" min="1">
+        </div>
+      </div>
     </div>
 
     <div class="settings-panel-buttons">
@@ -465,12 +495,28 @@ let currentCorrectedDraft = null;
 let currentReview = null;
 let reviewAttempt = 1;
 let selectedTitle = null;
+let productCatalogue = null; // memory only — never persisted
 
 function selectTitle(title, el) {
   selectedTitle = title;
   document.querySelectorAll('.title-option').forEach(function(o){ o.classList.remove('selected'); });
   el.classList.add('selected');
 }
+
+document.getElementById('catalogue-upload').addEventListener('change', async function(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  try {
+    const text = await file.text();
+    productCatalogue = JSON.parse(text);
+    document.getElementById('catalogue-status').textContent = productCatalogue.length + ' products loaded ✓';
+    console.log('Catalogue loaded: ' + productCatalogue.length + ' products');
+  } catch (err) {
+    productCatalogue = null;
+    document.getElementById('catalogue-status').textContent = 'Failed to load catalogue: ' + err.message;
+    console.error('Catalogue load error:', err);
+  }
+});
 
 async function loadBrandGuides() {
   try {
@@ -1138,9 +1184,15 @@ function openSettings(e) {
   if (e) e.preventDefault();
   document.getElementById('settings-overlay').classList.add('active');
   document.getElementById('api-key-input').value = getApiKey();
+  document.getElementById('openai-key-input').value = sessionStorage.getItem('OPENAI_API_KEY') || '';
   document.getElementById('wp-site-url').value = sessionStorage.getItem('WP_SITE_URL') || 'https://ssblog.azaonline.in';
   document.getElementById('wp-username').value = sessionStorage.getItem('WP_USERNAME') || '';
   document.getElementById('wp-app-password').value = sessionStorage.getItem('WP_APP_PASSWORD') || '';
+  document.getElementById('featured-width').value = sessionStorage.getItem('FEATURED_IMAGE_WIDTH') || '1200';
+  document.getElementById('featured-height').value = sessionStorage.getItem('FEATURED_IMAGE_HEIGHT') || '800';
+  document.getElementById('catalogue-status').textContent = productCatalogue
+    ? productCatalogue.length + ' products loaded ✓'
+    : 'No catalogue loaded';
   document.getElementById('settings-status').textContent = '';
   document.getElementById('settings-status').classList.remove('show', 'error', 'success');
 }
@@ -1163,9 +1215,12 @@ function validateApiKey() {
 
 function saveSettings() {
   const apiKey = document.getElementById('api-key-input').value;
+  const openaiKey = document.getElementById('openai-key-input').value;
   const wpSiteUrl = document.getElementById('wp-site-url').value;
   const wpUsername = document.getElementById('wp-username').value;
   const wpPassword = document.getElementById('wp-app-password').value;
+  const featuredWidth = document.getElementById('featured-width').value;
+  const featuredHeight = document.getElementById('featured-height').value;
   const statusEl = document.getElementById('settings-status');
 
   if (!apiKey || apiKey.length < 10) {
@@ -1175,9 +1230,12 @@ function saveSettings() {
   }
 
   sessionStorage.setItem('ANTHROPIC_API_KEY', apiKey);
+  sessionStorage.setItem('OPENAI_API_KEY', openaiKey);
   sessionStorage.setItem('WP_SITE_URL', wpSiteUrl);
   sessionStorage.setItem('WP_USERNAME', wpUsername);
   sessionStorage.setItem('WP_APP_PASSWORD', wpPassword);
+  sessionStorage.setItem('FEATURED_IMAGE_WIDTH', featuredWidth || '1200');
+  sessionStorage.setItem('FEATURED_IMAGE_HEIGHT', featuredHeight || '800');
 
   statusEl.textContent = 'Settings saved successfully';
   statusEl.classList.add('show', 'success');
