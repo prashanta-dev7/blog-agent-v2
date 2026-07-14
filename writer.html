@@ -1501,6 +1501,55 @@ function saveSettings() {
   }, 1500);
 }
 
+async function uploadImageToWP(imageUrl, filename, altText) {
+  const siteUrl = sessionStorage.getItem('WP_SITE_URL');
+  const username = sessionStorage.getItem('WP_USERNAME');
+  const appPassword = sessionStorage.getItem('WP_APP_PASSWORD');
+
+  if (!siteUrl || !username || !appPassword) {
+    throw new Error('WordPress credentials not configured');
+  }
+
+  try {
+    const imgResp = await fetch(imageUrl);
+    if (!imgResp.ok) {
+      throw new Error(`Failed to fetch image: ${imgResp.status}`);
+    }
+    const blob = await imgResp.blob();
+
+    const form = new FormData();
+    form.append('file', blob, filename);
+    if (altText) {
+      form.append('alt_text', altText);
+    }
+
+    const credentials = btoa(`${username}:${appPassword}`);
+    const r = await fetch(`${siteUrl}/wp-json/wp/v2/media`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Basic ${credentials}`
+      },
+      body: form
+    });
+
+    if (!r.ok) {
+      const error = await r.json();
+      const errorMsg = error.message || error.data?.message || `WordPress media upload failed: ${r.status}`;
+      throw new Error(errorMsg);
+    }
+
+    const media = await r.json();
+    return {
+      media_id: media.id,
+      media_url: media.source_url,
+      guid: media.guid
+    };
+  } catch (e) {
+    console.error('Image upload error:', e);
+    throw e;
+  }
+}
+
 function getWpCredentials() {
   return {
     siteUrl: sessionStorage.getItem('WP_SITE_URL'),
