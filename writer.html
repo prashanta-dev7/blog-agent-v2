@@ -689,15 +689,34 @@ function setMatchThreshold(value) {
 async function matchSection(sectionText, catalogue) {
   const sectionEmb = await embedText(sectionText);
 
+  // Validate section embedding
+  if (!Array.isArray(sectionEmb) || sectionEmb.length !== 1536 || !sectionEmb.every(Number.isFinite)) {
+    throw new Error(`Invalid section embedding: expected 1536 finite numbers, got ${sectionEmb.length} values`);
+  }
+
   const scored = catalogue
-    .map(function(p) { return { product: p, score: cosineSim(sectionEmb, p.embedding) }; })
+    .map(function(p) {
+      if (!p.embedding || !Array.isArray(p.embedding)) {
+        return { product: p, score: -1, error: 'no embedding' };
+      }
+      const sim = cosineSim(sectionEmb, p.embedding);
+      return { product: p, score: Number.isFinite(sim) ? sim : -1 };
+    })
+    .filter(function(s) { return s.score >= -1; })
     .sort(function(a, b) { return b.score - a.score; })
     .slice(0, 3);
 
+  if (scored.length === 0) {
+    throw new Error('No valid products to score');
+  }
+
   const topScore = scored[0].score;
-  console.log(`Section score: ${topScore.toFixed(3)} (threshold: ${NO_MATCH_THRESHOLD}) - "${sectionText.substring(0, 50)}..."`);
+  const scoreStr = Number.isFinite(topScore) ? topScore.toFixed(3) : 'INVALID';
+  console.log(`Section score: ${scoreStr} (threshold: ${NO_MATCH_THRESHOLD}) - "${sectionText.substring(0, 50)}..."`);
 
   return {
+    section_heading: sectionText.split('\n')[0].substring(0, 50),
+    section_text: sectionText,
     matched: topScore >= NO_MATCH_THRESHOLD,
     flagged: topScore < NO_MATCH_THRESHOLD,
     candidates: scored,
@@ -708,22 +727,35 @@ async function matchSection(sectionText, catalogue) {
 async function matchAllSections(sections, catalogue) {
   const results = [];
   for (const section of sections) {
-    const { matched, flagged, candidates, best } = await matchSection(
-      section.text, catalogue
-    );
-    results.push({
-      section_heading: section.heading,
-      section_text: section.text,
-      matched: matched,
-      flagged: flagged,
-      best_pid: best.product.pid,
-      best_score: best.score,
-      best_image: best.product.images[0],
-      pdp_url: best.product.pdp_url,
-      product: best.product,
-      candidates: candidates,
-      approved: false
-    });
+    try {
+      const matchResult = await matchSection(section.text, catalogue);
+      const { matched, flagged, candidates, best } = matchResult;
+
+      if (!best || !best.product) {
+        console.warn(`No valid match for section: ${section.heading}`);
+        continue;
+      }
+
+      const product = best.product;
+      results.push({
+        section_heading: section.heading,
+        section_text: section.text,
+        matched: matched,
+        flagged: flagged,
+        best_pid: product.pid || product.id,
+        best_score: best.score,
+        best_image: product.images && product.images[0],
+        pdp_url: product.pdp_url,
+        product: product,
+        candidates: candidates,
+        approved: false
+      });
+    } catch (sectionErr) {
+      console.error(`Error matching section "${section.heading}":`, sectionErr);
+    }
+  }
+  if (results.length === 0) {
+    throw new Error('Failed to match any sections. Check catalogue and embeddings.');
   }
   return results;
 }
@@ -813,12 +845,21 @@ async function matchProductImages() {
 
     // Check if any matches were found
     const matchedSections = matchResults.filter(r => r.matched);
-    const bestScores = matchResults.map(r => ({ section: r.section_heading, score: r.best.score.toFixed(3) }));
+    const bestScores = matchResults
+      .filter(r => r.best && Number.isFinite(r.best.score))
+      .map(r => ({ section: r.section_heading, score: r.best.score.toFixed(3) }));
     console.log('Best scores per section:', bestScores);
 
     if (matchedSections.length === 0) {
-      const maxScore = Math.max(...matchResults.map(r => r.best.score));
-      console.warn(`No matches above 0.35 threshold. Highest score was ${maxScore.toFixed(3)}. Products may not match blog content topics.`);
+      const scores = matchResults
+        .filter(r => r.best && Number.isFinite(r.best.score))
+        .map(r => r.best.score);
+      if (scores.length > 0) {
+        const maxScore = Math.max(...scores);
+        console.warn(`No matches above threshold ${NO_MATCH_THRESHOLD}. Highest score was ${maxScore.toFixed(3)}. Try lowering threshold or checking catalogue.`);
+      } else {
+        console.error('ERROR: No valid scores at all. Catalogue embeddings may be corrupted. Regenerate with embed_products.py');
+      }
     }
 
     renderMatchResults(matchResults);
