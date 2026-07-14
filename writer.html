@@ -1550,6 +1550,16 @@ async function uploadImageToWP(imageUrl, filename, altText) {
   }
 }
 
+function getFeaturedImageUrl(originalUrl, width, height) {
+  if (!originalUrl) return null;
+  const w = width || parseInt(sessionStorage.getItem('FEATURED_IMAGE_WIDTH') || '1200');
+  const h = height || parseInt(sessionStorage.getItem('FEATURED_IMAGE_HEIGHT') || '800');
+  return originalUrl.replace(
+    /tr:[^/]+/,
+    `tr:w-${w},h-${h},c-maintain_ratio`
+  );
+}
+
 function getWpCredentials() {
   return {
     siteUrl: sessionStorage.getItem('WP_SITE_URL'),
