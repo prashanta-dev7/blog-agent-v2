@@ -1755,12 +1755,10 @@ async function publishToWordPress() {
 async function setFeaturedImage(postId, mediaId, creds) {
   try {
     const payload = {
-      meta: {
-        _thumbnail_id: mediaId
-      }
+      featured_media: mediaId
     };
 
-    await fetch(`${creds.siteUrl}/wp-json/wp/v2/posts/${postId}`, {
+    const r = await fetch(`${creds.siteUrl}/wp-json/wp/v2/posts/${postId}`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -1768,6 +1766,11 @@ async function setFeaturedImage(postId, mediaId, creds) {
       },
       body: JSON.stringify(payload)
     });
+
+    if (!r.ok) {
+      const error = await r.json();
+      throw new Error(error.message || `Failed to set featured image: ${r.status}`);
+    }
 
     console.log('Featured image set successfully');
   } catch (e) {
