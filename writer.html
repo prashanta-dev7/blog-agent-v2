@@ -1654,11 +1654,13 @@ async function uploadImageToWP(imageUrl, filename, altText) {
   }
 
   try {
+    console.log(`Downloading image from: ${imageUrl}`);
     const imgResp = await fetch(imageUrl);
     if (!imgResp.ok) {
-      throw new Error(`Failed to fetch image: ${imgResp.status}`);
+      throw new Error(`Failed to fetch image: ${imgResp.status} from ${imageUrl}`);
     }
     const blob = await imgResp.blob();
+    console.log(`Image downloaded: ${blob.size} bytes, type: ${blob.type}`);
 
     const form = new FormData();
     form.append('file', blob, filename);
@@ -1682,6 +1684,7 @@ async function uploadImageToWP(imageUrl, filename, altText) {
     }
 
     const media = await r.json();
+    console.log(`Image uploaded to WordPress: media_id=${media.id}, url=${media.source_url}`);
     return {
       media_id: media.id,
       media_url: media.source_url,
@@ -1876,7 +1879,11 @@ async function publishToWordPress() {
       if (approvedMatch) {
         try {
           publishText.textContent = '⟳ Setting featured image...';
-          const featuredUrl = getFeaturedImageUrl(approvedMatch.best_image);
+          // Use the WordPress-uploaded media URL (stored in media_url after upload)
+          if (approvedMatch.media_url) {
+            const transformedUrl = getFeaturedImageUrl(approvedMatch.media_url);
+            console.log(`Featured image URL: ${transformedUrl}`);
+          }
           await setFeaturedImage(post.id, approvedMatch.media_id, creds);
           console.log(`Featured image set: media_id=${approvedMatch.media_id}`);
         } catch (featErr) {
