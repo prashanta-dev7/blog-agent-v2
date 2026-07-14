@@ -535,6 +535,23 @@ function getApiKey() {
   return sessionStorage.getItem('ANTHROPIC_API_KEY');
 }
 
+async function embedText(text) {
+  const r = await fetch('https://api.openai.com/v1/embeddings', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer ' + sessionStorage.getItem('OPENAI_API_KEY')
+    },
+    body: JSON.stringify({
+      model: 'text-embedding-3-small',
+      input: text.slice(0, 2000)
+    })
+  });
+  const d = await r.json();
+  if (d.error) throw new Error(d.error.message || 'OpenAI embeddings request failed');
+  return d.data[0].embedding;
+}
+
 function postProcess(text) {
   // Remove all em-dashes (—) from the output
   return text.replace(/—/g, '');
