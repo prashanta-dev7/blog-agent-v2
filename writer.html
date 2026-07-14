@@ -605,30 +605,76 @@ function getApiKey() {
 }
 
 async function embedText(text) {
+  if (!text || text.trim().length === 0) {
+    throw new Error('Cannot embed empty text');
+  }
+
+  const apiKey = sessionStorage.getItem('OPENAI_API_KEY');
+  if (!apiKey) {
+    throw new Error('OpenAI API key not configured');
+  }
+
   const r = await fetch('https://api.openai.com/v1/embeddings', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer ' + sessionStorage.getItem('OPENAI_API_KEY')
+      'Authorization': 'Bearer ' + apiKey
     },
     body: JSON.stringify({
       model: 'text-embedding-3-small',
       input: text.slice(0, 2000)
     })
   });
+
+  if (!r.ok) {
+    const error = await r.json();
+    throw new Error(`OpenAI API error ${r.status}: ${error.error?.message || 'Unknown error'}`);
+  }
+
   const d = await r.json();
-  if (d.error) throw new Error(d.error.message || 'OpenAI embeddings request failed');
-  return d.data[0].embedding;
+  if (!d.data || !d.data[0] || !d.data[0].embedding) {
+    throw new Error('Invalid embedding response from OpenAI');
+  }
+
+  const emb = d.data[0].embedding;
+  if (!Array.isArray(emb) || emb.length !== 1536) {
+    throw new Error(`Invalid embedding dimensions: expected 1536, got ${emb.length}`);
+  }
+
+  console.log(`Embedded text: ${emb.length} dimensions, magnitude: ${Math.sqrt(emb.reduce((a, b) => a + b*b, 0)).toFixed(3)}`);
+  return emb;
 }
 
 function cosineSim(a, b) {
+  if (!a || !b || a.length === 0 || b.length === 0) {
+    console.error('Invalid embeddings:', { a_valid: !!a, b_valid: !!b, a_len: a?.length, b_len: b?.length });
+    return 0;
+  }
+  if (a.length !== b.length) {
+    console.error(`Embedding dimension mismatch: ${a.length} vs ${b.length}`);
+    return 0;
+  }
+
   let dot = 0, na = 0, nb = 0;
   for (let i = 0; i < a.length; i++) {
-    dot += a[i] * b[i];
-    na += a[i] * a[i];
-    nb += b[i] * b[i];
+    const aVal = a[i], bVal = b[i];
+    if (!Number.isFinite(aVal) || !Number.isFinite(bVal)) {
+      console.error(`Non-finite value at index ${i}:`, { aVal, bVal });
+      return 0;
+    }
+    dot += aVal * bVal;
+    na += aVal * aVal;
+    nb += bVal * bVal;
   }
-  return dot / (Math.sqrt(na) * Math.sqrt(nb));
+
+  const denom = Math.sqrt(na) * Math.sqrt(nb);
+  if (denom === 0) {
+    console.error('Zero-magnitude vector detected');
+    return 0;
+  }
+
+  const result = dot / denom;
+  return Number.isFinite(result) ? result : 0;
 }
 
 // Adjustable threshold for debugging mismatch issues
@@ -689,13 +735,36 @@ document.getElementById('catalogue-file-input').addEventListener('change', async
   if (!file) return;
   try {
     const text = await file.text();
-    productCatalogue = JSON.parse(text);
-    console.log('Catalogue loaded from State 3: ' + productCatalogue.length + ' products');
+    const parsed = JSON.parse(text);
+
+    if (!Array.isArray(parsed) || parsed.length === 0) {
+      throw new Error('Catalogue must be a non-empty JSON array');
+    }
+
+    // Validate first few products have embeddings
+    let validCount = 0;
+    let invalidCount = 0;
+    for (let i = 0; i < Math.min(5, parsed.length); i++) {
+      const p = parsed[i];
+      if (p.embedding && Array.isArray(p.embedding) && p.embedding.length === 1536) {
+        validCount++;
+      } else {
+        invalidCount++;
+        console.warn(`Product ${i} invalid embedding:`, { has_emb: !!p.embedding, is_array: Array.isArray(p.embedding), len: p.embedding?.length });
+      }
+    }
+
+    if (invalidCount > 0) {
+      throw new Error(`${invalidCount}/${Math.min(5, parsed.length)} sample products have invalid embeddings. Regenerate with embed_products.py`);
+    }
+
+    productCatalogue = parsed;
+    console.log(`Catalogue loaded: ${productCatalogue.length} products, all with valid 1536-dim embeddings ✓`);
     document.getElementById('btn-match-images').style.display = 'inline-block';
   } catch (err) {
     productCatalogue = null;
     console.error('Catalogue load error:', err);
-    alert('Failed to load catalogue: ' + err.message);
+    alert('Failed to load catalogue:\n' + err.message);
   }
 });
 
