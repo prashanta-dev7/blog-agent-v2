@@ -366,6 +366,25 @@ a{color:inherit}
       </ul>
     </div>
 
+    <div class="product-images-section">
+      <div class="section-title">Product Images</div>
+      <div style="display:flex;gap:var(--space-3);margin-bottom:var(--space-4)">
+        <button class="btn-secondary" onclick="document.getElementById('catalogue-file-input').click()">
+          Upload products_with_embeddings.json
+        </button>
+        <button class="btn-secondary" onclick="matchProductImages()" id="btn-match-images" style="display:none">
+          Match Product Images
+        </button>
+        <input type="file" id="catalogue-file-input" accept="application/json" style="display:none">
+      </div>
+      <div id="match-results-container" style="display:none">
+        <div id="match-results"></div>
+        <div id="featured-image-info" style="margin-top:var(--space-4);padding:var(--space-3);background:var(--color-surface-offset);border-radius:var(--radius-md);font-size:var(--text-xs)">
+          Featured image: <span id="featured-label">None selected yet</span>
+        </div>
+      </div>
+    </div>
+
     <div class="preview-section">
       <div class="preview-label">Blog Draft (Editable — Edit Before Downloading)</div>
       <div class="preview-content" id="preview-text" contenteditable="true" style="min-height:300px;outline:1px solid var(--color-border);padding:var(--space-4);border-radius:var(--radius-md);white-space:pre-wrap;word-wrap:break-word">
@@ -601,6 +620,174 @@ async function matchAllSections(sections, catalogue) {
     });
   }
   return results;
+}
+
+let matchResults = null;
+
+document.getElementById('catalogue-file-input').addEventListener('change', async function(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  try {
+    const text = await file.text();
+    productCatalogue = JSON.parse(text);
+    console.log('Catalogue loaded from State 3: ' + productCatalogue.length + ' products');
+    document.getElementById('btn-match-images').style.display = 'inline-block';
+  } catch (err) {
+    productCatalogue = null;
+    console.error('Catalogue load error:', err);
+    alert('Failed to load catalogue: ' + err.message);
+  }
+});
+
+async function matchProductImages() {
+  if (!productCatalogue) {
+    alert('Please upload the product catalogue first');
+    return;
+  }
+  if (!currentDraft) {
+    alert('No blog draft to match');
+    return;
+  }
+
+  const btn = document.getElementById('btn-match-images');
+  btn.disabled = true;
+  btn.textContent = 'Matching...';
+
+  try {
+    const sections = [];
+    const lines = currentDraft.split('\n');
+    let currentSection = null;
+    let currentText = [];
+    for (const line of lines) {
+      if (line.startsWith('## ')) {
+        if (currentSection) {
+          sections.push({ heading: currentSection, text: currentText.join('\n').trim() });
+        }
+        currentSection = line.slice(3).trim();
+        currentText = [];
+      } else if (currentSection) {
+        currentText.push(line);
+      }
+    }
+    if (currentSection) {
+      sections.push({ heading: currentSection, text: currentText.join('\n').trim() });
+    }
+
+    matchResults = await matchAllSections(sections, productCatalogue);
+    console.log('Match results:', matchResults);
+    renderMatchResults(matchResults);
+
+    document.getElementById('match-results-container').style.display = 'block';
+  } catch (err) {
+    console.error('Image matching error:', err);
+    alert('Error matching images: ' + err.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Match Product Images';
+  }
+}
+
+function renderMatchResults(results) {
+  const container = document.getElementById('match-results');
+  container.innerHTML = '';
+
+  let approvedCount = 0, flaggedCount = 0;
+
+  results.forEach(function(result, idx) {
+    if (result.approved) approvedCount++;
+    if (result.flagged && !result.approved) flaggedCount++;
+
+    const card = document.createElement('div');
+    card.className = 'match-result-card';
+    card.style = 'margin-bottom:var(--space-4);padding:var(--space-3);background:var(--color-surface-offset);border-radius:var(--radius-md);border-left:3px solid ' + (result.flagged && !result.approved ? 'var(--color-warning)' : 'var(--color-primary)');
+
+    const heading = document.createElement('div');
+    heading.style = 'font-weight:600;margin-bottom:var(--space-2)';
+    heading.textContent = result.section_heading;
+
+    const imageRow = document.createElement('div');
+    imageRow.style = 'display:flex;gap:var(--space-3);align-items:center;margin-bottom:var(--space-3)';
+
+    if (result.best_image) {
+      const img = document.createElement('img');
+      img.src = result.best_image;
+      img.style = 'width:80px;height:80px;object-fit:cover;border-radius:var(--radius-sm)';
+      imageRow.appendChild(img);
+    }
+
+    const info = document.createElement('div');
+    info.style = 'flex:1;font-size:var(--text-sm)';
+    const title = document.createElement('div');
+    title.style = 'font-weight:600;margin-bottom:2px';
+    title.textContent = result.product.title + ' (' + result.best_pid + ')';
+    const score = document.createElement('div');
+    score.style = 'font-size:var(--text-xs);color:var(--color-text-muted)';
+    score.textContent = 'Score: ' + result.best_score.toFixed(4) + (result.flagged ? ' - Below threshold' : ' - Matched');
+    info.appendChild(title);
+    info.appendChild(score);
+    imageRow.appendChild(info);
+
+    const buttons = document.createElement('div');
+    buttons.style = 'display:flex;gap:var(--space-2);flex-wrap:wrap';
+
+    const approveBtn = document.createElement('button');
+    approveBtn.className = 'btn-secondary';
+    approveBtn.style = 'font-size:var(--text-xs);padding:var(--space-2) var(--space-3)';
+    approveBtn.textContent = result.approved ? '✓ Approved' : 'Approve';
+    approveBtn.onclick = function() { approveMatch(idx); };
+
+    const skipBtn = document.createElement('button');
+    skipBtn.className = 'btn-secondary';
+    skipBtn.style = 'font-size:var(--text-xs);padding:var(--space-2) var(--space-3)';
+    skipBtn.textContent = 'Skip';
+    skipBtn.onclick = function() { skipMatch(idx); };
+
+    buttons.appendChild(approveBtn);
+    buttons.appendChild(skipBtn);
+
+    card.appendChild(heading);
+    card.appendChild(imageRow);
+    card.appendChild(buttons);
+    container.appendChild(card);
+  });
+
+  updateFeaturedImage();
+  updatePublishState();
+}
+
+function approveMatch(idx) {
+  matchResults[idx].approved = true;
+  renderMatchResults(matchResults);
+}
+
+function skipMatch(idx) {
+  matchResults[idx].approved = false;
+  matchResults[idx].skipped = true;
+  renderMatchResults(matchResults);
+}
+
+function updateFeaturedImage() {
+  if (!matchResults) return;
+  const approved = matchResults.find(r => r.approved && r.matched);
+  const label = document.getElementById('featured-label');
+  if (approved) {
+    label.textContent = approved.product.title + ' - ' + sessionStorage.getItem('FEATURED_IMAGE_WIDTH') + '×' + sessionStorage.getItem('FEATURED_IMAGE_HEIGHT') + 'px ✓';
+  } else {
+    label.textContent = 'No matched image approved for featured';
+  }
+}
+
+function updatePublishState() {
+  if (!matchResults) return;
+  const hasUnresolvedFlags = matchResults.some(r => r.flagged && !r.approved && !r.skipped);
+  const publishBtn = document.getElementById('btn-publish-wp');
+  if (hasUnresolvedFlags) {
+    publishBtn.disabled = true;
+    publishBtn.title = 'Approve or skip all flagged sections before publishing';
+  } else {
+    publishBtn.disabled = false;
+    publishBtn.title = '';
+  }
 }
 
 function postProcess(text) {
