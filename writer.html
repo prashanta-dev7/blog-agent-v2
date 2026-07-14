@@ -726,13 +726,15 @@ async function matchSection(sectionText, catalogue) {
 
 async function matchAllSections(sections, catalogue) {
   const results = [];
+  const errors = [];
+
   for (const section of sections) {
     try {
       const matchResult = await matchSection(section.text, catalogue);
       const { matched, flagged, candidates, best } = matchResult;
 
       if (!best || !best.product) {
-        console.warn(`No valid match for section: ${section.heading}`);
+        errors.push(`Section "${section.heading}": No valid product match found`);
         continue;
       }
 
@@ -751,12 +753,19 @@ async function matchAllSections(sections, catalogue) {
         approved: false
       });
     } catch (sectionErr) {
-      console.error(`Error matching section "${section.heading}":`, sectionErr);
+      const msg = `❌ SECTION ERROR: "${section.heading}" → ${sectionErr.message}`;
+      console.error(msg);
+      errors.push(msg);
     }
   }
+
   if (results.length === 0) {
-    throw new Error('Failed to match any sections. Check catalogue and embeddings.');
+    console.error('=== ALL SECTIONS FAILED ===');
+    errors.forEach(e => console.error(e));
+    console.error('============================');
+    throw new Error(`Failed to match any sections (${errors.length} errors). Check console above.`);
   }
+
   return results;
 }
 
