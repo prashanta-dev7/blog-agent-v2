@@ -1,25 +1,151 @@
 {
-  "generated_at": "2026-07-15T10:03:14.193459+00:00",
+  "generated_at": "2026-07-15T12:15:23.905251+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 186,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "c592fd8c9294",
-      "title": "Celia Kritharioti Fall 2026 Couture",
-      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/celia-kritharioti",
-      "summary": "",
+      "id": "ea7a051c0ca5",
+      "title": "Gracie Abrams is Trying To Live in The Moment",
+      "link": "https://www.vogue.com/article/gracie-abrams-beauty-interview-chanel",
+      "summary": "The singer and soon-to-be actor reflects on summer hobbies, her hair, and a new partnership with Chanel Beauty.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Celia Kritharioti Fall 2026 Couture...",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Gracie Abrams is Trying To Live in The Moment...",
       "score": 1,
-      "published": "2026-07-15T10:01:30+00:00",
+      "published": "2026-07-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7ee54fe1988",
+      "title": "Slate Swim Founder Sells Brand in 7-Figure Deal",
+      "link": "https://fashionista.com/2026/07/slate-swim-acquisition-independent-buyer",
+      "summary": "After a decade in business, Founder Jessica Liao Mayers sold her Los Angeles-based swimwear brand in a seven-figure deal.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Slate Swim Founder Sells Brand in 7-Figure Deal...",
+      "score": 2,
+      "published": "2026-07-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eafa0f0fd3e1",
+      "title": "POK on edge as showdown looms: 12 killed, 4,000 Rangers deployed, media blacked out",
+      "link": "https://www.indiatoday.in/india/story/pok-protests-jaac-march-muzaffarabad-4000-rangers-deployed-pakistan-crackdown-rawalakot-2948474-2026-07-15?utm_source=rss",
+      "summary": "POK on edge as showdown looms: 12 killed, 4,000 Rangers deployed, media blacked out",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: POK on edge as showdown looms: 12 killed, 4,000 Rangers deployed, medi...",
+      "score": 1,
+      "published": "2026-07-15T11:52:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57b3c32e41c4",
+      "title": "Mary Beth Barone, Sadie Sink, and Ayra Starr Are Taking Over Teen Vogue Fest",
+      "link": "https://www.vogue.com/article/everything-you-need-to-know-about-teen-vogue-fest",
+      "summary": "Here's everything you need to know about Teen Vogue Fest this July in New York City.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Mary Beth Barone, Sadie Sink, and Ayra Starr Are Taking Over Teen Vogu...",
+      "score": 0,
+      "published": "2026-07-15T10:55:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f5423a333f1f",
+      "title": "Meet PhotoVogue Worldwide Curators",
+      "link": "https://www.vogue.com/article/meet-photovogue-worldwide-curators",
+      "summary": "Discover the expansive creative community around the world collaborating with PhotoVogue",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meet PhotoVogue Worldwide Curators...",
+      "score": 0,
+      "published": "2026-07-15T10:43:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "de808d6e9851",
+      "title": "Worldwide Curators, PhotoVogue (II)",
+      "link": "https://www.vogue.com/slideshow/worldwide-curators-photovogue-ii",
+      "summary": "Meet (more of) the creative community around the world collaborating with PhotoVogue",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Worldwide Curators, PhotoVogue (II)...",
+      "score": 0,
+      "published": "2026-07-15T10:38:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6a340439d824",
+      "title": "The Perfectly Peculiar Art of Gladys Nilsson Gets a Long-Overdue Retrospective",
+      "link": "https://www.vogue.com/article/the-perfectly-peculiar-art-of-gladys-nilsson",
+      "summary": "“Gleefully Askew: A Gladys Nilsson Retrospective” is on view at the Crocker Art Museum in Sacramento, California, from July 19 to November 29, 2026.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Perfectly Peculiar Art of Gladys Nilsson Gets a Long-Overdue Retro...",
+      "score": 0,
+      "published": "2026-07-15T10:31:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5c53457349e3",
+      "title": "Shraddha Walker trial orders show court pushed back against Aaftab's delay tactics",
+      "link": "https://www.indiatoday.in/india/law-news/story/shraddha-walker-trial-court-orders-delay-claims-aaftab-poonawala-exam-2948403-2026-07-15?utm_source=rss",
+      "summary": "Shraddha Walker trial orders show court pushed back against Aaftab's delay tactics",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Shraddha Walker trial orders show court pushed back against Aaftab's d...",
+      "score": 1,
+      "published": "2026-07-15T10:29:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e0dbbb6ae373",
+      "title": "Richemont’s Jewelry Sales Rise 24% in Q1",
+      "link": "https://www.vogue.com/article/richemonts-jewelry-sales-rise-24-in-q1",
+      "summary": "The Cartier owner smashed expectations as the jewelry’s supercycle surges on.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Richemont’s Jewelry Sales Rise 24% in Q1...",
+      "score": 0,
+      "published": "2026-07-15T10:16:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc8757f0b2d5",
+      "title": "What to Wear to the World Cup—10 Outfits to Cheer Your Favorite Team",
+      "link": "https://www.vogue.com/article/world-cup-outfit-ideas",
+      "summary": "Whether you’ve secured tickets for the live match or plan host to a watch party, Vogue shares outfit inspiration for what to wear to watch the World Cup finals.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear to the World Cup—10 Outfits to Cheer Your Favorite Team...",
+      "score": 2,
+      "published": "2026-07-15T10:15:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -163,20 +289,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e75df97a90df",
-      "title": "Temple administration rejects ISKCON's claims on off-season Rath Yatra",
-      "link": "https://www.indiatoday.in/india/story/jagannath-rath-yatra-row-sjta-rejects-iskcon-scriptural-claim-on-overseas-dates-ptag-2948124-2026-07-15?utm_source=rss",
-      "summary": "Temple administration rejects ISKCON's claims on off-season Rath Yatra",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-15T07:44:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "53cbe1fe756f",
       "title": "Fashion People Are Moving On From Skinny Thong Sandals—This Is What They're Wearing Instead",
       "link": "https://www.whowhatwear.com/fashion/shoes/thick-thong-sandal-trend",
@@ -233,20 +345,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f01c81844f1e",
-      "title": "Trust Me: We'll All Be Wearing Strawberry-Blush Manis This Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/harriet-westmoreland-strawberry-manicure",
-      "summary": "A berry delight.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "be210d461a20",
       "title": "Every Beauty Editor I Know Swears By This Under-the-Radar Product for a Natural-Looking Glow",
       "link": "https://www.whowhatwear.com/beauty/skin/by-terry-tea-to-tan-face-and-body",
@@ -257,6 +355,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Every Beauty Editor I Know Swears By This Under-the-Radar Product for ...",
       "score": 2,
+      "published": "2026-07-15T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f01c81844f1e",
+      "title": "Trust Me: We'll All Be Wearing Strawberry-Blush Manis This Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/harriet-westmoreland-strawberry-manicure",
+      "summary": "A berry delight.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-07-15T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -289,20 +401,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e564e5442e67",
-      "title": "Swatch CEO Nick Hayek Addresses That Crazy Royal Pop Rollout",
-      "link": "https://www.vogue.com/article/swatch-ceo-nick-hayek-addresses-that-crazy-royal-pop-rollout",
-      "summary": "The Swatch x Audemars Piguet pocket watch is arguably the most sought-after collaboration of the year. Swatch Group CEO Nick Hayek sits down exclusively with Vogue Business to unpack the buzzy but controversial rollout of the Royal Pop.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Swatch CEO Nick Hayek Addresses That Crazy Royal Pop Rollout...",
-      "score": 1,
-      "published": "2026-07-15T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c7d44c4726bb",
       "title": "Luxury’s Second-Quarter Earnings Cheat Sheet",
       "link": "https://www.vogue.com/article/companies-luxurys-second-quarter-earnings-cheat-sheet",
@@ -312,6 +410,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Luxury’s Second-Quarter Earnings Cheat Sheet...",
+      "score": 1,
+      "published": "2026-07-15T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e564e5442e67",
+      "title": "Swatch CEO Nick Hayek Addresses That Crazy Royal Pop Rollout",
+      "link": "https://www.vogue.com/article/swatch-ceo-nick-hayek-addresses-that-crazy-royal-pop-rollout",
+      "summary": "The Swatch x Audemars Piguet pocket watch is arguably the most sought-after collaboration of the year. Swatch Group CEO Nick Hayek sits down exclusively with Vogue Business to unpack the buzzy but controversial rollout of the Royal Pop.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Swatch CEO Nick Hayek Addresses That Crazy Royal Pop Rollout...",
       "score": 1,
       "published": "2026-07-15T04:30:00+00:00",
       "discovered_via": "feed"
@@ -863,20 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "687727857b0a",
-      "title": "Fashion Lava: Jennifer Lopez Feels Like “the Sexiest Woman in the World” at Dolce & Gabbana’s Alta Moda Show in the Shadow of Mount Etna",
-      "link": "https://www.vogue.com/article/jennifer-lopez-dolce-gabbana-alta-moda-interview",
-      "summary": "Jennifer Lopez on the Dolce & Gabbana on the artistry and energy of Dolce & Gabbana’s Alta Moda show in Taormina, Sicily.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Fashion Lava: Jennifer Lopez Feels Like “the Sexiest Woman in the Worl...",
-      "score": 2,
-      "published": "2026-07-14T14:39:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b70a96dbd8d6",
       "title": "Princess Kate Shares the Sweetest Photo of Herself With Daughter Charlotte at Wimbledon",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71930007/princess-charlotte-kate-middleton-wimbledon-2026-photos/",
@@ -892,7 +990,7 @@
     },
     {
       "id": "5d76d0793008",
-      "title": "Not Into Turquoise? This is the Elegant Summer Colour Combination Timeless Dressers Are Wearing Instead",
+      "title": "Not Into Turquoise? This Is the Elegant Summer Colour Combination Timeless Dressers Are Wearing Instead",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/baby-blue-mauve-colour-trend-charlize-theron-2026",
       "summary": "Understated and elegant.",
       "source": "Who What Wear",
@@ -930,76 +1028,6 @@
       "angle": "Fashion Intelligence: Inside the Fashion Workplace: The 2026 Report Is Here...",
       "score": 1,
       "published": "2026-07-14T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c75a89d15c0a",
-      "title": "A Chance Encounter With Proust’s Goddaughter Unraveled a History of Antisemitism",
-      "link": "https://www.vogue.com/article/renoir-girls-essay",
-      "summary": "A Paris meeting, a Renoir painting, and a submerged history of antisemitism all came to the fore in research for 'The Renoir Girls.'",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Chance Encounter With Proust’s Goddaughter Unraveled a History of An...",
-      "score": 0,
-      "published": "2026-07-14T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "343b15a164cc",
-      "title": "Hailey Bieber on Creating Her Dream Jeans for Gap",
-      "link": "https://www.vogue.com/article/hailey-bieber-gap-denim-collaboration",
-      "summary": "Everything you need to know about the Hailey Jean, launching on July 16—a limited-edition capsule that reimagines Gap’s relaxed denim through her own personal style lens.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Hailey Bieber on Creating Her Dream Jeans for Gap...",
-      "score": 2,
-      "published": "2026-07-14T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e1c742eea09a",
-      "title": "On the Podcast: What We Are Watching, Reading, and Listening to This Summer",
-      "link": "https://www.vogue.com/article/on-the-podcast-what-we-are-watching-reading-and-listening-to-this-summer",
-      "summary": "To break down the season’s standout books, movies, and music, Chloe was joined in the studio by Vogue’s deputy editor, Taylor Antrim, and Senior Fashion Writer Hannah Jackson.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: On the Podcast: What We Are Watching, Reading, and Listening to This S...",
-      "score": 2,
-      "published": "2026-07-14T10:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d1ef10233392",
-      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
-      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
-      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
-      "score": 0,
-      "published": "2026-07-14T10:08:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e3d3877a7976",
-      "title": "The 34 Best Simple Wedding Dresses for Minimalist Brides",
-      "link": "https://www.vogue.com/slideshow/simple-wedding-dresses",
-      "summary": "Calling all minimalist brides: We found the best satin slips, crepe column gowns, and more simple wedding dresses perfect for your big day or courthouse ceremony.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The 34 Best Simple Wedding Dresses for Minimalist Brides — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-14T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67a930ec4277",
-      "title": "Wow, These 5 Popular Shoe Trends Are Deeply Discounted for the Nordstrom Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-shoe-deals-june-2026",
-      "summary": "Shop unbelievably amazing cross-category shoe deals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a71c580709fc",
       "title": "I'm a Shopping Director and Can't Get Over the Nordstrom Anniversary Sale—Yes to These 53 Fashion and Beauty Items",
       "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-best-fashion-beauty-2026",
@@ -1069,6 +1083,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm a Shopping Director and Can't Get Over the Nordstrom Anniversary S...",
       "score": 2,
+      "published": "2026-07-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "67a930ec4277",
+      "title": "Wow, These 5 Popular Shoe Trends Are Deeply Discounted for the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-shoe-deals-june-2026",
+      "summary": "Shop unbelievably amazing cross-category shoe deals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1115,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc186bad9363",
-      "title": "I Shop for a Living—35 Fashion, Beauty, and Home Finds I'd Buy First From Nordstrom's Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fashion-beauty-home-nordstrom-anniversary-sale-2026",
-      "summary": "Deep discounts ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Shop for a Living—35 Fashion, Beauty, and Home Finds I'd Buy First F...",
-      "score": 2,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7fb8edc3ab72",
       "title": "Not Purple, Not Yellow—Meet the Color Trend Quietly Entering Every Chic Woman's Summer Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/trends/aqua-blue-color-trend-2026",
@@ -1139,6 +1153,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-07-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc186bad9363",
+      "title": "I Shop for a Living—35 Fashion, Beauty, and Home Finds I'd Buy First From Nordstrom's Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fashion-beauty-home-nordstrom-anniversary-sale-2026",
+      "summary": "Deep discounts ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Shop for a Living—35 Fashion, Beauty, and Home Finds I'd Buy First F...",
+      "score": 2,
       "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1158,14 +1186,14 @@
     },
     {
       "id": "7a9ee3117bb8",
-      "title": "Celebs and Fashion People Agree—This Is the Chicest Way to Wear Your Bob in Summer",
+      "title": "Celebs and Fashion People Agree: This Is the Chicest Way to Wear Your Bob in Summer",
       "link": "https://www.whowhatwear.com/beauty/hair/balayage-bob-hair-trend",
       "summary": "I'm a fan.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Celebs and Fashion People Agree—This Is the Chicest Way to Wear Your B...",
+      "angle": "Fashion Intelligence: Celebs and Fashion People Agree: This Is the Chicest Way to Wear Your ...",
       "score": 2,
       "published": "2026-07-14T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1535,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2cb2daa57477",
-      "title": "Preppy Is Back, But Not How You Know It: How Fashion’s Chicest Are Wearing It This Summer",
-      "link": "https://www.whowhatwear.com/fashion/luxury/urban-preppy-fashion-trend-2026",
-      "summary": "Enter the era of urban prep.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ea6943eb95f0",
       "title": "Woven Fabrics Reset: Lighter Constructions, Smarter Blends, Faster Cycles",
       "link": "https://in.apparelresources.com/business-news/manufacturing/woven-fabrics-reset-lighter-constructions-smarter-blends-faster-cycles/",
@@ -1560,20 +1574,6 @@
       "angle": "Fashion Intelligence: Woven Fabrics Reset: Lighter Constructions, Smarter Blends, Faster Cyc...",
       "score": 1,
       "published": "2026-07-13T06:00:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "40ea07f1cfaa",
-      "title": "From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently as a Beauty Director",
-      "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-june-2026",
-      "summary": "I'm all about high-low beauty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From a £5 Hair Mask to a £200 Serum: 6 Products I've Emptied Recently ...",
-      "score": 1,
-      "published": "2026-07-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2599,20 +2599,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "164420e5d59c",
-      "title": "Must Read: Reformation Files for IPO, Aesop Queer Library Returns",
-      "link": "https://fashionista.com/2026/06/reformation-files-for-ipo",
-      "summary": "Plus, luxury fashion brands reassess Instagram marketing strategies.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Must Read: Reformation Files for IPO, Aesop Queer Library Returns...",
-      "score": 3,
-      "published": "2026-06-26T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d13b9cdc1f4f",
       "title": "Get Inspired by a Love Story That Almost Never Happened. Find Out What Fate Had in Store.",
       "link": "https://blog.kalkifashion.com/get-inspired-by-a-love-story-that-almost-never-happened-find-out-what-fate-had-in-store/",
@@ -2993,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "సమాచార హక్కు",
+      "term": "sharad pawar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "west indies vs ireland",
+      "term": "influencer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dear passengers game",
+      "term": "icc cricket world cup 2027",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "लव्ह जिहाद",
+      "term": "विजय केडिया",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "লাভবান",
+      "term": "ഇറാന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अपराध",
+      "term": "nmc mbbs seat matrix",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कप्तान",
+      "term": "ಮಳೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "microsoft",
+      "term": "ಆಸ್ತಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অভিষেক ব্যানার্জি",
+      "term": "petition to kick argentina",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जयंत पाटील",
+      "term": "teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
