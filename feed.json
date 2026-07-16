@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T10:08:15.904639+00:00",
+  "generated_at": "2026-07-16T12:21:29.732024+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 182,
@@ -8,6 +8,118 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "841b24befedc",
+      "title": "Fashion Insiders Get Real About Burnout, Understaffing and Discrimination in the Workplace",
+      "link": "https://fashionista.com/2026/07/fashion-jobs-complaints-frustrations-burnout",
+      "summary": "\"I'm over fashion: I'm over creating cheap, disposable clothing. I'm over the stress and constant pressure that goes into creating the next best thing.\"",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion Insiders Get Real About Burnout, Understaffing and Discriminat...",
+      "score": 1,
+      "published": "2026-07-16T12:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5907cda80390",
+      "title": "Mia Calabrese's Go-to Beauty Hack? Putting Nipple Cream on Her Lips",
+      "link": "https://fashionista.com/2026/07/mia-calabrese-fashion-beauty-interview",
+      "summary": "For our column \"Payment Processing,\" the \"Summer House\" breakout star also shares her closet favorites and the key to perfecting Hamptons fashion.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Mia Calabrese's Go-to Beauty Hack? Putting Nipple Cream on Her Lips...",
+      "score": 2,
+      "published": "2026-07-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "77b768826d3f",
+      "title": "Supersized Shorts, Slip Dresses and Tropical Barbie Energy—7 Gen Z Pop Stars Setting the Trends in 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity/gen-z-pop-stars-female-2026",
+      "summary": "So fun!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-16T11:46:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-07-16T11:28:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "51384554a851",
+      "title": "Long Before the Movie, Fashion Has Taken Its Cues From The Odyssey",
+      "link": "https://www.vogue.com/article/odyssey-fashion-archive-history",
+      "summary": "A look at the ways the epic Greek tale has been an enduring inspiration on designers.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Long Before the Movie, Fashion Has Taken Its Cues From The Odyssey...",
+      "score": 2,
+      "published": "2026-07-16T11:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bebd13896be9",
+      "title": "PM Modi to launch India's first hydrogen train in Haryana on Friday",
+      "link": "https://www.indiatoday.in/india/story/indias-first-hydrogen-train-pm-modi-flags-off-jind-sonipat-service-2949146-2026-07-16?utm_source=rss",
+      "summary": "PM Modi to launch India's first hydrogen train in Haryana on Friday",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-16T10:34:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "12ec240373f3",
+      "title": "“The Most Surprising Twist of My Life”: Savannah Miller on Pregnancy at 47",
+      "link": "https://www.vogue.com/article/savannah-miller-on-pregnancy-at-47",
+      "summary": "Twenty-one years after having her first baby, designer Savannah Miller is getting ready to do it all again—at 47. Here, she reflects on the unexpected joys of a midlife pregnancy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: “The Most Surprising Twist of My Life”: Savannah Miller on Pregnancy a...",
+      "score": 1,
+      "published": "2026-07-16T10:21:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7af0fa1bbebe",
+      "title": "Show some humanity: Omar Abdullah urges Centre as Sonam Wangchuk's health worsens",
+      "link": "https://www.indiatoday.in/india/story/sonam-wangchuk-fast-omar-abdullah-centre-neet-protest-cjp-jantar-mantar-2949114-2026-07-16?utm_source=rss",
+      "summary": "Show some humanity: Omar Abdullah urges Centre as Sonam Wangchuk's health worsens",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Show some humanity: Omar Abdullah urges Centre as Sonam Wangchuk's hea...",
+      "score": 1,
+      "published": "2026-07-16T10:12:47+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b52384e5b3e8",
       "title": "The Best Summer Sweaters, According to Vogue Staffers",
@@ -177,20 +289,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c6c7f613020d",
-      "title": "Worker killed after concrete lining falls inside Silkyara Tunnel in Uttarakhand",
-      "link": "https://www.indiatoday.in/india/story/silkyara-tunnel-accident-worker-killed-after-concrete-lining-falls-uttarakhand-uttarkashi-2949010-2026-07-16?utm_source=rss",
-      "summary": "Worker killed after concrete lining falls inside Silkyara Tunnel in Uttarakhand",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Worker killed after concrete lining falls inside Silkyara Tunnel in Ut...",
-      "score": 1,
-      "published": "2026-07-16T07:25:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "03080cc95740",
       "title": "Here You Go—These 4 Trends From the Nordstrom Anniversary Sale Will Create Even More Stylish Outfits",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-trends-nordstrom-anniversary-sale-2026",
@@ -348,7 +446,7 @@
       "id": "42819539b260",
       "title": "This Cult Korean American Creative’s New Brand Is a Nostalgic Love Letter to Girlhood",
       "link": "https://www.vogue.com/article/suea-memory-nyc-brand",
-      "summary": "The creative director and food artist Suea, who has a cult following across Instagram and Substack, shares the story behind her playful new fashion and lifestyle brand, Memory NYC.",
+      "summary": "The creative director and food artist Suea, who has a cult following across Instagram and Substack, shares the story behind her playful new fashion and lifestyle brand, Memory.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
@@ -653,20 +751,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-07-15T16:43:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "eddb502d6f63",
       "title": "All the Signs Karlie Kloss Is Back in the T-Swift Squad",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71943881/is-karlie-kloss-back-in-taylor-swift-squad-explained/",
@@ -863,34 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a2e14f5ad3db",
-      "title": "Paulina Porizkova Wore a Pleated Dress Inspired by Water for Her Lakeside Italian Wedding to Jeff Greenstein",
-      "link": "https://www.vogue.com/slideshow/paulina-porizkova-and-jeff-greenstein-wedding",
-      "summary": "The Czech supermodel married comedy writer Jeff Greenstein in an intimate ceremony at Villa Crespi in Orta San Giulio, Italy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Paulina Porizkova Wore a Pleated Dress Inspired by Water for Her Lakeside Italian Wedding to Jeff Greenstein — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-15T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "63d016d95714",
-      "title": "Vogue100 and Standing Ground Celebrated Michael Stewart’s Haute Couture Debut",
-      "link": "https://www.vogue.com/slideshow/michael-stewart-standing-ground-vogue100-couture",
-      "summary": "To celebrate creative director Michael Stewart’s debut haute couture collection, Vogue100 stepped through the iconic doors of Maxim’s for an evening that felt suspended in another era.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-07-15T14:54:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3068f516aea4",
       "title": "If You’re Avoiding Salad Because of Cyclosporiasis, Here’s a Safer Way to Get Your Greens",
       "link": "https://www.harpersbazaar.com/beauty/diet-fitness/a71920211/best-greens-powders/",
@@ -1017,6 +1073,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f8b5ca4b61dd",
+      "title": "20 Best Undercut Hairstyles For Men – Top Haircuts in 2026",
+      "link": "https://www.fashionbeans.com/article/undercut-hairstyles-for-men/",
+      "summary": "Blending the styles of the past with a modern sensibility, the undercut has taken men&#8217;s fashion by storm. From Brad Pitt to David Beckham, the most influential style-setters have chosen the undercut to stand out on red carpets worldwide. This simple throwback style has re-cemented its place as one of the most ico",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 20 Best Undercut Hairstyles For Men – Top Haircuts in 2026...",
+      "score": 2,
+      "published": "2026-07-15T10:21:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "66c4234276e1",
       "title": "Smart Casual Dress Code For Men: Attire and Style Guide 2026",
       "link": "https://www.fashionbeans.com/article/mens-smart-casual-dress-guide/",
@@ -1087,6 +1157,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "53cbe1fe756f",
+      "title": "Fashion People Are Moving On From Skinny Thong Sandals—This Is What They're Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/shoes/thick-thong-sandal-trend",
+      "summary": "Shop the style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a550c28b5af5",
+      "title": "The 31 Trend-Forward Nordstrom Anniversary Sale Picks I Think Deserve Their Own Highlight Reel",
+      "link": "https://www.whowhatwear.com/fashion/shopping/trend-forward-fashion-items-nordstrom-anniversary-sale-2026",
+      "summary": "Mark July 18 on your calendar.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cba010b180d5",
       "title": "In New York and Paris, Fashion People Are Styling Their Slip Skirts With These 7 Items",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-with-a-slip-skirt-summer-2026",
@@ -1115,31 +1213,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "53cbe1fe756f",
-      "title": "Fashion People Are Moving On From Skinny Thong Sandals—This Is What They're Wearing Instead",
-      "link": "https://www.whowhatwear.com/fashion/shoes/thick-thong-sandal-trend",
-      "summary": "Shop the style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a550c28b5af5",
-      "title": "The 31 Trend-Forward Nordstrom Anniversary Sale Picks I Think Deserve Their Own Highlight Reel",
-      "link": "https://www.whowhatwear.com/fashion/shopping/trend-forward-fashion-items-nordstrom-anniversary-sale-2026",
-      "summary": "Mark July 18 on your calendar.",
-      "source": "Who What Wear",
+      "id": "22988e1fe2d8",
+      "title": "12 Types of Pants for Men – Different Trouser Styles 2026",
+      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
+      "summary": "Statement jackets and the latest sneakers are always going to be top of men&#8217;s lust lists, but don&#8217;t let high-wattage clobber blind you to the essentials. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-15T07:00:00+00:00",
+      "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
+      "score": 3,
+      "published": "2026-07-15T06:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1647,34 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67a930ec4277",
-      "title": "Wow, These 5 Popular Shoe Trends Are Deeply Discounted for the Nordstrom Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-shoe-deals-june-2026",
-      "summary": "Shop unbelievably amazing cross-category shoe deals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "267781af966e",
-      "title": "6 Summer 2026 Trends That Are Already Huge in Paris",
-      "link": "https://www.whowhatwear.com/fashion/street-style/paris-couture-fashion-week-summer-2026-outfits",
-      "summary": "From the print taking over to a '90s staple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "eb7be5fc9ecf",
       "title": "Ranbir Kapoor’s ARKS Appoints Dhruv Mathur as CEO",
       "link": "https://in.apparelresources.com/business-news/retail/ranbir-kapoors-arks-appoints-dhruv-mathur-ceo/",
@@ -2165,34 +2221,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c121a9610f5c",
-      "title": "7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026",
-      "link": "https://www.fashionbeans.com/article/best-5-pocket-pants/",
-      "summary": "There are some items that should be present in every guy’s wardrobe—whether you’re a country bumpkin or a suit-obsessed city dweller. And when it comes to pants, the five-pocket style is one of the most versatile lower-half options you can own. A reliable yet seriously stylish staple, the best 5 pocket pants will be yo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026...",
-      "score": 1,
-      "published": "2026-07-09T09:04:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "68c8c2b3466f",
-      "title": "The Best Men’s Puffer Vests To Buy In 2026",
-      "link": "https://www.fashionbeans.com/article/best-gilets-men/",
-      "summary": "When in need of a new layer to keep you warm, a lack of sleeves may feel like a dealbreaker. After all, you wouldn’t buy a car without brakes or a house without a roof, would you? It’s just a fundamental part of the package. But to strike a men&#8217;s puffer vest from your outerwear &#8230; Continue reading The Best M",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Men’s Puffer Vests To Buy In 2026...",
-      "score": 1,
-      "published": "2026-07-09T09:00:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e2b986232ce",
       "title": "Must Read: Gucci Beauty Goes to L'Oréal, CFDA Awards Return to the Natural History Museum",
       "link": "https://fashionista.com/2026/07/gucci-beauty-goes-to-loreal",
@@ -2529,34 +2557,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b039e211382f",
-      "title": "Even Gabrielle Union Can't Resist a TikTok Beauty Buy",
-      "link": "https://fashionista.com/2026/06/gabrielle-union-elizabeth-banks-interview",
-      "summary": "For “Payment Processing,” Union and Elizabeth Banks both reveal the products they actually spend money on, like Medicube skin care, Charlotte Tilbury makeup, vintage fashion finds and a luxury LED mask.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Even Gabrielle Union Can't Resist a TikTok Beauty Buy...",
-      "score": 3,
-      "published": "2026-06-30T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3813cf24bbf3",
-      "title": "Inside Maison Louis Marie's Dreamy New Los Angeles Flagship",
-      "link": "https://fashionista.com/2026/06/maison-louis-marie-los-angeles-flagship-store-interview",
-      "summary": "Founder Marie du Petit Thouars discusses the Silver Lake store's French-meets-Californian design and 13 years of success as an indie fragrance brand.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Inside Maison Louis Marie's Dreamy New Los Angeles Flagship...",
-      "score": 1,
-      "published": "2026-06-29T17:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dd2c7cfcf426",
       "title": "Indo-Western Lehenga Choli vs Traditional Lehenga Choli: What’s the Difference",
       "link": "https://www.indianclothstore.com/blog/indo-western-lehenga-choli-vs-traditional-lehenga-choli-whats-the-difference",
@@ -2809,6 +2809,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4eb26e82a0b6",
+      "title": "Trisha Krishnan Saree Looks That Define Timeless South Indian Elegance",
+      "link": "https://www.azafashions.com/blog/trisha-krishnan-saree-looks/?utm_source=rss&utm_medium=rss&utm_campaign=trisha-krishnan-saree-looks",
+      "summary": "Few actresses wear a saree quite like Trisha Krishnan. Over two decades in the industry, she has built a reputation not just for her performances but for the kind of&#8230; The post Trisha Krishnan Saree Looks That Define Timeless South Indian Elegance appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Trisha Krishnan Saree Looks That Define Timeless South Indian Elegance...",
+      "score": 2,
+      "published": "2026-07-16T11:04:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f24cf3446f7b",
       "title": "Outdoor Movie Date Night Outfits in Canada That Feel Like Main Character Energy",
       "link": "https://www.azafashions.com/blog/outdoor-movie-night-outfits/?utm_source=rss&utm_medium=rss&utm_campaign=outdoor-movie-night-outfits",
@@ -2933,70 +2947,56 @@
       "score": 2,
       "published": "2026-07-10T11:22:34+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "156c47c9ce0b",
-      "title": "Powerhouse Huma Qureshi Fronts the Latest Issue of Aza Magazine",
-      "link": "https://www.azafashions.com/blog/huma-qureshi-for-aza-magazine/?utm_source=rss&utm_medium=rss&utm_campaign=huma-qureshi-for-aza-magazine",
-      "summary": "Some women don't simply wear fashion, they give it meaning. Huma Qureshi has long been one of them. Confident, fearless, and unapologetically authentic, she fronts the latest issue of Aza&#8230; The post Powerhouse Huma Qureshi Fronts the Latest Issue of Aza Magazine appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Powerhouse Huma Qureshi Fronts the Latest Issue of Aza Magazine...",
-      "score": 2,
-      "published": "2026-07-10T09:09:07+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "अमिताभ बच्चन",
+      "term": "jiohotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "hotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "eng बनाम ind",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सरकार",
+      "term": "इंग्लंड वि भारत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಕರ್ನಾಟಕ",
+      "term": "cb",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शेयर प्राइस",
+      "term": "आईसीसी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "గౌతమ్ గంభీర్",
+      "term": "ಚಿನ್ನ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "লিওনেল মেসি",
+      "term": "2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ವೇತನ ಆಯೋಗ",
+      "term": "motilal oswal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "భారతదేశం",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "lionel messi wife",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "भारतीय जनता पार्टी",
+      "term": "kuldeep yadav",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
