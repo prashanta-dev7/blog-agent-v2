@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-07-16T04:58:12.042474+00:00",
+  "generated_at": "2026-07-16T07:23:09.741582+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "03080cc95740",
+      "title": "Here You Go—These 4 Trends From the Nordstrom Anniversary Sale Will Create Even More Stylish Outfits",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-trends-nordstrom-anniversary-sale-2026",
+      "summary": "Add these items to your closet, and you're set.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7b9668b9a9e5",
+      "title": "25 Chic Sweaters and Jeans From Nordstrom's Anniversary Sale to Get You Excited for Fall",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-sweaters-jeans-nordstrom-anniversary-sale-2026",
+      "summary": "Kick-start your new-season wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 25 Chic Sweaters and Jeans From Nordstrom's Anniversary Sale to Get Yo...",
+      "score": 1,
+      "published": "2026-07-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "52476fe053de",
+      "title": "I Thought Korean Skincare Was the Best Part of K-Beauty, Then I Tried These Makeup Products",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-korean-makeup-products",
+      "summary": "They're seriously underrated.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Thought Korean Skincare Was the Best Part of K-Beauty, Then I Tried ...",
+      "score": 1,
+      "published": "2026-07-16T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0fbfbb1b831f",
+      "title": "Across Europe, Stylish People Are Turning to These 3 High Street Brands to Make Summer Dressing Instantly Chic",
+      "link": "https://www.whowhatwear.com/fashion/summer/reformation-sezane-doen-2026-summer-edit",
+      "summary": "Staples for every summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Across Europe, Stylish People Are Turning to These 3 High Street Brand...",
+      "score": 2,
+      "published": "2026-07-16T05:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3c5f554aeaaf",
+      "title": "Which Brand Won the World Cup?",
+      "link": "https://www.vogue.com/article/which-brand-won-the-world-cup",
+      "summary": "As the FIFA World Cup draws to a close, it’s time to assess which brands cut through. But the story is not all about Nike and Adidas. Soccer is emerging as a sustained style influence as much as a sponsorship play.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Which Brand Won the World Cup?...",
+      "score": 2,
+      "published": "2026-07-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ea11b96752c",
+      "title": "Women Around Europe Agree—These Are the 5 Chicest Outfit Formulas To Wear On Repeat This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer/european-summer-outfits-2026",
+      "summary": "From Paris to Stockholm.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Women Around Europe Agree—These Are the 5 Chicest Outfit Formulas To W...",
+      "score": 2,
+      "published": "2026-07-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d12c218e6c07",
       "title": "Why Is So Much Clothing Mislabeled?",
@@ -34,6 +118,20 @@
       "angle": "Fashion Intelligence: I Can Save $1522 on the Best High-Ticket Beauty Products During Nordst...",
       "score": 1,
       "published": "2026-07-16T04:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9c8b4c649d4d",
+      "title": "Video: MMA-style brawl inside Ghaziabad society lift as ex-office-bearers clash",
+      "link": "https://www.indiatoday.in/india/story/uttar-pradesh-ghaziabad-lift-brawl-cctv-former-aoa-office-bearers-clash-gs-7-society-2948873-2026-07-16?utm_source=rss",
+      "summary": "Video: MMA-style brawl inside Ghaziabad society lift as ex-office-bearers clash",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Video: MMA-style brawl inside Ghaziabad society lift as ex-office-bear...",
+      "score": 1,
+      "published": "2026-07-16T01:37:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -849,20 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dc8757f0b2d5",
-      "title": "What to Wear to the World Cup—10 Outfits to Cheer Your Favorite Team",
-      "link": "https://www.vogue.com/article/world-cup-outfit-ideas",
-      "summary": "Whether you’ve secured tickets for the live match or plan host to a watch party, Vogue shares outfit inspiration for what to wear to watch the World Cup finals.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear to the World Cup—10 Outfits to Cheer Your Favorite Team...",
-      "score": 2,
-      "published": "2026-07-15T10:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1c829a0f7928",
       "title": "Spotted in Paris: The Surprising Shoe Trend That Looks Chic With Shorts and Knee-Length Skirts",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/vinyl-heels-trend-jennifer-lopez-2026",
@@ -905,6 +989,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "53cbe1fe756f",
+      "title": "Fashion People Are Moving On From Skinny Thong Sandals—This Is What They're Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/shoes/thick-thong-sandal-trend",
+      "summary": "Shop the style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a550c28b5af5",
+      "title": "The 31 Trend-Forward Nordstrom Anniversary Sale Picks I Think Deserve Their Own Highlight Reel",
+      "link": "https://www.whowhatwear.com/fashion/shopping/trend-forward-fashion-items-nordstrom-anniversary-sale-2026",
+      "summary": "Mark July 18 on your calendar.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cba010b180d5",
       "title": "In New York and Paris, Fashion People Are Styling Their Slip Skirts With These 7 Items",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-with-a-slip-skirt-summer-2026",
@@ -929,34 +1041,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 44 Nordstrom Anniversary Sale Finds Fashion People in London Would Ins...",
       "score": 1,
-      "published": "2026-07-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a550c28b5af5",
-      "title": "The 31 Trend-Forward Nordstrom Anniversary Sale Picks I Think Deserve Their Own Highlight Reel",
-      "link": "https://www.whowhatwear.com/fashion/shopping/trend-forward-fashion-items-nordstrom-anniversary-sale-2026",
-      "summary": "Mark July 18 on your calendar.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "53cbe1fe756f",
-      "title": "Fashion People Are Moving On From Skinny Thong Sandals—This Is What They're Wearing Instead",
-      "link": "https://www.whowhatwear.com/fashion/shoes/thick-thong-sandal-trend",
-      "summary": "Shop the style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-07-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1451,90 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "edea2161783b",
-      "title": "5 Swimsuit Print Trends Taking Over for Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/swimwear-print-trends-2026",
-      "summary": "What every insider is wearing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5d10d9c28c27",
-      "title": "It's Here: The Easy, Elegant Accessories Trend Fashion People Are Wearing With Swimsuits",
-      "link": "https://www.whowhatwear.com/fashion/shopping/summer-scarf-with-swimsuits-trend-2026",
-      "summary": "Cooler swim outfits ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fc186bad9363",
-      "title": "I Shop for a Living—35 Fashion, Beauty, and Home Finds I'd Buy First From Nordstrom's Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fashion-beauty-home-nordstrom-anniversary-sale-2026",
-      "summary": "Deep discounts ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Shop for a Living—35 Fashion, Beauty, and Home Finds I'd Buy First F...",
-      "score": 2,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee015a15a497",
-      "title": "Not Kitten Heels, Not Skirts—These Are the 3 Items Fashion People Look for at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/editor-approved-basic-tops-jeans-flats-nordstrom-anniversary-sale-2026",
-      "summary": "PS: They go on sale July 18.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Kitten Heels, Not Skirts—These Are the 3 Items Fashion People Look...",
-      "score": 1,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7fb8edc3ab72",
-      "title": "Not Purple, Not Yellow—Meet the Color Trend Quietly Entering Every Chic Woman's Summer Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/trends/aqua-blue-color-trend-2026",
-      "summary": "As seen on Alexandra Leclerc, Devon Lee Carlson, Addison Rae, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "267781af966e",
-      "title": "6 Summer 2026 Trends That Are Already Huge in Paris",
-      "link": "https://www.whowhatwear.com/fashion/street-style/paris-couture-fashion-week-summer-2026-outfits",
-      "summary": "From the print taking over to a '90s staple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "67a930ec4277",
       "title": "Wow, These 5 Popular Shoe Trends Are Deeply Discounted for the Nordstrom Anniversary Sale",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-shoe-deals-june-2026",
@@ -1563,87 +1563,73 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6be8dbb369fb",
-      "title": "If You Want to Look Elegant This Summer, Forget Jeans and Wear This Chic Trouser Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/satin-trousers-summer-2026-outfits",
-      "summary": "Sleek and silky.",
+      "id": "267781af966e",
+      "title": "6 Summer 2026 Trends That Are Already Huge in Paris",
+      "link": "https://www.whowhatwear.com/fashion/street-style/paris-couture-fashion-week-summer-2026-outfits",
+      "summary": "From the print taking over to a '90s staple.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-14T06:00:00+00:00",
+      "score": 1,
+      "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "7a9ee3117bb8",
-      "title": "Celebs and Fashion People Agree: This Is the Chicest Way to Wear Your Bob in Summer",
-      "link": "https://www.whowhatwear.com/beauty/hair/balayage-bob-hair-trend",
-      "summary": "I'm a fan.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Celebs and Fashion People Agree: This Is the Chicest Way to Wear Your ...",
-      "score": 2,
-      "published": "2026-07-14T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6f80b88f5bc",
-      "title": "The 6 Best Pedicure Shades for Mature Feet, According to a Celebrity Nail Expert",
-      "link": "https://www.whowhatwear.com/beauty/nails/pedicures-for-mature-women",
-      "summary": "Ready for sandal season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-14T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "193e48b5df58",
-      "title": "No, Not Leather: It Girls Are Wearing This Y2K Flip-Flop Trend With Shorts, Skirts and Dresses This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shoes/best-jelly-flip-flops-summer-2026",
-      "summary": "A blast from the past.",
+      "id": "5d10d9c28c27",
+      "title": "It's Here: The Easy, Elegant Accessories Trend Fashion People Are Wearing With Swimsuits",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-scarf-with-swimsuits-trend-2026",
+      "summary": "Cooler swim outfits ahead.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-14T05:00:00+00:00",
+      "score": 4,
+      "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "b94859f6de06",
-      "title": "You'll Never Look Dated in Cropped Pants If You Wear This and This With Them",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-black-pants-trend-charli-xcx",
-      "summary": "All the cool girls know this.",
+      "id": "ee015a15a497",
+      "title": "Not Kitten Heels, Not Skirts—These Are the 3 Items Fashion People Look for at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/editor-approved-basic-tops-jeans-flats-nordstrom-anniversary-sale-2026",
+      "summary": "PS: They go on sale July 18.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: You'll Never Look Dated in Cropped Pants If You Wear This and This Wit...",
+      "angle": "Fashion Intelligence: Not Kitten Heels, Not Skirts—These Are the 3 Items Fashion People Look...",
       "score": 1,
-      "published": "2026-07-13T20:23:21+00:00",
+      "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "49146739ebb5",
-      "title": "Paige Lorenze Opens Up About the Iconic $25 Lipstick She Keeps Everywhere and Her #1 Wedding Hot Take",
-      "link": "https://www.whowhatwear.com/beauty/makeup/paige-lorenze-beauty-interview",
-      "summary": "Read our exclusive interview.",
+      "id": "fc186bad9363",
+      "title": "I Shop for a Living—35 Fashion, Beauty, and Home Finds I'd Buy First From Nordstrom's Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fashion-beauty-home-nordstrom-anniversary-sale-2026",
+      "summary": "Deep discounts ahead.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Paige Lorenze Opens Up About the Iconic $25 Lipstick She Keeps Everywhere and Her #1 Wedding Hot Take — A Complete Style Guide",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Shop for a Living—35 Fashion, Beauty, and Home Finds I'd Buy First F...",
+      "score": 2,
+      "published": "2026-07-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7fb8edc3ab72",
+      "title": "Not Purple, Not Yellow—Meet the Color Trend Quietly Entering Every Chic Woman's Summer Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/trends/aqua-blue-color-trend-2026",
+      "summary": "As seen on Alexandra Leclerc, Devon Lee Carlson, Addison Rae, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-07-13T19:09:57+00:00",
+      "published": "2026-07-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2823,6 +2809,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f24cf3446f7b",
+      "title": "Outdoor Movie Date Night Outfits in Canada That Feel Like Main Character Energy",
+      "link": "https://www.azafashions.com/blog/outdoor-movie-night-outfits/?utm_source=rss&utm_medium=rss&utm_campaign=outdoor-movie-night-outfits",
+      "summary": "There is something undeniably magical about outdoor movie nights in Canada. Whether you're spreading a picnic blanket under the stars in Toronto, catching a drive-in film in British Columbia, enjoying a beach&#8230; The post Outdoor Movie Date Night Outfits in Canada That Feel Like Main Character Energy appeared first ",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Outdoor Movie Date Night Outfits in Canada That Feel Like Main Charact...",
+      "score": 1,
+      "published": "2026-07-16T05:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "eaf3e600949f",
       "title": "Where to buy Indian festive wear online if I live in the US?",
       "link": "https://www.azafashions.com/blog/where-nris-buy-designer-indian-wedding-outfits-online-2/?utm_source=rss&utm_medium=rss&utm_campaign=where-nris-buy-designer-indian-wedding-outfits-online-2",
@@ -2947,70 +2947,56 @@
       "score": 2,
       "published": "2026-07-10T09:09:07+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "1c521a11c4c9",
-      "title": "Anshula Kapoor’s Wedding Had One Fashion Winner: Anamika Khanna",
-      "link": "https://www.azafashions.com/blog/anamika-khanna-anshula-kapoor-wedding-looks/?utm_source=rss&utm_medium=rss&utm_campaign=anamika-khanna-anshula-kapoor-wedding-looks",
-      "summary": "There's a reason every couture conversation this season keeps circling back to one name. Anamika Khanna has quietly turned Anshula Kapoor and Rohan Thakkar's wedding festivities into her own personal showcase, dressing practically&#8230; The post Anshula Kapoor&#8217;s Wedding Had One Fashion Winner: Anamika Khanna app",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Bridal Edit: Anshula Kapoor’s Wedding Had One Fashion Winner — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-07-09T16:05:16+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "kusumgar share price",
+      "term": "epfo accounts interest credit",
+      "summary": "",
+      "aza_category": "Trend Alert"
+    },
+    {
+      "term": "sonam wangchuk news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dixon technologies share price",
+      "term": "विराट कोहली",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mrpl share price",
+      "term": "oneplus europe",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bse",
+      "term": "kospi moneycontrol",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "చిరంజీవి",
+      "term": "fauzi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தமிழக வெற்றிக் கழகம்",
+      "term": "అక్కినేని అఖిల్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "groww share price",
+      "term": "मौसम विज्ञान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi funds management ipo gmp",
+      "term": "abb share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nse",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "alpine texworld ipo gmp",
+      "term": "वैज्ञानिक",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
