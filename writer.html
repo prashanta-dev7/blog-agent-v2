@@ -1710,6 +1710,33 @@ async function uploadImageToWP(imageUrl, filename, altText) {
     const finalUrl = rewriteMediaUrl(media.source_url);
     console.log(`Image uploaded to WordPress: media_id=${media.id}, url=${finalUrl}`);
 
+    // If URL was rewritten, update the media object in WordPress to store correct URL
+    if (finalUrl !== media.source_url) {
+      try {
+        console.log(`Updating media in WordPress with corrected URL...`);
+        const updateResp = await fetch(`${siteUrl}/wp-json/wp/v2/media/${media.id}`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Basic ${credentials}`
+          },
+          body: JSON.stringify({
+            guid: finalUrl,
+            source_url: finalUrl
+          })
+        });
+
+        if (updateResp.ok) {
+          const updated = await updateResp.json();
+          console.log(`✓ Media URL updated in WordPress: ${updated.source_url}`);
+        } else {
+          console.warn(`Could not update media URL in WordPress (${updateResp.status})`);
+        }
+      } catch (updateErr) {
+        console.warn('Media URL update failed (non-blocking):', updateErr);
+      }
+    }
+
     // Regenerate thumbnails to ensure featured image displays properly
     try {
       await regenerateThumbnails(media.id, credentials);
