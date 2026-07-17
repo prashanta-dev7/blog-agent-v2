@@ -1,13 +1,195 @@
 {
-  "generated_at": "2026-07-17T09:57:22.798822+00:00",
+  "generated_at": "2026-07-17T12:09:55.935203+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "78a5a9534ce8",
+      "title": "Shop the Best Espadrilles for Summer—They’re the Only Shoe You’ll Need",
+      "link": "https://www.vogue.com/article/best-espadrilles-for-summer",
+      "summary": "Worn by everyone from Christy Turlington to John F. Kennedy, the traditional Spanish espadrille is a must-own.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Shop the Best Espadrilles for Summer—They’re the Only Shoe You’ll Need...",
+      "score": 1,
+      "published": "2026-07-17T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1074e8073860",
+      "title": "How to Transform Carbs Into a Gut-Friendly Prebiotic",
+      "link": "https://www.vogue.com/article/how-to-transform-carbs-into-a-gut-friendly-prebiotic",
+      "summary": "Pasta doesn’t just make you happy because it’s delicious—it can help your gut microbiome too.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Transform Carbs Into a Gut-Friendly Prebiotic...",
+      "score": 0,
+      "published": "2026-07-17T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5e947d0bbb5b",
+      "title": "'The Odyssey' Press Tour Puts a High Fashion Spin on Greek Mythology",
+      "link": "https://fashionista.com/2026/07/the-odyssey-press-tour-fashion-zendaya-anne-hathaway-2026",
+      "summary": "Athena, Queen Penelope, Helen of Troy and Calypso all walk into a room. While they all couldn't be more different from each other, there's one thing they clearly have in common: They know how to serve a gag-worthy look. At least, that's the case if we're basing the scenario on Christopher Nolan's ...",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 'The Odyssey' Press Tour Puts a High Fashion Spin on Greek Mythology...",
+      "score": 1,
+      "published": "2026-07-17T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2039ff7ab97",
+      "title": "Lionel Boyce on the Comedies That Shaped Him and What He’ll Miss Most About The Bear",
+      "link": "https://www.harpersbazaar.com/culture/art-books-music/a71889114/lionel-boyce-harpers-bazaar-questionnaire/",
+      "summary": "The actor known for his breakout roles in The Bear and Project Hail Mary answers the Bazaar “First Now Next” questionnaire",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Lionel Boyce on the Comedies That Shaped Him and What He’ll Miss Most ...",
+      "score": 0,
+      "published": "2026-07-17T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d70ed436814a",
+      "title": "The Vogue Business Funding Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
+      "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
+      "score": 2,
+      "published": "2026-07-17T11:12:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "826b81979abc",
+      "title": "In Just a Few Weeks, Fashion People Will Be Wearing Dresses With This Autumn Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/dress-biker-boots-outfit-trend-dua-lipa-2026",
+      "summary": "Dua's already doing it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-07-17T10:39:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f2375145d8b3",
+      "title": "Logomania Is Back, But Not as You Remember—Here's Why the Trend Is Captivating Fashion People in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/designer-logomania-trend-2026",
+      "summary": "Logomania, just not as you know it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-17T10:10:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "323dd32d6742",
+      "title": "The Best J.Crew New Arrivals to Shop for Spring 2026",
+      "link": "https://www.vogue.com/article/best-jcrew-finds",
+      "summary": "Classic Americana wardrobe essentials and summer’s chicest trends are among the best J.Crew new arrivals we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best J.Crew New Arrivals to Shop for Spring 2026...",
+      "score": 1,
+      "published": "2026-07-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5f3c729cc29f",
+      "title": "Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel",
+      "link": "https://www.vogue.com/article/vogue-vacations-kasey-busiel-mallorca-madrid",
+      "summary": "Vogue Shopping’s marketing and production manager shares everything she wore, indulged in, and shopped from five days in Spain.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel...",
+      "score": 0,
+      "published": "2026-07-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2022c0d11a9a",
+      "title": "7 Beach Outfits You’ll Love, Even If You’re Not A Summer Person",
+      "link": "https://www.vogue.com/article/beach-outfits",
+      "summary": "Whatever the destination, here are seven beach outfits for your next destination.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Beach Outfits You’ll Love, Even If You’re Not A Summer Person...",
+      "score": 1,
+      "published": "2026-07-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "457626b2abd7",
+      "title": "4 Ways to Introduce Color in Your Wardrobe, Inspired by Pre-Fall 2026",
+      "link": "https://www.vogue.com/article/how-to-wear-more-color-pre-fall-2026",
+      "summary": "The 2026 pre-fall collections offer fresh ideas on how to liven up the all-black uniform. Here’s how.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 4 Ways to Introduce Color in Your Wardrobe, Inspired by Pre-Fall 2026...",
+      "score": 1,
+      "published": "2026-07-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "title": "The Best Zara New Arrivals to Shop for Summer 2026",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Summer essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Summer 2026...",
+      "score": 0,
+      "published": "2026-07-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c84275f81013",
+      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
+      "link": "https://www.vogue.com/article/best-celebrity-outfits",
+      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "115d01941ec4",
       "title": "Anya Taylor-Joy’s Heatwave Dressing Hack? Go Bra-First",
@@ -149,20 +331,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "aef99c7d2ea2",
-      "title": "I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You're Welcome",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-j-crew",
-      "summary": "Best of all, you might be able to style them with what you already own.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You...",
-      "score": 2,
-      "published": "2026-07-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9a1a10eb70b2",
       "title": "If Dressing Like You Summer in Lake Como Is the Goal, Here Are 31 Pieces to Help You Achieve It",
       "link": "https://www.whowhatwear.com/fashion/shopping/lake-como-inspired-summer-shopping",
@@ -173,6 +341,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If Dressing Like You Summer in Lake Como Is the Goal, Here Are 31 Piec...",
       "score": 1,
+      "published": "2026-07-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aef99c7d2ea2",
+      "title": "I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You're Welcome",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-j-crew",
+      "summary": "Best of all, you might be able to style them with what you already own.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You...",
+      "score": 2,
       "published": "2026-07-17T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -230,20 +412,6 @@
       "angle": "Fashion Intelligence: The Scoop With David Martin: On How to Sustain an Indie Fashion Magazi...",
       "score": 1,
       "published": "2026-07-17T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0962ba72adfa",
-      "title": "UP launches cashless health scheme for 12 lakh teachers, education staff",
-      "link": "https://www.indiatoday.in/india/uttar-pradesh/story/up-mukhyamantri-shikshak-cashless-chikitsa-suvidha-yojana-rs-5-lakh-cashless-treatment-for-12-lakh-staff-utrith-2949688-2026-07-17?utm_source=rss",
-      "summary": "UP launches cashless health scheme for 12 lakh teachers, education staff",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-17T04:12:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -723,20 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fe065bd07b7a",
-      "title": "Easy Ways To Regulate Your Cortisol Levels in the Morning and Have a Stress-Free Day",
-      "link": "https://www.vogue.com/article/regulate-your-cortisol-levels-in-the-morning",
-      "summary": "Cortisol helps to wake you up—but high levels can lead to fatigue, digestive problems, and more. Here’s how to regulate cortisol levels to stay safe and sufficient.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Easy Ways To Regulate Your Cortisol Levels in the Morning and Have a S...",
-      "score": 0,
-      "published": "2026-07-16T13:49:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f3f90749c23a",
       "title": "Inside Foot Locker's Scaling Strategy for Smaller Sneaker Brands",
       "link": "https://fashionista.com/2026/07/foot-locker-scaling-strategy-emerging-sneaker-brands",
@@ -748,20 +902,6 @@
       "angle": "Fashion Intelligence: Inside Foot Locker's Scaling Strategy for Smaller Sneaker Brands...",
       "score": 2,
       "published": "2026-07-16T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86a3ba67380b",
-      "title": "The Vogue Business TikTok Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from TikTok, unpacking the latest creators and biggest trends sweeping its Gen Z user base.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-16T12:27:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -807,104 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-07-16T11:28:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "51384554a851",
-      "title": "Long Before the Movie, Fashion Has Taken Its Cues From The Odyssey",
-      "link": "https://www.vogue.com/article/odyssey-fashion-archive-history",
-      "summary": "A look at the ways the epic Greek tale has been an enduring inspiration for designers.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Long Before the Movie, Fashion Has Taken Its Cues From The Odyssey...",
-      "score": 2,
-      "published": "2026-07-16T11:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12ec240373f3",
-      "title": "“The Most Surprising Twist of My Life”: Savannah Miller on Pregnancy at 47",
-      "link": "https://www.vogue.com/article/savannah-miller-on-pregnancy-at-47",
-      "summary": "Twenty-one years after having her first baby, designer Savannah Miller is getting ready to do it all again—at 47. Here, she reflects on the unexpected joys of a midlife pregnancy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: “The Most Surprising Twist of My Life”: Savannah Miller on Pregnancy a...",
-      "score": 1,
-      "published": "2026-07-16T10:21:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c4683f5659a",
-      "title": "My Packing Style: Métier Founder Melissa Morris",
-      "link": "https://www.vogue.com/article/packing-style-melissa-morris",
-      "summary": "Take a peek inside Métier founder Melissa Morris's travel bag—as well as the packing tips she swears by.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Packing Style: Métier Founder Melissa Morris...",
-      "score": 2,
-      "published": "2026-07-16T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b52384e5b3e8",
-      "title": "The Best Summer Sweaters, According to Vogue Staffers",
-      "link": "https://www.vogue.com/article/vogue-editors-summer-office-sweaters",
-      "summary": "Vogue editors share their go summer sweaters for keeping warm in a chilly air-conditioned office.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Summer Sweaters, According to Vogue Staffers...",
-      "score": 0,
-      "published": "2026-07-16T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2b09f57e2ee",
-      "title": "32 Best Airbnbs in Upstate New York for a Weekend Away from the City 2026",
-      "link": "https://www.vogue.com/article/best-airbnbs-upstate-new-york",
-      "summary": "Looking for the best Airbnb in upstate New York? Here, our favorites, from Catskills cabins to a Woodstock artist’s studio.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 32 Best Airbnbs in Upstate New York for a Weekend Away from the City 2...",
-      "score": 0,
-      "published": "2026-07-16T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12c528b7ed72",
-      "title": "These 5 Birkenstock Shoes for Women Have Become Summer Essentials",
-      "link": "https://www.vogue.com/article/summer-birkenstock-styles",
-      "summary": "From the Boston mule to the Gizeh sandal, these five Birkenstock shoes for women are beloved by the street style set for a reason.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These 5 Birkenstock Shoes for Women Have Become Summer Essentials...",
-      "score": 1,
-      "published": "2026-07-16T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "836c6bb26f74",
       "title": "Kylie Jenner's Iconic Looks Didn't Happen Overnight—See Her Full Style Evolution",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-fashion-retrospective",
@@ -930,6 +972,20 @@
       "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
       "score": 1,
       "published": "2026-07-16T09:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bb1b5a476e14",
+      "title": "8 Best Paco Rabanne Colognes For Men – Easy Luxury for 2026",
+      "link": "https://www.fashionbeans.com/article/best-paco-rabanne-colognes/",
+      "summary": "Sexy, sophisticated, and slightly gourmand, the best Paco Rabanne cologne will make you smell delicious. Since the 1960s, the fashion house has made some of the most popular colognes on the market with that yummy, tantalizing quality that warms on the skin and garners compliments along the way. There’s a chance you alr",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Paco Rabanne Colognes For Men – Easy Luxury for 2026...",
+      "score": 2,
+      "published": "2026-07-16T08:27:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1633,34 +1689,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cba010b180d5",
-      "title": "In New York and Paris, Fashion People Are Styling Their Slip Skirts With These 7 Items",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-with-a-slip-skirt-summer-2026",
-      "summary": "Playful yet sleek.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: In New York and Paris, Fashion People Are Styling Their Slip Skirts Wi...",
-      "score": 1,
-      "published": "2026-07-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fc1723b659f4",
-      "title": "44 Nordstrom Anniversary Sale Finds Fashion People in London Would Instantly Add to Cart",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-london-fashion-aesthetic",
-      "summary": "Undeniably cool picks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 44 Nordstrom Anniversary Sale Finds Fashion People in London Would Ins...",
-      "score": 1,
-      "published": "2026-07-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9cea432fe226",
       "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
       "link": "https://www.fashionbeans.com/article/cross-body-bags/",
@@ -1812,20 +1840,6 @@
       "angle": "Fashion Intelligence: In Shifters, Heather Agyepong Traverses a Tumultuous, Time-Warping Fir...",
       "score": 1,
       "published": "2026-07-14T18:14:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ddad05c8c3e4",
-      "title": "Jennifer Lopez Makes a Case for Maximalism in a Jewel-Covered Look",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71933018/jennifer-lopez-jewel-outfit-dolce-gabbana-alta-moda-2026-taormina-sicily-photos/",
-      "summary": "It honored the best of “Made in Italy” craftsmanship",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Jennifer Lopez Makes a Case for Maximalism in a Jewel-Covered Look...",
-      "score": 1,
-      "published": "2026-07-14T18:06:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2249,20 +2263,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0708affb9255",
-      "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
-      "summary": "It’s not hard to remember a time when wide-leg trousers were considered one of those beyond-the-pale pieces that fashion designers periodically tried to foist on sceptical menfolk, perhaps out of boredom, or “for banter”. Sure, wide-leg trousers made an impact on the runway. Okay, so they created a striking silhouette.",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
-      "score": 4,
-      "published": "2026-07-09T11:03:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e2b986232ce",
       "title": "Must Read: Gucci Beauty Goes to L'Oréal, CFDA Awards Return to the Natural History Museum",
       "link": "https://fashionista.com/2026/07/gucci-beauty-goes-to-loreal",
@@ -2557,20 +2557,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9c6ceafab595",
-      "title": "Luxury NYC Jewelry Brand - Fall Internship",
-      "link": "https://fashionista.com/2026/06/luxury-nyc-jewelry-brand-fall-internship",
-      "summary": "This is not a coffee run internship - you’ll be inside the operations of a growing jewelry house, working closely with the team across design, production, fulfillment, and brand development.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Luxury NYC Jewelry Brand - Fall Internship...",
-      "score": 2,
-      "published": "2026-06-30T15:38:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dd2c7cfcf426",
       "title": "Indo-Western Lehenga Choli vs Traditional Lehenga Choli: What’s the Difference",
       "link": "https://www.indianclothstore.com/blog/indo-western-lehenga-choli-vs-traditional-lehenga-choli-whats-the-difference",
@@ -2823,6 +2809,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "eb2c3a8f8711",
+      "title": "Breaking Down Alia Bhatt’s Minimal Bridesmaid Style",
+      "link": "https://www.azafashions.com/blog/alia-bhatts-minimal-bridesmaid-style/?utm_source=rss&utm_medium=rss&utm_campaign=alia-bhatts-minimal-bridesmaid-style",
+      "summary": "There's an art to being the bridesmaid who elevates the occasion without overshadowing it. At Akansha Ranjan Kapoor's wedding festivities, Alia Bhatt demonstrated exactly that — three times over. Each&#8230; The post Breaking Down Alia Bhatt&#8217;s Minimal Bridesmaid Style appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Breaking Down Alia Bhatt’s Minimal Bridesmaid Style — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-17T11:36:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df7c68b15c15",
+      "title": "What to Wear to an Indian Cocktail / Welcome Night",
+      "link": "https://www.azafashions.com/blog/what-to-wear-indian-cocktail-welcome-night/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-indian-cocktail-welcome-night",
+      "summary": "For an Indian cocktail or welcome night, wear a glamorous, dressed-up look with a modern edge. Women can choose a saree gown, a lighter lehenga, an Indo-Western outfit, or a&#8230; The post What to Wear to an Indian Cocktail / Welcome Night appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear to an Indian Cocktail / Welcome Night...",
+      "score": 6,
+      "published": "2026-07-17T10:44:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4eb26e82a0b6",
       "title": "Trisha Krishnan Saree Looks That Define Timeless South Indian Elegance",
       "link": "https://www.azafashions.com/blog/trisha-krishnan-saree-looks/?utm_source=rss&utm_medium=rss&utm_campaign=trisha-krishnan-saree-looks",
@@ -2907,6 +2921,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6c279eb97147",
+      "title": "Bridesmaid & Bridal Party Outfits for South Asian Weddings in the US",
+      "link": "https://www.azafashions.com/blog/bridesmaid-bridal-party-outfits-south-asian-weddings-us/?utm_source=rss&utm_medium=rss&utm_campaign=bridesmaid-bridal-party-outfits-south-asian-weddings-us",
+      "summary": "The most popular bridesmaid outfits for South Asian weddings are coordinated lehenga sets, Anarkali suits, saree drapes, and&#160;sharara&#160;sets. Bridal parties usually pick either a matching&#160;color&#160;palette or complementary jewel tones, then&#8230; The post Bridesmaid &amp; Bridal Party Outfits for South As",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Bridesmaid & Bridal Party Outfits for South Asian Weddings in the US — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-07-11T10:45:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5085096ecaf1",
       "title": "Raksha Bandhan Outfit Ideas: Trending Choices You’ll Love",
       "link": "https://www.azafashions.com/blog/raksha-bandhan-outfit-ideas-sisters/?utm_source=rss&utm_medium=rss&utm_campaign=raksha-bandhan-outfit-ideas-sisters",
@@ -2919,98 +2947,56 @@
       "score": 3,
       "published": "2026-07-11T10:16:41+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "a43e4fdb71e4",
-      "title": "Sharvari Has Officially Entered Her Power Dressing Era",
-      "link": "https://www.azafashions.com/blog/sharvari-power-dressing-era/?utm_source=rss&utm_medium=rss&utm_campaign=sharvari-power-dressing-era",
-      "summary": "There's a version of power dressing that follows the rules: structured shoulders, neutral palette, sensible heel. And then there's what Sharvari Wagh has been doing lately—which is something else entirely. &#8230; The post Sharvari Has Officially Entered Her Power Dressing Era appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Sharvari Has Officially Entered Her Power Dressing Era...",
-      "score": 1,
-      "published": "2026-07-11T08:35:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "098c373e0e92",
-      "title": "Best Hariyali Teej Outfit Ideas for Women This Festive Season",
-      "link": "https://www.azafashions.com/blog/haryali-teej-outfit-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=haryali-teej-outfit-ideas",
-      "summary": "Hariyali Teej arrives every year like a burst of colour in the middle of monsoon, and green is always the outfit of choice. The festival celebrates the reunion of Shiva&#8230; The post Best Hariyali Teej Outfit Ideas for Women This Festive Season appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-10T15:46:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "76dbf877bfcf",
-      "title": "Monsoon Workwear That Survives Rain, Humidity and Long Commutes",
-      "link": "https://www.azafashions.com/blog/monsoon-workwear/?utm_source=rss&utm_medium=rss&utm_campaign=monsoon-workwear",
-      "summary": "You planned the perfect outfit the night before. Pressed. Coordinated. The shoes were right. Then the commute happened — a puddle at the auto stand, a sweaty metro carriage, and&#8230; The post Monsoon Workwear That Survives Rain, Humidity and Long Commutes appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Monsoon Workwear That Survives Rain, Humidity and Long Commutes...",
-      "score": 2,
-      "published": "2026-07-10T11:22:34+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "वाशिंगटन सुंदर",
+      "term": "self enumeration",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "রোহিত শর্মা",
+      "term": "ओप्पो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "வைகோ",
+      "term": "moises henriques",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "নন্দীগ্রাম",
+      "term": "ಬಂಟ್ವಾಳ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हाइड्रोजन",
+      "term": "মমতা বন্দ্যোপাধ্যায়",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മണ്സൂണ്",
+      "term": "పాకిస్తాన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "federal bank share price",
+      "term": "bangalore weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "federal bank share",
+      "term": "വി.ഡി. സതീശന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aamir khan on sonam wangchuk",
+      "term": "banknote",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഖത്തര്",
+      "term": "electoral roll",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
