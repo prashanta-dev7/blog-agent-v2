@@ -1709,6 +1709,14 @@ async function uploadImageToWP(imageUrl, filename, altText) {
 
     const finalUrl = rewriteMediaUrl(media.source_url);
     console.log(`Image uploaded to WordPress: media_id=${media.id}, url=${finalUrl}`);
+
+    // Regenerate thumbnails to ensure featured image displays properly
+    try {
+      await regenerateThumbnails(media.id, credentials);
+    } catch (thumbErr) {
+      console.warn('Thumbnail regeneration failed (non-blocking):', thumbErr);
+    }
+
     return {
       media_id: media.id,
       media_url: finalUrl,
@@ -1771,6 +1779,51 @@ function buildSectionHTML(sectionMarkdown, matchResult) {
   }
 
   return html;
+}
+
+async function regenerateThumbnails(mediaId, credentials) {
+  const siteUrl = sessionStorage.getItem('WP_SITE_URL');
+  if (!siteUrl) return;
+
+  try {
+    console.log(`Triggering thumbnail regeneration for media_id=${mediaId}`);
+
+    // Try to call regenerate-thumbnails endpoint if available (Regenerate Thumbnails plugin)
+    const regenResp = await fetch(
+      `${siteUrl}/wp-json/regenerate-thumbnails/v1/regenerate/${mediaId}`,
+      {
+        method: 'POST',
+        headers: { 'Authorization': `Basic ${credentials}` }
+      }
+    );
+
+    if (regenResp.ok) {
+      console.log(`✓ Thumbnails regenerated for media_id=${mediaId}`);
+      return;
+    }
+
+    // Fallback: Update media meta to trigger regeneration
+    console.log('Regenerate Thumbnails plugin not found, updating media metadata...');
+    const updateResp = await fetch(`${siteUrl}/wp-json/wp/v2/media/${mediaId}`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Basic ${credentials}`
+      },
+      body: JSON.stringify({
+        meta: {
+          _thumbnail_id: mediaId
+        }
+      })
+    });
+
+    if (updateResp.ok) {
+      console.log(`✓ Media metadata updated for media_id=${mediaId}`);
+    }
+  } catch (e) {
+    console.warn('Could not regenerate thumbnails:', e.message);
+    // Non-blocking - if thumbnails can't be generated, the original source_url should still work
+  }
 }
 
 function rewriteMediaUrl(url) {
