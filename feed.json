@@ -1,13 +1,139 @@
 {
-  "generated_at": "2026-07-17T07:16:26.874311+00:00",
+  "generated_at": "2026-07-17T09:57:22.798822+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 182,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "115d01941ec4",
+      "title": "Anya Taylor-Joy’s Heatwave Dressing Hack? Go Bra-First",
+      "link": "https://www.vogue.com/article/anya-taylor-joy-heatwave-dressing-hack-bra-first",
+      "summary": "“Lucky” star Anya Taylor-Joy keeps cool by making her fuchsia underwear the focal point of her easy, breezy outfit.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Anya Taylor-Joy’s Heatwave Dressing Hack? Go Bra-First...",
+      "score": 3,
+      "published": "2026-07-17T09:32:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3cfbb9ab671",
+      "title": "Treatment Stacking to TPE: The Next Aesthetic Treatment Trends to Know",
+      "link": "https://www.vogue.com/article/treatment-stacking-to-tpe-the-next-aesthetic-treatment-trends-to-know",
+      "summary": "As demand for more advanced, preventative approaches to aging enhancement grows, so does the race to find the next aesthetic breakthrough. Which innovation will move from industry buzzword to mainstream game-changer?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-17T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-17T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "170aeebf5a0c",
+      "title": "I Did a Deep Dive and Can Confirm That This Is the Summer-to-Fall Shoe Trend That'll Replace Sandals",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flat-slipper-mules-shoe-trend-vittoria-ceretti",
+      "summary": "As seen on a very chic Italian supermodel.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-17T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9816c3d3abfc",
+      "title": "‘The Odyssey’ Press Tour Is Over: Zendaya and Tom Holland Finally Get Their Dinner Date",
+      "link": "https://www.vogue.com/article/zendaya-and-tom-holland-finally-get-their-dinner-date",
+      "summary": "Zendaya and Tom Holland have been hard at work promoting their two new films: on release week of one, they swapped red carpet looks for something more low-key.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: ‘The Odyssey’ Press Tour Is Over: Zendaya and Tom Holland Finally Get ...",
+      "score": 0,
+      "published": "2026-07-17T09:05:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6963bfe74199",
+      "title": "This Fashion Couple Tied the Knot at a 19th-Century Sicilian Masseria in Custom Looks Designed by the Bride",
+      "link": "https://www.whowhatwear.com/living/wedding/max-siegelman-and-karoline-spenning-wedding",
+      "summary": "Discover all the stylish and intentional details here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: This Fashion Couple Tied the Knot at a 19th-Century Sicilian Masseria in Custom Looks Designed by the Bride — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-07-17T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c43d13ace318",
+      "title": "Every Summer, the World's Best-Dressed Women Return to This One Elegant Bag—And It's Still In Sock",
+      "link": "https://www.whowhatwear.com/fashion/shopping/saint-laurent-raffia-bags",
+      "summary": "It-girl approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Every Summer, the World's Best-Dressed Women Return to This One Elegan...",
+      "score": 1,
+      "published": "2026-07-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5a972a4c8018",
+      "title": "Meet Yasmin Istanbouli: The It-Girl Makeup Artist Behind Your Favorite Celebrity Glam Moments",
+      "link": "https://www.whowhatwear.com/beauty/makeup/yasmin-istanbouli-makeup-artist-interview",
+      "summary": "A name you'll want to take stock in early.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cfc43ca6fb7f",
+      "title": "If You Want to Look Like the Most Stylish Person on the Beach, Wear These Exact Bikini Colours",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/bikini-colour-trends-summer-2026",
+      "summary": "Shades of the season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: If You Want to Look Like the Most Stylish Person on the Beach, Wear Th...",
+      "score": 2,
+      "published": "2026-07-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "775dd38428b6",
       "title": "The Only Pants Chic Women Are Wearing More Than Jeans, Capris, and Kick-Flare Trousers This Summer",
@@ -328,20 +454,6 @@
       "angle": "Fashion Intelligence: Hot Child in the City: How New Yorkers Dressed for a Heat Wave...",
       "score": 2,
       "published": "2026-07-16T18:47:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c854b408e7e6",
-      "title": "Nainital's new Rs 100 entry tax on bikes sparks outrage, collection put on hold",
-      "link": "https://www.indiatoday.in/india/story/nainital-new-rs-100-entry-tax-bikes-two-wheelers-sparks-public-outrage-collection-put-on-hold-2949591-2026-07-16?utm_source=rss",
-      "summary": "Nainital's new Rs 100 entry tax on bikes sparks outrage, collection put on hold",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-16T18:20:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,20 +849,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b52384e5b3e8",
-      "title": "The Best Summer Sweaters, According to Vogue Staffers",
-      "link": "https://www.vogue.com/article/vogue-editors-summer-office-sweaters",
-      "summary": "Vogue editors share their go summer sweaters for keeping warm in a chilly air-conditioned office.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Summer Sweaters, According to Vogue Staffers...",
-      "score": 0,
-      "published": "2026-07-16T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6c4683f5659a",
       "title": "My Packing Style: Métier Founder Melissa Morris",
       "link": "https://www.vogue.com/article/packing-style-melissa-morris",
@@ -761,6 +859,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: My Packing Style: Métier Founder Melissa Morris...",
       "score": 2,
+      "published": "2026-07-16T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b52384e5b3e8",
+      "title": "The Best Summer Sweaters, According to Vogue Staffers",
+      "link": "https://www.vogue.com/article/vogue-editors-summer-office-sweaters",
+      "summary": "Vogue editors share their go summer sweaters for keeping warm in a chilly air-conditioned office.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Summer Sweaters, According to Vogue Staffers...",
+      "score": 0,
       "published": "2026-07-16T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -807,20 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8ce07d9078d6",
-      "title": "The Summer Print That Unites Princess Diana and Princess Catherine’s Wardrobes",
-      "link": "https://www.vogue.com/article/princess-diana-kate-middleton-gingham-outfits",
-      "summary": "Whether out for the Polo, on royal engagements, or summering in the south of France: both Princess Diana and Kate found gingham to be a lasting staple.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: The Summer Print That Unites Princess Diana and Princess Catherine’s W...",
-      "score": 0,
-      "published": "2026-07-16T09:50:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bca3713c9068",
       "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
       "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
@@ -832,48 +930,6 @@
       "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
       "score": 1,
       "published": "2026-07-16T09:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f5423a333f1f",
-      "title": "Meet PhotoVogue Worldwide Curators",
-      "link": "https://www.vogue.com/article/meet-photovogue-worldwide-curators",
-      "summary": "Discover the expansive creative community around the world collaborating with PhotoVogue",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meet PhotoVogue Worldwide Curators...",
-      "score": 0,
-      "published": "2026-07-16T09:37:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c1948dbb8e03",
-      "title": "Luxury Wants European Cotton. Is It Possible?",
-      "link": "https://www.vogue.com/article/luxury-wants-european-cotton-is-it-possible",
-      "summary": "Luxury brands want more European cotton, but the supply chain struggles to compete with more established suppliers with less volatile climates, larger landmass, and lower labor costs.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Luxury Wants European Cotton. Is It Possible?...",
-      "score": 2,
-      "published": "2026-07-16T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "14339a9206c2",
-      "title": "The Best-Dressed Athletes at the 2026 ESPY Awards Embraced Sparkle",
-      "link": "https://www.vogue.com/slideshow/espy-awards-best-dressed-2026",
-      "summary": "Bronze, silver, gold! Shimmer was well-represented at the 2026 ESPYs: from Lindsey Vonn in sequin Gucci to Simone Biles in chrome.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: The Best-Dressed Athletes at the 2026 ESPY Awards Embraced Sparkle...",
-      "score": 1,
-      "published": "2026-07-16T09:19:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -958,6 +1014,20 @@
       "angle": "Fashion Intelligence: Across Europe, Stylish People Are Turning to These 3 High Street Brand...",
       "score": 2,
       "published": "2026-07-16T05:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdd00d6439aa",
+      "title": "Rectangle Face Shape: Your Ticket to Hollywood-Worthy Angles",
+      "link": "https://www.fashionbeans.com/article/rectangle-face-shapes/",
+      "summary": "If your face is longer than it is wide, with a forehead, cheekbones, and jawline that could stand in for a ruler, congratulations—you&#8217;re sporting a rectangle face shape. Think Josh Duhamel or Henry Cavill; you&#8217;re in good company. But why does face shape matter? It&#8217;s your style foundation. Understandin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rectangle Face Shape: Your Ticket to Hollywood-Worthy Angles...",
+      "score": 1,
+      "published": "2026-07-16T05:44:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1633,34 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "be210d461a20",
-      "title": "Every Beauty Editor I Know Swears By This Under-the-Radar Product for a Natural-Looking Glow",
-      "link": "https://www.whowhatwear.com/beauty/skin/by-terry-tea-to-tan-face-and-body",
-      "summary": "I can see why.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Every Beauty Editor I Know Swears By This Under-the-Radar Product for ...",
-      "score": 2,
-      "published": "2026-07-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f01c81844f1e",
-      "title": "Trust Me: We'll All Be Wearing Strawberry-Blush Manis This Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/harriet-westmoreland-strawberry-manicure",
-      "summary": "A berry delight.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6134a0e177aa",
       "title": "Dakota Johnson & Alexander Skarsgård Heat Up Valentino Vendetta",
       "link": "https://www.fashiongonerogue.com/story/dakota-johnson-valentino-vendetta/",
@@ -2218,34 +2260,6 @@
       "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
       "score": 4,
       "published": "2026-07-09T11:03:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5f9dbb256ed",
-      "title": "15 Best Minimalist Watches For Men in 2026",
-      "link": "https://www.fashionbeans.com/article/best-minimalist-watches/",
-      "summary": "The best minimalist watches are a key accessory for any guy who prefers a pared-back existence. Understated, classy, and super easy to wear, they strip back all the unnecessary components and leave you with a fuss-free timepiece that’ll look just as good now as it will in many years to come. In order to find &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 15 Best Minimalist Watches For Men in 2026...",
-      "score": 2,
-      "published": "2026-07-09T10:38:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "45a530ff34f2",
-      "title": "Dress Code: Pinnacle",
-      "link": "https://www.fashionbeans.com/article/pinnacle/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dress Code: Pinnacle...",
-      "score": 1,
-      "published": "2026-07-09T09:52:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "सतीश गोलचा",
+      "term": "वाशिंगटन सुंदर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रूस",
+      "term": "রোহিত শর্মা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हैरी ब्रूक",
+      "term": "வைகோ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dear passengers game",
+      "term": "নন্দীগ্রাম",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "my bharat",
+      "term": "हाइड्रोजन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "બંગાળની ખાડીમાં",
+      "term": "മണ്സൂണ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cag",
+      "term": "federal bank share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नीट रिजल्ट 2026",
+      "term": "federal bank share",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "aamir khan on sonam wangchuk",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bigg boss 20",
+      "term": "ഖത്തര്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
