@@ -1707,10 +1707,11 @@ async function uploadImageToWP(imageUrl, filename, altText) {
       throw new Error(`Invalid response from WordPress: ${JSON.stringify(media)}`);
     }
 
-    console.log(`Image uploaded to WordPress: media_id=${media.id}, url=${media.source_url}`);
+    const finalUrl = rewriteMediaUrl(media.source_url);
+    console.log(`Image uploaded to WordPress: media_id=${media.id}, url=${finalUrl}`);
     return {
       media_id: media.id,
-      media_url: media.source_url,
+      media_url: finalUrl,
       guid: media.guid
     };
   } catch (e) {
@@ -1725,21 +1726,23 @@ function getFeaturedImageUrl(originalUrl, width, height) {
     return null;
   }
 
+  let url = rewriteMediaUrl(originalUrl);
+
   const w = width || parseInt(sessionStorage.getItem('FEATURED_IMAGE_WIDTH') || '1200');
   const h = height || parseInt(sessionStorage.getItem('FEATURED_IMAGE_HEIGHT') || '800');
 
-  // If URL doesn't have ImageKit transform, just use original
-  if (!originalUrl.includes('tr:')) {
-    console.log('No ImageKit transform in URL, using original:', originalUrl);
-    return originalUrl;
+  // If URL doesn't have ImageKit transform, just use original (rewritten)
+  if (!url.includes('tr:')) {
+    console.log('No ImageKit transform in URL, using rewritten URL:', url);
+    return url;
   }
 
-  const transformed = originalUrl.replace(
+  const transformed = url.replace(
     /tr:[^/]+/,
     `tr:w-${w},h-${h},c-maintain_ratio`
   );
 
-  console.log('Featured image URL transform:', { original: originalUrl, transformed: transformed, dims: `${w}x${h}` });
+  console.log('Featured image URL transform:', { original: url, transformed: transformed, dims: `${w}x${h}` });
   return transformed;
 }
 
@@ -1747,10 +1750,11 @@ function buildSectionHTML(sectionMarkdown, matchResult) {
   let html = marked.parse(sectionMarkdown);
 
   if (matchResult && matchResult.approved && matchResult.media_url) {
+    const mediaUrl = rewriteMediaUrl(matchResult.media_url);
     const figure = `
 <figure class="wp-block-image aligncenter">
   <a href="${matchResult.pdp_url}" target="_blank" rel="noopener noreferrer">
-    <img src="${matchResult.media_url}" alt="${escapeHtml(matchResult.product.title)}" />
+    <img src="${mediaUrl}" alt="${escapeHtml(matchResult.product.title)}" />
   </a>
   <figcaption>
     <a href="${matchResult.pdp_url}" target="_blank" rel="noopener noreferrer">
@@ -1767,6 +1771,17 @@ function buildSectionHTML(sectionMarkdown, matchResult) {
   }
 
   return html;
+}
+
+function rewriteMediaUrl(url) {
+  if (!url) return url;
+  // Handle multisite redirect: rewrite Aza Fashions URLs to Samyukta blog
+  if (url.includes('azafashions.com/blog')) {
+    const corrected = url.replace('https://www.azafashions.com/blog', 'https://ssblog.azaonline.in');
+    console.log(`🔗 Media URL rewrite: ...${url.substring(url.length - 50)} → ssblog.azaonline.in...`);
+    return corrected;
+  }
+  return url;
 }
 
 function getWpCredentials() {
