@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T05:11:34.467330+00:00",
+  "generated_at": "2026-07-17T07:16:26.874311+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 182,
@@ -8,6 +8,90 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "775dd38428b6",
+      "title": "The Only Pants Chic Women Are Wearing More Than Jeans, Capris, and Kick-Flare Trousers This Summer",
+      "link": "https://www.whowhatwear.com/fashion/embroidered-hem-white-pant-trend",
+      "summary": "These are defining summer '26 style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aef99c7d2ea2",
+      "title": "I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You're Welcome",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-j-crew",
+      "summary": "Best of all, you might be able to style them with what you already own.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You...",
+      "score": 2,
+      "published": "2026-07-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9a1a10eb70b2",
+      "title": "If Dressing Like You Summer in Lake Como Is the Goal, Here Are 31 Pieces to Help You Achieve It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/lake-como-inspired-summer-shopping",
+      "summary": "Whether a trip to Grand Hotel Tremezzo is in the cards or not.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If Dressing Like You Summer in Lake Como Is the Goal, Here Are 31 Piec...",
+      "score": 1,
+      "published": "2026-07-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7be32d1e747c",
+      "title": "If You’re Planning To Visit Any of These Greek Islands This Summer, Wear This, This and This",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/greek-island-outfit-ideas-2026",
+      "summary": "From sea to sunset dinner.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You’re Planning To Visit Any of These Greek Islands This Summer, We...",
+      "score": 1,
+      "published": "2026-07-17T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "398dc5556ff0",
+      "title": "The New Cool-Girl Status Symbol? Hanging One of These Beauty Products on Your Handbag",
+      "link": "https://www.whowhatwear.com/beauty/skin/beauty-bag-charms",
+      "summary": "It's a beauty takeover.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The New Cool-Girl Status Symbol? Hanging One of These Beauty Products ...",
+      "score": 1,
+      "published": "2026-07-17T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c42c5987608e",
+      "title": "Every Stylish French Woman Has One of These Pretty Dresses in Their Summer Capsule Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-embroidered-white-mini-dresses-summer-2026",
+      "summary": "The best ones are selling fast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Every Stylish French Woman Has One of These Pretty Dresses in Their Su...",
+      "score": 1,
+      "published": "2026-07-17T05:50:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4fec9a8d5089",
       "title": "The Scoop With David Martin: On How to Sustain an Indie Fashion Magazine",
@@ -62,20 +146,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-07-17T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee2bba0f887b",
-      "title": "Live: PM Modi to flag off India's first hydrogen train, launch key projects",
-      "link": "https://www.indiatoday.in/india/story/pm-narendra-modi-haryana-chandigarh-punjab-visit-live-updates-jind-hydrogen-train-projects-2949644-2026-07-17?utm_source=rss",
-      "summary": "Live: PM Modi to flag off India's first hydrogen train, launch key projects",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-17T01:52:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -849,6 +919,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "329448b2471d",
+      "title": "8 Most Comfortable Loafers for Men – Relaxing Style For 2026",
+      "link": "https://www.fashionbeans.com/article/most-comfortable-loafers-for-men/",
+      "summary": "The OG lounging shoe, the loafer is an integral part of any successful footwear collection. Smarter than a slipper yet equally as kind to your trotters, it’s the perfect choice for office days, date nights, weddings, and more. But with so many brands offering up their own version, finding the perfect pair can be easier",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: 8 Most Comfortable Loafers for Men – Relaxing Style For 2026...",
+      "score": 5,
+      "published": "2026-07-16T06:48:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "52476fe053de",
       "title": "I Thought Korean Skincare Was the Best Part of K-Beauty, Then I Tried These Makeup Products",
       "link": "https://www.whowhatwear.com/beauty/makeup/best-korean-makeup-products",
@@ -1577,34 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5051ca6b71bc",
-      "title": "I Like My Summer Dresses Minimalist and Rich-Looking—21 Elegant Styles That Will Sell Out by August",
-      "link": "https://www.whowhatwear.com/fashion/dresses/best-minimalist-summer-dresses-2026",
-      "summary": "It's officially dress season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Like My Summer Dresses Minimalist and Rich-Looking—21 Elegant Styles...",
-      "score": 3,
-      "published": "2026-07-15T05:55:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6ece4b617c8a",
-      "title": "I Just Got Back From Couture Week in Paris—4 Buzzy Moments I'm Still Thinking About",
-      "link": "https://www.whowhatwear.com/fashion/runway/paris-couture-week-fall-2026",
-      "summary": "From Balenciaga to Dior.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Just Got Back From Couture Week in Paris—4 Buzzy Moments I'm Still T...",
-      "score": 1,
-      "published": "2026-07-15T03:39:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6134a0e177aa",
       "title": "Dakota Johnson & Alexander Skarsgård Heat Up Valentino Vendetta",
       "link": "https://www.fashiongonerogue.com/story/dakota-johnson-valentino-vendetta/",
@@ -1630,20 +1686,6 @@
       "angle": "Fashion Intelligence: How Street Style Photography Inspires Real-Life Dressing...",
       "score": 3,
       "published": "2026-07-15T02:24:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8ed28bb98d4d",
-      "title": "Zendaya Just Ditched Her Signature Red Carpet Pumps for This Heelless Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-the-odyssey-red-carpet-shoes",
-      "summary": "A surprising swap.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-14T23:38:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1686,20 +1728,6 @@
       "angle": "Fashion Intelligence: What Love Island USA Says About Today’s Dating Gender Wars...",
       "score": 2,
       "published": "2026-07-14T22:17:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fc3806faf4c2",
-      "title": "I Hate to Say It, But These 6 T-Shirt Styles Are Officially Dated",
-      "link": "https://www.whowhatwear.com/fashion/trends/tshirt-trends-2026",
-      "summary": "Wear these instead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Hate to Say It, But These 6 T-Shirt Styles Are Officially Dated...",
-      "score": 2,
-      "published": "2026-07-14T21:50:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1756,20 +1784,6 @@
       "angle": "Fashion Intelligence: Jennifer Lopez Makes a Case for Maximalism in a Jewel-Covered Look...",
       "score": 1,
       "published": "2026-07-14T18:06:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "afe166db51e1",
-      "title": "Don't Complicate It—5 Staples You Need for a Successful Summer 2026 Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-2026-wardrobe-staples",
-      "summary": "Your summer fashion cheat sheet lies ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Don't Complicate It—5 Staples You Need for a Successful Summer 2026 Wa...",
-      "score": 1,
-      "published": "2026-07-14T17:27:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2232,20 +2246,6 @@
       "angle": "Fashion Intelligence: Dress Code: Pinnacle...",
       "score": 1,
       "published": "2026-07-09T09:52:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "68b228db544c",
-      "title": "The Best Boots For Men in 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-boots/",
-      "summary": "Men have been wearing boots for at least 3,000 years, so we&#8217;re going to hold our hands up here. What follows does not include calfskin ankle boots designed by Inca warriors or mankind&#8217;s original winter men&#8217;s boots, which were made by Inuit tribes and decorated with seal intestines. Sorry about that. W",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Boots For Men in 2026...",
-      "score": 1,
-      "published": "2026-07-09T09:49:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "kota news",
+      "term": "सतीश गोलचा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "முதலமைச்சர்",
+      "term": "रूस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ranveer singh",
+      "term": "हैरी ब्रूक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "groww share price",
+      "term": "dear passengers game",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "polycab share price",
+      "term": "my bharat",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "police",
+      "term": "બંગાળની ખાડીમાં",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jio finance share price",
+      "term": "cag",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tradingview",
+      "term": "नीट रिजल्ट 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nse india",
+      "term": "taiwan index",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "odyssey review",
+      "term": "bigg boss 20",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
