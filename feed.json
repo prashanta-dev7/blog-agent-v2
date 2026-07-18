@@ -1,13 +1,153 @@
 {
-  "generated_at": "2026-07-18T09:25:17.964019+00:00",
+  "generated_at": "2026-07-18T11:53:30.851011+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 184,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "56b120d4b3a1",
+      "title": "Print! Pattern! Color! These Street Style Looks Answer the Age-Old Question: Can Clashing Be Tasteful?",
+      "link": "https://www.vogue.com/article/street-style-clashing-prints-patterns",
+      "summary": "A look at ways to tastefully clash, courtesy of Vogue's favorite street style stars.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Print! Pattern! Color! These Street Style Looks Answer the Age-Old Que...",
+      "score": 1,
+      "published": "2026-07-18T11:02:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bd916655dec2",
+      "title": "If You Want Flip-Flops to Look Elegant, Forget Linen Trousers—Opt for This Pant Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flip-flops-jacquard-drawstring-pants-outfit-sofia-richie-grainge-2026",
+      "summary": "It, of course, has a drawstring waist.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-18T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a7711b3b5da",
+      "title": "Myntra Expands AI Capabilities Across Customer, Seller Operations",
+      "link": "https://in.apparelresources.com/business-news/retail/myntra-expands-ai-capabilities-across-customer-seller-operations/",
+      "summary": "Fashion e-commerce platform Myntra has expanded its AI capabilities across customer experience, seller enablement and operational efficiency, enabling faster seller onboarding. Myntra has also strengthened its catalogue generation infrastructure, reducing turnaround time from one day to four hours. The platform now gen",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Myntra Expands AI Capabilities Across Customer, Seller Operations...",
+      "score": 1,
+      "published": "2026-07-18T10:57:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73c903b5ea69",
+      "title": "The Cost of a Ready-Made Family",
+      "link": "https://www.vogue.com/article/the-cost-of-a-ready-made-family",
+      "summary": "In the end, it wasn’t so much that I didn’t know the man I married, but that I became a stranger to myself. I’d hung onto the marriage for my own emotional fulfillment, and the kids ended up serving as collateral.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Cost of a Ready-Made Family...",
+      "score": 0,
+      "published": "2026-07-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "229a96d2477d",
+      "title": "The Nordstrom Anniversary Sale 2026 Is Here—What Vogue Editors Are Shopping",
+      "link": "https://www.vogue.com/slideshow/nordstrom-anniversary-sale-2026-1",
+      "summary": "The Nordstrom Anniversary Sale 2026 starts on July 18. Shop our editors’ top picks on best in summer fashion, luxe beauty, and home.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Nordstrom Anniversary Sale 2026 Is Here—What Vogue Editors Are Sho...",
+      "score": 2,
+      "published": "2026-07-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc2f2713e632",
+      "title": "I Never Miss the Nordstrom Beauty Sale—These Are the Deals I’d Shop First",
+      "link": "https://www.vogue.com/article/nordstrom-anniversary-sale-beauty-deals-2026",
+      "summary": "The Nordstrom Anniversary Sale is back, and runs through ends on August 9. Shop Nordstrom’s beauty sale for discounted, Dyson, Therabody, Higherdose and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Never Miss the Nordstrom Beauty Sale—These Are the Deals I’d Shop Fi...",
+      "score": 1,
+      "published": "2026-07-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bbade10a66c6",
+      "title": "Looking Like a Fashion Person RN Is as Easy as Wearing These Two Chanel-Approved Colors Together",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/grass-green-and-azure-color-pairing-trend-gracie-abrams",
+      "summary": "Gracie Abrams got the memo loud and clear.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "087ff8a8a723",
+      "title": "Why NOIB Is Betting Big on Print-Led Fashion",
+      "link": "https://in.apparelresources.com/fashion-news/features/noib-betting-big-print-led-fashion/",
+      "summary": "In a market long dominated by occasion-driven fashion, NOIB emerges with a clear and considered proposition that redefines everyday westernwear through the lens of print, colour and comfort. Conceived to address a growing appetite for clothing that feels both distinctive and effortlessly wearable, the brand positions i",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Why NOIB Is Betting Big on Print-Led Fashion...",
+      "score": 5,
+      "published": "2026-07-18T09:53:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "600f88eaaaf0",
+      "title": "Zendaya Is Having a Greaser Summer, Heatwave Be Damned",
+      "link": "https://www.vogue.com/article/zendaya-leather-look",
+      "summary": "It’s back to the “Spider-Man: Brand New Day” press tour for Zendaya: this time, she’s swapping sparkles and spider motifs for tough leathers.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Zendaya Is Having a Greaser Summer, Heatwave Be Damned...",
+      "score": 1,
+      "published": "2026-07-18T09:39:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1c96ab90949f",
+      "title": "From West London to the West Coast—Every Elegant Fashion Person Is Styling This Pretty Dress Trend RN",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cotton-floral-print-dress-trend-bella-hadid-2026",
+      "summary": "Bella Hadid included.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-18T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d0a917620e28",
       "title": "Cropped Flared Jeans Are Trending—This Elegant Shoe Trend Makes Them Look Chicest",
@@ -135,6 +275,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5665adb0b279",
+      "title": "I Know These Will Be the First Fashion and Beauty Finds to Sell Out at the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-2026-editor-most-loved-deals",
+      "summary": "From Barbour and Tom Ford to Clinique and Byredo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know These Will Be the First Fashion and Beauty Finds to Sell Out at...",
+      "score": 2,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "84c22869d24a",
       "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
       "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
@@ -186,20 +340,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
-      "score": 2,
-      "published": "2026-07-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5665adb0b279",
-      "title": "I Know These Will Be the First Fashion and Beauty Finds to Sell Out at the Nordstrom Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-2026-editor-most-loved-deals",
-      "summary": "From Barbour and Tom Ford to Clinique and Byredo.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know These Will Be the First Fashion and Beauty Finds to Sell Out at...",
       "score": 2,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
@@ -793,6 +933,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4defe18984db",
+      "title": "8 Best Bucket Hats For Men To Turn Heads All 2026 Long",
+      "link": "https://www.fashionbeans.com/article/best-bucket-hats-for-men/",
+      "summary": "Forget what your dad has told you about bucket hats. Unless he’s told you that they’re awesome. In that case, he’s totally right. A must-have for every warm-weather collection, the best bucket hats for men are the coolest way to shade yourself from the sun. Better yet, the summer-ready style comes in all sorts of &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 8 Best Bucket Hats For Men To Turn Heads All 2026 Long...",
+      "score": 2,
+      "published": "2026-07-17T12:40:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "00ddda0be36c",
       "title": "Weekly Drop Watch: Hailey Bieber x Gap, Repetto x Birkenstock, Kosas and More",
       "link": "https://fashionista.com/2026/07/best-fashion-beauty-launches-collabs-july-17",
@@ -975,20 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5f3c729cc29f",
-      "title": "Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel",
-      "link": "https://www.vogue.com/article/vogue-vacations-kasey-busiel-mallorca-madrid",
-      "summary": "Vogue Shopping’s marketing and production manager shares everything she wore, indulged in, and shopped from five days in Spain.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel...",
-      "score": 0,
-      "published": "2026-07-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2022c0d11a9a",
       "title": "7 Beach Outfits You’ll Love, Even If You’re Not A Summer Person",
       "link": "https://www.vogue.com/article/beach-outfits",
@@ -1003,16 +1143,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "457626b2abd7",
-      "title": "4 Ways to Introduce Color in Your Wardrobe, Inspired by Pre-Fall 2026",
-      "link": "https://www.vogue.com/article/how-to-wear-more-color-pre-fall-2026",
-      "summary": "The 2026 pre-fall collections offer fresh ideas on how to liven up the all-black uniform. Here’s how.",
+      "id": "5f3c729cc29f",
+      "title": "Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel",
+      "link": "https://www.vogue.com/article/vogue-vacations-kasey-busiel-mallorca-madrid",
+      "summary": "Vogue Shopping’s marketing and production manager shares everything she wore, indulged in, and shopped from five days in Spain.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 4 Ways to Introduce Color in Your Wardrobe, Inspired by Pre-Fall 2026...",
-      "score": 1,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel...",
+      "score": 0,
       "published": "2026-07-17T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1059,48 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "115d01941ec4",
-      "title": "Anya Taylor-Joy’s Heatwave Dressing Hack? Go Bra-First",
-      "link": "https://www.vogue.com/article/anya-taylor-joy-heatwave-dressing-hack-bra-first",
-      "summary": "“Lucky” star Anya Taylor-Joy keeps cool by making her fuchsia underwear the focal point of her easy, breezy outfit.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Anya Taylor-Joy’s Heatwave Dressing Hack? Go Bra-First...",
-      "score": 3,
-      "published": "2026-07-17T09:32:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d3cfbb9ab671",
-      "title": "Treatment Stacking to TPE: The Next Aesthetic Treatment Trends to Know",
-      "link": "https://www.vogue.com/article/treatment-stacking-to-tpe-the-next-aesthetic-treatment-trends-to-know",
-      "summary": "As demand for more advanced, preventative approaches to aging enhancement grows, so does the race to find the next aesthetic breakthrough. Which innovation will move from industry buzzword to mainstream game-changer?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-17T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-17T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "170aeebf5a0c",
       "title": "I Did a Deep Dive and Can Confirm That This Is the Summer-to-Fall Shoe Trend That'll Replace Sandals",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/flat-slipper-mules-shoe-trend-vittoria-ceretti",
@@ -1112,20 +1210,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-07-17T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9816c3d3abfc",
-      "title": "‘The Odyssey’ Press Tour Is Over: Zendaya and Tom Holland Finally Get Their Dinner Date",
-      "link": "https://www.vogue.com/article/zendaya-and-tom-holland-finally-get-their-dinner-date",
-      "summary": "Zendaya and Tom Holland have been hard at work promoting their two new films: on release week of one, they swapped red carpet looks for something more low-key.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: ‘The Odyssey’ Press Tour Is Over: Zendaya and Tom Holland Finally Get ...",
-      "score": 0,
-      "published": "2026-07-17T09:05:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1241,15 +1325,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "775dd38428b6",
-      "title": "The Only Pants Chic Women Are Wearing More Than Jeans, Capris, and Kick-Flare Trousers This Summer",
-      "link": "https://www.whowhatwear.com/fashion/embroidered-hem-white-pant-trend",
-      "summary": "These are defining summer '26 style.",
+      "id": "aef99c7d2ea2",
+      "title": "I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You're Welcome",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-j-crew",
+      "summary": "Best of all, you might be able to style them with what you already own.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "angle": "Fashion Intelligence: I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You...",
       "score": 2,
       "published": "2026-07-17T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1269,17 +1353,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "aef99c7d2ea2",
-      "title": "I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You're Welcome",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-j-crew",
-      "summary": "Best of all, you might be able to style them with what you already own.",
+      "id": "775dd38428b6",
+      "title": "The Only Pants Chic Women Are Wearing More Than Jeans, Capris, and Kick-Flare Trousers This Summer",
+      "link": "https://www.whowhatwear.com/fashion/embroidered-hem-white-pant-trend",
+      "summary": "These are defining summer '26 style.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-07-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b982d60bd990",
+      "title": "30 Best Streetwear Brands: Our Top Picks In 2026",
+      "link": "https://www.fashionbeans.com/article/best-streetwear-brands/",
+      "summary": "The term &#8216;streetwear&#8216; once had a straightforward definition, referring to an unflattering style characterized by graphic T-shirts, baggy attire, and sneakers. However, defining the best streetwear brands in today&#8217;s fashion landscape has become more complex. This complexity arises as streetwear has tra",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 30 Best Streetwear Brands: Our Top Picks In 2026...",
+      "score": 4,
+      "published": "2026-07-17T06:00:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1535,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "58f4b0c6fac8",
-      "title": "It's Official: Suddenly Everyone Is Wearing These The Row-Coded High-Street Shoes This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/reformation-jessie-thong-sandal-red-and-black",
-      "summary": "And they're under £150.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-16T14:00:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "53fe16f012e8",
       "title": "Repetto and Birkenstock’s Ballet-Inspired Collection Is Here",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71952726/repetto-birkenstocks-collection/",
@@ -1630,20 +1714,6 @@
       "angle": "Fashion Intelligence: Mia Calabrese's Go-to Beauty Hack? Putting Nipple Cream on Her Lips...",
       "score": 2,
       "published": "2026-07-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "77b768826d3f",
-      "title": "Supersized Shorts, Slip Dresses and Tropical Barbie Energy—7 Gen Z Pop Stars Setting the Trends in 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity/gen-z-pop-stars-female-2026",
-      "summary": "So fun!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-16T11:46:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2179,20 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ea6943eb95f0",
-      "title": "Woven Fabrics Reset: Lighter Constructions, Smarter Blends, Faster Cycles",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/woven-fabrics-reset-lighter-constructions-smarter-blends-faster-cycles/",
-      "summary": "Fabric never lies. Long before silhouettes change or retail trends become visible on shelves, shifts in fabric sourcing often reveal where the apparel industry is actually heading. At a time when India’s textile exports declined from around US $14.40 billion in FY24 to US $13.71 billion in FY25 amid softer global deman",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Woven Fabrics Reset: Lighter Constructions, Smarter Blends, Faster Cyc...",
-      "score": 1,
-      "published": "2026-07-13T06:00:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bb4edd48a498",
       "title": "ICYMI: Fashionista's Nordstrom Anniversary Sale Picks, Lang's New L.A. Flagship & Erin Walsh Talks Personal Style",
       "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-11",
@@ -2204,20 +2260,6 @@
       "angle": "Fashion Intelligence: ICYMI: Fashionista's Nordstrom Anniversary Sale Picks, Lang's New L.A....",
       "score": 2,
       "published": "2026-07-11T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cef19b5c00eb",
-      "title": "How To Find Comfortable Dress Shoes For Men",
-      "link": "https://www.fashionbeans.com/article/comfortable-dress-shoes-men/",
-      "summary": "Some days &#8211; for work, a function or just because you feel like it &#8211; you need to dress up. But there’s always that hesitation in having to don dress shoes &#8211; so often stiff, uncompromising and hard on your tootsies. At least, that was the case. More relaxed dress codes, as well as the &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Find Comfortable Dress Shoes For Men...",
-      "score": 1,
-      "published": "2026-07-10T16:06:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "గుంటూరు",
+      "term": "నెయ్యి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sri lanka",
+      "term": "burton vs leicester city",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शरद पवार",
+      "term": "summer vacation",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అనంతపురం",
+      "term": "rbi polymer currency notes pilot",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "maruti brezza facelift",
+      "term": "चाचणी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "হাওড়া",
+      "term": "fifa world cup final football",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सोनम वांगचुक समाचार",
+      "term": "spiderman trailer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "the odyssey review christopher nolan",
+      "term": "विजय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "football fifa world cup final",
+      "term": "manjot kalra cricketer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കുവൈറ്റ്",
+      "term": "spain coach interrupted by crowd",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
