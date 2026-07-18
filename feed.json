@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-07-18T04:47:10.772564+00:00",
+  "generated_at": "2026-07-18T07:00:42.651490+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "761b7bc7fd65",
+      "title": "Did I Just Strike Nordstrom Gold? See the Most Impressive Deals From the 2026 Anniversary Sale, From Dyson to Prada Beauty",
+      "link": "https://www.whowhatwear.com/beauty/nordstrom-anniversary-sale-best-beauty-deals-2026",
+      "summary": "With discounts up to 57%, these finds won't last long.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Did I Just Strike Nordstrom Gold? See the Most Impressive Deals From t...",
+      "score": 1,
+      "published": "2026-07-18T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "1c1f46778d8b",
       "title": "Hold Up—Did Zendaya Really Just Wear Leather Cigarette Pants in NYC's 85º Heat?",
@@ -891,6 +905,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ed592f32b06e",
+      "title": "What Shoes To Wear With Every Style Of Trousers",
+      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-trousers/",
+      "summary": "If you’re wondering why you don’t see more men wearing puffer jackets to the beach or putting sriracha sauce on their ice cream, the answer is simple. Some things simply should not and do not and go together. The same goes for shoes and trousers. Sure, you’re probably well aware that flip-flops aren’t the perfect &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Shoes To Wear With Every Style Of Trousers...",
+      "score": 2,
+      "published": "2026-07-17T08:30:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "227926995c9e",
       "title": "20 Best Hats for Men – Must Have’s For Any Taste in 2026",
       "link": "https://www.fashionbeans.com/article/best-hats-for-men/",
@@ -905,16 +933,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cfc43ca6fb7f",
-      "title": "If You Want to Look Like the Most Stylish Person on the Beach, Wear These Exact Bikini Colours",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/bikini-colour-trends-summer-2026",
-      "summary": "Shades of the season.",
+      "id": "c43d13ace318",
+      "title": "Every Summer, the World's Best-Dressed Women Return to This One Elegant Bag—And It's Still In Sock",
+      "link": "https://www.whowhatwear.com/fashion/shopping/saint-laurent-raffia-bags",
+      "summary": "It-girl approved.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: If You Want to Look Like the Most Stylish Person on the Beach, Wear Th...",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Every Summer, the World's Best-Dressed Women Return to This One Elegan...",
+      "score": 1,
       "published": "2026-07-17T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -933,16 +961,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c43d13ace318",
-      "title": "Every Summer, the World's Best-Dressed Women Return to This One Elegant Bag—And It's Still In Sock",
-      "link": "https://www.whowhatwear.com/fashion/shopping/saint-laurent-raffia-bags",
-      "summary": "It-girl approved.",
+      "id": "cfc43ca6fb7f",
+      "title": "If You Want to Look Like the Most Stylish Person on the Beach, Wear These Exact Bikini Colours",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/bikini-colour-trends-summer-2026",
+      "summary": "Shades of the season.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Summer, the World's Best-Dressed Women Return to This One Elegan...",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: If You Want to Look Like the Most Stylish Person on the Beach, Wear Th...",
+      "score": 2,
       "published": "2026-07-17T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1409,6 +1437,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e3c8cd2cde46",
+      "title": "7 Best Walking Sandals For Men: Ubiquitous Comfort in 2026",
+      "link": "https://www.fashionbeans.com/article/best-walking-sandals-for-men/",
+      "summary": "The best walking sandals for men are some of the most versatile shoes you can own. But hunting down a prime pair can be a headache if you don’t know what to look for. As someone who prefers to walk in sandals over any other footwear, I’ve tried and tested dozens of options to find &#8230; Continue reading 7 Best Walkin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Best Walking Sandals For Men: Ubiquitous Comfort in 2026...",
+      "score": 1,
+      "published": "2026-07-16T08:03:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a98fcc7738f6",
       "title": "I Did a Deep Dive on Zendaya's Beauty Looks—These Are the Undisputed Best of All Time",
       "link": "https://www.whowhatwear.com/beauty/best-zendaya-beauty-looks",
@@ -1423,20 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "03080cc95740",
-      "title": "Here You Go—These 4 Trends From the Nordstrom Anniversary Sale Will Create Even More Stylish Outfits",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-trends-nordstrom-anniversary-sale-2026",
-      "summary": "Add these items to your closet, and you're set.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7b9668b9a9e5",
       "title": "25 Chic Sweaters and Jeans From Nordstrom's Anniversary Sale to Get You Excited for Fall",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-sweaters-jeans-nordstrom-anniversary-sale-2026",
@@ -1447,6 +1475,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: 25 Chic Sweaters and Jeans From Nordstrom's Anniversary Sale to Get Yo...",
       "score": 1,
+      "published": "2026-07-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "03080cc95740",
+      "title": "Here You Go—These 4 Trends From the Nordstrom Anniversary Sale Will Create Even More Stylish Outfits",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-trends-nordstrom-anniversary-sale-2026",
+      "summary": "Add these items to your closet, and you're set.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-07-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1742,20 +1784,6 @@
       "angle": "Fashion Intelligence: Must Read: Richemont Quarterly Sales Surge 20%, Bluemercury Appoints N...",
       "score": 2,
       "published": "2026-07-15T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "29c8e2f2a127",
-      "title": "Not Stilettos, Not Wedges: The New Heeled-Shoe Trend Fashion Insiders Are Wearing With Jeans",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cone-heel-shoe-trend-hailey-bieber",
-      "summary": "As seen on Hailey Bieber.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-15T14:24:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2218,48 +2246,6 @@
       "angle": "Fashion Intelligence: 5 Best Coach Colognes for Collecting Compliments in 2026...",
       "score": 1,
       "published": "2026-07-10T09:49:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "decfc2f33711",
-      "title": "How To Wear Green For Men",
-      "link": "https://www.fashionbeans.com/article/ways-to-wear-green-this-season/",
-      "summary": "Pick any piece of menswear and there’s a solid chance it’s done a tour in the armed forces. The T-shirt: issued to sailors as underwear in the late 19th century. Bomber jackets: designed, as the name suggests, to keep pilots warm in high altitude cockpits. The trench coat: now you’re not even trying. So it’s &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Green For Men...",
-      "score": 2,
-      "published": "2026-07-10T09:00:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8b1fc056d378",
-      "title": "Casual Dress for Men – Outfits And Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/casual-dress-for-men/",
-      "summary": "It’s not difficult to look good in a suit. If you’ve got the money and an experienced tailor who knows what he or she is doing, then you can’t really fail. Simply hand over your cash, listen to their sartorial know-how, and allow them to stitch you something that’s made to flatter the contours of &#8230; Continue readi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-10T09:00:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "984da283e7d0",
-      "title": "21 Best Chelsea Boots For Men That Go With Everything 2026",
-      "link": "https://www.fashionbeans.com/article/best-chelsea-boots-men/",
-      "summary": "Few things in the male wardrobe are likely to link reigning monarchs and rockstars. Nonetheless, the best Chelsea boots for men have managed to attract wearers as diverse as this, a most notable achievement. Of course, it’s not as simple as just slipping on any old pair. You need to look out for the hallmarks &#8230; C",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 21 Best Chelsea Boots For Men That Go With Everything 2026...",
-      "score": 1,
-      "published": "2026-07-10T09:00:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,6 +2951,31 @@
   ],
   "trends": [
     {
+      "term": "కింగ్",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "मगरमच्छ",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "kimi",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "google pixel 11",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "hydrogen powered trains indian railways",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "skyroot",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2986,31 +2997,6 @@
     },
     {
       "term": "nmc mbbs seat matrix 2026",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "la galaxy vs lafc",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "japan open badminton 2026",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "பழனி",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ప్రజాశక్తి",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "వాతావరణం",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
