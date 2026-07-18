@@ -1,13 +1,223 @@
 {
-  "generated_at": "2026-07-18T07:00:42.651490+00:00",
+  "generated_at": "2026-07-18T09:25:17.964019+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 182,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d0a917620e28",
+      "title": "Cropped Flared Jeans Are Trending—This Elegant Shoe Trend Makes Them Look Chicest",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-flared-jeans-pointed-toe-heels-trend-jennifer-garner-2026",
+      "summary": "Verified.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-18T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "555356cbab41",
+      "title": "Crocs Appoints Kumar Harshit as Commercial Director for India",
+      "link": "https://in.apparelresources.com/business-news/retail/crocs-appoints-kumar-harshit-commercial-director-india/",
+      "summary": "Footwear brand Crocs has appointed Kumar Harshit as Commercial Director Retail &#38; Wholesale for its India operations. In his new position, Harshit will lead Crocs&#8217; retail and wholesale business across the country, taking full responsibility for the profitability of its offline operations. He will oversee compa",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Crocs Appoints Kumar Harshit as Commercial Director for India...",
+      "score": 2,
+      "published": "2026-07-18T08:07:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4bbeb1f0f039",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-july-18",
+      "summary": "This week in celebrity beauty saw color come back in a big way—from Sienna Spiro’s sky-blue eyes to Alysa Liu’s striped up-do.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 2,
+      "published": "2026-07-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a8d76ebdc2db",
+      "title": "Spotted in Paris and London: The Print Trend That’s Taking Over From Polka Dots This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer/check-fashion-trend-summer-2026",
+      "summary": "Checkmate.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4859e557ac08",
+      "title": "Suddenly, Stylish Women All Over the World Are Carrying the French Summer Bag That Screams Quiet Luxury",
+      "link": "https://www.whowhatwear.com/fashion/shopping/sezane-leonie-basket-bag",
+      "summary": "It's a basket bag summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Suddenly, Stylish Women All Over the World Are Carrying the French Sum...",
+      "score": 1,
+      "published": "2026-07-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ec67ef2fed66",
+      "title": "All Our Editors All Agree: This Is the Dress Style of the Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-hm-broderie-anglaise-dresses-2026",
+      "summary": "Chic and breezy. Win-win.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: All Our Editors All Agree: This Is the Dress Style of the Summer...",
+      "score": 2,
+      "published": "2026-07-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2623892cb5a",
+      "title": "Baccarat Rouge! Santal 33! 15 Perfume Deals You Can't Miss During Nordstrom's Anniversary Sale",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-fragrance-deals-nordstrom-anniversary-sale-2026",
+      "summary": "Luxury bottles for as little as $83.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Baccarat Rouge! Santal 33! 15 Perfume Deals You Can't Miss During Nord...",
+      "score": 1,
+      "published": "2026-07-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cf9d85f341d8",
+      "title": "The Bear House Reaches 500 plus Points of Sale Across Markets",
+      "link": "https://in.apparelresources.com/business-news/retail/bear-house-reaches-500-plus-points-sale-across-markets/",
+      "summary": "Menswear brand The Bear House has expanded its retail presence to more than 500 points of sale across India and international markets. The brand&#8217;s network includes 25 exclusive brand outlets, comprising 23 stores in India and two in the UAE, along with a presence across large-format retail chains and multi-brand ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Bear House Reaches 500 plus Points of Sale Across Markets...",
+      "score": 3,
+      "published": "2026-07-18T07:58:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0709bb586061",
+      "title": "Out of Hundreds of Brands, Our Editors Agree That These Are the Very Best Names in Summer Dresses",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-summer-dress-brands-2026",
+      "summary": "The creme de la creme.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Out of Hundreds of Brands, Our Editors Agree That These Are the Very B...",
+      "score": 2,
+      "published": "2026-07-18T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "84c22869d24a",
+      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
+      "summary": "If you don't know what to pack for your next vacation, read this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7f330fb8b56",
+      "title": "Parisian It Girls Agree: These Are the Micro-Trends That Matter This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-microtrends-summer-2026",
+      "summary": "Apologies to your wallet.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "caf42d92ccc2",
+      "title": "Don't Like Flip-Flops? Women in Their 30s and 40s Wear These Elegant Flat Sandals Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/toe-loop-sandals-trend-jennifer-lawrence-2026-uk",
+      "summary": "From Jennifer Lawrence to Meghan Markle.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Don't Like Flip-Flops? Women in Their 30s and 40s Wear These Elegant F...",
+      "score": 1,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bfdfc38b54a0",
+      "title": "Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $400",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-outfit-ideas-nordstrom-anniversary-sale-2026",
+      "summary": "Yes to it all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
+      "score": 2,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5665adb0b279",
+      "title": "I Know These Will Be the First Fashion and Beauty Finds to Sell Out at the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-2026-editor-most-loved-deals",
+      "summary": "From Barbour and Tom Ford to Clinique and Byredo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know These Will Be the First Fashion and Beauty Finds to Sell Out at...",
+      "score": 2,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6b580aa91e8f",
+      "title": "Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look Cool in 100-Degree Heat",
+      "link": "https://www.whowhatwear.com/fashion/french-girl-heatwave-outfit-ideas",
+      "summary": "Effortlessly cool, no pun intended.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look...",
+      "score": 1,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "761b7bc7fd65",
       "title": "Did I Just Strike Nordstrom Gold? See the Most Impressive Deals From the 2026 Anniversary Sale, From Dyson to Prada Beauty",
@@ -667,6 +877,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8676a8785d1e",
+      "title": "The Father’s Day Gift Guide That Actually Gets It Right: 9 Pieces He Will Wear Long After June",
+      "link": "https://www.fashionbeans.com/article/fathers-day-gift-guide/",
+      "summary": "No gimmicks, no novelty mugs, no &#8220;world&#8217;s best dad&#8221; anything. Just nine pieces of proper menswear he will actually pull out of the wardrobe long after June is over. The short version: Most Father&#8217;s Day gift guides are written for people who do not know the recipient. This one is not. Nine carefu",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Father’s Day Gift Guide That Actually Gets It Right: 9 Pieces He W...",
+      "score": 2,
+      "published": "2026-07-17T11:21:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d70ed436814a",
       "title": "The Vogue Business Funding Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
@@ -678,6 +902,20 @@
       "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
       "score": 2,
       "published": "2026-07-17T11:12:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "13478b4ba94e",
+      "title": "20 Best Men’s Colognes of All Time 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-fragrances-of-all-time/",
+      "summary": "There are hundreds of great men’s fragrances, but truly iconic ones are a sniff out of the ordinary. Among all the amazing eaus, there are probably fewer than 50 (in fact, there are 20, according to this list) that have survived fads and fashions to earn their place in the olfactory hall of fame. These &#8230; Continue",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 20 Best Men’s Colognes of All Time 2026...",
+      "score": 1,
+      "published": "2026-07-17T10:41:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -891,6 +1129,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9163559cb43e",
+      "title": "The 16 Best Minimalist Trainer Brands",
+      "link": "https://www.fashionbeans.com/article/the-best-minimalist-trainer-brands/",
+      "summary": "Unless you&#8217;ve been living under a soundproof rock, you&#8217;ll have noticed that some of the most lustworthy trainers of late are bulky, acid-tinged objects that could be probably be seen from space. But whatever the latest trainer trends, there will always be room in the male wardrobe for a pair of minimalist s",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The 16 Best Minimalist Trainer Brands...",
+      "score": 2,
+      "published": "2026-07-17T09:00:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6963bfe74199",
       "title": "This Fashion Couple Tied the Knot at a 19th-Century Sicilian Masseria in Custom Looks Designed by the Bride",
       "link": "https://www.whowhatwear.com/living/wedding/max-siegelman-and-karoline-spenning-wedding",
@@ -902,6 +1154,20 @@
       "angle": "Bridal Edit: This Fashion Couple Tied the Knot at a 19th-Century Sicilian Masseria in Custom Looks Designed by the Bride — A Complete Style Guide",
       "score": 1,
       "published": "2026-07-17T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a3ba7980eb71",
+      "title": "The Best Shirt and Tie Combinations – Color Combos Guide",
+      "link": "https://www.fashionbeans.com/article/mens-shirt-tie-combinations-guide/",
+      "summary": "The paradox of choice (also known as choice overload) is the phenomenon by which having too many options exhausts us, makes us unhappy, and generally leads us to make terrible decisions (if any decision at all). Nowhere is this more evident in the male wardrobe than when it comes to shirt and tie style combinations. &#",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Shirt and Tie Combinations – Color Combos Guide...",
+      "score": 1,
+      "published": "2026-07-17T08:56:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -972,20 +1238,6 @@
       "angle": "Fashion Intelligence: If You Want to Look Like the Most Stylish Person on the Beach, Wear Th...",
       "score": 2,
       "published": "2026-07-17T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "52f9a8983ad2",
-      "title": "What I Learned on a Four-Day ‘Blue Zone’ Wellness Retreat in Sardinia",
-      "link": "https://www.vogue.com/article/romazzino-belmond-hotel-sardinia-blue-zone-wellness-retreat",
-      "summary": "At Romazzino, a Belmond Hotel on the Costa Smeralda, one writer discovers the healthy habits that lead to longevity are all about balance.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What I Learned on a Four-Day ‘Blue Zone’ Wellness Retreat in Sardinia...",
-      "score": 0,
-      "published": "2026-07-17T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1395,20 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "836c6bb26f74",
-      "title": "Kylie Jenner's Iconic Looks Didn't Happen Overnight—See Her Full Style Evolution",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-fashion-retrospective",
-      "summary": "From King Kylie to Knicks courtside fashion.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kylie Jenner's Iconic Looks Didn't Happen Overnight—See Her Full Style...",
-      "score": 2,
-      "published": "2026-07-16T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bca3713c9068",
       "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
       "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
@@ -1451,48 +1689,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a98fcc7738f6",
-      "title": "I Did a Deep Dive on Zendaya's Beauty Looks—These Are the Undisputed Best of All Time",
-      "link": "https://www.whowhatwear.com/beauty/best-zendaya-beauty-looks",
-      "summary": "Hours of scrolling later…",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Did a Deep Dive on Zendaya's Beauty Looks—These Are the Undisputed B...",
-      "score": 1,
-      "published": "2026-07-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7b9668b9a9e5",
-      "title": "25 Chic Sweaters and Jeans From Nordstrom's Anniversary Sale to Get You Excited for Fall",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-sweaters-jeans-nordstrom-anniversary-sale-2026",
-      "summary": "Kick-start your new-season wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 25 Chic Sweaters and Jeans From Nordstrom's Anniversary Sale to Get Yo...",
-      "score": 1,
-      "published": "2026-07-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "03080cc95740",
-      "title": "Here You Go—These 4 Trends From the Nordstrom Anniversary Sale Will Create Even More Stylish Outfits",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-trends-nordstrom-anniversary-sale-2026",
-      "summary": "Add these items to your closet, and you're set.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "329448b2471d",
       "title": "8 Most Comfortable Loafers for Men – Relaxing Style For 2026",
       "link": "https://www.fashionbeans.com/article/most-comfortable-loafers-for-men/",
@@ -1507,34 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "52476fe053de",
-      "title": "I Thought Korean Skincare Was the Best Part of K-Beauty, Then I Tried These Makeup Products",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-korean-makeup-products",
-      "summary": "They're seriously underrated.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Thought Korean Skincare Was the Best Part of K-Beauty, Then I Tried ...",
-      "score": 1,
-      "published": "2026-07-16T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0fbfbb1b831f",
-      "title": "Across Europe, Stylish People Are Turning to These 3 High-Street Brands to Elevate Their Summer Dressing",
-      "link": "https://www.whowhatwear.com/fashion/summer/reformation-sezane-doen-2026-summer-edit",
-      "summary": "Staples for every summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Across Europe, Stylish People Are Turning to These 3 High-Street Brand...",
-      "score": 2,
-      "published": "2026-07-16T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fdd00d6439aa",
       "title": "Rectangle Face Shape: Your Ticket to Hollywood-Worthy Angles",
       "link": "https://www.fashionbeans.com/article/rectangle-face-shapes/",
@@ -1546,34 +1714,6 @@
       "angle": "Fashion Intelligence: Rectangle Face Shape: Your Ticket to Hollywood-Worthy Angles...",
       "score": 1,
       "published": "2026-07-16T05:44:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3ea11b96752c",
-      "title": "Women Around Europe Agree: These Are the 5 Chicest Outfit Formulas To Wear On Repeat This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer/european-summer-outfits-2026",
-      "summary": "From Paris to Stockholm.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Women Around Europe Agree: These Are the 5 Chicest Outfit Formulas To ...",
-      "score": 2,
-      "published": "2026-07-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4b307fb3620b",
-      "title": "I Can Save $1522 on the Best High-Ticket Beauty Products During Nordstrom's Anniversary Sale",
-      "link": "https://www.whowhatwear.com/beauty/makeup/nordstrom-anniversary-sale-beauty-products-2026",
-      "summary": "This is not a drill.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Can Save $1522 on the Best High-Ticket Beauty Products During Nordst...",
-      "score": 1,
-      "published": "2026-07-16T04:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1605,20 +1745,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f8b32948e63a",
-      "title": "Instead of Jeans or Basic Trousers, It Girls Are Wearing These Trendy Bottoms to Make Tanks and Tees Look Cooler",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/skirt-attached-trouser-trend-dua-lipa",
-      "summary": "And it's Dua Lipa approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-15T20:38:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d09a8f3f5899",
       "title": "It’s Officially Halo Braid Summer",
       "link": "https://www.harpersbazaar.com/beauty/hair/a71944180/halo-braid-hair-trend/",
@@ -1630,34 +1756,6 @@
       "angle": "Fashion Intelligence: It’s Officially Halo Braid Summer...",
       "score": 0,
       "published": "2026-07-15T19:53:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8f0422fe076e",
-      "title": "I Just Got Back From Paris—I Saw These Exact Summer Outfit Combos Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-summer-outfits",
-      "summary": "So many fashionable observations to share!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Got Back From Paris—I Saw These Exact Summer Outfit Combos Ever...",
-      "score": 2,
-      "published": "2026-07-15T19:49:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a4cca1c1fa15",
-      "title": "Not Sneakers—These Shoes Look Much More Elegant With the Specific Jeans Everyone Is Wearing",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-jeans-with-white-ballet-flats-karlie-kloss",
-      "summary": "As seen on the immensely chic Karlie Kloss.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-15T19:39:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2137,20 +2235,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "211317432475",
-      "title": "Adidas Footwear Plant to Come Up in Karur with Rs 1,700 Crore Investment",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/adidas-footwear-plant-to-come-up-in-karur-with-rs-1700-crore-investment/",
-      "summary": "Tamil Nadu Chief Minister C. Joseph Vijay laid the foundation stone for a Rs 1,700 crore Adidas footwear manufacturing facility in Karur. The manufacturing facility will be established by Evervan Kothari Global Footwear, a unit of Phoenix Kothari Footwear, and will span over one million sq. ft. with an annual productio",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Adidas Footwear Plant to Come Up in Karur with Rs 1,700 Crore Investme...",
-      "score": 1,
-      "published": "2026-07-10T14:18:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7eabf9fb3262",
       "title": "Aware Hair: A 'Scalp-First' Hair-Care Brand Founded by a Mother-Daughter Duo",
       "link": "https://fashionista.com/2026/07/aware-hair-hair-care-brand",
@@ -2162,34 +2246,6 @@
       "angle": "Fashion Intelligence: Aware Hair: A 'Scalp-First' Hair-Care Brand Founded by a Mother-Daught...",
       "score": 1,
       "published": "2026-07-10T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "938e5d0a3d07",
-      "title": "17 Best Microbrand Watches in 2026",
-      "link": "https://www.fashionbeans.com/article/best-microbrand-watches/",
-      "summary": "The microbrand watch scene is as exciting, turbulent, and novel as its ever been. But this brings breadth between the best microbrand watches and the worst microbrand watches. So, without pointing out the obvious, you are reading this article. That means you’re at least considering eschewing traditional luxury watches ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 17 Best Microbrand Watches in 2026...",
-      "score": 3,
-      "published": "2026-07-10T13:11:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e2881904ffa7",
-      "title": "8 Best Sandals For Men: Fabulous Low-key Footwear in 2026",
-      "link": "https://www.fashionbeans.com/article/best-sandals-for-men/",
-      "summary": "Tourists are the worst… dressed. But it’s not their fault. They must pack light, dress comfortably, and wear a fanny pack for all the traveling knick-knacks. However, they give men&#8217;s sandals a bad reputation and I will not stand for that. The best sandals for men offer a trifecta of fashion power: comfort, breath",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Sandals For Men: Fabulous Low-key Footwear in 2026...",
-      "score": 3,
-      "published": "2026-07-10T13:09:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2218,34 +2274,6 @@
       "angle": "Fashion Intelligence: Calvin Klein Summer 2026 Upgrades the Everyday Wardrobe...",
       "score": 1,
       "published": "2026-07-10T10:52:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cecefc3386c3",
-      "title": "Why Levi’s 511 Slim Fit Fits So Differently Than You Think",
-      "link": "https://www.fashionbeans.com/article/levis-511-fit-guide/",
-      "summary": "This guide explains how Levi’s 511 slim jeans actually fit in technical terms. It focuses on rise height, seat and thigh ease, leg shape, fabric behavior, and body-type suitability so you can decide if the 511 block matches your build before choosing a wash or stretch level. Here at FashionBeans, “fit” means the top bl",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Why Levi’s 511 Slim Fit Fits So Differently Than You Think...",
-      "score": 1,
-      "published": "2026-07-10T10:18:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dee4562b96cf",
-      "title": "5 Best Coach Colognes for Collecting Compliments in 2026",
-      "link": "https://www.fashionbeans.com/article/best-coach-colognes/",
-      "summary": "It’s hard to walk down the street or any crowded place without encountering Coach. Whether it’s emblazoned on a stylish, well-priced handbag or slung around the hips in belt form, Coach is synonymous with affordable American luxury. And, if you happen to take a discerning whiff of the air in these same spaces, your nos",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Coach Colognes for Collecting Compliments in 2026...",
-      "score": 1,
-      "published": "2026-07-10T09:49:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2809,6 +2837,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "26dd4149823c",
+      "title": "The Ajrakh Story: From Kutch to Closets Around the World",
+      "link": "https://www.azafashions.com/blog/history-of-ajrakh-print/?utm_source=rss&utm_medium=rss&utm_campaign=history-of-ajrakh-print",
+      "summary": "There's a reason your feed has been flooded with deep indigo and rust-red prints lately. Ajrakh, one of India's oldest surviving textile crafts, is having a full-blown red carpet moment. Before we get to&#8230; The post The Ajrakh Story: From Kutch to Closets Around the World appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Ajrakh Story: From Kutch to Closets Around the World...",
+      "score": 1,
+      "published": "2026-07-18T08:49:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "329b8c4f0bab",
       "title": "How to Choose the Right Blouse for Your Body Shape",
       "link": "https://www.azafashions.com/blog/best-blouse-designs-for-every-body-shape/?utm_source=rss&utm_medium=rss&utm_campaign=best-blouse-designs-for-every-body-shape",
@@ -2933,70 +2975,56 @@
       "score": 3,
       "published": "2026-07-13T12:12:30+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "16bd8695b3c6",
-      "title": "7 Green Sarees That Capture the Spirit of Sawan",
-      "link": "https://www.azafashions.com/blog/green-sarees-for-sawan/?utm_source=rss&utm_medium=rss&utm_campaign=green-sarees-for-sawan",
-      "summary": "Sawan doesn't ask permission before it arrives, it announces itself in petrichor, in temple bells, in the sudden green that floods every field and rooftop garden overnight. And somewhere in that ritual calendar,&#8230; The post 7 Green Sarees That Capture the Spirit of Sawan appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 7 Green Sarees That Capture the Spirit of Sawan...",
-      "score": 1,
-      "published": "2026-07-13T08:59:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "కింగ్",
+      "term": "గుంటూరు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मगरमच्छ",
+      "term": "sri lanka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kimi",
+      "term": "शरद पवार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "google pixel 11",
+      "term": "అనంతపురం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hydrogen powered trains indian railways",
+      "term": "maruti brezza facelift",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "skyroot",
+      "term": "হাওড়া",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "abhijeet dipke",
+      "term": "सोनम वांगचुक समाचार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "net worth",
+      "term": "the odyssey review christopher nolan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ss rajamouli varanasi movie",
+      "term": "football fifa world cup final",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nmc mbbs seat matrix 2026",
+      "term": "കുവൈറ്റ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
