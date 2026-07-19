@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-07-19T09:53:01.461423+00:00",
+  "generated_at": "2026-07-19T11:57:58.233053+00:00",
   "owned_count": 10,
-  "competitor_count": 18,
+  "competitor_count": 14,
   "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "ea059763944b",
+      "title": "Shop Celebrity-Inspired Summer Bike Outfits",
+      "link": "https://www.vogue.com/article/celebrity-biking-outfit-ideas",
+      "summary": "Shop stylish biking outfits for easy, breezy summer fun, inspired by celebrities like Jennifer Lawrence, Kylie Jenner, and Gracie Abrams.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-19T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "436c49d7e4d0",
+      "title": "13 Vogue Staffers Share the Travel Essentials They Never Take Off Without",
+      "link": "https://www.vogue.com/article/vogue-editors-travel-essentials",
+      "summary": "What's in a Vogue editor’s plane bag? We polled the team to discover their travel essentials for every trip.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 13 Vogue Staffers Share the Travel Essentials They Never Take Off With...",
+      "score": 0,
+      "published": "2026-07-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb77795a66d8",
+      "title": "Inside Herbert Levine's Second Act, and The Mastermind Bringing it to Life",
+      "link": "https://www.whowhatwear.com/fashion/luxury/herbert-levine-feature",
+      "summary": "Fantastic footwear ahead",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Inside Herbert Levine's Second Act, and The Mastermind Bringing it to ...",
+      "score": 1,
+      "published": "2026-07-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2792bd481f20",
+      "title": "All My Favourite Fashion People Rely On This Exact Jewellery Trend to Make Their Classic Outfits Look Cooler",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/t-bar-necklace-trend-2026",
+      "summary": "Works every time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-07-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ddf1358c5121",
       "title": "5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own",
@@ -37,48 +93,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0c946157c519",
-      "title": "Move Over, Bermudas! Here Are 5 Ways to Wear The Shorts Trend Fashion People Are in Love With This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/balloon-shorts-outfits-summer-2026",
-      "summary": "All the inspo you need.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "67f5e94a3de2",
-      "title": "I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actually See on Fashion People Around the City",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-summer-2026",
-      "summary": "The chicest accessories, clothing, and shoe deals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actu...",
-      "score": 1,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6bfc7fbb1c54",
-      "title": "Pause the All-White Attire—Chic Women Decided This Is the Hottest New Color Trend for Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/tennis-ball-yellow-color-trend",
-      "summary": "Turn the saturation all the way up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4a6e2479e809",
       "title": "I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I Understand the Hype",
       "link": "https://www.whowhatwear.com/fashion/dresses/marks-and-spencer-polka-dot-slip-dress",
@@ -88,34 +102,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I...",
-      "score": 1,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f0fd959a77b7",
-      "title": "I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Internet",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-celebrity-summer-outfit-ideas-2026",
-      "summary": "Look like a cool girl all season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Intern...",
-      "score": 2,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cce5aa9fb628",
-      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
-      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
-      "summary": "Better outfits + more closet space = less impulse shopping.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
       "score": 1,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -135,6 +121,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f0fd959a77b7",
+      "title": "I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Internet",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-celebrity-summer-outfit-ideas-2026",
+      "summary": "Look like a cool girl all season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Intern...",
+      "score": 2,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d075a3248d91",
       "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
@@ -144,6 +144,62 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6bfc7fbb1c54",
+      "title": "Pause the All-White Attire—Chic Women Decided This Is the Hottest New Color Trend for Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/tennis-ball-yellow-color-trend",
+      "summary": "Turn the saturation all the way up.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cce5aa9fb628",
+      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
+      "summary": "Better outfits + more closet space = less impulse shopping.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
+      "score": 1,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "67f5e94a3de2",
+      "title": "I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actually See on Fashion People Around the City",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-summer-2026",
+      "summary": "The chicest accessories, clothing, and shoe deals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actu...",
+      "score": 1,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c946157c519",
+      "title": "Move Over, Bermudas! Here Are 5 Ways to Wear The Shorts Trend Fashion People Are in Love With This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/balloon-shorts-outfits-summer-2026",
+      "summary": "All the inspo you need.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -345,20 +401,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "73c903b5ea69",
-      "title": "The Cost of a Ready-Made Family",
-      "link": "https://www.vogue.com/article/the-cost-of-a-ready-made-family",
-      "summary": "In the end, it wasn’t so much that I didn’t know the man I married, but that I became a stranger to myself. I’d hung onto the marriage for my own emotional fulfillment, and the kids ended up serving as collateral.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Cost of a Ready-Made Family...",
-      "score": 0,
-      "published": "2026-07-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "229a96d2477d",
       "title": "The Nordstrom Anniversary Sale 2026 Is Here—What Vogue Editors Are Shopping",
       "link": "https://www.vogue.com/slideshow/nordstrom-anniversary-sale-2026-1",
@@ -383,6 +425,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Never Miss the Nordstrom Beauty Sale—These Are the Deals I’d Shop Fi...",
       "score": 1,
+      "published": "2026-07-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73c903b5ea69",
+      "title": "The Cost of a Ready-Made Family",
+      "link": "https://www.vogue.com/article/the-cost-of-a-ready-made-family",
+      "summary": "In the end, it wasn’t so much that I didn’t know the man I married, but that I became a stranger to myself. I’d hung onto the marriage for my own emotional fulfillment, and the kids ended up serving as collateral.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Cost of a Ready-Made Family...",
+      "score": 0,
       "published": "2026-07-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -499,29 +555,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a8d76ebdc2db",
-      "title": "Spotted in Paris and London: The Print Trend That’s Taking Over From Polka Dots This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer/check-fashion-trend-summer-2026",
-      "summary": "Checkmate.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-18T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4859e557ac08",
-      "title": "Suddenly, Stylish Women All Over the World Are Carrying the French Summer Bag That Screams Quiet Luxury",
-      "link": "https://www.whowhatwear.com/fashion/shopping/sezane-leonie-basket-bag",
-      "summary": "It's a basket bag summer.",
+      "id": "d2623892cb5a",
+      "title": "Baccarat Rouge! Santal 33! 15 Perfume Deals You Can't Miss During Nordstrom's Anniversary Sale",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-fragrance-deals-nordstrom-anniversary-sale-2026",
+      "summary": "Luxury bottles for as little as $83.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Suddenly, Stylish Women All Over the World Are Carrying the French Sum...",
+      "angle": "Fashion Intelligence: Baccarat Rouge! Santal 33! 15 Perfume Deals You Can't Miss During Nord...",
       "score": 1,
       "published": "2026-07-18T08:00:00+00:00",
       "discovered_via": "feed"
@@ -541,15 +583,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d2623892cb5a",
-      "title": "Baccarat Rouge! Santal 33! 15 Perfume Deals You Can't Miss During Nordstrom's Anniversary Sale",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-fragrance-deals-nordstrom-anniversary-sale-2026",
-      "summary": "Luxury bottles for as little as $83.",
+      "id": "4859e557ac08",
+      "title": "Suddenly, Stylish Women All Over the World Are Carrying the French Summer Bag That Screams Quiet Luxury",
+      "link": "https://www.whowhatwear.com/fashion/shopping/sezane-leonie-basket-bag",
+      "summary": "It's a basket bag summer.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Baccarat Rouge! Santal 33! 15 Perfume Deals You Can't Miss During Nord...",
+      "angle": "Fashion Intelligence: Suddenly, Stylish Women All Over the World Are Carrying the French Sum...",
+      "score": 1,
+      "published": "2026-07-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a8d76ebdc2db",
+      "title": "Spotted in Paris and London: The Print Trend That’s Taking Over From Polka Dots This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer/check-fashion-trend-summer-2026",
+      "summary": "Checkmate.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-07-18T08:00:00+00:00",
       "discovered_via": "feed"
@@ -583,20 +639,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6b580aa91e8f",
-      "title": "Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look Cool in 100-Degree Heat",
-      "link": "https://www.whowhatwear.com/fashion/french-girl-heatwave-outfit-ideas",
-      "summary": "Effortlessly cool, no pun intended.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look...",
-      "score": 1,
-      "published": "2026-07-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5665adb0b279",
       "title": "I Know These Will Be the First Fashion and Beauty Finds to Sell Out at the Nordstrom Anniversary Sale",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-2026-editor-most-loved-deals",
@@ -611,15 +653,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bfdfc38b54a0",
-      "title": "Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $400",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-outfit-ideas-nordstrom-anniversary-sale-2026",
-      "summary": "Yes to it all.",
+      "id": "84c22869d24a",
+      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
+      "summary": "If you don't know what to pack for your next vacation, read this.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
@@ -639,6 +681,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "bfdfc38b54a0",
+      "title": "Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $400",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-outfit-ideas-nordstrom-anniversary-sale-2026",
+      "summary": "Yes to it all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
+      "score": 2,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e7f330fb8b56",
       "title": "Parisian It Girls Agree: These Are the Micro-Trends That Matter This Summer",
       "link": "https://www.whowhatwear.com/fashion/trends/french-girl-microtrends-summer-2026",
@@ -653,16 +709,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "84c22869d24a",
-      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
-      "summary": "If you don't know what to pack for your next vacation, read this.",
+      "id": "6b580aa91e8f",
+      "title": "Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look Cool in 100-Degree Heat",
+      "link": "https://www.whowhatwear.com/fashion/french-girl-heatwave-outfit-ideas",
+      "summary": "Effortlessly cool, no pun intended.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look...",
+      "score": 1,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1451,34 +1507,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5f3c729cc29f",
-      "title": "Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel",
-      "link": "https://www.vogue.com/article/vogue-vacations-kasey-busiel-mallorca-madrid",
-      "summary": "Vogue Shopping’s marketing and production manager shares everything she wore, indulged in, and shopped from five days in Spain.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel...",
-      "score": 0,
-      "published": "2026-07-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdc4611c90a3",
-      "title": "The Best Zara New Arrivals to Shop for Summer 2026",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "Summer essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Summer 2026...",
-      "score": 0,
-      "published": "2026-07-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a3add2f5f45f",
       "title": "The Best Taper Haircuts – Tapered Hairstyle Guide 2026",
       "link": "https://www.fashionbeans.com/article/best-mens-taper-haircuts/",
@@ -1493,20 +1521,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "170aeebf5a0c",
-      "title": "I Did a Deep Dive and Can Confirm That This Is the Summer-to-Fall Shoe Trend That'll Replace Sandals",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flat-slipper-mules-shoe-trend-vittoria-ceretti",
-      "summary": "As seen on a very chic Italian supermodel.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-17T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9163559cb43e",
       "title": "The 16 Best Minimalist Trainer Brands",
       "link": "https://www.fashionbeans.com/article/the-best-minimalist-trainer-brands/",
@@ -1518,20 +1532,6 @@
       "angle": "Fashion Intelligence: The 16 Best Minimalist Trainer Brands...",
       "score": 2,
       "published": "2026-07-17T09:00:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6963bfe74199",
-      "title": "This Fashion Couple Tied the Knot at a 19th-Century Sicilian Masseria in Custom Looks Designed by the Bride",
-      "link": "https://www.whowhatwear.com/living/wedding/max-siegelman-and-karoline-spenning-wedding",
-      "summary": "Discover all the stylish and intentional details here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Fashion Couple Tied the Knot at a 19th-Century Sicilian Masseria in Custom Looks Designed by the Bride — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-07-17T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2627,6 +2627,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "19b64ad7353c",
+      "title": "Jacket Style Lehenga Choli: What It Is and When to Wear One",
+      "link": "https://www.indianclothstore.com/blog/jacket-style-lehenga-choli-what-it-is-when-to-wear",
+      "summary": "A jacket style lehenga choli replaces the standard fitted blouse with a long, open-front jacket worn over a fitted inner blouse and a flared skirt. It works for sangeets, receptions, and festive parties where a buyer wants coverage on the arms with a modern silhouette. Indian Cloth Store stitches every jacket-style leh",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Bridal Edit: Jacket Style Lehenga Choli — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-07-19T11:18:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "dd2c7cfcf426",
       "title": "Indo-Western Lehenga Choli vs Traditional Lehenga Choli: What’s the Difference",
       "link": "https://www.indianclothstore.com/blog/indo-western-lehenga-choli-vs-traditional-lehenga-choli-whats-the-difference",
@@ -2708,34 +2722,6 @@
       "angle": "Bridal Edit: Unique Ways To Rewear Your Bridal Lehenga For Different Occasions — A Complete Style Guide",
       "score": 6,
       "published": "2026-06-30T04:56:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dc0d74da955e",
-      "title": "Designer Kurtas for Wedding Functions Crafted for Moments That Matter",
-      "link": "https://www.torani.in/blogs/news/designer-kurtas-for-wedding-functions-crafted-for-moments-that-matter",
-      "summary": "Wedding functions have a rhythm to them. The mehendi that starts everything off, the sangeet that stretches into the early hours, the main ceremony that feels over before you've had a chance to take it all in. Each one has its own mood, colour, and energy. And the outfit you wear to each one becomes part of how you rem",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Designer Kurtas for Wedding Functions Crafted for Moments That Matter — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-06-27T05:17:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2b1cc38cd1f6",
-      "title": "Designer Sherwani for Groom Designed for Timeless Wedding Celebrations",
-      "link": "https://www.torani.in/blogs/news/designer-sherwani-for-groom-designed-for-timeless-wedding-celebrations",
-      "summary": "For most grooms, the wedding day is a collection of moments that have lived in the imagination long before they actually arrive. The baraat, the first look, the slow walk to the mandap, the photographs that try to hold all of it at once. Through every one of those moments, through every ritual and every celebration tha",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Designer Spotlight",
-      "angle": "Bridal Edit: Designer Sherwani for Groom Designed for Timeless Wedding Celebrations — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-06-27T05:13:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2834,48 +2820,6 @@
       "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
       "score": 3,
       "published": "2026-06-15T13:38:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f439ff9e1b23",
-      "title": "Heirlooms in the Making: Why Timeless Couture Matters More Than Trends",
-      "link": "https://www.torani.in/blogs/news/heirlooms-in-the-making-why-timeless-couture-matters-more-than-trends",
-      "summary": "Some garments are worn for a season. Others are remembered for generations. In Indian homes, clothing has always carried a life far beyond the occasion it was created for. Long after celebrations end and music fades into memory, certain pieces continue to remain — folded carefully inside old trunks, wrapped delicately ",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-05-29T14:09:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "941624218963",
-      "title": "The Colours We Carry: Emotions Behind Indian Festive Dressing",
-      "link": "https://www.torani.in/blogs/news/the-colours-we-carry-emotions-behind-indian-festive-dressing",
-      "summary": "Some colours are seen. Others are remembered. In India, colour has never simply belonged to fabric. It belongs to emotion. To rituals repeated across generations. To celebrations that begin long before the first guest arrives. To memories stitched quietly into the folds of garments we continue to preserve long after th",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-05-25T14:01:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf696247c4d6",
-      "title": "Dressing for Intimate Celebrations: The Rise of Soft Luxury in Indian Occasion Wear",
-      "link": "https://www.torani.in/blogs/news/dressing-for-intimate-celebrations-the-rise-of-soft-luxury-in-indian-occasion-wear",
-      "summary": "There was a time when Indian celebrations were measured by scale. Grand banquet halls glowing beneath crystal chandeliers, endless guest lists carefully written over weeks, music echoing loudly through lavish venues until the early hours of morning. But somewhere along the way, celebrations began to change. Today, joy ",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 4,
-      "published": "2026-05-20T13:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "इंग्लैंड क्रिकेट टीम बनाम भारतीय क्रिकेट टीम के मैच का स्कोरकार्ड",
+      "term": "बोनस शेयर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "మా ఇంటి బంగారం",
+      "term": "fraud",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ds vs jk",
+      "term": "jacob bethell",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eng vs ind toss",
+      "term": "farokh engineer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jio hostar",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "చైనా",
+      "term": "ben duckett",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "গ্রেফতার",
+      "term": "ಪಾಕಿಸ್ತಾನ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சூர்யா",
+      "term": "ஊழியர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jennifer monserrate",
+      "term": "ഫേസ്ബുക്ക്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mahaprabhu jagannath movie",
+      "term": "sunil gavaskar",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "खेसारी लाल यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
