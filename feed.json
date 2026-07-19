@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-07-19T07:27:50.203475+00:00",
+  "generated_at": "2026-07-19T09:53:01.461423+00:00",
   "owned_count": 10,
-  "competitor_count": 13,
-  "industry_count": 188,
+  "competitor_count": 18,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "ddf1358c5121",
+      "title": "5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own",
+      "link": "https://www.whowhatwear.com/fashion/summer/elevated-accessory-trends-summer-2026",
+      "summary": "All the bases are covered with these five trends.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Shoul...",
+      "score": 1,
+      "published": "2026-07-19T07:43:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4549806ae69",
+      "title": "Charli XCX and George Daniel Prove Wedding Guest Dressing Doesn’t Have To Compromise Personal Style",
+      "link": "https://www.vogue.com/article/charli-xcx-george-daniel-matty-healy-gabbriette-wedding",
+      "summary": "Married earlier this year, Charli XCX and George Daniel attended the wedding of Matty Healy and Gabbriette in coordinating all-black looks.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Charli XCX and George Daniel Prove Wedding Guest Dressing Doesn’t Have To Compromise Personal Style — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-19T07:25:21+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "0c946157c519",
       "title": "Move Over, Bermudas! Here Are 5 Ways to Wear The Shorts Trend Fashion People Are in Love With This Summer",
@@ -146,20 +174,6 @@
       "angle": "Fashion Intelligence: Daisy Edgar-Jones Gears up for Sense and Sensibility With a Brown-and-...",
       "score": 2,
       "published": "2026-07-18T21:15:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6824a7f52ae4",
-      "title": "Delhi Mango Festival showcases BrahMos variety inspired by Operation Sindoor",
-      "link": "https://www.indiatoday.in/india/story/brahmos-mango-unveiled-at-delhi-festival-attended-by-cds-anil-chauhan-2951062-2026-07-19?utm_source=rss",
-      "summary": "Delhi Mango Festival showcases BrahMos variety inspired by Operation Sindoor",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Delhi Mango Festival showcases BrahMos variety inspired by Operation S...",
-      "score": 1,
-      "published": "2026-07-18T20:05:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -331,6 +345,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "73c903b5ea69",
+      "title": "The Cost of a Ready-Made Family",
+      "link": "https://www.vogue.com/article/the-cost-of-a-ready-made-family",
+      "summary": "In the end, it wasn’t so much that I didn’t know the man I married, but that I became a stranger to myself. I’d hung onto the marriage for my own emotional fulfillment, and the kids ended up serving as collateral.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Cost of a Ready-Made Family...",
+      "score": 0,
+      "published": "2026-07-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "229a96d2477d",
       "title": "The Nordstrom Anniversary Sale 2026 Is Here—What Vogue Editors Are Shopping",
       "link": "https://www.vogue.com/slideshow/nordstrom-anniversary-sale-2026-1",
@@ -355,20 +383,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Never Miss the Nordstrom Beauty Sale—These Are the Deals I’d Shop Fi...",
       "score": 1,
-      "published": "2026-07-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "73c903b5ea69",
-      "title": "The Cost of a Ready-Made Family",
-      "link": "https://www.vogue.com/article/the-cost-of-a-ready-made-family",
-      "summary": "In the end, it wasn’t so much that I didn’t know the man I married, but that I became a stranger to myself. I’d hung onto the marriage for my own emotional fulfillment, and the kids ended up serving as collateral.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Cost of a Ready-Made Family...",
-      "score": 0,
       "published": "2026-07-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -569,16 +583,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "84c22869d24a",
-      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
-      "summary": "If you don't know what to pack for your next vacation, read this.",
+      "id": "6b580aa91e8f",
+      "title": "Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look Cool in 100-Degree Heat",
+      "link": "https://www.whowhatwear.com/fashion/french-girl-heatwave-outfit-ideas",
+      "summary": "Effortlessly cool, no pun intended.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look...",
+      "score": 1,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -597,16 +611,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e7f330fb8b56",
-      "title": "Parisian It Girls Agree: These Are the Micro-Trends That Matter This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-microtrends-summer-2026",
-      "summary": "Apologies to your wallet.",
+      "id": "bfdfc38b54a0",
+      "title": "Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $400",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-outfit-ideas-nordstrom-anniversary-sale-2026",
+      "summary": "Yes to it all.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
+      "score": 2,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -625,30 +639,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bfdfc38b54a0",
-      "title": "Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $400",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-outfit-ideas-nordstrom-anniversary-sale-2026",
-      "summary": "Yes to it all.",
+      "id": "e7f330fb8b56",
+      "title": "Parisian It Girls Agree: These Are the Micro-Trends That Matter This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-microtrends-summer-2026",
+      "summary": "Apologies to your wallet.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
-      "score": 2,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6b580aa91e8f",
-      "title": "Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look Cool in 100-Degree Heat",
-      "link": "https://www.whowhatwear.com/fashion/french-girl-heatwave-outfit-ideas",
-      "summary": "Effortlessly cool, no pun intended.",
+      "id": "84c22869d24a",
+      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
+      "summary": "If you don't know what to pack for your next vacation, read this.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Paris in July Is Sweltering—Here's What Chic French Girls Wear to Look...",
-      "score": 1,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1423,20 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5f3c729cc29f",
-      "title": "Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel",
-      "link": "https://www.vogue.com/article/vogue-vacations-kasey-busiel-mallorca-madrid",
-      "summary": "Vogue Shopping’s marketing and production manager shares everything she wore, indulged in, and shopped from five days in Spain.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel...",
-      "score": 0,
-      "published": "2026-07-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2022c0d11a9a",
       "title": "7 Beach Outfits You’ll Love, Even If You’re Not A Summer Person",
       "link": "https://www.vogue.com/article/beach-outfits",
@@ -1451,6 +1451,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5f3c729cc29f",
+      "title": "Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel",
+      "link": "https://www.vogue.com/article/vogue-vacations-kasey-busiel-mallorca-madrid",
+      "summary": "Vogue Shopping’s marketing and production manager shares everything she wore, indulged in, and shopped from five days in Spain.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel...",
+      "score": 0,
+      "published": "2026-07-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "fdc4611c90a3",
       "title": "The Best Zara New Arrivals to Shop for Summer 2026",
       "link": "https://www.vogue.com/article/best-zara-finds",
@@ -1461,20 +1475,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Summer 2026...",
       "score": 0,
-      "published": "2026-07-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week | Vogue",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-07-17T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1588,20 +1588,6 @@
       "angle": "Fashion Intelligence: 20 Best Hats for Men – Must Have’s For Any Taste in 2026...",
       "score": 1,
       "published": "2026-07-17T08:00:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c43d13ace318",
-      "title": "Every Summer, the World's Best-Dressed Women Return to This One Elegant Bag—And It's Still In Sock",
-      "link": "https://www.whowhatwear.com/fashion/shopping/saint-laurent-raffia-bags",
-      "summary": "It-girl approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Summer, the World's Best-Dressed Women Return to This One Elegan...",
-      "score": 1,
-      "published": "2026-07-17T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2725,6 +2711,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "dc0d74da955e",
+      "title": "Designer Kurtas for Wedding Functions Crafted for Moments That Matter",
+      "link": "https://www.torani.in/blogs/news/designer-kurtas-for-wedding-functions-crafted-for-moments-that-matter",
+      "summary": "Wedding functions have a rhythm to them. The mehendi that starts everything off, the sangeet that stretches into the early hours, the main ceremony that feels over before you've had a chance to take it all in. Each one has its own mood, colour, and energy. And the outfit you wear to each one becomes part of how you rem",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Designer Kurtas for Wedding Functions Crafted for Moments That Matter — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-06-27T05:17:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2b1cc38cd1f6",
+      "title": "Designer Sherwani for Groom Designed for Timeless Wedding Celebrations",
+      "link": "https://www.torani.in/blogs/news/designer-sherwani-for-groom-designed-for-timeless-wedding-celebrations",
+      "summary": "For most grooms, the wedding day is a collection of moments that have lived in the imagination long before they actually arrive. The baraat, the first look, the slow walk to the mandap, the photographs that try to hold all of it at once. Through every one of those moments, through every ritual and every celebration tha",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Designer Spotlight",
+      "angle": "Bridal Edit: Designer Sherwani for Groom Designed for Timeless Wedding Celebrations — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-06-27T05:13:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6a60c850c17f",
       "title": "How to Choose Bridal Wear That Reflects Your Personal Style",
       "link": "https://blog.kalkifashion.com/choose-bridal-wear-that-feels-uniquely-you/",
@@ -2820,6 +2834,48 @@
       "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
       "score": 3,
       "published": "2026-06-15T13:38:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f439ff9e1b23",
+      "title": "Heirlooms in the Making: Why Timeless Couture Matters More Than Trends",
+      "link": "https://www.torani.in/blogs/news/heirlooms-in-the-making-why-timeless-couture-matters-more-than-trends",
+      "summary": "Some garments are worn for a season. Others are remembered for generations. In Indian homes, clothing has always carried a life far beyond the occasion it was created for. Long after celebrations end and music fades into memory, certain pieces continue to remain — folded carefully inside old trunks, wrapped delicately ",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-05-29T14:09:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "941624218963",
+      "title": "The Colours We Carry: Emotions Behind Indian Festive Dressing",
+      "link": "https://www.torani.in/blogs/news/the-colours-we-carry-emotions-behind-indian-festive-dressing",
+      "summary": "Some colours are seen. Others are remembered. In India, colour has never simply belonged to fabric. It belongs to emotion. To rituals repeated across generations. To celebrations that begin long before the first guest arrives. To memories stitched quietly into the folds of garments we continue to preserve long after th",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 2,
+      "published": "2026-05-25T14:01:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf696247c4d6",
+      "title": "Dressing for Intimate Celebrations: The Rise of Soft Luxury in Indian Occasion Wear",
+      "link": "https://www.torani.in/blogs/news/dressing-for-intimate-celebrations-the-rise-of-soft-luxury-in-indian-occasion-wear",
+      "summary": "There was a time when Indian celebrations were measured by scale. Grand banquet halls glowing beneath crystal chandeliers, endless guest lists carefully written over weeks, music echoing loudly through lavish venues until the early hours of morning. But somewhere along the way, celebrations began to change. Today, joy ",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 4,
+      "published": "2026-05-20T13:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "এমিলিয়ানো মার্তিনেস",
+      "term": "इंग्लैंड क्रिकेट टीम बनाम भारतीय क्रिकेट टीम के मैच का स्कोरकार्ड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "is tomorrow a holiday in kerala",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "கல்லூரி",
+      "term": "మా ఇంటి బంగారం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "skyroot vikram 1 rocket launch",
-      "summary": "",
-      "aza_category": "Designer Spotlight"
-    },
-    {
-      "term": "meteorite",
+      "term": "ds vs jk",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "voter search",
+      "term": "eng vs ind toss",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "क्राइम थ्रिलर",
+      "term": "jio hostar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "చైనా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lenovo fifa",
+      "term": "গ্রেফতার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "income tax e filing",
+      "term": "சூர்யா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gasoline",
+      "term": "jennifer monserrate",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "mahaprabhu jagannath movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
