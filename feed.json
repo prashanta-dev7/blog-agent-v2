@@ -1,18 +1,186 @@
 {
-  "generated_at": "2026-07-18T11:53:30.851011+00:00",
+  "generated_at": "2026-07-19T05:20:11.751569+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 187,
+  "industry_count": 188,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
+      "id": "c4179686a331",
+      "title": "I Love Experimenting With Trends, But These Timeless Summer Outfits Will Always Make You Look Chic",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/anti-trend-summer-outfits-2026",
+      "summary": "The perfect foundation.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-19T04:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c9eca8cb0bc4",
+      "title": "Daisy Edgar-Jones Gears up for Sense and Sensibility With a Brown-and-Tan Striped Vivienne Westwood Gown",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73176850/daisy-edgar-jones-brown-tan-striped-vivienne-westwood-gown-sense-and-sensibility-photos/",
+      "summary": "The piece sent a little nod to period dressing",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Daisy Edgar-Jones Gears up for Sense and Sensibility With a Brown-and-...",
+      "score": 2,
+      "published": "2026-07-18T21:15:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6824a7f52ae4",
+      "title": "Delhi Mango Festival showcases BrahMos variety inspired by Operation Sindoor",
+      "link": "https://www.indiatoday.in/india/story/brahmos-mango-unveiled-at-delhi-festival-attended-by-cds-anil-chauhan-2951062-2026-07-19?utm_source=rss",
+      "summary": "Delhi Mango Festival showcases BrahMos variety inspired by Operation Sindoor",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Delhi Mango Festival showcases BrahMos variety inspired by Operation S...",
+      "score": 1,
+      "published": "2026-07-18T20:05:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6857efea8bfb",
+      "title": "It’s Hard Not to Smile at Anya Taylor-Joy’s Colorful Bra-Top Balmain Fit",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73176581/anya-taylor-joy-colorful-bra-top-look-balmain-pre-spring-2027-collection-photos/",
+      "summary": "She debuted the Pre-Spring 2027 collection while promoting Lucky",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: It’s Hard Not to Smile at Anya Taylor-Joy’s Colorful Bra-Top Balmain F...",
+      "score": 1,
+      "published": "2026-07-18T19:40:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4482a2671e56",
+      "title": "Bella Hadid’s Countryside Getaway Made for the Sweetest Summer Style Moments",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73176255/bella-hadid-countryside-getaway-summer-style-photos/",
+      "summary": "Cowboy boots, cotton dresses, and lacy bandanas galore",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bella Hadid’s Countryside Getaway Made for the Sweetest Summer Style M...",
+      "score": 2,
+      "published": "2026-07-18T17:45:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98d0abac525c",
+      "title": "No Need To Scroll—These 13 Luxury Shoe Arrivals Are IT",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-mytheresa-shoe-arrivals-july-2026",
+      "summary": "Prepare to get an influx of compliments from your stylish friends.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: No Need To Scroll—These 13 Luxury Shoe Arrivals Are IT...",
+      "score": 1,
+      "published": "2026-07-18T17:26:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7347e1bf457",
+      "title": "The Cult Slippers Every Fashion Insider Wants Just Got Even More Covetable",
+      "link": "https://www.whowhatwear.com/fashion/chanel-charvet-acquisition",
+      "summary": "They're now tied to Chanel.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Cult Slippers Every Fashion Insider Wants Just Got Even More Covet...",
+      "score": 1,
+      "published": "2026-07-18T17:19:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6aad4e37adf",
+      "title": "Anne Hathaway Adds a Pop of Duck Blue to Her Maternity Streak With a Jersey Alaïa Dress",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73176005/anne-hathaway-duck-blue-alaia-dress-maternity-style-photos/",
+      "summary": "Her pregnancy style just keeps getting cooler",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Anne Hathaway Adds a Pop of Duck Blue to Her Maternity Streak With a J...",
+      "score": 2,
+      "published": "2026-07-18T16:22:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "84d7131ead3b",
+      "title": "The 6 Nordstrom Items That Will Keep You On Trend for the Rest of 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/on-trend-items-nordstrom-anniversary-sale-2026",
+      "summary": "Lace-trim, bead work, and high-collars.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-18T16:11:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98c6e8113193",
+      "title": "Zendaya Bids Farewell to The Odyssey Press Tour With a Leather-on-Leather Look",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73175778/zendaya-leaves-odyssey-behind-black-leather-on-leather-look-new-york-city-photos/",
+      "summary": "Less goddess, more Greaser",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Zendaya Bids Farewell to The Odyssey Press Tour With a Leather-on-Leat...",
+      "score": 0,
+      "published": "2026-07-18T14:14:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c713fd7c8f5a",
+      "title": "Bazaar ’s Guide to the Nordstrom Anniversary Sale",
+      "link": "https://www.harpersbazaar.com/fashion/trends/a71933876/nordstrom-anniversary-sale-2026-best-deals/",
+      "summary": "Tory Burch bags, Paige jeans, and Miu Miu sunglasses are up to 50 percent off",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Bazaar ’s Guide to the Nordstrom Anniversary Sale...",
+      "score": 0,
+      "published": "2026-07-18T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f70b2753f7a",
+      "title": "ICYMI: Olivier Rousteing Heads to Rabanne, Slate Swim Acquired by Independent Buyer & Mia Calabrese's Beauty Hacks",
+      "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-18",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ICYMI: Olivier Rousteing Heads to Rabanne, Slate Swim Acquired by Inde...",
+      "score": 1,
+      "published": "2026-07-18T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "56b120d4b3a1",
       "title": "Print! Pattern! Color! These Street Style Looks Answer the Age-Old Question: Can Clashing Be Tasteful?",
       "link": "https://www.vogue.com/article/street-style-clashing-prints-patterns",
-      "summary": "A look at ways to tastefully clash, courtesy of Vogue's favorite street style stars.",
+      "summary": "A look at ways to tastefully clash, courtesy of Vogue’s favorite street style stars.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
@@ -51,20 +219,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "73c903b5ea69",
-      "title": "The Cost of a Ready-Made Family",
-      "link": "https://www.vogue.com/article/the-cost-of-a-ready-made-family",
-      "summary": "In the end, it wasn’t so much that I didn’t know the man I married, but that I became a stranger to myself. I’d hung onto the marriage for my own emotional fulfillment, and the kids ended up serving as collateral.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Cost of a Ready-Made Family...",
-      "score": 0,
-      "published": "2026-07-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "229a96d2477d",
       "title": "The Nordstrom Anniversary Sale 2026 Is Here—What Vogue Editors Are Shopping",
       "link": "https://www.vogue.com/slideshow/nordstrom-anniversary-sale-2026-1",
@@ -89,6 +243,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Never Miss the Nordstrom Beauty Sale—These Are the Deals I’d Shop Fi...",
       "score": 1,
+      "published": "2026-07-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73c903b5ea69",
+      "title": "The Cost of a Ready-Made Family",
+      "link": "https://www.vogue.com/article/the-cost-of-a-ready-made-family",
+      "summary": "In the end, it wasn’t so much that I didn’t know the man I married, but that I became a stranger to myself. I’d hung onto the marriage for my own emotional fulfillment, and the kids ended up serving as collateral.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Cost of a Ready-Made Family...",
+      "score": 0,
       "published": "2026-07-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -146,6 +314,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-07-18T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "303dc2b691d6",
+      "title": "Yes Pleats: Why Modern Men Should Still Wear Pleated Pants",
+      "link": "https://www.fashionbeans.com/article/type-of-pleats-pleated-pants-guide/",
+      "summary": "Great style is all about your waist. Not in a don’t-those-models-eat-anything sense. But rather, as a dapper man once told me, because where a man’s trousers sit reveal whether he knows how to dress himself. For what seems like forever, trousers have perched precariously on the hips, threatening at any moment to fall t",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Yes Pleats: Why Modern Men Should Still Wear Pleated Pants...",
+      "score": 4,
+      "published": "2026-07-18T09:03:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -289,20 +471,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "84c22869d24a",
-      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
-      "summary": "If you don't know what to pack for your next vacation, read this.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e7f330fb8b56",
       "title": "Parisian It Girls Agree: These Are the Micro-Trends That Matter This Summer",
       "link": "https://www.whowhatwear.com/fashion/trends/french-girl-microtrends-summer-2026",
@@ -340,6 +508,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
+      "score": 2,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "84c22869d24a",
+      "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
+      "summary": "If you don't know what to pack for your next vacation, read this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1129,20 +1311,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2022c0d11a9a",
-      "title": "7 Beach Outfits You’ll Love, Even If You’re Not A Summer Person",
-      "link": "https://www.vogue.com/article/beach-outfits",
-      "summary": "Whatever the destination, here are seven beach outfits for your next destination.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Beach Outfits You’ll Love, Even If You’re Not A Summer Person...",
-      "score": 1,
-      "published": "2026-07-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5f3c729cc29f",
       "title": "Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel",
       "link": "https://www.vogue.com/article/vogue-vacations-kasey-busiel-mallorca-madrid",
@@ -1153,6 +1321,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: Vogue Vacations: 5 Days in Mallorca and Madrid with Kasey Busiel...",
       "score": 0,
+      "published": "2026-07-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2022c0d11a9a",
+      "title": "7 Beach Outfits You’ll Love, Even If You’re Not A Summer Person",
+      "link": "https://www.vogue.com/article/beach-outfits",
+      "summary": "Whatever the destination, here are seven beach outfits for your next destination.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Beach Outfits You’ll Love, Even If You’re Not A Summer Person...",
+      "score": 1,
       "published": "2026-07-17T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1255,6 +1437,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c845e67dd3ad",
+      "title": "5 Classic Ways To Wear A Short Back And Sides",
+      "link": "https://www.fashionbeans.com/article/best-mens-short-back-sides-hairstyles/",
+      "summary": "Staying well-groomed is not nearly as effortless as it should look. From mastering tie knots to keeping your toenails from sprouting their own toenails, the official list of requirements for looking good seems to grow longer by the day. You can make the task of looking constantly vaguely presentable easier with four si",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Classic Ways To Wear A Short Back And Sides...",
+      "score": 1,
+      "published": "2026-07-17T08:30:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ed592f32b06e",
       "title": "What Shoes To Wear With Every Style Of Trousers",
       "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-trousers/",
@@ -1325,6 +1521,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "775dd38428b6",
+      "title": "The Only Pants Chic Women Are Wearing More Than Jeans, Capris, and Kick-Flare Trousers This Summer",
+      "link": "https://www.whowhatwear.com/fashion/embroidered-hem-white-pant-trend",
+      "summary": "These are defining summer '26 style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "aef99c7d2ea2",
       "title": "I Re-Created 5 French-Girl Summer Outfits Using Only J.Crew Pieces—You're Welcome",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-j-crew",
@@ -1349,20 +1559,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If Dressing Like You Summer in Lake Como Is the Goal, Here Are 31 Piec...",
       "score": 1,
-      "published": "2026-07-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "775dd38428b6",
-      "title": "The Only Pants Chic Women Are Wearing More Than Jeans, Capris, and Kick-Flare Trousers This Summer",
-      "link": "https://www.whowhatwear.com/fashion/embroidered-hem-white-pant-trend",
-      "summary": "These are defining summer '26 style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-07-17T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1437,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "77da755e3717",
-      "title": "Dua! Alexa! Hailey! The Best-Dressed It Girls Are Wearing These Fresh Summer Trends (and Dresses Don't Make the Cut)",
-      "link": "https://www.whowhatwear.com/fashion/summer/it-girl-high-summer-fashion-trends-2026",
-      "summary": "Heatwave-approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-17T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f378cd75c544",
       "title": "The 10 Best Fragrance Deals to Shop at Nordstrom's Anniversary Sale 2026",
       "link": "https://www.harpersbazaar.com/beauty/health/a71856515/nordstrom-anniversary-sale-fragrance-perfume-deals-2026/",
@@ -1504,34 +1686,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 0,
       "published": "2026-07-16T18:06:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c3fb8a6388c6",
-      "title": "Fashion People Agree That Wearing Baby Tees With This Pant Trend Makes Them Look Elegant",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/baby-tee-with-low-rise-trousers-anya-taylor-joy",
-      "summary": "It's simple but so chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-16T18:01:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7d088fb7af9c",
-      "title": "Hailey Bieber Designed Her Version of the Perfect $90 Gap Jeans, and Fashion People Can't Wait to Wear Them",
-      "link": "https://www.whowhatwear.com/fashion/shopping/hailey-bieber-gap-jeans",
-      "summary": "It's already almost sold out.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hailey Bieber Designed Her Version of the Perfect $90 Gap Jeans, and F...",
-      "score": 2,
-      "published": "2026-07-16T17:26:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1857,90 +2011,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f17c9bf32b60",
-      "title": "We Found the Best Handbags on Sale During Nordstrom’s Anniversary Sale",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a71930374/nordstrom-anniversary-sale-handbag-deals-2026/",
-      "summary": "Save up to 70 percent off designer styles from Tory Burch, Toteme, Chloé, and more",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: We Found the Best Handbags on Sale During Nordstrom’s Anniversary Sale...",
-      "score": 2,
-      "published": "2026-07-15T19:11:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5cc86a206908",
-      "title": "Sun’s Out—Time to Cover Up",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a71921066/best-upf-clothing/",
-      "summary": "The new generation of UPF clothing makes sun protection look good",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sun’s Out—Time to Cover Up...",
-      "score": 0,
-      "published": "2026-07-15T18:47:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec051d038a6b",
-      "title": "Dua Lipa Brings Her Favorite Bandana to the Studio With a Boho Biker Look",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71950217/dua-lipa-studio-look-chloe-lace-slip-dress-miu-miu-boots-blue-bandana-lemon-yellow-schiaparelli-bag/",
-      "summary": "Plus, she added a pop of lemon yellow",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dua Lipa Brings Her Favorite Bandana to the Studio With a Boho Biker L...",
-      "score": 0,
-      "published": "2026-07-15T18:18:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "378fd349a0d9",
-      "title": "Everything to Know About Katie Holmes’s Rumored New Boyfriend",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71942962/who-is-katie-holmes-boyfriend-dating-artist-jason-bard-yarmosky-details/",
-      "summary": "She’s been seen out with fine artist Jason Bard Yarmosky in New York",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Everything to Know About Katie Holmes’s Rumored New Boyfriend...",
-      "score": 0,
-      "published": "2026-07-15T17:45:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1942e935b508",
-      "title": "The New Katseye Documentary Trailer Promises a Love Letter to Fans",
-      "link": "https://www.harpersbazaar.com/culture/film-tv/a71944190/katseye-documentary-wild-hearts-trailer-tickets/",
-      "summary": "Katseye: Wild Hearts will premiere in theaters worldwide on August 12",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The New Katseye Documentary Trailer Promises a Love Letter to Fans...",
-      "score": 0,
-      "published": "2026-07-15T17:22:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "431a91934421",
-      "title": "Who Is Nicholas Galitzine’s Rumored Girlfriend, Cameron Valentina Eyre?",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71693441/who-is-cameron-valentina-eyre-nicholas-galitzine-girlfriend/",
-      "summary": "Everything to know about the model and dancer reportedly dating the Master of the Universe star",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Who Is Nicholas Galitzine’s Rumored Girlfriend, Cameron Valentina Eyre...",
-      "score": 1,
-      "published": "2026-07-15T17:22:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7f3449efde0b",
       "title": "Must Read: Richemont Quarterly Sales Surge 20%, Bluemercury Appoints New CEO",
       "link": "https://fashionista.com/2026/07/richemont-q1-sales-report-2026",
@@ -2064,48 +2134,6 @@
       "angle": "Fashion Intelligence: 9 Classic Men’s Hairstyles – Timeless Haircuts in 2026...",
       "score": 2,
       "published": "2026-07-15T09:00:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9cea432fe226",
-      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
-      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
-      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
-      "score": 2,
-      "published": "2026-07-15T06:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b812406bc5c1",
-      "title": "11 Men’s Colognes Women Love: Most Attractive Fragrances In 2026",
-      "link": "https://www.fashionbeans.com/article/colognes-women-love/",
-      "summary": "FYI After our most recent product review, we&#8217;ve updated the article with a comparison table to make finding the perfect scent easier than ever. This added guide highlights key features like top, middle, and base notes, along with the ideal seasons for each cologne, so you can quickly find the one that best suits ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 11 Men’s Colognes Women Love: Most Attractive Fragrances In 2026...",
-      "score": 1,
-      "published": "2026-07-15T06:08:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "22988e1fe2d8",
-      "title": "12 Types of Pants for Men – Different Trouser Styles 2026",
-      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
-      "summary": "Statement jackets and the latest sneakers are always going to be top of men&#8217;s lust lists, but don&#8217;t let high-wattage clobber blind you to the essentials. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
-      "score": 3,
-      "published": "2026-07-15T06:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2613,20 +2641,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4e34db3f962e",
-      "title": "DermAngelo Thinks More People Need a 'Sun Protection Strategy'",
-      "link": "https://fashionista.com/2026/07/angelo-landriscina-dermatologist-skin-care-interview",
-      "summary": "Dermatologist Dr. Angelo Landriscina also shares his fave underrated beauty treatment and why he thinks PDRN is a scam.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: DermAngelo Thinks More People Need a 'Sun Protection Strategy'...",
-      "score": 1,
-      "published": "2026-07-01T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dd2c7cfcf426",
       "title": "Indo-Western Lehenga Choli vs Traditional Lehenga Choli: What’s the Difference",
       "link": "https://www.indianclothstore.com/blog/indo-western-lehenga-choli-vs-traditional-lehenga-choli-whats-the-difference",
@@ -2879,6 +2893,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "88922271fab6",
+      "title": "Bridal Fashion That Thrives Through the Monsoon",
+      "link": "https://www.azafashions.com/blog/monsoon-bridal-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=monsoon-bridal-fashion",
+      "summary": "There's something undeniably romantic about a monsoon wedding. The overcast sky, the petrichor in the air, the sound of rain against marigold-draped mandaps — it creates a mood that no&#8230; The post Bridal Fashion That Thrives Through the Monsoon appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Bridal Fashion That Thrives Through the Monsoon — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-18T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "26dd4149823c",
       "title": "The Ajrakh Story: From Kutch to Closets Around the World",
       "link": "https://www.azafashions.com/blog/history-of-ajrakh-print/?utm_source=rss&utm_medium=rss&utm_campaign=history-of-ajrakh-print",
@@ -3003,70 +3031,56 @@
       "score": 3,
       "published": "2026-07-13T16:25:34+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "41038e621311",
-      "title": "10 White Kurtas You’ll Love Wearing This Independence Day and Beyond",
-      "link": "https://www.azafashions.com/blog/10-white-kurtas-for-independence-day/?utm_source=rss&utm_medium=rss&utm_campaign=10-white-kurtas-for-independence-day",
-      "summary": "Every August 15th, the white kurta has its moment. But the best ones? They don't stop at Independence Day. They show up at Raksha Bandhan, carry you through a Monday&#8230; The post 10 White Kurtas You&#8217;ll Love Wearing This Independence Day and Beyond appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-13T12:12:30+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "నెయ్యి",
+      "term": "wwe saturday night main event",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "burton vs leicester city",
+      "term": "दिल्ली पुलिस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "summer vacation",
+      "term": "ದಿನ ಭವಿಷ್ಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rbi polymer currency notes pilot",
+      "term": "ఒడిశా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चाचणी",
+      "term": "income tax return",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "fifa world cup final football",
+      "term": "ddp vs usman",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "spiderman trailer",
+      "term": "mojtaba khamenei",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विजय",
+      "term": "scratch",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "manjot kalra cricketer",
+      "term": "kerala lottery results monsoon bumper",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "spain coach interrupted by crowd",
+      "term": "ரயில்வே",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
