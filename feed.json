@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-07-20T07:58:49.456029+00:00",
+  "generated_at": "2026-07-20T10:58:42.771815+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 188,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "9399a788d997",
+      "title": "Building Value With Denim in a More Disciplined Market",
+      "link": "https://in.apparelresources.com/fashion-news/building-value-denim-disciplined-market/",
+      "summary": "For the denim industry, 2026 is less about disruption and more about recalibration of what is already present on the table. What was once a dependable basic is now being positioned as a strategic category &#8211; one that anchors wardrobes, bridges casual and formal dressing, and offers brands a reliable vehicle for bo",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Building Value With Denim in a More Disciplined Market...",
+      "score": 2,
+      "published": "2026-07-20T10:18:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8b44d06c1f42",
+      "title": "9 Vogue-Approved Ways on How to Style Activewear",
+      "link": "https://www.vogue.com/article/activewear-outfit-ideas",
+      "summary": "From football jerseys to bike shorts and more, here are nine easy-to-recreate ideas on how to style activewear this summer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 9 Vogue-Approved Ways on How to Style Activewear...",
+      "score": 2,
+      "published": "2026-07-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4a0495989d9a",
+      "title": "52 Summer Hosting Essentials for Your Next Gathering, According to Vogue Editors",
+      "link": "https://www.vogue.com/article/summer-hosting-editor-picks",
+      "summary": "It’s summer entertaining season—so we polled our editors for their favorite warm-weather hosting staples. From patterned linens to kitschy servingware, here's what's on the menu.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 52 Summer Hosting Essentials for Your Next Gathering, According to Vog...",
+      "score": 1,
+      "published": "2026-07-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3063bf267258",
+      "title": "9 Celeb-Inspired Denim Outfits to Try",
+      "link": "https://www.vogue.com/article/celebrity-denim-outfits",
+      "summary": "From Gigi Hadid to Zendaya and Kaia Gerber, allow these celeb-approved denim outfits to inspire your next look.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 9 Celeb-Inspired Denim Outfits to Try...",
+      "score": 1,
+      "published": "2026-07-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82f91f311b50",
+      "title": "‘The Odyssey’ Costumes Discard the Sword-and-Sandals Playbook",
+      "link": "https://www.vogue.com/article/the-odyssey-costumes-ellen-mirojnick-christopher-nolan",
+      "summary": "“We were not after a historical period. We were after a timeless period,” says costume designer Ellen Mirojnick.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: ‘The Odyssey’ Costumes Discard the Sword-and-Sandals Playbook...",
+      "score": 1,
+      "published": "2026-07-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8daaac48a494",
+      "title": "If You Like Rich-Looking White Jeans Outfits, Skip Sandals and Pair Denim With This Closed-Toe Alt",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-jeans-grommet-mary-janes-outfit-brooke-shields-2026",
+      "summary": "Hint: It's not suede ballet flats.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Like Rich-Looking White Jeans Outfits, Skip Sandals and Pair De...",
+      "score": 1,
+      "published": "2026-07-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "25427b6fab44",
+      "title": "Tata’s Westside Targets Major Expansion with 100 Annual Stores",
+      "link": "https://in.apparelresources.com/business-news/retail/tatas-westside-targets-major-expansion-100-annual-stores/",
+      "summary": "The Tata Group&#8217;s Trent plans to expand its premium fashion chain Westside by opening up to 100 stores annually, up from its current pace of 10–15 store openings a year. Westside, which operates 300 stores and offers apparel, beauty products, home décor, footwear and accessories, plans to expand into northeastern ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Tata’s Westside Targets Major Expansion with 100 Annual Stores...",
+      "score": 3,
+      "published": "2026-07-20T09:51:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "56aee9e83aeb",
+      "title": "London Fashion Week Unveils the Spring/Summer 2027 Schedule",
+      "link": "https://www.vogue.com/article/london-fashion-week-unveils-the-spring-summer-2027-schedule",
+      "summary": "Now well into her strategic reset, British Fashion Council CEO Laura Weir airs an ambitious schedule, with McQueen back on home turf and Christopher Kane steering the Mulberry mothership.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: London Fashion Week Unveils the Spring/Summer 2027 Schedule...",
+      "score": 1,
+      "published": "2026-07-20T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "566c33ae7a85",
       "title": "Video: Drought-hit Andhra villagers hold frog wedding to pray for rain",
@@ -65,20 +177,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dba58a5622d0",
-      "title": "28-year-olds led Skyroot launch, not young 56-year-old: PM's dig at Rahul Gandhi",
-      "link": "https://www.indiatoday.in/india/story/startup-of-28-year-olds-not-some-56-year-old-pm-modis-dig-as-he-celebrates-skyroots-rocket-launch-2951729-2026-07-20?utm_source=rss",
-      "summary": "28-year-olds led Skyroot launch, not young 56-year-old: PM's dig at Rahul Gandhi",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-20T05:01:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "99554c9d4e71",
       "title": "Should Brands Bet on Luxury Eyewear?",
       "link": "https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear",
@@ -132,6 +230,20 @@
       "angle": "Fashion Intelligence: Shakira Shined During the Global World Cup Halftime Medley...",
       "score": 1,
       "published": "2026-07-19T22:44:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d636ecc3eba7",
+      "title": "The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week",
+      "link": "https://www.fashionbeans.com/article/salomon-sneakers-fashion-week-2026/",
+      "summary": "Salomon Stopped Trying To Be Fashion And that’s exactly why fashion won’t stop wearing it. During Paris Men’s Fashion Week, new creative director Heikki Salonen said something disarmingly simple about Salomon: “Salomon is not a fashion house.” So the brand is doubling down on what it does best. Serious mountain footwea",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week...",
+      "score": 3,
+      "published": "2026-07-19T21:46:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -303,6 +415,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8d6f3a4ad514",
+      "title": "6 Best Veja Sneakers for Men: Top Style & Comfort in 2026",
+      "link": "https://www.fashionbeans.com/article/best-veja-sneakers-for-men/",
+      "summary": "In my experience, footwear is what guys struggle with the most when it comes to fashion. I see it on a daily basis – a well-put-together man with immaculate taste in clothes paired with the most raggedy shoes you’ve ever seen. Luckily, the best Veja sneakers for men offer a simple solution. Infinitely elegant and &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Best Veja Sneakers for Men: Top Style & Comfort in 2026...",
+      "score": 3,
+      "published": "2026-07-19T14:15:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d1ce853a55f6",
       "title": "Charli XCX Takes a Gothic Approach to Wedding-Guest Style",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73179095/charli-xcx-gothic-wedding-guest-style-gabbriette-matty-healy-ceremony-photos/",
@@ -443,6 +569,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "987969ed2c51",
+      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
+      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
+      "score": 4,
+      "published": "2026-07-19T09:00:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "085d0a0ee3d3",
       "title": "10 Best Sneakers to Wear With A Suit – Men’s Guide For 2026",
       "link": "https://www.fashionbeans.com/article/best-sneakers-to-wear-with-a-suit/",
@@ -485,62 +625,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0fd959a77b7",
-      "title": "I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Internet",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-celebrity-summer-outfit-ideas-2026",
-      "summary": "Look like a cool girl all season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Intern...",
-      "score": 2,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d075a3248d91",
-      "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
-      "summary": "The chicest alt.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dae0f4930b3c",
-      "title": "This Fashion Editor-Loved Brand is On Major Sale in the Nordstrom Anniversary Sale—Here's Every Chic Item I'm Buying",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-cos-fashion-nordstrom-anniversary-sale-2026",
-      "summary": "So many good discounts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: This Fashion Editor-Loved Brand is On Major Sale in the Nordstrom Anni...",
-      "score": 2,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cce5aa9fb628",
-      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
-      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
-      "summary": "Better outfits + more closet space = less impulse shopping.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
-      "score": 1,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0c946157c519",
       "title": "Move Over, Bermudas! Here Are 5 Ways to Wear The Shorts Trend Fashion People Are in Love With This Summer",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/balloon-shorts-outfits-summer-2026",
@@ -555,15 +639,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4a6e2479e809",
-      "title": "I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I Understand the Hype",
-      "link": "https://www.whowhatwear.com/fashion/dresses/marks-and-spencer-polka-dot-slip-dress",
-      "summary": "Well worth it.",
+      "id": "67f5e94a3de2",
+      "title": "I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actually See on Fashion People Around the City",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-summer-2026",
+      "summary": "The chicest accessories, clothing, and shoe deals.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I...",
+      "angle": "Fashion Intelligence: I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actu...",
+      "score": 1,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cce5aa9fb628",
+      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
+      "summary": "Better outfits + more closet space = less impulse shopping.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
       "score": 1,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -583,16 +681,58 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67f5e94a3de2",
-      "title": "I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actually See on Fashion People Around the City",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-summer-2026",
-      "summary": "The chicest accessories, clothing, and shoe deals.",
+      "id": "4a6e2479e809",
+      "title": "I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I Understand the Hype",
+      "link": "https://www.whowhatwear.com/fashion/dresses/marks-and-spencer-polka-dot-slip-dress",
+      "summary": "Well worth it.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actu...",
+      "angle": "Fashion Intelligence: I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I...",
       "score": 1,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f0fd959a77b7",
+      "title": "I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Internet",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-celebrity-summer-outfit-ideas-2026",
+      "summary": "Look like a cool girl all season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Intern...",
+      "score": 2,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dae0f4930b3c",
+      "title": "This Fashion Editor-Loved Brand is On Major Sale in the Nordstrom Anniversary Sale—Here's Every Chic Item I'm Buying",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-cos-fashion-nordstrom-anniversary-sale-2026",
+      "summary": "So many good discounts.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: This Fashion Editor-Loved Brand is On Major Sale in the Nordstrom Anni...",
+      "score": 2,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d075a3248d91",
+      "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
+      "summary": "The chicest alt.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1129,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1c1f46778d8b",
-      "title": "Hold Up—Did Zendaya Really Just Wear Leather Cigarette Pants in NYC's 85º Heat?",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leather-cigarette-pants-trend-zendaya-2026",
-      "summary": "Yes, yes, she did.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hold Up—Did Zendaya Really Just Wear Leather Cigarette Pants in NYC's ...",
-      "score": 1,
-      "published": "2026-07-17T23:09:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a803716d8538",
       "title": "Tracee Ellis Ross Was Born to Do ‘Every Brilliant Thing’",
       "link": "https://www.vogue.com/article/tracee-ellis-ross-every-brilliant-thing-interview",
@@ -1367,62 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "76aa337dc4f1",
-      "title": "Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story",
-      "link": "https://www.vogue.com/article/keeping-the-spirit-alive-more-than-a-month-in-pictures-the-pvmonday-story",
-      "summary": "Join us in celebrating the pics of the day since June 2025 until today",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story...",
-      "score": 0,
-      "published": "2026-07-17T16:59:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f94f228368ce",
-      "title": "Spain or Argentina? Here’s Some 2026 World Cup Final Fashion Inspiration, Straight From the Runways",
-      "link": "https://www.vogue.com/article/2026-world-cup-final-runway-inspiration-spain-argentina",
-      "summary": "For those who aren’t inclined to wear a jersey for the 2026 World Cup Final, consider the past runways for all your team spirit needs.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Spain or Argentina? Here’s Some 2026 World Cup Final Fashion Inspirati...",
-      "score": 3,
-      "published": "2026-07-17T16:37:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b0c6d5341033",
-      "title": "The Borrowed Boyfriend’s Shirt is Over",
-      "link": "https://www.vogue.com/article/the-borrowed-boyfriends-shirt-is-over",
-      "summary": "Call it the Chanel effect – more women are getting into the historically boys-club category.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Borrowed Boyfriend’s Shirt is Over...",
-      "score": 0,
-      "published": "2026-07-17T16:20:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e18ebd2a6ad5",
-      "title": "14 Sunscreens Vogue Editors Actually Use",
-      "link": "https://www.vogue.com/article/editors-favorite-sunscreens",
-      "summary": "Searching for some sunscreen inspiration? Here, five Vogue editors sound off on the expert-approved sunscreens they swear by from Supergoop!, La Roche-Posay, CosRx, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 14 Sunscreens Vogue Editors Actually Use...",
-      "score": 1,
-      "published": "2026-07-17T16:13:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0352e3bfc31f",
       "title": "In Daughter From Hell, Gracie Abrams Grows Up",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a72848936/gracie-abrams-daughter-from-hell-review/",
@@ -1434,20 +1504,6 @@
       "angle": "Fashion Intelligence: In Daughter From Hell, Gracie Abrams Grows Up...",
       "score": 0,
       "published": "2026-07-17T16:12:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f066f7338c35",
-      "title": "Gracie Abrams Swaps One Hot Hair Accessory for Another: The Puffy Headband",
-      "link": "https://www.vogue.com/article/gracie-abrams-hair-accessory-puffy-headband-trend",
-      "summary": "While Dua Lipa and Zendaya stay loyal to the bandana, Gracie Abrams is bringing back the pretty, puffed up Alice band for summer.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Gracie Abrams Swaps One Hot Hair Accessory for Another: The Puffy Head...",
-      "score": 1,
-      "published": "2026-07-17T16:12:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2053,34 +2109,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fdd00d6439aa",
-      "title": "Rectangle Face Shape: Your Ticket to Hollywood-Worthy Angles",
-      "link": "https://www.fashionbeans.com/article/rectangle-face-shapes/",
-      "summary": "If your face is longer than it is wide, with a forehead, cheekbones, and jawline that could stand in for a ruler, congratulations—you&#8217;re sporting a rectangle face shape. Think Josh Duhamel or Henry Cavill; you&#8217;re in good company. But why does face shape matter? It&#8217;s your style foundation. Understandin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rectangle Face Shape: Your Ticket to Hollywood-Worthy Angles...",
-      "score": 1,
-      "published": "2026-07-16T05:44:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1e738d5fd2a1",
-      "title": "6 Best Calvin Klein Colognes For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-calvin-klein-colognes/",
-      "summary": "No brand defines classic minimalist quite like Calvin Klein, and the best Calvin Klein colognes are no exception. Much like their clothing and iconic ad campaigns, their fragrances combine sex appeal with sophistication, which is actually pretty hard to do. Inherently, Calvin Klein colognes for men are clean, fresh, an",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Best Calvin Klein Colognes For Men In 2026...",
-      "score": 1,
-      "published": "2026-07-16T01:55:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7f3449efde0b",
       "title": "Must Read: Richemont Quarterly Sales Surge 20%, Bluemercury Appoints New CEO",
       "link": "https://fashionista.com/2026/07/richemont-q1-sales-report-2026",
@@ -2134,20 +2162,6 @@
       "angle": "Fashion Intelligence: Slate Swim Founder Sells Brand in 7-Figure Deal...",
       "score": 2,
       "published": "2026-07-15T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9a1c5cb46b9a",
-      "title": "How To Dress With Sprezzatura",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-with-sprezzatura/",
-      "summary": "What on earth is that man doing with his tie? Has he dressed in a huge hurry? What’s with the collar sticking out? Hold fire with your assumption that the subject of your disdain just doesn’t know how to dress well. Those points you critique may, in fact, be expressions of ‘sprezzatura’, the art of dressing &#8230; Con",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Dress With Sprezzatura...",
-      "score": 1,
-      "published": "2026-07-15T10:29:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2232,48 +2246,6 @@
       "angle": "Fashion Intelligence: Inside the Fashion Workplace: The 2026 Report Is Here...",
       "score": 1,
       "published": "2026-07-14T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f52d0c42724",
-      "title": "How to Secure the Circular Economy in South & Southeast Asia",
-      "link": "https://in.apparelresources.com/business-news/sustainability/secure-circular-economy-south-southeast-asia/",
-      "summary": "Across South and Southeast Asia, countries are taking steps to transition from linear &#8220;take-make-waste&#8221; models to more circular economies. According to the Organisation for Economic Cooperation and Development (OECD), only 12% of plastic waste in these regions is effectively recycled. As a result, Southeast",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Secure the Circular Economy in South & Southeast Asia...",
-      "score": 1,
-      "published": "2026-07-14T07:39:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eb7be5fc9ecf",
-      "title": "Ranbir Kapoor’s ARKS Appoints Dhruv Mathur as CEO",
-      "link": "https://in.apparelresources.com/business-news/retail/ranbir-kapoors-arks-appoints-dhruv-mathur-ceo/",
-      "summary": "Lifestyle brand ARKS has appointed Dhruv Mathur as its new Chief Executive Officer as part of a planned leadership transition. Under the change, Co-Founder and former CEO Abhinav Verma has stepped down from his executive responsibilities. Having played an integral role in the company&#8217;s growth and day-to-day opera",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ranbir Kapoor’s ARKS Appoints Dhruv Mathur as CEO...",
-      "score": 2,
-      "published": "2026-07-13T13:45:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9a2f0091ccb0",
-      "title": "Bata India Plans 3,000 Store Network Across India",
-      "link": "https://in.apparelresources.com/business-news/retail/bata-india-plans-3000-store-network-across-india/",
-      "summary": "Bata India has crossed 2,000 retail stores and is now aiming to expand its network to 3,000 outlets over the next few years, with growth driven primarily through a franchise-led model in Tier III and Tier IV cities. India continues to be Bata&#8217;s largest global market and its biggest manufacturing and sourcing hub,",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bata India Plans 3,000 Store Network Across India...",
-      "score": 1,
-      "published": "2026-07-13T11:55:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3035,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "abbas araghchi",
+      "term": "lottery result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "amarnath yatra",
+      "term": "सोना चांदी भाव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cancer horoscope today",
+      "term": "tynan thompson",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "google pixel 11a",
+      "term": "ಬಳ್ಳಾರಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lok sabha live",
+      "term": "हुमा कुरैशी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "travel visa",
+      "term": "sensex index",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jio recharge",
+      "term": "sensex moneycontrol",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বৃষ্টি",
+      "term": "arshad warsi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sridevi",
+      "term": "பழனி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भविष्य",
+      "term": "પેન્શન",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
