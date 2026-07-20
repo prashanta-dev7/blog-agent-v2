@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-07-20T10:58:42.771815+00:00",
+  "generated_at": "2026-07-20T13:11:16.999220+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 186,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "4555b33b93be",
+      "title": "How to Write a Wedding Speech the Couple Will Love",
+      "link": "https://www.vogue.com/article/how-to-write-a-wedding-speech",
+      "summary": "Whether you’re the father of the bride, best man, or maid of honor, learn how to write a wedding speech and perfect your delivery for the big day.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: How to Write a Wedding Speech the Couple Will Love — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-07-20T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "318166bf9fa0",
+      "title": "North American Trade Pact Review Unsettles Fashion Sourcing Plans",
+      "link": "https://www.vogue.com/article/north-american-trade-pact-review-unsettles-fashion-sourcing-plans",
+      "summary": "Uncertainty over the future of the US-Mexico-Canada Agreement is making it harder to diversify away from China.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: North American Trade Pact Review Unsettles Fashion Sourcing Plans...",
+      "score": 1,
+      "published": "2026-07-20T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2c1f3c294ba5",
+      "title": "Why Your Morning Routine—And Breakfast—Matter More During Menopause",
+      "link": "https://www.vogue.com/article/morning-routine-menopause",
+      "summary": "Medical professionals weigh in on best practices and the ideal breakfast.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Your Morning Routine—And Breakfast—Matter More During Menopause...",
+      "score": 0,
+      "published": "2026-07-20T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b8670b9fa51b",
+      "title": "75 Thoughts I Had About ‘The Odyssey’",
+      "link": "https://www.vogue.com/article/75-thoughts-i-had-about-the-odyssey",
+      "summary": "A lot of men on dating apps are doing exactly what Matt Damon is doing beard-wise in “The Odyssey,” and they shouldn’t.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 75 Thoughts I Had About ‘The Odyssey’...",
+      "score": 0,
+      "published": "2026-07-20T11:37:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf7a0d3ed768",
+      "title": "Trends in Focus: The Fall Winter 2026 Print, Pattern and Colour Playbook",
+      "link": "https://in.apparelresources.com/fashion-news/trends/trends-in-focus-the-fall-winter-2026-print-pattern-and-colour-playbook/",
+      "summary": "The Fall Winter 2026 season unfolds against a backdrop of cautious optimism, where consumers are recalibrating their wardrobes with a sharper focus on longevity, emotional value, and versatility. This season, purchasing behaviour reflects a more considered approach, wherein consumers gravitate towards fewer, better pro",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-20T11:00:33+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "9399a788d997",
       "title": "Building Value With Denim in a More Disciplined Market",
@@ -415,6 +485,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3350c577e1e7",
+      "title": "8 Best Starter Watches For Men – Entry Level Picks For 2026",
+      "link": "https://www.fashionbeans.com/article/best-starter-watches/",
+      "summary": "I remember buying my first watch. I was in my late teens and can recall being somewhat overwhelmed by the different types on offer. There were diving watches, chronographs, and the kind you wear with a suit. Not forgetting the digital designs that all my friends were raving about. If only someone had written a &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 8 Best Starter Watches For Men – Entry Level Picks For 2026...",
+      "score": 1,
+      "published": "2026-07-19T15:10:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8d6f3a4ad514",
       "title": "6 Best Veja Sneakers for Men: Top Style & Comfort in 2026",
       "link": "https://www.fashionbeans.com/article/best-veja-sneakers-for-men/",
@@ -467,20 +551,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: From the Archives: Vogue’s Hamish Bowles Trains With Soccer Star Alex ...",
       "score": 0,
-      "published": "2026-07-19T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4555b33b93be",
-      "title": "How to Write a Wedding Speech the Couple Will Love",
-      "link": "https://www.vogue.com/article/how-to-write-a-wedding-speech",
-      "summary": "Whether you’re the father of the bride, best man, or maid of honor, learn how to write a wedding speech and perfect your delivery for the big day.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Write a Wedding Speech the Couple Will Love — A Complete Style Guide",
-      "score": 1,
       "published": "2026-07-19T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -541,20 +611,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb77795a66d8",
-      "title": "Inside Herbert Levine's Second Act, and The Mastermind Bringing it to Life",
-      "link": "https://www.whowhatwear.com/fashion/luxury/herbert-levine-feature",
-      "summary": "Fantastic footwear ahead",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Inside Herbert Levine's Second Act, and The Mastermind Bringing it to ...",
-      "score": 1,
-      "published": "2026-07-19T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2792bd481f20",
       "title": "All My Favourite Fashion People Rely On This Exact Jewellery Trend to Make Their Classic Outfits Look Cooler",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/t-bar-necklace-trend-2026",
@@ -565,6 +621,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
+      "published": "2026-07-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb77795a66d8",
+      "title": "Inside Herbert Levine's Second Act, and The Mastermind Bringing it to Life",
+      "link": "https://www.whowhatwear.com/fashion/luxury/herbert-levine-feature",
+      "summary": "Fantastic footwear ahead",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Inside Herbert Levine's Second Act, and The Mastermind Bringing it to ...",
+      "score": 1,
       "published": "2026-07-19T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -625,6 +695,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d075a3248d91",
+      "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
+      "summary": "The chicest alt.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0c946157c519",
       "title": "Move Over, Bermudas! Here Are 5 Ways to Wear The Shorts Trend Fashion People Are in Love With This Summer",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/balloon-shorts-outfits-summer-2026",
@@ -648,20 +732,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actu...",
-      "score": 1,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cce5aa9fb628",
-      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
-      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
-      "summary": "Better outfits + more closet space = less impulse shopping.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
       "score": 1,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -709,6 +779,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "cce5aa9fb628",
+      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
+      "summary": "Better outfits + more closet space = less impulse shopping.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
+      "score": 1,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "dae0f4930b3c",
       "title": "This Fashion Editor-Loved Brand is On Major Sale in the Nordstrom Anniversary Sale—Here's Every Chic Item I'm Buying",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-cos-fashion-nordstrom-anniversary-sale-2026",
@@ -723,17 +807,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d075a3248d91",
-      "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
-      "summary": "The chicest alt.",
-      "source": "Who What Wear",
+      "id": "bbbd7f8d0376",
+      "title": "8 Best Perfume Organizers – Storage and Style For 2026",
+      "link": "https://www.fashionbeans.com/article/best-perfume-organizers/",
+      "summary": "A fragrance collection is never considered a problem. That is until you amass more bottles than your space can handle. If you’re tired of cluttered countertops and overcrowded cabinets, the best perfume organizer is the ultimate solution to give your scents their very own home. In general, perfume and cologne can be tr",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-19T07:00:00+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 8 Best Perfume Organizers – Storage and Style For 2026...",
+      "score": 2,
+      "published": "2026-07-19T06:20:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -748,6 +832,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-07-19T04:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "48672dd4d3c9",
+      "title": "13 Types of Shirts Every Man Should Own 2026",
+      "link": "https://www.fashionbeans.com/article/types-of-shirt-men/",
+      "summary": "With all of its different variations, the men’s shirt is without a doubt the most versatile article of dress there is. If you have the right styles, getting ready in the morning can be as easy as throwing one on and looking fresh. But with so many endless options of shirt brands out there, which &#8230; Continue readin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 13 Types of Shirts Every Man Should Own 2026...",
+      "score": 3,
+      "published": "2026-07-19T04:00:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1143,20 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cf9d85f341d8",
-      "title": "The Bear House Reaches 500 plus Points of Sale Across Markets",
-      "link": "https://in.apparelresources.com/business-news/retail/bear-house-reaches-500-plus-points-sale-across-markets/",
-      "summary": "Menswear brand The Bear House has expanded its retail presence to more than 500 points of sale across India and international markets. The brand&#8217;s network includes 25 exclusive brand outlets, comprising 23 stores in India and two in the UAE, along with a presence across large-format retail chains and multi-brand ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Bear House Reaches 500 plus Points of Sale Across Markets...",
-      "score": 3,
-      "published": "2026-07-18T07:58:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0709bb586061",
       "title": "Out of Hundreds of Brands, Our Editors Agree That These Are the Very Best Names in Summer Dresses",
       "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-summer-dress-brands-2026",
@@ -1339,20 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0d9565acb676",
-      "title": "I Tested the Best Epilators for Legs—These Deliver Weeks of Smooth Skin",
-      "link": "https://www.vogue.com/article/epilators-for-legs",
-      "summary": "One of the biggest advantages of an epilator for legs is that it removes hair from the root, so results last significantly longer than shaving. These are the ones to know.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Tested the Best Epilators for Legs—These Deliver Weeks of Smooth Ski...",
-      "score": 0,
-      "published": "2026-07-17T20:16:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "eb422fa76e83",
       "title": "If Only This Odyssey ’s Women Were As Complex As Its Men",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a71934485/the-odyssey-penelope-review/",
@@ -1423,20 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "49da57cc9b19",
-      "title": "Reverse Hair Washing Can Boost Volume—Here’s How",
-      "link": "https://www.vogue.com/article/reverse-hair-washing",
-      "summary": "Thin or easily weighed-down hair?Experts say reverse hair washing (read: conditioner first, shampoo after) could be the secret to cleansing without sacrificing volume.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Reverse Hair Washing Can Boost Volume—Here’s How...",
-      "score": 0,
-      "published": "2026-07-17T17:56:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0cc9ac5a212d",
       "title": "Simone Ashley and Laufey Showed Off Their Game-Day Style at the World Cup",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a72741269/simone-ashley-laufey-show-fifa-world-cup-style-photos/",
@@ -1462,20 +1518,6 @@
       "angle": "Fashion Intelligence: Gracie Abrams Steps Into a Mature Style Streak as She Releases Her Thi...",
       "score": 1,
       "published": "2026-07-17T17:46:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0814e3177707",
-      "title": "How to Wear Your Wedding and Engagement Ring With Style",
-      "link": "https://www.vogue.com/article/how-to-wear-your-wedding-and-engagement-ring",
-      "summary": "How do you wear my engagement ring and wedding band? Which goes on first? Do I have to wear both? Here, find all the answers.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Wear Your Wedding and Engagement Ring With Style — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-17T17:30:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2078,34 +2120,6 @@
       "angle": "Fashion Intelligence: 8 Best Paco Rabanne Colognes For Men – Easy Luxury for 2026...",
       "score": 2,
       "published": "2026-07-16T08:27:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e3c8cd2cde46",
-      "title": "7 Best Walking Sandals For Men: Ubiquitous Comfort in 2026",
-      "link": "https://www.fashionbeans.com/article/best-walking-sandals-for-men/",
-      "summary": "The best walking sandals for men are some of the most versatile shoes you can own. But hunting down a prime pair can be a headache if you don’t know what to look for. As someone who prefers to walk in sandals over any other footwear, I’ve tried and tested dozens of options to find &#8230; Continue reading 7 Best Walkin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best Walking Sandals For Men: Ubiquitous Comfort in 2026...",
-      "score": 1,
-      "published": "2026-07-16T08:03:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "329448b2471d",
-      "title": "8 Most Comfortable Loafers for Men – Relaxing Style For 2026",
-      "link": "https://www.fashionbeans.com/article/most-comfortable-loafers-for-men/",
-      "summary": "The OG lounging shoe, the loafer is an integral part of any successful footwear collection. Smarter than a slipper yet equally as kind to your trotters, it’s the perfect choice for office days, date nights, weddings, and more. But with so many brands offering up their own version, finding the perfect pair can be easier",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: 8 Most Comfortable Loafers for Men – Relaxing Style For 2026...",
-      "score": 5,
-      "published": "2026-07-16T06:48:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "lottery result today",
+      "term": "కియారా అద్వానీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सोना चांदी भाव",
+      "term": "योगेंद्र यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tynan thompson",
+      "term": "ubi so exam notification 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಬಳ್ಳಾರಿ",
+      "term": "mtar tech lower circuit trading",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हुमा कुरैशी",
+      "term": "ఉద్యోగి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sensex index",
+      "term": "భారీ వర్షం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sensex moneycontrol",
+      "term": "akshaye khanna",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "arshad warsi",
+      "term": "fb",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பழனி",
+      "term": "shabana azmi neet protest",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "પેન્શન",
+      "term": "மின் தடை",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
