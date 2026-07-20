@@ -1,18 +1,74 @@
 {
-  "generated_at": "2026-07-20T05:37:14.730340+00:00",
+  "generated_at": "2026-07-20T07:58:49.456029+00:00",
   "owned_count": 10,
-  "competitor_count": 14,
-  "industry_count": 191,
+  "competitor_count": 18,
+  "industry_count": 188,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
+      "id": "566c33ae7a85",
+      "title": "Video: Drought-hit Andhra villagers hold frog wedding to pray for rain",
+      "link": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-pradesh-anantapur-drought-heatwave-borampalli-frog-wedding-rain-prayer-2951793-2026-07-20?utm_source=rss",
+      "summary": "Video: Drought-hit Andhra villagers hold frog wedding to pray for rain",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Video — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-07-20T07:30:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9e6906030f10",
+      "title": "The New Arrivals Fashion Editors Are QuietlyAdding to Cart Before They Sell Out",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-july-fashion-new-arrivals-2026",
+      "summary": "Shop the list inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The New Arrivals Fashion Editors Are QuietlyAdding to Cart Before They...",
+      "score": 1,
+      "published": "2026-07-20T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e6a59557e26b",
+      "title": "AO Colour Report: Dopamine Dressing Meets Colour Blocking",
+      "link": "https://in.apparelresources.com/fashion-news/trends/ao-colour-report-dopamine-dressing-meets-colour-blocking/",
+      "summary": "On the Spring Summer 2026 runways, colour returned not as an accent, but as the central narrative &#8211; assertive, highly saturated, and deliberately unapologetic. What has come to be widely termed dopamine dressing signals a decisive shift away from the subdued palettes that have dominated recent seasons, replacing ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: AO Colour Report: Dopamine Dressing Meets Colour Blocking...",
+      "score": 3,
+      "published": "2026-07-20T06:51:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc63ac0e7305",
+      "title": "It's Official—Zara, Mango and COS Just Dropped the Most Elegant Collections of the Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-cos-mango-summer-2026-edit",
+      "summary": "These pieces are selling fast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-20T05:50:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "dba58a5622d0",
-      "title": "Skyroot launch led by 28-year-olds, not some young 56-year-old: PM's sharp attack",
+      "title": "28-year-olds led Skyroot launch, not young 56-year-old: PM's dig at Rahul Gandhi",
       "link": "https://www.indiatoday.in/india/story/startup-of-28-year-olds-not-some-56-year-old-pm-modis-dig-as-he-celebrates-skyroots-rocket-launch-2951729-2026-07-20?utm_source=rss",
-      "summary": "Skyroot launch led by 28-year-olds, not some young 56-year-old: PM's sharp attack",
+      "summary": "28-year-olds led Skyroot launch, not young 56-year-old: PM's dig at Rahul Gandhi",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
@@ -51,20 +107,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "59fb38ca2dff",
-      "title": "Paper leaks, Ram Temple row: Govt, Opposition ready for Monsoon session showdown",
-      "link": "https://www.indiatoday.in/india/story/monsoon-session-parliament-opposition-attack-nda-sonam-wangchuk-protest-neet-paper-leak-delimitation-2951645-2026-07-20?utm_source=rss",
-      "summary": "Paper leaks, Ram Temple row: Govt, Opposition ready for Monsoon session showdown",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Paper leaks, Ram Temple row: Govt, Opposition ready for Monsoon sessio...",
-      "score": 1,
-      "published": "2026-07-20T02:31:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e32309ec58f8",
       "title": "Just a Heads Up—The \"Dated\" Skirt Trend Every Millennial Once Owned Might Be Getting Cool Again",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/denim-midi-skirt-trend-karlie-kloss",
@@ -90,20 +132,6 @@
       "angle": "Fashion Intelligence: Shakira Shined During the Global World Cup Halftime Medley...",
       "score": 1,
       "published": "2026-07-19T22:44:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f87b63177940",
-      "title": "Passenger arrested after viral video shows mobile thief kicked off moving train",
-      "link": "https://www.indiatoday.in/india/story/azad-hind-express-viral-video-passenger-arrested-for-kicking-mobile-thief-off-moving-train-2951623-2026-07-20?utm_source=rss",
-      "summary": "Passenger arrested after viral video shows mobile thief kicked off moving train",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Passenger arrested after viral video shows mobile thief kicked off mov...",
-      "score": 1,
-      "published": "2026-07-19T22:08:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -345,6 +373,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7322c715f40c",
+      "title": "10 Best White Sneakers for Men of Every Budget in 2026",
+      "link": "https://www.fashionbeans.com/article/best-white-sneakers-for-men/",
+      "summary": "Trends come and go. But white sneakers? They’re forever. Having remained a constant figure in a guy’s rotation for as long as I can remember, the best white sneakers for men are an indispensable part of any well-rounded wardrobe. And for good reason. Easy to style, versatile, and as comfortable as they come, the clean-",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 10 Best White Sneakers for Men of Every Budget in 2026...",
+      "score": 2,
+      "published": "2026-07-19T10:18:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "16b3ed624ec2",
+      "title": "What to Wear With Jeans – Denim Color Guide",
+      "link": "https://www.fashionbeans.com/article/what-to-wear-with-denim/",
+      "summary": "Denim: so easy to put on, and yet, so easy to get wrong. Unlike corduroy and velvet, which appear difficult (and indeed are), denim seems simple enough on the surface, but can be perilous to a man’s sartorial reputation. Take poor Justin Timberlake, for example, who still hasn’t lived down that double denim disaster so",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear With Jeans – Denim Color Guide...",
+      "score": 1,
+      "published": "2026-07-19T10:12:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "436c49d7e4d0",
       "title": "13 Vogue Staffers Share the Travel Essentials They Never Take Off Without",
       "link": "https://www.vogue.com/article/vogue-editors-travel-essentials",
@@ -387,6 +443,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "085d0a0ee3d3",
+      "title": "10 Best Sneakers to Wear With A Suit – Men’s Guide For 2026",
+      "link": "https://www.fashionbeans.com/article/best-sneakers-to-wear-with-a-suit/",
+      "summary": "Suits are an excellent piece in any man’s wardrobe but your choice of footwear might be holding you back from throwing one on more often. So in an era where the corporate world has adopted &#8216;business-casual&#8217; as the new status quo, and elusive Silicon Valley tech moguls are constantly reinventing boardroom at",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 10 Best Sneakers to Wear With A Suit – Men’s Guide For 2026...",
+      "score": 1,
+      "published": "2026-07-19T08:24:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ddf1358c5121",
       "title": "5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own",
       "link": "https://www.whowhatwear.com/fashion/summer/elevated-accessory-trends-summer-2026",
@@ -412,6 +482,20 @@
       "angle": "Bridal Edit: Charli XCX and George Daniel Prove Wedding Guest Dressing Doesn’t Have To Compromise Personal Style — A Complete Style Guide",
       "score": 3,
       "published": "2026-07-19T07:25:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f0fd959a77b7",
+      "title": "I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Internet",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-celebrity-summer-outfit-ideas-2026",
+      "summary": "Look like a cool girl all season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Intern...",
+      "score": 2,
+      "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -457,16 +541,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0fd959a77b7",
-      "title": "I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Internet",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-celebrity-summer-outfit-ideas-2026",
-      "summary": "Look like a cool girl all season.",
+      "id": "0c946157c519",
+      "title": "Move Over, Bermudas! Here Are 5 Ways to Wear The Shorts Trend Fashion People Are in Love With This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/balloon-shorts-outfits-summer-2026",
+      "summary": "All the inspo you need.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Re-Created 6 It-Girl Summer Outfits With Items I Found on the Intern...",
-      "score": 2,
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -509,20 +593,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actu...",
       "score": 1,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c946157c519",
-      "title": "Move Over, Bermudas! Here Are 5 Ways to Wear The Shorts Trend Fashion People Are in Love With This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/balloon-shorts-outfits-summer-2026",
-      "summary": "All the inspo you need.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -961,6 +1031,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5665adb0b279",
+      "title": "I Know These Will Be the First Fashion and Beauty Finds to Sell Out at the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-2026-editor-most-loved-deals",
+      "summary": "From Barbour and Tom Ford to Clinique and Byredo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know These Will Be the First Fashion and Beauty Finds to Sell Out at...",
+      "score": 2,
+      "published": "2026-07-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "84c22869d24a",
       "title": "I Just Got Back From Greece—These Are the Fashion Trends I Wore Everywhere",
       "link": "https://www.whowhatwear.com/fashion/vacation/greece-fashion-insider-shopping-2026",
@@ -1012,20 +1096,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rich Looking and Lavish—6 Nordstrom Outfit Ideas I Styled for Under $4...",
-      "score": 2,
-      "published": "2026-07-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5665adb0b279",
-      "title": "I Know These Will Be the First Fashion and Beauty Finds to Sell Out at the Nordstrom Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-2026-editor-most-loved-deals",
-      "summary": "From Barbour and Tom Ford to Clinique and Byredo.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know These Will Be the First Fashion and Beauty Finds to Sell Out at...",
       "score": 2,
       "published": "2026-07-18T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1084,20 +1154,6 @@
       "angle": "Fashion Intelligence: Tracee Ellis Ross Was Born to Do ‘Every Brilliant Thing’...",
       "score": 0,
       "published": "2026-07-17T21:40:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "46c55726d103",
-      "title": "FYI: The Summer Shirt Trend Fashion People Wear With Sneakers Is Also Perfect for Fall",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/baseball-shirt-trend-suki-waterhouse",
-      "summary": "Catch on to the trend if you haven't yet.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-17T21:29:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1168,20 +1224,6 @@
       "angle": "Fashion Intelligence: I Tested the Best Epilators for Legs—These Deliver Weeks of Smooth Ski...",
       "score": 0,
       "published": "2026-07-17T20:16:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1c6312f87908",
-      "title": "There Are So Many Cool Pieces at FP Right Now—These Dresses, Sets, Tops, and Accessories Are the Best",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-free-people-clothing-july-2026",
-      "summary": "Shop the July new arrivals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: There Are So Many Cool Pieces at FP Right Now—These Dresses, Sets, Top...",
-      "score": 1,
-      "published": "2026-07-17T20:13:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1406,20 +1448,6 @@
       "angle": "Fashion Intelligence: Gracie Abrams Swaps One Hot Hair Accessory for Another: The Puffy Head...",
       "score": 1,
       "published": "2026-07-17T16:12:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5aef851d8842",
-      "title": "Adidas Is Behind Every Major Sneaker Trend Right Now—These are the 10 Styles Fashion People Want",
-      "link": "https://www.whowhatwear.com/fashion/shopping/summer-sneaker-trends-adidas",
-      "summary": "Perfect for a summer-to-fall transition wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-17T16:09:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2123,62 +2151,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f8b5ca4b61dd",
-      "title": "20 Best Undercut Hairstyles For Men – Top Haircuts in 2026",
-      "link": "https://www.fashionbeans.com/article/undercut-hairstyles-for-men/",
-      "summary": "Blending the styles of the past with a modern sensibility, the undercut has taken men&#8217;s fashion by storm. From Brad Pitt to David Beckham, the most influential style-setters have chosen the undercut to stand out on red carpets worldwide. This simple throwback style has re-cemented its place as one of the most ico",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 20 Best Undercut Hairstyles For Men – Top Haircuts in 2026...",
-      "score": 2,
-      "published": "2026-07-15T10:21:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f2bfb41d11ea",
-      "title": "Alex Turner’s Best Hairstyles",
-      "link": "https://www.fashionbeans.com/article/alex-turners-best-hairstyles-and-how-to-get-the-look/",
-      "summary": "As the crowds shuffled along the security queue at Ibiza airport, not one person noticed that the band standing next to them had played a raucous, sold-out gig at Ibiza Rocks just the night before. A scene witnessed in 2007, the band was Arctic Monkeys, and they were still riding high on the success of Whatever &#8230;",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Alex Turner’s Best Hairstyles...",
-      "score": 1,
-      "published": "2026-07-15T10:10:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66c4234276e1",
-      "title": "Smart Casual Dress Code For Men: Attire and Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/mens-smart-casual-dress-guide/",
-      "summary": "Trying to find the true meaning of the phrase smart casual can quickly turn into a nightmare. The Oxford Dictionary defines it as “neat, conventional, yet relatively informal in style, especially as worn to conform to a particular dress code”. But these days it&#8217;s quite common for smart casual to be the dress code",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-15T10:02:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3e31a81ad018",
-      "title": "9 Classic Men’s Hairstyles – Timeless Haircuts in 2026",
-      "link": "https://www.fashionbeans.com/article/classic-mens-hairstyles/",
-      "summary": "Most people say it&#8217;s your footwear that is the first thing people fix their eyes on &#8211; but we&#8217;d argue, given it&#8217;s location on the body, it&#8217;s your hair. And, unlike a subpar pair of brogues or some battered white leather sneakers, you can&#8217;t easily slip out of a questionable hairstyle. ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Classic Men’s Hairstyles – Timeless Haircuts in 2026...",
-      "score": 2,
-      "published": "2026-07-15T09:00:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6134a0e177aa",
       "title": "Dakota Johnson & Alexander Skarsgård Heat Up Valentino Vendetta",
       "link": "https://www.fashiongonerogue.com/story/dakota-johnson-valentino-vendetta/",
@@ -2302,20 +2274,6 @@
       "angle": "Fashion Intelligence: Bata India Plans 3,000 Store Network Across India...",
       "score": 1,
       "published": "2026-07-13T11:55:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "58af9744f2c5",
-      "title": "Rajasthan Launches State-Level Textile Cell to Strengthen Exports",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/rajasthan-launches-state-level-textile-cell-strengthen-exports/",
-      "summary": "The Rajasthan government has set up a state-level dedicated textile cell to strengthen its textile industry and boost exports, with the state aiming to increase textile and apparel exports from the current Rs 13,500 crore by three to four times. The initiative is part of the implementation of the Rajasthan Textile and ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-13T10:25:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2795,6 +2753,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "dc0d74da955e",
+      "title": "Designer Kurtas for Wedding Functions Crafted for Moments That Matter",
+      "link": "https://www.torani.in/blogs/news/designer-kurtas-for-wedding-functions-crafted-for-moments-that-matter",
+      "summary": "Wedding functions have a rhythm to them. The mehendi that starts everything off, the sangeet that stretches into the early hours, the main ceremony that feels over before you've had a chance to take it all in. Each one has its own mood, colour, and energy. And the outfit you wear to each one becomes part of how you rem",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Designer Kurtas for Wedding Functions Crafted for Moments That Matter — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-06-27T05:17:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2b1cc38cd1f6",
+      "title": "Designer Sherwani for Groom Designed for Timeless Wedding Celebrations",
+      "link": "https://www.torani.in/blogs/news/designer-sherwani-for-groom-designed-for-timeless-wedding-celebrations",
+      "summary": "For most grooms, the wedding day is a collection of moments that have lived in the imagination long before they actually arrive. The baraat, the first look, the slow walk to the mandap, the photographs that try to hold all of it at once. Through every one of those moments, through every ritual and every celebration tha",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Designer Spotlight",
+      "angle": "Bridal Edit: Designer Sherwani for Groom Designed for Timeless Wedding Celebrations — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-06-27T05:13:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6a60c850c17f",
       "title": "How to Choose Bridal Wear That Reflects Your Personal Style",
       "link": "https://blog.kalkifashion.com/choose-bridal-wear-that-feels-uniquely-you/",
@@ -2876,6 +2862,34 @@
       "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
       "score": 3,
       "published": "2026-06-15T13:38:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f439ff9e1b23",
+      "title": "Heirlooms in the Making: Why Timeless Couture Matters More Than Trends",
+      "link": "https://www.torani.in/blogs/news/heirlooms-in-the-making-why-timeless-couture-matters-more-than-trends",
+      "summary": "Some garments are worn for a season. Others are remembered for generations. In Indian homes, clothing has always carried a life far beyond the occasion it was created for. Long after celebrations end and music fades into memory, certain pieces continue to remain — folded carefully inside old trunks, wrapped delicately ",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-05-29T14:09:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "941624218963",
+      "title": "The Colours We Carry: Emotions Behind Indian Festive Dressing",
+      "link": "https://www.torani.in/blogs/news/the-colours-we-carry-emotions-behind-indian-festive-dressing",
+      "summary": "Some colours are seen. Others are remembered. In India, colour has never simply belonged to fabric. It belongs to emotion. To rituals repeated across generations. To celebrations that begin long before the first guest arrives. To memories stitched quietly into the folds of garments we continue to preserve long after th",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 2,
+      "published": "2026-05-25T14:01:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +3035,52 @@
   ],
   "trends": [
     {
-      "term": "sir form online",
+      "term": "abbas araghchi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கிலியான் எம்பாப்பே",
+      "term": "amarnath yatra",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "supreme court",
+      "term": "cancer horoscope today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "idbi net banking",
+      "term": "google pixel 11a",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ayushman card",
+      "term": "lok sabha live",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "punjab national bank",
+      "term": "travel visa",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eenadu news",
+      "term": "jio recharge",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ap eamcet 2026",
+      "term": "বৃষ্টি",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "idbi",
+      "term": "sridevi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata power share",
+      "term": "भविष्य",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
