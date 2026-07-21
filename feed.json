@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:32:58.456014+00:00",
+  "generated_at": "2026-07-21T10:25:41.829106+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 186,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Keisukeyoshida Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-07-21T07:28:46+00:00",
+      "published": "2026-07-21T10:21:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Elisabetta Franchi Resort 2027...",
       "score": 0,
-      "published": "2026-07-21T07:28:46+00:00",
+      "published": "2026-07-21T10:21:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,133 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fetico Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-07-21T07:28:46+00:00",
+      "published": "2026-07-21T10:21:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "35a509745cd0",
+      "title": "Jane Birkin’s Favourite ’60s Dress Will Be Everywhere This Summer",
+      "link": "https://www.vogue.com/article/1960s-jane-birkin-dress-trend",
+      "summary": "The so-called Jane Birkin dress is the ultimate one-and-done summer piece. Here, Vogue edits the best styles to shop now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Jane Birkin’s Favourite ’60s Dress Will Be Everywhere This Summer...",
+      "score": 2,
+      "published": "2026-07-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b51810927a6d",
+      "title": "How to Style the Polka-Dot Dress for Summer, Inspired by Celebrities",
+      "link": "https://www.vogue.com/article/polka-dot-dress-outfits-celebrities",
+      "summary": "Celebrities are bringing back the polka-dot dress for summer. Here are seven modern ways, inspired by their looks, to style it out yourself.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Style the Polka-Dot Dress for Summer, Inspired by Celebrities...",
+      "score": 2,
+      "published": "2026-07-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "830cf5ac9a14",
+      "title": "Phase Out the Linen Dresses—By Fall, Everyone Will Be Swapping Them For This Elegant Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/taffeta-satin-dress-trend-monica-barbaro",
+      "summary": "Might as well start shopping for this pretty trend now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-21T09:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f41cbf54f6ee",
+      "title": "The New Rules of Apparel Sourcing in India",
+      "link": "https://in.apparelresources.com/business-news/sourcing/new-rules-apparel-sourcing-india/",
+      "summary": "India’s fashion boom is rewriting the rules of apparel sourcing. Since 2019, more than 800 homegrown digital-first brands have launched, and global players are scaling up alongside them to meet a consumer base across Indian cities that is asking for better design, better quality and sharper pricing all at once. Online ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The New Rules of Apparel Sourcing in India...",
+      "score": 3,
+      "published": "2026-07-21T09:30:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a7aca3467d13",
+      "title": "The New Rules of Apparel Sourcing in India",
+      "link": "https://in.apparelresources.com/business-news/sourcing/new-rules-apparel-sourcing-india-2/",
+      "summary": "India’s fashion boom is rewriting the rules of apparel sourcing. Since 2019, more than 800 homegrown digital-first brands have launched, and global players are scaling up alongside them to meet a consumer base across Indian cities that is asking for better design, better quality and sharper pricing all at once. Online ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The New Rules of Apparel Sourcing in India...",
+      "score": 3,
+      "published": "2026-07-21T09:30:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-07-21T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1ef10233392",
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
+      "score": 0,
+      "published": "2026-07-21T08:47:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5fd1e42f2fb0",
+      "title": "How Brands Can Create Meaning in the Age of AI",
+      "link": "https://www.vogue.com/article/how-brands-can-create-meaning-in-the-age-of-ai",
+      "summary": "As AI commoditizes image-making, successful brands understand that meaning has to be earned and has become luxury’s scarcest asset.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Brands Can Create Meaning in the Age of AI...",
+      "score": 2,
+      "published": "2026-07-21T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "22b395b64d6d",
+      "title": "I Have First-Class Taste on an Economy Budget—These Are the Rich-Looking Airport Outfits I Swear by",
+      "link": "https://www.whowhatwear.com/fashion/airport-style/rich-looking-airport-outfit-ideas-2026",
+      "summary": "Upgraded, in more ways than one.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-21T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -188,6 +314,20 @@
       "angle": "Fashion Intelligence: Anaïs Mali Takes a Dip in Harper’s Bazaar Greece...",
       "score": 1,
       "published": "2026-07-21T02:11:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fca65b0089cf",
+      "title": "From Attention to Intention: Inside the Vogue Business x Pinterest Cannes Brunch",
+      "link": "https://www.vogue.com/article/from-attention-to-intention-inside-the-vogue-business-x-pinterest-cannes-brunch",
+      "summary": "Less URL, more IRL. Brands are changing their strategies to account for more time spent offline.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Attention to Intention: Inside the Vogue Business x Pinterest Can...",
+      "score": 1,
+      "published": "2026-07-21T01:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -723,6 +863,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0708affb9255",
+      "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
+      "summary": "It’s not hard to remember a time when wide-leg trousers were considered one of those beyond-the-pale pieces that fashion designers periodically tried to foist on sceptical menfolk, perhaps out of boredom, or “for banter”. Sure, wide-leg trousers made an impact on the runway. Okay, so they created a striking silhouette.",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
+      "score": 4,
+      "published": "2026-07-20T11:03:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "bf7a0d3ed768",
       "title": "Trends in Focus: The Fall Winter 2026 Print, Pattern and Colour Playbook",
       "link": "https://in.apparelresources.com/fashion-news/trends/trends-in-focus-the-fall-winter-2026-print-pattern-and-colour-playbook/",
@@ -748,6 +902,20 @@
       "angle": "Fashion Intelligence: The Best Work Boots for Men That You Can Buy In 2026...",
       "score": 2,
       "published": "2026-07-20T10:40:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a5f9dbb256ed",
+      "title": "15 Best Minimalist Watches For Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-minimalist-watches/",
+      "summary": "The best minimalist watches are a key accessory for any guy who prefers a pared-back existence. Understated, classy, and super easy to wear, they strip back all the unnecessary components and leave you with a fuss-free timepiece that’ll look just as good now as it will in many years to come. In order to find &#8230; Co",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Best Minimalist Watches For Men in 2026...",
+      "score": 2,
+      "published": "2026-07-20T10:38:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -793,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4a0495989d9a",
-      "title": "52 Summer Hosting Essentials for Your Next Gathering, According to Vogue Editors",
-      "link": "https://www.vogue.com/article/summer-hosting-editor-picks",
-      "summary": "It’s summer entertaining season—so we polled our editors for their favorite warm-weather hosting staples. From patterned linens to kitschy servingware, here's what's on the menu.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 52 Summer Hosting Essentials for Your Next Gathering, According to Vog...",
-      "score": 1,
-      "published": "2026-07-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8b44d06c1f42",
       "title": "9 Vogue-Approved Ways on How to Style Activewear",
       "link": "https://www.vogue.com/article/activewear-outfit-ideas",
@@ -821,15 +975,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "82f91f311b50",
-      "title": "‘The Odyssey’ Costumes Discard the Sword-and-Sandals Playbook",
-      "link": "https://www.vogue.com/article/the-odyssey-costumes-ellen-mirojnick-christopher-nolan",
-      "summary": "“We were not after a historical period,” says costume designer Ellen Mirojnick. “We were after a timeless period.”",
+      "id": "4a0495989d9a",
+      "title": "52 Summer Hosting Essentials for Your Next Gathering, According to Vogue Editors",
+      "link": "https://www.vogue.com/article/summer-hosting-editor-picks",
+      "summary": "It’s summer entertaining season—so we polled our editors for their favorite warm-weather hosting staples. From patterned linens to kitschy servingware, here's what's on the menu.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: ‘The Odyssey’ Costumes Discard the Sword-and-Sandals Playbook...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 52 Summer Hosting Essentials for Your Next Gathering, According to Vog...",
       "score": 1,
       "published": "2026-07-20T10:00:00+00:00",
       "discovered_via": "feed"
@@ -877,17 +1031,45 @@
       "discovered_via": "feed"
     },
     {
-      "id": "56aee9e83aeb",
-      "title": "London Fashion Week Unveils the Spring/Summer 2027 Schedule",
-      "link": "https://www.vogue.com/article/london-fashion-week-unveils-the-spring-summer-2027-schedule",
-      "summary": "Now well into her strategic reset, British Fashion Council CEO Laura Weir airs an ambitious schedule, with McQueen back on home turf and Christopher Kane steering the Mulberry mothership.",
-      "source": "Vogue US",
+      "id": "4708032df4fa",
+      "title": "Seersucker: What It Is, Why You Need It & How To Wear It",
+      "link": "https://www.fashionbeans.com/article/seersucker-guide-for-men/",
+      "summary": "The warmer months are fast approaching and this means two things: summer Fridays, of course, and summer wardrobes. The latter is somewhat trickier to navigate. Ever since business casual became a thing, men have been under pressure to look not just smart but relaxed-smart &#8211; and during the warmer months that&#8217",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Seersucker: What It Is, Why You Need It & How To Wear It...",
+      "score": 1,
+      "published": "2026-07-20T09:41:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a3ea33ff5eb1",
+      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
+      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
+      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: London Fashion Week Unveils the Spring/Summer 2027 Schedule...",
+      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
+      "score": 2,
+      "published": "2026-07-20T09:00:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a2e7fd28277",
+      "title": "6 Best Chino Colors: Must Have Versatile Styles 2026",
+      "link": "https://www.fashionbeans.com/article/chino-colours-every-man-should-own/",
+      "summary": "Chinos. Hardly the life and soul of a man’s wardrobe, but integral nonetheless. But then, isn’t it precisely the former military staple’s inherent boringness that makes them so great anyway? Sure, a pair of slashed-knee skinny jeans may give a little more edge to your image and let everyone know in no uncertain terms t",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
       "score": 1,
-      "published": "2026-07-20T09:00:00+00:00",
+      "published": "2026-07-20T09:00:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -905,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e6a59557e26b",
-      "title": "AO Colour Report: Dopamine Dressing Meets Colour Blocking",
-      "link": "https://in.apparelresources.com/fashion-news/trends/ao-colour-report-dopamine-dressing-meets-colour-blocking/",
-      "summary": "On the Spring Summer 2026 runways, colour returned not as an accent, but as the central narrative &#8211; assertive, highly saturated, and deliberately unapologetic. What has come to be widely termed dopamine dressing signals a decisive shift away from the subdued palettes that have dominated recent seasons, replacing ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: AO Colour Report: Dopamine Dressing Meets Colour Blocking...",
-      "score": 3,
-      "published": "2026-07-20T06:51:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bc63ac0e7305",
       "title": "It's Official—Zara, Mango and COS Just Dropped the Most Elegant Collections of the Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/zara-cos-mango-summer-2026-edit",
@@ -933,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "99554c9d4e71",
-      "title": "Should Brands Bet on Luxury Eyewear?",
-      "link": "https://www.vogue.com/article/should-brands-bet-on-luxury-eyewear",
-      "summary": "While growth in much of the luxury market has disappointed, eyewear is a promising outlier. The competition is fierce, but the rewards can be outsized.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Should Brands Bet on Luxury Eyewear?...",
-      "score": 3,
-      "published": "2026-07-20T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "757c5a3f158d",
       "title": "These Brushed-Out Curls Are the Glam Hair Trend Taking Over Summer",
       "link": "https://www.whowhatwear.com/beauty/hair/brushed-out-curls-hair-trend",
@@ -958,6 +1112,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-07-20T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4443d700394f",
+      "title": "16 Best Digital Watches for Men 2026",
+      "link": "https://www.fashionbeans.com/article/best-digital-watches-for-men/",
+      "summary": "Before smartwatches took the spotlight, there was another type of techie timepiece wrapped proudly around the wrist of the world’s fashion-forward men. Featuring stylish silhouettes and technical dials, digital watches were the modern alternative to the analog designs next-gen wearers were growing tired of. However, wh",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 16 Best Digital Watches for Men 2026...",
+      "score": 2,
+      "published": "2026-07-20T01:16:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1003,34 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "96b8f586738c",
-      "title": "Bey and Jay! Timothée and Kylie! The Celebrities Cheering on the 2026 World Cup Final",
-      "link": "https://www.vogue.com/slideshow/2026-world-cup-final-spain-argentina-celebrities",
-      "summary": "The 2026 World Cup final match between Argentina and Spain was as star-studded as it was tense.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Bey and Jay! Timothée and Kylie! The Celebrities Cheering on the 2026 ...",
-      "score": 0,
-      "published": "2026-07-19T21:32:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "128380063836",
-      "title": "The Best Parts of the 2026 FIFA World Cup Final That Had Nothing to Do With the Match",
-      "link": "https://www.vogue.com/article/the-best-parts-of-the-2026-fifa-world-cup-final-that-had-nothing-to-do-with-the-match",
-      "summary": "The action wasn’t limited to the match: Sunday afternoon at MetLife Stadium was also full of musical acts and A-list appearances.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Parts of the 2026 FIFA World Cup Final That Had Nothing to Do...",
-      "score": 0,
-      "published": "2026-07-19T21:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "133b3ce1bc2f",
       "title": "Madonna Headlines the FIFA World Cup Halftime Show in a Sporty Take on Her Classic Style",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73179937/madonna-fifa-world-cup-halftime-show-photos/",
@@ -1042,20 +1182,6 @@
       "angle": "Fashion Intelligence: Madonna Headlines the FIFA World Cup Halftime Show in a Sporty Take on...",
       "score": 2,
       "published": "2026-07-19T20:44:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "459abe0ee672",
-      "title": "Justin Bieber Serenaded the Crowd in His Own Designs at the 2026 FIFA World Cup",
-      "link": "https://www.vogue.com/article/justin-bieber-world-cup-finale-performance",
-      "summary": "The Canadian pop star performed a crooning rendition of his song “Everything Hallelujah” during the World Cup’s inaugural halftime show.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Justin Bieber Serenaded the Crowd in His Own Designs at the 2026 FIFA ...",
-      "score": 1,
-      "published": "2026-07-19T20:39:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1269,6 +1395,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4a6e2479e809",
+      "title": "I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I Understand the Hype",
+      "link": "https://www.whowhatwear.com/fashion/dresses/marks-and-spencer-polka-dot-slip-dress",
+      "summary": "Well worth it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I...",
+      "score": 1,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d075a3248d91",
+      "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
+      "summary": "The chicest alt.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "dae0f4930b3c",
       "title": "This Fashion Editor–Loved Brand Is Majorly Discounted During the Nordstrom Anniversary Sale—Here's Every Chic Item I'm Buying",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-cos-fashion-nordstrom-anniversary-sale-2026",
@@ -1279,20 +1433,6 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: This Fashion Editor–Loved Brand Is Majorly Discounted During the Nords...",
       "score": 2,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cce5aa9fb628",
-      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
-      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
-      "summary": "Better outfits + more closet space = less impulse shopping.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
-      "score": 1,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1311,15 +1451,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4a6e2479e809",
-      "title": "I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I Understand the Hype",
-      "link": "https://www.whowhatwear.com/fashion/dresses/marks-and-spencer-polka-dot-slip-dress",
-      "summary": "Well worth it.",
+      "id": "cce5aa9fb628",
+      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
+      "summary": "Better outfits + more closet space = less impulse shopping.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I...",
+      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
       "score": 1,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1362,20 +1502,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d075a3248d91",
-      "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
-      "summary": "The chicest alt.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1574,48 +1700,6 @@
       "angle": "Fashion Intelligence: ICYMI: Olivier Rousteing Heads to Rabanne, Slate Swim Acquired by Inde...",
       "score": 1,
       "published": "2026-07-18T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bd916655dec2",
-      "title": "If You Want Flip-Flops to Look Elegant, Forget Linen Trousers—Opt for This Pant Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flip-flops-jacquard-drawstring-pants-outfit-sofia-richie-grainge-2026",
-      "summary": "It, of course, has a drawstring waist.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-18T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0a7711b3b5da",
-      "title": "Myntra Expands AI Capabilities Across Customer, Seller Operations",
-      "link": "https://in.apparelresources.com/business-news/retail/myntra-expands-ai-capabilities-across-customer-seller-operations/",
-      "summary": "Fashion e-commerce platform Myntra has expanded its AI capabilities across customer experience, seller enablement and operational efficiency, enabling faster seller onboarding. Myntra has also strengthened its catalogue generation infrastructure, reducing turnaround time from one day to four hours. The platform now gen",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Myntra Expands AI Capabilities Across Customer, Seller Operations...",
-      "score": 1,
-      "published": "2026-07-18T10:57:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bbade10a66c6",
-      "title": "Looking Like a Fashion Person RN Is as Easy as Wearing These Two Chanel-Approved Colors Together",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/grass-green-and-azure-color-pairing-trend-gracie-abrams",
-      "summary": "Gracie Abrams got the memo loud and clear.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1994,90 +2078,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-07-17T09:33:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9163559cb43e",
-      "title": "The 16 Best Minimalist Trainer Brands",
-      "link": "https://www.fashionbeans.com/article/the-best-minimalist-trainer-brands/",
-      "summary": "Unless you&#8217;ve been living under a soundproof rock, you&#8217;ll have noticed that some of the most lustworthy trainers of late are bulky, acid-tinged objects that could be probably be seen from space. But whatever the latest trainer trends, there will always be room in the male wardrobe for a pair of minimalist s",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The 16 Best Minimalist Trainer Brands...",
-      "score": 2,
-      "published": "2026-07-17T09:00:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3ba7980eb71",
-      "title": "The Best Shirt and Tie Combinations – Color Combos Guide",
-      "link": "https://www.fashionbeans.com/article/mens-shirt-tie-combinations-guide/",
-      "summary": "The paradox of choice (also known as choice overload) is the phenomenon by which having too many options exhausts us, makes us unhappy, and generally leads us to make terrible decisions (if any decision at all). Nowhere is this more evident in the male wardrobe than when it comes to shirt and tie style combinations. &#",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Shirt and Tie Combinations – Color Combos Guide...",
-      "score": 1,
-      "published": "2026-07-17T08:56:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c845e67dd3ad",
-      "title": "5 Classic Ways To Wear A Short Back And Sides",
-      "link": "https://www.fashionbeans.com/article/best-mens-short-back-sides-hairstyles/",
-      "summary": "Staying well-groomed is not nearly as effortless as it should look. From mastering tie knots to keeping your toenails from sprouting their own toenails, the official list of requirements for looking good seems to grow longer by the day. You can make the task of looking constantly vaguely presentable easier with four si",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Classic Ways To Wear A Short Back And Sides...",
-      "score": 1,
-      "published": "2026-07-17T08:30:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ed592f32b06e",
-      "title": "What Shoes To Wear With Every Style Of Trousers",
-      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-trousers/",
-      "summary": "If you’re wondering why you don’t see more men wearing puffer jackets to the beach or putting sriracha sauce on their ice cream, the answer is simple. Some things simply should not and do not and go together. The same goes for shoes and trousers. Sure, you’re probably well aware that flip-flops aren’t the perfect &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What Shoes To Wear With Every Style Of Trousers...",
-      "score": 2,
-      "published": "2026-07-17T08:30:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "227926995c9e",
-      "title": "20 Best Hats for Men – Must Have’s For Any Taste in 2026",
-      "link": "https://www.fashionbeans.com/article/best-hats-for-men/",
-      "summary": "Every man has that one hat he reaches for no matter the occasion. If a certain hat came to your mind, we bet you’re guilty of practically having it glued to your head. When’s the last time you washed it, by the way? If you came across this article about the best hats for men &#8230; Continue reading 20 Best Hats for Me",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 20 Best Hats for Men – Must Have’s For Any Taste in 2026...",
-      "score": 1,
-      "published": "2026-07-17T08:00:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b982d60bd990",
-      "title": "30 Best Streetwear Brands: Our Top Picks In 2026",
-      "link": "https://www.fashionbeans.com/article/best-streetwear-brands/",
-      "summary": "The term &#8216;streetwear&#8216; once had a straightforward definition, referring to an unflattering style characterized by graphic T-shirts, baggy attire, and sneakers. However, defining the best streetwear brands in today&#8217;s fashion landscape has become more complex. This complexity arises as streetwear has tra",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 30 Best Streetwear Brands: Our Top Picks In 2026...",
-      "score": 4,
-      "published": "2026-07-17T06:00:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2879,6 +2879,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "62c745cd3507",
+      "title": "Light Song: Inside Gaurav Gupta’s Cosmic Couture Love Letter to the Sun and the Moon",
+      "link": "https://www.azafashions.com/blog/gaurav-gupta-light-song-couture-show/?utm_source=rss&utm_medium=rss&utm_campaign=gaurav-gupta-light-song-couture-show",
+      "summary": "There are fashion shows, and then there are the ones that make you forget you're sitting in a convention centre in Mumbai. Gaurav Gupta's second independent India couture outing, Light Song, staged at&#8230; The post Light Song: Inside Gaurav Gupta&#8217;s Cosmic Couture Love Letter to the Sun and the Moon appeared fir",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Light Song: Inside Gaurav Gupta’s Cosmic Couture Love Letter to the Su...",
+      "score": 3,
+      "published": "2026-07-19T20:03:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "88922271fab6",
       "title": "Bridal Fashion That Thrives Through the Monsoon",
       "link": "https://www.azafashions.com/blog/monsoon-bridal-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=monsoon-bridal-fashion",
@@ -2989,70 +3003,56 @@
       "score": 6,
       "published": "2026-07-15T13:59:34+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "eddbeb75d0bd",
-      "title": "Raksha Bandhan Gifts That Last Long After the Festival",
-      "link": "https://www.azafashions.com/blog/araiya-raksha-bandhan-gifts/?utm_source=rss&utm_medium=rss&utm_campaign=araiya-raksha-bandhan-gifts",
-      "summary": "There's something about Raksha Bandhan that pulls you back. The clumsy knot of a rakhi tied around a wrist. The teasing that somehow always turned into the deepest loyalty. The&#8230; The post Raksha Bandhan Gifts That Last Long After the Festival appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Raksha Bandhan Gifts That Last Long After the Festival...",
-      "score": 0,
-      "published": "2026-07-15T12:54:53+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "কাজল",
+      "term": "parliament monsoon session 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಟಿಕೆಟ್",
+      "term": "royal london one-day cup",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जुलाई",
+      "term": "నరేంద్ర మోదీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "श्रीलंका क्रिकेट टीम",
+      "term": "ನರೇಂದ್ರ ಮೋದಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jana nayagan film",
+      "term": "హైడ్రోజన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കര്ക്കടകം",
+      "term": "wbjee 2026 seat allotment results",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "government of jammu and kashmir",
+      "term": "सरकार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "c. joseph vijay",
+      "term": "हरियाणा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi share bazar",
+      "term": "santy sharma bigg boss 20",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cm vijay chennai bio-cng plant",
+      "term": "google fitbit air india",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
