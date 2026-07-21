@@ -1248,6 +1248,14 @@ Return ONLY the JSON object. No markdown fences, no explanations.`;
       briefText = briefText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
     }
 
+    // Extract JSON if there's extra text before/after
+    briefText = briefText.trim();
+    let jsonStart = briefText.indexOf('{');
+    let jsonEnd = briefText.lastIndexOf('}');
+    if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+      briefText = briefText.substring(jsonStart, jsonEnd + 1);
+    }
+
     let brief;
     try {
       brief = JSON.parse(briefText);
