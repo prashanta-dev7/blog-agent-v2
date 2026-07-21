@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T05:19:15.661786+00:00",
+  "generated_at": "2026-07-21T07:32:58.456014+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 184,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Keisukeyoshida Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-07-21T05:16:00+00:00",
+      "published": "2026-07-21T07:28:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Elisabetta Franchi Resort 2027...",
       "score": 0,
-      "published": "2026-07-21T05:16:00+00:00",
+      "published": "2026-07-21T07:28:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,133 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fetico Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-07-21T05:16:00+00:00",
+      "published": "2026-07-21T07:28:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4bb2fbe53bfd",
+      "title": "French Pharmacy Skincare is Having a Glow Up Thanks to *These* Next-Level Brands",
+      "link": "https://www.whowhatwear.com/beauty/skin/regenerative-french-pharmacy-skincare",
+      "summary": "The summer boost your skin needs.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: French Pharmacy Skincare is Having a Glow Up Thanks to *These* Next-Le...",
+      "score": 1,
+      "published": "2026-07-21T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c93b81cc0211",
+      "title": "Yes, I'm Already Thinking About Fall—30 Transitional Items on My Current Watch List",
+      "link": "https://www.whowhatwear.com/fashion/luxury/summer-to-fall-transitional-luxury-shopping-2026",
+      "summary": "Everything you need to dress from summer to fall.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Yes, I'm Already Thinking About Fall—30 Transitional Items on My Curre...",
+      "score": 1,
+      "published": "2026-07-21T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d76f105ba52b",
+      "title": "Forget Polka Dots—This Is the Print Trend It Girls From London to L.A. Are Wearing",
+      "link": "https://www.whowhatwear.com/fashion/trends/colored-stripe-fashion-trend-summer-2026",
+      "summary": "Peak summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-21T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdf5221244ad",
+      "title": "Chic Jetsetters are Headed to Provence This Summer—7 Timeless Outfits They're Packing in Their Cases",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-do-people-wear-in-provence-summer-2026",
+      "summary": "Je t'aime.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Chic Jetsetters are Headed to Provence This Summer—7 Timeless Outfits ...",
+      "score": 1,
+      "published": "2026-07-21T06:55:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26efe0027ea2",
+      "title": "Creamy, Chic and Totally Timeless—This Is the Only Nail Trend I Care About This Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/butter-yellow-french-nail-trend",
+      "summary": "*Runs to the salon*",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-21T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c0bee5391c16",
+      "title": "Forget Loud Fragrances—These Are the Elegant Perfumes I Reach for Every Day",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/understated-perfumes",
+      "summary": "Think quiet luxury.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Forget Loud Fragrances—These Are the Elegant Perfumes I Reach for Ever...",
+      "score": 1,
+      "published": "2026-07-21T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "36d56b7347a9",
+      "title": "Mark My Words—This Timeless, Designer-Looking Bag Is Set to Be the First Cult Buy of Autumn 2026",
+      "link": "https://www.whowhatwear.com/fashion/handbags/polene-shuldo-bag",
+      "summary": "It looks so designer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Mark My Words—This Timeless, Designer-Looking Bag Is Set to Be the Fir...",
+      "score": 1,
+      "published": "2026-07-21T05:55:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e38cfefae70e",
+      "title": "AO Trend Watch: Romantic Detailing Evolves From Runway to Versatile Retail Trend",
+      "link": "https://in.apparelresources.com/fashion-news/trends/ao-trend-watch-romantic-detailing-evolves-runway-versatile-retail-trend/",
+      "summary": "Romantic detailing such as lace and ruffles are no longer used as peripheral embellishments for 2026. Instead, they emerge as a defining design language, reshaping the narrative around femininity with a renewed sense of intention. What was once considered decorative is now structural, with designers and high fashion br",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-07-21T05:51:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eb306a1260a6",
+      "title": "Too Hot for Jeans? These Are the Elegant Summer Alternatives Chic Dressers Are Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/summer/anti-jeans-summer-outfit-ideas-2026",
+      "summary": "From classic linen to trending capris.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-21T05:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -611,6 +737,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1416434d4924",
+      "title": "The Best Work Boots for Men That You Can Buy In 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-work-boots/",
+      "summary": "The best work boots for men are no longer reserved for weather-beaten railroad workers, with hands like sandpaper and a cigarette surgically attached to their bottom lip. For several seasons now, American-inspired utilitarian workwear clothing has made its way into modern closets. And with its ability to lay tracks som",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Work Boots for Men That You Can Buy In 2026...",
+      "score": 2,
+      "published": "2026-07-20T10:40:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e587cfac5d2",
+      "title": "8 Fragrances Worn By The World’s Most Stylish Men",
+      "link": "https://www.fashionbeans.com/article/celebrity-mens-fragrances/",
+      "summary": "Having already read the FashionBeans guides to dressing for your body shape, nailing smart-casual and picking the right tie to wear with your shirt — you have read them, right? — it’s likely you’ve already got your appearance pretty down pat. But it’ll all be for naught if you don’t smell good. “Manners and a &#8230; C",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Fragrances Worn By The World’s Most Stylish Men...",
+      "score": 3,
+      "published": "2026-07-20T10:19:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9399a788d997",
       "title": "Building Value With Denim in a More Disciplined Market",
       "link": "https://in.apparelresources.com/fashion-news/building-value-denim-disciplined-market/",
@@ -625,17 +779,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8b44d06c1f42",
-      "title": "9 Vogue-Approved Ways on How to Style Activewear",
-      "link": "https://www.vogue.com/article/activewear-outfit-ideas",
-      "summary": "From football jerseys to bike shorts and more, here are nine easy-to-recreate ideas on how to style activewear this summer.",
-      "source": "Vogue US",
+      "id": "496f09ea63a4",
+      "title": "7 Jacket, Shirt, and Tie Combos for Outerwear in 2026",
+      "link": "https://www.fashionbeans.com/article/jacket-shirt-tie-combinations/",
+      "summary": "Navigating dress codes can be a minefield. Take smart-casual, for example. Many men have devoted countless hours to decoding what on earth it could possibly mean, and in truth the jury’s still out. One solid trick to rely on is to start smart, and switch out one element for something laid-back – a roll-neck jumper &#82",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 9 Vogue-Approved Ways on How to Style Activewear...",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 7 Jacket, Shirt, and Tie Combos for Outerwear in 2026...",
       "score": 2,
-      "published": "2026-07-20T10:00:00+00:00",
+      "published": "2026-07-20T10:01:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -653,16 +807,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3063bf267258",
-      "title": "9 Celeb-Inspired Denim Outfits to Try",
-      "link": "https://www.vogue.com/article/celebrity-denim-outfits",
-      "summary": "From Gigi Hadid to Zendaya and Kaia Gerber, allow these celeb-approved denim outfits to inspire your next look.",
+      "id": "8b44d06c1f42",
+      "title": "9 Vogue-Approved Ways on How to Style Activewear",
+      "link": "https://www.vogue.com/article/activewear-outfit-ideas",
+      "summary": "From football jerseys to bike shorts and more, here are nine easy-to-recreate ideas on how to style activewear this summer.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Celeb-Inspired Denim Outfits to Try...",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 9 Vogue-Approved Ways on How to Style Activewear...",
+      "score": 2,
       "published": "2026-07-20T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -676,6 +830,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: ‘The Odyssey’ Costumes Discard the Sword-and-Sandals Playbook...",
+      "score": 1,
+      "published": "2026-07-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3063bf267258",
+      "title": "9 Celeb-Inspired Denim Outfits to Try",
+      "link": "https://www.vogue.com/article/celebrity-denim-outfits",
+      "summary": "From Gigi Hadid to Zendaya and Kaia Gerber, allow these celeb-approved denim outfits to inspire your next look.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 9 Celeb-Inspired Denim Outfits to Try...",
       "score": 1,
       "published": "2026-07-20T10:00:00+00:00",
       "discovered_via": "feed"
@@ -1101,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4a6e2479e809",
-      "title": "I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I Understand the Hype",
-      "link": "https://www.whowhatwear.com/fashion/dresses/marks-and-spencer-polka-dot-slip-dress",
-      "summary": "Well worth it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I...",
-      "score": 1,
-      "published": "2026-07-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dae0f4930b3c",
       "title": "This Fashion Editor–Loved Brand Is Majorly Discounted During the Nordstrom Anniversary Sale—Here's Every Chic Item I'm Buying",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-cos-fashion-nordstrom-anniversary-sale-2026",
@@ -1157,16 +1311,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d075a3248d91",
-      "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
-      "summary": "The chicest alt.",
+      "id": "4a6e2479e809",
+      "title": "I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I Understand the Hype",
+      "link": "https://www.whowhatwear.com/fashion/dresses/marks-and-spencer-polka-dot-slip-dress",
+      "summary": "Well worth it.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Tried On The M&S Dress Everyone’s Searching for Right Now—Finally, I...",
+      "score": 1,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1208,6 +1362,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d075a3248d91",
+      "title": "Not Black, Not Red—Fashion People In Their 40s and 50s Are Wearing This Elegant Sandals Colour Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-shoe-trend-amal-clooney-jennifer-lopez-2026",
+      "summary": "The chicest alt.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1451,34 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "087ff8a8a723",
-      "title": "Why NOIB Is Betting Big on Print-Led Fashion",
-      "link": "https://in.apparelresources.com/fashion-news/features/noib-betting-big-print-led-fashion/",
-      "summary": "In a market long dominated by occasion-driven fashion, NOIB emerges with a clear and considered proposition that redefines everyday westernwear through the lens of print, colour and comfort. Conceived to address a growing appetite for clothing that feels both distinctive and effortlessly wearable, the brand positions i",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Why NOIB Is Betting Big on Print-Led Fashion...",
-      "score": 5,
-      "published": "2026-07-18T09:53:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1c96ab90949f",
-      "title": "From West London to the West Coast—Every Elegant Fashion Person Is Styling This Pretty Dress Trend RN",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cotton-floral-print-dress-trend-bella-hadid-2026",
-      "summary": "Bella Hadid included.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-18T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "303dc2b691d6",
       "title": "Yes Pleats: Why Modern Men Should Still Wear Pleated Pants",
       "link": "https://www.fashionbeans.com/article/type-of-pleats-pleated-pants-guide/",
@@ -1490,90 +1630,6 @@
       "angle": "Fashion Intelligence: Yes Pleats: Why Modern Men Should Still Wear Pleated Pants...",
       "score": 4,
       "published": "2026-07-18T09:03:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d0a917620e28",
-      "title": "Cropped Flared Jeans Are Trending—This Elegant Shoe Trend Makes Them Look Chicest",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-flared-jeans-pointed-toe-heels-trend-jennifer-garner-2026",
-      "summary": "Verified.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-18T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a8d76ebdc2db",
-      "title": "Spotted in Paris and London: The Print Trend That’s Taking Over From Polka Dots This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer/check-fashion-trend-summer-2026",
-      "summary": "Checkmate.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-18T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4859e557ac08",
-      "title": "Suddenly, Stylish Women All Over the World Are Carrying the French Summer Bag That Screams Quiet Luxury",
-      "link": "https://www.whowhatwear.com/fashion/shopping/sezane-leonie-basket-bag",
-      "summary": "It's a basket bag summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Suddenly, Stylish Women All Over the World Are Carrying the French Sum...",
-      "score": 1,
-      "published": "2026-07-18T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec67ef2fed66",
-      "title": "All Our Editors All Agree: This Is the Dress Style of the Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-hm-broderie-anglaise-dresses-2026",
-      "summary": "Chic and breezy. Win-win.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: All Our Editors All Agree: This Is the Dress Style of the Summer...",
-      "score": 2,
-      "published": "2026-07-18T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2623892cb5a",
-      "title": "Baccarat Rouge! Santal 33! 15 Perfume Deals You Can't Miss During Nordstrom's Anniversary Sale",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-fragrance-deals-nordstrom-anniversary-sale-2026",
-      "summary": "Luxury bottles for as little as $83.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Baccarat Rouge! Santal 33! 15 Perfume Deals You Can't Miss During Nord...",
-      "score": 1,
-      "published": "2026-07-18T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0709bb586061",
-      "title": "Out of Hundreds of Brands, Our Editors Agree That These Are the Very Best Names in Summer Dresses",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-summer-dress-brands-2026",
-      "summary": "The creme de la creme.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Out of Hundreds of Brands, Our Editors Agree That These Are the Very B...",
-      "score": 2,
-      "published": "2026-07-18T07:05:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2053,20 +2109,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cbab79317968",
-      "title": "6 Best Insoles For Vans – Replacements + Removable in 2026",
-      "link": "https://www.fashionbeans.com/article/best-insoles-for-vans/",
-      "summary": "Vans is without a doubt, one of the best sneaker brands on the planet. With a modern twist on the classic skater style, Vans sneakers are sturdy, stylish, and work well with almost any look. No matter how comfy Vans are, if you have foot issues of any kind or the insides of your sneakers &#8230; Continue reading 6 Best",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Best Insoles For Vans – Replacements + Removable in 2026...",
-      "score": 2,
-      "published": "2026-07-16T13:01:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f3f90749c23a",
       "title": "Inside Foot Locker's Scaling Strategy for Smaller Sneaker Brands",
       "link": "https://fashionista.com/2026/07/foot-locker-scaling-strategy-emerging-sneaker-brands",
@@ -2106,20 +2148,6 @@
       "angle": "Fashion Intelligence: Mia Calabrese's Go-to Beauty Hack? Putting Nipple Cream on Her Lips...",
       "score": 2,
       "published": "2026-07-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bca3713c9068",
-      "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
-      "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
-      "summary": "A man’s hair has always been an important identifier of success; historically, it would denote class, wealth and masculinity. Now? Well, not much has changed. And despite some tweaks to length and texture, nor have the styles. What looked good on Roman emperors still has the potential to flatter a modern mug. So take a",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
-      "score": 1,
-      "published": "2026-07-16T09:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "abishek porel",
+      "term": "কাজল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anti ragging",
+      "term": "ಟಿಕೆಟ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lohia corp ipo gmp",
+      "term": "जुलाई",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "yes bank share price",
+      "term": "श्रीलंका क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bajaj finance share",
+      "term": "jana nayagan film",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shambhu border",
+      "term": "കര്ക്കടകം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "millworks technologies limited ipo",
+      "term": "government of jammu and kashmir",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ipo premium",
+      "term": "c. joseph vijay",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata steel share price",
+      "term": "kospi share bazar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cag",
+      "term": "cm vijay chennai bio-cng plant",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
