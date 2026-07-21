@@ -1426,13 +1426,23 @@ Set needs_rewrite to true if violations exist. Review and return the JSON report
       stageInstructions: stageInstructions,
       userMessage: userPrompt
     });
-    console.log('Review response:', responseText);
+    console.log('Review response (raw):', responseText);
 
     // Handle markdown code fences
     if (responseText.includes('```')) {
       responseText = responseText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
     }
 
+    // Extract JSON if there's extra text before/after
+    responseText = responseText.trim();
+    let jsonStart = responseText.indexOf('{');
+    let jsonEnd = responseText.lastIndexOf('}');
+    if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+      responseText = responseText.substring(jsonStart, jsonEnd + 1);
+      console.log('Extracted JSON from response');
+    }
+
+    console.log('Review JSON (cleaned):', responseText.substring(0, 500));
     const review = JSON.parse(responseText);
 
     if (!review.brand_voice_score || review.brand_voice_rationale === undefined) {
