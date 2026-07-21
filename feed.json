@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-07-21T10:25:41.829106+00:00",
+  "generated_at": "2026-07-21T12:24:50.405581+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 186,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "f3882a23649a",
+      "title": "Balenciaga Eyewear Has a Sharp Attitude for Summer",
+      "link": "https://www.fashiongonerogue.com/story/balenciaga-eyewear-summer-2026-campaign/",
+      "summary": "Balenciaga&#8217;s GOSSIP eyewear campaign for summer 2026 introduces a rimless sunglasses style built for speed, shine, and attitude. Shot by ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Balenciaga Eyewear Has a Sharp Attitude for Summer...",
+      "score": 2,
+      "published": "2026-07-21T12:23:38+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "57ec8b6dd83b",
       "title": "Keisukeyoshida Tokyo Spring 2027",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Keisukeyoshida Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-07-21T10:21:11+00:00",
+      "published": "2026-07-21T12:23:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Elisabetta Franchi Resort 2027...",
       "score": 0,
-      "published": "2026-07-21T10:21:11+00:00",
+      "published": "2026-07-21T12:23:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,77 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fetico Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-07-21T10:21:11+00:00",
+      "published": "2026-07-21T12:23:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6997c79dea2",
+      "title": "What Is a Chaos Garden?",
+      "link": "https://www.vogue.com/article/the-not-so-careful-art-of-creating-a-chaos-garden",
+      "summary": "Chaos gardening is a social-media-fueled movement that has been gaining traction among a certain kind of gardener wanting to stage a small-scale rebellion on a patch of dirt.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Is a Chaos Garden?...",
+      "score": 0,
+      "published": "2026-07-21T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "de137fb8666c",
+      "title": "Arvind Fashions Reports 15.5% Q1 Revenue Growth, Profit Up 11%",
+      "link": "https://in.apparelresources.com/business-news/retail/arvind-fashions-reports-15-5-q1-revenue-growth-profit-11/",
+      "summary": "Arvind Fashions Ltd. reported a 15.5% year-on-year (YoY) increase in consolidated revenue from operations to Rs 1,278.5 crore for the quarter ended June 30. The company&#8217;s consolidated net profit rose 11% YoY to Rs 27.61 crore, compared with Rs 24.86 crore in the corresponding quarter last year. During the quarter",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Arvind Fashions Reports 15.5% Q1 Revenue Growth, Profit Up 11%...",
+      "score": 1,
+      "published": "2026-07-21T11:45:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1ef10233392",
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
+      "score": 0,
+      "published": "2026-07-21T10:40:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "72ada94509fd",
+      "title": "Hold the Jeans—Ballet Flats Look Chicest With This New Season Trouser Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/balloon-trouser-trend-iris-law-2026",
+      "summary": "I can confirm it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-07-21T10:39:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd23188594f8",
+      "title": "The 12 Best Airbnbs in Mallorca for a Holiday in the Sun",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-mallorca",
+      "summary": "Planning a trip to Spain's Balearic Islands? Book one of the best Airbnbs in Mallorca for your home base.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 0,
+      "published": "2026-07-21T10:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -132,20 +216,6 @@
       "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
       "score": 2,
       "published": "2026-07-21T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d1ef10233392",
-      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
-      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
-      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
-      "score": 0,
-      "published": "2026-07-21T08:47:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -653,20 +723,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eca04a985d12",
-      "title": "Melanie C Is Married! And The Bride Wore Victoria Beckham",
-      "link": "https://www.vogue.com/slideshow/melanie-c-and-chris-dingwall-wedding",
-      "summary": "Spice Girl Melanie C married her partner, the Australian model and producer Chris Dingwall, in Cumbria on Saturday. She gave Vogue an exclusive look inside the ceremony—and the story behind her dress, a custom look by her friend and former bandmate, Victoria Beckham.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Melanie C Is Married! And The Bride Wore Victoria Beckham — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-20T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "55b1db297d73",
       "title": "24 Hours with Cortis",
       "link": "https://www.vogue.com/article/24-hours-cortis",
@@ -677,6 +733,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 24 Hours with Cortis...",
       "score": 0,
+      "published": "2026-07-20T16:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eca04a985d12",
+      "title": "Melanie C Is Married! And The Bride Wore Victoria Beckham",
+      "link": "https://www.vogue.com/slideshow/melanie-c-and-chris-dingwall-wedding",
+      "summary": "Spice Girl Melanie C married her partner, the Australian model and producer Chris Dingwall, in Cumbria on Saturday. She gave Vogue an exclusive look inside the ceremony—and the story behind her dress, a custom look by her friend and former bandmate, Victoria Beckham.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Melanie C Is Married! And The Bride Wore Victoria Beckham — A Complete Style Guide",
+      "score": 2,
       "published": "2026-07-20T16:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -933,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9399a788d997",
-      "title": "Building Value With Denim in a More Disciplined Market",
-      "link": "https://in.apparelresources.com/fashion-news/building-value-denim-disciplined-market/",
-      "summary": "For the denim industry, 2026 is less about disruption and more about recalibration of what is already present on the table. What was once a dependable basic is now being positioned as a strategic category &#8211; one that anchors wardrobes, bridges casual and formal dressing, and offers brands a reliable vehicle for bo",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Building Value With Denim in a More Disciplined Market...",
-      "score": 2,
-      "published": "2026-07-20T10:18:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "496f09ea63a4",
       "title": "7 Jacket, Shirt, and Tie Combos for Outerwear in 2026",
       "link": "https://www.fashionbeans.com/article/jacket-shirt-tie-combinations/",
@@ -975,34 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4a0495989d9a",
-      "title": "52 Summer Hosting Essentials for Your Next Gathering, According to Vogue Editors",
-      "link": "https://www.vogue.com/article/summer-hosting-editor-picks",
-      "summary": "It’s summer entertaining season—so we polled our editors for their favorite warm-weather hosting staples. From patterned linens to kitschy servingware, here's what's on the menu.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 52 Summer Hosting Essentials for Your Next Gathering, According to Vog...",
-      "score": 1,
-      "published": "2026-07-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3063bf267258",
-      "title": "9 Celeb-Inspired Denim Outfits to Try",
-      "link": "https://www.vogue.com/article/celebrity-denim-outfits",
-      "summary": "From Gigi Hadid to Zendaya and Kaia Gerber, allow these celeb-approved denim outfits to inspire your next look.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Celeb-Inspired Denim Outfits to Try...",
-      "score": 1,
-      "published": "2026-07-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8daaac48a494",
       "title": "If You Like Rich-Looking White-Jeans Outfits, Skip Sandals and Pair Denim With This Closed-Toe Alt",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-jeans-grommet-mary-janes-outfit-brooke-shields-2026",
@@ -1014,20 +1042,6 @@
       "angle": "Fashion Intelligence: If You Like Rich-Looking White-Jeans Outfits, Skip Sandals and Pair De...",
       "score": 1,
       "published": "2026-07-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25427b6fab44",
-      "title": "Tata’s Westside Targets Major Expansion with 100 Annual Stores",
-      "link": "https://in.apparelresources.com/business-news/retail/tatas-westside-targets-major-expansion-100-annual-stores/",
-      "summary": "The Tata Group&#8217;s Trent plans to expand its premium fashion chain Westside by opening up to 100 stores annually, up from its current pace of 10–15 store openings a year. Westside, which operates 300 stores and offers apparel, beauty products, home décor, footwear and accessories, plans to expand into northeastern ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Tata’s Westside Targets Major Expansion with 100 Annual Stores...",
-      "score": 3,
-      "published": "2026-07-20T09:51:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1084,6 +1098,20 @@
       "angle": "Fashion Intelligence: The New Arrivals Fashion Editors Are QuietlyAdding to Cart Before They...",
       "score": 1,
       "published": "2026-07-20T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f8a80ed62216",
+      "title": "The Best Sneaker Brands You’ve Never Heard Of",
+      "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
+      "summary": "Wherever you are right now, take a quick look around at people’s footwear. What brands are they wearing? Chances are, the results of your visual sneaker survey will look a little something like this: Adidas, Nike, Converse, New Balance, Nike, maybe a bit of Reebok if you’re lucky, Adidas, Nike, Nike. No matter how clas",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
+      "score": 2,
+      "published": "2026-07-20T06:45:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1451,15 +1479,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cce5aa9fb628",
-      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
-      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
-      "summary": "Better outfits + more closet space = less impulse shopping.",
+      "id": "67f5e94a3de2",
+      "title": "I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actually See on Fashion People Around the City",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-summer-2026",
+      "summary": "The chicest accessories, clothing, and shoe deals.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
+      "angle": "Fashion Intelligence: I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actu...",
       "score": 1,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1479,15 +1507,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67f5e94a3de2",
-      "title": "I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actually See on Fashion People Around the City",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-summer-2026",
-      "summary": "The chicest accessories, clothing, and shoe deals.",
+      "id": "cce5aa9fb628",
+      "title": "\"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely) Never Have to Rebuy",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-investment-basics",
+      "summary": "Better outfits + more closet space = less impulse shopping.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Live in NYC—These Are the Nordstrom Anniversary Sale Pieces I'd Actu...",
+      "angle": "Fashion Intelligence: \"Buy It Nice or Buy It Twice\": 8 Investment Basics That You'll (Likely...",
       "score": 1,
       "published": "2026-07-19T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1644,20 +1672,6 @@
       "angle": "Fashion Intelligence: Anne Hathaway Adds a Pop of Duck Blue to Her Maternity Streak With a J...",
       "score": 2,
       "published": "2026-07-18T16:22:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "84d7131ead3b",
-      "title": "The 6 Nordstrom Items That Will Keep You On-Trend for the Rest of 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/on-trend-items-nordstrom-anniversary-sale-2026",
-      "summary": "Lace trim, beadwork, and high collars.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-18T16:11:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2053,34 +2067,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "256701c8d5f1",
-      "title": "25 Types of Hats For Men – Styles for Any Occasion in 2026",
-      "link": "https://www.fashionbeans.com/article/mens-hat-styles/",
-      "summary": "Remember when Justin Bieber wore a hot pink beanie to a black tie event? Unless you’re Justin, who can pull off anything (you guessed it, we are Beliebers), a beanie at the Grammys isn’t the most appropriate choice of hat. Then what types of hats are suitable for a black tie event, you ask? We’d &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-07-17T10:23:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3add2f5f45f",
-      "title": "The Best Taper Haircuts – Tapered Hairstyle Guide 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-taper-haircuts/",
-      "summary": "Meet the workhorse of men&#8217;s hairstyles. A foundation on which flashier styles are built, taper haircuts can be classic and cutting edge at the same time. They&#8217;re versatile. They last longer than most heavily clippered styles. And if our word isn&#8217;t good enough (come now…), take it from Messrs Beckham, ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-17T09:33:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "66711f36d9e0",
       "title": "Affordable Fashion That Looks Anything but Basic",
       "link": "https://www.fashiongonerogue.com/story/affordable-fashion-not-basic/",
@@ -2344,20 +2330,6 @@
       "angle": "Fashion Intelligence: Weekly Drop Watch: Khy x Frankies Bikinis, FP Movement x Asics, Real T...",
       "score": 3,
       "published": "2026-07-10T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b0e62cdd365d",
-      "title": "Calvin Klein Summer 2026 Upgrades the Everyday Wardrobe",
-      "link": "https://www.fashiongonerogue.com/story/calvin-klein-summer-2026-edit/",
-      "summary": "Calvin Klein&#8217;s summer 2026 edit turns hot-weather dressing into an exercise in restraint. Grace Elizabeth fronts a story built on ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Calvin Klein Summer 2026 Upgrades the Everyday Wardrobe...",
-      "score": 1,
-      "published": "2026-07-10T10:52:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "parliament monsoon session 2026",
+      "term": "jana nayagan movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "royal london one-day cup",
+      "term": "కళ్యాణ్ రామ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నరేంద్ర మోదీ",
+      "term": "ajit pawar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ನರೇಂದ್ರ ಮೋದಿ",
+      "term": "പാലാ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "హైడ్రోజన్",
+      "term": "india tour of sri lanka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wbjee 2026 seat allotment results",
+      "term": "சிக்கந்தர் ராசா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सरकार",
+      "term": "silverstorm parks ipo gmp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हरियाणा",
+      "term": "શ્રીલંકા રાષ્ટ્રીય ક્રિકેટ ટીમ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "santy sharma bigg boss 20",
+      "term": "burmese pythons in florida",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "google fitbit air india",
+      "term": "শুভেন্দু অধিকারী",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
