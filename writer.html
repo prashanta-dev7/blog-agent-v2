@@ -2225,14 +2225,12 @@ async function publishToWordPress() {
     }
 
     // Build post payload
-    const defaultCategory = sessionStorage.getItem('WP_DEFAULT_CATEGORY') || 'blog';
     const payload = {
       title: selectedTitle || currentBrief.title,
       content: htmlContent,
       status: 'draft',
       slug: currentBrief.slug,
-      excerpt: currentBrief.meta_description,
-      categories: [defaultCategory]
+      excerpt: currentBrief.meta_description
     };
 
     publishText.textContent = '⟳ Creating post...';
