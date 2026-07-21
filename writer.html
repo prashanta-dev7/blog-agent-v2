@@ -2023,19 +2023,23 @@ function buildSectionHTML(sectionMarkdown, matchResult, sectionIndex) {
   if (matchResult && matchResult.approved && matchResult.media_url) {
     const mediaUrl = rewriteMediaUrl(matchResult.media_url);
     // Alternate alignment: even indices (0,2,4...) left, odd (1,3,5...) right
-    const alignment = sectionIndex % 2 === 0 ? 'alignleft' : 'alignright';
+    const alignment = sectionIndex % 2 === 0 ? 'left' : 'right';
+    const alignClass = sectionIndex % 2 === 0 ? 'alignleft' : 'alignright';
+
+    // WordPress block comment format for proper block detection and auto-conversion
+    const blockAttrs = JSON.stringify({
+      id: matchResult.media_id || 0,
+      align: alignment,
+      width: 300,
+      linkTarget: '_blank'
+    });
 
     const figure = `
-<figure class="wp-block-image ${alignment}" style="max-width:300px;margin:0 16px 16px 0;">
-  <a href="${matchResult.pdp_url}" target="_blank" rel="noopener noreferrer">
-    <img src="${mediaUrl}" alt="${escapeHtml(matchResult.product.title)}" style="width:100%;height:auto;" />
-  </a>
-  <figcaption style="font-size:13px;text-align:center;">
-    <a href="${matchResult.pdp_url}" target="_blank" rel="noopener noreferrer">
-      ${escapeHtml(matchResult.product.title)}
-    </a>
-  </figcaption>
-</figure>`;
+<!-- wp:image ${blockAttrs} -->
+<figure class="wp-block-image ${alignClass}" style="max-width:300px;">
+  <img src="${mediaUrl}" alt="${escapeHtml(matchResult.product.title)}" />
+</figure>
+<!-- /wp:image -->`;
 
     // Insert after closing </h2> so text flows around image naturally
     if (html.includes('</h2>')) {
