@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-07-22T10:25:09.480923+00:00",
+  "generated_at": "2026-07-22T12:26:03.382316+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "59f79dfcabc9",
+      "title": "8 Adèle Exarchopoulos That Prove She’s the Future of French Cinema",
+      "link": "https://www.vogue.com/article/best-adele-exarchopoulos-performances-beyond-blue-is-the-warmest-color",
+      "summary": "Captivating, electrifying, and utterly compelling, the Vogue France cover star’s performances embody a confidence that makes you believe in the vitality of modern filmmaking.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 8 Adèle Exarchopoulos That Prove She’s the Future of French Cinema...",
+      "score": 0,
+      "published": "2026-07-22T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3da7b540daba",
+      "title": "Chilling CCTV visuals show terrorist shooting J&K cop at point-blank range",
+      "link": "https://www.indiatoday.in/india/story/anantnag-terror-attack-caught-cctv-jammu-and-kashmir-policeman-shot-dead-close-range-video-2953682-2026-07-22?utm_source=rss",
+      "summary": "Chilling CCTV visuals show terrorist shooting J&amp;K cop at point-blank range",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Chilling CCTV visuals show terrorist shooting J&K cop at point-blank r...",
+      "score": 1,
+      "published": "2026-07-22T11:30:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87ce79dbacf5",
+      "title": "On the Podcast: Hannah Einbinder Hides Her Emmy and Actually Loves Magicians",
+      "link": "https://www.vogue.com/article/on-the-podcast-why-hannah-einbinder-hides-her-emmy-and-loves-magicians",
+      "summary": "Right now, Einbinder is making the rounds on one of her biggest press tours to date, promoting Jane Schoenbrun’s “Teenage Sex and Death at Camp Miasma.” She talks to Chloe all about it.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On the Podcast: Hannah Einbinder Hides Her Emmy and Actually Loves Mag...",
+      "score": 0,
+      "published": "2026-07-22T11:13:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7b9b4931ab8",
+      "title": "The 9 Best Airbnbs in Sardinia, Italy’s Most Underrated Island",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-sardinia",
+      "summary": "Go a little off the beaten path with an Airbnb in Sardinia and discover one of Italy’s hidden gems—here, nine beautiful properties to book from all over the island.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 9 Best Airbnbs in Sardinia, Italy’s Most Underrated Island...",
+      "score": 0,
+      "published": "2026-07-22T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "569f7d6ba3b1",
+      "title": "How Rahul Gandhi launched a protest, without joining a protest",
+      "link": "https://www.indiatoday.in/india/story/rahul-gandhi-launches-parallel-protest-outside-pm-residence-7-lok-kalyan-marg-cjp-sonam-wangchuk-2953542-2026-07-22?utm_source=rss",
+      "summary": "How Rahul Gandhi launched a protest, without joining a protest",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-22T10:58:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "28324b24f03d",
+      "title": "Not Wedges, Not Flip-Flops—Sienna Just Wore Jeans With a Shoe Trend I Genuinely Never Expected to See Her In",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bow-heels-jeans-outfit-sienna-miller-2026",
+      "summary": "I'm shocked.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-22T10:42:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "01a1569910ce",
+      "title": "If You Want Your Knee-Length Skirts to Look More French, Pair Them With This Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kaia-gerber-heeled-ballet-flats-mini-skirt-outfit-2026",
+      "summary": "Trés chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-22T10:31:48+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6e01398a18b6",
       "title": "32 Colorful Beach Wedding Guest Dresses to Wear to Seaside Ceremonies",
@@ -51,44 +149,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f5b9d5ad0d42",
-      "title": "This Brand's Cult Dresses Sell Out Every Summer—5 Celebrity-Approved Styles Worth Knowing About",
-      "link": "https://www.whowhatwear.com/fashion/shopping/doen-dresses-celebrity-2026",
-      "summary": "From Bella to Daisy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "49fec3f9ea73",
-      "title": "This Bridal Beauty Tradition Is Steeped in Thousands of Years of History, and Symbolizes Love, Luck, and New Beginnings",
-      "link": "https://www.whowhatwear.com/beauty/wedding-beauty-traditions",
-      "summary": "\"It allows every bride to tell their own story.\"",
+      "id": "7c73482b7712",
+      "title": "Fashion People Agree: You Only Need One Wedding Guest Dress for Every Dress Code—Here They Are",
+      "link": "https://www.whowhatwear.com/fashion/dresses/best-wedding-guest-dress-for-every-attire",
+      "summary": "From black-tie invites to beachside vows.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Bridal Beauty Tradition Is Steeped in Thousands of Years of History, and Symbolizes Love, Luck, and New Beginnings — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "95638454253c",
-      "title": "The Major Wedding-Planning Trends That Will Define 2027's Chicest Celebrations",
-      "link": "https://www.whowhatwear.com/living/wedding/wedding-design-trends-2027",
-      "summary": "Industry experts reveal it all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Major Wedding-Planning Trends That Will Define 2027's Chicest Celebrations — A Complete Style Guide",
-      "score": 2,
+      "angle": "Bridal Edit: Fashion People Agree — A Complete Style Guide",
+      "score": 3,
       "published": "2026-07-22T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -102,48 +172,6 @@
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: The Wedding Issue 2026 — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "58290baf5702",
-      "title": "An Upscale Barbecue Dinner and a Danielle Frankel Dress Set the Tone for This Fashion Editor's Texas Wedding",
-      "link": "https://www.whowhatwear.com/living/wedding/jordan-goldberg-and-adam-rossman-wedding",
-      "summary": "See every detail here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: An Upscale Barbecue Dinner and a Danielle Frankel Dress Set the Tone for This Fashion Editor's Texas Wedding — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a1b376aacb2d",
-      "title": "The Bridal Makeup Look Is Over—How No-Makeup Brides Are Redefining the Trend",
-      "link": "https://www.whowhatwear.com/beauty/makeup/no-makeup-wedding-trend",
-      "summary": "See the women who ditched makeup in exchange for radiance-boosting skincare.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Bridal Makeup Look Is Over—How No-Makeup Brides Are Redefining the Trend — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7c73482b7712",
-      "title": "Fashion People Agree: You Only Need One Wedding Guest Dress for Every Dress Code—Here They Are",
-      "link": "https://www.whowhatwear.com/fashion/dresses/best-wedding-guest-dress-for-every-attire",
-      "summary": "From black-tie invites to beachside vows.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Fashion People Agree — A Complete Style Guide",
       "score": 3,
       "published": "2026-07-22T08:00:00+00:00",
       "discovered_via": "feed"
@@ -163,6 +191,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "95638454253c",
+      "title": "The Major Wedding-Planning Trends That Will Define 2027's Chicest Celebrations",
+      "link": "https://www.whowhatwear.com/living/wedding/wedding-design-trends-2027",
+      "summary": "Industry experts reveal it all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Major Wedding-Planning Trends That Will Define 2027's Chicest Celebrations — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a1b376aacb2d",
+      "title": "The Bridal Makeup Look Is Over—How No-Makeup Brides Are Redefining the Trend",
+      "link": "https://www.whowhatwear.com/beauty/makeup/no-makeup-wedding-trend",
+      "summary": "See the women who ditched makeup in exchange for radiance-boosting skincare.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Bridal Makeup Look Is Over—How No-Makeup Brides Are Redefining the Trend — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "49fec3f9ea73",
+      "title": "This Bridal Beauty Tradition Is Steeped in Thousands of Years of History, and Symbolizes Love, Luck, and New Beginnings",
+      "link": "https://www.whowhatwear.com/beauty/wedding-beauty-traditions",
+      "summary": "\"It allows every bride to tell their own story.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: This Bridal Beauty Tradition Is Steeped in Thousands of Years of History, and Symbolizes Love, Luck, and New Beginnings — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0679ec75e57d",
       "title": "Summer House's Mia Calabrese on \"Bad B*tch\" Beauty and Her Relationships With Rihanna and Ciara Miller",
       "link": "https://www.whowhatwear.com/beauty/makeup/mia-calabrese-fenty-interview",
@@ -174,6 +244,48 @@
       "angle": "Fashion Intelligence: Summer House's Mia Calabrese on \"Bad B*tch\" Beauty and Her Relationshi...",
       "score": 1,
       "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f5b9d5ad0d42",
+      "title": "This Brand's Cult Dresses Sell Out Every Summer—5 Celebrity-Approved Styles Worth Knowing About",
+      "link": "https://www.whowhatwear.com/fashion/shopping/doen-dresses-celebrity-2026",
+      "summary": "From Bella to Daisy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "58290baf5702",
+      "title": "An Upscale Barbecue Dinner and a Danielle Frankel Dress Set the Tone for This Fashion Editor's Texas Wedding",
+      "link": "https://www.whowhatwear.com/living/wedding/jordan-goldberg-and-adam-rossman-wedding",
+      "summary": "See every detail here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: An Upscale Barbecue Dinner and a Danielle Frankel Dress Set the Tone for This Fashion Editor's Texas Wedding — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "105784749e09",
+      "title": "Black Heels Are Fine, But Italian and French Women Know These Colors Look Better With White Dresses",
+      "link": "https://www.whowhatwear.com/fashion/shoe-colors-to-wear-with-white-dresses",
+      "summary": "Instant upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Black Heels Are Fine, But Italian and French Women Know These Colors L...",
+      "score": 1,
+      "published": "2026-07-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -201,20 +313,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
-      "published": "2026-07-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "105784749e09",
-      "title": "Black Heels Are Fine, But Italian and French Women Know These Colors Look Better With White Dresses",
-      "link": "https://www.whowhatwear.com/fashion/shoe-colors-to-wear-with-white-dresses",
-      "summary": "Instant upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Black Heels Are Fine, But Italian and French Women Know These Colors L...",
-      "score": 1,
       "published": "2026-07-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1199,34 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "35a509745cd0",
-      "title": "Jane Birkin’s Favorite ’60s Dress Will Be Everywhere This Summer",
-      "link": "https://www.vogue.com/article/1960s-jane-birkin-dress-trend",
-      "summary": "The so-called Jane Birkin dress is the ultimate one-and-done summer piece. Here, Vogue edits the best styles to shop now.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Jane Birkin’s Favorite ’60s Dress Will Be Everywhere This Summer...",
-      "score": 2,
-      "published": "2026-07-21T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b51810927a6d",
-      "title": "How to Style the Polka-Dot Dress for Summer, Inspired by Celebrities",
-      "link": "https://www.vogue.com/article/polka-dot-dress-outfits-celebrities",
-      "summary": "Celebrities are bringing back the polka-dot dress for summer. Here are seven modern ways, inspired by their looks, to style it out yourself.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Style the Polka-Dot Dress for Summer, Inspired by Celebrities...",
-      "score": 2,
-      "published": "2026-07-21T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "842b3e1b65d8",
       "title": "The Best Autumn/Winter Footwear Trends For Men 2026",
       "link": "https://www.fashionbeans.com/article/mens-autumn-winter-footwear-trends/",
@@ -1283,34 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a7aca3467d13",
-      "title": "The New Rules of Apparel Sourcing in India",
-      "link": "https://in.apparelresources.com/business-news/sourcing/new-rules-apparel-sourcing-india-2/",
-      "summary": "India’s fashion boom is rewriting the rules of apparel sourcing. Since 2019, more than 800 homegrown digital-first brands have launched, and global players are scaling up alongside them to meet a consumer base across Indian cities that is asking for better design, better quality and sharper pricing all at once. Online ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The New Rules of Apparel Sourcing in India...",
-      "score": 3,
-      "published": "2026-07-21T09:30:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb9ba102220d",
-      "title": "The Vogue Business AI Tracker",
-      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
-      "score": 2,
-      "published": "2026-07-21T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "22b395b64d6d",
       "title": "I Have First-Class Taste on an Economy Budget—These Are the Rich-Looking Airport Outfits I Swear by",
       "link": "https://www.whowhatwear.com/fashion/airport-style/rich-looking-airport-outfit-ideas-2026",
@@ -1339,20 +1381,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d76f105ba52b",
-      "title": "Forget Polka Dots—This Is the Print Trend It Girls From London to L.A. Are Wearing",
-      "link": "https://www.whowhatwear.com/fashion/trends/colored-stripe-fashion-trend-summer-2026",
-      "summary": "Peak summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-21T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c93b81cc0211",
       "title": "Yes, I'm Already Thinking About Fall—30 Transitional Items on My Current Watch List",
       "link": "https://www.whowhatwear.com/fashion/luxury/summer-to-fall-transitional-luxury-shopping-2026",
@@ -1363,6 +1391,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Yes, I'm Already Thinking About Fall—30 Transitional Items on My Curre...",
       "score": 1,
+      "published": "2026-07-21T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d76f105ba52b",
+      "title": "Forget Polka Dots—This Is the Print Trend It Girls From London to L.A. Are Wearing",
+      "link": "https://www.whowhatwear.com/fashion/trends/colored-stripe-fashion-trend-summer-2026",
+      "summary": "Peak summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-21T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1493,20 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "68ea3ae2cd13",
-      "title": "The Highly Specific Trend I'm Seeing in Every Cool Person's Vacation Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/printed-short-and-pants",
-      "summary": "Shop the cult buy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-20T22:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f17c9bf32b60",
       "title": "We Found the Best Handbags on Sale During Nordstrom’s Anniversary Sale",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71930374/nordstrom-anniversary-sale-handbag-deals-2026/",
@@ -1532,20 +1560,6 @@
       "angle": "Fashion Intelligence: What You Need to Know About the Tragedy of Helaena Targaryen on House ...",
       "score": 1,
       "published": "2026-07-20T20:37:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b7e1595a0ae2",
-      "title": "I'm a Minimalist Fashion Editor, But These Print Trends are Worth Trading Black Trousers For",
-      "link": "https://www.whowhatwear.com/fashion/trends/trouser-print-trends-summer-2026",
-      "summary": "Playful yet refined.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-20T20:33:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2837,6 +2851,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3e87a72163ff",
+      "title": "Inside the Meet-the-Designer Event at Aza Santacruz: A Showcase of Contemporary Luxury",
+      "link": "https://www.azafashions.com/blog/meet-the-designer-aza-santacruz/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-designer-aza-santacruz",
+      "summary": "The energy was electric at the Aza Santacruz store as fashion enthusiasts and connoisseurs gathered for an exclusive Meet-the-Designer event. Celebrating the finest in contemporary design and artisanal craftsmanship, the showcase brought patrons&#8230; The post Inside the Meet-the-Designer Event at Aza Santacruz: A Sho",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Inside the Meet-the-Designer Event at Aza Santacruz: A Showcase of Con...",
+      "score": 5,
+      "published": "2026-07-22T11:15:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f96d6cb1f435",
+      "title": "Rent or Buy Your Indian Wedding Outfit? An Honest Take",
+      "link": "https://www.azafashions.com/blog/rent-or-buy-your-indian-wedding-outfit-an-honest-take/?utm_source=rss&utm_medium=rss&utm_campaign=rent-or-buy-your-indian-wedding-outfit-an-honest-take",
+      "summary": "Buying a Indian wedding outfit in the US makes more sense for brides and frequent wedding guests, while renting suits those attending one or two events on a tight budget. Purchased outfits&#8230; The post Rent or Buy Your Indian Wedding Outfit? An Honest Take appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Rent or Buy Your Indian Wedding Outfit? An Honest Take — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-22T10:32:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "79c4d4f14dc3",
       "title": "The Batua Bag Is Back—And It’s Better Than Ever",
       "link": "https://www.azafashions.com/blog/designer-batua-bags/?utm_source=rss&utm_medium=rss&utm_campaign=designer-batua-bags",
@@ -2947,84 +2989,56 @@
       "score": 3,
       "published": "2026-07-17T11:36:53+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "7c5ea5829624",
-      "title": "Onam Outfit Ideas for Women: Indo-Western Picks You Can Shop for in the US",
-      "link": "https://www.azafashions.com/blog/indo-western-onam-outfit-ideas-women-us/?utm_source=rss&utm_medium=rss&utm_campaign=indo-western-onam-outfit-ideas-women-us",
-      "summary": "Onam is one of Kerala's most beloved festivals, a ten-day harvest celebration rich with floral rangolis, traditional feasts, and, of course, stunning outfits. For women of the Indian diaspora living in&#8230; The post Onam Outfit Ideas for Women: Indo-Western Picks You Can Shop for in the US appeared first on Aza Edito",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Onam Outfit Ideas for Women: Indo-Western Picks You Can Shop for in th...",
-      "score": 2,
-      "published": "2026-07-16T13:04:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4eb26e82a0b6",
-      "title": "Trisha Krishnan Saree Looks That Define Timeless South Indian Elegance",
-      "link": "https://www.azafashions.com/blog/trisha-krishnan-saree-looks/?utm_source=rss&utm_medium=rss&utm_campaign=trisha-krishnan-saree-looks",
-      "summary": "Few actresses wear a saree quite like Trisha Krishnan. Over two decades in the industry, she has built a reputation not just for her performances but for the kind of&#8230; The post Trisha Krishnan Saree Looks That Define Timeless South Indian Elegance appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Trisha Krishnan Saree Looks That Define Timeless South Indian Elegance...",
-      "score": 2,
-      "published": "2026-07-16T11:04:53+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "dl62",
+      "term": "വി.ഡി. സതീശന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കെ.സി. വേണുഗോപാല്",
+      "term": "lalit modi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india u19 vs sri lanka u19",
+      "term": "ఆపిల్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "காவல்துறை",
+      "term": "sbi admit card 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സൗദി അറേബ്യ",
+      "term": "కోతి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मनोज जरांगे",
+      "term": "oneplus n6x",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eternal share price",
+      "term": "commonwealth games 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "caliber mining ipo allotment status",
+      "term": "sbi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "delhi metro stations",
+      "term": "২০২৬ ফিফা ওয়ার্ল্ড কাপ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nottm forest vs blackburn rovers",
+      "term": "flood situation near disang river",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
