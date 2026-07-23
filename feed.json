@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T05:22:34.945410+00:00",
+  "generated_at": "2026-07-23T07:33:11.163069+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 184,
@@ -8,6 +8,132 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "6123fe332195",
+      "title": "It's Time to Retire Your Tote—These Luxury Holiday Bags Will Earn You an Upgrade to Business Class",
+      "link": "https://www.whowhatwear.com/fashion/summer/luxury-holiday-bags-summer-2026",
+      "summary": "Vacation mode: on.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-07-23T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7d9373bbdce2",
+      "title": "Spotted at the Airport: The 5 Coolest Luggage Trends of 2026",
+      "link": "https://www.whowhatwear.com/fashion/airport-style/luggage-trends-summer-2026",
+      "summary": "According to Jacob Elordi, Gigi Hadid, and the best dressed frequent flyers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a1a18fb1109",
+      "title": "Sorry, Lace-Trimmed Shorts—This Fancy Shorts Trend Is More 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/taffeta-shorts-trend",
+      "summary": "Wear it for the rest of the summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6ca8997dd57",
+      "title": "Our Editors Have Spoken: These 6 Brands Have the Best Straight-Leg Jeans",
+      "link": "https://www.whowhatwear.com/fashion/denim/best-straight-leg-jeans",
+      "summary": "We don't gatekeep the IYKYK labels.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Our Editors Have Spoken: These 6 Brands Have the Best Straight-Leg Jea...",
+      "score": 2,
+      "published": "2026-07-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "01265ea1a7ac",
+      "title": "Sorry, Simple White Summer Dresses—Personality Dresses Are the Summer Trend Every Chic Person Is Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/personality-dresses",
+      "summary": "The fashion insider's favorite vacation piece.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-07-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "14eb899b562c",
+      "title": "I Know People With High Standards and Low Budgets Will Like These Under-$75 Nordstrom Picks",
+      "link": "https://www.whowhatwear.com/best-under-75-fashion-beauty-items-nordstrom-anniversary-sale-2026",
+      "summary": "Everything from rich-looking satin shorts to beauty gems.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know People With High Standards and Low Budgets Will Like These Unde...",
+      "score": 1,
+      "published": "2026-07-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ad1e7a51beb7",
+      "title": "Not Red, Not Pink—This '90s Blush Trend Is Making a Comeback in 2026",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-nude-blushes",
+      "summary": "Talk about a throwback.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6411c772ab5",
+      "title": "These Y2K Hair Colours Are Making a Comeback—How To Wear Them in 2026, According to Experts",
+      "link": "https://www.whowhatwear.com/beauty/hair/y2k-hair-colours",
+      "summary": "From pastels to ribbon highlights.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: These Y2K Hair Colours Are Making a Comeback—How To Wear Them in 2026,...",
+      "score": 1,
+      "published": "2026-07-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "de83b0d8db65",
+      "title": "I Just Tried On COS's Elegant, Timeless Summer Collection—9 Cult Buys Selling Fast",
+      "link": "https://www.whowhatwear.com/fashion/affordable/cos-summer-try-on-2026",
+      "summary": "Chic summer staples ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-23T05:50:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "615f34850318",
       "title": "‘Brazilcore’ Is Big. How Should International Brands Tap In?",
@@ -709,6 +835,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "68d845cd75ac",
+      "title": "11 Best Razors For Men: Tidy, Trendy, and Trim in 2026",
+      "link": "https://www.fashionbeans.com/article/best-razors-for-men",
+      "summary": "Like snowflakes, they say that no two razors are alike. Side note: It feels editorially sound to mention that I have no idea who “they” are. Or if any of that is accurate. It felt right, dammit. Point is, you’ve got lots of products to choose from when it comes to the best shaving razor &#8230; Continue reading 11 Best",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-22T10:13:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6e01398a18b6",
       "title": "32 Colorful Beach Wedding Guest Dresses to Wear to Seaside Ceremonies",
       "link": "https://www.vogue.com/slideshow/beach-wedding-guest-dresses",
@@ -751,62 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "17ddee4129f8",
-      "title": "The Rise of the High-Stakes Honeymoon",
-      "link": "https://www.whowhatwear.com/living/wedding/honeymoon-trips-status-symbol-2026",
-      "summary": "Far-flung destinations, five-star stays, elaborate itineraries—once a private celebration, post-wedding travel is evolving into a carefully curated (and increasingly expensive) expression of good taste.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: The Rise of the High-Stakes Honeymoon...",
-      "score": 1,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "58290baf5702",
-      "title": "An Upscale Barbecue Dinner and a Danielle Frankel Dress Set the Tone for This Fashion Editor's Texas Wedding",
-      "link": "https://www.whowhatwear.com/living/wedding/jordan-goldberg-and-adam-rossman-wedding",
-      "summary": "See every detail here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: An Upscale Barbecue Dinner and a Danielle Frankel Dress Set the Tone for This Fashion Editor's Texas Wedding — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9e9d87f2a029",
-      "title": "The Wedding Issue 2026",
-      "link": "https://www.whowhatwear.com/living/wedding/the-wedding-issue-2026",
-      "summary": "Discover Who What Wear's Wedding Issue 2026, including everything you need to know in the bridal space for the year ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Wedding Issue 2026 — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "95638454253c",
-      "title": "The Major Wedding-Planning Trends That Will Define 2027's Chicest Celebrations",
-      "link": "https://www.whowhatwear.com/living/wedding/wedding-design-trends-2027",
-      "summary": "Industry experts reveal it all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Major Wedding-Planning Trends That Will Define 2027's Chicest Celebrations — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0679ec75e57d",
       "title": "Summer House's Mia Calabrese on \"Bad B*tch\" Beauty and Her Relationships With Rihanna and Ciara Miller",
       "link": "https://www.whowhatwear.com/beauty/makeup/mia-calabrese-fenty-interview",
@@ -816,6 +900,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Summer House's Mia Calabrese on \"Bad B*tch\" Beauty and Her Relationshi...",
+      "score": 1,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17ddee4129f8",
+      "title": "The Rise of the High-Stakes Honeymoon",
+      "link": "https://www.whowhatwear.com/living/wedding/honeymoon-trips-status-symbol-2026",
+      "summary": "Far-flung destinations, five-star stays, elaborate itineraries—once a private celebration, post-wedding travel is evolving into a carefully curated (and increasingly expensive) expression of good taste.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: The Rise of the High-Stakes Honeymoon...",
       "score": 1,
       "published": "2026-07-22T08:00:00+00:00",
       "discovered_via": "feed"
@@ -849,16 +947,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f5b9d5ad0d42",
-      "title": "This Brand's Cult Dresses Sell Out Every Summer—5 Celebrity-Approved Styles Worth Knowing About",
-      "link": "https://www.whowhatwear.com/fashion/shopping/doen-dresses-celebrity-2026",
-      "summary": "From Bella to Daisy.",
+      "id": "58290baf5702",
+      "title": "An Upscale Barbecue Dinner and a Danielle Frankel Dress Set the Tone for This Fashion Editor's Texas Wedding",
+      "link": "https://www.whowhatwear.com/living/wedding/jordan-goldberg-and-adam-rossman-wedding",
+      "summary": "See every detail here.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: An Upscale Barbecue Dinner and a Danielle Frankel Dress Set the Tone for This Fashion Editor's Texas Wedding — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9e9d87f2a029",
+      "title": "The Wedding Issue 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/the-wedding-issue-2026",
+      "summary": "Discover Who What Wear's Wedding Issue 2026, including everything you need to know in the bridal space for the year ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Wedding Issue 2026 — A Complete Style Guide",
+      "score": 3,
       "published": "2026-07-22T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -877,6 +989,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f5b9d5ad0d42",
+      "title": "This Brand's Cult Dresses Sell Out Every Summer—5 Celebrity-Approved Styles Worth Knowing About",
+      "link": "https://www.whowhatwear.com/fashion/shopping/doen-dresses-celebrity-2026",
+      "summary": "From Bella to Daisy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "95638454253c",
+      "title": "The Major Wedding-Planning Trends That Will Define 2027's Chicest Celebrations",
+      "link": "https://www.whowhatwear.com/living/wedding/wedding-design-trends-2027",
+      "summary": "Industry experts reveal it all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Major Wedding-Planning Trends That Will Define 2027's Chicest Celebrations — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "835878ad526f",
       "title": "My Fashionable Aunt Is a Mom on a Budget—32 Nordstrom Anniversary Sale Finds She'd Approve Of",
       "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-aunt",
@@ -886,34 +1026,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: My Fashionable Aunt Is a Mom on a Budget—32 Nordstrom Anniversary Sale...",
-      "score": 1,
-      "published": "2026-07-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5fff714a56c",
-      "title": "7 Fall Trends I'm Already Shopping at Zara, Reformation, and Shopbop",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fall-trends-zara-reformation-shopbop",
-      "summary": "Get ahead of the curve.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1df7c28db79",
-      "title": "I Live in L.A. and Just Shopped the Nordstrom Anniversary Sale—These Are the Cool Items I'd Wear Daily",
-      "link": "https://www.whowhatwear.com/fashion/shopping/los-angeles-fashion-nordstrom-anniversary-sale-2026",
-      "summary": "Grab them before they're gone.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Live in L.A. and Just Shopped the Nordstrom Anniversary Sale—These A...",
       "score": 1,
       "published": "2026-07-22T07:00:00+00:00",
       "discovered_via": "feed"
@@ -947,6 +1059,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b5fff714a56c",
+      "title": "7 Fall Trends I'm Already Shopping at Zara, Reformation, and Shopbop",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fall-trends-zara-reformation-shopbop",
+      "summary": "Get ahead of the curve.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b1df7c28db79",
+      "title": "I Live in L.A. and Just Shopped the Nordstrom Anniversary Sale—These Are the Cool Items I'd Wear Daily",
+      "link": "https://www.whowhatwear.com/fashion/shopping/los-angeles-fashion-nordstrom-anniversary-sale-2026",
+      "summary": "Grab them before they're gone.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Live in L.A. and Just Shopped the Nordstrom Anniversary Sale—These A...",
+      "score": 1,
+      "published": "2026-07-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "87a8a40c808f",
       "title": "Pause the Pastels—Fashion People Just Made Summer’s Boldest Colour Trend a Minimalist Staple",
       "link": "https://www.whowhatwear.com/fashion/summer/best-red-fashion-pieces-summer-2026",
@@ -976,14 +1116,14 @@
     },
     {
       "id": "a9d3ae2b46a0",
-      "title": "This Specific Wedding-Guest Dress Style Is Trending in Tuscany and Provence",
+      "title": "This Specific Wedding Guest Dress Style Is Trending in Tuscany and Provence",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/camila-morrone-wedding-guest-dress-tuscany",
-      "summary": "Camila Morrone was the best-dressed guest.",
+      "summary": "Camila Morrone was the best dressed guest.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Specific Wedding-Guest Dress Style Is Trending in Tuscany and Provence — A Complete Style Guide",
+      "angle": "Bridal Edit: This Specific Wedding Guest Dress Style Is Trending in Tuscany and Provence — A Complete Style Guide",
       "score": 4,
       "published": "2026-07-22T06:42:08+00:00",
       "discovered_via": "feed"
@@ -1297,20 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7017cec665e5",
-      "title": "Okay, Louis Vuitton's Latest Innovation Is Beyond—Wait Until You See These Iconic Bags",
-      "link": "https://www.whowhatwear.com/fashion/louis-vuitton-silk-tech",
-      "summary": "Introducing Silk Tech.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Okay, Louis Vuitton's Latest Innovation Is Beyond—Wait Until You See T...",
-      "score": 1,
-      "published": "2026-07-21T18:57:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0428361ce144",
       "title": "Who Is Matt Damon’s Wife, Luciana Damon?",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73171099/who-is-luciana-barroso-matt-damon-wife/",
@@ -1350,20 +1476,6 @@
       "angle": "Fashion Intelligence: The 15 Best After-Sun Products for Ultimate Skin Relief...",
       "score": 0,
       "published": "2026-07-21T17:58:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "77c5343cb897",
-      "title": "It's Been The Summer of Sports, But I'd Wear These 2 Specific Adidas Styles Well Into Fall",
-      "link": "https://www.whowhatwear.com/fashion/shopping/summer-to-fall-sporty-adidas-style",
-      "summary": "It's Adidas's world, and we're just living in it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Been The Summer of Sports, But I'd Wear These 2 Specific Adidas S...",
-      "score": 2,
-      "published": "2026-07-21T17:53:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1563,20 +1675,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7d08b5e46921",
-      "title": "Not Leggings—the Coolest Dressers I Know Reach For This Elevated Alt Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/track-pants-trend-sofia-richie-grainge-2026",
-      "summary": "Just as comfortable, much more chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Leggings—the Coolest Dressers I Know Reach For This Elevated Alt I...",
-      "score": 1,
-      "published": "2026-07-21T13:16:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e32deae72218",
       "title": "The Best Eyeshadows for Mature Eyes, According to Makeup Artists",
       "link": "https://www.harpersbazaar.com/beauty/makeup/a71932266/best-eyeshadow-for-mature-eyes/",
@@ -1633,20 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "72ada94509fd",
-      "title": "Hold the Jeans—Ballet Flats Look Chicest With This New Season Trouser Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/balloon-trouser-trend-iris-law-2026",
-      "summary": "I can confirm it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-07-21T10:39:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "842b3e1b65d8",
       "title": "The Best Autumn/Winter Footwear Trends For Men 2026",
       "link": "https://www.fashionbeans.com/article/mens-autumn-winter-footwear-trends/",
@@ -1658,20 +1742,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-07-21T09:56:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "830cf5ac9a14",
-      "title": "Phase Out the Linen Dresses—Everyone Will Be Swapping Them for This Elegant Trend by Fall",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/taffeta-satin-dress-trend-monica-barbaro",
-      "summary": "You might as well start shopping for this pretty trend now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-21T09:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1700,62 +1770,6 @@
       "angle": "Fashion Intelligence: The New Rules of Apparel Sourcing in India...",
       "score": 3,
       "published": "2026-07-21T09:30:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "22b395b64d6d",
-      "title": "I Have First-Class Taste on an Economy Budget—These Are the Rich-Looking Airport Outfits I Swear by",
-      "link": "https://www.whowhatwear.com/fashion/airport-style/rich-looking-airport-outfit-ideas-2026",
-      "summary": "Upgraded, in more ways than one.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c93b81cc0211",
-      "title": "Yes, I'm Already Thinking About Fall—30 Transitional Items on My Current Watch List",
-      "link": "https://www.whowhatwear.com/fashion/luxury/summer-to-fall-transitional-luxury-shopping-2026",
-      "summary": "Everything you need to dress from summer to fall.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Yes, I'm Already Thinking About Fall—30 Transitional Items on My Curre...",
-      "score": 1,
-      "published": "2026-07-21T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d76f105ba52b",
-      "title": "Forget Polka Dots—This Is the Print Trend It Girls From London to L.A. Are Wearing",
-      "link": "https://www.whowhatwear.com/fashion/trends/colored-stripe-fashion-trend-summer-2026",
-      "summary": "Peak summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-21T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4bb2fbe53bfd",
-      "title": "French Pharmacy Skincare Is Having a Glow-Up Thanks to These Next-Level Brands",
-      "link": "https://www.whowhatwear.com/beauty/skin/regenerative-french-pharmacy-skincare",
-      "summary": "The summer boost your skin needs.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: French Pharmacy Skincare Is Having a Glow-Up Thanks to These Next-Leve...",
-      "score": 1,
-      "published": "2026-07-21T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2148,20 +2162,6 @@
       "angle": "Fashion Intelligence: 8 Best Perfume Organizers – Storage and Style For 2026...",
       "score": 2,
       "published": "2026-07-19T06:20:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "be67cae07d1c",
-      "title": "Types of Suits Every Man Should Own 2026",
-      "link": "https://www.fashionbeans.com/article/types-of-suit/",
-      "summary": "There are few guys who don&#8217;t aspire to one day own a walk-in wardrobe filled with all the different types of suits, but we’re often in the dark as to how to get there. For the remainder, suits are a necessary evil: an insurance policy for professional and social occasions that you want to spend &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Types of Suits Every Man Should Own 2026...",
-      "score": 1,
-      "published": "2026-07-19T05:38:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2868,7 +2868,7 @@
       "id": "123a38cbb6dc",
       "title": "Aza Ambawatta Hosted an Exclusive Meet the Designer Event with Jigar Mali and Salil Bhatia",
       "link": "https://www.azafashions.com/blog/meet-the-designer-jigar-mali-salil-bhatia-aza-ambawatta/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-designer-jigar-mali-salil-bhatia-aza-ambawatta",
-      "summary": "A runway can introduce a collection but a conversation with its designer brings it to life. On 11th July 2026, Aza Ambawatta invited fashion lovers to step beyond the garments and meet the&#8230; The post Aza Ambawatta Hosted an Exclusive Meet the Designer Event with Jigar Mali and Salil Bhatia appeared first on Aza Ed",
+      "summary": "A runway can introduce a collection but a&#160;conversation with its designer&#160;brings it to life.&#160;On 11th July 2026, Aza Ambawatta invited fashion lovers to step beyond the garments and meet the&#8230; The post Aza Ambawatta Hosted an Exclusive Meet the Designer Event with Jigar Mali and Salil Bhatia appeared ",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
@@ -2890,20 +2890,6 @@
       "angle": "Fashion Intelligence: Inside the Meet-the-Designer Event at Aza Santacruz: A Showcase of Con...",
       "score": 5,
       "published": "2026-07-22T11:15:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f96d6cb1f435",
-      "title": "Rent or Buy Your Indian Wedding Outfit? An Honest Take",
-      "link": "https://www.azafashions.com/blog/rent-or-buy-your-indian-wedding-outfit-an-honest-take/?utm_source=rss&utm_medium=rss&utm_campaign=rent-or-buy-your-indian-wedding-outfit-an-honest-take",
-      "summary": "Buying a Indian wedding outfit in the US makes more sense for brides and frequent wedding guests, while renting suits those attending one or two events on a tight budget. Purchased outfits&#8230; The post Rent or Buy Your Indian Wedding Outfit? An Honest Take appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Rent or Buy Your Indian Wedding Outfit? An Honest Take — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-22T10:32:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2975,56 +2961,70 @@
       "score": 3,
       "published": "2026-07-19T20:03:00+00:00",
       "discovered_via": "feed"
+    },
+    {
+      "id": "88922271fab6",
+      "title": "Bridal Fashion That Thrives Through the Monsoon",
+      "link": "https://www.azafashions.com/blog/monsoon-bridal-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=monsoon-bridal-fashion",
+      "summary": "There's something undeniably romantic about a monsoon wedding. The overcast sky, the petrichor in the air, the sound of rain against marigold-draped mandaps — it creates a mood that no&#8230; The post Bridal Fashion That Thrives Through the Monsoon appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Bridal Fashion That Thrives Through the Monsoon — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-18T22:30:00+00:00",
+      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "eternal share price",
+      "term": "പണം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "horoscope today",
+      "term": "fans petition fifa to replay the world cup final match",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "alphabet earnings report",
+      "term": "ప్రకాష్ రాజ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nisar satellite antarctica image",
+      "term": "രാഷ്ട്രീയം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ವಿಜಯವಾಣಿ",
+      "term": "जम्मू",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bajaj auto share price",
+      "term": "பெ. சண்முகம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cube highways trust ipo",
+      "term": "ದಕ್ಷಿಣ ಕನ್ನಡ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பிரேமலதா விஜயகாந்த்",
+      "term": "प्रधानमंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hdfc bank share",
+      "term": "ఐశ్వర్య రాజేశ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "વડોદરા",
+      "term": "cipla share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
