@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T07:31:06.657642+00:00",
+  "generated_at": "2026-07-24T10:16:14.017104+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 181,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,203 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Attachment Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-07-24T07:28:49+00:00",
+      "published": "2026-07-24T10:13:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9d7cc713d6e8",
+      "title": "Aperitivo Hour: A Sunday Supper with Tessa Tran",
+      "link": "https://www.vogue.com/article/aperitivo-hour-tessa-tran",
+      "summary": "Chan Luu CEO and Creative Director Tessa Tran takes us behind the scenes of a Sunday dinner party at her home in Los Angeles.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Aperitivo Hour: A Sunday Supper with Tessa Tran...",
+      "score": 0,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d0a568b4346a",
+      "title": "Paris Fashion Week Unveils Spring/Summer 2027 Schedule",
+      "link": "https://www.vogue.com/article/paris-fashion-week-unveils-spring-summer-2027-schedule",
+      "summary": "Two designer debuts, notable returns and Paris’s usual blockbuster shows are in store this fall.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Paris Fashion Week Unveils Spring/Summer 2027 Schedule...",
+      "score": 3,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fe96cc6c98ff",
+      "title": "The Best Eye Makeup For Blue Eyes, According To Makeup Artists",
+      "link": "https://www.vogue.com/article/eye-makeup-for-blue-eyes",
+      "summary": "If you’re unsure where to start when looking for the best eye makeup for blue eyes, browse Vogue’s guide to top eyeshadows, liners and creams for blue eyes.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Eye Makeup For Blue Eyes, According To Makeup Artists...",
+      "score": 0,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3783eac55e5a",
+      "title": "The 7 Best Airbnbs in the Algarve, from Rustic Cottages to Whitewashed Villas",
+      "link": "https://www.vogue.com/article/the-best-airbnbs-in-the-algarve",
+      "summary": "Headed to Portugal's coast? Book a villa Airbnb in the Algarve for an idyllic home base. Here are seven properties we've bookmarked.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 7 Best Airbnbs in the Algarve, from Rustic Cottages to Whitewashed...",
+      "score": 0,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6b726540058",
+      "title": "Birkins, Big Sunglasses, and Lots of Sparkle: Looking Back at Jennifer Lopez’s Best Fashion Moments",
+      "link": "https://www.vogue.com/slideshow/jennifer-lopez-best-fashion-moments",
+      "summary": "In honor of J.Lo’s 57th birthday, take a look back at some of her standout fashion moments.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Birkins, Big Sunglasses, and Lots of Sparkle: Looking Back at Jennifer...",
+      "score": 1,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "title": "The Best Zara New Arrivals to Shop for Summer 2026",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Summer essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Summer 2026...",
+      "score": 0,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf300e5ded52",
+      "title": "I Only Ever Wear All Black, So I Tried Wearing Color to the Office for a Week",
+      "link": "https://www.vogue.com/article/i-only-ever-wear-all-black-so-i-tried-wearing-color-to-the-office-for-a-week",
+      "summary": "The rules were simple: I had to wear at least two colors, no black, and every outfit had to be inspired by the men’s spring 2027 runways.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "491c6ac527ef",
+      "title": "Is Asia Pacific Beauty Finally Turning a Corner?",
+      "link": "https://www.vogue.com/article/is-asia-pacific-beauty-finally-turning-a-corner",
+      "summary": "Mainland China aside, Asia Pacific’s travel retail beauty outlook is looking rosier than the headlines suggest.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Is Asia Pacific Beauty Finally Turning a Corner?...",
+      "score": 1,
+      "published": "2026-07-24T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-24T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d8d028283041",
+      "title": "My Goal Is Perfecting Easy, 5 Minute Outfits—6 Co-ord Fashion Trends I’m Wearing On Repeat",
+      "link": "https://www.whowhatwear.com/fashion/trends/co-ord-fashion-trends-2026",
+      "summary": "Two pieces, 100 ways to wear.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-07-24T09:11:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "52afc5b0baab",
+      "title": "Pampering, Padel and a Dinner Party to Remember: Inside Who What Wear’s Annual Summer House",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-house-2026",
+      "summary": "The ultimate girls trip.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Pampering, Padel and a Dinner Party to Remember: Inside Who What Wear’...",
+      "score": 1,
+      "published": "2026-07-24T08:23:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ea640a2db74",
+      "title": "It's Already Autumn at Zara—19 Elegant New-Season Buys I'm Shopping Early",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-pre-autumn-shopping-2026",
+      "summary": "Ahead of the curve.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-24T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3619fd968ffe",
+      "title": "It's Official: These Are the 5 Elegant Summer Dress Trends All Over the High-Street Right Now",
+      "link": "https://www.whowhatwear.com/fashion/trends/high-street-summer-dress-trends-2026",
+      "summary": "Premium-looking finds ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-24T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b8e54988ba93",
+      "title": "What Brands & Retailers Really Want From Their Sourcing Partners",
+      "link": "https://in.apparelresources.com/business-news/sourcing/what-brands-retailers-really-want-from-their-sourcing-partners/",
+      "summary": "While the evolution of the fashion supply chain has been one of constant change, today, every fashion retailer is trying to unravel the maze of Bharat &#38; India consumers. Fashion Retail is operating in an environment characterised by multiple and varied consumer touch points (omnichannel), hyper-accelerated, shorter",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Brands & Retailers Really Want From Their Sourcing Partners...",
+      "score": 2,
+      "published": "2026-07-24T07:51:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -779,20 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "886eeeeae552",
-      "title": "8 Best Eye Serum Formulas of 2026 to Tighten and Depuff",
-      "link": "https://www.vogue.com/article/best-eye-serums",
-      "summary": "The best eye serum formulas incorporate higher levels of vitamin C, niacinamide, and peptides to target crow’s-feet and dark circles. Shop Vogue’s top picks.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Eye Serum Formulas of 2026 to Tighten and Depuff...",
-      "score": 0,
-      "published": "2026-07-23T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "10bf1c3bbfc4",
       "title": "Chevron Makes a Comeback: 2010s Zigzag Returns as 2026’s Structured Statement Print",
       "link": "https://in.apparelresources.com/fashion-news/trends/chevron-makes-comeback-2010s-zigzag-returns-2026s-structured-statement-print/",
@@ -821,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "db70f45b70b6",
-      "title": "The It-Girls Have Spoken: A Granny Nightie Is Officially A Summer Essential",
-      "link": "https://www.vogue.com/article/nightie-dress-trend-summer",
-      "summary": "Beloved by Kaia Gerber, Bella Hadid and Olivia Rodriguez, the granny dress trend is blowing up this summer. From Free People and Doen, see and shop the look here.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The It-Girls Have Spoken: A Granny Nightie Is Officially A Summer Esse...",
-      "score": 2,
-      "published": "2026-07-23T10:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b3303b6158d2",
       "title": "Tomato Red is the Boldest Staple This Season",
       "link": "https://in.apparelresources.com/fashion-news/trends/tomato-red-boldest-staple-season/",
@@ -849,62 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b1016276a409",
-      "title": "“¡Olé!” I Flew Straight From MetLife Stadium to Join Madrid’s 24-Hour World Cup Celebrations",
-      "link": "https://www.vogue.com/slideshow/spain-madrid-world-cup-celebrations-2026",
-      "summary": "When I arrived at MetLife for Sunday’s World Cup final, I had already checked in to two red eye flights departing a few hours later: one to Madrid, the other to Buenos Aires. The moment the final whistle blew, I planned to step onto the plane bound for the winners’ country and wake up in the capital of the new world ch",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: “¡Olé!” I Flew Straight From MetLife Stadium to Join Madrid’s 24-Hour ...",
-      "score": 0,
-      "published": "2026-07-23T10:03:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "93d49ff75494",
-      "title": "The 17 Best Airbnbs in Barcelona, From an Architect’s Loft to a Stylish Penthouse",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-barcelona",
-      "summary": "Vogue curates the best Airbnbs in Barcelona, whether you’re looking to stay by the beach or immerse yourself in the city’s architecture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 17 Best Airbnbs in Barcelona, From an Architect’s Loft to a Stylis...",
-      "score": 0,
-      "published": "2026-07-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f2a69e771ef1",
-      "title": "The 28 Best Wedding Dresses for Every Ceremony Style and Venue",
-      "link": "https://www.vogue.com/article/best-wedding-dresses",
-      "summary": "Shop the best wedding dresses for every bridal style, from laid-back ceremonies to formal affairs with brands like Danielle Frankel, Victoria Beckham, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The 28 Best Wedding Dresses for Every Ceremony Style and Venue — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-07-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d5136cf8ae9a",
-      "title": "10+ Scarf Dresses to Wear All Summer Long",
-      "link": "https://www.vogue.com/best-scarf-dresses",
-      "summary": "Chic scarf dresses are the ultimate statement dress. We’ve rounded up our favorites from Versace, Tory Burch, Maria Moscone, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10+ Scarf Dresses to Wear All Summer Long...",
-      "score": 2,
-      "published": "2026-07-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "31945b53446f",
       "title": "You're Only 3 Items Away From Wearing the Coolest Flat-Shoe Outfit Trend of Late Summer 2026",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/baby-tee-low-rise-pants-ballet-flats-outfit-trend-karlie-kloss",
@@ -916,48 +1028,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-07-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f9e21b8296b1",
-      "title": "What Could Better Brand-Supplier Relationships Look Like?",
-      "link": "https://www.vogue.com/article/what-could-better-brand-supplier-relationships-look-like",
-      "summary": "After over a decade of top-down decision-making from brands, manufacturers want to flip the script. How can brands involve them in sustainability strategies from ‘day zero’?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What Could Better Brand-Supplier Relationships Look Like?...",
-      "score": 1,
-      "published": "2026-07-23T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6b3fa60ec276",
-      "title": "On the Podcast: Karol G on Her Dream Date, Her Hot Dog Obsession, and Preparing for a New Stadium Tour",
-      "link": "https://www.vogue.com/article/on-the-podcast-karol-g-on-her-dream-date-her-hot-dog-obsession-and-preparing-for-a-new-stadium-tour",
-      "summary": "On this Thursday’s episode of “The Run-Through,” the Grammy-winning artist talks to Chloe Malle and guest host Ignacio Murillo about her new stadium tour, Viajando por el Mundo Tropitour.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: On the Podcast: Karol G on Her Dream Date, Her Hot Dog Obsession, and ...",
-      "score": 0,
-      "published": "2026-07-23T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "49835f46ef61",
-      "title": "Selena Gomez’s La Dolce Vita Wardrobe Ticks All the Summer Trends",
-      "link": "https://www.vogue.com/article/selena-gomez-italy-vacation-wardrobe",
-      "summary": "Celebrating her 34th birthday in Italy with husband Benny Blanco, Selena Gomez has embraced the celebrity hair accessory du jour and airy all-whites.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-23T09:00:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1493,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bec249ab58c8",
-      "title": "Rajasthan to Connect Nearly All Sanganer Textile Units to CETP Network by August",
-      "link": "https://in.apparelresources.com/business-news/sustainability/rajasthan-connect-nearly-sanganer-textile-units-cetp-network-august/",
-      "summary": "Industrial wastewater management in Rajasthan&#8217;s Sanganer textile cluster, located on the outskirts of Jaipur and known for its traditional hand block printing and textile manufacturing, is set to expand, with nearly all member textile units expected to be connected to the Common Effluent Treatment Plant (CETP) ne",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Rajasthan to Connect Nearly All Sanganer Textile Units to CETP Network...",
-      "score": 1,
-      "published": "2026-07-22T12:39:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "67a4dfb91fd0",
       "title": "Vittoria Ceretti Is Shopping Etsy Graphic Tees, Armani Blush and Aquaphor",
       "link": "https://fashionista.com/2026/07/vittoria-ceretti-fashion-beauty-interview",
@@ -1563,20 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "89567a387887",
-      "title": "Olivia Rodrigo Wore Platform Uggs With the Pant Trend I Genuinely Recommend Flying In",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/olivia-rodrigo-airport-lounge-pants-ugg-platform-mules-outfit",
-      "summary": "Over 10,000 miles later.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-22T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1cffd1a10fe0",
       "title": "The Best Down Jacket Brands: Heritage vs High-Tech Winter Jackets (Plus The Secret Champion)",
       "link": "https://www.fashionbeans.com/article/best-down-jacket-brands/",
@@ -1602,62 +1644,6 @@
       "angle": "Fashion Intelligence: Elevate Your Style: Picking the Perfect Seiko 5 Watch Bands...",
       "score": 1,
       "published": "2026-07-22T08:20:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f5b9d5ad0d42",
-      "title": "This Brand's Cult Dresses Sell Out Every Summer—5 Celebrity-Approved Styles Worth Knowing About",
-      "link": "https://www.whowhatwear.com/fashion/shopping/doen-dresses-celebrity-2026",
-      "summary": "From Bella to Daisy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0679ec75e57d",
-      "title": "Summer House's Mia Calabrese on \"Bad B*tch\" Beauty and Her Relationships With Rihanna and Ciara Miller",
-      "link": "https://www.whowhatwear.com/beauty/makeup/mia-calabrese-fenty-interview",
-      "summary": "Plus, her go-to products for beating the Hamptons heat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Summer House's Mia Calabrese on \"Bad B*tch\" Beauty and Her Relationshi...",
-      "score": 1,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a1b376aacb2d",
-      "title": "The Bridal Makeup Look Is Over—How No-Makeup Brides Are Redefining the Trend",
-      "link": "https://www.whowhatwear.com/beauty/makeup/no-makeup-wedding-trend",
-      "summary": "See the women who ditched makeup in exchange for radiance-boosting skincare.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Bridal Makeup Look Is Over—How No-Makeup Brides Are Redefining the Trend — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7c73482b7712",
-      "title": "Fashion People Agree: You Only Need One Wedding Guest Dress for Every Dress Code—Here They Are",
-      "link": "https://www.whowhatwear.com/fashion/dresses/best-wedding-guest-dress-for-every-attire",
-      "summary": "From black-tie invites to beachside vows.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Fashion People Agree — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-22T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2795,6 +2781,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9f6ad56e5006",
+      "title": "15 Rakhi Outfit Ideas for Women in USA Who Hate Heavy Ethnicwear",
+      "link": "https://www.azafashions.com/blog/rakhi-lightweight-outfit-ideas-usa/?utm_source=rss&utm_medium=rss&utm_campaign=rakhi-lightweight-outfit-ideas-usa",
+      "summary": "Raksha Bandhan in the USA often looks a little different.&#160;Maybe you're&#160;tying&#160;rakhi&#160;before heading out for brunch, hosting a backyard barbecue with family, or squeezing celebrations between work meetings and weekend plans.&#8230; The post 15 Rakhi Outfit Ideas for Women in USA Who Hate Heavy Ethnicwe",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Rakhi Outfit Ideas for Women in USA Who Hate Heavy Ethnicwear...",
+      "score": 3,
+      "published": "2026-07-24T07:55:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1f20ddb25b0e",
       "title": "Anarkali, Sharara or Saree? What to Wear for Rakhi Based on Your Plans",
       "link": "https://www.azafashions.com/blog/what-to-wear-for-raksha-bandhan/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-for-raksha-bandhan",
@@ -2919,70 +2919,56 @@
       "score": 2,
       "published": "2026-07-20T13:21:36+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "62c745cd3507",
-      "title": "Light Song: Inside Gaurav Gupta’s Cosmic Couture Love Letter to the Sun and the Moon",
-      "link": "https://www.azafashions.com/blog/gaurav-gupta-light-song-couture-show/?utm_source=rss&utm_medium=rss&utm_campaign=gaurav-gupta-light-song-couture-show",
-      "summary": "There are fashion shows, and then there are the ones that make you forget you're sitting in a convention centre in Mumbai. Gaurav Gupta's second independent India couture outing, Light Song, staged at&#8230; The post Light Song: Inside Gaurav Gupta&#8217;s Cosmic Couture Love Letter to the Sun and the Moon appeared fir",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Light Song: Inside Gaurav Gupta’s Cosmic Couture Love Letter to the Su...",
-      "score": 3,
-      "published": "2026-07-19T20:03:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "elon musk",
+      "term": "additional director general of police",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "saudi prince",
+      "term": "ಸೂರ್ಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "balen shah",
+      "term": "oracle",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "indian navy",
+      "term": "galaxy watch ultra",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "ರೈತ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bandhan bank",
+      "term": "नरेन्द्र मोदी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மு. க. ஸ்டாலின்",
+      "term": "वेस्टइंडीज़ क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "असीम मुनीर",
+      "term": "জামিন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ജ്യോതിഷം",
+      "term": "namit malhotra ramayana trailer postponed",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hairstyle",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "honda cb500",
+      "term": "sbi funds management stock price",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
