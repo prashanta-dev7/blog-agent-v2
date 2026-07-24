@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-07-24T10:16:14.017104+00:00",
+  "generated_at": "2026-07-24T12:19:20.745090+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 180,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "7666b1dcd8d6",
+      "title": "Suddenly, the Chicest Dressers In London, Madrid and Capri Have Swapped Pearls For This Much Cooler Jewellery Trend",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/fish-jewellery-trend-summer-2026",
+      "summary": "So simple, so chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-24T12:15:25+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "66d259f5d5f5",
       "title": "Attachment Tokyo Spring 2027",
@@ -19,21 +33,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Attachment Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-07-24T10:13:25+00:00",
+      "published": "2026-07-24T12:15:23+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9d7cc713d6e8",
-      "title": "Aperitivo Hour: A Sunday Supper with Tessa Tran",
-      "link": "https://www.vogue.com/article/aperitivo-hour-tessa-tran",
-      "summary": "Chan Luu CEO and Creative Director Tessa Tran takes us behind the scenes of a Sunday dinner party at her home in Los Angeles.",
+      "id": "c27beb84b7ed",
+      "title": "‘I Want Your Sex’ and Hollywood’s New Favorite Age Gap",
+      "link": "https://www.vogue.com/article/i-want-your-sex-and-hollywoods-new-favorite-age-gap",
+      "summary": "When Karley Sciortino wrote a script based on a BDSM relationship in her 20s with an older man, no one would touch it. More than a decade—and a gender swap—later, “I Want Your Sex” starring Olivia Wilde and Cooper Hoffman was born.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Aperitivo Hour: A Sunday Supper with Tessa Tran...",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: ‘I Want Your Sex’ and Hollywood’s New Favorite Age Gap...",
       "score": 0,
-      "published": "2026-07-24T10:00:00+00:00",
+      "published": "2026-07-24T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba70520cdc63",
+      "title": "Pamela Anderson on Her Next Chapter, Taking Comedy Seriously, and the Truth About Motherhood",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a73224453/pamela-anderson-harpers-bazaar-questionnaire/",
+      "summary": "Ahead of her new movie, Rosebush Pruning , the iconic actress answers Bazaar’s “First, Now, Next” Questionnaire",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Pamela Anderson on Her Next Chapter, Taking Comedy Seriously, and the ...",
+      "score": 0,
+      "published": "2026-07-24T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "78a78dbecb16",
+      "title": "Chloé’s Fall 2026 Campaign Is Beautifully Untamed",
+      "link": "https://www.fashiongonerogue.com/story/chloe-fall-2026-campaign/",
+      "summary": "Chloé&#8217;s fall-winter 2026 campaign trades the runway for wide-open land where nature and fashion deliver striking imagery. Creative director Chemena ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Chloé’s Fall 2026 Campaign Is Beautifully Untamed...",
+      "score": 2,
+      "published": "2026-07-24T11:27:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c480b8944dca",
+      "title": "Moss Green Becomes Fashion’s Go-To Neutral for 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/moss-green-becomes-fashions-go-neutral-2026/",
+      "summary": "Moss green has replaced beige and camel as the shade for minimalistic fashion. It carries the same versatility as a classic neutral but with far more depth. Worn head-to-toe, it reads grounded rather than flat, the tone shifting subtly with light and fabric. Used as an accent, like a bag, a shoe, a dupatta border, [&#8",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Moss Green Becomes Fashion’s Go-To Neutral for 2026...",
+      "score": 2,
+      "published": "2026-07-24T10:53:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "acc7d50b9a1d",
+      "title": "Mirror, Mirror: Abhla Embroidery Claims Global Fashion’s Spotlight in 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/mirror-mirror-abhla-embroidery-claims-global-fashions-spotlight-2026/",
+      "summary": "Handcrafted heritage is having a moment in 2026, and Abhla embroidery, India&#8217;s centuries-old mirror-work craft, is leading it. Across runways, celebrity wardrobes and festive collections this year, handcrafted details are stealing the spotlight, with Abhla embroidery leading the revival. Defined by tiny mirrors l",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 7,
+      "published": "2026-07-24T10:40:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cda1699af121",
+      "title": "Hold the Sambas—I Know You're a Fashion Person If You're Wearing This Trainer Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-trainer-trend-dua-lipa-2026",
+      "summary": "Much cooler.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-24T10:22:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,15 +135,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fe96cc6c98ff",
-      "title": "The Best Eye Makeup For Blue Eyes, According To Makeup Artists",
-      "link": "https://www.vogue.com/article/eye-makeup-for-blue-eyes",
-      "summary": "If you’re unsure where to start when looking for the best eye makeup for blue eyes, browse Vogue’s guide to top eyeshadows, liners and creams for blue eyes.",
+      "id": "9d7cc713d6e8",
+      "title": "Aperitivo Hour: A Sunday Supper with Tessa Tran",
+      "link": "https://www.vogue.com/article/aperitivo-hour-tessa-tran",
+      "summary": "Chan Luu CEO and Creative Director Tessa Tran takes us behind the scenes of a Sunday dinner party at her home in Los Angeles.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Eye Makeup For Blue Eyes, According To Makeup Artists...",
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Aperitivo Hour: A Sunday Supper with Tessa Tran...",
       "score": 0,
       "published": "2026-07-24T10:00:00+00:00",
       "discovered_via": "feed"
@@ -74,6 +158,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The 7 Best Airbnbs in the Algarve, from Rustic Cottages to Whitewashed...",
+      "score": 0,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fe96cc6c98ff",
+      "title": "The Best Eye Makeup For Blue Eyes, According To Makeup Artists",
+      "link": "https://www.vogue.com/article/eye-makeup-for-blue-eyes",
+      "summary": "If you’re unsure where to start when looking for the best eye makeup for blue eyes, browse Vogue’s guide to top eyeshadows, liners and creams for blue eyes.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Eye Makeup For Blue Eyes, According To Makeup Artists...",
       "score": 0,
       "published": "2026-07-24T10:00:00+00:00",
       "discovered_via": "feed"
@@ -150,9 +248,9 @@
     },
     {
       "id": "d8d028283041",
-      "title": "My Goal Is Perfecting Easy, 5 Minute Outfits—6 Co-ord Fashion Trends I’m Wearing On Repeat",
+      "title": "My Goal Is Perfecting Easy, 5-Minute Outfits—6 Co-Ord Fashion Trends I’m Wearing on Repeat",
       "link": "https://www.whowhatwear.com/fashion/trends/co-ord-fashion-trends-2026",
-      "summary": "Two pieces, 100 ways to wear.",
+      "summary": "Matchy-matchy.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -177,20 +275,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3ea640a2db74",
-      "title": "It's Already Autumn at Zara—19 Elegant New-Season Buys I'm Shopping Early",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-pre-autumn-shopping-2026",
-      "summary": "Ahead of the curve.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-24T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3619fd968ffe",
       "title": "It's Official: These Are the 5 Elegant Summer Dress Trends All Over the High-Street Right Now",
       "link": "https://www.whowhatwear.com/fashion/trends/high-street-summer-dress-trends-2026",
@@ -201,6 +285,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-07-24T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ea640a2db74",
+      "title": "It's Already Autumn at Zara—19 Elegant New-Season Buys I'm Shopping Early",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-pre-autumn-shopping-2026",
+      "summary": "Ahead of the curve.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-07-24T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -219,29 +317,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9f0a6e677a02",
-      "title": "Assam floods: Satellite images show the Brahmaputra swelling threefold",
-      "link": "https://www.indiatoday.in/india/story/assam-floods-satellite-images-show-vast-spread-as-death-toll-reaches-47-2954965-2026-07-24?utm_source=rss",
-      "summary": "Assam floods: Satellite images show the Brahmaputra swelling threefold",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Assam floods: Satellite images show the Brahmaputra swelling threefold...",
-      "score": 1,
-      "published": "2026-07-24T07:11:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b29e058a75a7",
-      "title": "I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Year",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-linen-bottoms-2026",
-      "summary": "White linen trousers? Yes. But there's so much more.",
+      "id": "517c02be79a6",
+      "title": "I'm an Expert on Basics—These Are the White Tees and Tanks I'm Wearing This Summer",
+      "link": "https://www.whowhatwear.com/the-best-white-tees-and-tanks",
+      "summary": "Trust me.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Ye...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-07-24T07:00:00+00:00",
       "discovered_via": "feed"
@@ -261,20 +345,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "517c02be79a6",
-      "title": "I'm an Expert on Basics—These Are the White Tees and Tanks I'm Wearing This Summer",
-      "link": "https://www.whowhatwear.com/the-best-white-tees-and-tanks",
-      "summary": "Trust me.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e613bddf9240",
       "title": "I Own a Fashion Brand in Paris—Here's What You'll Find in My Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/shopping/turn-paris",
@@ -285,6 +355,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Own a Fashion Brand in Paris—Here's What You'll Find in My Wardrobe...",
       "score": 2,
+      "published": "2026-07-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b29e058a75a7",
+      "title": "I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Year",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-linen-bottoms-2026",
+      "summary": "White linen trousers? Yes. But there's so much more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Ye...",
+      "score": 1,
       "published": "2026-07-24T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -345,20 +429,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e57c7fa68909",
-      "title": "Autumn is Around the Corner, So These are the Luxury Summer Pieces I'm Shopping and Wearing Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-luxury-fashion-items-summer-2026",
-      "summary": "Make the most of the sun.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-24T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e5114d8b4053",
       "title": "From Lace Trims to Heeled Flip-Flops—7 Summer Micro-Trends the London Style Set Can't Stop Wearing",
       "link": "https://www.whowhatwear.com/fashion/summer/london-girl-micro-trends-summer-2026",
@@ -369,6 +439,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-07-24T02:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e57c7fa68909",
+      "title": "Autumn is Around the Corner, So These are the Luxury Summer Pieces I'm Shopping and Wearing Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-luxury-fashion-items-summer-2026",
+      "summary": "Make the most of the sun.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-24T02:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -891,20 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b244c24731ba",
-      "title": "Strap In: Vogue’s Next Book Club Pick Is Bret Easton Ellis’s ‘Less Than Zero’",
-      "link": "https://www.vogue.com/article/vogues-next-book-club-pick-is-less-than-zero-bret-easton-ellis",
-      "summary": "Vogue’s Book Club is back, and for our third installment we’ve got our Ray-Bans on, our Elvis Costello cued up, and we’re afraid to merge.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Strap In: Vogue’s Next Book Club Pick Is Bret Easton Ellis’s ‘Less Tha...",
-      "score": 0,
-      "published": "2026-07-23T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4159e7ae03a5",
       "title": "Botox for a Better Mood?",
       "link": "https://www.vogue.com/article/botox-for-a-better-mood",
@@ -914,6 +984,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Botox for a Better Mood?...",
+      "score": 0,
+      "published": "2026-07-23T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b244c24731ba",
+      "title": "Strap In: Vogue’s Next Book Club Pick Is Bret Easton Ellis’s ‘Less Than Zero’",
+      "link": "https://www.vogue.com/article/vogues-next-book-club-pick-is-less-than-zero-bret-easton-ellis",
+      "summary": "Vogue’s Book Club is back, and for our third installment we’ve got our Ray-Bans on, our Elvis Costello cued up, and we’re afraid to merge.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Strap In: Vogue’s Next Book Club Pick Is Bret Easton Ellis’s ‘Less Tha...",
       "score": 0,
       "published": "2026-07-23T12:00:00+00:00",
       "discovered_via": "feed"
@@ -944,20 +1028,6 @@
       "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
       "score": 0,
       "published": "2026-07-23T11:13:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a0ebc673223e",
-      "title": "OpenAI Has Entered the Swag Chat—Here’s What Tech Bro Merch Really Signals",
-      "link": "https://www.vogue.com/article/openai-tech-corporate-merch-swag",
-      "summary": "Will you be copping visionless merch from the companies—from OpenAI to Palantir and Anthropic— meant to be staring down the barrel of tomorrow’s world?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: OpenAI Has Entered the Swag Chat—Here’s What Tech Bro Merch Really Sig...",
-      "score": 0,
-      "published": "2026-07-23T11:10:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1031,6 +1101,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "694d9bbf032a",
+      "title": "I Swear These 15 Beach Hairstyles Look Effortlessly Cool and Are *Actually* Easy to DIY",
+      "link": "https://www.whowhatwear.com/beauty/hair/beach-hairstyle-ideas",
+      "summary": "So chic on and off the sand.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Swear These 15 Beach Hairstyles Look Effortlessly Cool and Are *Actu...",
+      "score": 2,
+      "published": "2026-07-23T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "18663cefd3e1",
       "title": "The Chicest Women I Know All Get Their Summer Dresses From This High-Street Brand—15 Styles Selling Fast",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-nobodys-child-dresses-2026",
@@ -1059,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "694d9bbf032a",
-      "title": "I Swear These 15 Beach Hairstyles Look Effortlessly Cool and Are *Actually* Easy to DIY",
-      "link": "https://www.whowhatwear.com/beauty/hair/beach-hairstyle-ideas",
-      "summary": "So chic on and off the sand.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Swear These 15 Beach Hairstyles Look Effortlessly Cool and Are *Actu...",
-      "score": 2,
-      "published": "2026-07-23T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6123fe332195",
       "title": "It's Time to Retire Your Tote—These Luxury Holiday Bags Will Earn You an Upgrade to Business Class",
       "link": "https://www.whowhatwear.com/fashion/summer/luxury-holiday-bags-summer-2026",
@@ -1084,34 +1154,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 1,
       "published": "2026-07-23T07:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a1a18fb1109",
-      "title": "Sorry, Lace-Trimmed Shorts—This Fancy Shorts Trend Is More 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/taffeta-shorts-trend",
-      "summary": "Wear it for the rest of the summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "14eb899b562c",
-      "title": "I Know People With High Standards and Low Budgets Will Like These Under-$75 Nordstrom Picks",
-      "link": "https://www.whowhatwear.com/best-under-75-fashion-beauty-items-nordstrom-anniversary-sale-2026",
-      "summary": "Everything from rich-looking satin shorts to beauty gems.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know People With High Standards and Low Budgets Will Like These Unde...",
-      "score": 1,
-      "published": "2026-07-23T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1143,6 +1185,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3a1a18fb1109",
+      "title": "Sorry, Lace-Trimmed Shorts—This Fancy Shorts Trend Is More 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/taffeta-shorts-trend",
+      "summary": "Wear it for the rest of the summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "14eb899b562c",
+      "title": "I Know People With High Standards and Low Budgets Will Like These Under-$75 Nordstrom Picks",
+      "link": "https://www.whowhatwear.com/best-under-75-fashion-beauty-items-nordstrom-anniversary-sale-2026",
+      "summary": "Everything from rich-looking satin shorts to beauty gems.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know People With High Standards and Low Budgets Will Like These Unde...",
+      "score": 1,
+      "published": "2026-07-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7d9373bbdce2",
       "title": "Spotted at the Airport: The 5 Coolest Luggage Trends of 2026",
       "link": "https://www.whowhatwear.com/fashion/airport-style/luggage-trends-summer-2026",
@@ -1157,20 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f6411c772ab5",
-      "title": "These Y2K Hair Colours Are Making a Comeback—How to Wear Them in 2026, According to Experts",
-      "link": "https://www.whowhatwear.com/beauty/hair/y2k-hair-colours",
-      "summary": "From pastels to ribbon highlights.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: These Y2K Hair Colours Are Making a Comeback—How to Wear Them in 2026,...",
-      "score": 1,
-      "published": "2026-07-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ad1e7a51beb7",
       "title": "Not Red, Not Pink: This '90s Blush Trend Is Making a Comeback in 2026",
       "link": "https://www.whowhatwear.com/beauty/makeup/best-nude-blushes",
@@ -1180,6 +1236,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6411c772ab5",
+      "title": "These Y2K Hair Colours Are Making a Comeback—How to Wear Them in 2026, According to Experts",
+      "link": "https://www.whowhatwear.com/beauty/hair/y2k-hair-colours",
+      "summary": "From pastels to ribbon highlights.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: These Y2K Hair Colours Are Making a Comeback—How to Wear Them in 2026,...",
       "score": 1,
       "published": "2026-07-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1591,20 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "01a1569910ce",
-      "title": "If You Want Your Knee-Length Skirts to Look More French, Pair Them With This Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kaia-gerber-heeled-ballet-flats-mini-skirt-outfit-2026",
-      "summary": "Trés chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-22T10:31:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "68d845cd75ac",
       "title": "11 Best Razors For Men: Tidy, Trendy, and Trim in 2026",
       "link": "https://www.fashionbeans.com/article/best-razors-for-men",
@@ -1857,20 +1913,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "93505d2daba3",
-      "title": "Zendaya Proves That Cat-Eye Liner and Baby Bangs Are Alive and Well",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a73218535/zendaya-cat-eye-liner-baby-bangs/",
-      "summary": "The Spider-Man actress channeled Audrey Hepburn with her latest red-carpet look",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Zendaya Proves That Cat-Eye Liner and Baby Bangs Are Alive and Well...",
-      "score": 0,
-      "published": "2026-07-21T17:10:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "de114e521c2d",
       "title": "Must Read: Phillip Lim Launches New Brand, Sephora Announces 2026 Accelerate Cohort",
       "link": "https://fashionista.com/2026/07/phillip-lim-new-brand-playlovewin",
@@ -1966,20 +2008,6 @@
       "angle": "Fashion Intelligence: 15 Best Watch Boxes: Top Storage And Display Cases 2026...",
       "score": 2,
       "published": "2026-07-21T06:46:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db3a2509ee41",
-      "title": "Anaïs Mali Takes a Dip in Harper’s Bazaar Greece",
-      "link": "https://www.fashiongonerogue.com/editorial/anais-mali-harpers-bazaar-greece-2026/",
-      "summary": "Captured by Andreas Ortner, model Anaïs Mali covers Harper&#8217;s Bazaar Greece August 2026, in a story built entirely around the ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Anaïs Mali Takes a Dip in Harper’s Bazaar Greece...",
-      "score": 1,
-      "published": "2026-07-21T02:11:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2923,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "additional director general of police",
+      "term": "cambodia vs singapore",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಸೂರ್ಯ",
+      "term": "शेयर प्राइस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "oracle",
+      "term": "उच्चतम न्यायालय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "galaxy watch ultra",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "ರೈತ",
+      "term": "പെട്രോള്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नरेन्द्र मोदी",
+      "term": "archana puran singh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वेस्टइंडीज़ क्रिकेट टीम",
+      "term": "bank",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "জামিন",
+      "term": "lava",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "namit malhotra ramayana trailer postponed",
+      "term": "રોકાણ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi funds management stock price",
+      "term": "फ्लिपकार्ट",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "બગોદરા",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
