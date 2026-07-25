@@ -1,13 +1,139 @@
 {
-  "generated_at": "2026-07-25T05:13:02.684873+00:00",
+  "generated_at": "2026-07-25T07:15:08.616779+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "e3744a68813c",
+      "title": "Yes, You Can Wear Denim All Year Round—These Easy-to-Replicate Celeb Jeans Outfits Prove It",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-jeans-outfits-2026",
+      "summary": "Straight from the A-list.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Yes, You Can Wear Denim All Year Round—These Easy-to-Replicate Celeb J...",
+      "score": 2,
+      "published": "2026-07-25T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b3eb13cb14a",
+      "title": "Hailey Bieber's Nail Artist Has a New OPI Collection, and It's Celeb Glazed Donut Nails, Bottled",
+      "link": "https://www.whowhatwear.com/beauty/nails/zola-ganzorigt-chrome-effects-collection",
+      "summary": "With these exciting chrome shades, the world is your oyster.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d33103772cec",
+      "title": "Move Over, Jelly Sandals—the Cinderella-Shoe Trend Has Officially Taken Over",
+      "link": "https://www.whowhatwear.com/fashion/shoes/cinderella-shoe-trend",
+      "summary": "Princess shoes are so back.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7809eb12d09",
+      "title": "Not Black, Not White—the Expensive-Looking Neutral Everyone Is Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/khaki-color-trend-summer-2026",
+      "summary": "It'll transition seamlessly into your fall wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "41eff54160eb",
+      "title": "I'm a Shopping Expert—8 Trends I'm Buying for Fall 2026 and 8 I'm Skipping",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fall-2026-fashion-trends",
+      "summary": "Chic buys to take into the new season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "343defc6b5d4",
+      "title": "Viral hospital video shows Sonam Wangchuk being stopped by cops",
+      "link": "https://www.indiatoday.in/india/video/gitanjali-angmo-questions-cops-safdarjung-hospital-denies-harassment-charges-frvd-2955906-2026-07-25?utm_source=rss",
+      "summary": "Viral hospital video shows Sonam Wangchuk being stopped by cops",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Viral hospital video shows Sonam Wangchuk being stopped by cops...",
+      "score": 1,
+      "published": "2026-07-25T06:45:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc5fa4b511b2",
+      "title": "I'm an American Living in London, But I'll Always Think These Summer in California Outfits Are Chic",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-in-california-outfits",
+      "summary": "Golden looks from the Golden State.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm an American Living in London, But I'll Always Think These Summer i...",
+      "score": 1,
+      "published": "2026-07-25T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4c948dc42030",
+      "title": "I Asked 3 French Women What Beauty Products They Toss in Their Beach Bags—23 Chic Essentials",
+      "link": "https://www.whowhatwear.com/beauty/french-women-holiday-beauty-items",
+      "summary": "From fragrance to face mist.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Asked 3 French Women What Beauty Products They Toss in Their Beach B...",
+      "score": 1,
+      "published": "2026-07-25T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "447f60785a2f",
+      "title": "Meghan Markle's Swimsuit Trend Hasn't Gone Out of Style Since Princess Diana Wore It in the '90s",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/meghan-markle-swimsuit",
+      "summary": "It's timeless.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-25T05:42:54+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "c6f0412d44fb",
       "title": "Forget Trends—French Women Rely on These Classic Shoes to Make Their Summer Outfits Look Chic",
@@ -765,6 +891,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "bf300e5ded52",
+      "title": "I Only Ever Wear All Black, So I Tried Wearing Color to the Office for a Week",
+      "link": "https://www.vogue.com/article/i-only-ever-wear-all-black-so-i-tried-wearing-color-to-the-office-for-a-week",
+      "summary": "The rules were simple: I had to wear at least two colors, no black, and every outfit had to be inspired by the men’s spring 2027 runways.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "fe96cc6c98ff",
       "title": "The Best Eye Makeup For Blue Eyes, According To Makeup Artists",
       "link": "https://www.vogue.com/article/eye-makeup-for-blue-eyes",
@@ -817,20 +957,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The 7 Best Airbnbs in the Algarve, from Rustic Cottages to Whitewashed...",
       "score": 0,
-      "published": "2026-07-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf300e5ded52",
-      "title": "I Only Ever Wear All Black, So I Tried Wearing Color to the Office for a Week",
-      "link": "https://www.vogue.com/article/i-only-ever-wear-all-black-so-i-tried-wearing-color-to-the-office-for-a-week",
-      "summary": "The rules were simple: I had to wear at least two colors, no black, and every outfit had to be inspired by the men’s spring 2027 runways.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-07-24T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -891,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3619fd968ffe",
-      "title": "It's Official: These Are the 5 Elegant Summer Dress Trends All Over the High-Street Right Now",
-      "link": "https://www.whowhatwear.com/fashion/trends/high-street-summer-dress-trends-2026",
-      "summary": "Premium-looking finds ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-24T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3ea640a2db74",
       "title": "It's Already Autumn at Zara—19 Elegant New-Season Buys I'm Shopping Early",
       "link": "https://www.whowhatwear.com/fashion/shopping/zara-pre-autumn-shopping-2026",
@@ -915,6 +1027,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-07-24T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3619fd968ffe",
+      "title": "It's Official: These Are the 5 Elegant Summer Dress Trends All Over the High-Street Right Now",
+      "link": "https://www.whowhatwear.com/fashion/trends/high-street-summer-dress-trends-2026",
+      "summary": "Premium-looking finds ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-07-24T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1507,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b62c21fda18c",
-      "title": "Hold the Lace Dresses—Summer’s Prettiest Top Trend Will Elevate Your Skirts and Jeans",
-      "link": "https://www.whowhatwear.com/fashion/tops/bib-top-trend-summer-2026",
-      "summary": "Spotted in London, Ibiza and Greece.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-23T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "18663cefd3e1",
       "title": "The Chicest Women I Know All Get Their Summer Dresses From This High-Street Brand—15 Styles Selling Fast",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-nobodys-child-dresses-2026",
@@ -1546,104 +1658,6 @@
       "angle": "Fashion Intelligence: I Swear These 15 Beach Hairstyles Look Effortlessly Cool and Are *Actu...",
       "score": 2,
       "published": "2026-07-23T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6123fe332195",
-      "title": "It's Time to Retire Your Tote—These Luxury Holiday Bags Will Earn You an Upgrade to Business Class",
-      "link": "https://www.whowhatwear.com/fashion/summer/luxury-holiday-bags-summer-2026",
-      "summary": "Holiday mode: on.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-07-23T07:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a1a18fb1109",
-      "title": "Sorry, Lace-Trimmed Shorts—This Fancy Shorts Trend Is More 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/taffeta-shorts-trend",
-      "summary": "Wear it for the rest of the summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "14eb899b562c",
-      "title": "I Know People With High Standards and Low Budgets Will Like These Under-$75 Nordstrom Picks",
-      "link": "https://www.whowhatwear.com/best-under-75-fashion-beauty-items-nordstrom-anniversary-sale-2026",
-      "summary": "Everything from rich-looking satin shorts to beauty gems.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know People With High Standards and Low Budgets Will Like These Unde...",
-      "score": 1,
-      "published": "2026-07-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b6ca8997dd57",
-      "title": "Our Editors Have Spoken: These 6 Brands Have the Best Straight-Leg Jeans",
-      "link": "https://www.whowhatwear.com/fashion/denim/best-straight-leg-jeans",
-      "summary": "We don't gatekeep the IYKYK labels.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Our Editors Have Spoken: These 6 Brands Have the Best Straight-Leg Jea...",
-      "score": 2,
-      "published": "2026-07-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "01265ea1a7ac",
-      "title": "Sorry, Simple White Summer Dresses—Personality Dresses Are the Summer Trend Every Chic Person Is Wearing Instead",
-      "link": "https://www.whowhatwear.com/fashion/personality-dresses",
-      "summary": "The fashion insider's favorite vacation piece.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-07-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7d9373bbdce2",
-      "title": "Spotted at the Airport: The 5 Coolest Luggage Trends of 2026",
-      "link": "https://www.whowhatwear.com/fashion/airport-style/luggage-trends-summer-2026",
-      "summary": "According to Jacob Elordi, Gigi Hadid, and the best dressed frequent flyers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f6411c772ab5",
-      "title": "These Y2K Hair Colours Are Making a Comeback—How to Wear Them in 2026, According to Experts",
-      "link": "https://www.whowhatwear.com/beauty/hair/y2k-hair-colours",
-      "summary": "From pastels to ribbon highlights.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: These Y2K Hair Colours Are Making a Comeback—How to Wear Them in 2026,...",
-      "score": 1,
-      "published": "2026-07-23T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "ransom canyon",
+      "term": "csas",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chelsea football club",
+      "term": "कर्मचारी भविष्य निधि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "con city tamil movie",
+      "term": "game of thrones",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakistan vs sri lanka",
+      "term": "ನರೇಂದ್ರ ಮೋದಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पाकिस्तान महिला बनाम श्रीलंका महिला",
+      "term": "గుండెనిండా గుడిగంటలు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "श्रीलंका महिला बनाम पाकिस्तान महिला",
+      "term": "സൂര്യ കാന്ത്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विदेशी मुद्रा का आरक्षित भंडार",
+      "term": "snn raj etternia",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मोहन भागवत",
+      "term": "पति",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sl-w vs pakw",
+      "term": "malaysia",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கடன்",
+      "term": "ಸೋನಂ ವಾಂಗ್ ಚುಕ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
