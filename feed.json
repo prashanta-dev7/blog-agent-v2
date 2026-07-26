@@ -1,24 +1,108 @@
 {
-  "generated_at": "2026-07-26T07:35:08.636313+00:00",
+  "generated_at": "2026-07-26T09:59:28.886043+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "6fb35b14cc76",
-      "title": "Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Under $200 at Nordstrom",
-      "link": "https://www.whowhatwear.com/summer-fashion-under-200-nordstrom",
-      "summary": "Done and done.",
+      "id": "687a37db4ef5",
+      "title": "Where the Presidents Spent Their Summers, From Coolidge to Carter",
+      "link": "https://www.vogue.com/article/where-the-presidents-spent-their-summers",
+      "summary": "The 'summer White House' is a longstanding tradition among U.S. presidents that enables them to fulfill their duties in a scenic setting with their families. From JFK’s iconic compound in Hyannis Port to Obama’s beloved Martha’s Vineyard, discover where the presidents spent their summers while in office.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Where the Presidents Spent Their Summers, From Coolidge to Carter...",
+      "score": 0,
+      "published": "2026-07-26T09:34:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "136499ed34ef",
+      "title": "20 Stunning Vintage Photos of Sandra Bullock",
+      "link": "https://www.vogue.com/slideshow/vintage-photos-of-sandra-bullock",
+      "summary": "Sandra, if you’re reading this, drop the skincare routine posthaste!",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20 Stunning Vintage Photos of Sandra Bullock...",
+      "score": 0,
+      "published": "2026-07-26T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d0e7ec0a374e",
+      "title": "I’m Surrounded By Stylish Women—This is the New Outfit Formula They’re Suddenly Wearing",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/capri-pants-and-heeled-flip-flops-outfit-trend-vittoria-ceretti-kylie-jenner-2026",
+      "summary": "It's taking off for good reason.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Un...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-26T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2c4edb87f745",
+      "title": "India emerging as trusted global defence partner: PM in Mann Ki Baat address",
+      "link": "https://www.indiatoday.in/india/story/india-defence-exports-missiles-vikram-1-modi-global-trust-ptag-2956545-2026-07-26?utm_source=rss",
+      "summary": "India emerging as trusted global defence partner: PM in Mann Ki Baat address",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: India emerging as trusted global defence partner: PM in Mann Ki Baat a...",
       "score": 1,
+      "published": "2026-07-26T08:02:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fbd274dc9758",
+      "title": "Phase Out the Linen Dresses—Everyone Will Be Swapping Them for This Elegant Trend by Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/taffeta-satin-dress-trend-monica-barbaro-uk",
+      "summary": "You might as well start shopping for this pretty trend now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-26T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "176c0f6b253e",
+      "title": "I Just Tried On Zara's Chicest Collection to Date—9 Pieces That Will Sell Out by Next Week",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-try-on-summer-2026",
+      "summary": "Elegant buys ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-26T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eb9b5fa12c65",
+      "title": "I Have High Standards for Black-Tie Weddings—These Summer Dresses Passed Every Test",
+      "link": "https://www.whowhatwear.com/living/wedding/best-summer-black-tie-wedding-guest-dresses",
+      "summary": "If you're picky about wedding guest attire, you'll like this edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I Have High Standards for Black-Tie Weddings—These Summer Dresses Passed Every Test — A Complete Style Guide",
+      "score": 2,
       "published": "2026-07-26T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -37,6 +121,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6fb35b14cc76",
+      "title": "Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Under $200 at Nordstrom",
+      "link": "https://www.whowhatwear.com/summer-fashion-under-200-nordstrom",
+      "summary": "Done and done.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Un...",
+      "score": 1,
+      "published": "2026-07-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9539ffae96de",
       "title": "I Thought Trainers Were \"Boring\"—These 5 Celebrity Outfits Proved Me Very Wrong",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/celebrity-summer-trainer-outfits-2026",
@@ -46,20 +144,6 @@
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eb9b5fa12c65",
-      "title": "I Have High Standards for Black-Tie Weddings—These Summer Dresses Passed Every Test",
-      "link": "https://www.whowhatwear.com/living/wedding/best-summer-black-tie-wedding-guest-dresses",
-      "summary": "If you're picky about wedding guest attire, you'll like this edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I Have High Standards for Black-Tie Weddings—These Summer Dresses Passed Every Test — A Complete Style Guide",
       "score": 2,
       "published": "2026-07-26T07:00:00+00:00",
       "discovered_via": "feed"
@@ -471,20 +555,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e7809eb12d09",
-      "title": "Not Black, Not White—the Expensive-Looking Neutral Everyone Is Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/khaki-color-trend-summer-2026",
-      "summary": "It'll transition seamlessly into your fall wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4b3eb13cb14a",
       "title": "Hailey Bieber's Nail Artist Has a New OPI Collection, and It's Celeb Glazed Donut Nails, Bottled",
       "link": "https://www.whowhatwear.com/beauty/nails/zola-ganzorigt-chrome-effects-collection",
@@ -494,6 +564,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7809eb12d09",
+      "title": "Not Black, Not White—the Expensive-Looking Neutral Everyone Is Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/khaki-color-trend-summer-2026",
+      "summary": "It'll transition seamlessly into your fall wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-07-25T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1353,34 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bf300e5ded52",
-      "title": "I Only Ever Wear All Black, So I Tried Wearing Color to the Office for a Week",
-      "link": "https://www.vogue.com/article/i-only-ever-wear-all-black-so-i-tried-wearing-color-to-the-office-for-a-week",
-      "summary": "The rules were simple: I had to wear at least two colors, no black, and every outfit had to be inspired by the men’s spring 2027 runways.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "491c6ac527ef",
-      "title": "Is Asia Pacific Beauty Finally Turning a Corner?",
-      "link": "https://www.vogue.com/article/is-asia-pacific-beauty-finally-turning-a-corner",
-      "summary": "Mainland China aside, Asia Pacific’s travel retail beauty outlook is looking rosier than the headlines suggest.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Is Asia Pacific Beauty Finally Turning a Corner?...",
-      "score": 1,
-      "published": "2026-07-24T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d8d028283041",
       "title": "My Goal Is Perfecting Easy, 5-Minute Outfits—6 Co-Ord Fashion Trends I’m Wearing on Repeat",
       "link": "https://www.whowhatwear.com/fashion/trends/co-ord-fashion-trends-2026",
@@ -1409,34 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3619fd968ffe",
-      "title": "It's Official: These Are the 5 Elegant Summer Dress Trends All Over the High-Street Right Now",
-      "link": "https://www.whowhatwear.com/fashion/trends/high-street-summer-dress-trends-2026",
-      "summary": "Premium-looking finds ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-24T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3ea640a2db74",
-      "title": "It's Already Autumn at Zara—19 Elegant New-Season Buys I'm Shopping Early",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-pre-autumn-shopping-2026",
-      "summary": "Ahead of the curve.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-24T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b8e54988ba93",
       "title": "What Brands & Retailers Really Want From Their Sourcing Partners",
       "link": "https://in.apparelresources.com/business-news/sourcing/what-brands-retailers-really-want-from-their-sourcing-partners/",
@@ -1448,20 +1476,6 @@
       "angle": "Fashion Intelligence: What Brands & Retailers Really Want From Their Sourcing Partners...",
       "score": 2,
       "published": "2026-07-24T07:51:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "517c02be79a6",
-      "title": "I'm an Expert on Basics—These Are the White Tees and Tanks I'm Wearing This Summer",
-      "link": "https://www.whowhatwear.com/the-best-white-tees-and-tanks",
-      "summary": "Trust me.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-24T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "न्यायाधीश",
+      "term": "ಸಿದ್ದರಾಮಯ್ಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iran war strikes",
+      "term": "manchester weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iphone 18 pro max",
+      "term": "संजय शिरसाट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मुरलीमनोहर जोशी",
+      "term": "कुंडा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kunal ghosh arrested",
+      "term": "ജനതാ പാര്ട്ടി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ઈશાન કિશન",
+      "term": "noida",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "দিলীপ ঘোষ",
+      "term": "സലാല",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "income tax return",
+      "term": "ഓഹരി വിപണി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అన్నా హజారే",
+      "term": "जहानाबाद",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കെ.സി. വേണുഗോപാല്",
+      "term": "big bang theory stuart",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
