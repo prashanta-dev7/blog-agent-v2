@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-07-26T09:59:28.886043+00:00",
+  "generated_at": "2026-07-26T12:03:42.454555+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8c744951c3b7",
+      "title": "Margot Robbie Makes an American Summer Staple Work in Paris",
+      "link": "https://www.vogue.com/article/margot-robbie-paris-doen",
+      "summary": "Stepping out for lunch in Paris, Margot Robbie sports a label more often associated with the girls of the West Village and Silver Lake.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Margot Robbie Makes an American Summer Staple Work in Paris...",
+      "score": 1,
+      "published": "2026-07-26T10:27:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4d12c926f3ca",
+      "title": "Tommy’s Take on Heatwave Dressing",
+      "link": "https://www.vogue.com/article/tommy-tons-take",
+      "summary": "In monthly installments surrounding a fashion theme, street style photographer Tommy Ton gives us an unfiltered close-up of the outfits that caught his eye and why.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Tommy’s Take on Heatwave Dressing...",
+      "score": 4,
+      "published": "2026-07-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be2f0c684263",
+      "title": "What Is English Romanticism? Alex Eagle Explains How to Bring the Aesthetic Home",
+      "link": "https://www.vogue.com/article/eagle-eye-english-romanticism",
+      "summary": "Designer and creative director Alex Eagle on why English romanticism feels so current—and how to bring the style home.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: What Is English Romanticism? Alex Eagle Explains How to Bring the Aest...",
+      "score": 2,
+      "published": "2026-07-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "687a37db4ef5",
       "title": "Where the Presidents Spent Their Summers, From Coolidge to Carter",
@@ -48,20 +90,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-07-26T08:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c4edb87f745",
-      "title": "India emerging as trusted global defence partner: PM in Mann Ki Baat address",
-      "link": "https://www.indiatoday.in/india/story/india-defence-exports-missiles-vikram-1-modi-global-trust-ptag-2956545-2026-07-26?utm_source=rss",
-      "summary": "India emerging as trusted global defence partner: PM in Mann Ki Baat address",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: India emerging as trusted global defence partner: PM in Mann Ki Baat a...",
-      "score": 1,
-      "published": "2026-07-26T08:02:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1391,48 +1419,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Birkins, Big Sunglasses, and Lots of Sparkle: Looking Back at Jennifer...",
       "score": 1,
-      "published": "2026-07-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdc4611c90a3",
-      "title": "The Best Zara New Arrivals to Shop for Summer 2026",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "Summer essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Summer 2026...",
-      "score": 0,
-      "published": "2026-07-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3783eac55e5a",
-      "title": "The 7 Best Airbnbs in the Algarve, from Rustic Cottages to Whitewashed Villas",
-      "link": "https://www.vogue.com/article/the-best-airbnbs-in-the-algarve",
-      "summary": "Headed to Portugal's coast? Book a villa Airbnb in the Algarve for an idyllic home base. Here are seven properties we've bookmarked.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 7 Best Airbnbs in the Algarve, from Rustic Cottages to Whitewashed...",
-      "score": 0,
-      "published": "2026-07-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fe96cc6c98ff",
-      "title": "The Best Eye Makeup For Blue Eyes, According To Makeup Artists",
-      "link": "https://www.vogue.com/article/eye-makeup-for-blue-eyes",
-      "summary": "If you’re unsure where to start when looking for the best eye makeup for blue eyes, browse Vogue’s guide to top eyeshadows, liners and creams for blue eyes.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Eye Makeup For Blue Eyes, According To Makeup Artists...",
-      "score": 0,
       "published": "2026-07-24T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2951,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "ಸಿದ್ದರಾಮಯ್ಯ",
+      "term": "ఇరాన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "manchester weather",
+      "term": "ajax vs burnley",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संजय शिरसाट",
+      "term": "தலைமை நீதிபதி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कुंडा",
+      "term": "ভারত বনাম জিম্বাবুয়ে",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ജനതാ പാര്ട്ടി",
+      "term": "ಆಹಾರ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "noida",
+      "term": "జస్ప్రీత్ బుమ్రా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സലാല",
+      "term": "traffic",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഓഹരി വിപണി",
+      "term": "सिकंदर रज़ा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जहानाबाद",
+      "term": "രമേശ് ചെന്നിത്തല",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "big bang theory stuart",
+      "term": "భారత్ వర్సెస్ జింబాబ్వే",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
