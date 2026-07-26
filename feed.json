@@ -1,13 +1,167 @@
 {
-  "generated_at": "2026-07-25T12:03:16.717772+00:00",
+  "generated_at": "2026-07-26T05:29:31.109231+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "f40d1ea93104",
+      "title": "My 60-Year-Old Mom Knows What's Chic Before I Do—11 Items She's Predicting Everyone Will Wear in August",
+      "link": "https://www.whowhatwear.com/fashion/affordable/over-50s-summer-shopping-high-street-2026",
+      "summary": "High-end look, high-street price.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My 60-Year-Old Mom Knows What's Chic Before I Do—11 Items She's Predic...",
+      "score": 1,
+      "published": "2026-07-26T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "07c3d8796fd6",
+      "title": "I'm Planning a Late-Summer Reset—12 On-Sale Beauty Products I'm Buying to Prepare",
+      "link": "https://www.whowhatwear.com/beauty/nordstrom-anniversary-sale-beauty-products-summer-2026",
+      "summary": "My personal shopping list.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Planning a Late-Summer Reset—12 On-Sale Beauty Products I'm Buying...",
+      "score": 1,
+      "published": "2026-07-26T04:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a6a863457969",
+      "title": "How TikTok Changed the Way Fashion Trends Begin",
+      "link": "https://www.fashiongonerogue.com/story/tiktok-changing-fashion-trends/",
+      "summary": "TikTok has changed how fashion trends start, spread, and shape what people buy. A few years ago, runway shows, celebrities, ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-07-26T01:58:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a939826c4110",
+      "title": "Why Is the Rise of “Loneliness Influencers” Making Me…Less Lonely?",
+      "link": "https://www.vogue.com/article/why-is-the-rise-of-loneliness-influencers-making-me-feel-less-lonely",
+      "summary": "Is there something subtly radical about women who craft their public personas around privacy—even if they sometimes openly wish their lives looked different?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Why Is the Rise of “Loneliness Influencers” Making Me…Less Lonely?...",
+      "score": 1,
+      "published": "2026-07-25T21:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7d2ec9d409b5",
+      "title": "Queen Letizia Looks Radiant in a Colorful Sundress",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73262948/queen-letizia-summer-dress-slingbacks/",
+      "summary": "The royal visited the headquarters of a Spanish fashion brand",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Queen Letizia Looks Radiant in a Colorful Sundress...",
+      "score": 3,
+      "published": "2026-07-25T20:21:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7774e02d446",
+      "title": "Tracee Ellis Ross Delivers a Trifecta of Vibrant Looks in New York City",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73262686/tracee-ellis-ross-three-outfits-new-york/",
+      "summary": "Her street style is the gift that keeps on giving",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Tracee Ellis Ross Delivers a Trifecta of Vibrant Looks in New York Cit...",
+      "score": 1,
+      "published": "2026-07-25T17:36:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f05543a2015f",
+      "title": "Dua Lipa Nails High-Low Style With a Birkin and This Must-Have New Yorker Accessory",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73262481/dua-lipa-new-york-birkin/",
+      "summary": "IYKYK",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dua Lipa Nails High-Low Style With a Birkin and This Must-Have New Yor...",
+      "score": 2,
+      "published": "2026-07-25T16:04:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ce18312f6eeb",
+      "title": "Rosie Assoulin and Target Design the Perfect Summer Collection",
+      "link": "https://www.harpersbazaar.com/fashion/trends/a73247376/rosie-assoulin-target-collection/",
+      "summary": "Stripes make everything look better",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-07-25T15:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6a0082741add",
+      "title": "Selena Gomez’s Seaside Photo Dump Will Give You a Serious Case of Vacation Envy",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73262334/selena-gomez-italy-photo-dump/",
+      "summary": "She celebrated her 34th birthday with husband Benny Blanco during a trip to Italy",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Selena Gomez’s Seaside Photo Dump Will Give You a Serious Case of Vaca...",
+      "score": 0,
+      "published": "2026-07-25T14:53:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "122ebdf4d4e9",
+      "title": "Jennifer Lopez Rings in Her 57th Birthday in the Perfect Summer Sundress",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73262228/jennifer-lopez-57-birthday-dress/",
+      "summary": "She hinted that life “just keeps getting better” in a new Instagram post",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jennifer Lopez Rings in Her 57th Birthday in the Perfect Summer Sundre...",
+      "score": 1,
+      "published": "2026-07-25T14:05:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ff223b493fb1",
+      "title": "10 Things We Can’t Wait to See at the 2026 Venice Film Festival",
+      "link": "https://www.vogue.com/article/10-things-we-cant-wait-to-see-2026-venice-film-festival",
+      "summary": "From an Oasis documentary (which will see both Noel and Liam Gallagher sailing to the Lido) to Dakota Johnson as Marilyn Monroe.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Things We Can’t Wait to See at the 2026 Venice Film Festival...",
+      "score": 0,
+      "published": "2026-07-25T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ec57f6c3454b",
       "title": "ICYMI: Kate Spade's New Creative Director, Vittoria Ceretti's Fashion and Beauty Favorites & Cosmoprof 2026's Biggest Beauty Trends",
@@ -1101,20 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-24T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d8d028283041",
       "title": "My Goal Is Perfecting Easy, 5-Minute Outfits—6 Co-Ord Fashion Trends I’m Wearing on Repeat",
       "link": "https://www.whowhatwear.com/fashion/trends/co-ord-fashion-trends-2026",
@@ -1185,29 +1325,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b29e058a75a7",
-      "title": "I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Year",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-linen-bottoms-2026",
-      "summary": "White linen trousers? Yes. But there's so much more.",
+      "id": "e613bddf9240",
+      "title": "I Own a Fashion Brand in Paris—Here's What You'll Find in My Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/turn-paris",
+      "summary": "Clara Hofer-Maire of Turn.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Ye...",
-      "score": 1,
-      "published": "2026-07-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1c8998aa4e77",
-      "title": "This Is How Fashion People Dress for Summer Lake Trips",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-lake-trip-outfits",
-      "summary": "Whether you're headed to Lake Como or Lake Tahoe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Is How Fashion People Dress for Summer Lake Trips...",
+      "angle": "Fashion Intelligence: I Own a Fashion Brand in Paris—Here's What You'll Find in My Wardrobe...",
       "score": 2,
       "published": "2026-07-24T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1227,31 +1353,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e613bddf9240",
-      "title": "I Own a Fashion Brand in Paris—Here's What You'll Find in My Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/turn-paris",
-      "summary": "Clara Hofer-Maire of Turn.",
+      "id": "1c8998aa4e77",
+      "title": "This Is How Fashion People Dress for Summer Lake Trips",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-lake-trip-outfits",
+      "summary": "Whether you're headed to Lake Como or Lake Tahoe.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Own a Fashion Brand in Paris—Here's What You'll Find in My Wardrobe...",
+      "angle": "Fashion Intelligence: This Is How Fashion People Dress for Summer Lake Trips...",
       "score": 2,
       "published": "2026-07-24T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "42f51943f245",
-      "title": "Kristen Stewart Punks up Her Pixie Cut for Summer",
-      "link": "https://www.vogue.com/article/kristen-stewart-punks-up-her-pixie-cut-for-summer",
-      "summary": "Set to front stoner comedy “The Wrong Girls,” Kristen Stewart headed out for dinner with co-star Alia Shawkat, and debuted a spiky crop of hair.",
-      "source": "Vogue US",
+      "id": "b29e058a75a7",
+      "title": "I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Year",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-linen-bottoms-2026",
+      "summary": "White linen trousers? Yes. But there's so much more.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Kristen Stewart Punks up Her Pixie Cut for Summer...",
-      "score": 0,
-      "published": "2026-07-24T06:02:38+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Ye...",
+      "score": 1,
+      "published": "2026-07-24T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1437,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "052d9b2ca5ce",
-      "title": "I'm New to Chanel Beauty—My Coworker Told Me to Start With These Specific Products",
-      "link": "https://www.whowhatwear.com/beauty/summer-glow-chanel-beauty-items",
-      "summary": "Les Beiges fans, rise up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: I'm New to Chanel Beauty—My Coworker Told Me to Start With These Speci...",
-      "score": 1,
-      "published": "2026-07-23T18:28:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "913e74b80884",
       "title": "I’m a Chronic Jaw Clencher, but These Expert Treatments Help Me Through It",
       "link": "https://www.harpersbazaar.com/beauty/skin-care/a73220152/tmj-treatment-review/",
@@ -1504,20 +1616,6 @@
       "angle": "Fashion Intelligence: Katie Holmes and Beau Jason Bard Yarmosky Try Out Their Couple Style...",
       "score": 1,
       "published": "2026-07-23T17:24:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b714941a3b5a",
-      "title": "Shop My Cheat Sheet: 50 of the Best Anniversary Sale Items From Nordstrom's In-House Brands",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-open-edit-caslon-bp-deals",
-      "summary": "These are the exact pieces to buy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Shop My Cheat Sheet: 50 of the Best Anniversary Sale Items From Nordst...",
-      "score": 1,
-      "published": "2026-07-23T17:19:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1801,90 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b2dcb96572e8",
-      "title": "Curtain Bangs Are Out. Cloud Bangs Are In.",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a73231253/camila-cabello-cloud-bangs-details/",
-      "summary": "Singer-songwriter Camila Cabello’s new wispy cut serves as perfect summer inspiration",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Curtain Bangs Are Out. Cloud Bangs Are In....",
-      "score": 0,
-      "published": "2026-07-22T18:14:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "784cbbf9c6ee",
-      "title": "13 Times British Royals Broke the Buckingham Palace Dress Code",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73219353/royals-breaking-british-dress-code-examples-princess-diana-kate-meghan-markle/",
-      "summary": "Some rules are meant to be broken",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 13 Times British Royals Broke the Buckingham Palace Dress Code...",
-      "score": 1,
-      "published": "2026-07-22T18:11:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "43440a63a6b6",
-      "title": "Kendall Jenner Proves the Power of This Polarizing Color Combination With Her Elevated Athleisure",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73231433/kendall-jenner-elevated-athleisure-look-adidas-blue-black-color-combination/",
-      "summary": "She threw outdated style rules out the window",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kendall Jenner Proves the Power of This Polarizing Color Combination W...",
-      "score": 1,
-      "published": "2026-07-22T18:02:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f51458f2a078",
-      "title": "Dua Lipa Is Declaring This the Summer of the Headscarf",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73231235/dua-lipa-headscarf-bandana-trend-electric-lady-studios-nyc-street-style/",
-      "summary": "She won’t be caught without her bandanas these days",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dua Lipa Is Declaring This the Summer of the Headscarf...",
-      "score": 0,
-      "published": "2026-07-22T17:18:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c8a1826003b",
-      "title": "Collier Schorr Dances the Distance",
-      "link": "https://www.harpersbazaar.com/culture/a73229980/collier-schorr-writing-letter-akerman-ballet-interview/",
-      "summary": "In her new book, the photographer documents finding freedom in an untrained body while turning Chantal Akerman’s film Je Tu Il Elle into ballet",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Collier Schorr Dances the Distance...",
-      "score": 0,
-      "published": "2026-07-22T17:07:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "183f68053131",
-      "title": "What to Wear in New England This Summer",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a71905845/new-england-summer-outfit-ideas/",
-      "summary": "Outfits to take you from beachside cocktails to mansion tours",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear in New England This Summer...",
-      "score": 2,
-      "published": "2026-07-22T16:27:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "48c9d2cc5956",
       "title": "Must Read: Dior to Stage Pre-Fall 2027 Show in Dublin, NAD Flags Vacation's Sunscreen Marketing Claim",
       "link": "https://fashionista.com/2026/07/dior-pre-fall-2027-show-location-dublin",
@@ -1983,20 +1997,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0a2723eeffdb",
-      "title": "10 Best Marble Wallpaper Designs Trending in 2026 Through a Fashion Lens",
-      "link": "https://www.fashiongonerogue.com/story/10-best-marble-wallpaper-designs-trending-2026/",
-      "summary": "Marble wallpaper has a bad version and a good version. The familiar one shows shiny gray swirls in a tight ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-22T02:35:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e549f88fbe44",
       "title": "Kate Spade's Next Creative Director Is Jonathan Saunders",
       "link": "https://fashionista.com/2026/07/kate-spade-jonathan-saunders-creative-director",
@@ -2064,20 +2064,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-07-21T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f3882a23649a",
-      "title": "Balenciaga Eyewear Has a Sharp Attitude for Summer",
-      "link": "https://www.fashiongonerogue.com/story/balenciaga-eyewear-summer-2026-campaign/",
-      "summary": "Balenciaga&#8217;s GOSSIP eyewear campaign for summer 2026 introduces a rimless sunglasses style built for speed, shine, and attitude. Shot by ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Balenciaga Eyewear Has a Sharp Attitude for Summer...",
-      "score": 2,
-      "published": "2026-07-21T12:23:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2809,6 +2795,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "98206c64e15b",
+      "title": "This Parents’ Day, Celebrate the Wardrobe That Never Went Out of Style",
+      "link": "https://www.azafashions.com/blog/parents-day-timeless-family-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=parents-day-timeless-family-fashion",
+      "summary": "Fashion in India has never been just about clothing. It is memory stitched into fabric, tradition wrapped in craftsmanship, and stories passed from one generation to the next. Long before sustainability became&#8230; The post This Parents&#8217; Day, Celebrate the Wardrobe That Never Went Out of Style appeared first on",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: This Parents’ Day, Celebrate the Wardrobe That Never Went Out of Style...",
+      "score": 3,
+      "published": "2026-07-26T03:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "917a7c71ed09",
       "title": "Know Your Designer-Episode 53: Ekaya Banaras",
       "link": "https://www.azafashions.com/blog/know-your-designer-episode-53-ekaya-banaras/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-episode-53-ekaya-banaras",
@@ -2933,70 +2933,56 @@
       "score": 4,
       "published": "2026-07-22T06:17:19+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "916800bbe52e",
-      "title": "Eid Milad Outfit Ideas That Blend Modesty and Elegance in Saudi Arabia",
-      "link": "https://www.azafashions.com/blog/eid-milad-outfit-ideas-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=eid-milad-outfit-ideas-saudi-arabia",
-      "summary": "Eid Milad-un-Nabi in Saudi Arabia&#160;isn't&#160;loud.&#160;It's&#160;reflective, warm, and deeply rooted in faith and community,&#160;family gatherings that linger long into the evening, conversations shared over Arabic coffee and dates, and moments of&#8230; The post Eid Milad Outfit Ideas That Blend Modesty and Ele",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-07-21T02:40:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "brian bennett",
+      "term": "peddi sudarshan reddy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tilak varma",
+      "term": "जन नायकन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "জাহাজ",
+      "term": "surya kant",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "alexander bublik",
+      "term": "சேமிப்பு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ishan kishan",
+      "term": "साप्ताहिक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "வெஸ்ட் இண்டீஸ் கிரிக்கெட் அணி",
+      "term": "deadpool",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಮಹಾನಟಿ",
+      "term": "sarnath",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "భారత్ వర్సెస్ జింబాబ్వే",
+      "term": "కూటమి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇల్లు ఇల్లాలు పిల్లలు",
+      "term": "காவல்துறை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ভারত বনাম জিম্বাবুয়ে",
+      "term": "चाचणी",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
