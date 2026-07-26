@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T05:29:31.109231+00:00",
+  "generated_at": "2026-07-26T07:35:08.636313+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 182,
@@ -8,6 +8,132 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "6fb35b14cc76",
+      "title": "Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Under $200 at Nordstrom",
+      "link": "https://www.whowhatwear.com/summer-fashion-under-200-nordstrom",
+      "summary": "Done and done.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Stop Searching—Every Cool Fashion Item You Could Want for Summer Is Un...",
+      "score": 1,
+      "published": "2026-07-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b74e2dd256b0",
+      "title": "Not Animal Print, Not Florals—This Is the Comeback Trend It Girls Are Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/camouflage-print-trend",
+      "summary": "It's even cooler than we remember.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9539ffae96de",
+      "title": "I Thought Trainers Were \"Boring\"—These 5 Celebrity Outfits Proved Me Very Wrong",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/celebrity-summer-trainer-outfits-2026",
+      "summary": "They make them look so good.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eb9b5fa12c65",
+      "title": "I Have High Standards for Black-Tie Weddings—These Summer Dresses Passed Every Test",
+      "link": "https://www.whowhatwear.com/living/wedding/best-summer-black-tie-wedding-guest-dresses",
+      "summary": "If you're picky about wedding guest attire, you'll like this edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I Have High Standards for Black-Tie Weddings—These Summer Dresses Passed Every Test — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e6c379279b05",
+      "title": "I Couldn't Believe It When I Found These 11 Designer Items on Sale at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-designer",
+      "summary": "Tom Ford, Prada, Isabel Marant, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Couldn't Believe It When I Found These 11 Designer Items on Sale at ...",
+      "score": 1,
+      "published": "2026-07-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bb06801101ea",
+      "title": "This 'Dated' Shoe Trend Has Made a Huge Comeback This Summer—5 Chic Ways It Girls Are Wearing It Now",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/wedge-sandal-outfits-summer-2026",
+      "summary": "Wedges are back!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-26T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6f7a1224b94",
+      "title": "A Celebrity Hairstylist Just Showed Me How to Create Perfect Beachy S-Waves",
+      "link": "https://www.whowhatwear.com/beauty/hair/how-to-do-s-waves",
+      "summary": "It's so easy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-26T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba95d5f6e2c1",
+      "title": "This 800-Year-Old Fragrance Brand Is My Best-Kept Secret for Winning Perfume Compliments",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-santa-maria-novella-perfumes",
+      "summary": "They're breathtaking.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This 800-Year-Old Fragrance Brand Is My Best-Kept Secret for Winning P...",
+      "score": 1,
+      "published": "2026-07-26T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8f1dd942eb02",
+      "title": "I Just Got Back from the South of France—5 Outfit Formulas I Saw French Women Wear on Repeat",
+      "link": "https://www.whowhatwear.com/fashion/summer/south-of-france-summer-outfits-2026",
+      "summary": "Get the French Riviera look, at home.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Got Back from the South of France—5 Outfit Formulas I Saw Frenc...",
+      "score": 2,
+      "published": "2026-07-26T05:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f40d1ea93104",
       "title": "My 60-Year-Old Mom Knows What's Chic Before I Do—11 Items She's Predicting Everyone Will Wear in August",
@@ -261,6 +387,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "df301eac7296",
+      "title": "Jennifer Lawrence Just Arrived at JFK Wearing the Shoes You’ll Find All Over Any Mediterranean Beach",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lawrence-water-shoe-airport-outfit-2026",
+      "summary": "From the sea to the sky.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-25T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8e14d7ae1db2",
       "title": "Fashion’s Chicest Like Their Art Wearable—This Skirt Trend Does The Trick",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/face-skirt-trend-summer-2026",
@@ -289,20 +429,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df301eac7296",
-      "title": "Jennifer Lawrence Just Arrived at JFK Wearing the Shoes You’ll Find All Over Any Mediterranean Beach",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lawrence-water-shoe-airport-outfit-2026",
-      "summary": "From the sea to the sky.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-25T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e3744a68813c",
       "title": "Yes, You Can Wear Denim All Year Round—These Easy-to-Replicate Celeb Jeans Outfits Prove It",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-jeans-outfits-2026",
@@ -314,6 +440,20 @@
       "angle": "Fashion Intelligence: Yes, You Can Wear Denim All Year Round—These Easy-to-Replicate Celeb J...",
       "score": 2,
       "published": "2026-07-25T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d33103772cec",
+      "title": "Move Over, Jelly Sandals—the Cinderella-Shoe Trend Has Officially Taken Over",
+      "link": "https://www.whowhatwear.com/fashion/shoes/cinderella-shoe-trend",
+      "summary": "Princess shoes are so back.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -340,20 +480,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d33103772cec",
-      "title": "Move Over, Jelly Sandals—the Cinderella-Shoe Trend Has Officially Taken Over",
-      "link": "https://www.whowhatwear.com/fashion/shoes/cinderella-shoe-trend",
-      "summary": "Princess shoes are so back.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-07-25T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1143,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9d7cc713d6e8",
-      "title": "Aperitivo Hour: A Sunday Supper with Tessa Tran",
-      "link": "https://www.vogue.com/article/aperitivo-hour-tessa-tran",
-      "summary": "Chan Luu CEO and Creative Director Tessa Tran takes us behind the scenes of a Sunday dinner party at her home in Los Angeles.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Aperitivo Hour: A Sunday Supper with Tessa Tran...",
-      "score": 0,
-      "published": "2026-07-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d0a568b4346a",
       "title": "Paris Fashion Week Unveils Spring/Summer 2027 Schedule",
       "link": "https://www.vogue.com/article/paris-fashion-week-unveils-spring-summer-2027-schedule",
@@ -1167,6 +1279,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Paris Fashion Week Unveils Spring/Summer 2027 Schedule...",
       "score": 3,
+      "published": "2026-07-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9d7cc713d6e8",
+      "title": "Aperitivo Hour: A Sunday Supper with Tessa Tran",
+      "link": "https://www.vogue.com/article/aperitivo-hour-tessa-tran",
+      "summary": "Chan Luu CEO and Creative Director Tessa Tran takes us behind the scenes of a Sunday dinner party at her home in Los Angeles.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Aperitivo Hour: A Sunday Supper with Tessa Tran...",
+      "score": 0,
       "published": "2026-07-24T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1325,20 +1451,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e613bddf9240",
-      "title": "I Own a Fashion Brand in Paris—Here's What You'll Find in My Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/turn-paris",
-      "summary": "Clara Hofer-Maire of Turn.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Own a Fashion Brand in Paris—Here's What You'll Find in My Wardrobe...",
-      "score": 2,
-      "published": "2026-07-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "517c02be79a6",
       "title": "I'm an Expert on Basics—These Are the White Tees and Tanks I'm Wearing This Summer",
       "link": "https://www.whowhatwear.com/the-best-white-tees-and-tanks",
@@ -1350,104 +1462,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-07-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1c8998aa4e77",
-      "title": "This Is How Fashion People Dress for Summer Lake Trips",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-lake-trip-outfits",
-      "summary": "Whether you're headed to Lake Como or Lake Tahoe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Is How Fashion People Dress for Summer Lake Trips...",
-      "score": 2,
-      "published": "2026-07-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b29e058a75a7",
-      "title": "I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Year",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-linen-bottoms-2026",
-      "summary": "White linen trousers? Yes. But there's so much more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Mom Who Works in Fashion—5 Linen Bottoms I Revisit Year After Ye...",
-      "score": 1,
-      "published": "2026-07-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1206e0112948",
-      "title": "Fashion People Aren't Packing Away Their White Linen Trousers Just Yet—Here's How They're Styling Them Until Early Autumn",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/white-linen-trouser-outfits-summer-2026",
-      "summary": "Easy elegance.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People Aren't Packing Away Their White Linen Trousers Just Yet...",
-      "score": 1,
-      "published": "2026-07-24T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "10e14b25a7ac",
-      "title": "I Did the Math: Nordstrom's Beauty Deals Just Saved Me Over $1100",
-      "link": "https://www.whowhatwear.com/beauty/best-luxury-beauty-nordstrom-anniversary-sale-2026",
-      "summary": "These luxury buys are selling out fast.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Did the Math: Nordstrom's Beauty Deals Just Saved Me Over $1100...",
-      "score": 2,
-      "published": "2026-07-24T03:58:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e5114d8b4053",
-      "title": "From Lace Trims to Heeled Flip-Flops—7 Summer Microtrends the London Style Set Can't Stop Wearing",
-      "link": "https://www.whowhatwear.com/fashion/summer/london-girl-micro-trends-summer-2026",
-      "summary": "The hottest pieces RN.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-24T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e57c7fa68909",
-      "title": "It'll Be Autumn Before We Know It—The Luxury Warm-Weather Pieces I'm Wearing Whilst I Can",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-luxury-fashion-items-summer-2026",
-      "summary": "Make the most of the sun.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-24T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a2f678f07641",
-      "title": "Fact: The Sunglasses Every WWW Editor Is Wearing Will Be Sold Out by August 1",
-      "link": "https://www.whowhatwear.com/fashion/shopping/alo-sunglasses",
-      "summary": "Prepare to see these everywhere.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-23T23:07:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1518,20 +1532,6 @@
       "angle": "Fashion Intelligence: Duchess Meghan Gives Us a Glimpse Into Her Sussex Family Summer...",
       "score": 0,
       "published": "2026-07-23T21:02:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8a2850f19656",
-      "title": "Not Flip-Flops, Not Flats—It Girls in NYC Are Wearing Summer's #1 Dress Trend With the Boots That Come Back Every Fall",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/dua-lipa-dress-knee-boots-outfit",
-      "summary": "They're thinking ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-23T19:15:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "peddi sudarshan reddy",
+      "term": "न्यायाधीश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जन नायकन",
+      "term": "iran war strikes",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "surya kant",
+      "term": "iphone 18 pro max",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சேமிப்பு",
+      "term": "मुरलीमनोहर जोशी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "साप्ताहिक",
+      "term": "kunal ghosh arrested",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "deadpool",
+      "term": "ઈશાન કિશન",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sarnath",
+      "term": "দিলীপ ঘোষ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "కూటమి",
+      "term": "income tax return",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "காவல்துறை",
+      "term": "అన్నా హజారే",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चाचणी",
+      "term": "കെ.സി. വേണുഗോപാല്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
