@@ -1,13 +1,139 @@
 {
-  "generated_at": "2026-07-28T10:34:25.185449+00:00",
+  "generated_at": "2026-07-28T12:53:43.879037+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 181,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "77d0593ec301",
+      "title": "Can Indie Sun-Care Brands Reach 'Tanmaxxing' Gen Zs?",
+      "link": "https://fashionista.com/2026/07/gen-z-tanning-culture-independent-sun-care-brands-dermatologists",
+      "summary": "To reach a younger generation, sunscreen and sunless tanning brands alike are leaving fear mongering behind in favor of authentic messaging and elevated formulas.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Can Indie Sun-Care Brands Reach 'Tanmaxxing' Gen Zs?...",
+      "score": 1,
+      "published": "2026-07-28T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a211a8329b1",
+      "title": "A Doctor's Guide To Skin Purging: The Dos & Don’ts",
+      "link": "https://www.vogue.com/article/what-is-skin-purging",
+      "summary": "Four experts share their tips and tricks on how to deal with skin purging breakouts.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: A Doctor's Guide To Skin Purging: The Dos & Don’ts...",
+      "score": 0,
+      "published": "2026-07-28T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "940171ae7caa",
+      "title": "Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and Why He Loves the Movie Version Now",
+      "link": "https://www.vogue.com/article/bret-easton-ellis-less-than-zero-interview",
+      "summary": "Ellis spoke to Vogue about the earliest years of his writing career—beginning with the time after “Less Than Zero” was published.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and W...",
+      "score": 0,
+      "published": "2026-07-28T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "100e2887465d",
+      "title": "Dilara Findikoglu Launches a Bridal Capsule That Breaks All the Rules",
+      "link": "https://www.vogue.com/article/dilara-findikoglu-bridal-capsule-collection",
+      "summary": "Designer Dilara Findikoglu reveals an 8-piece bridal capsule collection of sexy, Gothic garments.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Bridal Edit: Dilara Findikoglu Launches a Bridal Capsule That Breaks All the Rules — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-07-28T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2dc9165fc8e4",
+      "title": "Candice Swanepoel Leads Victoria’s Secret Very Sexy Ad",
+      "link": "https://www.fashiongonerogue.com/story/candice-swanepoel-victorias-secret-very-sexy/",
+      "summary": "The Victoria&#8217;s Secret Very Sexy 2026 campaign brings the brand&#8217;s signature push-up bra back to the spotlight, shot against the ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Candice Swanepoel Leads Victoria’s Secret Very Sexy Ad...",
+      "score": 1,
+      "published": "2026-07-28T11:56:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d04af03d951",
+      "title": "How to Find a Watch That Fits Your Style",
+      "link": "https://www.fashiongonerogue.com/story/how-find-watch-your-style/",
+      "summary": "Finding a watch that fits your style starts with a simple truth. A watch has never really been about the ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: How to Find a Watch That Fits Your Style...",
+      "score": 1,
+      "published": "2026-07-28T11:52:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c212a50e8a06",
+      "title": "I Love Linen Dresses, But This Transitional Alternative Is Even Chicer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-dress-trend-kaia-gerber-2026",
+      "summary": "The smartest buy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Love Linen Dresses, But This Transitional Alternative Is Even Chicer...",
+      "score": 1,
+      "published": "2026-07-28T11:31:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c2feba1b63ca",
+      "title": "This Stockholm Brand Wants to Sell You Fewer Clothes. Buy These Seven First",
+      "link": "https://www.fashionbeans.com/article/asket-brand-guide-permanent-collection-essentials/",
+      "summary": "Let me be honest with you. Almost every brand claiming to fight fast fashion is still running fifty-two drops a year with a permanent sale rail. Asket is the exception that actually did the maths. No seasons. No sales. No trends. Just one permanent collection of menswear essentials, refined version by version like soft",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: This Stockholm Brand Wants to Sell You Fewer Clothes. Buy These Seven ...",
+      "score": 7,
+      "published": "2026-07-28T11:00:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8d38e768f61c",
+      "title": "Adults have right to choose partners: HC orders security for interfaith wedding",
+      "link": "https://www.indiatoday.in/india/law-news/story/calcutta-high-court-orders-police-protection-for-inter-faith-marriage-in-howrah-ptag-2958012-2026-07-28?utm_source=rss",
+      "summary": "Adults have right to choose partners: HC orders security for interfaith wedding",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Adults have right to choose partners — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-07-28T10:42:50+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "257c9ec2fb19",
       "title": "On the Podcast: Vogue Editors Answer Your Most Pressing Questions",
@@ -135,16 +261,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0c49d139ac8",
-      "title": "Not a Bucket Hat, Not a Baseball Cap—This Pretty Hat Trend Is What the Cool Girls Are Wearing Instead",
-      "link": "https://www.whowhatwear.com/fashion/shopping/crochet-skull-cap-trend",
-      "summary": "Make your outfits look chicer with this accessory.",
+      "id": "62f63940f586",
+      "title": "Every Chic Person I Know Is Wearing This Elevated Shoe Trend Right Now",
+      "link": "https://www.whowhatwear.com/fashion/shoes/lace-up-sandal-outfits",
+      "summary": "Shop the style inside.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
+      "score": 3,
+      "published": "2026-07-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c3097b96f057",
+      "title": "I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S Are at the Top of My Wish List",
+      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
+      "summary": "I'd like it all, please.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S ...",
+      "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -177,16 +317,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "62f63940f586",
-      "title": "Every Chic Person I Know Is Wearing This Elevated Shoe Trend Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shoes/lace-up-sandal-outfits",
-      "summary": "Shop the style inside.",
+      "id": "f0c49d139ac8",
+      "title": "Not a Bucket Hat, Not a Baseball Cap—This Pretty Hat Trend Is What the Cool Girls Are Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/crochet-skull-cap-trend",
+      "summary": "Make your outfits look chicer with this accessory.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
+      "score": 4,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -201,20 +341,6 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: It Girls Everywhere Are Swapping Flip-Flops for This Cult Summer Shoe—...",
       "score": 1,
-      "published": "2026-07-28T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c3097b96f057",
-      "title": "I'm a Fashion Editor With a Minimalist Style—These 18 New Buys From M&S Are At The Top of My Wishlist",
-      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
-      "summary": "I'd like it all, please.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor With a Minimalist Style—These 18 New Buys From M&...",
-      "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -975,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "711afe7384a4",
-      "title": "The Full ‘Buck Moon’ Is Approaching—Here’s What It Means for Every Star Sign",
-      "link": "https://www.vogue.com/article/full-moon-july-2026-buck-moon-astrology",
-      "summary": "Get ready! The full moon in Aquarius—also known as the “buck moon”—occurs on July 29. Here’s everything you need to know about the July 2026 full moon.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Full ‘Buck Moon’ Is Approaching—Here’s What It Means for Every Sta...",
-      "score": 0,
-      "published": "2026-07-27T12:58:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5798db034e13",
       "title": "Hold the Shorts! The Chicest Dressers Pair Flip-Flops With This Trouser Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-trousers-leather-flip-flops-outfit-jennifer-lawrence-2026",
@@ -1000,20 +1112,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-07-27T12:53:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "548a3eee29e2",
-      "title": "Queen Letizia of Spain Just Cosigned This Summer’s Hottest Color Trend",
-      "link": "https://www.vogue.com/article/queen-letizia-of-spain-summer-2026-hottest-color-trend",
-      "summary": "The Spanish royal doesn’t often follow trends—but while stepping out to mark designer Adolfo Domínguez’s anniversary, she wore an unexpected shade that is one of 2026’s biggest runway trends.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-27T12:41:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1031,6 +1129,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "63424400b886",
+      "title": "10 Best Untucked Shirts For Men – All Styles For 2026",
+      "link": "https://www.fashionbeans.com/article/best-untucked-shirts/",
+      "summary": "Spoiler alert: shirts can be left untucked. Some are designed to hang free, while others just look better that way. Your dad may not have received the memo, but since when did you start listening to anything he said? If you’re the kind of guy that likes a little fabric around his tooshie, then the &#8230; Continue read",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 10 Best Untucked Shirts For Men – All Styles For 2026...",
+      "score": 1,
+      "published": "2026-07-27T12:27:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "19b74fad8a14",
       "title": "I Gasped When I Saw H&M's Summer Collection—17 New-In Buys That Will Sell Out First",
       "link": "https://www.whowhatwear.com/fashion/shopping/hm-elegant-summer-buys-2026",
@@ -1042,20 +1154,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-07-27T12:17:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5ec081f83dc3",
-      "title": "Facial Hair Removal: Everything You Need To Know About Doing It At Home",
-      "link": "https://www.vogue.com/article/ways-to-remove-unwanted-facial-hair",
-      "summary": "We called in the experts to find out exactly which hair removal method is best, from waxing to dermaplaning, threading and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Facial Hair Removal: Everything You Need To Know About Doing It At Hom...",
-      "score": 0,
-      "published": "2026-07-27T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1104,20 +1202,6 @@
       "id": "2419f7c2deab",
       "title": "TEA Seeks Worker Housing to Ease Tiruppur’s Labour Crunch",
       "link": "https://in.apparelresources.com/business-news/manufacturing/tea-seeks-worker-housing-to-ease-tiruppurs-labour-crunch/",
-      "summary": "The Tiruppur Exporters Association (TEA) has urged the Tamil Nadu Government to include affordable worker housing and dormitory-style accommodation as a key priority in the upcoming Tamil Nadu Industrial Policy 2026, saying improved living facilities are essential to address labour shortages and support the region&#821",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: TEA Seeks Worker Housing to Ease Tiruppur’s Labour Crunch...",
-      "score": 2,
-      "published": "2026-07-27T10:42:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec48f0f2679d",
-      "title": "TEA Seeks Worker Housing to Ease Tiruppur’s Labour Crunch",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/tea-seeks-worker-housing-to-ease-tiruppurs-labour-crunch-2/",
       "summary": "The Tiruppur Exporters Association (TEA) has urged the Tamil Nadu Government to include affordable worker housing and dormitory-style accommodation as a key priority in the upcoming Tamil Nadu Industrial Policy 2026, saying improved living facilities are essential to address labour shortages and support the region&#821",
       "source": "Apparel Resources India",
       "tier": "industry",
@@ -1280,6 +1364,34 @@
       "angle": "Fashion Intelligence: Pane Is Making the Best Retro Trainers You Have Not Heard Of Yet...",
       "score": 2,
       "published": "2026-07-27T05:37:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d0bd278baafd",
+      "title": "9 Best Selling Men’s Colognes – Popular Fragrances For 2026",
+      "link": "https://www.fashionbeans.com/article/best-selling-mens-colognes/",
+      "summary": "Men’s cologne has raked in billions of dollars in profit, is worn by men across the world, and, simply put: smells damn good. It’s a dependable option you can reach for no matter the occasion, with unparalleled versatility and a head-turning scent profile. These colognes take all of the guesswork out of smelling like t",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: 9 Best Selling Men’s Colognes – Popular Fragrances For 2026...",
+      "score": 1,
+      "published": "2026-07-27T01:59:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1e738d5fd2a1",
+      "title": "6 Best Calvin Klein Colognes For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-calvin-klein-colognes/",
+      "summary": "No brand defines classic minimalist quite like Calvin Klein, and the best Calvin Klein colognes are no exception. Much like their clothing and iconic ad campaigns, their fragrances combine sex appeal with sophistication, which is actually pretty hard to do. Inherently, Calvin Klein colognes for men are clean, fresh, an",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Best Calvin Klein Colognes For Men In 2026...",
+      "score": 1,
+      "published": "2026-07-27T01:55:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1602,20 +1714,6 @@
       "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
       "score": 3,
       "published": "2026-07-26T06:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b6f7a1224b94",
-      "title": "A Celebrity Hairstylist Just Showed Me How to Create Perfect Beachy \"S\" Waves",
-      "link": "https://www.whowhatwear.com/beauty/hair/how-to-do-s-waves",
-      "summary": "It's so easy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-26T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2036,20 +2134,6 @@
       "angle": "Fashion Intelligence: Chloé’s Fall 2026 Campaign Is Beautifully Untamed...",
       "score": 2,
       "published": "2026-07-24T11:27:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5bd3d7f0d737",
-      "title": "When Photographers Actually Need a Model Release Agreement",
-      "link": "https://www.fashiongonerogue.com/story/photographers-need-model-release-agreement/",
-      "summary": "A model release agreement protects photographers from liability and licensing claims that can surface well after a photoshoot ends. Opportunities ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: When Photographers Actually Need a Model Release Agreement...",
-      "score": 1,
-      "published": "2026-07-23T22:50:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2529,20 +2613,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b7ee54fe1988",
-      "title": "Slate Swim Founder Sells Brand in 7-Figure Deal",
-      "link": "https://fashionista.com/2026/07/slate-swim-acquisition-independent-buyer",
-      "summary": "After a decade in business, Founder Jessica Liao Mayers sold her Los Angeles-based swimwear brand in a seven-figure deal.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Slate Swim Founder Sells Brand in 7-Figure Deal...",
-      "score": 2,
-      "published": "2026-07-15T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9103f94dc229",
       "title": "Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy",
       "link": "https://www.indianclothstore.com/blog/punjabi-suit-design-guide-neck-styles-and-cuts",
@@ -2795,6 +2865,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "87008edddc90",
+      "title": "Aza Santacruz Hosts an Exclusive Meet the Designer Event with Sajeda A Lehery",
+      "link": "https://www.azafashions.com/blog/aza-santacruz-designer-event-with-sajeda-a-lehery/?utm_source=rss&utm_medium=rss&utm_campaign=aza-santacruz-designer-event-with-sajeda-a-lehery",
+      "summary": "On 17th July 2026, Aza Santacruz welcomed guests for an exclusive Meet the Designer event with celebrated designer Sajeda A Lehery. The intimate gathering brought customers closer to the designer&#8230; The post Aza Santacruz Hosts an Exclusive Meet the Designer Event with Sajeda A Lehery appeared first on Aza Editoria",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Aza Santacruz Hosts an Exclusive Meet the Designer Event with Sajeda A...",
+      "score": 1,
+      "published": "2026-07-28T12:02:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6bca8ad84bf0",
       "title": "10 Beautiful Sai Pallavi Sarees That Prove Classic Never Goes Out of Style",
       "link": "https://www.azafashions.com/blog/sai-pallavi-best-saree-looks/?utm_source=rss&utm_medium=rss&utm_campaign=sai-pallavi-best-saree-looks",
@@ -2919,70 +3003,56 @@
       "score": 4,
       "published": "2026-07-22T13:54:45+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "4d195648b7dc",
-      "title": "Onam Outfit Ideas Worth Bookmarking: Your UAE Style Guide",
-      "link": "https://www.azafashions.com/blog/onam-outfit-ideas-uae/?utm_source=rss&utm_medium=rss&utm_campaign=onam-outfit-ideas-uae",
-      "summary": "Onam is more than a harvest festival. It is ten days of colour, community, and culture, a time when families come together to celebrate Kerala's rich heritage. For the millions of Keralites living&#8230; The post Onam Outfit Ideas Worth Bookmarking: Your UAE Style Guide appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-22T12:32:10+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "సినిమా",
+      "term": "വിവാഹം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dividend",
+      "term": "oneplus n6x",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ss530",
+      "term": "ఖర్చు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "abhishek banerjee",
+      "term": "कंगना रानौत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "আনন্দবাজার পত্রিকা",
+      "term": "toyota innova hycross",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ബസ്",
+      "term": "canadian news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सुखविंदर सिंह सुक्खू",
+      "term": "upessc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पाकिस्तान राष्ट्रीय क्रिकेट टीम",
+      "term": "మీనా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जापान",
+      "term": "സഞ്ജു സാംസണ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टाटा समूह",
+      "term": "शिवांगी जोशी",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
