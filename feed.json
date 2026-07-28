@@ -1,53 +1,137 @@
 {
-  "generated_at": "2026-07-28T07:37:58.519701+00:00",
+  "generated_at": "2026-07-28T10:34:25.185449+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 180,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "ea606ebc9afb",
-      "title": "I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm Shopping this Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-bags-brands-under-1000-2026",
-      "summary": "Staud, Coach, St. Agni, and more.",
-      "source": "Who What Wear",
+      "id": "257c9ec2fb19",
+      "title": "On the Podcast: Vogue Editors Answer Your Most Pressing Questions",
+      "link": "https://www.vogue.com/article/on-the-podcast-what-we-actually-wear-to-work-ama-with-vogue-editors",
+      "summary": "For the latest episode of “The Run-Through,” hosts Chloe Malle, Chioma Nnadi, and Nicole Phelps gathered in the studio to do an Ask Me Anything session, responding to questions collected on the Vogue app and from students in Vogue’s Summer School.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm S...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: On the Podcast: Vogue Editors Answer Your Most Pressing Questions...",
+      "score": 0,
+      "published": "2026-07-28T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed52bbea77e0",
+      "title": "6 Bridal Shower Outfit Ideas for Every Bride and Theme",
+      "link": "https://www.vogue.com/article/bridal-shower-outfits",
+      "summary": "Before you tie the knot, consider these six bridal shower outfit ideas for every theme, from garden showers to beach destinations and classic brunches.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 6 Bridal Shower Outfit Ideas for Every Bride and Theme — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a43752d644fb",
+      "title": "The 2026 Dogue Cover Star Competition is Back",
+      "link": "https://www.vogue.com/article/dogue-competition-2026",
+      "summary": "Download the Vogue App now for the chance for your dog to be on the cover of Dogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The 2026 Dogue Cover Star Competition is Back...",
+      "score": 0,
+      "published": "2026-07-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5c37cc02087",
+      "title": "SNITCH Enters Women’s Fashion Through Berrylush Acquisition",
+      "link": "https://in.apparelresources.com/business-news/retail/snitch-enters-womens-fashion-berrylush-acquisition/",
+      "summary": "Bengaluru-based fashion brand SNITCH has acquired women&#8217;s western-wear label Berrylush, marking its formal entry into the women&#8217;s fashion segment as the company broadens its presence beyond menswear. SNITCH founder and CEO Siddharth Dungarwal announced the acquisition on social media, stating that the compa",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: SNITCH Enters Women’s Fashion Through Berrylush Acquisition...",
+      "score": 5,
+      "published": "2026-07-28T09:51:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7117e458fc42",
+      "title": "Sleek Satins Define Menswear’s 2026 Shift Toward Fluid, Pyjama-inspired Dressing",
+      "link": "https://in.apparelresources.com/fashion-news/trends/sleek-satins-define-menswears-2026-shift-toward-fluid-pyjama-inspired-dressing/",
+      "summary": "Satin, long confined to pocket squares and neckties in menswear, has moved to the centre of the wardrobe this year. Where tailoring and utilitarian fabrics once dominated, designers across Paris, Milan and Mumbai are now building entire looks around the fabric&#8217;s sheen and drape. The appeal is practical as much as",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Sleek Satins Define Menswear’s 2026 Shift Toward Fluid, Pyjama-inspire...",
+      "score": 4,
+      "published": "2026-07-28T09:44:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "444855af3384",
+      "title": "Rimzim Dadu turns mother-of-pearl into fabric at India Couture Week 2026",
+      "link": "https://in.apparelresources.com/fashion-news/innovation/rimzim-dadu-turns-mother-pearl-fabric-india-couture-week-2026/",
+      "summary": "Rimzim Dadu unveiled INLAE at Hyundai India Couture Week 2026, a collection centered on a groundbreaking material innovation inspired by Mother-of-Pearl, or nacre; the iridescent inner layer of oyster, mussel, and abalone shells. Naturally smooth, durable, and luminescent, nacre has long been valued in decorative arts,",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Rimzim Dadu turns mother-of-pearl into fabric at India Couture Week 20...",
       "score": 2,
-      "published": "2026-07-28T07:00:00+00:00",
+      "published": "2026-07-28T09:35:29+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "70913afb8b8d",
-      "title": "Wait, I Just Found the Cutest Under-$100 Tops Hiding at the Nordstrom Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/cute-tops-nordstrom-anniversary-sale-2026",
-      "summary": "These make getting dressed infinitely easier.",
+      "id": "8ba4a32a7617",
+      "title": "The Heatwave Is Back—19 Elegant Linen Dresses From Zara, H&M and COS That Look So Expensive",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-hm-cos-linen-dresses-2026",
+      "summary": "Summer staples.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Wait, I Just Found the Cutest Under-$100 Tops Hiding at the Nordstrom ...",
+      "angle": "Fashion Intelligence: The Heatwave Is Back—19 Elegant Linen Dresses From Zara, H&M and COS T...",
       "score": 1,
-      "published": "2026-07-28T07:00:00+00:00",
+      "published": "2026-07-28T09:21:55+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "3356646f90a3",
-      "title": "It Girls Everywhere Are Swapping Flip-Flops for This Cult Summer Shoe—But It's Almost Sold Out",
-      "link": "https://www.whowhatwear.com/fashion/shopping/jimmy-choo-jelly-sandals",
-      "summary": "It's jelly season.",
+      "id": "d10f672b4bac",
+      "title": "Celebs in Saint Tropez and Models in Paris are Wearing the Jewelry Micro-Trend That's Heating Up for Late Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/arm-cuff-jewelry-trend",
+      "summary": "Your cue to press pause on big bangles.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: It Girls Everywhere Are Swapping Flip-Flops for This Cult Summer Shoe—...",
-      "score": 1,
-      "published": "2026-07-28T07:00:00+00:00",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-28T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f4f9bdbd7db9",
+      "title": "My Goal Is to Look Expensive This Summer—6 Elegant Trends I’ve Been Wearing on Repeat",
+      "link": "https://www.whowhatwear.com/fashion/trends/expensive-looking-summer-fashion-trends-2026",
+      "summary": "Finish summer on a high.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-28T07:50:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -65,29 +149,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c4a1b1fb0d9d",
-      "title": "ICYMI: Hailey and Kylie Both Just Embraced This Cool-Girl Denim Outfit Combo",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-jeans-crop-top-outfit-hailey-bieber-kylie-jenner",
-      "summary": "And we're wearing it immediately.",
+      "id": "3afe8f0b50ab",
+      "title": "Bras! Socks! Underwear! Shop 36 High-Quality Core Essentials During the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-bra-underwear-socks-deals-2026",
+      "summary": "It's time to give your underwear drawer a little refresh.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ICYMI: Hailey and Kylie Both Just Embraced This Cool-Girl Denim Outfit...",
-      "score": 2,
+      "angle": "Fashion Intelligence: Bras! Socks! Underwear! Shop 36 High-Quality Core Essentials During th...",
+      "score": 1,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "c3097b96f057",
-      "title": "I'm a Fashion Editor With a Minimalist Style—These 18 New Buys From M&S Are At The Top of My Wishlist",
-      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
-      "summary": "I'd like it all, please.",
+      "id": "599287a61453",
+      "title": "It's Only July, But These Are the Fall 2026 Trends I'm Already Excited to Wear",
+      "link": "https://www.whowhatwear.com/fashion/trends/editor-favorite-fall-trends-2026",
+      "summary": "And where to shop each one.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor With a Minimalist Style—These 18 New Buys From M&...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
@@ -107,45 +191,73 @@
       "discovered_via": "feed"
     },
     {
-      "id": "599287a61453",
-      "title": "It's Only July, But These Are the Fall 2026 Trends I'm Already Excited to Wear",
-      "link": "https://www.whowhatwear.com/fashion/trends/editor-favorite-fall-trends-2026",
-      "summary": "And where to shop each one.",
+      "id": "3356646f90a3",
+      "title": "It Girls Everywhere Are Swapping Flip-Flops for This Cult Summer Shoe—But It's Almost Sold Out",
+      "link": "https://www.whowhatwear.com/fashion/shopping/jimmy-choo-jelly-sandals",
+      "summary": "It's jelly season.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: It Girls Everywhere Are Swapping Flip-Flops for This Cult Summer Shoe—...",
+      "score": 1,
+      "published": "2026-07-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c3097b96f057",
+      "title": "I'm a Fashion Editor With a Minimalist Style—These 18 New Buys From M&S Are At The Top of My Wishlist",
+      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
+      "summary": "I'd like it all, please.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor With a Minimalist Style—These 18 New Buys From M&...",
       "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "3afe8f0b50ab",
-      "title": "Bras! Socks! Underwear! Shop 36 High-Quality Core Essentials During the Nordstrom Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-bra-underwear-socks-deals-2026",
-      "summary": "It's time to give your underwear drawer a little refresh.",
+      "id": "c4a1b1fb0d9d",
+      "title": "ICYMI: Hailey and Kylie Both Just Embraced This Cool-Girl Denim Outfit Combo",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-jeans-crop-top-outfit-hailey-bieber-kylie-jenner",
+      "summary": "And we're wearing it immediately.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bras! Socks! Underwear! Shop 36 High-Quality Core Essentials During th...",
+      "angle": "Fashion Intelligence: ICYMI: Hailey and Kylie Both Just Embraced This Cool-Girl Denim Outfit...",
+      "score": 2,
+      "published": "2026-07-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "70913afb8b8d",
+      "title": "Wait, I Just Found the Cutest Under-$100 Tops Hiding at the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cute-tops-nordstrom-anniversary-sale-2026",
+      "summary": "These make getting dressed infinitely easier.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Wait, I Just Found the Cutest Under-$100 Tops Hiding at the Nordstrom ...",
       "score": 1,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "b59e812fe098",
-      "title": "How Saayoni Ghosh went from Mamata's firebrand MP to govt defender in Parliament",
-      "link": "https://www.indiatoday.in/india/story/sayani-ghosh-backs-anti-paper-leak-bill-after-exit-from-tmc-2957817-2026-07-28?utm_source=rss",
-      "summary": "How Saayoni Ghosh went from Mamata's firebrand MP to govt defender in Parliament",
-      "source": "India Today Fashion",
+      "id": "ea606ebc9afb",
+      "title": "I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm Shopping this Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-bags-brands-under-1000-2026",
+      "summary": "Staud, Coach, St. Agni, and more.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Saayoni Ghosh went from Mamata's firebrand MP to govt defender in ...",
-      "score": 1,
-      "published": "2026-07-28T05:32:00+00:00",
+      "angle": "Fashion Intelligence: I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm S...",
+      "score": 2,
+      "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -709,6 +821,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "29042f3f99cd",
+      "title": "What to Wear to a Funeral And What Best To Avoid in 2026",
+      "link": "https://www.fashionbeans.com/article/what-to-wear-to-a-funeral/",
+      "summary": "It can often feel somewhat inappropriate to ask others what to wear to a funeral. It’s not a fashion show, after all. However, for those attending, it’s essential to show respect—and part of doing so requires being dressed in suitable clothing. Funeral attire for men may be seen as a touchy subject, but it shouldn’t &#",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: What to Wear to a Funeral And What Best To Avoid in 2026...",
+      "score": 4,
+      "published": "2026-07-27T14:43:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ca9e60c0f106",
       "title": "Avanti! Gabrielle Union-Wade and Ferragamo Celebrated Summer in the Hamptons",
       "link": "https://www.vogue.com/slideshow/ferragamo-hamptons-dinner-summer-gabrielle-union",
@@ -891,6 +1017,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5a6e5a7f08af",
+      "title": "7 Best Summer Shirts For Men: Many Kinds of Cool in 2026",
+      "link": "https://www.fashionbeans.com/article/best-summer-shirts-for-men/",
+      "summary": "You wake well rested. Shafts of sunshine dapple through your window. It’s going to be a glorious summer’s day. Now, how do you meet this meteorological gift? Ideally, a cool and cooling outfit. This article is here to make the case that the best summer shirts for men are precisely what you need. In this &#8230; Continu",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Best Summer Shirts For Men: Many Kinds of Cool in 2026...",
+      "score": 1,
+      "published": "2026-07-27T12:32:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "19b74fad8a14",
       "title": "I Gasped When I Saw H&M's Summer Collection—17 New-In Buys That Will Sell Out First",
       "link": "https://www.whowhatwear.com/fashion/shopping/hm-elegant-summer-buys-2026",
@@ -989,34 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ab19439dd648",
-      "title": "12 Quintessential Lake Tahoe Airbnbs for a True Alpine Experience",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-lake-tahoe",
-      "summary": "Escape to the Sierra Nevada Mountains with one of the best Airbnbs in Lake Tahoe, from waterfront cabins to stylish A-frames.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 12 Quintessential Lake Tahoe Airbnbs for a True Alpine Experience...",
-      "score": 0,
-      "published": "2026-07-27T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86ef3a1325e4",
-      "title": "What to Pack for the Greek Islands, According to a Vogue Editor",
-      "link": "https://www.vogue.com/article/what-to-pack-greek-islands",
-      "summary": "Heading to the Greek islands this summer? Here’s how to pack for the sun, according to one editor.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Pack for the Greek Islands, According to a Vogue Editor...",
-      "score": 0,
-      "published": "2026-07-27T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a65cc0fdec37",
       "title": "Not Leggings—This IYKYK Pant Trend Looks Even Better With Black Sneakers, Especially in This Color",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/navy-flare-leggings-black-sneakers-outfit-mia-goth-2026",
@@ -1087,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "720ccb200766",
-      "title": "The New Fabric Play in Athleisure",
-      "link": "https://in.apparelresources.com/business-news/retail/new-fabric-play-athleisure/",
-      "summary": "As India&#8217;s athleisure market, projected to surpass US$47 billion by 2033, gets more crowded, brands are discovering that good design only takes you so far. What’s increasingly setting them apart is what the fabric itself can do. The focus for most domestic brands is on getting the fundamentals right: fourway stre",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The New Fabric Play in Athleisure...",
-      "score": 1,
-      "published": "2026-07-27T07:43:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8907a6204f9c",
       "title": "Sorry, Sandals—French It Girls Are Wearing These Classic Shoe Trends Instead This Summer",
       "link": "https://www.whowhatwear.com/fashion/summer/french-girl-sandal-alternatives-summer-2026",
@@ -1111,20 +1209,6 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-07-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7080abc35100",
-      "title": "Here's Some Good Fashion: 30 Fantastic Items I Found at J.Crew, Zara, and Reformation",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashionable-clothing-shoes-j-crew-zara-reformation-summer-2026",
-      "summary": "Starting at just $50.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Here's Some Good Fashion: 30 Fantastic Items I Found at J.Crew, Zara, ...",
-      "score": 1,
       "published": "2026-07-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1153,6 +1237,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
+      "published": "2026-07-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7080abc35100",
+      "title": "Here's Some Good Fashion: 30 Fantastic Items I Found at J.Crew, Zara, and Reformation",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashionable-clothing-shoes-j-crew-zara-reformation-summer-2026",
+      "summary": "Starting at just $50.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Here's Some Good Fashion: 30 Fantastic Items I Found at J.Crew, Zara, ...",
+      "score": 1,
       "published": "2026-07-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1196,20 +1294,6 @@
       "angle": "Fashion Intelligence: I'm the Founder of a Fashion Brand in L.A.—These Are the Staples in My...",
       "score": 2,
       "published": "2026-07-27T01:45:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ba6ad33a7be9",
-      "title": "The Summer Edition’s Residency at The Crow’s Nest in Montauk Drew Naomi Watts, Kate Mara, and More",
-      "link": "https://www.vogue.com/slideshow/summer-edition-montauk-residency",
-      "summary": "For its first foray in the Hamptons, Edition hosted Naomi Watts, Kate Mara and Euphoria actress Anna Van Patten along with a roster of creators and creatives at its second installment of The Summer Edition; a global retreat that takes over a sun-drenched destination for dining, wellness programs, cultural experiences, ",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Summer Edition’s Residency at The Crow’s Nest in Montauk Drew Naom...",
-      "score": 0,
-      "published": "2026-07-26T23:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1381,20 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "176c0f6b253e",
-      "title": "I Just Tried On Zara's Chicest Collection to Date—9 Pieces That Will Sell Out by Next Week",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-try-on-summer-2026",
-      "summary": "Elegant buys ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-26T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fbd274dc9758",
       "title": "Phase Out the Linen Dresses—Everyone Will Be Swapping Them for This Elegant Trend by Autumn",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/taffeta-satin-dress-trend-monica-barbaro-uk",
@@ -1405,6 +1475,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-07-26T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "176c0f6b253e",
+      "title": "I Just Tried On Zara's Chicest Collection to Date—9 Pieces That Will Sell Out by Next Week",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-try-on-summer-2026",
+      "summary": "Elegant buys ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
       "published": "2026-07-26T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1521,20 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bb06801101ea",
-      "title": "This \"Dated\" Shoe Trend Has Made a Huge Comeback This Summer—5 Chic Ways It Girls Are Wearing It Now",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/wedge-sandal-outfits-summer-2026",
-      "summary": "Wedges are back!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-26T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b6f7a1224b94",
       "title": "A Celebrity Hairstylist Just Showed Me How to Create Perfect Beachy \"S\" Waves",
       "link": "https://www.whowhatwear.com/beauty/hair/how-to-do-s-waves",
@@ -1545,20 +1615,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-07-26T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ba95d5f6e2c1",
-      "title": "This 800-Year-Old Fragrance Brand Is My Best-Kept Secret for Winning Perfume Compliments",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-santa-maria-novella-perfumes",
-      "summary": "They're breathtaking.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This 800-Year-Old Fragrance Brand Is My Best-Kept Secret for Winning P...",
-      "score": 1,
       "published": "2026-07-26T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1955,20 +2011,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "60bbee5ed0db",
-      "title": "Confluxe Plans to Introduce 10–12 Premium Global Brands for India",
-      "link": "https://in.apparelresources.com/business-news/retail/confluxe-plans-introduce-10-12-premium-global-brands-india/",
-      "summary": "Fashion platform Confluxe, plans to introduce 10–12 international fashion and lifestyle brands in India over the next three years after raising US $1.6 million in pre-seed funding from Wavemaker Partners and Kriscore Capital. The company acquires exclusive distribution and licensing rights for global brands and follows",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Confluxe Plans to Introduce 10–12 Premium Global Brands for India...",
-      "score": 3,
-      "published": "2026-07-24T13:22:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f88739430601",
       "title": "Weekly Drop Watch: Vettese x Skims, Aritzia x Juilliard, Higher Dose and More",
       "link": "https://fashionista.com/2026/07/best-fashion-beauty-launches-collabs-july-24",
@@ -2274,34 +2316,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-07-21T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "842b3e1b65d8",
-      "title": "The Best Autumn/Winter Footwear Trends For Men 2026",
-      "link": "https://www.fashionbeans.com/article/mens-autumn-winter-footwear-trends/",
-      "summary": "The transition from summer into the colder months brings with it many unpleasant changes: prolonged darkness, frigid temperatures and a woeful lack of ice cream vans, to name a few. However, for all of autumn/winter&#8217;s glaring faults, it does boast one redeeming feature. It equips you with a bombproof excuse to tr",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-21T09:56:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec351137bfdc",
-      "title": "8 Best YSL Colognes For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-ysl-cologne/",
-      "summary": "Following in the footsteps of Chanel, Yves Saint Laurent launched his first fragrance for women, Y, in 1964 by creating, in his own words, &#8220;a lush, heavy, and languid perfume.&#8221; Just seven years later, the designer shocked the world of haute couture, posing naked to launch Pour Homme, the first and best YSL ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 8 Best YSL Colognes For Men In 2026...",
-      "score": 3,
-      "published": "2026-07-21T09:38:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2923,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "weather delhi",
+      "term": "సినిమా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दिल्ली – देहरादून एक्सप्रेसवे",
+      "term": "dividend",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राशिफल",
+      "term": "ss530",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "लड़ाकू विमान",
+      "term": "abhishek banerjee",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ios 26.6 whats new",
+      "term": "আনন্দবাজার পত্রিকা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ssa",
+      "term": "ബസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बारामती",
+      "term": "सुखविंदर सिंह सुक्खू",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cjp demands dharmendra pradhan exit",
+      "term": "पाकिस्तान राष्ट्रीय क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "সাপ",
+      "term": "जापान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata steel share price",
+      "term": "टाटा समूह",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
