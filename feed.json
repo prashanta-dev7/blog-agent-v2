@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-07-29T05:19:30.410422+00:00",
+  "generated_at": "2026-07-29T07:43:04.541686+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "87ec034f9ee9",
+      "title": "Euro Summer Calls for a Good Dress—6 Trends You Need to See Before You Pack Your Suitcase",
+      "link": "https://www.whowhatwear.com/fashion/trends/european-dress-trends-summer-2026",
+      "summary": "Light, airy and seriously sophisticated.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-07-29T07:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "68bad8f7a918",
+      "title": "Atorie Lets You Buy Straight From the Ateliers. These Six Pieces Prove the Point",
+      "link": "https://www.fashionbeans.com/article/atorie-marketplace-atelier-direct-menswear-guide/",
+      "summary": "Let me be honest with you. The most interesting question in fashion right now is not what to buy. It is who actually made it, and how much of the price on the tag ever reached them. Atorie is built entirely on that question, and the answer is quietly disruptive. Atorie is a marketplace that &#8230; Continue reading Ato",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Atorie Lets You Buy Straight From the Ateliers. These Six Pieces Prove...",
+      "score": 1,
+      "published": "2026-07-29T07:01:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc3cc294a80b",
+      "title": "Hold the Lace—It Girls Are Wearing This Chicer Micro Trend Instead in All Their Summer 2026 Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/ways-to-wear-crochet-summer-2026",
+      "summary": "A timeless texture.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fe975115b9e7",
+      "title": "Every Chic Bride Is Wearing One of These Trending Bridal Accessories To Tie The Knot in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/bridal-accessory-trends-2026",
+      "summary": "To have and to hold.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Every Chic Bride Is Wearing One of These Trending Bridal Accessories To Tie The Knot in 2026 — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8ace9d74034b",
+      "title": "The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather",
+      "link": "https://www.whowhatwear.com/fashion/shopping/dresses-summer-2026",
+      "summary": "Slips, nightgowns, baby-doll dresses, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather...",
+      "score": 2,
+      "published": "2026-07-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1145787e3a89",
+      "title": "5 Outfit Tweaks That Make My Outfits Look More Expensive",
+      "link": "https://www.whowhatwear.com/fashion/shopping/style-tips-for-an-expensive-outfit",
+      "summary": "Elevate your look with these style tips.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Outfit Tweaks That Make My Outfits Look More Expensive...",
+      "score": 2,
+      "published": "2026-07-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a472c341d59f",
+      "title": "Classic, Timeless and Always Chic: Elegant French Women Turn to This Swimwear Style Every Summer",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/ode-to-the-one-piece",
+      "summary": "Far from the boring option.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Classic, Timeless and Always Chic: Elegant French Women Turn to This S...",
+      "score": 2,
+      "published": "2026-07-29T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f9ad44033027",
       "title": "Inside the Neo Knitwear Boom",
@@ -793,20 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a43752d644fb",
-      "title": "The 2026 Dogue Cover Star Competition is Back",
-      "link": "https://www.vogue.com/article/dogue-competition-2026",
-      "summary": "Download the Vogue App now for the chance for your dog to be on the cover of Dogue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The 2026 Dogue Cover Star Competition is Back...",
-      "score": 0,
-      "published": "2026-07-28T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ed52bbea77e0",
       "title": "6 Bridal Shower Outfit Ideas for Every Bride and Theme",
       "link": "https://www.vogue.com/article/bridal-shower-outfits",
@@ -817,6 +901,20 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: 6 Bridal Shower Outfit Ideas for Every Bride and Theme — A Complete Style Guide",
       "score": 3,
+      "published": "2026-07-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a43752d644fb",
+      "title": "The 2026 Dogue Cover Star Competition is Back",
+      "link": "https://www.vogue.com/article/dogue-competition-2026",
+      "summary": "Download the Vogue App now for the chance for your dog to be on the cover of Dogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The 2026 Dogue Cover Star Competition is Back...",
+      "score": 0,
       "published": "2026-07-28T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -891,6 +989,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "dc7beb8f1e05",
+      "title": "Grunge Fashion For Men: Outfits And Style Guide",
+      "link": "https://www.fashionbeans.com/article/grunge-fashion-guide/",
+      "summary": "In the beginning, it meant nothing. “It could have been sludge, grime, crud, any word like that,” according to Jonathan Poneman, the founder of Seattle-based record label Sub Pop, some time later. But in his description of the scene, sent out to journalists in the late 1980s when its soon-to-be-stars were still dossing",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-07-28T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f4f9bdbd7db9",
       "title": "My Goal Is to Look Expensive This Summer—6 Elegant Trends I’ve Been Wearing on Repeat",
       "link": "https://www.whowhatwear.com/fashion/trends/expensive-looking-summer-fashion-trends-2026",
@@ -902,20 +1014,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-07-28T07:50:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c3097b96f057",
-      "title": "I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S Are at the Top of My Wish List",
-      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
-      "summary": "I'd like it all, please.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S ...",
-      "score": 2,
-      "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -947,16 +1045,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0c49d139ac8",
-      "title": "Not a Bucket Hat, Not a Baseball Cap—This Pretty Hat Trend Is What the Cool Girls Are Wearing Instead",
-      "link": "https://www.whowhatwear.com/fashion/shopping/crochet-skull-cap-trend",
-      "summary": "Make your outfits look chicer with this accessory.",
+      "id": "c3097b96f057",
+      "title": "I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S Are at the Top of My Wish List",
+      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
+      "summary": "I'd like it all, please.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
+      "angle": "Fashion Intelligence: I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S ...",
+      "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -985,6 +1083,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-07-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f0c49d139ac8",
+      "title": "Not a Bucket Hat, Not a Baseball Cap—This Pretty Hat Trend Is What the Cool Girls Are Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/crochet-skull-cap-trend",
+      "summary": "Make your outfits look chicer with this accessory.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1619,20 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7080abc35100",
-      "title": "Here's Some Good Fashion: 30 Fantastic Items I Found at J.Crew, Zara, and Reformation",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashionable-clothing-shoes-j-crew-zara-reformation-summer-2026",
-      "summary": "Starting at just $50.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Here's Some Good Fashion: 30 Fantastic Items I Found at J.Crew, Zara, ...",
-      "score": 1,
-      "published": "2026-07-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8907a6204f9c",
       "title": "Sorry, Sandals—French It Girls Are Wearing These Classic Shoe Trends Instead This Summer",
       "link": "https://www.whowhatwear.com/fashion/summer/french-girl-sandal-alternatives-summer-2026",
@@ -1643,20 +1741,6 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-07-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a67fa1ebb4a0",
-      "title": "The 6 Australian Swimwear Brands Every Fashion Person Is Wearing",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/best-australian-swimwear-brands",
-      "summary": "Cool girls love these labels.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
       "published": "2026-07-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1728,34 +1812,6 @@
       "angle": "Fashion Intelligence: 6 Best Calvin Klein Colognes For Men In 2026...",
       "score": 1,
       "published": "2026-07-27T01:55:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "49f43b38185e",
-      "title": "I'm the Founder of a Fashion Brand in L.A.—These Are the Staples in My Capsule Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/aya-muse-tina-rodiou",
-      "summary": "Tina Rodiou of Aya Muse.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm the Founder of a Fashion Brand in L.A.—These Are the Staples in My...",
-      "score": 2,
-      "published": "2026-07-27T01:45:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f54ac3824054",
-      "title": "It's Here: The Summer Sandal Trend Every It Girl Is Wearing on Vacation",
-      "link": "https://www.whowhatwear.com/fashion/shoes/best-embellished-sandals",
-      "summary": "The shoes of the summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-26T21:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1843,20 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "933924a1ffd6",
-      "title": "French Women and Alexa Agree: This Shorts Trend Is Much Cooler Than Denim Styles Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/boxer-shorts-trend-alexa-chung-2026",
-      "summary": "Confirmed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-26T13:46:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0fcf342f6b0e",
       "title": "Kendall Jenner and Jacob Elordi are the It Couple of the Year",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71095392/kendall-jenner-jacob-elordi-dating-timeline-relationship-details/",
@@ -1896,48 +1938,6 @@
       "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
       "score": 1,
       "published": "2026-07-26T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d0e7ec0a374e",
-      "title": "I’m Surrounded by Stylish Women—This Is the New Outfit Formula They’re Suddenly Wearing",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/capri-pants-and-heeled-flip-flops-outfit-trend-vittoria-ceretti-kylie-jenner-2026",
-      "summary": "For good reason.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-26T08:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fbd274dc9758",
-      "title": "Phase Out the Linen Dresses—Everyone Will Be Swapping Them for This Elegant Trend by Autumn",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/taffeta-satin-dress-trend-monica-barbaro-uk",
-      "summary": "You might as well start shopping for this pretty trend now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-26T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "176c0f6b253e",
-      "title": "I Just Tried On Zara's Chicest Collection to Date—9 Pieces That Will Sell Out by Next Week",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-try-on-summer-2026",
-      "summary": "Elegant buys ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-07-26T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2288,20 +2288,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-07-22T10:13:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1cffd1a10fe0",
-      "title": "The Best Down Jacket Brands: Heritage vs High-Tech Winter Jackets (Plus The Secret Champion)",
-      "link": "https://www.fashionbeans.com/article/best-down-jacket-brands/",
-      "summary": "What&#8217;s Up Snailiens: Let&#8217;s Talk Winter Jackets! Hello Snailiens, and welcome to class! In today&#8217;s article, we will be talking about five coats from some of the best down jacket brands, including Filson, North Face, Patagonia, Arc&#8217;teryx, and the greatest coat maker of all time, whose name shall b",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-07-22T09:07:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2923,52 @@
   ],
   "trends": [
     {
-      "term": "மாணவர்",
+      "term": "ওয়েস্ট বেঙ্গল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ifab",
+      "term": "neet ug 2026 seat upgrade",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "manipal health enterprises ltd ipo",
+      "term": "aishe ghosh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi",
+      "term": "अवमानना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bel share",
+      "term": "പോലീസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "కంగనా రనౌత్",
+      "term": "vasteguna huiya",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "idfc first bank share",
+      "term": "यूक्रेन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata capital share price",
+      "term": "kamya punjabi and kushal tandon",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "laurus labs share price",
+      "term": "mac",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vbl share price",
+      "term": "இராசி",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
