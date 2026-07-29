@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-07-29T10:38:16.388124+00:00",
+  "generated_at": "2026-07-29T13:00:45.533561+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 183,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b6d761a4c05d",
+      "title": "11 Cool Ways to Wear Micro-Bangs, as Seen on Celebrities",
+      "link": "https://www.vogue.com/article/micro-bangs-celebrities",
+      "summary": "Micro-bangs are trending again, but what’s the best way to wear them? Here, Vogue rounds up the coolest and chicest ways to wear the popular haircut.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 11 Cool Ways to Wear Micro-Bangs, as Seen on Celebrities...",
+      "score": 2,
+      "published": "2026-07-29T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ae9ed1c7234a",
+      "title": "How Do Small Beauty Brands Compete in the Labor-Intensive World of Live Selling?",
+      "link": "https://fashionista.com/2026/07/live-shopping-indie-beauty-brands",
+      "summary": "Indie labels can't outspend the biggest players on TikTok Shop, so they're competing via community, consistency and a willingness to do the work themselves.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How Do Small Beauty Brands Compete in the Labor-Intensive World of Liv...",
+      "score": 3,
+      "published": "2026-07-29T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "03e8c50a0b94",
+      "title": "Guizio Opens Its First West Coast Store",
+      "link": "https://fashionista.com/2026/07/guizio-los-angeles-store-opening",
+      "summary": "It's hard to imagine a city better suited to Danielle Guizio than Los Angeles. The New York-based designer has built a brand beloved by celebrities and influencers, making a West Hollywood storefront feel less like an expansion and more like an inevitability. Until now, though, Guizio only had ...",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Guizio Opens Its First West Coast Store...",
+      "score": 2,
+      "published": "2026-07-29T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1e12796af8aa",
+      "title": "At 86, Gladys Nilsson Is Still Feeling Gleefully Askew",
+      "link": "https://www.harpersbazaar.com/culture/art-books-music/a73228250/gladys-nilsson-crocker-art-museum-gleefully-askew/",
+      "summary": "Sacramento’s Crocker Art Museum is presenting a long-overdue retrospective of the octogenarian’s joyful, kaleidoscopic oeuvre",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: At 86, Gladys Nilsson Is Still Feeling Gleefully Askew...",
+      "score": 0,
+      "published": "2026-07-29T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bbf663f3b99b",
+      "title": "Lola Tung on Her Ever-Evolving Style",
+      "link": "https://www.harpersbazaar.com/fashion/designers/a73247174/lola-tung-named-coach-global-ambassador-interview/",
+      "summary": "The Summer I Turned Pretty star has an exciting new role",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Lola Tung on Her Ever-Evolving Style...",
+      "score": 1,
+      "published": "2026-07-29T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4f7c8aed9e86",
+      "title": "Summer Outfits Look So Much Chicer When Styled With This One Trending Accessory",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/shell-necklace-trend-summer-2026",
+      "summary": "Shore thing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-07-29T11:47:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "850067ab0931",
+      "title": "Suddenly, the Chicest Women in Their 30s and 50s Are Swapping Linen Trousers For This Trending Alt",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sheer-trouser-trend-tracee-ellis-ross-rosie-huntington-whiteley-2026",
+      "summary": "An instant upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-29T11:15:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1bad530bfcf4",
+      "title": "V-Mart’s Q1 Profit Rises 40.5% Amid Sales Momentum",
+      "link": "https://in.apparelresources.com/business-news/retail/v-marts-q1-profit-rises-40-5-amid-sales-momentum/",
+      "summary": "Value fashion retailer V-Mart Retail reported a strong financial performance in the first quarter of FY27, driven by strong same-store sales growth, improved operational efficiency and disciplined inventory management. The company&#8217;s revenue grew 23% year-on-year during the quarter, supported by healthy consumer d",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: V-Mart’s Q1 Profit Rises 40.5% Amid Sales Momentum...",
+      "score": 1,
+      "published": "2026-07-29T10:45:53+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b5246c083189",
       "title": "The Vogue Business People Moves Tracker",
@@ -93,20 +205,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e9ea3fcffb11",
-      "title": "From Butterscotch Body Mist to the Lip Oil Selena Gomez Wore to Taylor Swift's Wedding—15 Beauty Launches Worth the Hype",
-      "link": "https://www.whowhatwear.com/beauty/best-new-beauty-products-july-2026",
-      "summary": "What a month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: From Butterscotch Body Mist to the Lip Oil Selena Gomez Wore to Taylor Swift's Wedding—15 Beauty Launches Worth the Hype — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-29T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d0cb6be7bd9c",
       "title": "Anne Hathaway and French Women Agree: This Is the Prettiest Sandal Trend Money Can Buy",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/anne-hathaway-blue-striped-skirt-and-embellished-pink-sandals",
@@ -117,6 +215,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-07-29T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e9ea3fcffb11",
+      "title": "From Butterscotch Body Mist to the Lip Oil Selena Gomez Wore to Taylor Swift's Wedding—15 Beauty Launches Worth the Hype",
+      "link": "https://www.whowhatwear.com/beauty/best-new-beauty-products-july-2026",
+      "summary": "What a month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: From Butterscotch Body Mist to the Lip Oil Selena Gomez Wore to Taylor Swift's Wedding—15 Beauty Launches Worth the Hype — A Complete Style Guide",
+      "score": 3,
       "published": "2026-07-29T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -149,34 +261,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fe975115b9e7",
-      "title": "Every Chic Bride Is Wearing One of These Trending Bridal Accessories To Tie The Knot in 2026",
-      "link": "https://www.whowhatwear.com/living/wedding/bridal-accessory-trends-2026",
-      "summary": "To have and to hold.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Every Chic Bride Is Wearing One of These Trending Bridal Accessories To Tie The Knot in 2026 — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-29T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bc3cc294a80b",
-      "title": "Hold the Lace—It Girls Are Wearing This Chicer Micro Trend Instead in All Their Summer 2026 Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/ways-to-wear-crochet-summer-2026",
-      "summary": "A timeless texture.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-29T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8ace9d74034b",
       "title": "The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather",
       "link": "https://www.whowhatwear.com/fashion/shopping/dresses-summer-2026",
@@ -201,6 +285,34 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 5 Outfit Tweaks That Make My Outfits Look More Expensive...",
       "score": 2,
+      "published": "2026-07-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc3cc294a80b",
+      "title": "Hold the Lace—It Girls Are Wearing This Chicer Microtrend Instead in All Their Summer 2026 Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/ways-to-wear-crochet-summer-2026",
+      "summary": "A timeless texture.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-07-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fe975115b9e7",
+      "title": "Every Chic Bride Is Wearing One of These Trending Bridal Accessories to Tie the Knot in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/bridal-accessory-trends-2026",
+      "summary": "To have and to hold.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Every Chic Bride Is Wearing One of These Trending Bridal Accessories to Tie the Knot in 2026 — A Complete Style Guide",
+      "score": 3,
       "published": "2026-07-29T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "940171ae7caa",
-      "title": "Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and Why He Loves the Movie Version Now",
-      "link": "https://www.vogue.com/article/bret-easton-ellis-less-than-zero-interview",
-      "summary": "Ellis spoke to Vogue about the earliest years of his writing career—beginning with the time after “Less Than Zero” was published.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and W...",
-      "score": 0,
-      "published": "2026-07-28T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0a211a8329b1",
       "title": "A Doctor's Guide To Skin Purging: The Dos & Don’ts",
       "link": "https://www.vogue.com/article/what-is-skin-purging",
@@ -928,6 +1026,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: A Doctor's Guide To Skin Purging: The Dos & Don’ts...",
+      "score": 0,
+      "published": "2026-07-28T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "940171ae7caa",
+      "title": "Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and Why He Loves the Movie Version Now",
+      "link": "https://www.vogue.com/article/bret-easton-ellis-less-than-zero-interview",
+      "summary": "Ellis spoke to Vogue about the earliest years of his writing career—beginning with the time after “Less Than Zero” was published.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bret Easton Ellis on Writing ‘Less Than Zero,’ Ignoring Reviews, and W...",
       "score": 0,
       "published": "2026-07-28T12:00:00+00:00",
       "discovered_via": "feed"
@@ -1017,16 +1129,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a43752d644fb",
-      "title": "The 2026 Dogue Cover Star Competition is Back",
-      "link": "https://www.vogue.com/article/dogue-competition-2026",
-      "summary": "Download the Vogue App now for the chance for your dog to be on the cover of Dogue.",
-      "source": "Vogue US",
+      "id": "40a49c156dd8",
+      "title": "Formal Attire for Men – Dress Code Style Guide 2026",
+      "link": "https://www.fashionbeans.com/article/the-new-rules-of-formal-attire/",
+      "summary": "We’ve waxed lyrical about how men’s dress codes are breaking down, how casual dress is taking over and why sportswear is the de facto king of men&#8217;s fashion. But in this new relaxed world, there is one mainstay that refuses to disappear: the suit. We&#8217;ve seen it rise and fall in popularity over the years, &#8",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The 2026 Dogue Cover Star Competition is Back...",
-      "score": 0,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
       "published": "2026-07-28T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1143,6 +1255,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c3097b96f057",
+      "title": "I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S Are at the Top of My Wish List",
+      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
+      "summary": "I'd like it all, please.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S ...",
+      "score": 2,
+      "published": "2026-07-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3afe8f0b50ab",
       "title": "Bras! Socks! Underwear! Shop 36 High-Quality Core Essentials During the Nordstrom Anniversary Sale",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-bra-underwear-socks-deals-2026",
@@ -1167,6 +1293,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Wait, I Just Found the Cutest Under-$100 Tops Hiding at the Nordstrom ...",
       "score": 1,
+      "published": "2026-07-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ea606ebc9afb",
+      "title": "I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm Shopping this Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-bags-brands-under-1000-2026",
+      "summary": "Staud, Coach, St. Agni, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm S...",
+      "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1199,16 +1339,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c3097b96f057",
-      "title": "I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S Are at the Top of My Wish List",
-      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
-      "summary": "I'd like it all, please.",
+      "id": "f0c49d139ac8",
+      "title": "Not a Bucket Hat, Not a Baseball Cap—This Pretty Hat Trend Is What the Cool Girls Are Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/crochet-skull-cap-trend",
+      "summary": "Make your outfits look chicer with this accessory.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S ...",
-      "score": 2,
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1227,31 +1367,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0c49d139ac8",
-      "title": "Not a Bucket Hat, Not a Baseball Cap—This Pretty Hat Trend Is What the Cool Girls Are Wearing Instead",
-      "link": "https://www.whowhatwear.com/fashion/shopping/crochet-skull-cap-trend",
-      "summary": "Make your outfits look chicer with this accessory.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-07-28T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ea606ebc9afb",
-      "title": "I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm Shopping this Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-bags-brands-under-1000-2026",
-      "summary": "Staud, Coach, St. Agni, and more.",
-      "source": "Who What Wear",
+      "id": "4e0005835cb2",
+      "title": "9 Best Men’s High-Waisted Pants For 2026",
+      "link": "https://www.fashionbeans.com/article/mens-high-waisted-pants/",
+      "summary": "Fashion is a fickle old game, eh? One minute you’re getting ridiculed for having your pants too high (alright, grandpa), the next, everyone’s doing it. It can be difficult to keep up. So, let me help: men’s high-waisted pants are going to be sticking around for a while. And to ensure you’re investing in the &#8230; Con",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm S...",
-      "score": 2,
-      "published": "2026-07-28T07:00:00+00:00",
+      "angle": "Fashion Intelligence: 9 Best Men’s High-Waisted Pants For 2026...",
+      "score": 1,
+      "published": "2026-07-28T06:07:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "05e432a92a8d",
+      "title": "25 Best Luxury Watches For Men: Show Up In Style 2026",
+      "link": "https://www.fashionbeans.com/article/luxury-watches-brands/",
+      "summary": "Perhaps no area of bodily real estate is more valuable—and more overlooked—than your wrist. It may feel like no one’s looking, but that couldn’t be further from the truth. Your choice to drape a fine watch over your wrist as opposed to a lesser object speaks directly to your appreciation of the exceptional. If this &#8",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 25 Best Luxury Watches For Men: Show Up In Style 2026...",
+      "score": 3,
+      "published": "2026-07-28T04:00:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1703,34 +1843,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6867d7e00731",
-      "title": "Chinese Scientists Develop Self-Healing Fungal Textiles",
-      "link": "https://in.apparelresources.com/fashion-news/innovation/chinese-scientists-develop-self-healing-fungal-textiles/",
-      "summary": "A research team led by the Shenzhen Institutes of Advanced Technology has engineered a living fabric grown from fungus that can clean itself, regenerate damage and biodegrade within weeks. The breakthrough uses Cordyceps militaris, also known as caterpillar fungus, a threadlike organism widely used in traditional Chine",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Chinese Scientists Develop Self-Healing Fungal Textiles...",
-      "score": 1,
-      "published": "2026-07-27T11:09:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a65cc0fdec37",
-      "title": "Not Leggings—This IYKYK Pant Trend Looks Even Better With Black Sneakers, Especially in This Color",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/navy-flare-leggings-black-sneakers-outfit-mia-goth-2026",
-      "summary": "Wear it for yoga or errands.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-27T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bca3713c9068",
       "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
       "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
@@ -1770,34 +1882,6 @@
       "angle": "Fashion Intelligence: 7 Best Diptyque Perfumes for Him to Showcase in 2026...",
       "score": 2,
       "published": "2026-07-27T09:27:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e4a6ff154e0",
-      "title": "Armchairs Are the Most Overlooked Piece of Furniture in Your Home—5 Styles to Elevate Your Space",
-      "link": "https://www.whowhatwear.com/living/armchair-trends-2026",
-      "summary": "Rest easy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Armchairs Are the Most Overlooked Piece of Furniture in Your Home—5 St...",
-      "score": 1,
-      "published": "2026-07-27T08:45:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8907a6204f9c",
-      "title": "Sorry, Sandals—French It Girls Are Wearing These Classic Shoe Trends Instead This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer/french-girl-sandal-alternatives-summer-2026",
-      "summary": "Cancel the pedicure.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2011,20 +2095,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "22988e1fe2d8",
-      "title": "12 Types of Pants for Men – Different Trouser Styles 2026",
-      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
-      "summary": "Statement jackets and the latest sneakers are always going to be top of men&#8217;s lust lists, but don&#8217;t let high-wattage clobber blind you to the essentials. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
-      "score": 3,
-      "published": "2026-07-26T06:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7d2ec9d409b5",
       "title": "Queen Letizia Looks Radiant in a Colorful Sundress",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73262948/queen-letizia-summer-dress-slingbacks/",
@@ -2036,34 +2106,6 @@
       "angle": "Fashion Intelligence: Queen Letizia Looks Radiant in a Colorful Sundress...",
       "score": 3,
       "published": "2026-07-25T20:21:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c7774e02d446",
-      "title": "Tracee Ellis Ross Delivers a Trifecta of Vibrant Looks in New York City",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73262686/tracee-ellis-ross-three-outfits-new-york/",
-      "summary": "Her street style is the gift that keeps on giving",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Tracee Ellis Ross Delivers a Trifecta of Vibrant Looks in New York Cit...",
-      "score": 1,
-      "published": "2026-07-25T17:36:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f05543a2015f",
-      "title": "Dua Lipa Nails High-Low Style With a Birkin and This Must-Have New Yorker Accessory",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73262481/dua-lipa-new-york-birkin/",
-      "summary": "IYKYK",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dua Lipa Nails High-Low Style With a Birkin and This Must-Have New Yor...",
-      "score": 2,
-      "published": "2026-07-25T16:04:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2218,62 +2260,6 @@
       "angle": "Fashion Intelligence: Which Fashion Jobs Pay the Most?...",
       "score": 1,
       "published": "2026-07-23T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f4b95c014997",
-      "title": "Your Complete Guide: How to Dress in the Summer with Style (Not Sweat)",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-in-the-summer/",
-      "summary": "The Game-Changing Summer Shirts from Knickerbocker The cotton Lola shirt in the color bone is one of the most beautiful shirts that I have ever seen. This and the cotton linen Highway shirt changed how I view summer clothing because I&#8217;ve never been good at dressing in the summer &#8211; we have proof of that. &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Your Complete Guide: How to Dress in the Summer with Style (Not Sweat)...",
-      "score": 2,
-      "published": "2026-07-22T21:22:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3941bb865bab",
-      "title": "7 Men’s Resort Outfits to Pack This Season",
-      "link": "https://www.fashionbeans.com/article/mens-resort-outfits/",
-      "summary": "Resort outfits for men are a unique challenge. It requires you to look effortlessly put-together while remaining comfortable in tropical climates.The secret lies in fabrics, smart tailoring, and a summer color palette. Whether you are lounging on a pebble beach in Tropea, island-hopping on a catamaran, or heading to an",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-22T18:38:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2cc9179f1820",
-      "title": "9 Timeless Summer Outfits Men Keep Returning to Every Year",
-      "link": "https://www.fashionbeans.com/article/timeless-summer-outfits-men/",
-      "summary": "Summer presents one of the most complex fashion dilemmas for men. How to have a good outfit when you only want to wear shorts and a t-shirt? Elevated and elegant Summer outfits for men come down to two things: fit and fabric The fit can be more flowy, while the best choices for fabric are &#8230; Continue reading 9 Tim",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 9 Timeless Summer Outfits Men Keep Returning to Every Year...",
-      "score": 3,
-      "published": "2026-07-22T18:36:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f1c501c9231f",
-      "title": "How To Style Fisherman Sandals For Men, 5 Outfit Examples",
-      "link": "https://www.fashionbeans.com/article/how-to-style-fisherman-sandals-for-men/",
-      "summary": "Fisherman sandals are a summer footwear option that’s here to stay. For too long, we’ve been trapped between the sweaty leather loafers and flip-flops. A well-constructed fisherman sandal bridges this gap, offering the structure of a closed-toe shoe with the open airflow of a traditional sandal. The challenge lies enti",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Style Fisherman Sandals For Men, 5 Outfit Examples...",
-      "score": 4,
-      "published": "2026-07-22T18:26:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2543,34 +2529,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5907cda80390",
-      "title": "Mia Calabrese's Go-to Beauty Hack? Putting Nipple Cream on Her Lips",
-      "link": "https://fashionista.com/2026/07/mia-calabrese-fashion-beauty-interview",
-      "summary": "For our column \"Payment Processing,\" the \"Summer House\" breakout star also shares her closet favorites and the key to perfecting Hamptons fashion.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Mia Calabrese's Go-to Beauty Hack? Putting Nipple Cream on Her Lips...",
-      "score": 2,
-      "published": "2026-07-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7f3449efde0b",
-      "title": "Must Read: Richemont Quarterly Sales Surge 20%, Bluemercury Appoints New CEO",
-      "link": "https://fashionista.com/2026/07/richemont-q1-sales-report-2026",
-      "summary": "Plus, how handbags are taking over menswear.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Must Read: Richemont Quarterly Sales Surge 20%, Bluemercury Appoints N...",
-      "score": 2,
-      "published": "2026-07-15T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9103f94dc229",
       "title": "Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy",
       "link": "https://www.indianclothstore.com/blog/punjabi-suit-design-guide-neck-styles-and-cuts",
@@ -2809,6 +2767,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b66969612835",
+      "title": "Quiet Luxury Janmashtami Outfit Ideas to Bookmark",
+      "link": "https://www.azafashions.com/blog/janmashtami-outfit-ideas-to-bookmark/?utm_source=rss&utm_medium=rss&utm_campaign=janmashtami-outfit-ideas-to-bookmark",
+      "summary": "Festive dressing has quietly shed its maximalist skin. The new mood? Impeccable tailoring, heirloom-worthy fabrics, and silhouettes that speak in whispers - not shouts. These quiet luxury Janmashtami outfit ideas&#8230; The post Quiet Luxury Janmashtami Outfit Ideas to Bookmark appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Quiet Luxury Janmashtami Outfit Ideas to Bookmark...",
+      "score": 4,
+      "published": "2026-07-29T10:38:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e0608f309a52",
       "title": "The Lehenga Styling Lookbook: How to Elevate the Iconic Silhouette for Any Event",
       "link": "https://www.azafashions.com/blog/lehenga-styling-lookbook/?utm_source=rss&utm_medium=rss&utm_campaign=lehenga-styling-lookbook",
@@ -2933,70 +2905,56 @@
       "score": 3,
       "published": "2026-07-23T12:11:46+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "9e5acf797c51",
-      "title": "What Your Favorite Book Genre Says About Your Style",
-      "link": "https://www.azafashions.com/blog/favorite-book-genre-fashion-style/?utm_source=rss&utm_medium=rss&utm_campaign=favorite-book-genre-fashion-style",
-      "summary": "Quick answer: Your reading preferences and fashion sense share more DNA than you'd think. Romance readers gravitate toward florals, fantasy fans embrace embellished couture, mystery lovers wear monochrome, historical fiction&#8230; The post What Your Favorite Book Genre Says About Your Style appeared first on Aza Edito",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: What Your Favorite Book Genre Says About Your Style...",
-      "score": 4,
-      "published": "2026-07-23T04:43:59+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "पलक तिवारी",
+      "term": "अमेरिकी सीनेट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महागाई भत्ता",
+      "term": "निषेध",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dl63",
+      "term": "lottery results today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अखिलेश यादव",
+      "term": "జనసేన పార్టీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sml mahindra",
+      "term": "दिल्ली सरकार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వరద",
+      "term": "what is a heat dome",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांकीपुर",
+      "term": "up tet result 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महारानी",
+      "term": "karishma tanna",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्लास्टिक नोट",
+      "term": "अडानी पोर्ट्स एंड स्पेशल इकनॉमिक ज़ोन लिमिटेड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "behavior",
+      "term": "பங்குச்சந்தை",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
