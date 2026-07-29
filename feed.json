@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-07-29T07:43:04.541686+00:00",
+  "generated_at": "2026-07-29T10:38:16.388124+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 181,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-07-29T10:29:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "013c6574cfd0",
+      "title": "Hermès Reports 6.7% Sales Uplift in Q2",
+      "link": "https://www.vogue.com/article/hermes-reports-67-sales-uplift-in-q2",
+      "summary": "Sales growth at the French house slightly accelerated in the second quarter.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hermès Reports 6.7% Sales Uplift in Q2...",
+      "score": 0,
+      "published": "2026-07-29T10:24:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1cc11a26355c",
+      "title": "MIT Engineers Develop Recyclable Stretch Yarn to Replace Spandex",
+      "link": "https://in.apparelresources.com/fashion-news/innovation/mit-engineers-develop-recyclable-stretch-yarn-replace-spandex/",
+      "summary": "MIT engineers have created a stretchy yarn made entirely from polyethylene, offering a recyclable alternative to spandex blends that currently dominate the activewear and stretch-fabric market. The yarn matches spandex in stretch and strength but is built from a single plastic family rather than mixed fibers. Researche",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: MIT Engineers Develop Recyclable Stretch Yarn to Replace Spandex...",
+      "score": 1,
+      "published": "2026-07-29T10:13:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e5087ac8b0ce",
+      "title": "Jamdani Weaves Its Way Into Contemporary Fashion Beyond the Saree in 2026",
+      "link": "https://in.apparelresources.com/fashion-news/jamdani-weaves-way-contemporary-fashion-beyond-saree-2026/",
+      "summary": "Jamdani, the centuries-old muslin weaving technique from Bengal known for motifs that appear to float on sheer fabric, is showing up across a far wider range of silhouettes in 2026. Once reserved for royal courts, the handloom craft is now being reworked by contemporary labels into jackets, shirts, co-ord sets, corsets",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 6,
+      "published": "2026-07-29T10:04:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f7753079f79a",
+      "title": "28 Scandinavian Street Style Stars Who Have Shaped the Look of Copenhagen Fashion Week",
+      "link": "https://www.vogue.com/article/28-scandinavian-street-style-stars-who-have-shaped-the-look-of-copenhagen-fashion-week",
+      "summary": "In honor of Copenhagen Fashion Week’s 20th anniversary, we’ve put together a directory of Scandinavian street style stars using our robust archive.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 28 Scandinavian Street Style Stars Who Have Shaped the Look of Copenha...",
+      "score": 2,
+      "published": "2026-07-29T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b3fee4d7de6c",
+      "title": "The Simple Exercise Jennifer Aniston Won’t Skip, Even on Vacation",
+      "link": "https://www.vogue.com/article/jennifer-aniston-vacation-exercise",
+      "summary": "Aboard a yacht with boyfriend Jim Curtis, Courteney Cox, and Pedro Pascal off the coast of Mallorca, Jennifer Aniston made time for a quick workout.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Simple Exercise Jennifer Aniston Won’t Skip, Even on Vacation...",
+      "score": 0,
+      "published": "2026-07-29T09:33:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e9ea3fcffb11",
+      "title": "From Butterscotch Body Mist to the Lip Oil Selena Gomez Wore to Taylor Swift's Wedding—15 Beauty Launches Worth the Hype",
+      "link": "https://www.whowhatwear.com/beauty/best-new-beauty-products-july-2026",
+      "summary": "What a month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: From Butterscotch Body Mist to the Lip Oil Selena Gomez Wore to Taylor Swift's Wedding—15 Beauty Launches Worth the Hype — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-29T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d0cb6be7bd9c",
+      "title": "Anne Hathaway and French Women Agree: This Is the Prettiest Sandal Trend Money Can Buy",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/anne-hathaway-blue-striped-skirt-and-embellished-pink-sandals",
+      "summary": "It's so darn cute.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-29T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "87ec034f9ee9",
       "title": "Euro Summer Calls for a Good Dress—6 Trends You Need to See Before You Pack Your Suitcase",
@@ -37,20 +149,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bc3cc294a80b",
-      "title": "Hold the Lace—It Girls Are Wearing This Chicer Micro Trend Instead in All Their Summer 2026 Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/ways-to-wear-crochet-summer-2026",
-      "summary": "A timeless texture.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-29T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fe975115b9e7",
       "title": "Every Chic Bride Is Wearing One of These Trending Bridal Accessories To Tie The Knot in 2026",
       "link": "https://www.whowhatwear.com/living/wedding/bridal-accessory-trends-2026",
@@ -60,6 +158,20 @@
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: Every Chic Bride Is Wearing One of These Trending Bridal Accessories To Tie The Knot in 2026 — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc3cc294a80b",
+      "title": "Hold the Lace—It Girls Are Wearing This Chicer Micro Trend Instead in All Their Summer 2026 Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/ways-to-wear-crochet-summer-2026",
+      "summary": "A timeless texture.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-07-29T07:00:00+00:00",
       "discovered_via": "feed"
@@ -107,20 +219,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f9ad44033027",
-      "title": "Inside the Neo Knitwear Boom",
-      "link": "https://www.vogue.com/article/inside-the-neo-knitwear-boom",
-      "summary": "A new wave of knitwear designers is rising to meet demand for well-crafted, creative clothing.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Inside the Neo Knitwear Boom...",
-      "score": 3,
-      "published": "2026-07-29T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4cdde9415f4f",
       "title": "We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why",
       "link": "https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why",
@@ -131,6 +229,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why...",
       "score": 2,
+      "published": "2026-07-29T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f9ad44033027",
+      "title": "Inside the Neo Knitwear Boom",
+      "link": "https://www.vogue.com/article/inside-the-neo-knitwear-boom",
+      "summary": "A new wave of knitwear designers is rising to meet demand for well-crafted, creative clothing.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Inside the Neo Knitwear Boom...",
+      "score": 3,
       "published": "2026-07-29T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -611,6 +723,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ca91b081ff65",
+      "title": "The Complete Guide To Panama Hats",
+      "link": "https://www.fashionbeans.com/article/panama-hat-guide/",
+      "summary": "With the warmer months of summer comes the need to dress cool. Lightweight cottons, linens, lairy Hawaiian shirts, swim shorts, deck shoes and espadrilles suddenly appear on city streets and seaside boardwalks. But finding an individual style to lift you above the sartorial herd can be hard. The answer, sometimes, is a",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Complete Guide To Panama Hats...",
+      "score": 2,
+      "published": "2026-07-28T15:06:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b11218ef3756",
       "title": "Elle Fanning Makes a Babydoll Dress Over Pants Look So Good",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73283811/elle-fanning-babydoll-dress-over-pants-trend-broad-strokes-nyc-opening/",
@@ -891,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ed52bbea77e0",
-      "title": "6 Bridal Shower Outfit Ideas for Every Bride and Theme",
-      "link": "https://www.vogue.com/article/bridal-shower-outfits",
-      "summary": "Before you tie the knot, consider these six bridal shower outfit ideas for every theme, from garden showers to beach destinations and classic brunches.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 6 Bridal Shower Outfit Ideas for Every Bride and Theme — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-28T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a43752d644fb",
       "title": "The 2026 Dogue Cover Star Competition is Back",
       "link": "https://www.vogue.com/article/dogue-competition-2026",
@@ -972,6 +1084,20 @@
       "angle": "Fashion Intelligence: The Heatwave Is Back—19 Elegant Linen Dresses From Zara, H&M and COS T...",
       "score": 1,
       "published": "2026-07-28T09:21:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a72e30125e79",
+      "title": "6 Key Men’s Swimwear Trends For Spring/Summer 2026",
+      "link": "https://www.fashionbeans.com/article/mens-swimwear-trends/",
+      "summary": "Mastering fashion trends in everyday clothes can be difficult enough, but when you consider that it’s just one square foot of fabric covering your modesty, swimwear has to say more about you per inch than any other garment. To make matters worse, upgrading your trunks from duty-free afterthought to a first-class fit is",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-07-28T09:00:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c3097b96f057",
-      "title": "I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S Are at the Top of My Wish List",
-      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
-      "summary": "I'd like it all, please.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S ...",
-      "score": 2,
-      "published": "2026-07-28T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "599287a61453",
       "title": "It's Only July, But These Are the Fall 2026 Trends I'm Already Excited to Wear",
       "link": "https://www.whowhatwear.com/fashion/trends/editor-favorite-fall-trends-2026",
@@ -1087,16 +1199,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0c49d139ac8",
-      "title": "Not a Bucket Hat, Not a Baseball Cap—This Pretty Hat Trend Is What the Cool Girls Are Wearing Instead",
-      "link": "https://www.whowhatwear.com/fashion/shopping/crochet-skull-cap-trend",
-      "summary": "Make your outfits look chicer with this accessory.",
+      "id": "c3097b96f057",
+      "title": "I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S Are at the Top of My Wish List",
+      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
+      "summary": "I'd like it all, please.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
+      "angle": "Fashion Intelligence: I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S ...",
+      "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1115,6 +1227,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f0c49d139ac8",
+      "title": "Not a Bucket Hat, Not a Baseball Cap—This Pretty Hat Trend Is What the Cool Girls Are Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/crochet-skull-cap-trend",
+      "summary": "Make your outfits look chicer with this accessory.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-07-28T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ea606ebc9afb",
       "title": "I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm Shopping this Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-bags-brands-under-1000-2026",
@@ -1126,34 +1252,6 @@
       "angle": "Fashion Intelligence: I'm a Mom of 2 Who Works In Fashion—The 9 Under $1000 Bag Brands I'm S...",
       "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb9ba102220d",
-      "title": "The Vogue Business AI Tracker",
-      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
-      "score": 2,
-      "published": "2026-07-28T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "30be97f4b9c6",
-      "title": "How Jeanerica Is Taking Scandi Denim Global",
-      "link": "https://www.vogue.com/article/how-jeanerica-is-taking-scandi-denim-global",
-      "summary": "Founders Lena Patriksson Keller and Jonas Clason on cracking the denim market with a profitable label that leans into American savvy and European heritage.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: How Jeanerica Is Taking Scandi Denim Global...",
-      "score": 1,
-      "published": "2026-07-28T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1210,20 +1308,6 @@
       "angle": "Fashion Intelligence: The Return of the Personality Bag...",
       "score": 1,
       "published": "2026-07-28T02:23:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dff4973b3eb6",
-      "title": "How to Style Summer’s Hottest Shoe Trends, From Ballet Sneakers to Rope Sandals",
-      "link": "https://www.vogue.com/article/summer-shoe-trend-styling",
-      "summary": "Discover the season’s top-trending shoe trends—from jelly flats to ballerinas and rope sandals—plus how to wear them.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-07-27T23:46:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1633,34 +1717,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "440d8807944e",
-      "title": "The Milkmaid Dress Is Fashion’s Reigning Romantic Silhouette This Season",
-      "link": "https://in.apparelresources.com/fashion-news/trends/milkmaid-dress-fashions-reigning-romantic-silhouette-season/",
-      "summary": "The milkmaid dress has cemented itself as the season&#8217;s defining romantic silhouette, its cinched bodice and gently puffed skirt striking the balance between vintage charm and modern restraint. H&#38;M&#8217;s Flared-Skirt Twill Dress captures the mood exactly; pared-back, lightweight and versatile enough to move ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-27T11:01:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "634a572b5ebd",
-      "title": "Fashion Brands Capture 28% of Delhi-NCR Retail Leasing",
-      "link": "https://in.apparelresources.com/business-news/retail/fashion-brands-capture-28-delhi-ncr-retail-leasing/",
-      "summary": "Fashion brands emerged as the largest occupiers of retail space in Delhi-NCR during the first half of 2026, accounting for 28% of total retail leasing across malls and high streets, according to a report by Cushman &#38; Wakefield. Overall retail leasing across malls and high streets in Delhi-NCR increased 78% year-on-",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion Brands Capture 28% of Delhi-NCR Retail Leasing...",
-      "score": 2,
-      "published": "2026-07-27T10:49:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a65cc0fdec37",
       "title": "Not Leggings—This IYKYK Pant Trend Looks Even Better With Black Sneakers, Especially in This Color",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/navy-flare-leggings-black-sneakers-outfit-mia-goth-2026",
@@ -1740,20 +1796,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "343d65baee7f",
-      "title": "Boho Dresses Are Back on the Agenda—5 Chic Ways to Wear Them This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/boho-dress-outfits-2026",
-      "summary": "Back with a modern update.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Boho Dresses Are Back on the Agenda—5 Chic Ways to Wear Them This Summ...",
       "score": 2,
       "published": "2026-07-27T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2277,20 +2319,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "68d845cd75ac",
-      "title": "11 Best Razors For Men: Tidy, Trendy, and Trim in 2026",
-      "link": "https://www.fashionbeans.com/article/best-razors-for-men",
-      "summary": "Like snowflakes, they say that no two razors are alike. Side note: It feels editorially sound to mention that I have no idea who “they” are. Or if any of that is accurate. It felt right, dammit. Point is, you’ve got lots of products to choose from when it comes to the best shaving razor &#8230; Continue reading 11 Best",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-22T10:13:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e549f88fbe44",
       "title": "Kate Spade's Next Creative Director Is Jonathan Saunders",
       "link": "https://fashionista.com/2026/07/kate-spade-jonathan-saunders-creative-director",
@@ -2781,6 +2809,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e0608f309a52",
+      "title": "The Lehenga Styling Lookbook: How to Elevate the Iconic Silhouette for Any Event",
+      "link": "https://www.azafashions.com/blog/lehenga-styling-lookbook/?utm_source=rss&utm_medium=rss&utm_campaign=lehenga-styling-lookbook",
+      "summary": "The lehenga has transitioned from a traditional staple into a global statement of style and personal expression. The modern lehenga blends age-old artisanal mastery with contemporary silhouettes. The secret to its enduring allure lies entirely in&#8230; The post The Lehenga Styling Lookbook: How to Elevate the Iconic S",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Lehenga Styling Lookbook — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-29T10:14:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "36b4798d2e0e",
       "title": "9 Rakhi Kurta Sets So Good, You’ll Want to Wear Them Beyond the Festival",
       "link": "https://www.azafashions.com/blog/rakhi-kurta-sets-for-men/?utm_source=rss&utm_medium=rss&utm_campaign=rakhi-kurta-sets-for-men",
@@ -2905,70 +2947,56 @@
       "score": 4,
       "published": "2026-07-23T04:43:59+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "e0c7f5ca1ce6",
-      "title": "Timeless Anarkalis and Sharara Sets for Eid Milad-un-Nabi Celebrations in the UAE",
-      "link": "https://www.azafashions.com/blog/eid-milad-anarkalis-shararas-uae/?utm_source=rss&utm_medium=rss&utm_campaign=eid-milad-anarkalis-shararas-uae",
-      "summary": "Eid Milad-un-Nabi in the UAE is&#160;observed&#160;with reverence, reflection, and togetherness. Whether&#160;you're&#160;attending a family gathering, a community event, or an intimate evening of remembrance, your outfit often reflects the spirit of&#8230; The post Timeless Anarkalis and Sharara Sets for Eid Milad-un-",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-07-22T17:18:14+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ওয়েস্ট বেঙ্গল",
+      "term": "पलक तिवारी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neet ug 2026 seat upgrade",
+      "term": "महागाई भत्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aishe ghosh",
+      "term": "dl63",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अवमानना",
+      "term": "अखिलेश यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പോലീസ്",
+      "term": "sml mahindra",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vasteguna huiya",
+      "term": "వరద",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "यूक्रेन",
+      "term": "बांकीपुर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kamya punjabi and kushal tandon",
+      "term": "महारानी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mac",
+      "term": "प्लास्टिक नोट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "இராசி",
+      "term": "behavior",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
