@@ -1,13 +1,139 @@
 {
-  "generated_at": "2026-07-30T07:34:56.424897+00:00",
+  "generated_at": "2026-07-30T10:25:28.735422+00:00",
   "owned_count": 10,
-  "competitor_count": 12,
-  "industry_count": 190,
+  "competitor_count": 17,
+  "industry_count": 192,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "397c3abb9bce",
+      "title": "Florence Pugh and Zendaya Couture Co-Ord at the ‘Spider-Man’ London Premiere",
+      "link": "https://www.vogue.com/article/florence-pugh-and-zendaya-couture-coordinate-spider-man-london",
+      "summary": "Confirming her appearance in yet another Marvel movie, Florence Pugh swerved the spiderwebbed strain of method dressing for shimmering silver.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Florence Pugh and Zendaya Couture Co-Ord at the ‘Spider-Man’ London Pr...",
+      "score": 2,
+      "published": "2026-07-30T10:15:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4db702608563",
+      "title": "In season of protests, oil minister meets E20 protesters ahead of protest march",
+      "link": "https://www.indiatoday.in/india/story/ethanol-protest-cjp-jantar-mantar-shock-hardeep-puti-tehseen-poonwalla-e20-policy-parliament-march-2959678-2026-07-30?utm_source=rss",
+      "summary": "In season of protests, oil minister meets E20 protesters ahead of protest march",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-30T10:05:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "78a2c6f34405",
+      "title": "Good God, the Baby’s Walking",
+      "link": "https://www.vogue.com/article/babys-first-steps",
+      "summary": "There have been 53 weeks of unquestionable babyhood, but over the course of two wobbly steps, she’s become something else.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Good God, the Baby’s Walking...",
+      "score": 0,
+      "published": "2026-07-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1b8b632ba733",
+      "title": "Uma Thurman’s Iconic ‘Pulp Fiction’ Costume Is Heading to Auction",
+      "link": "https://www.vogue.com/article/uma-thurman-mia-wallace-pulp-fiction-costume-auction",
+      "summary": "Film memorabilia auction house Propstore expects to fetch between $15,000 and $30,000 for the costume, which hits the block on August 26 at the Peterson Automotive Museum in Los Angeles.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Uma Thurman’s Iconic ‘Pulp Fiction’ Costume Is Heading to Auction...",
+      "score": 0,
+      "published": "2026-07-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd5afa2f78ee",
+      "title": "3 Hidden Gems in Italy to Discover This Summer Far Away from the Crowds",
+      "link": "https://www.vogue.com/slideshow/hidden-gems-in-italy",
+      "summary": "One Vogue editor shares her three favorite hidden gem regions in Italy for an off-the-beaten path summer. Discover them now; plus, where to stay.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 3 Hidden Gems in Italy to Discover This Summer Far Away from the Crowd...",
+      "score": 0,
+      "published": "2026-07-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "150377c9b196",
+      "title": "14 Bridesmaid Dress Brands to Bookmark If You're Planning a Wedding",
+      "link": "https://www.vogue.com/article/best-brands-for-bridesmaids-dresses",
+      "summary": "As you plan your big day (and your bridal party), take a minute to consider what everyone will wear—these bridesmaid dress brands are anything but cliché.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 14 Bridesmaid Dress Brands to Bookmark If You're Planning a Wedding — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-07-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd565e0dffdf",
+      "title": "Why Tanner Leatherstein Backs Ubrique: The Small Spanish Town Dominating Luxury Leather",
+      "link": "https://www.vogue.com/article/inside-ubrique-the-small-spanish-town-dominating-luxury-leather",
+      "summary": "Luxury brands have a long history of producing leather goods in this hidden pueblo blanco. Now, a new generation of more affordable luxury brands are putting down roots in Ubrique. But there are challenges ahead.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Tanner Leatherstein Backs Ubrique: The Small Spanish Town Dominati...",
+      "score": 2,
+      "published": "2026-07-30T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "843c0c91ef5a",
+      "title": "What Sustainable Fashion Leaders Are Reading This Summer",
+      "link": "https://www.vogue.com/article/what-sustainable-fashion-leaders-are-reading-this-summer",
+      "summary": "Sustainable fashion leaders share their recommendations for moving beyond tick-box sustainability to wholesale systems change. This summer, they’re cultivating wisdom, not chasing knowledge.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: What Sustainable Fashion Leaders Are Reading This Summer...",
+      "score": 2,
+      "published": "2026-07-30T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a315684a7c42",
+      "title": "CJP protesters came within 100 metres of Parliament on July 20, new videos show",
+      "link": "https://www.indiatoday.in/india/story/delhi-parliament-protest-cctv-raises-questions-over-police-preparedness-2959623-2026-07-30?utm_source=rss",
+      "summary": "CJP protesters came within 100 metres of Parliament on July 20, new videos show",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: CJP protesters came within 100 metres of Parliament on July 20, new vi...",
+      "score": 1,
+      "published": "2026-07-30T07:52:56+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "fd8e0e78d5c1",
       "title": "No, Not Aquamarine—This \"Dated\" Colour Trend Makes Shorts and Skirts Look Cooler in 2026",
@@ -20,20 +146,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-07-30T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6194ad96e428",
-      "title": "A Decade of Zendaya Style Moments That Prove She Never Misses",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
-      "summary": "From her big hats to her So Kates.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Decade of Zendaya Style Moments That Prove She Never Misses...",
-      "score": 1,
-      "published": "2026-07-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -65,15 +177,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7a4a362c1da6",
-      "title": "I Just Really Don't Think These New Fashionable Zara Items Will Be in Stock by the Second Week of August",
-      "link": "https://www.whowhatwear.com/fashion/shopping/popular-zara-fashion-items-summer-2026",
-      "summary": "I know a future sellout when I see one.",
+      "id": "6194ad96e428",
+      "title": "A Decade of Zendaya Style Moments That Prove She Never Misses",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
+      "summary": "From her big hats to her So Kates.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Really Don't Think These New Fashionable Zara Items Will Be in ...",
+      "angle": "Fashion Intelligence: A Decade of Zendaya Style Moments That Prove She Never Misses...",
       "score": 1,
       "published": "2026-07-30T07:00:00+00:00",
       "discovered_via": "feed"
@@ -93,17 +205,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "96d4cfe67383",
-      "title": "I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These Are the Makeup Products I Swear By",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-fara-homidi-beauty-products",
-      "summary": "No-makeup makeup at its finest.",
+      "id": "7a4a362c1da6",
+      "title": "I Just Really Don't Think These New Fashionable Zara Items Will Be in Stock by the Second Week of August",
+      "link": "https://www.whowhatwear.com/fashion/shopping/popular-zara-fashion-items-summer-2026",
+      "summary": "I know a future sellout when I see one.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These A...",
+      "angle": "Fashion Intelligence: I Just Really Don't Think These New Fashionable Zara Items Will Be in ...",
       "score": 1,
-      "published": "2026-07-30T06:00:00+00:00",
+      "published": "2026-07-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -121,8 +233,22 @@
       "discovered_via": "feed"
     },
     {
+      "id": "96d4cfe67383",
+      "title": "I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These Are the Makeup Products I Swear By",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-fara-homidi-beauty-products",
+      "summary": "No-makeup makeup at its finest.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These A...",
+      "score": 1,
+      "published": "2026-07-30T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ff612ea48c2c",
-      "title": "French Women Do Have the Chicest Summer Style, These 5 Microtrends Are the Ones They're Styling Most This Season",
+      "title": "French Women Have the Chicest Summer Style—These 5 Microtrends Are the Ones They're Styling the Most This Season",
       "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-microtrends-2026",
       "summary": "Small trends that make a big impact.",
       "source": "Who What Wear",
@@ -933,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "013c6574cfd0",
-      "title": "Hermès Reports 6.7% Sales Uplift in Q2",
-      "link": "https://www.vogue.com/article/hermes-reports-67-sales-uplift-in-q2",
-      "summary": "Sales growth at the French house slightly accelerated in the second quarter.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hermès Reports 6.7% Sales Uplift in Q2...",
-      "score": 0,
-      "published": "2026-07-29T10:24:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1cc11a26355c",
       "title": "MIT Engineers Develop Recyclable Stretch Yarn to Replace Spandex",
       "link": "https://in.apparelresources.com/fashion-news/innovation/mit-engineers-develop-recyclable-stretch-yarn-replace-spandex/",
@@ -975,31 +1087,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f7753079f79a",
-      "title": "28 Scandinavian Street Style Stars Who Have Shaped the Look of Copenhagen Fashion Week",
-      "link": "https://www.vogue.com/article/28-scandinavian-street-style-stars-who-have-shaped-the-look-of-copenhagen-fashion-week",
-      "summary": "In honor of Copenhagen Fashion Week’s 20th anniversary, we’ve put together a directory of Scandinavian street style stars using our robust archive.",
-      "source": "Vogue US",
+      "id": "7fcedc8c0e4f",
+      "title": "A Complete Guide To Spring-Summer Hat Styles",
+      "link": "https://www.fashionbeans.com/article/complete-guide-to-spring-summer-hats/",
+      "summary": "Headwear might not be the first thing you search for when summer rolls around &#8211; swim shorts, Cuban collars and sunglasses probably all come first. But, as an alternative form of sun protection – and a potentially stylish wardrobe addition – a summer hat is a fine investment for the right head. To save you &#8230;",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 28 Scandinavian Street Style Stars Who Have Shaped the Look of Copenha...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: A Complete Guide To Spring-Summer Hat Styles...",
       "score": 2,
-      "published": "2026-07-29T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b3fee4d7de6c",
-      "title": "The Simple Exercise Jennifer Aniston Won’t Skip, Even on Vacation",
-      "link": "https://www.vogue.com/article/jennifer-aniston-vacation-exercise",
-      "summary": "Aboard a yacht with boyfriend Jim Curtis, Courteney Cox, and Pedro Pascal off the coast of Mallorca, Jennifer Aniston made time for a quick workout.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Simple Exercise Jennifer Aniston Won’t Skip, Even on Vacation...",
-      "score": 0,
-      "published": "2026-07-29T09:33:17+00:00",
+      "published": "2026-07-29T10:02:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1143,48 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f9ad44033027",
-      "title": "Inside the Neo Knitwear Boom",
-      "link": "https://www.vogue.com/article/inside-the-neo-knitwear-boom",
-      "summary": "A new wave of knitwear designers is rising to meet demand for well-crafted, creative clothing.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Inside the Neo Knitwear Boom...",
-      "score": 3,
-      "published": "2026-07-29T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4cdde9415f4f",
-      "title": "We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why",
-      "link": "https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why",
-      "summary": "Mediterranean beauty brands are uniquely poised to benefit from the touch grass movement, with shoppers actively seeking natural, anti-inflammatory ingredients and minimalist routines.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why...",
-      "score": 2,
-      "published": "2026-07-29T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e9593c8095b2",
-      "title": "6 Ways I Minimize Dark Circles Without Makeup",
-      "link": "https://www.vogue.com/article/minimize-dark-circles-without-makeup",
-      "summary": "Minimizing dark circles without makeup is possible with the right routine. From improving sleep habits to vitamin C-rich creams, here's everything that can make a difference.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Ways I Minimize Dark Circles Without Makeup...",
-      "score": 0,
-      "published": "2026-07-29T03:23:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dbaf71721720",
       "title": "Barcelona Style Guide for a Mediterranean City Escape",
       "link": "https://www.fashiongonerogue.com/story/barcelona-style-guide/",
@@ -1199,17 +1255,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ad2172d86354",
-      "title": "Does Mature Skin Really Need a Toner? Dermatologists Explain",
-      "link": "https://www.vogue.com/article/toner-for-mature-skin",
-      "summary": "Are toners good for mature skin? Experts say yes, in order to to replenish hydration, support the skin barrier, calm inflammation, and improve ingredient absorption.",
-      "source": "Vogue US",
+      "id": "36bd3e1dc9ee",
+      "title": "10 Best Shoes To Wear Without Socks – Go Sockless in 2026",
+      "link": "https://www.fashionbeans.com/article/best-shoes-to-wear-without-socks/",
+      "summary": "Wearing shoes with no socks is the kind of sartorial move that splits opinion. Especially amongst the older generation. I once flashed my ankles at a spring wedding and had to listen to my aunts and uncles insist I had “forgotten something”. But I hadn’t; never heard of a no-show shock, grandpa? Anyhow, I’m here &#8230",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Does Mature Skin Really Need a Toner? Dermatologists Explain...",
-      "score": 0,
-      "published": "2026-07-29T02:09:03+00:00",
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: 10 Best Shoes To Wear Without Socks – Go Sockless in 2026...",
+      "score": 3,
+      "published": "2026-07-29T01:19:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1829,30 +1885,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c4a1b1fb0d9d",
-      "title": "ICYMI: Hailey and Kylie Both Just Embraced This Cool-Girl Denim Outfit Combo",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-jeans-crop-top-outfit-hailey-bieber-kylie-jenner",
-      "summary": "And we're wearing it immediately.",
+      "id": "c3097b96f057",
+      "title": "I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S Are at the Top of My Wish List",
+      "link": "https://www.whowhatwear.com/fashion/affordable/ms-minimalist-edit-2026",
+      "summary": "I'd like it all, please.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ICYMI: Hailey and Kylie Both Just Embraced This Cool-Girl Denim Outfit...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor With Minimalist Style—These 18 New Buys From M&S ...",
       "score": 2,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "62f63940f586",
-      "title": "Every Chic Person I Know Is Wearing This Elevated Shoe Trend Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shoes/lace-up-sandal-outfits",
-      "summary": "Shop the style inside.",
+      "id": "70913afb8b8d",
+      "title": "Wait, I Just Found the Cutest Under-$100 Tops Hiding at the Nordstrom Anniversary Sale",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cute-tops-nordstrom-anniversary-sale-2026",
+      "summary": "These make getting dressed infinitely easier.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Wait, I Just Found the Cutest Under-$100 Tops Hiding at the Nordstrom ...",
+      "score": 1,
       "published": "2026-07-28T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2263,34 +2319,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c9cf9e0da3b",
-      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
-      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
-      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
-      "score": 1,
-      "published": "2026-07-26T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c10540672ef",
-      "title": "A Clear Comparison of Levi’s 502, 511 and 512 Fits",
-      "link": "https://www.fashionbeans.com/article/levis-502-vs-511-vs-512/",
-      "summary": "Levi’s 502, 511 and 512 sit next to each other on the product grid, but they’re drafted for different bodies and different outcomes. The changes look subtle on a model shot, yet the underlying patterns tell a more precise story. The rise shifts, the top block opens or narrows, the taper angle changes, and the &#8230; C",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Clear Comparison of Levi’s 502, 511 and 512 Fits...",
-      "score": 1,
-      "published": "2026-07-26T07:29:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec57f6c3454b",
       "title": "ICYMI: Kate Spade's New Creative Director, Vittoria Ceretti's Fashion and Beauty Favorites & Cosmoprof 2026's Biggest Beauty Trends",
       "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-25",
@@ -2669,6 +2697,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "024ce1881421",
+      "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
+      "link": "https://blog.kalkifashion.com/10-trending-anarkali-suit-for-rakshan-bandhan/",
+      "summary": "Raksha Bandhan is almost there, and the air is already filled with the joy of celebrations, reuniting with siblings and dressing up for the good. Marked by the tying of a rakhi as the sacred thread in return of a promise to be protected forever by their brother, sisters love this festival more than anything. [&#8230;] ",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Unique Anarkali Suit Options For Raksha Bandhan...",
+      "score": 2,
+      "published": "2026-07-30T09:10:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9103f94dc229",
+      "title": "Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy",
+      "link": "https://www.indianclothstore.com/blog/punjabi-suit-design-guide-neck-styles-and-cuts",
+      "summary": "The right punjabi suit design starts with the neckline, since it decides both comfort and how the outfit sits on the shoulders. Round necks, boat necks, and keyhole cuts are the three most requested styles at Indian Cloth Store, each suited to a different body type and occasion. Knowing which cut works before placing a",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy...",
+      "score": 3,
+      "published": "2026-07-28T05:32:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "106ac738dc6b",
       "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/10-trending-anarkali-suits-for-raksha-bandhan/",
@@ -2694,6 +2750,34 @@
       "angle": "Bridal Edit: Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season — A Complete Style Guide",
       "score": 5,
       "published": "2026-07-20T04:48:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19b64ad7353c",
+      "title": "Jacket Style Lehenga Choli: What It Is and When to Wear One",
+      "link": "https://www.indianclothstore.com/blog/jacket-style-lehenga-choli-what-it-is-when-to-wear",
+      "summary": "A jacket style lehenga choli replaces the standard fitted blouse with a long, open-front jacket worn over a fitted inner blouse and a flared skirt. It works for sangeets, receptions, and festive parties where a buyer wants coverage on the arms with a modern silhouette. Indian Cloth Store stitches every jacket-style leh",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Bridal Edit: Jacket Style Lehenga Choli — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-07-19T11:18:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd2c7cfcf426",
+      "title": "Indo-Western Lehenga Choli vs Traditional Lehenga Choli: What’s the Difference",
+      "link": "https://www.indianclothstore.com/blog/indo-western-lehenga-choli-vs-traditional-lehenga-choli-whats-the-difference",
+      "summary": "An indo western lehenga choli combines Western styles such as crop tops, dresses or draped skirts with traditional lehenga features. A traditional lehenga choli sticks to the original three-piece structure of skirt, blouse, and dupatta. The difference sits mainly in the cut, the choli style, and the amount of drape use",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Indo-Western Lehenga Choli vs Traditional Lehenga Choli — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-07-15T14:57:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2823,17 +2907,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2f29e9ed097b",
-      "title": "Why Your Saree Blouse Matters More Than the Saree Itself",
-      "link": "https://blog.kalkifashion.com/unique-blouse-styles-for-different-occasions-with-the-same-saree/",
-      "summary": "A saree, also called the six yards of elegance, remains one of the most cherished ethnic wear for women. From wedding festivities to farewell parties, a beautifully draped saree immediately catches everybody’s attention. But do you know the significance your saree blouse holds? Your saree blouse is more than just a com",
-      "source": "Kalki Fashion Blog",
+      "id": "daac22f17dda",
+      "title": "White Anarkali Dress Styling Guide: 9 Looks for Every Skin Tone and Occasion",
+      "link": "https://www.indianclothstore.com/blog/white-anarkali-dress-styling-guide-skin-tone-occasion",
+      "summary": "A white anarkali dress is one of the most versatile pieces in Indian ethnic wear — but most women either avoid it out of uncertainty or style it the same way every time. White works beautifully across skin tones when the fabric, embellishment, and accessories are chosen correctly. Indian Cloth Store has put together th",
+      "source": "Indian Cloth Store",
       "tier": "competitor",
       "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Why Your Saree Blouse Matters More Than the Saree Itself...",
-      "score": 4,
-      "published": "2026-06-24T04:21:54+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 6,
+      "published": "2026-06-22T06:49:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af8f4f6185a1",
+      "title": "Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Body Type?",
+      "link": "https://www.indianclothstore.com/blog/frock-anarkali-vs-classic-anarkali-suit",
+      "summary": "A frock anarkali suit and a classic anarkali suit look similar at first glance — both are floor-length, and both are stunning. But the silhouette, the cut, and the way each one sits on the body are completely different. Choosing the wrong one for your frame or your occasion is one of the most common mistakes Indian eth",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
+      "score": 3,
+      "published": "2026-06-15T13:38:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +3077,52 @@
   ],
   "trends": [
     {
-      "term": "కార్యదర్శి",
+      "term": "एकनाथ शिंदे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महिन्द्रा स्कॉर्पियो",
+      "term": "பரந்தூர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारतीय रेल",
+      "term": "चरणजीत सिंह चन्नी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "শনি",
+      "term": "વડોદરા",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "srinivasa mangapuram movie review",
+      "term": "बांग्लादेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कश्मीर",
+      "term": "மேயர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बातमी",
+      "term": "অমিত শাহ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कंगना रानौत",
+      "term": "v kamakoti nta task force",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "district",
+      "term": "कर्ज माफी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अजिंक्य रहाणे",
+      "term": "abhijeet dipke on narendra modi",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
