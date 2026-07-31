@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T10:38:21.080850+00:00",
+  "generated_at": "2026-07-31T12:56:03.914568+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 188,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,161 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 16Arlington Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-31T10:37:04+00:00",
+      "published": "2026-07-31T12:51:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "00a39f510948",
+      "title": "Merlot! Burnt Cherry! Oxblood! 10+ Burgundy Bags to Add to Your Handbag Collection",
+      "link": "https://www.vogue.com/article/burgundy-bags",
+      "summary": "From rich merlots to burnt cherry to beetroot and everything in between, Fall 2026's runway made a strong case for this hue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-07-31T12:41:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f32544b91ef0",
+      "title": "The Best Gladiator Sandals Return! Refresh Your Wardrobe With Our Top 18 Picks",
+      "link": "https://www.vogue.com/slideshow/gladiator-sandals",
+      "summary": "The shoe has taken on many forms, from Paco Rabanne’s Space Age chic modettes to the bohemian-centric designs patented by Sienna Miller’s iconic festival style.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Gladiator Sandals Return! Refresh Your Wardrobe With Our Top ...",
+      "score": 1,
+      "published": "2026-07-31T12:39:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e8fd7fb2ad73",
+      "title": "The 17 Best Beauty Products Fashionista Editors Tried in July",
+      "link": "https://fashionista.com/2026/07/fashionista-editors-favorite-beauty-products-july-2026",
+      "summary": "Including a woodsy perfume oil, a soothing oat cleansing balm and a creamy semi-matte lip liner.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The 17 Best Beauty Products Fashionista Editors Tried in July...",
+      "score": 2,
+      "published": "2026-07-31T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b03e55b45764",
+      "title": "Independent, Local Retail Is Far From Dead in 2026",
+      "link": "https://fashionista.com/2026/07/independent-local-retail-growth-faire-report-q2",
+      "summary": "New wholesale data from Faire suggests that small-town shops are outperforming big-city chains, creating new opportunities for fashion and beauty brands.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Independent, Local Retail Is Far From Dead in 2026...",
+      "score": 3,
+      "published": "2026-07-31T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b717fd1c7888",
+      "title": "Gregg Araki on Perfecting Mysterious Skin, Encouraging Olivia Wilde to Push Her Limits, and Tenacity in Indie Film",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a73224416/gregg-araki-harpers-bazaar-questionnaire/",
+      "summary": "The iconic director of I Want Your Sex answers Bazaar’s “First Now Next” Questionnaire",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Gregg Araki on Perfecting Mysterious Skin, Encouraging Olivia Wilde to...",
+      "score": 0,
+      "published": "2026-07-31T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "49cb5bbbe0b9",
+      "title": "Innovation and Sustainability Are the New Blueprint for Textiles",
+      "link": "https://in.apparelresources.com/business-news/sourcing/innovation-sustainability-new-blueprint-textiles/",
+      "summary": "Buyers today expect apparel suppliers to deliver smaller MOQs, faster development cycles, continuous innovation, value-added functionality, sustainability and complete traceability. Many of these expectations are now being addressed upstream, with textile suppliers playing a much more active role in shaping the final p",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Innovation and Sustainability Are the New Blueprint for Textiles...",
+      "score": 1,
+      "published": "2026-07-31T11:30:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc74fde9af41",
+      "title": "We Asked AI to Name the 5 Best Menswear Brands of 2026. Claude and ChatGPT Agreed on Nothing",
+      "link": "https://www.fashionbeans.com/article/claude-vs-chatgpt-best-menswear-brands-2026/",
+      "summary": "Let me be honest with you. We expected this experiment to be a bit of fun and a lot of overlap. Ask two of the world&#8217;s most advanced AI models to name their five favourite menswear brands of 2026 so far, and surely you get the same mood board twice: the usual suspects, safely recycled. &#8230; Continue reading We",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: We Asked AI to Name the 5 Best Menswear Brands of 2026. Claude and Cha...",
+      "score": 4,
+      "published": "2026-07-31T11:01:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f7e6bc99bf4",
+      "title": "Meghan Markle Is Already Wearing Fall’s Most Stylish (and Practical) Shoe",
+      "link": "https://www.vogue.com/article/meghan-markle-fall-practical-shoe",
+      "summary": "Meghan attended a premiere in California wearing city shorts, a light knit and autumn-ready tasselled loafers. A smart addition to city shorts in July, these particular flats will also work hard for your wardrobe once September ushers in that back-to-school mood.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-31T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5eb3db48abad",
+      "title": "Old Money, New Mood: Why Grandmillennial Dressing Is Having A Moment",
+      "link": "https://in.apparelresources.com/fashion-news/trends/old-money-new-mood-grandmillennial-dressing-moment/",
+      "summary": "Grandmillennial dressing has emerged as one of 2026&#8217;s defining fashion trends, bringing embroidered blouses, pearls, tweed, and heirloom florals into sharp, contemporary silhouettes rather than costume-like styling. The aesthetic reflects a shift towards understated luxury, where craftsmanship, quality, and timel",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Old Money, New Mood: Why Grandmillennial Dressing Is Having A Moment...",
+      "score": 5,
+      "published": "2026-07-31T10:54:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9ac8e529d74b",
+      "title": "Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This Elevated Neutral",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-flip-flop-trend-jennifer-lopez-2026",
+      "summary": "An outfit-altering swap.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This...",
+      "score": 2,
+      "published": "2026-07-31T10:46:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "894c70cb7fa2",
+      "title": "Grasim Launches Scuba Knit Fabric Made With Livaeco Fibres",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/grasim-launches-scuba-knit-fabric-made-livaeco-fibres/",
+      "summary": "Grasim Plup – a raw material division of Grasim Industries (part of the Aditya Birla Group) – which used to manufacture sustainable man-made cellulosic fibres (MMCF) like viscose staple fibre, lyocell &#38; Fibre’s Textile Research and Development Center (TRADC) has introduced a next-generation Scuba Knit fabric made w",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-07-31T10:40:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -150,7 +304,7 @@
     },
     {
       "id": "4f70d57dede7",
-      "title": "It's Officially Too Hot For Jeans—This is the Timeless Trouser Trend I’m Wearing With Blouses And T-Shirts Instead",
+      "title": "It's Officially Too Hot for Jeans—This Is the Timeless Trouser Trend I’m Wearing With Blouses and T-Shirts Instead",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/outfits-with-striped-trousers-summer-2026",
       "summary": "The new classic.",
       "source": "Who What Wear",
@@ -163,16 +317,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ef53917520b7",
-      "title": "The Stylish Women I Saw in Paris Inspired Every Outfit I Wore on My Trip",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-inspired-outfit-ideas",
-      "summary": "Your daily dose of Parisian fashion inspiration.",
+      "id": "003f78fed8dd",
+      "title": "Jennifer Aniston Just Wore a Jeans and Shoe Pairing I’d Never Wear in Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-flip-flops-bootcut-jeans-the-row-bag-jennifer-aniston-2026",
+      "summary": "The one with the holiday wardrobe.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "score": 1,
       "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -191,16 +345,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "003f78fed8dd",
-      "title": "Jennifer Aniston Just Wore a Jeans and Shoe Pairing I’d Never Wear in Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-flip-flops-bootcut-jeans-the-row-bag-jennifer-aniston-2026",
-      "summary": "The one with the holiday wardrobe.",
+      "id": "ef53917520b7",
+      "title": "The Stylish Women I Saw in Paris Inspired Every Outfit I Wore on My Trip",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-inspired-outfit-ideas",
+      "summary": "Your daily dose of Parisian fashion inspiration.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
+      "score": 2,
       "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4d9737cccfc9",
-      "title": "7 Effective Lymphatic Drainage Methods That Aren’t Massage",
-      "link": "https://www.vogue.com/article/lymphatic-drainage-methods",
-      "summary": "From swimming to walking, Chloe Burcham reveals the simple ways to fire up your body’s lymphatic system.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Effective Lymphatic Drainage Methods That Aren’t Massage...",
-      "score": 0,
-      "published": "2026-07-30T14:46:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0a27eae9f140",
       "title": "Carfrae Consulting Is Hiring A Communications Coordinator In New York, NY",
       "link": "https://fashionista.com/2026/07/carfrae-consulting-is-hiring-a-communications-coordinator-in-new-york-ny",
@@ -919,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "45c85fa0a49a",
-      "title": "Mary Beth Barone Is Ready to Piss off the Right People",
-      "link": "https://www.vogue.com/article/mary-beth-barone-galaxy-brain-interview",
-      "summary": "As she releases her Netflix comedy special “Galaxy Brain,” Mary Beth Barone discusses dating, delusions, and discourse.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Mary Beth Barone Is Ready to Piss off the Right People...",
-      "score": 0,
-      "published": "2026-07-30T14:17:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c625f52d019f",
       "title": "Natalie Portman Shares a Rare Glimpse Into Her Third Pregnancy",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73306747/natalie-portman-third-pregnancy-baby-bump-photo-boyfriend-tanguy-destable/",
@@ -944,20 +1070,6 @@
       "angle": "Fashion Intelligence: Natalie Portman Shares a Rare Glimpse Into Her Third Pregnancy...",
       "score": 0,
       "published": "2026-07-30T14:17:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "00e56267bcdf",
-      "title": "Iconic Summer Looks from Fashion Muses To Recreate",
-      "link": "https://www.vogue.com/article/summer-style-muses",
-      "summary": "Need a bit of inspiration this summer? Look to these muses for inspiration.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Iconic Summer Looks from Fashion Muses To Recreate...",
-      "score": 1,
-      "published": "2026-07-30T13:41:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,6 +1199,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "62a2a75ae3e7",
+      "title": "The Biggest Sneaker Trends Of 2026",
+      "link": "https://www.fashionbeans.com/article/mens-sneaker-trends/",
+      "summary": "As we edge cautiously towards 2021 there are some big questions on everyone’s lips: Are we about to be dragged into World War III? How can we stop the entire planet from burning to a cinder? And, much less importantly, what&#8217;s the next big thing going to be in the world of sneaker trends? Unfortunately, &#8230; Co",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-07-30T07:59:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "fd8e0e78d5c1",
       "title": "No, Not Aquamarine—This \"Dated\" Colour Trend Makes Shorts and Skirts Look Cooler in 2026",
       "link": "https://www.whowhatwear.com/fashion/trends/neon-pink-fashion-trend-2026",
@@ -1101,34 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6194ad96e428",
-      "title": "A Decade of Zendaya Style Moments That Prove She Never Misses",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
-      "summary": "From her big hats to her So Kates.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Decade of Zendaya Style Moments That Prove She Never Misses...",
-      "score": 1,
-      "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ceb4e539475b",
-      "title": "Not the Hamptons, Not Upstate—the Underrated Destination NYC Fashion People Are Heading to This Summer",
-      "link": "https://www.whowhatwear.com/living/travel/greenport-weekend-travel-guide",
-      "summary": "Make the most of your two-night visit to Greenport.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not the Hamptons, Not Upstate—the Underrated Destination NYC Fashion P...",
-      "score": 1,
-      "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1f592a239c1c",
       "title": "I Packed Just One Carry-On for 4 Days in Mexico—Here's Everything That Made the Cut",
       "link": "https://www.whowhatwear.com/fashion/vacation/midsize-vacation-outfit-ideas",
@@ -1138,20 +1236,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Packed Just One Carry-On for 4 Days in Mexico—Here's Everything That...",
-      "score": 1,
-      "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7a4a362c1da6",
-      "title": "I Just Really Don't Think These New Fashionable Zara Items Will Be in Stock by the Second Week of August",
-      "link": "https://www.whowhatwear.com/fashion/shopping/popular-zara-fashion-items-summer-2026",
-      "summary": "I know a future sellout when I see one.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Really Don't Think These New Fashionable Zara Items Will Be in ...",
       "score": 1,
       "published": "2026-07-30T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1171,17 +1255,45 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ab52cdba3337",
-      "title": "I Waited a Year for This Celebrity-Loved High-Street Dress to Return—Now It's Back and Selling Fast",
-      "link": "https://www.whowhatwear.com/fashion/dresses/reformation-naira-dress",
-      "summary": "It won't be in stock for long.",
+      "id": "6194ad96e428",
+      "title": "A Decade of Zendaya Style Moments That Prove She Never Misses",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
+      "summary": "From her big hats to her So Kates.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-30T06:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Decade of Zendaya Style Moments That Prove She Never Misses...",
+      "score": 1,
+      "published": "2026-07-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a4a362c1da6",
+      "title": "I Just Really Don't Think These New Fashionable Zara Items Will Be in Stock by the Second Week of August",
+      "link": "https://www.whowhatwear.com/fashion/shopping/popular-zara-fashion-items-summer-2026",
+      "summary": "I know a future sellout when I see one.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Really Don't Think These New Fashionable Zara Items Will Be in ...",
+      "score": 1,
+      "published": "2026-07-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ceb4e539475b",
+      "title": "Not the Hamptons, Not Upstate—the Underrated Destination NYC Fashion People Are Heading to This Summer",
+      "link": "https://www.whowhatwear.com/living/travel/greenport-weekend-travel-guide",
+      "summary": "Make the most of your two-night visit to Greenport.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not the Hamptons, Not Upstate—the Underrated Destination NYC Fashion P...",
+      "score": 1,
+      "published": "2026-07-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1195,6 +1307,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These A...",
       "score": 1,
+      "published": "2026-07-30T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ab52cdba3337",
+      "title": "I Waited a Year for This Celebrity-Loved High-Street Dress to Return—Now It's Back and Selling Fast",
+      "link": "https://www.whowhatwear.com/fashion/dresses/reformation-naira-dress",
+      "summary": "It won't be in stock for long.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-07-30T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1675,48 +1801,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1bad530bfcf4",
-      "title": "V-Mart’s Q1 Profit Rises 40.5% Amid Sales Momentum",
-      "link": "https://in.apparelresources.com/business-news/retail/v-marts-q1-profit-rises-40-5-amid-sales-momentum/",
-      "summary": "Value fashion retailer V-Mart Retail reported a strong financial performance in the first quarter of FY27, driven by strong same-store sales growth, improved operational efficiency and disciplined inventory management. The company&#8217;s revenue grew 23% year-on-year during the quarter, supported by healthy consumer d",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: V-Mart’s Q1 Profit Rises 40.5% Amid Sales Momentum...",
-      "score": 1,
-      "published": "2026-07-29T10:45:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1cc11a26355c",
-      "title": "MIT Engineers Develop Recyclable Stretch Yarn to Replace Spandex",
-      "link": "https://in.apparelresources.com/fashion-news/innovation/mit-engineers-develop-recyclable-stretch-yarn-replace-spandex/",
-      "summary": "MIT engineers have created a stretchy yarn made entirely from polyethylene, offering a recyclable alternative to spandex blends that currently dominate the activewear and stretch-fabric market. The yarn matches spandex in stretch and strength but is built from a single plastic family rather than mixed fibers. Researche",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: MIT Engineers Develop Recyclable Stretch Yarn to Replace Spandex...",
-      "score": 1,
-      "published": "2026-07-29T10:13:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e5087ac8b0ce",
-      "title": "Jamdani Weaves Its Way Into Contemporary Fashion Beyond the Saree in 2026",
-      "link": "https://in.apparelresources.com/fashion-news/jamdani-weaves-way-contemporary-fashion-beyond-saree-2026/",
-      "summary": "Jamdani, the centuries-old muslin weaving technique from Bengal known for motifs that appear to float on sheer fabric, is showing up across a far wider range of silhouettes in 2026. Once reserved for royal courts, the handloom craft is now being reworked by contemporary labels into jackets, shirts, co-ord sets, corsets",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 6,
-      "published": "2026-07-29T10:04:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7fcedc8c0e4f",
       "title": "A Complete Guide To Spring-Summer Hat Styles",
       "link": "https://www.fashionbeans.com/article/complete-guide-to-spring-summer-hats/",
@@ -1798,20 +1882,6 @@
       "angle": "Fashion Intelligence: Atorie Lets You Buy Straight From the Ateliers. These Six Pieces Prove...",
       "score": 1,
       "published": "2026-07-29T07:01:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8ace9d74034b",
-      "title": "The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather",
-      "link": "https://www.whowhatwear.com/fashion/shopping/dresses-summer-2026",
-      "summary": "Slips, nightgowns, baby-doll dresses, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather...",
-      "score": 2,
-      "published": "2026-07-29T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1969,20 +2039,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6facd7fd6773",
-      "title": "Why Is Hailey Bieber Wearing Pimple Patches on Her Feet?",
-      "link": "https://www.harpersbazaar.com/beauty/health/a73285731/hailey-bieber-feet-pimple-patches/",
-      "summary": "The Rhode Skin founder might have just cracked the code to healing blisters",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-28T17:55:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "572d7bd28aa1",
       "title": "Must Read: LVMH Sees Growth Accelerate in Second Quarter, Tyla Named Kate Spade Brand Ambassador",
       "link": "https://fashionista.com/2026/07/lvmh-sees-growth-accelerate-in-second-quarter",
@@ -2050,20 +2106,6 @@
       "angle": "Fashion Intelligence: Candice Swanepoel Leads Victoria’s Secret Very Sexy Ad...",
       "score": 1,
       "published": "2026-07-28T11:56:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3d04af03d951",
-      "title": "How to Find a Watch That Fits Your Style",
-      "link": "https://www.fashiongonerogue.com/story/how-find-watch-your-style/",
-      "summary": "Finding a watch that fits your style starts with a simple truth. A watch has never really been about the ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: How to Find a Watch That Fits Your Style...",
-      "score": 1,
-      "published": "2026-07-28T11:52:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2347,34 +2389,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1e738d5fd2a1",
-      "title": "6 Best Calvin Klein Colognes For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-calvin-klein-colognes/",
-      "summary": "No brand defines classic minimalist quite like Calvin Klein, and the best Calvin Klein colognes are no exception. Much like their clothing and iconic ad campaigns, their fragrances combine sex appeal with sophistication, which is actually pretty hard to do. Inherently, Calvin Klein colognes for men are clean, fresh, an",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Best Calvin Klein Colognes For Men In 2026...",
-      "score": 1,
-      "published": "2026-07-27T01:55:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f2bfb41d11ea",
-      "title": "Alex Turner’s Best Hairstyles",
-      "link": "https://www.fashionbeans.com/article/alex-turners-best-hairstyles-and-how-to-get-the-look/",
-      "summary": "As the crowds shuffled along the security queue at Ibiza airport, not one person noticed that the band standing next to them had played a raucous, sold-out gig at Ibiza Rocks just the night before. A scene witnessed in 2007, the band was Arctic Monkeys, and they were still riding high on the success of Whatever &#8230;",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Alex Turner’s Best Hairstyles...",
-      "score": 1,
-      "published": "2026-07-26T10:10:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec57f6c3454b",
       "title": "ICYMI: Kate Spade's New Creative Director, Vittoria Ceretti's Fashion and Beauty Favorites & Cosmoprof 2026's Biggest Beauty Trends",
       "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-25",
@@ -2610,34 +2624,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 2,
       "published": "2026-07-21T17:07:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c75b354d319",
-      "title": "A Highly Credentialed Derm Says to 'Save your Money' Rather Than Use These Trendy Skin-Care Ingredients",
-      "link": "https://fashionista.com/2026/07/dr-macrene-alexiades-dermatologist-skin-care-interview",
-      "summary": "For our video series “Face It,” Dr. Macrene Alexiades also gets real about GLP-1-era skin care, treatments that leave you \"swollen like a blimp\" and more.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-21T13:35:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b16205cca250",
-      "title": "The 5 Biggest Beauty Trends We Saw at Cosmoprof 2026",
-      "link": "https://fashionista.com/2026/07/beauty-industry-trends-cosmoprof-2026",
-      "summary": "Out of more than 1,000 brands from more than 100 countries, these buzzy products stood out.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-21T12:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "dixon share price",
+      "term": "तुकाराम मुंढे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "క్వారీ",
+      "term": "কলকাতা হাইকোর্ট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मंत्री",
+      "term": "amendment",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कृष्ण पहल",
+      "term": "भारत के गृह मंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जळगाव बातम्या",
+      "term": "टिकट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "brezza facelift base variant",
+      "term": "शिक्षणमंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മോഹന്ലാല്",
+      "term": "പാര്ലമെന്റ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बजाज पल्सर",
+      "term": "పెట్రోల్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বেতন",
+      "term": "ajinkya rahane cricketer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kohinoor building collapse bhiwandi",
+      "term": "ভারতীয় পাসপোর্ট",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
