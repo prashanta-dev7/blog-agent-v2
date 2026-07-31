@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T05:33:48.814594+00:00",
+  "generated_at": "2026-07-31T07:50:33.604739+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 188,
@@ -19,7 +19,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 16Arlington Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-07-31T05:29:16+00:00",
+      "published": "2026-07-31T07:46:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4f70d57dede7",
+      "title": "It's Officially Too Hot For Jeans—This is the Timeless Trouser Trend I’m Wearing With Blouses And T-Shirts Instead",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/outfits-with-striped-trousers-summer-2026",
+      "summary": "The new classic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-31T07:35:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef53917520b7",
+      "title": "The Stylish Women I Saw in Paris Inspired Every Outfit I Wore on My Trip",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-inspired-outfit-ideas",
+      "summary": "Your daily dose of Parisian fashion inspiration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-07-31T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "003f78fed8dd",
+      "title": "Jennifer Aniston Just Wore a Jeans and Shoe Pairing I’d Never Wear in Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-flip-flops-bootcut-jeans-the-row-bag-jennifer-aniston-2026",
+      "summary": "The one with the holiday wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-31T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "65efe3c9b265",
+      "title": "9 Celebrity Engagement Rings We'll Still Be Talking About in 20 Years",
+      "link": "https://www.whowhatwear.com/fashion/celebrity/best-celebrity-engagement-rings",
+      "summary": "Jaw-dropping, to say the least.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -975,6 +1031,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6194ad96e428",
+      "title": "A Decade of Zendaya Style Moments That Prove She Never Misses",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
+      "summary": "From her big hats to her So Kates.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Decade of Zendaya Style Moments That Prove She Never Misses...",
+      "score": 1,
+      "published": "2026-07-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1f592a239c1c",
       "title": "I Packed Just One Carry-On for 4 Days in Mexico—Here's Everything That Made the Cut",
       "link": "https://www.whowhatwear.com/fashion/vacation/midsize-vacation-outfit-ideas",
@@ -999,20 +1069,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Here You Go: The 9 Chicest Ways to Wear a White T-Shirt in 2026...",
       "score": 2,
-      "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6194ad96e428",
-      "title": "A Decade of Zendaya Style Moments That Prove She Never Misses",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
-      "summary": "From her big hats to her So Kates.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Decade of Zendaya Style Moments That Prove She Never Misses...",
-      "score": 1,
       "published": "2026-07-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1045,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "96d4cfe67383",
-      "title": "I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These Are the Makeup Products I Swear By",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-fara-homidi-beauty-products",
-      "summary": "No-makeup makeup at its finest.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These A...",
-      "score": 1,
-      "published": "2026-07-30T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ff612ea48c2c",
       "title": "French Women Have the Chicest Summer Style—These 5 Microtrends Are the Ones They're Styling the Most This Season",
       "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-microtrends-2026",
@@ -1069,6 +1111,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-07-30T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "96d4cfe67383",
+      "title": "I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These Are the Makeup Products I Swear By",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-fara-homidi-beauty-products",
+      "summary": "No-makeup makeup at its finest.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Spent Years Finessing My \"Effortlessly Put Together\" Look—These A...",
+      "score": 1,
       "published": "2026-07-30T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1675,30 +1731,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8ace9d74034b",
-      "title": "The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather",
-      "link": "https://www.whowhatwear.com/fashion/shopping/dresses-summer-2026",
-      "summary": "Slips, nightgowns, baby-doll dresses, and more.",
+      "id": "1145787e3a89",
+      "title": "5 Outfit Tweaks That Make My Outfits Look More Expensive",
+      "link": "https://www.whowhatwear.com/fashion/shopping/style-tips-for-an-expensive-outfit",
+      "summary": "Elevate your look with these style tips.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather...",
+      "angle": "Fashion Intelligence: 5 Outfit Tweaks That Make My Outfits Look More Expensive...",
       "score": 2,
-      "published": "2026-07-29T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fe975115b9e7",
-      "title": "Every Chic Bride Is Wearing One of These Trending Bridal Accessories to Tie the Knot in 2026",
-      "link": "https://www.whowhatwear.com/living/wedding/bridal-accessory-trends-2026",
-      "summary": "To have and to hold.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Every Chic Bride Is Wearing One of These Trending Bridal Accessories to Tie the Knot in 2026 — A Complete Style Guide",
-      "score": 3,
       "published": "2026-07-29T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1717,15 +1759,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1145787e3a89",
-      "title": "5 Outfit Tweaks That Make My Outfits Look More Expensive",
-      "link": "https://www.whowhatwear.com/fashion/shopping/style-tips-for-an-expensive-outfit",
-      "summary": "Elevate your look with these style tips.",
+      "id": "fe975115b9e7",
+      "title": "Every Chic Bride Is Wearing One of These Trending Bridal Accessories to Tie the Knot in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/bridal-accessory-trends-2026",
+      "summary": "To have and to hold.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Every Chic Bride Is Wearing One of These Trending Bridal Accessories to Tie the Knot in 2026 — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-07-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8ace9d74034b",
+      "title": "The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather",
+      "link": "https://www.whowhatwear.com/fashion/shopping/dresses-summer-2026",
+      "summary": "Slips, nightgowns, baby-doll dresses, and more.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Outfit Tweaks That Make My Outfits Look More Expensive...",
+      "angle": "Fashion Intelligence: The Chic Summer Dresses Stylish Women Rely On in 90-Degree Weather...",
       "score": 2,
       "published": "2026-07-29T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1773,20 +1829,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c6d02110d356",
-      "title": "Don't Let Your Sandals Hear This—They're Being Replaced by This Elegant Closed-Toe Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-ballet-flats-trend-karlie-kloss-2026",
-      "summary": "Invest in a pair before fall begins.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-29T00:18:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f97cdadad7dd",
       "title": "Louis Vuitton High Summer 2026 Upgrades Riviera Style",
       "link": "https://www.fashiongonerogue.com/story/louis-vuitton-high-summer-2026-campaign/",
@@ -1812,20 +1854,6 @@
       "angle": "Fashion Intelligence: If Ariana Grande Is Hanging Out With Her Ex, Why Can’t I?...",
       "score": 0,
       "published": "2026-07-28T22:00:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12c55140572c",
-      "title": "Not Plain White Dresses—in 2026, It's About This Pretty Dress Trend With This Sandal-Color Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/scarf-dress-trend-metallic-sandals-jennifer-lopez",
-      "summary": "Take Jennifer Lopez's unspoken word for it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-28T21:03:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1882,20 +1910,6 @@
       "angle": "Fashion Intelligence: The Historic Parisian Rock Club That's Now an \"It\" Hotel...",
       "score": 0,
       "published": "2026-07-28T18:19:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c655a9c9f632",
-      "title": "Not Glazed, Not Milky Pink—Fashion-Forward Brides-to-Be Are Cosigning This Retro-Chic Manicure",
-      "link": "https://www.whowhatwear.com/beauty/nails/madison-beer-engagement-nails",
-      "summary": "Ariana Grande and Lana Del Rey are past fans too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Not Glazed, Not Milky Pink—Fashion-Forward Brides-to-Be Are Cosigning This Retro-Chic Manicure — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-07-28T18:06:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1994,20 +2008,6 @@
       "angle": "Fashion Intelligence: The Complete Guide To Panama Hats...",
       "score": 2,
       "published": "2026-07-28T15:06:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb2342a88955",
-      "title": "Instead of Track Shorts and Flip-Flops, the Most Stylish Londoners Are Wearing This Trouser With These Closed-Toe Shoes",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bloomer-trousers-ghillie-shoes-outfit-daisy-edgar-jones-2026",
-      "summary": "The coolest combo.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-28T14:19:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "weather surat",
+      "term": "jana nayagan screenings cancelled karnataka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shehzad poonawalla",
+      "term": "aditya chopra",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கணவன்",
+      "term": "दक्षिणेश्वर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "independence day",
+      "term": "building collapses",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बैठक",
+      "term": "प्रशांत किशोर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महाराष्ट्र",
+      "term": "जिलाधिकारी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಮಗಳು",
+      "term": "ವಿನಯ್ ಕುಲಕರ್ಣಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kaynes share price",
+      "term": "visa layoffs",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakistan vs sri lanka",
+      "term": "kospi moneycontrol",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "juniper green energy ipo gmp today",
+      "term": "लाल सागर",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
