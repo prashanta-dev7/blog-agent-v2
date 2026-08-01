@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T05:24:49.058236+00:00",
+  "generated_at": "2026-08-01T07:27:24.314296+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,133 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
       "score": 0,
-      "published": "2026-08-01T05:20:05+00:00",
+      "published": "2026-08-01T07:26:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7112ab9cf0a9",
+      "title": "Don't Tell Flip-Flops But, They're Starting to Feel \"Samey\"—I'm Wearing These 6 Summer Shoes Instead",
+      "link": "https://www.whowhatwear.com/fashion/shoes/non-flip-flop-summer-shoe-trends-2026",
+      "summary": "New day, new shoes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-01T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "37a29b2a6ec0",
+      "title": "I'm a Former Nordstrom Buyer—These Are the 8 Best Last-Chance Items to Buy From the Anniversary Sale Before It's Over",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-buyer-anniversary-sale-last-chance-2026",
+      "summary": "Yes to these fashion and beauty finds.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Former Nordstrom Buyer—These Are the 8 Best Last-Chance Items to...",
+      "score": 2,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d61f54bdc89a",
+      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
+      "summary": "The chicest dressers wear them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
+      "score": 2,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "694ec4f2481a",
+      "title": "Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara, and Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-zara-nordstrom-new-arrivals",
+      "summary": "Styles that will take you from summer to fall in style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
+      "score": 1,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b561c0ff5cf8",
+      "title": "PM inaugurates Greenfield airport, launches projects worth Rs 18,000 crore in Andhra",
+      "link": "https://www.indiatoday.in/india/andhra-pradesh/video/pm-modi-inaugurates-bhogapuram-airport-in-ap-launches-projects-worth-over-rs18000-crore-frvd-2961134-2026-08-01?utm_source=rss",
+      "summary": "PM inaugurates Greenfield airport, launches projects worth Rs 18,000 crore in Andhra",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-01T06:48:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "96961f4a21b7",
+      "title": "This Viral TikTok Trend From 2022 Is Back and Better Than Ever–Here's How Stylish People Are Wearing It Today",
+      "link": "https://www.whowhatwear.com/fashion/trends/balletcore-fashion-trend-2026",
+      "summary": "Balletcore, but not as you know it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-01T06:20:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d8381c472a47",
+      "title": "Move Over Broderie Blouses—Jeans and Sandals Look Much Chicer With This Trending Alternative",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-tie-front-blouse-trend-2026",
+      "summary": "Can you ever go wrong with jeans and a nice top?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-01T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19921a8f92db",
+      "title": "Injiri Unveils Herbarium: Jamdani Collection Rooted in Botanical Memory",
+      "link": "https://in.apparelresources.com/fashion-news/trends/injiri-unveils-herbarium-jamdani-collection-rooted-botanical-memory/",
+      "summary": "Jaipur-based Injiri by Chinar Farooqui has launched a new Herbarium Summer collection that translates botanical memories into thoughtfully crafted garments, handwoven in West Bengal with motifs drawn from pressed leaves, root systems and desert botanicals. Founded on the idea of &#8220;real India,&#8221; Injiri is root",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-08-01T05:56:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5d2cc633e83c",
+      "title": "My Goal Is to Look Expensive This August—7 Stylish Outfits I've Saved For Later",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-august-2026",
+      "summary": "Low maintenance, high impact.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Goal Is to Look Expensive This August—7 Stylish Outfits I've Saved ...",
+      "score": 1,
+      "published": "2026-08-01T05:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -272,20 +398,6 @@
       "angle": "Fashion Intelligence: Time Spent: Why Summer Calls for a Sport Watch...",
       "score": 0,
       "published": "2026-07-31T18:20:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e8fe96a456ba",
-      "title": "Twin groom, twin bride, twin priests: Kerala wedding turns childhood dream real",
-      "link": "https://www.indiatoday.in/india/kerala/story/kerala-twin-wedding-changanassery-twin-priests-altar-boys-ptag-2960819-2026-07-31?utm_source=rss",
-      "summary": "Twin groom, twin bride, twin priests: Kerala wedding turns childhood dream real",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Twin groom, twin bride, twin priests — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-07-31T18:04:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -709,6 +821,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "49cb5bbbe0b9",
+      "title": "Innovation and Sustainability Are the New Blueprint for Textiles",
+      "link": "https://in.apparelresources.com/business-news/sourcing/innovation-sustainability-new-blueprint-textiles/",
+      "summary": "Buyers today expect apparel suppliers to deliver smaller MOQs, faster development cycles, continuous innovation, value-added functionality, sustainability and complete traceability. Many of these expectations are now being addressed upstream, with textile suppliers playing a much more active role in shaping the final p",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Innovation and Sustainability Are the New Blueprint for Textiles...",
+      "score": 1,
+      "published": "2026-07-31T11:30:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "dc74fde9af41",
       "title": "We Asked AI to Name the 5 Best Menswear Brands of 2026. Claude and ChatGPT Agreed on Nothing",
       "link": "https://www.fashionbeans.com/article/claude-vs-chatgpt-best-menswear-brands-2026/",
@@ -737,6 +863,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5eb3db48abad",
+      "title": "Old Money, New Mood: Why Grandmillennial Dressing Is Having A Moment",
+      "link": "https://in.apparelresources.com/fashion-news/trends/old-money-new-mood-grandmillennial-dressing-moment/",
+      "summary": "Grandmillennial dressing has emerged as one of 2026&#8217;s defining fashion trends, bringing embroidered blouses, pearls, tweed, and heirloom florals into sharp, contemporary silhouettes rather than costume-like styling. The aesthetic reflects a shift towards understated luxury, where craftsmanship, quality, and timel",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Old Money, New Mood: Why Grandmillennial Dressing Is Having A Moment...",
+      "score": 5,
+      "published": "2026-07-31T10:54:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9ac8e529d74b",
       "title": "Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This Elevated Neutral",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-flip-flop-trend-jennifer-lopez-2026",
@@ -748,6 +888,34 @@
       "angle": "Fashion Intelligence: Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This...",
       "score": 2,
       "published": "2026-07-31T10:46:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "894c70cb7fa2",
+      "title": "Grasim Launches Scuba Knit Fabric Made With Livaeco Fibres",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/grasim-launches-scuba-knit-fabric-made-livaeco-fibres/",
+      "summary": "Grasim Plup – a raw material division of Grasim Industries (part of the Aditya Birla Group) – which used to manufacture sustainable man-made cellulosic fibres (MMCF) like viscose staple fibre, lyocell &#38; Fibre’s Textile Research and Development Center (TRADC) has introduced a next-generation Scuba Knit fabric made w",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-07-31T10:40:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b437e0737a8",
+      "title": "India-EU FTA Sets Framework to Address CBAM Challenges",
+      "link": "https://in.apparelresources.com/business-news/policy/india-eu-fta-sets-framework-address-cbam-challenges/",
+      "summary": "The India-European Union Free Trade Agreement (FTA) incorporates a dedicated framework to address issues arising from the European Union&#8217;s Carbon Border Adjustment Mechanism (CBAM), with measures designed to simplify compliance for Indian exporters, particularly small and medium enterprises (SMEs), according to t",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: India-EU FTA Sets Framework to Address CBAM Challenges...",
+      "score": 1,
+      "published": "2026-07-31T10:33:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -877,16 +1045,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ef53917520b7",
-      "title": "The Stylish Women I Saw in Paris Inspired Every Outfit I Wore on My Trip",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-inspired-outfit-ideas",
-      "summary": "Your daily dose of Parisian fashion inspiration.",
+      "id": "003f78fed8dd",
+      "title": "Jennifer Aniston Just Wore a Jeans and Shoe Pairing I’d Never Wear in Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-flip-flops-bootcut-jeans-the-row-bag-jennifer-aniston-2026",
+      "summary": "The one with the holiday wardrobe.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "score": 1,
       "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,16 +1073,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "003f78fed8dd",
-      "title": "Jennifer Aniston Just Wore a Jeans and Shoe Pairing I’d Never Wear in Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-flip-flops-bootcut-jeans-the-row-bag-jennifer-aniston-2026",
-      "summary": "The one with the holiday wardrobe.",
+      "id": "ef53917520b7",
+      "title": "The Stylish Women I Saw in Paris Inspired Every Outfit I Wore on My Trip",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-inspired-outfit-ideas",
+      "summary": "Your daily dose of Parisian fashion inspiration.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
+      "score": 2,
       "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1479,6 +1647,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "098cd2b33746",
+      "title": "BhashaBharat Patents Warp Manipulation Technique Ahead of National Handloom Day",
+      "link": "https://in.apparelresources.com/fashion-news/innovation/bhashabharat-patents-warp-manipulation-technique-ahead-national-handloom-day/",
+      "summary": "Delhi-based handloom label BhashaBharat has launched the Blush Loom Kurta Set, a 100% cotton piece woven using a patented technique called Warp Manipulation, timed ahead of National Handloom Day on August 7. The launch marks a rare instance of structural, rather than cosmetic, innovation in a sector where change typica",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 4,
+      "published": "2026-07-30T11:16:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "31ddac7a5e5c",
       "title": "Don't Tell Your Pink Pedicure—Hailey's Unexpected Shade Is the Trending Colour to Wear on Your Toes for Summer",
       "link": "https://www.whowhatwear.com/beauty/nails/hailey-bieber-blue-pedicure-trend",
@@ -1521,20 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7a4a362c1da6",
-      "title": "I Just Really Don't Think These New Fashionable Zara Items Will Be in Stock by the Second Week of August",
-      "link": "https://www.whowhatwear.com/fashion/shopping/popular-zara-fashion-items-summer-2026",
-      "summary": "I know a future sellout when I see one.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Really Don't Think These New Fashionable Zara Items Will Be in ...",
-      "score": 1,
-      "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ceb4e539475b",
       "title": "Not the Hamptons, Not Upstate—the Underrated Destination NYC Fashion People Are Heading to This Summer",
       "link": "https://www.whowhatwear.com/living/travel/greenport-weekend-travel-guide",
@@ -1546,132 +1714,6 @@
       "angle": "Fashion Intelligence: Not the Hamptons, Not Upstate—the Underrated Destination NYC Fashion P...",
       "score": 1,
       "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "967cf735b062",
-      "title": "Here You Go: The 9 Chicest Ways to Wear a White T-Shirt in 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/chic-plain-white-tshirt-outfit-ideas",
-      "summary": "If you're a casual dresser, this is for you.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Here You Go: The 9 Chicest Ways to Wear a White T-Shirt in 2026...",
-      "score": 2,
-      "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1f592a239c1c",
-      "title": "I Packed Just One Carry-On for 4 Days in Mexico—Here's Everything That Made the Cut",
-      "link": "https://www.whowhatwear.com/fashion/vacation/midsize-vacation-outfit-ideas",
-      "summary": "Four days in Punta Mita, a fashion person, and one carry-on.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Packed Just One Carry-On for 4 Days in Mexico—Here's Everything That...",
-      "score": 1,
-      "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6194ad96e428",
-      "title": "A Decade of Zendaya Style Moments That Prove She Never Misses",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
-      "summary": "From her big hats to her So Kates.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Decade of Zendaya Style Moments That Prove She Never Misses...",
-      "score": 1,
-      "published": "2026-07-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ff612ea48c2c",
-      "title": "French Women Have the Chicest Summer Style—5 Microtrends They're Currently Wearing on Repeat",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-summer-microtrends-2026",
-      "summary": "Small trends that make a big impact.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-07-30T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ab52cdba3337",
-      "title": "I Waited a Year for This Celebrity-Loved High-Street Dress to Return—Now It's Back and Selling Fast",
-      "link": "https://www.whowhatwear.com/fashion/dresses/reformation-naira-dress",
-      "summary": "It won't be in stock for long.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-30T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "96d4cfe67383",
-      "title": "I've Spent Years Finessing My \"Effortlessly Put-Together\" Look—These Are the Makeup Products I Swear By",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-fara-homidi-beauty-products",
-      "summary": "No-makeup makeup at its finest.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Spent Years Finessing My \"Effortlessly Put-Together\" Look—These A...",
-      "score": 1,
-      "published": "2026-07-30T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c35c93a96f6",
-      "title": "Chic People Are All Visiting This Spanish Island—6 Outfits They're Packing",
-      "link": "https://www.whowhatwear.com/fashion/summer/mallorca-summer-outfit-ideas-2026",
-      "summary": "How to dress the part.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Chic People Are All Visiting This Spanish Island—6 Outfits They're Pac...",
-      "score": 2,
-      "published": "2026-07-30T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "353575127634",
-      "title": "*Not* Slip Skirts—the 2010s Style That's Quietly Become Every It Girl's Summer Go-To",
-      "link": "https://www.whowhatwear.com/fashion/skirts/tiered-ruffle-skirt-trend",
-      "summary": "It's all in the ruffles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: *Not* Slip Skirts—the 2010s Style That's Quietly Become Every It Girl'...",
-      "score": 1,
-      "published": "2026-07-30T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c3017ad706e",
-      "title": "From LAX to London, It Girls Are Wearing This \"Ugly\" Shoe Color Trend Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/shoes/mustard-shoe-trend-summer-2026",
-      "summary": "Sign me up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-30T04:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,7 +2979,42 @@
   ],
   "trends": [
     {
-      "term": "narendra modi",
+      "term": "एकनाथ शिंदे",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "आशुतोष शर्मा",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "గోదావరి నది",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ഇന്ധനം",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "मतदान",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "भैंस",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "పత్తి",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "నందమూరి బాలకృష్ణ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
@@ -2948,41 +3025,6 @@
     },
     {
       "term": "independence day",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "2026",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ధర",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "taslima nasreen",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "மாணவர்",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ஓய்வூதியர்",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "नीरज चोपड़ा",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "नरेन्द्र मोदी",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
