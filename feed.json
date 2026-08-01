@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-08-01T09:58:13.003245+00:00",
+  "generated_at": "2026-08-01T12:03:34.448008+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 185,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8222788a57ee",
+      "title": "ICYMI: Guizio's First L.A. Store, Megan Thee Stallion's Most Romantic Scent & Fashionista's July Editors' Picks",
+      "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-1",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: ICYMI: Guizio's First L.A. Store, Megan Thee Stallion's Most Romantic ...",
+      "score": 1,
+      "published": "2026-08-01T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "cb20ba796ed6",
       "title": "Mary Katrantzou Resort 2027",
@@ -19,7 +33,147 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
       "score": 0,
-      "published": "2026-08-01T09:54:35+00:00",
+      "published": "2026-08-01T11:59:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6f179a3c8003",
+      "title": "ABFRL Posts 11% Revenue Growth in FY ’26, Expands Retail Network to 1,273 Stores",
+      "link": "https://in.apparelresources.com/business-news/retail/abfrl-posts-11-revenue-growth-in-fy-26-expands-retail-network-to-1273-stores/",
+      "summary": "Aditya Birla Fashion and Retail Limited (ABFRL) reported consolidated revenue from operations of Rs. 8,177 crore (US $855.51 million) for FY &#8216;2025-26, registering an 11% year-on-year increase from Rs. 7,355 crore (US $769.52 million) in the previous fiscal. The company posted EBITDA of Rs. 967 crore (US $101.17 m",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ABFRL Posts 11% Revenue Growth in FY ’26, Expands Retail Network to 1,...",
+      "score": 1,
+      "published": "2026-08-01T11:58:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a264381f5abe",
+      "title": "Raymond Lifestyle Q1 loss widens to US $2.36 million; garmenting revenue jumps 50%",
+      "link": "https://in.apparelresources.com/business-news/retail/raymond-lifestyle-q1-loss-widens-us-2-36-million-garmenting-revenue-jumps-50/",
+      "summary": "Raymond Lifestyle Ltd. reported a consolidated net loss of Rs. 22.60 crore (US $2.36 million) for the quarter ended 30th June, compared with a net loss of Rs. 19.82 crore (US $2.07 million) in the corresponding quarter of the previous fiscal. The company reported a wider consolidated net loss for the first quarter of F",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Raymond Lifestyle Q1 loss widens to US $2.36 million; garmenting reven...",
+      "score": 1,
+      "published": "2026-08-01T11:37:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ae482439a93f",
+      "title": "Bulrush-Grown Insulation Walks the Runway as Ponda’s BioPuff® Debuts in London",
+      "link": "https://in.apparelresources.com/fashion-news/innovation/bulrush-grown-insulation-walks-runway-pondas-biopuff-debuts-london/",
+      "summary": "Biomaterials startup Ponda has taken its plant-based insulation from wetland to runway. The company&#8217;s flagship material, BioPuff®, featured in fashion designer Genaro Rivas&#8217; menswear collection at the UK premiere of his show State of Impact, held at London&#8217;s Spitalfields Market on 29 July. BioPuff® is",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 7,
+      "published": "2026-08-01T11:20:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "980dc1121d9f",
+      "title": "How Rangkat Is Turning Rarity Into Revenue",
+      "link": "https://in.apparelresources.com/fashion-news/trends/rangkat-turning-rarity-revenue/",
+      "summary": "A quiet shift is underway in the Banarasi weaving belt. As mainstream brocade production leans increasingly on power-loom replication, a small circle of master weavers is doubling down on a technique so labour-intensive that most looms in Varanasi have simply stopped attempting it: the Rangkat sari. For an industry con",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: How Rangkat Is Turning Rarity Into Revenue...",
+      "score": 2,
+      "published": "2026-08-01T11:12:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "049e5342f903",
+      "title": "Why Brands Are Rethinking Trims",
+      "link": "https://in.apparelresources.com/business-news/sourcing/brands-rethinking-trims/",
+      "summary": "The confidence in India’s trims and accessories ecosystem is evident in the investments being made by global companies. Japanese fastening giant YKK Corporation recently announced a US $150 million investment in a new manufacturing facility in Chennai, its third in India. The demand is there. What is changing is the na",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Brands Are Rethinking Trims...",
+      "score": 1,
+      "published": "2026-08-01T10:40:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a2836c52ecac",
+      "title": "Spotted on Every It Girl This Summer: The Pretty Color Trend That Knocked Butter Yellow to 2nd Place",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pool-blue-color-trend-zoe-saldana-karlie-kloss-summer-2026",
+      "summary": "It doesn't take much to see why.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-01T10:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "78d20880c8fd",
+      "title": "Invest or Be Left Behind: Why Technology Investments Today Will Define Tomorrow’s Winners",
+      "link": "https://in.apparelresources.com/business-news/sourcing/invest-left-behind-technology-investments-today-will-define-tomorrows-winners/",
+      "summary": "Today, when people talk about investing in technology, many immediately think about Artificial Intelligence. That is understandable, but AI is only one part of a much bigger transformation. According to McKinsey&#8217;s State of Fashion report, generative AI alone could add between US $150 billion and US $275 billion i",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Invest or Be Left Behind: Why Technology Investments Today Will Define...",
+      "score": 1,
+      "published": "2026-08-01T10:12:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc7269115f8a",
+      "title": "Street Style Trends, the Scandi Way, from 2016 to Today",
+      "link": "https://www.vogue.com/article/copenhagen-fashion-week-street-style-trends",
+      "summary": "10 years of the hottest trends, spotted outside the shows of Copenhagen Fashion Week",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-08-01T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8657bdde5933",
+      "title": "Discover the Best Dresses for Every August Occasion",
+      "link": "https://www.vogue.com/article/dresses",
+      "summary": "Explore the best dresses of the month, from silk maxidresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-08-01T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b5d728e634b",
+      "title": "Cape Fear , Ending Explained: A Sinister Culture of Misinformation",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a73258071/cape-fear-ending-explained/",
+      "summary": "Apple TV’s Cape Fear revived one of the most villainous characters of all time, Max Cady, but the series indicted much more about our society",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Cape Fear , Ending Explained: A Sinister Culture of Misinformation...",
+      "score": 0,
+      "published": "2026-08-01T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -37,20 +191,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3c61cb3b03a",
-      "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
-      "summary": "Spotted on Dua Lipa, Iris Law, Olivia Dean, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-01T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "55c497a571e8",
       "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
       "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
@@ -61,6 +201,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-08-01T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3c61cb3b03a",
+      "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
+      "summary": "Spotted on Dua Lipa, Iris Law, Olivia Dean, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-08-01T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -107,20 +261,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "694ec4f2481a",
-      "title": "Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara, and Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-zara-nordstrom-new-arrivals",
-      "summary": "Styles that will take you from summer to fall in style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
-      "score": 1,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d61f54bdc89a",
       "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
@@ -131,6 +271,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
       "score": 2,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "694ec4f2481a",
+      "title": "Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara, and Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-zara-nordstrom-new-arrivals",
+      "summary": "Styles that will take you from summer to fall in style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
+      "score": 1,
       "published": "2026-08-01T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5eb3db48abad",
-      "title": "Old Money, New Mood: Why Grandmillennial Dressing Is Having A Moment",
-      "link": "https://in.apparelresources.com/fashion-news/trends/old-money-new-mood-grandmillennial-dressing-moment/",
-      "summary": "Grandmillennial dressing has emerged as one of 2026&#8217;s defining fashion trends, bringing embroidered blouses, pearls, tweed, and heirloom florals into sharp, contemporary silhouettes rather than costume-like styling. The aesthetic reflects a shift towards understated luxury, where craftsmanship, quality, and timel",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Old Money, New Mood: Why Grandmillennial Dressing Is Having A Moment...",
-      "score": 5,
-      "published": "2026-07-31T10:54:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9ac8e529d74b",
       "title": "Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This Elevated Neutral",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-flip-flop-trend-jennifer-lopez-2026",
@@ -930,34 +1070,6 @@
       "angle": "Fashion Intelligence: Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This...",
       "score": 2,
       "published": "2026-07-31T10:46:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "894c70cb7fa2",
-      "title": "Grasim Launches Scuba Knit Fabric Made With Livaeco Fibres",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/grasim-launches-scuba-knit-fabric-made-livaeco-fibres/",
-      "summary": "Grasim Plup – a raw material division of Grasim Industries (part of the Aditya Birla Group) – which used to manufacture sustainable man-made cellulosic fibres (MMCF) like viscose staple fibre, lyocell &#38; Fibre’s Textile Research and Development Center (TRADC) has introduced a next-generation Scuba Knit fabric made w",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-07-31T10:40:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4b437e0737a8",
-      "title": "India-EU FTA Sets Framework to Address CBAM Challenges",
-      "link": "https://in.apparelresources.com/business-news/policy/india-eu-fta-sets-framework-address-cbam-challenges/",
-      "summary": "The India-European Union Free Trade Agreement (FTA) incorporates a dedicated framework to address issues arising from the European Union&#8217;s Carbon Border Adjustment Mechanism (CBAM), with measures designed to simplify compliance for Indian exporters, particularly small and medium enterprises (SMEs), according to t",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: India-EU FTA Sets Framework to Address CBAM Challenges...",
-      "score": 1,
-      "published": "2026-07-31T10:33:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f7dc19e95c1b",
-      "title": "Zara Just Perfected the 5 Colour Trends That Make Outfits Look Instantly Expensive",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-colour-trends-2026",
-      "summary": "Sorry, black.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-31T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "17f5654a54aa",
       "title": "With Its \"Dense\" New Scent, Dior Just Cemented This Year's Biggest Perfume Trend",
       "link": "https://www.whowhatwear.com/beauty/fragrance/dior-sauvage-extrait",
@@ -1069,6 +1167,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-07-31T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f7dc19e95c1b",
+      "title": "Zara Just Perfected the 5 Colour Trends That Make Outfits Look Instantly Expensive",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-colour-trends-2026",
+      "summary": "Sorry, black.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-07-31T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1157,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6dd0403f96ad",
-      "title": "23 Thoughts I Had Listening to Ariana Grande’s New Album ‘Petal’",
-      "link": "https://www.vogue.com/article/23-thoughts-i-had-listening-to-ariana-grande-petal",
-      "summary": "Grande sings, “All of my favorite stories end in some kind of catastrophe.” Honestly, same.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Thoughts I Had Listening to Ariana Grande’s New Album ‘Petal’...",
-      "score": 0,
-      "published": "2026-07-31T04:01:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e217406240e1",
       "title": "Ferragamo’s Fall 2026 Campaign Focuses on Footwear",
       "link": "https://www.fashiongonerogue.com/story/ferragamo-fall-2026-campaign/",
@@ -1196,20 +1294,6 @@
       "angle": "Fashion Intelligence: A Date Night Outfit Guide for Different Moods...",
       "score": 2,
       "published": "2026-07-31T02:18:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f4e390305805",
-      "title": "I’m Trading My Hair Mask for Ouai’s Bond Repair Balm",
-      "link": "https://www.vogue.com/article/ouai-bond-repair-balm-review",
-      "summary": "To use the Ouai Bond Repair Balm, apply one pump from mid-lengths to ends, let sit for three minutes, then rinse. This simple process is all it takes to repair heat damage, breakage, and split ends.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I’m Trading My Hair Mask for Ouai’s Bond Repair Balm...",
-      "score": 0,
-      "published": "2026-07-31T01:46:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1675,34 +1759,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6b1d9f18f69e",
-      "title": "Not Trainers—The Coolest Women In Their 60s and 40s Are Wearing Straight-Leg Jeans With These Shoes Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/straight-leg-jeans-thong-sandals-cindy-crawford-claire-foy-2026",
-      "summary": "The chicest combination.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-30T11:34:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "098cd2b33746",
-      "title": "BhashaBharat Patents Warp Manipulation Technique Ahead of National Handloom Day",
-      "link": "https://in.apparelresources.com/fashion-news/innovation/bhashabharat-patents-warp-manipulation-technique-ahead-national-handloom-day/",
-      "summary": "Delhi-based handloom label BhashaBharat has launched the Blush Loom Kurta Set, a 100% cotton piece woven using a patented technique called Warp Manipulation, timed ahead of National Handloom Day on August 7. The launch marks a rare instance of structural, rather than cosmetic, innovation in a sector where change typica",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 4,
-      "published": "2026-07-30T11:16:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "62a2a75ae3e7",
       "title": "The Biggest Sneaker Trends Of 2026",
       "link": "https://www.fashionbeans.com/article/mens-sneaker-trends/",
@@ -1882,20 +1938,6 @@
       "angle": "Fashion Intelligence: Anne Hathaway Continues Her Maternity Streak in a Mesh Stella McCartne...",
       "score": 1,
       "published": "2026-07-29T16:58:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "06693fdc2922",
-      "title": "Zendaya Is the New Face of Prada Paradoxe",
-      "link": "https://www.harpersbazaar.com/beauty/health/a73294986/zendaya-favorite-perfume/",
-      "summary": "The actress joins the Prada Beauty family after being the face of Lancôme",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Zendaya Is the New Face of Prada Paradoxe...",
-      "score": 1,
-      "published": "2026-07-29T16:11:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2585,20 +2627,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "48c9d2cc5956",
-      "title": "Must Read: Dior to Stage Pre-Fall 2027 Show in Dublin, NAD Flags Vacation's Sunscreen Marketing Claim",
-      "link": "https://fashionista.com/2026/07/dior-pre-fall-2027-show-location-dublin",
-      "summary": "Plus, Mulberry reports a 23% sales increase.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Must Read: Dior to Stage Pre-Fall 2027 Show in Dublin, NAD Flags Vacat...",
-      "score": 1,
-      "published": "2026-07-22T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "024ce1881421",
       "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/10-trending-anarkali-suit-for-rakshan-bandhan/",
@@ -2979,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "ரவி மோகன்",
+      "term": "ജോണ് ബ്രിട്ടാസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chelsea",
+      "term": "dassault rafale",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "രാഹുല് ഗാന്ധി",
+      "term": "gyanesh kumar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इस्तीफा",
+      "term": "பயிற்சியாளர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नेपाल",
+      "term": "सेंट्रल डिपॉजिटरी सर्विसेज",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অন্নপূর্ণা যোজনা",
+      "term": "சம்பளம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mumbai",
+      "term": "ಡಿ ಕೆ ಶಿವಕುಮಾರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कर्मचारी भविष्य निर्वाह निधी",
+      "term": "man city",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आय पर लगने वाले टैक्स का रिटर्न भरना",
+      "term": "टैक्स रिफंड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "v. senthil balaji",
+      "term": "jadumani singh",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
