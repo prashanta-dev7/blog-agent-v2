@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:27:24.314296+00:00",
+  "generated_at": "2026-08-01T09:58:13.003245+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 185,
@@ -19,7 +19,63 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
       "score": 0,
-      "published": "2026-08-01T07:26:03+00:00",
+      "published": "2026-08-01T09:54:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "60b8ac94bbcd",
+      "title": "I've Settled the Debate—Sambas Are Still \"In\" If You Wear Them Like This",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-adidas-sambas-outfit-nicole-kidman-2026",
+      "summary": "Take note.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Settled the Debate—Sambas Are Still \"In\" If You Wear Them Like Th...",
+      "score": 1,
+      "published": "2026-08-01T08:07:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3c61cb3b03a",
+      "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
+      "summary": "Spotted on Dua Lipa, Iris Law, Olivia Dean, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-01T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "55c497a571e8",
+      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
+      "summary": "From The Row's new everyday bag to Zara's designer-passing scarf.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-01T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8e6777aa6415",
+      "title": "JLaw and Anne Confirmed It—Dior's New Cigale Bag Is Already Autumn's It Item",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/dior-cigale-bag-trend-2026",
+      "summary": "The trend is taking off as we speak.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: JLaw and Anne Confirmed It—Dior's New Cigale Bag Is Already Autumn's I...",
+      "score": 1,
+      "published": "2026-08-01T07:34:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,20 +107,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d61f54bdc89a",
-      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
-      "summary": "The chicest dressers wear them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
-      "score": 2,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "694ec4f2481a",
       "title": "Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara, and Nordstrom",
       "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-zara-nordstrom-new-arrivals",
@@ -75,6 +117,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
       "score": 1,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d61f54bdc89a",
+      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
+      "summary": "The chicest dressers wear them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
+      "score": 2,
       "published": "2026-08-01T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -146,20 +202,6 @@
       "angle": "Fashion Intelligence: My Goal Is to Look Expensive This August—7 Stylish Outfits I've Saved ...",
       "score": 1,
       "published": "2026-08-01T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c04224ce4e9",
-      "title": "Man was thought to be in Australia for 2 years. Then came a Drishyam-style twist",
-      "link": "https://www.indiatoday.in/india/story/jamnagar-murder-man-body-found-buried-woman-lover-arrested-gujarat-2961033-2026-08-01?utm_source=rss",
-      "summary": "Man was thought to be in Australia for 2 years. Then came a Drishyam-style twist",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Man was thought to be in Australia for 2 years. Then came a Drishyam-s...",
-      "score": 1,
-      "published": "2026-08-01T02:42:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,16 +1087,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "003f78fed8dd",
-      "title": "Jennifer Aniston Just Wore a Jeans and Shoe Pairing I’d Never Wear in Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-flip-flops-bootcut-jeans-the-row-bag-jennifer-aniston-2026",
-      "summary": "The one with the holiday wardrobe.",
+      "id": "ef53917520b7",
+      "title": "The Stylish Women I Saw in Paris Inspired Every Outfit I Wore on My Trip",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-inspired-outfit-ideas",
+      "summary": "Your daily dose of Parisian fashion inspiration.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
+      "score": 2,
       "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1073,16 +1115,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ef53917520b7",
-      "title": "The Stylish Women I Saw in Paris Inspired Every Outfit I Wore on My Trip",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-inspired-outfit-ideas",
-      "summary": "Your daily dose of Parisian fashion inspiration.",
+      "id": "003f78fed8dd",
+      "title": "Jennifer Aniston Just Wore a Jeans and Shoe Pairing I’d Never Wear in Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-flip-flops-bootcut-jeans-the-row-bag-jennifer-aniston-2026",
+      "summary": "The one with the holiday wardrobe.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "score": 1,
       "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1661,20 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "31ddac7a5e5c",
-      "title": "Don't Tell Your Pink Pedicure—Hailey's Unexpected Shade Is the Trending Colour to Wear on Your Toes for Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/hailey-bieber-blue-pedicure-trend",
-      "summary": "Bieber-approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-30T10:49:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "62a2a75ae3e7",
       "title": "The Biggest Sneaker Trends Of 2026",
       "link": "https://www.fashionbeans.com/article/mens-sneaker-trends/",
@@ -1686,34 +1714,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-07-30T07:59:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fd8e0e78d5c1",
-      "title": "No, Not Aquamarine—This \"Dated\" Colour Trend Makes Shorts and Skirts Look Cooler in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/neon-pink-fashion-trend-2026",
-      "summary": "I never thought I'd see the day.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-30T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ceb4e539475b",
-      "title": "Not the Hamptons, Not Upstate—the Underrated Destination NYC Fashion People Are Heading to This Summer",
-      "link": "https://www.whowhatwear.com/living/travel/greenport-weekend-travel-guide",
-      "summary": "Make the most of your two-night visit to Greenport.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not the Hamptons, Not Upstate—the Underrated Destination NYC Fashion P...",
-      "score": 1,
-      "published": "2026-07-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "एकनाथ शिंदे",
+      "term": "ரவி மோகன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आशुतोष शर्मा",
+      "term": "chelsea",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "గోదావరి నది",
+      "term": "രാഹുല് ഗാന്ധി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഇന്ധനം",
+      "term": "इस्तीफा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मतदान",
+      "term": "नेपाल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भैंस",
+      "term": "অন্নপূর্ণা যোজনা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పత్తి",
+      "term": "mumbai",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నందమూరి బాలకృష్ణ",
+      "term": "कर्मचारी भविष्य निर्वाह निधी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "laxmi yojana delhi",
+      "term": "आय पर लगने वाले टैक्स का रिटर्न भरना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "independence day",
+      "term": "v. senthil balaji",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
