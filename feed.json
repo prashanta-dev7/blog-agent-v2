@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:24:31.487426+00:00",
+  "generated_at": "2026-08-02T07:31:50.359262+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 185,
@@ -19,7 +19,105 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
       "score": 0,
-      "published": "2026-08-02T05:23:34+00:00",
+      "published": "2026-08-02T07:29:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6f76517cb20a",
+      "title": "Kristen Stewart’s Perfect Red Carpet Combo? A Suit Jacket and Short-Shorts",
+      "link": "https://www.vogue.com/article/kristen-stewart-suit-jacket-and-short-shorts",
+      "summary": "Hitting the red carpet for “Teenage Sex and Death at Camp Miasma” with Gillian Anderson and Hannah Einbinder, Kristen Stewart kept to her own rebel rules.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 0,
+      "published": "2026-08-02T07:24:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "81f834ec4959",
+      "title": "Not Messing Around—I'm a Shopping Director, and These Are the Chic Staples I Know Other Fashion People Will Like",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-pre-fall-fashion-2026",
+      "summary": "Cool pants! Gorgeous shoes! It's all here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Messing Around—I'm a Shopping Director, and These Are the Chic Sta...",
+      "score": 1,
+      "published": "2026-08-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ae6087a20b02",
+      "title": "20+ Dresses Later in the Zara Fitting Room, and I Deem These 3 the Chicest for Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-summer-dresses-2026",
+      "summary": "It's still hot out, friends.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20+ Dresses Later in the Zara Fitting Room, and I Deem These 3 the Chi...",
+      "score": 1,
+      "published": "2026-08-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8960a271c1a2",
+      "title": "Don't Let Your Sandals Hear This—They're Being Replaced by This Elegant Closed-Toe Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-ballet-flats-trend-karlie-kloss-2026-uk",
+      "summary": "Invest in a pair before autumn begins.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "483284a11902",
+      "title": "I'm Calling It, These Are the Only Contemporary Jewellery Brands You Need to Have on Your Radar",
+      "link": "https://www.whowhatwear.com/best-contemporary-jewellery-brands-2026",
+      "summary": "Shells! Mixed metals! Bold Beads!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Calling It, These Are the Only Contemporary Jewellery Brands You N...",
+      "score": 2,
+      "published": "2026-08-02T06:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6ae38c8e5ee8",
+      "title": "Haunting image shows mountaineer Nirmal Purja and team moments before disaster",
+      "link": "https://www.indiatoday.in/india/story/nirmal-purja-broad-peak-avalanche-last-image-shows-team-before-tragedy-2961619-2026-08-02?utm_source=rss",
+      "summary": "Haunting image shows mountaineer Nirmal Purja and team moments before disaster",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Haunting image shows mountaineer Nirmal Purja and team moments before ...",
+      "score": 1,
+      "published": "2026-08-02T06:01:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1d9bdb18b28f",
+      "title": "Minimalists and Maximalists Agree: This Is the Chicest Way to Wear Colour",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-pops-of-colour-2026",
+      "summary": "Maximum impact, minimal effort.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Minimalists and Maximalists Agree: This Is the Chicest Way to Wear Col...",
+      "score": 1,
+      "published": "2026-08-02T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -289,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "55c497a571e8",
-      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
-      "summary": "From The Row's new everyday bag to Zara's designer-passing scarf.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-01T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e3c61cb3b03a",
       "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
       "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
@@ -313,6 +397,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-08-01T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "55c497a571e8",
+      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
+      "summary": "From The Row's new everyday bag to Zara's designer-passing scarf.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-08-01T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -345,6 +443,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d61f54bdc89a",
+      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
+      "summary": "The chicest dressers wear them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
+      "score": 2,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "37a29b2a6ec0",
       "title": "I'm a Former Nordstrom Buyer—These Are the 8 Best Last-Chance Items to Buy From the Anniversary Sale Before It's Over",
       "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-buyer-anniversary-sale-last-chance-2026",
@@ -369,20 +481,6 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
       "score": 1,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d61f54bdc89a",
-      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
-      "summary": "The chicest dressers wear them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
-      "score": 2,
       "published": "2026-08-01T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1171,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "167943f85b74",
-      "title": "Katie Holmes Triples up on Summer It-Bags",
-      "link": "https://www.vogue.com/article/katie-holmes-triples-up-on-summer-it-bags",
-      "summary": "Why settle for one it-bag, when you could be schleppin’ around New York City with three of your best? Katie Holmes has the collection to make that happen.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Katie Holmes Triples up on Summer It-Bags...",
-      "score": 1,
-      "published": "2026-07-31T09:55:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "903f21fa1a7e",
       "title": "Even Elegant Dressers Are Suddenly Choosing This \"Wild\" Shoe Trend Over Black Pumps and Ballet Flats",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/royal-purple-satin-shoe-trend-sofia-richie",
@@ -1213,20 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "17f5654a54aa",
-      "title": "With Its \"Dense\" New Scent, Dior Just Cemented This Year's Biggest Perfume Trend",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/dior-sauvage-extrait",
-      "summary": "We spoke to the legend who created it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-31T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f7dc19e95c1b",
       "title": "Zara Just Perfected the 5 Colour Trends That Make Outfits Look Instantly Expensive",
       "link": "https://www.whowhatwear.com/fashion/shopping/zara-colour-trends-2026",
@@ -1237,6 +1307,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-07-31T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17f5654a54aa",
+      "title": "With Its \"Dense\" New Scent, Dior Just Cemented This Year's Biggest Perfume Trend",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/dior-sauvage-extrait",
+      "summary": "We spoke to the legend who created it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-07-31T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1325,20 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8519b3e2b8e0",
-      "title": "Kaia Gerber Just Wore This Cult-Fave $18 Thong Under a Sheer Fendi Couture Gown",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kaia-gerber-underwear-red-carpet",
-      "summary": "Seamless and chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-31T00:41:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c39bf74ac15c",
       "title": "Gap Beauty’s Reimagined Fragrance Line Is Finally Available to Shop",
       "link": "https://www.harpersbazaar.com/beauty/health/a73297552/gap-fragrances-review/",
@@ -1367,34 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6d2abf539032",
-      "title": "Spotted in Chicago: The Jacket Trend Preparing to Usurp Leather Blazers and Bombers",
-      "link": "https://www.whowhatwear.com/fashion/trends/coach-varsity-jacket-trend-2026",
-      "summary": "Come fall, everyone with cool taste will be wearing one.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-30T21:23:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8081c9611ec7",
-      "title": "The Flat-Shoe Trend Everyone Will Wear to the Airport With Jeans This Fall Is Here",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/boat-mules-shoe-trend-gisele-bundchen",
-      "summary": "Spotted on Gisele, and not sneakers, not ballet flats.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-30T21:12:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a6c54671431c",
       "title": "A Look Back at Cindy Crawford and Richard Gere’s Relationship",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73298268/cindy-crawford-richard-gere-relationship-explainer/",
@@ -1420,20 +1462,6 @@
       "angle": "Fashion Intelligence: Nicole Kidman Looks Like a Chandelier Come to Life in Fresh-Off-the-Ru...",
       "score": 2,
       "published": "2026-07-30T20:26:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e6b89d973bd",
-      "title": "Stick To The Budget: Shop These 31 Activewear Deals During Nordstrom’s Huge Anniversary Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-anniversary-sale-activewear-deals-2026",
-      "summary": "Cute workout clothes for less.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Stick To The Budget: Shop These 31 Activewear Deals During Nordstrom’s...",
-      "score": 1,
-      "published": "2026-07-30T20:06:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1546,20 +1574,6 @@
       "angle": "Fashion Intelligence: Kaia Gerber’s Latest Look Is a Minimalist’s Dream...",
       "score": 0,
       "published": "2026-07-30T16:56:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b99f0a152922",
-      "title": "Not Skinny, Not Bootcut—the 3 Jeans Good Dressers Are Wearing With Ballet Flats Now Until 2027",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-jeans-to-wear-with-ballet-flats-2026",
-      "summary": "A forever classic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-30T16:37:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1742,20 +1756,6 @@
       "angle": "Fashion Intelligence: The Most Romantic Scent a Person Can Wear, According to Megan Thee Sta...",
       "score": 1,
       "published": "2026-07-30T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "33a4ed0f8392",
-      "title": "Don’t Let Your Raffia Bags Hear This—This Designer Tote Is All Chic People Are Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/luxury/saint-laurent-beaded-bag-trend-summer-2026",
-      "summary": "Saint Laurent strikes again.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-30T12:21:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,6 +2979,41 @@
   ],
   "trends": [
     {
+      "term": "rbi fixed deposit rule changes",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "petition",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "फेसलिफ्ट",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "finance",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "संकष्टी चतुर्थी",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "santy sharma news",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "பிரகாஷ் ராஜ்",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "al nassr club friendlies",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2990,41 +3025,6 @@
     },
     {
       "term": "nasha mukt yuva for viksit bharat",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "pakistan vs sri lanka",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "पाकिस्तान महिला बनाम श्रीलंका महिला",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "pakw vs sl-w",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "सूर्य ग्रहण",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "दिल्ली",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "flood situation near mahanadi river",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "3m",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
