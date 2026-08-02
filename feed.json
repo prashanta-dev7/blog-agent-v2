@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-08-01T12:03:34.448008+00:00",
+  "generated_at": "2026-08-02T05:24:31.487426+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 187,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "cb20ba796ed6",
+      "title": "Mary Katrantzou Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/mary-katrantzou",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
+      "score": 0,
+      "published": "2026-08-02T05:23:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87f0fa11d686",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-1",
+      "summary": "From Zara Larsson’s leopard lids to Dua Lipa’s dotty silver nails—this week, the best beauty looks popped with bold patterns and colors.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-08-01T21:32:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "842416d6a204",
+      "title": "Dakota Johnson’s Cult-Classic Tee Adds a Bit of Irony to Her Casual LA Look",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73324209/dakota-johnson-vintage-dare-graphic-tee-valentino-suede-tapestry-bag-photos/",
+      "summary": "She turned things back to the ‘90s",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dakota Johnson’s Cult-Classic Tee Adds a Bit of Irony to Her Casual LA...",
+      "score": 0,
+      "published": "2026-08-01T20:37:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "46249120b910",
+      "title": "Katie Holmes Adds an Absolutely Massive Louis Vuitton Bag to Her Breezy Summer Look",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73323681/katie-holmes-massive-louis-vuitton-packall-bag-summer-look-photos/",
+      "summary": "And we mean massive",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Katie Holmes Adds an Absolutely Massive Louis Vuitton Bag to Her Breez...",
+      "score": 0,
+      "published": "2026-08-01T17:39:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8021f53b1aba",
+      "title": "Zendaya Embraces Summer’s Biggest Trends for a Rare Day Off With Tom Holland",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73323472/zendaya-day-off-style-bandana-maison-margiela-tabis-photos/",
+      "summary": "Bandana and all",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-01T15:32:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "47fb4a76f52b",
+      "title": "Olivia Rodrigo Surprises Lollapalooza in a Vintage Lacy Balenciaga Minidress",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73323359/olivia-rodrigo-balenciaga-minidress-surprise-performace-lollapalooza-festival-2026/",
+      "summary": "She joined The Smashing Pumpkins on stage for a duet of “Thirty-Three”",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Olivia Rodrigo Surprises Lollapalooza in a Vintage Lacy Balenciaga Min...",
+      "score": 1,
+      "published": "2026-08-01T14:05:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "24aef39127e9",
+      "title": "Inside Emma Roberts and Cody John’s Timeless Mountainside Wedding in Sun Valley, Idaho",
+      "link": "https://www.vogue.com/slideshow/emma-roberts-and-cody-john-wedding",
+      "summary": "The actors wore Monique Lhuillier and Ferragamo to marry in the bucolic setting of the groom’s family estate in Sun Valley, Idaho.See all the exclusive photos from Emma Roberts’s wedding here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Bridal Edit: Inside Emma Roberts and Cody John’s Timeless Mountainside Wedding in Sun Valley, Idaho — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-08-01T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "79a2609b40af",
+      "title": "Dakota Johnson Wears an Old Favorite Slogan Shirt for a New Era",
+      "link": "https://www.vogue.com/article/dakota-johnson-wears-an-old-favorite-slogan-shirt-for-a-new-era",
+      "summary": "Actor, director, producer—now, featured artist. After boyfriend Role Model debuted a track featuring her voice, Dakota Johnson is wearing her new gig well.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Dakota Johnson Wears an Old Favorite Slogan Shirt for a New Era...",
+      "score": 2,
+      "published": "2026-08-01T13:48:04+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "8222788a57ee",
       "title": "ICYMI: Guizio's First L.A. Store, Megan Thee Stallion's Most Romantic Scent & Fashionista's July Editors' Picks",
@@ -20,20 +132,6 @@
       "angle": "Fashion Intelligence: ICYMI: Guizio's First L.A. Store, Megan Thee Stallion's Most Romantic ...",
       "score": 1,
       "published": "2026-08-01T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb20ba796ed6",
-      "title": "Mary Katrantzou Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/mary-katrantzou",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
-      "score": 0,
-      "published": "2026-08-01T11:59:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,15 +149,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a264381f5abe",
-      "title": "Raymond Lifestyle Q1 loss widens to US $2.36 million; garmenting revenue jumps 50%",
-      "link": "https://in.apparelresources.com/business-news/retail/raymond-lifestyle-q1-loss-widens-us-2-36-million-garmenting-revenue-jumps-50/",
+      "id": "94a8ff17a7b1",
+      "title": "Raymond Lifestyle Q1 Loss Widens to Us $2.36 Million; Garmenting Revenue Jumps 50%",
+      "link": "https://in.apparelresources.com/business-news/retail/raymond-lifestyle-q1-loss-widens-to-us-2-36-million-garmenting-revenue-jumps-50/",
       "summary": "Raymond Lifestyle Ltd. reported a consolidated net loss of Rs. 22.60 crore (US $2.36 million) for the quarter ended 30th June, compared with a net loss of Rs. 19.82 crore (US $2.07 million) in the corresponding quarter of the previous fiscal. The company reported a wider consolidated net loss for the first quarter of F",
       "source": "Apparel Resources India",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Raymond Lifestyle Q1 loss widens to US $2.36 million; garmenting reven...",
+      "angle": "Fashion Intelligence: Raymond Lifestyle Q1 Loss Widens to Us $2.36 Million; Garmenting Reven...",
       "score": 1,
       "published": "2026-08-01T11:37:04+00:00",
       "discovered_via": "feed"
@@ -135,20 +233,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bc7269115f8a",
-      "title": "Street Style Trends, the Scandi Way, from 2016 to Today",
-      "link": "https://www.vogue.com/article/copenhagen-fashion-week-street-style-trends",
-      "summary": "10 years of the hottest trends, spotted outside the shows of Copenhagen Fashion Week",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-08-01T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8657bdde5933",
       "title": "Discover the Best Dresses for Every August Occasion",
       "link": "https://www.vogue.com/article/dresses",
@@ -159,6 +243,20 @@
       "aza_category": "Occasion Dressing",
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 3,
+      "published": "2026-08-01T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc7269115f8a",
+      "title": "Street Style Trends, the Scandi Way, from 2016 to Today",
+      "link": "https://www.vogue.com/article/copenhagen-fashion-week-street-style-trends",
+      "summary": "10 years of the hottest trends, spotted outside the shows of Copenhagen Fashion Week",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
       "published": "2026-08-01T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -261,20 +359,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d61f54bdc89a",
-      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
-      "summary": "The chicest dressers wear them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
-      "score": 2,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "694ec4f2481a",
       "title": "Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara, and Nordstrom",
       "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-zara-nordstrom-new-arrivals",
@@ -289,17 +373,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b561c0ff5cf8",
-      "title": "PM inaugurates Greenfield airport, launches projects worth Rs 18,000 crore in Andhra",
-      "link": "https://www.indiatoday.in/india/andhra-pradesh/video/pm-modi-inaugurates-bhogapuram-airport-in-ap-launches-projects-worth-over-rs18000-crore-frvd-2961134-2026-08-01?utm_source=rss",
-      "summary": "PM inaugurates Greenfield airport, launches projects worth Rs 18,000 crore in Andhra",
-      "source": "India Today Fashion",
+      "id": "d61f54bdc89a",
+      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
+      "summary": "The chicest dressers wear them.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-01T06:48:12+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
+      "score": 2,
+      "published": "2026-08-01T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1017,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "49cb5bbbe0b9",
-      "title": "Innovation and Sustainability Are the New Blueprint for Textiles",
-      "link": "https://in.apparelresources.com/business-news/sourcing/innovation-sustainability-new-blueprint-textiles/",
-      "summary": "Buyers today expect apparel suppliers to deliver smaller MOQs, faster development cycles, continuous innovation, value-added functionality, sustainability and complete traceability. Many of these expectations are now being addressed upstream, with textile suppliers playing a much more active role in shaping the final p",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Innovation and Sustainability Are the New Blueprint for Textiles...",
-      "score": 1,
-      "published": "2026-07-31T11:30:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dc74fde9af41",
       "title": "We Asked AI to Name the 5 Best Menswear Brands of 2026. Claude and ChatGPT Agreed on Nothing",
       "link": "https://www.fashionbeans.com/article/claude-vs-chatgpt-best-menswear-brands-2026/",
@@ -1112,20 +1182,6 @@
       "angle": "Fashion Intelligence: Katie Holmes Triples up on Summer It-Bags...",
       "score": 1,
       "published": "2026-07-31T09:55:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-31T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1238,34 +1294,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-07-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bc0d70349099",
-      "title": "How Sustainability Standards Changed the Trajectory of Copenhagen Fashion Week",
-      "link": "https://www.vogue.com/article/how-sustainability-standards-changed-the-trajectory-of-copenhagen-fashion-week",
-      "summary": "When CPHFW introduced its minimum sustainability standards in 2020, it hoped the industry would follow. Progress has been slower than expected, but CEO Cecilie Thorsmark remains optimistic.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Sustainability Standards Changed the Trajectory of Copenhagen Fash...",
-      "score": 1,
-      "published": "2026-07-31T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "809c3c9d4163",
-      "title": "The Scoop With Alta’s Jenny Wang: On Partnering with Rent the Runway",
-      "link": "https://www.vogue.com/article/the-scoop-with-altas-jenny-wang-on-partnering-with-rent-the-runway",
-      "summary": "This week’s guest is Jenny Wang, founder of Alta, which is essentially one of the few apps that seem to be succeeding in bringing that mythical Clueless closet to life.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Scoop With Alta’s Jenny Wang: On Partnering with Rent the Runway...",
-      "score": 1,
-      "published": "2026-07-31T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1882,62 +1910,6 @@
       "angle": "Fashion Intelligence: Queen Letizia Is a Vision in Baby Blue With This Sleeveless Summer Set...",
       "score": 0,
       "published": "2026-07-29T18:30:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "80b3bacbf90f",
-      "title": "Selena Gomez’s Mabel Still Has an Affinity for Fabulous Coats on Only Murders in the Building",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73297410/selena-gomez-wine-colored-coat-filming-only-murders-in-the-building-season-6-london-photos/",
-      "summary": "Filming on the sixth season of the Hulu dramedy began this past May",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Selena Gomez’s Mabel Still Has an Affinity for Fabulous Coats on Only ...",
-      "score": 1,
-      "published": "2026-07-29T18:16:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "035e33592bb3",
-      "title": "We’re All Dressing Like Athletes Now",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a73275833/how-to-style-athletic-shorts/",
-      "summary": "Sporty shorts are taking over our closets this season",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: We’re All Dressing Like Athletes Now...",
-      "score": 2,
-      "published": "2026-07-29T17:27:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "32d8f808aff3",
-      "title": "Sydney Sweeney Goes Full Farm Girl With Her Slouchy Overalls and Chunky Boots",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73295254/sydney-sweeney-scooter-braun-date-farm-girl-slouchy-overalls-chunky-boots-photos/",
-      "summary": "She joined Scooter Braun for a low-key breakfast date",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sydney Sweeney Goes Full Farm Girl With Her Slouchy Overalls and Chunk...",
-      "score": 0,
-      "published": "2026-07-29T17:10:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5a74337d9cea",
-      "title": "Anne Hathaway Continues Her Maternity Streak in a Mesh Stella McCartney Top",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73296814/anne-hathaway-maternity-style-white-mesh-top-baby-bump-stella-mccartney/",
-      "summary": "She fully embraced baby bump style",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Anne Hathaway Continues Her Maternity Streak in a Mesh Stella McCartne...",
-      "score": 1,
-      "published": "2026-07-29T16:58:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2627,6 +2599,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ec741335f4db",
+      "title": "Janhvi Kapoor & Ishaan Khatter Reunite as The KALKI Bride & Groom: A New Chapter in Wedding Fashion",
+      "link": "https://blog.kalkifashion.com/janhvi-kapoor-ishaan-khatter-reunite-as-kalki-bride-groom-a-new-chapter/",
+      "summary": "It&#8217;s been a while since we last saw Dhadak stars Janhvi Kapoor and Ishaan Khatter share the screen together.&#160; Didn’t we? Their effortless chemistry and emotionally compelling performances undoubtedly made them one of Bollywood&#8217;s most loved on-screen pairs. To an extent, that fans continued to ship the ",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Janhvi Kapoor & Ishaan Khatter Reunite as The KALKI Bride & Groom — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-01T13:38:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7bca2420f108",
+      "title": "Love In Bloom: The Beginning of KALKI Bride & Groom Couture ’26",
+      "link": "https://blog.kalkifashion.com/love-in-bloom-kalki-bride-groom-couture-26/",
+      "summary": "Every wedding has its own beginning. It&#8217;s the excitement of the joyful days knocking the doors, the butterflies before starting a new tomorrow, the happy chaos uniting families and the moments you&#8217;ll cherish forever after the big-fat celebration is over. To perfectly align with this feeling, KALKI Bride &#3",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Love In Bloom — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-01T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "024ce1881421",
       "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/10-trending-anarkali-suit-for-rakshan-bandhan/",
@@ -2809,34 +2809,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6a60c850c17f",
-      "title": "How to Choose Bridal Wear That Reflects Your Personal Style",
-      "link": "https://blog.kalkifashion.com/choose-bridal-wear-that-feels-uniquely-you/",
-      "summary": "Becoming a bride is a woman’s biggest moment of life, and selecting bridal wear for this day has to be one of the most significant decisions. Every bride-to-be holds a unique personality, a distinctive taste, and a long-cherished dream for her wedding. So, why not let her choose what resembles her the best?&#160; Let B",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Choose Bridal Wear That Reflects Your Personal Style — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-06-26T05:27:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "954757158d50",
-      "title": "Celebrity Inspired Wedding Looks to Buy on Sale",
-      "link": "https://blog.kalkifashion.com/shop-celebrity-inspired-wedding-looks-in-the-biggest-sale/",
-      "summary": "Let&#8217;s be honest and admit that most of us look up to celebrities for fashion inspiration and try to imitate their dressing style. Don&#8217;t we all spend hours scrolling through social media pages to get a glimpse of their weddings and other special occasions? Brides like to step into the shoes of these glamorou",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Celebrity Inspired Wedding Looks to Buy on Sale — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-06-25T06:49:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "daac22f17dda",
       "title": "White Anarkali Dress Styling Guide: 9 Looks for Every Skin Tone and Occasion",
       "link": "https://www.indianclothstore.com/blog/white-anarkali-dress-styling-guide-skin-tone-occasion",
@@ -2865,6 +2837,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6a5c6609092b",
+      "title": "Party Heels That Bring the Drama, Not the Discomfort",
+      "link": "https://www.azafashions.com/blog/party-heels-that-bring-the-drama/?utm_source=rss&utm_medium=rss&utm_campaign=party-heels-that-bring-the-drama",
+      "summary": "There's a specific kind of confidence that arrives the moment you slip on the right pair of heels. The outfit that was \"almost there\" suddenly becomes exactly right. Party heels&#8230; The post Party Heels That Bring the Drama, Not the Discomfort appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Party Heels That Bring the Drama, Not the Discomfort...",
+      "score": 1,
+      "published": "2026-08-01T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8f14d8e67f1c",
       "title": "The Bandhani Revival: Why This Heritage Craft Is Everywhere Right Now",
       "link": "https://www.azafashions.com/blog/bandhani-revival-heritage-craft-trend/?utm_source=rss&utm_medium=rss&utm_campaign=bandhani-revival-heritage-craft-trend",
@@ -2876,6 +2862,20 @@
       "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
       "score": 1,
       "published": "2026-07-31T03:23:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c4280aeb6e4f",
+      "title": "Mirabai Chanu’s CWG 2026 Gold Is Inspiring, But Her Traditional Indian Fashion Is Just as Powerful",
+      "link": "https://www.azafashions.com/blog/mirabai-chanu-ethnic-looks/?utm_source=rss&utm_medium=rss&utm_campaign=mirabai-chanu-ethnic-looks",
+      "summary": "There's a particular kind of quiet that falls over a weightlifting arena in the seconds before a bar leaves the platform. On Sunday, July 26, at Glasgow's SEC Armadillo, that&#8230; The post Mirabai Chanu&#8217;s CWG 2026 Gold Is Inspiring, But Her Traditional Indian Fashion Is Just as Powerful appeared first on Aza Ed",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Mirabai Chanu’s CWG 2026 Gold Is Inspiring, But Her Traditional Indian...",
+      "score": 2,
+      "published": "2026-07-31T03:17:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2975,84 +2975,56 @@
       "score": 2,
       "published": "2026-07-28T13:35:17+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "87008edddc90",
-      "title": "Aza Santacruz Hosts an Exclusive Meet the Designer Event with Sajeda A Lehery",
-      "link": "https://www.azafashions.com/blog/aza-santacruz-designer-event-with-sajeda-a-lehery/?utm_source=rss&utm_medium=rss&utm_campaign=aza-santacruz-designer-event-with-sajeda-a-lehery",
-      "summary": "On 17th July 2026, Aza Santacruz welcomed guests for an exclusive Meet the Designer event with celebrated designer Sajeda A Lehery. The intimate gathering brought customers closer to the designer&#8230; The post Aza Santacruz Hosts an Exclusive Meet the Designer Event with Sajeda A Lehery appeared first on Aza Editoria",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Aza Santacruz Hosts an Exclusive Meet the Designer Event with Sajeda A...",
-      "score": 1,
-      "published": "2026-07-28T12:02:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bede79d90d7c",
-      "title": "India Couture Week 2026 Proved Maximalism Is Officially Back",
-      "link": "https://www.azafashions.com/blog/india-couture-week-2026/?utm_source=rss&utm_medium=rss&utm_campaign=india-couture-week-2026",
-      "summary": "The murmurs had been building for a season or two. Quiet luxury, for all its elegance, had started to feel like an excuse—a retreat from the kind of bold, labor-intensive&#8230; The post India Couture Week 2026 Proved Maximalism Is Officially Back appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: India Couture Week 2026 Proved Maximalism Is Officially Back...",
-      "score": 3,
-      "published": "2026-07-27T15:39:06+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ജോണ് ബ്രിട്ടാസ്",
+      "term": "al nassr club friendlies",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dassault rafale",
+      "term": "mht cet 2026 seat allotment",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gyanesh kumar",
+      "term": "nasha mukt yuva for viksit bharat",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பயிற்சியாளர்",
+      "term": "pakistan vs sri lanka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सेंट्रल डिपॉजिटरी सर्विसेज",
+      "term": "पाकिस्तान महिला बनाम श्रीलंका महिला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சம்பளம்",
+      "term": "pakw vs sl-w",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಡಿ ಕೆ ಶಿವಕುಮಾರ್",
+      "term": "सूर्य ग्रहण",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "man city",
+      "term": "दिल्ली",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टैक्स रिफंड",
+      "term": "flood situation near mahanadi river",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jadumani singh",
+      "term": "3m",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
