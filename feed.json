@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T07:31:50.359262+00:00",
+  "generated_at": "2026-08-02T09:56:22.019530+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 185,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,63 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Mary Katrantzou Resort 2027...",
       "score": 0,
-      "published": "2026-08-02T07:29:26+00:00",
+      "published": "2026-08-02T09:51:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "299ea79aa8e4",
+      "title": "I’m Not Saying Don’t Wear Jeans, But IMO, This Trouser Trend Makes Ballet Flats Look Even Chicer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/lace-trim-trousers-ballet-flats-outfit-iris-law-2026",
+      "summary": "I'm convinced.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-02T09:30:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "393cdfa0ab27",
+      "title": "The Chicest Over 50s Will Be Coming Back to This French Outfit Formula All Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/french-jeans-white-ballet-flats-outfit-trend-julia-roberts-2026",
+      "summary": "Already confirmed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Chicest Over 50s Will Be Coming Back to This French Outfit Formula...",
+      "score": 1,
+      "published": "2026-08-02T09:24:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "49f1e7a21ee1",
+      "title": "Drugs give you brief high, but lifelong low: PM launches 100-week anti-drug drive",
+      "link": "https://www.indiatoday.in/india/story/pm-modi-launches-100-week-anti-drug-drive-for-youth-2961672-2026-08-02?utm_source=rss",
+      "summary": "Drugs give you brief high, but lifelong low: PM launches 100-week anti-drug drive",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-02T08:44:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5f688201a9b9",
+      "title": "Not Sandals—If You Want Your Summer Outfits to Look Rich, Wear This Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/mesh-shoe-outfit-ideas-summer-2026",
+      "summary": "Nearly invisible but so impactful.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-02T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1349,34 +1405,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-07-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "65efe3c9b265",
-      "title": "9 Celebrity Engagement Rings We'll Still Be Talking About in 20 Years",
-      "link": "https://www.whowhatwear.com/fashion/celebrity/best-celebrity-engagement-rings",
-      "summary": "Jaw-dropping, to say the least.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-07-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "003f78fed8dd",
-      "title": "Jennifer Aniston Just Wore a Jeans and Shoe Pairing I’d Never Wear in Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-flip-flops-bootcut-jeans-the-row-bag-jennifer-aniston-2026",
-      "summary": "The one with the holiday wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
       "published": "2026-07-31T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2979,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "rbi fixed deposit rule changes",
+      "term": "kangana ranaut news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "petition",
+      "term": "ind vs pak",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फेसलिफ्ट",
+      "term": "ஆர். எஸ். பாரதி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "finance",
+      "term": "மும்பை இந்தியன்ஸ்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संकष्टी चतुर्थी",
+      "term": "ಯಶ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "santy sharma news",
+      "term": "పొగాకు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பிரகாஷ் ராஜ்",
+      "term": "mht cet cap round seat allotment",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "al nassr club friendlies",
+      "term": "అనిల్ అంబానీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mht cet 2026 seat allotment",
+      "term": "dominos",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nasha mukt yuva for viksit bharat",
+      "term": "કેનેડા",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
