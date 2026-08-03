@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-08-03T05:39:31.057077+00:00",
+  "generated_at": "2026-08-03T08:28:33.213881+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 187,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d2a778f3442d",
+      "title": "The Specific Shorts Length Fashion Girls Are Wearing This Minute",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/alexa-chung-summer-shorts-trend",
+      "summary": "Alexa Chung knows.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-03T07:57:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dca81b7859c0",
+      "title": "This Trendy Top Made Nicole Kidman's Basic Trousers Look So Elegant in NYC",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/nicole-kidman-wearing-trousers-on-the-red-carpet",
+      "summary": "It's giving \"summer in the city.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-03T07:51:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2b982e2076ab",
+      "title": "We Need to Stop Calling These Shoes a Trend—They're a Modern Classic Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/emily-ratajkowski-flat-shoe-trend",
+      "summary": "Emily Ratajkowski is a fan.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-03T06:03:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26fb1b407cca",
+      "title": "I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper East Side in Summer",
+      "link": "https://www.whowhatwear.com/fashion/upper-east-side-style-2026",
+      "summary": "The epitome of luxe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper...",
+      "score": 1,
+      "published": "2026-08-03T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2f827c7a421",
+      "title": "I Hate Wearing Foundation—This Is the Brightening Concealer Alternative I Refuse to Be Without",
+      "link": "https://www.whowhatwear.com/beauty/makeup/chanel-les-beiges-serum-concealer",
+      "summary": "My summer staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-03T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "849dcd5a15ed",
       "title": "Mother’s Home: Inside the LA Brand’s First Standalone Store",
@@ -1227,34 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "385d84cdacd3",
-      "title": "3 Easy, But Cool Outfits an NYC Fashion Editor Is Packing for Outside Lands in San Francisco",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/outside-lands-music-festival-2026",
-      "summary": "Some outfit inspiration for you.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 3 Easy, But Cool Outfits an NYC Fashion Editor Is Packing for Outside ...",
-      "score": 2,
-      "published": "2026-07-31T16:13:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f6e084b65bbc",
-      "title": "I Just Saved You So Much Time—16 of The Best Beauty Deals to Shop During Dermstore's Sneaky Summer Sale",
-      "link": "https://www.whowhatwear.com/dermstore-summer-sale-2026",
-      "summary": "From LED masks to high-potency vitamin C serums and beyond.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Saved You So Much Time—16 of The Best Beauty Deals to Shop Duri...",
-      "score": 1,
-      "published": "2026-07-31T15:59:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bc9de80febef",
       "title": "NDS the Label: The Contemporary Bridal Brand Prioritizing Personal Style",
       "link": "https://fashionista.com/2026/07/nds-the-label-bridal-wear",
@@ -1339,20 +1381,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4156bac92178",
-      "title": "Take It From a Beauty Director—If I Could Only Repurchase 8 Products This Summer, It Would Be These",
-      "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-july-2026",
-      "summary": "The best of the best.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Take It From a Beauty Director—If I Could Only Repurchase 8 Products T...",
-      "score": 1,
-      "published": "2026-07-31T13:01:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e8fd7fb2ad73",
       "title": "The 17 Best Beauty Products Fashionista Editors Tried in July",
       "link": "https://fashionista.com/2026/07/fashionista-editors-favorite-beauty-products-july-2026",
@@ -1406,76 +1434,6 @@
       "angle": "Fashion Intelligence: We Asked AI to Name the 5 Best Menswear Brands of 2026. Claude and Cha...",
       "score": 4,
       "published": "2026-07-31T11:01:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9ac8e529d74b",
-      "title": "Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This Elevated Neutral",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-flip-flop-trend-jennifer-lopez-2026",
-      "summary": "An outfit-altering swap.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Black, Not Red—Flip-Flops Look Chicest With Summer Dresses In This...",
-      "score": 2,
-      "published": "2026-07-31T10:46:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "903f21fa1a7e",
-      "title": "Even Elegant Dressers Are Suddenly Choosing This \"Wild\" Shoe Trend Over Black Pumps and Ballet Flats",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/royal-purple-satin-shoe-trend-sofia-richie",
-      "summary": "Sofia Richie Grainge is one of them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-31T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "792d3c6344d0",
-      "title": "If You Want to Look Rich And Effortless, Wear Your LBD Exactly Like This",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/skinny-scarf-black-dress-outfit-kaia-gerber-2026",
-      "summary": "So simple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want to Look Rich And Effortless, Wear Your LBD Exactly Like Th...",
-      "score": 1,
-      "published": "2026-07-31T09:18:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "17f5654a54aa",
-      "title": "With Its \"Dense\" New Scent, Dior Just Cemented This Year's Biggest Perfume Trend",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/dior-sauvage-extrait",
-      "summary": "We spoke to the legend who created it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-31T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f7dc19e95c1b",
-      "title": "Zara Just Perfected the 5 Colour Trends That Make Outfits Look Instantly Expensive",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-colour-trends-2026",
-      "summary": "Sorry, black.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-31T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "spiderman movie box office",
+      "term": "பணம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "എഥനോള്",
+      "term": "आम आदमी पार्टी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sridhar vembu",
+      "term": "राष्ट्रमण्डल खेलों में भारत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राजनीति",
+      "term": "অন্নপূর্ণা যোজনা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "august 2026",
+      "term": "ऑस्ट्रेलिया राष्ट्रीय अंडर 19 क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "उत्तर प्रदेश पुलिस",
+      "term": "कांवड़ यात्रा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "netweb technologies share price",
+      "term": "ককরোচ জনতা পার্টি",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hyundai india share price",
+      "term": "राशियाँ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "asian paints share price",
+      "term": "upessc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jharkhand cm",
+      "term": "भूख हड़ताल",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
