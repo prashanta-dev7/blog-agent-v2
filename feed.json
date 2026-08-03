@@ -1,13 +1,195 @@
 {
-  "generated_at": "2026-08-03T08:28:33.213881+00:00",
+  "generated_at": "2026-08-03T13:41:04.342411+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b12026801455",
+      "title": "Sportmax Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/sportmax",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Sportmax Resort 2027...",
+      "score": 0,
+      "published": "2026-08-03T13:36:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc9c4ae655c5",
+      "title": "Mallikarjun Kharge asks PM Modi to address Parliament on NEET protest police action",
+      "link": "https://www.indiatoday.in/india/story/neet-protest-police-action-kharge-asks-modi-to-address-parliament-ptag-2962557-2026-08-03?utm_source=rss",
+      "summary": "Mallikarjun Kharge asks PM Modi to address Parliament on NEET protest police action",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Mallikarjun Kharge asks PM Modi to address Parliament on NEET protest ...",
+      "score": 1,
+      "published": "2026-08-03T13:32:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1ef10233392",
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
+      "score": 0,
+      "published": "2026-08-03T13:21:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4da875113ac4",
+      "title": "I'm Attending 5 Weddings This Fall—This Is the One Dress I Plan to Wear to All of Them",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-fishtail-gown-kaia-gerber-2026",
+      "summary": "Spotted on Kaia Gerber.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I'm Attending 5 Weddings This Fall—This Is the One Dress I Plan to Wear to All of Them — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-03T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0bbd563734ce",
+      "title": "Ben Sherman Enters India, Opens First Standalone Store in Surat",
+      "link": "https://in.apparelresources.com/business-news/retail/ben-sherman-enters-india-opens-first-standalone-store-surat/",
+      "summary": "British menswear brand Ben Sherman has entered the Indian retail market with the launch of its first standalone store at VR Surat. The store has been opened through a partnership between Marquee Brands, an American brand management company, and Apparel Group India Pvt. Ltd., a major retail and fashion company. The new ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Ben Sherman Enters India, Opens First Standalone Store in Surat...",
+      "score": 5,
+      "published": "2026-08-03T12:37:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2b047e9c7424",
+      "title": "What to Know About the New US Tariffs",
+      "link": "https://www.vogue.com/article/what-to-know-about-the-new-us-tariffs",
+      "summary": "As new US tariffs land like an anvil on a broad swathe of sourcing markets, companies are finding diversification harder to execute — and China harder to replace.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What to Know About the New US Tariffs...",
+      "score": 0,
+      "published": "2026-08-03T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f7d98ada8ba5",
+      "title": "Alexa Chung Just Wore the Anti-Jeans Trend I Never Expected to See Her In",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/camo-trouser-trend-alexa-chung-2026",
+      "summary": "Of course, she made them look chic",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-03T12:13:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "53f176ab4638",
+      "title": "Want To Live Longer? Start Tracking Your VO2 Max",
+      "link": "https://www.vogue.com/article/vo2-health-metric",
+      "summary": "A low VO2 max is considered a stronger predictor of mortality risk than smoking, obesity, high blood pressure, and type 2 diabetes. Here's how to improve your number.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Want To Live Longer? Start Tracking Your VO2 Max...",
+      "score": 0,
+      "published": "2026-08-03T11:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b3818854d83",
+      "title": "Bemberg™ Cupro: Inside the Fibre Powering Anita Dongre’s Sustainable Turn",
+      "link": "https://in.apparelresources.com/fashion-news/trends/bemberg-cupro-inside-fibre-powering-anita-dongres-sustainable-turn/",
+      "summary": "Anita Dongre&#8217;s latest collection turns the spotlight on Bemberg™, a cupro fibre most Indian shoppers have worn without knowing its name. Bemberg™ is the proprietary brand name for cupro, a regenerated cellulose fibre made and sold exclusively by Japan&#8217;s Asahi Kasei Corporation, which has produced it since 1",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Bemberg™ Cupro: Inside the Fibre Powering Anita Dongre’s Sustainable T...",
+      "score": 3,
+      "published": "2026-08-03T11:19:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5987ddf8f7ad",
+      "title": "Hold the Black Ballet Flats—This Trainer Trend Looks Even Chicer With Shorts",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/silver-trainer-trend-iris-law-2026",
+      "summary": "Iris confirmed it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-03T10:28:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc6e9c0d67d6",
+      "title": "Aqua Blue Goes Global: The It-Girl Colour of 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/aqua-blue-goes-global-girl-colour-2026/",
+      "summary": "Aqua blue has emerged as one of this summer&#8217;s defining shades, backed by strong industry momentum. WGSN has named Transformative Teal its Colour of the Year for 2026, while leading international fashion houses have interpreted the blue-green palette through a range of distinct aesthetic directions. The trend has ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Aqua Blue Goes Global: The It-Girl Colour of 2026...",
+      "score": 2,
+      "published": "2026-08-03T10:25:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7d73cb1fc951",
+      "title": "The Best Travel Sandals, From Packable Flip Flops to Comfortable Platforms",
+      "link": "https://www.vogue.com/article/travel-sandals",
+      "summary": "Planning a trip? Pack up some comfortable travel sandals to see you through both days on the beach and long hours spent sight-seeing.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Travel Sandals, From Packable Flip Flops to Comfortable Platf...",
+      "score": 0,
+      "published": "2026-08-03T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dfa24c81c18d",
+      "title": "10 Best Route 66 Airbnbs for Your Next Great Road Trip",
+      "link": "https://www.vogue.com/article/route-66-airbnbs",
+      "summary": "Hitting the road? Book a Route 66 Airbnb to make your rest stops a little more elevated. From the starting point in Chicago right through the end in LA, these 10 properties are on our wishlist.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 10 Best Route 66 Airbnbs for Your Next Great Road Trip...",
+      "score": 0,
+      "published": "2026-08-03T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d2a778f3442d",
       "title": "The Specific Shorts Length Fashion Girls Are Wearing This Minute",
@@ -51,20 +233,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "26fb1b407cca",
-      "title": "I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper East Side in Summer",
-      "link": "https://www.whowhatwear.com/fashion/upper-east-side-style-2026",
-      "summary": "The epitome of luxe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper...",
-      "score": 1,
-      "published": "2026-08-03T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d2f827c7a421",
       "title": "I Hate Wearing Foundation—This Is the Brightening Concealer Alternative I Refuse to Be Without",
       "link": "https://www.whowhatwear.com/beauty/makeup/chanel-les-beiges-serum-concealer",
@@ -74,6 +242,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-03T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26fb1b407cca",
+      "title": "I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper East Side in Summer",
+      "link": "https://www.whowhatwear.com/fashion/upper-east-side-style-2026",
+      "summary": "The epitome of luxe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper...",
       "score": 1,
       "published": "2026-08-03T06:00:00+00:00",
       "discovered_via": "feed"
@@ -104,20 +286,6 @@
       "angle": "Fashion Intelligence: Consumers Are Fatigued, Influencers Are Burnt Out. What Now?...",
       "score": 0,
       "published": "2026-08-03T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f7b08e47b525",
-      "title": "Madhya Pradesh woman strangles nephew-lover with dupatta over marriage pressure",
-      "link": "https://www.indiatoday.in/india/story/madhya-pradesh-nephew-lover-murder-priya-gupta-held-in-singrauli-2962020-2026-08-03?utm_source=rss",
-      "summary": "Madhya Pradesh woman strangles nephew-lover with dupatta over marriage pressure",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Madhya Pradesh woman strangles nephew-lover with dupatta over marriage...",
-      "score": 1,
-      "published": "2026-08-03T03:01:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -457,20 +625,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "81f834ec4959",
-      "title": "Not Messing Around—I'm a Shopping Director, and These Are the Chic Staples I Know Other Fashion People Will Like",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-pre-fall-fashion-2026",
-      "summary": "Cool pants! Gorgeous shoes! It's all here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Messing Around—I'm a Shopping Director, and These Are the Chic Sta...",
-      "score": 1,
-      "published": "2026-08-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8960a271c1a2",
       "title": "Don't Let Your Sandals Hear This—They're Being Replaced by This Elegant Closed-Toe Shoe Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-ballet-flats-trend-karlie-kloss-2026-uk",
@@ -480,6 +634,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "81f834ec4959",
+      "title": "Not Messing Around—I'm a Shopping Director, and These Are the Chic Staples I Know Other Fashion People Will Like",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-pre-fall-fashion-2026",
+      "summary": "Cool pants! Gorgeous shoes! It's all here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Messing Around—I'm a Shopping Director, and These Are the Chic Sta...",
       "score": 1,
       "published": "2026-08-02T07:00:00+00:00",
       "discovered_via": "feed"
@@ -667,48 +835,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ae482439a93f",
-      "title": "Bulrush-Grown Insulation Walks the Runway as Ponda’s BioPuff® Debuts in London",
-      "link": "https://in.apparelresources.com/fashion-news/innovation/bulrush-grown-insulation-walks-runway-pondas-biopuff-debuts-london/",
-      "summary": "Biomaterials startup Ponda has taken its plant-based insulation from wetland to runway. The company&#8217;s flagship material, BioPuff®, featured in fashion designer Genaro Rivas&#8217; menswear collection at the UK premiere of his show State of Impact, held at London&#8217;s Spitalfields Market on 29 July. BioPuff® is",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 7,
-      "published": "2026-08-01T11:20:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "980dc1121d9f",
-      "title": "How Rangkat Is Turning Rarity Into Revenue",
-      "link": "https://in.apparelresources.com/fashion-news/trends/rangkat-turning-rarity-revenue/",
-      "summary": "A quiet shift is underway in the Banarasi weaving belt. As mainstream brocade production leans increasingly on power-loom replication, a small circle of master weavers is doubling down on a technique so labour-intensive that most looms in Varanasi have simply stopped attempting it: the Rangkat sari. For an industry con",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: How Rangkat Is Turning Rarity Into Revenue...",
-      "score": 2,
-      "published": "2026-08-01T11:12:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "049e5342f903",
-      "title": "Why Brands Are Rethinking Trims",
-      "link": "https://in.apparelresources.com/business-news/sourcing/brands-rethinking-trims/",
-      "summary": "The confidence in India’s trims and accessories ecosystem is evident in the investments being made by global companies. Japanese fastening giant YKK Corporation recently announced a US $150 million investment in a new manufacturing facility in Chennai, its third in India. The demand is there. What is changing is the na",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why Brands Are Rethinking Trims...",
-      "score": 1,
-      "published": "2026-08-01T10:40:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a2836c52ecac",
       "title": "Spotted on Every It Girl This Summer: The Pretty Color Trend That Knocked Butter Yellow to 2nd Place",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/pool-blue-color-trend-zoe-saldana-karlie-kloss-summer-2026",
@@ -720,20 +846,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-08-01T10:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "78d20880c8fd",
-      "title": "Invest or Be Left Behind: Why Technology Investments Today Will Define Tomorrow’s Winners",
-      "link": "https://in.apparelresources.com/business-news/sourcing/invest-left-behind-technology-investments-today-will-define-tomorrows-winners/",
-      "summary": "Today, when people talk about investing in technology, many immediately think about Artificial Intelligence. That is understandable, but AI is only one part of a much bigger transformation. According to McKinsey&#8217;s State of Fashion report, generative AI alone could add between US $150 billion and US $275 billion i",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Invest or Be Left Behind: Why Technology Investments Today Will Define...",
-      "score": 1,
-      "published": "2026-08-01T10:12:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -793,20 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "55c497a571e8",
-      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
-      "summary": "From The Row's new everyday bag to Zara's designer-passing scarf.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-01T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e3c61cb3b03a",
       "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
       "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
@@ -817,6 +915,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-08-01T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "55c497a571e8",
+      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
+      "summary": "From The Row's new everyday bag to Zara's designer-passing scarf.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-08-01T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -849,6 +961,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d61f54bdc89a",
+      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
+      "summary": "The chicest dressers wear them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
+      "score": 2,
+      "published": "2026-08-01T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "37a29b2a6ec0",
       "title": "I'm a Former Nordstrom Buyer—These Are the 8 Best Last-Chance Items to Buy From the Anniversary Sale Before It's Over",
       "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-buyer-anniversary-sale-last-chance-2026",
@@ -877,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d61f54bdc89a",
-      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
-      "summary": "The chicest dressers wear them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
-      "score": 2,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "96961f4a21b7",
       "title": "This Viral TikTok Trend From 2022 Is Back and Better Than Ever–Here's How Stylish People Are Wearing It Today",
       "link": "https://www.whowhatwear.com/fashion/trends/balletcore-fashion-trend-2026",
@@ -906,9 +1018,9 @@
     },
     {
       "id": "d8381c472a47",
-      "title": "Move Over Broderie Blouses—Jeans and Sandals Look Much Chicer With This Trending Alternative",
+      "title": "Move Over, Broderie Blouses—Jeans and Sandals Look Much Chicer With This Trending Alternative",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-tie-front-blouse-trend-2026",
-      "summary": "Can you ever go wrong with jeans and a nice top?",
+      "summary": "The new \"nice\" top.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -919,22 +1031,8 @@
       "discovered_via": "feed"
     },
     {
-      "id": "19921a8f92db",
-      "title": "Injiri Unveils Herbarium: Jamdani Collection Rooted in Botanical Memory",
-      "link": "https://in.apparelresources.com/fashion-news/trends/injiri-unveils-herbarium-jamdani-collection-rooted-botanical-memory/",
-      "summary": "Jaipur-based Injiri by Chinar Farooqui has launched a new Herbarium Summer collection that translates botanical memories into thoughtfully crafted garments, handwoven in West Bengal with motifs drawn from pressed leaves, root systems and desert botanicals. Founded on the idea of &#8220;real India,&#8221; Injiri is root",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 3,
-      "published": "2026-08-01T05:56:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5d2cc633e83c",
-      "title": "My Goal Is to Look Expensive This August—7 Stylish Outfits I've Saved For Later",
+      "title": "My Goal Is to Look Expensive This August—7 Stylish Outfits I've Saved for Later",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-august-2026",
       "summary": "Low maintenance, high impact.",
       "source": "Who What Wear",
@@ -1073,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b26db61de9ec",
-      "title": "A Nostalgic Look Back at the Kennedy Family’s Summer Vacations Throughout History",
-      "link": "https://www.vogue.com/slideshow/inside-the-kennedy-familys-summer-vacations-throughout-history",
-      "summary": "Take a look at photos of the family vacationing in Hyannis Port, Massachusetts over the years.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Nostalgic Look Back at the Kennedy Family’s Summer Vacations Through...",
-      "score": 0,
-      "published": "2026-07-31T19:05:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d5c2486cb9ef",
       "title": "This Just In: 24 Late Summer Arrivals I'd Easily Wear Into Fall",
       "link": "https://www.whowhatwear.com/fashion/shopping/late-summer-favorites-quay-free-people-quince-michael-kors",
@@ -1143,48 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8340c5069e91",
-      "title": "The Hyper-Specific Ballet-Flat Trend That's Quietly Taking Over Every Cool Street in Europe",
-      "link": "https://www.whowhatwear.com/fashion/shoes/studded-ballet-flats-trend",
-      "summary": "It's chic personified.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-31T18:51:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ef2dde8fc933",
-      "title": "Required Reading: Five Books That Inspired Emily Wilson’s Translation of ‘The Odyssey’",
-      "link": "https://www.vogue.com/article/required-reading-emily-wilson",
-      "summary": "It’s impossible to escape this summer’s “The Odyssey” discourse, and we have British classicist and translator Emily Wilson to thank for at least some of that.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Required Reading: Five Books That Inspired Emily Wilson’s Translation ...",
-      "score": 0,
-      "published": "2026-07-31T18:42:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7b8a83ef2f79",
-      "title": "Time Spent: Why Summer Calls for a Sport Watch",
-      "link": "https://www.vogue.com/article-a-case-for-the-sport-watch",
-      "summary": "No one reaches for leather in the height of summer—your watch strap shouldn't be the exception. It's time to make the switch to something sportier.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Time Spent: Why Summer Calls for a Sport Watch...",
-      "score": 0,
-      "published": "2026-07-31T18:20:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ecd13de83037",
       "title": "Nordstrom’s Anniversary Sale 2026 Is Still Going Strong—Shop Our Favorite Beauty Deals",
       "link": "https://www.harpersbazaar.com/beauty/skin-care/a71830181/nordstrom-anniversary-sale-beauty-deals-2026/",
@@ -1199,20 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "31bf587401be",
-      "title": "Forget Mesh Ballet Flats—In Saint-Tropez, Cool Girls Are Wearing Dresses With This Updated Alt",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/mesh-mules-shoe-trend-laura-harrier-2026",
-      "summary": "Take note.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-07-31T17:46:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d1771498b058",
       "title": "Francesca Simons PR Is Seeking PR Interns In New York, NY",
       "link": "https://fashionista.com/2026/07/francesca-simons-pr-is-seeking-pr-interns-in-new-york-ny",
@@ -1224,34 +1252,6 @@
       "angle": "Fashion Intelligence: Francesca Simons PR Is Seeking PR Interns In New York, NY...",
       "score": 2,
       "published": "2026-07-31T17:14:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5851b5027c8",
-      "title": "Zendaya and Tom Holland Swap Method Dressing for Off-Duty Couple Style",
-      "link": "https://www.vogue.com/article/zendaya-tom-holland-off-duty-couple-style",
-      "summary": "While we’re accustomed to method dressing galore, rarely do we get to see the couple in a moment of respite, dressed as their true selves.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zendaya and Tom Holland Swap Method Dressing for Off-Duty Couple Style...",
-      "score": 2,
-      "published": "2026-07-31T17:06:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "986f1ad8f028",
-      "title": "Dress Code: Interior Designer Alyssa Kapito on the Art of Being Intentionally Understated",
-      "link": "https://www.vogue.com/slideshow/dress-code-alyssa-kapito-interior-designer",
-      "summary": "For New York-based Alyssa Kapito, her personal style is an extension of the pristine design projects her fan-base have come to know her for. Quintessentially Uptown with an element of ease, the most-loved pieces in her closet prove that an outfit that whispers is just as impactful as one that shouts. A go-to collaborat",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Dress Code: Interior Designer Alyssa Kapito on the Art of Being Intent...",
-      "score": 4,
-      "published": "2026-07-31T17:04:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1280,20 +1280,6 @@
       "angle": "Fashion Intelligence: Sandra Bullock’s Summer Wardrobe Includes Mesh Alaïa Flats and the Per...",
       "score": 1,
       "published": "2026-07-31T16:55:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "79ee04e36fee",
-      "title": "10 Vacation Dress Outfits",
-      "link": "https://www.vogue.com/article/vacation-dress-outfits",
-      "summary": "Wherever your travels take you this season, let your getaway wardrobe start here with these chic vacation dress outfits. Shop favorites from Johanna Ortiz, Pucci & Aflalo.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 10 Vacation Dress Outfits...",
-      "score": 3,
-      "published": "2026-07-31T16:32:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2907,6 +2893,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "fe491c7108ab",
+      "title": "Juttis vs Kolhapuris: The Right Pick for Every Indian Outfit",
+      "link": "https://www.azafashions.com/blog/juttis-vs-kolhapuris-footwear-guide/?utm_source=rss&utm_medium=rss&utm_campaign=juttis-vs-kolhapuris-footwear-guide",
+      "summary": "Juttis are flat, closed-toe shoes originating from North India, best suited for formal and festive occasions like weddings and Diwali. Kolhapuris are open-toe, strappy sandals from Maharashtra and Karnataka, ideal for casual and&#8230; The post Juttis vs Kolhapuris: The Right Pick for Every Indian Outfit appeared first",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Juttis vs Kolhapuris: The Right Pick for Every Indian Outfit...",
+      "score": 4,
+      "published": "2026-07-29T13:25:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "30f7dec6921f",
+      "title": "Zari vs Zardozi: Understanding Indian Embroidery Work",
+      "link": "https://www.azafashions.com/blog/zari-vs-zardozi-indian-embroidery-work/?utm_source=rss&utm_medium=rss&utm_campaign=zari-vs-zardozi-indian-embroidery-work",
+      "summary": "Zari is a metallic thread—typically gold or silver—woven directly into fabric to create shimmering patterns. Zardozi is a form of embroidery that uses Zari thread, along with beads, sequins, and&#8230; The post Zari vs Zardozi: Understanding Indian Embroidery Work appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 2,
+      "published": "2026-07-29T12:40:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf3529a23c0a",
+      "title": "Organza vs Tissue Saree: Differences, Draping & Occasions",
+      "link": "https://www.azafashions.com/blog/organza-vs-tissue-saree/?utm_source=rss&utm_medium=rss&utm_campaign=organza-vs-tissue-saree",
+      "summary": "Organza sarees are crisp, sheer, and structured—ideal for festive and formal events. Tissue sarees are lightweight, slightly metallic, and more fluid in drape, making them a popular pick for weddings&#8230; The post Organza vs Tissue Saree: Differences, Draping &amp; Occasions appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 4,
+      "published": "2026-07-29T12:29:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b66969612835",
       "title": "Quiet Luxury Janmashtami Outfit Ideas to Bookmark",
       "link": "https://www.azafashions.com/blog/janmashtami-outfit-ideas-to-bookmark/?utm_source=rss&utm_medium=rss&utm_campaign=janmashtami-outfit-ideas-to-bookmark",
@@ -2919,98 +2947,56 @@
       "score": 4,
       "published": "2026-07-29T10:38:02+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "e0608f309a52",
-      "title": "The Lehenga Styling Lookbook: How to Elevate the Iconic Silhouette for Any Event",
-      "link": "https://www.azafashions.com/blog/lehenga-styling-lookbook/?utm_source=rss&utm_medium=rss&utm_campaign=lehenga-styling-lookbook",
-      "summary": "The lehenga has transitioned from a traditional staple into a global statement of style and personal expression. The modern lehenga blends age-old artisanal mastery with contemporary silhouettes. The secret to its enduring allure lies entirely in&#8230; The post The Lehenga Styling Lookbook: How to Elevate the Iconic S",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Lehenga Styling Lookbook — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-07-29T10:14:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aba1a6f578c7",
-      "title": "Nehru Jackets That Instantly Elevate Your Rakhi Look",
-      "link": "https://www.azafashions.com/blog/nehru-jackets-for-rakhi-look/?utm_source=rss&utm_medium=rss&utm_campaign=nehru-jackets-for-rakhi-look",
-      "summary": "Raksha Bandhan doesn't demand an elaborate outfit. It asks for something considered—an ensemble that feels festive without being overdressed, polished without being stiff. That's exactly where the Nehru jacket earns&#8230; The post Nehru Jackets That Instantly Elevate Your Rakhi Look appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Nehru Jackets That Instantly Elevate Your Rakhi Look...",
-      "score": 3,
-      "published": "2026-07-29T09:51:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "36b4798d2e0e",
-      "title": "9 Rakhi Kurta Sets So Good, You’ll Want to Wear Them Beyond the Festival",
-      "link": "https://www.azafashions.com/blog/rakhi-kurta-sets-for-men/?utm_source=rss&utm_medium=rss&utm_campaign=rakhi-kurta-sets-for-men",
-      "summary": "Raksha Bandhan may be all about sibling love, but it is also one of those festivals where the family group photos are inevitable. So, while your sister may have already&#8230; The post 9 Rakhi Kurta Sets So Good, You&#8217;ll Want to Wear Them Beyond the Festival appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 9 Rakhi Kurta Sets So Good, You’ll Want to Wear Them Beyond the Festiv...",
-      "score": 2,
-      "published": "2026-07-28T13:35:17+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "பணம்",
+      "term": "कर्मचारी भविष्य निधि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आम आदमी पार्टी",
+      "term": "सर्पदंश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राष्ट्रमण्डल खेलों में भारत",
+      "term": "चंद्रग्रहण",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অন্নপূর্ণা যোজনা",
+      "term": "tax",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऑस्ट्रेलिया राष्ट्रीय अंडर 19 क्रिकेट टीम",
+      "term": "ak 64",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कांवड़ यात्रा",
+      "term": "पाकिस्तान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ককরোচ জনতা পার্টি",
+      "term": "daredevil",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राशियाँ",
+      "term": "నందమూరి బాలకృష్ణ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "upessc",
+      "term": "జియో",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भूख हड़ताल",
+      "term": "শিয়ালদহ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
