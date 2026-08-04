@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-08-04T10:38:31.255477+00:00",
+  "generated_at": "2026-08-04T13:02:19.437234+00:00",
   "owned_count": 10,
-  "competitor_count": 7,
-  "industry_count": 182,
+  "competitor_count": 17,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "5fd8b47a8d01",
+      "title": "Skall Studio Copenhagen Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/skall-studio",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Skall Studio Copenhagen Spring 2027...",
+      "score": 0,
+      "published": "2026-08-04T12:58:01+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "928cce2a045a",
       "title": "Freya Dalsjø Copenhagen Spring 2027",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Freya Dalsjø Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-04T10:36:44+00:00",
+      "published": "2026-08-04T12:58:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Self-Portrait Resort 2027...",
       "score": 0,
-      "published": "2026-08-04T10:36:44+00:00",
+      "published": "2026-08-04T12:58:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,21 +61,133 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Anne Sofie Madsen Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-04T10:36:44+00:00",
+      "published": "2026-08-04T12:58:01+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "b12026801455",
-      "title": "Sportmax Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/sportmax",
-      "summary": "",
+      "id": "21d49e9368b4",
+      "title": "Is Century 21 Still the Iconic NYC Designer Discount Destination It Once Was?",
+      "link": "https://fashionista.com/2026/08/century-21-nyc-discount-store-turnaround",
+      "summary": "Three years into its post-pandemic turnaround, the downtown Manhattan store is refocusing on IRL retail and courting younger consumers.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Is Century 21 Still the Iconic NYC Designer Discount Destination It On...",
+      "score": 1,
+      "published": "2026-08-04T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cfc2443f5d9a",
+      "title": "One District One Product: UP launches initiative to boost traditional industries",
+      "link": "https://www.indiatoday.in/india/story/uttar-pradesh-one-district-one-product-initiative-traditional-products-75-districts-promoted-yogi-adityanath-utrith-2963348-2026-08-04?utm_source=rss",
+      "summary": "One District One Product: UP launches initiative to boost traditional industries",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-08-04T12:20:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9cc638edf07a",
+      "title": "Sander Lak Takes Us Inside His NYC Pop-Up and City-Inspired Collection Strategy",
+      "link": "https://fashionista.com/2026/08/sanderlak-new-york-pop-up-store-designer-interview",
+      "summary": "The Dutch designer reflects on one year of designing \"intellectual\" yet \"not threatening\" clothing for his namesake brand.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-08-04T12:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bb0b7761fd52",
+      "title": "Valeria Luiselli Knows the Best Place to Get Tacos in Mexico City",
+      "link": "https://www.vogue.com/article/valeria-luiselli-guide-to-mexico-city",
+      "summary": "The New York City Booker Prize nominee—whose new novel is out this month—recommends her favorite places in Mexico’s capital.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Sportmax Resort 2027...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Valeria Luiselli Knows the Best Place to Get Tacos in Mexico City...",
       "score": 0,
-      "published": "2026-08-04T10:36:44+00:00",
+      "published": "2026-08-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1b4c0ae56867",
+      "title": "Kayra Theodore's 'Untied' Hair Show Sought to Reclaim Her Haitian Heritage",
+      "link": "https://fashionista.com/2026/08/kayra-theodore-untied-hair-show",
+      "summary": "For her debut presentation, the Instagram Drafts Fund recipient explored different interpretations of bows to '[untie] all the trauma and shame and expectations.'",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-08-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5488700181cf",
+      "title": "The 2000s Most Divisive Heel Trend Is Coming Back—Here’s How It Girls Are Wearing It in 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/toe-cleavage-heels-trend-2026",
+      "summary": "Take note.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-04T11:38:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "592e6f0c055a",
+      "title": "Louis Vuitton Takes Fall 2026 Into the Countryside",
+      "link": "https://www.fashiongonerogue.com/story/louis-vuitton-fall-2026-campaign/",
+      "summary": "Louis Vuitton&#8217;s fall-winter 2026 campaign sets the countryside as a fashion dream. Nicolas Ghesquière designed the collection with an Arcadian ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Louis Vuitton Takes Fall 2026 Into the Countryside...",
+      "score": 2,
+      "published": "2026-08-04T11:29:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7dc2be72de0d",
+      "title": "The Profoundly Simple Pleasures of a Girls Trip",
+      "link": "https://www.vogue.com/article/traveling-with-oldest-friends",
+      "summary": "For one author, an annual long weeekend with her five oldest friends has become akin to a sacred ritual.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Profoundly Simple Pleasures of a Girls Trip...",
+      "score": 0,
+      "published": "2026-08-04T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b0d825709e66",
+      "title": "ABLBL Reports Q1 Standalone Net Profit of Rs 31.2 Crore, Up from Rs 21.4 Crore YoY",
+      "link": "https://in.apparelresources.com/business-news/retail/ablbl-reports-q1-standalone-net-profit-rs-31-2-crore-rs-21-4-crore-yoy/",
+      "summary": "Aditya Birla Lifestyle Brands Ltd. (ABLBL) reported a strong performance for the quarter ended June 30, with standalone net profit rising to Rs 31.2 crore (US $3.26 million) on the back of standalone revenue from operations of Rs 2,048.86 crore (US $214.36 million). On a standalone basis, net profit increased 45.79% ye",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ABLBL Reports Q1 Standalone Net Profit of Rs 31.2 Crore, Up from Rs 21...",
+      "score": 2,
+      "published": "2026-08-04T10:37:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -261,30 +387,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5b267dd1d0ad",
-      "title": "WWW 30: The Pre-Fall Buys to See You Through This Season and the Next",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-prefall-buys-summer-2026",
-      "summary": "The Who, What and Where to shop now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-04T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e33b1be5b10",
-      "title": "The Only 12 Beauty Products You Need to Shop This Summer, According to Our Experts",
-      "link": "https://www.whowhatwear.com/beauty/skin/best-summer-beauty-products-2026",
-      "summary": "They know their stuff.",
+      "id": "319e43053b9a",
+      "title": "6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting in Their Most Elegant Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/runway-styling-ideas-2026",
+      "summary": "You heard it here first.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Only 12 Beauty Products You Need to Shop This Summer, According to...",
-      "score": 1,
+      "angle": "Fashion Intelligence: 6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting...",
+      "score": 3,
       "published": "2026-08-04T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -303,16 +415,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "319e43053b9a",
-      "title": "6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting in Their Most Elegant Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/runway-styling-ideas-2026",
-      "summary": "You heard it here first.",
+      "id": "5b267dd1d0ad",
+      "title": "WWW 30: The Pre-Fall Buys to See You Through This Season and the Next",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-prefall-buys-summer-2026",
+      "summary": "The Who, What and Where to shop now.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting...",
-      "score": 3,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-08-04T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -327,6 +439,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-08-04T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e33b1be5b10",
+      "title": "The Only 12 Beauty Products You Need to Shop This Summer, According to Our Experts",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-summer-beauty-products-2026",
+      "summary": "They know their stuff.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Only 12 Beauty Products You Need to Shop This Summer, According to...",
+      "score": 1,
       "published": "2026-08-04T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -877,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2b047e9c7424",
-      "title": "What to Know About the New US Tariffs",
-      "link": "https://www.vogue.com/article/what-to-know-about-the-new-us-tariffs",
-      "summary": "As new US tariffs land like an anvil on a broad swathe of sourcing markets, companies are finding diversification harder to execute — and China harder to replace.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What to Know About the New US Tariffs...",
-      "score": 0,
-      "published": "2026-08-03T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f7d98ada8ba5",
       "title": "Alexa Chung Just Wore the Anti-Jeans Trend I Never Expected to See Her In",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/camo-trouser-trend-alexa-chung-2026",
@@ -916,20 +1028,6 @@
       "angle": "Fashion Intelligence: 8 Best Brands Like Ralph Lauren: 2026 Top Style Alternatives...",
       "score": 3,
       "published": "2026-08-03T11:45:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "53f176ab4638",
-      "title": "Want To Live Longer? Start Tracking Your VO2 Max",
-      "link": "https://www.vogue.com/article/vo2-health-metric",
-      "summary": "A low VO2 max is considered a stronger predictor of mortality risk than smoking, obesity, high blood pressure, and type 2 diabetes. Here's how to improve your number.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Want To Live Longer? Start Tracking Your VO2 Max...",
-      "score": 0,
-      "published": "2026-08-03T11:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "26fb1b407cca",
-      "title": "I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper East Side in Summer",
-      "link": "https://www.whowhatwear.com/fashion/upper-east-side-style-2026",
-      "summary": "The epitome of luxe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper...",
-      "score": 1,
-      "published": "2026-08-03T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d2f827c7a421",
       "title": "I Hate Wearing Foundation—This Is the Brightening Concealer Alternative I Refuse to Be Without",
       "link": "https://www.whowhatwear.com/beauty/makeup/chanel-les-beiges-serum-concealer",
@@ -1082,6 +1166,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-03T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26fb1b407cca",
+      "title": "I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper East Side in Summer",
+      "link": "https://www.whowhatwear.com/fashion/upper-east-side-style-2026",
+      "summary": "The epitome of luxe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper...",
       "score": 1,
       "published": "2026-08-03T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1269,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ae6087a20b02",
-      "title": "20+ Dresses Later in the Zara Fitting Room, and I Deem These 3 the Chicest for Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-summer-dresses-2026",
-      "summary": "It's still hot out, friends.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 20+ Dresses Later in the Zara Fitting Room, and I Deem These 3 the Chi...",
-      "score": 1,
-      "published": "2026-08-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "81f834ec4959",
       "title": "Not Messing Around—I'm a Shopping Director, and These Are the Chic Staples I Know Other Fashion People Will Like",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-pre-fall-fashion-2026",
@@ -1292,6 +1376,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Not Messing Around—I'm a Shopping Director, and These Are the Chic Sta...",
+      "score": 1,
+      "published": "2026-08-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ae6087a20b02",
+      "title": "20+ Dresses Later in the Zara Fitting Room, and I Deem These 3 the Chicest for Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-summer-dresses-2026",
+      "summary": "It's still hot out, friends.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20+ Dresses Later in the Zara Fitting Room, and I Deem These 3 the Chi...",
       "score": 1,
       "published": "2026-08-02T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1406,20 +1504,6 @@
       "angle": "Fashion Intelligence: ICYMI: Guizio's First L.A. Store, Megan Thee Stallion's Most Romantic ...",
       "score": 1,
       "published": "2026-08-01T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a2836c52ecac",
-      "title": "Spotted on Every It Girl This Summer: The Pretty Color Trend That Knocked Butter Yellow to Second Place",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pool-blue-color-trend-zoe-saldana-karlie-kloss-summer-2026",
-      "summary": "It doesn't take much to see why.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-01T10:15:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2109,20 +2193,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dbaf71721720",
-      "title": "Barcelona Style Guide for a Mediterranean City Escape",
-      "link": "https://www.fashiongonerogue.com/story/barcelona-style-guide/",
-      "summary": "Barcelona is a city where fashion, culture, and creativity collide on every corner. Wander from the tangled lanes of the ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-07-29T02:28:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "36bd3e1dc9ee",
       "title": "10 Best Shoes To Wear Without Socks – Go Sockless in 2026",
       "link": "https://www.fashionbeans.com/article/best-shoes-to-wear-without-socks/",
@@ -2515,45 +2585,45 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f16d1024e749",
-      "title": "Foundation Is Seeking Beauty PR Interns & Influencer Marketing Interns In NYC + LA",
-      "link": "https://fashionista.com/2026/07/foundation-is-seeking-beauty-pr-interns-influencer-marketing-interns-in-nyc-la",
-      "summary": "Calling all beauty-obsessed intern candidates! Foundation, voted “Best Beauty PR Firm” by the PR Next Gen Awards, is looking for bright, digitally-savvy, motivated Beauty PR Interns and Influencer Marketing Interns to join our dynamic team at our New York and LA offices for the Fall 2026 semester.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Foundation Is Seeking Beauty PR Interns & Influencer Marketing Interns...",
-      "score": 1,
-      "published": "2026-07-23T18:18:33+00:00",
+      "id": "ec741335f4db",
+      "title": "Janhvi Kapoor & Ishaan Khatter Reunite as The KALKI Bride & Groom: A New Chapter in Wedding Fashion",
+      "link": "https://blog.kalkifashion.com/janhvi-kapoor-ishaan-khatter-reunite-as-kalki-bride-groom-a-new-chapter/",
+      "summary": "It&#8217;s been a while since we last saw Dhadak stars Janhvi Kapoor and Ishaan Khatter share the screen together.&#160; Didn’t we? Their effortless chemistry and emotionally compelling performances undoubtedly made them one of Bollywood&#8217;s most loved on-screen pairs. To an extent, that fans continued to ship the ",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Janhvi Kapoor & Ishaan Khatter Reunite as The KALKI Bride & Groom — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-01T13:38:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6b725eb4ad2e",
-      "title": "TMRW PR Is Seeking Fashion PR Interns In New York, NY",
-      "link": "https://fashionista.com/2026/07/tmrw-pr-is-seeking-fashion-pr-interns-in-new-york-ny",
-      "summary": "TMRW PR is looking for motivated, creative, and fashion-obsessed interns to join our team in New York City.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: TMRW PR Is Seeking Fashion PR Interns In New York, NY...",
-      "score": 1,
-      "published": "2026-07-23T14:04:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "74893fc1df5e",
-      "title": "Alohas Lands in Los Angeles With Its First West Coast Store",
-      "link": "https://fashionista.com/2026/07/alohas-los-angeles-store-opening",
-      "summary": "It's another step in the Spanish brand's U.S. expansion, as it continues bringing its on-demand shoe production model to brick and mortar.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Alohas Lands in Los Angeles With Its First West Coast Store...",
+      "id": "7bca2420f108",
+      "title": "Love In Bloom: The Beginning of KALKI Bride & Groom Couture ’26",
+      "link": "https://blog.kalkifashion.com/love-in-bloom-kalki-bride-groom-couture-26/",
+      "summary": "Every wedding has its own beginning. It&#8217;s the excitement of the joyful days knocking the doors, the butterflies before starting a new tomorrow, the happy chaos uniting families and the moments you&#8217;ll cherish forever after the big-fat celebration is over. To perfectly align with this feeling, KALKI Bride &#3",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Love In Bloom — A Complete Style Guide",
       "score": 2,
-      "published": "2026-07-23T12:30:00+00:00",
+      "published": "2026-08-01T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "024ce1881421",
+      "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
+      "link": "https://blog.kalkifashion.com/10-trending-anarkali-suit-for-rakshan-bandhan/",
+      "summary": "Raksha Bandhan is almost there, and the air is already filled with the joy of celebrations, reuniting with siblings and dressing up for the good. Marked by the tying of a rakhi as the sacred thread in return of a promise to be protected forever by their brother, sisters love this festival more than anything. [&#8230;] ",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Unique Anarkali Suit Options For Raksha Bandhan...",
+      "score": 2,
+      "published": "2026-07-30T09:10:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2568,6 +2638,34 @@
       "angle": "Fashion Intelligence: Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy...",
       "score": 3,
       "published": "2026-07-28T05:32:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "106ac738dc6b",
+      "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
+      "link": "https://blog.kalkifashion.com/10-trending-anarkali-suits-for-raksha-bandhan/",
+      "summary": "Raksha Bandhan is almost there, and the air is already filled with the joy of celebrations, reuniting with siblings and dressing up for the good. Marked by the tying of a rakhi as the sacred thread in return for a promise to be protected forever by their brother, sisters love this festival more than anything. [&#8230;]",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Unique Anarkali Suit Options For Raksha Bandhan...",
+      "score": 2,
+      "published": "2026-07-23T04:45:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "28c6a87d117f",
+      "title": "Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season",
+      "link": "https://blog.kalkifashion.com/trending-wedding-colours-beyond-red-for-modern-brides/",
+      "summary": "Red has long been an iconic color for every bride and bride-to-be. Synonymous with Indian bridal fashion, red is a symbol of love, new beginnings, and prosperity.&#160; But today’s brides want more than just red. With their elaborate taste and diverse choices available in the market, today’s brides want a more unique a",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-07-20T04:48:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2596,6 +2694,76 @@
       "angle": "Bridal Edit: Indo-Western Lehenga Choli vs Traditional Lehenga Choli — A Complete Style Guide",
       "score": 5,
       "published": "2026-07-15T14:57:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d13b9cdc1f4f",
+      "title": "Get Inspired by a Love Story That Almost Never Happened. Find Out What Fate Had in Store.",
+      "link": "https://blog.kalkifashion.com/get-inspired-by-a-love-story-that-almost-never-happened-find-out-what-fate-had-in-store/",
+      "summary": "DM Disaster Turned Destiny? Picture this: You&#8217;re scrolling Instagram, heart eyes over a guy&#8217;s travel pics, slide into his DMs&#8230; and ‘crickets’. Total radio silence. Ouch, right? That&#8217;s how Payal Vatsya&#8217;s love story almost fizzled out before it even sparked. But hold up—because what started ",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Get Inspired by a Love Story That Almost Never Happened. Find Out What...",
+      "score": 0,
+      "published": "2026-07-06T12:55:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "65bfa6e57dcf",
+      "title": "Thejaswini’s Dreamy Backwater Wedding in Kumbalangi, Kochi",
+      "link": "https://blog.kalkifashion.com/thejaswinis-dreamy-backwater-wedding-in-kumbalangi-kochi/",
+      "summary": "Swipe Right to Soulmate Status Picture this: the sun dipping low over the tranquil backwaters of Kumbalangi, Kochi, casting a golden glow on pastel florals swaying gently in the breeze. In the heart of it all? Thejaswini, radiant in her ivory lehenga, locking eyes with her groom as the world fades into a soft, dreamy [",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Thejaswini’s Dreamy Backwater Wedding in Kumbalangi, Kochi — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-07-06T12:07:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a92f672f113d",
+      "title": "How to Style Kurta Sets for Both Festive and Formal Occasions",
+      "link": "https://blog.kalkifashion.com/festive-occasions-more-modern-stylish-kurta-set-for-women/",
+      "summary": "An Indian kurta set for women has become a staple outfit for almost every wardrobe nowadays. It is one of the most flexible and comfortable outfits that suits every occasion. Whether you&#8217;re attending a festive night, heading to work, or casually meeting a friend, the right Indian kurta set automatically adapts to",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 5,
+      "published": "2026-07-01T05:31:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4a39530e3155",
+      "title": "What Made Swasti Choose This Royal Bridal Look?",
+      "link": "https://blog.kalkifashion.com/what-made-swasti-choose-this-royal-bridal-look/",
+      "summary": "Every bride dreams of that one moment, the moment she slips into the lehenga she&#8217;s always imagined, catches her reflection for the first time, and quietly thinks, this is exactly how I wanted to feel. For Swasti, that moment was nothing short of magical. Elegant, radiant, and effortlessly graceful, she carried he",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: What Made Swasti Choose This Royal Bridal Look? — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-06-30T10:46:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7fc9f4c6aac7",
+      "title": "Unique Ways To Rewear Your Bridal Lehenga For Different Occasions",
+      "link": "https://blog.kalkifashion.com/rewear-your-bridal-lehenga-in-stylish-new-ways/",
+      "summary": "When was the last time you picked your bridal lehenga after your wedding shenanigans got over? Probably never! Your bridal lehenga is much more than a wedding outfit. It is a symbol of your new journey, filled with emotions, cherished memories, and celebrated happiness. While this might be regular attire for others, in",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Unique Ways To Rewear Your Bridal Lehenga For Different Occasions — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-06-30T04:56:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2652,6 +2820,20 @@
       "angle": "Fashion Intelligence: Frock Anarkali vs Classic Anarkali: Which Style Actually Suits Your Bo...",
       "score": 3,
       "published": "2026-06-15T13:38:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b36d92b3619",
+      "title": "Wedding Stories by Aza Is Your Ultimate Shaadi Season Edit",
+      "link": "https://www.azafashions.com/blog/wedding-stories-by-aza/?utm_source=rss&utm_medium=rss&utm_campaign=wedding-stories-by-aza",
+      "summary": "The modern Indian wedding isn't one event—it's a season. And dressing for it requires a wardrobe as layered, emotional, and considered as the celebrations themselves. Wedding Stories by Aza understands&#8230; The post Wedding Stories by Aza Is Your Ultimate Shaadi Season Edit appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Wedding Stories by Aza Is Your Ultimate Shaadi Season Edit — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-03T10:56:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2779,70 +2961,56 @@
       "score": 1,
       "published": "2026-07-30T13:28:50+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "b911e87e3c82",
-      "title": "Men, Trust Us, Linen Is All You Need This Season",
-      "link": "https://www.azafashions.com/blog/mens-linen-outfits/?utm_source=rss&utm_medium=rss&utm_campaign=mens-linen-outfits",
-      "summary": "Linen is having more than just a seasonal moment. It has quietly become the fabric that every well-dressed man reaches for when comfort matters just as much as style. Whether&#160;you're&#160;heading&#8230; The post Men, Trust Us, Linen Is All You Need This Season appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-07-30T07:59:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "നിരക്ക്",
+      "term": "கனமழை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jeju vs bayern",
+      "term": "tnpl",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ബലൂചിസ്ഥാന്",
+      "term": "എയര് ഇന്ത്യ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "यशोधरा राजे सिंधिया",
+      "term": "प्रत्यक्ष विदेशी निवेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "శ్రీశైలం",
+      "term": "एथर एनर्जी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सिंधु जल समझौता",
+      "term": "bg pathum united vs aston villa",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शिवसेना उद्धव बाळासाहेब ठाकरे",
+      "term": "भारतीय जनता पार्टी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇందిరమ్మ ఇళ్ల పథకం",
+      "term": "সরকার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संजय राऊत",
+      "term": "hunger strike",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "પ્રેમ",
+      "term": "കള്ളന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
