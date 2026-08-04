@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T05:12:39.294064+00:00",
+  "generated_at": "2026-08-04T07:39:04.989916+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Freya Dalsjø Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-04T05:08:42+00:00",
+      "published": "2026-08-04T07:33:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Self-Portrait Resort 2027...",
       "score": 0,
-      "published": "2026-08-04T05:08:42+00:00",
+      "published": "2026-08-04T07:33:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Anne Sofie Madsen Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-04T05:08:42+00:00",
+      "published": "2026-08-04T07:33:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,35 +61,91 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Sportmax Resort 2027...",
       "score": 0,
-      "published": "2026-08-04T05:08:42+00:00",
+      "published": "2026-08-04T07:33:47+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "fad10f808b29",
-      "title": "From Pendant Necklaces to Cocktail Watches, These Are the Jewellery Trends Defining Luxury in 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/luxury-jewellery-trends-2026",
-      "summary": "Let's torque about it.",
+      "id": "2cf85e7ac4d4",
+      "title": "6 Current Trends You Can Also Incorporate Into Fall Outfits to Come",
+      "link": "https://www.whowhatwear.com/fashion/trends/ransitional-trends-for-fall-2026",
+      "summary": "The essentials you need.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-04T05:00:00+00:00",
+      "score": 2,
+      "published": "2026-08-04T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "319e43053b9a",
-      "title": "6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting in Their Most Elegant Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/runway-styling-ideas-2026",
-      "summary": "You heard it here first.",
+      "id": "09c77bb13dbb",
+      "title": "Fashion People Agree: Cute Nighties Are a Wardrobe Essential This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nightgown-dresses",
+      "summary": "Throw on and go.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting...",
+      "angle": "Fashion Intelligence: Fashion People Agree: Cute Nighties Are a Wardrobe Essential This Summ...",
+      "score": 1,
+      "published": "2026-08-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "27d90e7b588b",
+      "title": "From Kaia to J.Lo—9 Celebrity Summer Looks We Loved This Month",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-summer-outfits",
+      "summary": "Get inspired.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "56c7b75d46f5",
+      "title": "I Want to Look Chic, Even in the Rain—5 Elegant Summer Outfits To Wear Into Autumn",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/rainy-summer-day-outfits",
+      "summary": "The forecast is saying chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Want to Look Chic, Even in the Rain—5 Elegant Summer Outfits To Wear...",
+      "score": 2,
+      "published": "2026-08-04T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19dd1ff5d541",
+      "title": "Trust Me, Bitter Perfumes Are This Summer’s Most Sophisticated Fragrance Trend",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/bitter-perfumes",
+      "summary": "Elevated scents for summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-04T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "81b2107d2552",
+      "title": "I Thought My Friend's Summer Dresses Were Designer—Actually, She Relies On These 3 High Street Brands",
+      "link": "https://www.whowhatwear.com/fashion/dresses/nobodys-child-j-crew-zara-dresses-2026",
+      "summary": "They're already selling fast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Thought My Friend's Summer Dresses Were Designer—Actually, She Relie...",
       "score": 3,
-      "published": "2026-08-04T05:00:00+00:00",
+      "published": "2026-08-04T05:50:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -102,6 +158,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-04T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e33b1be5b10",
+      "title": "The Only 12 Beauty Products You Need to Shop This Summer, According to Our Experts",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-summer-beauty-products-2026",
+      "summary": "They know their stuff.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Only 12 Beauty Products You Need to Shop This Summer, According to...",
       "score": 1,
       "published": "2026-08-04T05:00:00+00:00",
       "discovered_via": "feed"
@@ -121,16 +191,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7e33b1be5b10",
-      "title": "The Only 12 Beauty Products You Need to Shop This Summer, According to Our Experts",
-      "link": "https://www.whowhatwear.com/beauty/skin/best-summer-beauty-products-2026",
-      "summary": "They know their stuff.",
+      "id": "319e43053b9a",
+      "title": "6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting in Their Most Elegant Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/runway-styling-ideas-2026",
+      "summary": "You heard it here first.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Only 12 Beauty Products You Need to Shop This Summer, According to...",
-      "score": 1,
+      "angle": "Fashion Intelligence: 6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting...",
+      "score": 3,
+      "published": "2026-08-04T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fad10f808b29",
+      "title": "From Pendant Necklaces to Cocktail Watches, These Are the Jewellery Trends Defining Luxury in 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/luxury-jewellery-trends-2026",
+      "summary": "Let's torque about it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-08-04T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -370,20 +454,6 @@
       "angle": "Fashion Intelligence: Ganni Reunites With Stem at Copenhagen Fashion Week...",
       "score": 1,
       "published": "2026-08-03T19:30:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db41873b2c7a",
-      "title": "Why didn't Siddaramaiah attend Cabinet swearing-in? DK Shivakumar responds",
-      "link": "https://www.indiatoday.in/india/karnataka/story/siddaramaiah-skipped-karnataka-cabinet-swearing-in-due-to-birthday-says-shivakumar-2962837-2026-08-04?utm_source=rss",
-      "summary": "Why didn't Siddaramaiah attend Cabinet swearing-in? DK Shivakumar responds",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-03T19:22:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -835,6 +905,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d45c36e2829f",
+      "title": "How To Build The Ultimate Minimalist Wardrobe For Men 2026",
+      "link": "https://www.fashionbeans.com/article/minimalist-wardrobe-men/",
+      "summary": "All the best things come in capsules. Medicine. Space food. Time. And, naturally, clothes. Not in a download-your-outfit-from-the-internet way, the minimalist wardrobe is far simpler than that. It&#8217;s the answer to every instance when you looked at your wardrobe and wondered, “What shall I wear today?” Ostensibly i",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Build The Ultimate Minimalist Wardrobe For Men 2026...",
+      "score": 2,
+      "published": "2026-08-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "2b982e2076ab",
       "title": "We Need to Stop Calling These Shoes a Trend—They're a Modern Classic Now",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/emily-ratajkowski-flat-shoe-trend",
@@ -902,6 +986,20 @@
       "angle": "Fashion Intelligence: Consumers Are Fatigued, Influencers Are Burnt Out. What Now?...",
       "score": 0,
       "published": "2026-08-03T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8c7010000037",
+      "title": "32 Top Designer Brands – Luxury Fashion In 2026",
+      "link": "https://www.fashionbeans.com/article/top-designer-brands/",
+      "summary": "Champagne flutes. Supermodels. Bright lights. Fashion. The world of top designer brands conjures up a swirling chaos of exclusivity, luxury, and style. But where does one turn in the midst of the maelstrom of top designer brands? Each brand competes to prove to you in subtle ways that it’s the best and that it deserves",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 32 Top Designer Brands – Luxury Fashion In 2026...",
+      "score": 6,
+      "published": "2026-08-03T04:07:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1297,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "55c497a571e8",
-      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
-      "summary": "From The Row's new everyday bag to Zara's designer-passing scarf.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-01T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e3c61cb3b03a",
       "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
       "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
@@ -1325,73 +1409,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8e6777aa6415",
-      "title": "J.Law and Anne Confirmed It: Dior's New Cigale Bag Is Already Autumn's It Item",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/dior-cigale-bag-trend-2026",
-      "summary": "The trend is taking off as we speak.",
+      "id": "55c497a571e8",
+      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
+      "summary": "From The Row's new everyday bag to Zara's designer-passing scarf.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: J.Law and Anne Confirmed It: Dior's New Cigale Bag Is Already Autumn's...",
-      "score": 1,
-      "published": "2026-08-01T07:34:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7112ab9cf0a9",
-      "title": "Don't Tell Flip-Flops, But They're Starting to Feel \"Samey\"—I'm Wearing These 6 Summer Shoes Instead",
-      "link": "https://www.whowhatwear.com/fashion/shoes/non-flip-flop-summer-shoe-trends-2026",
-      "summary": "New day, new shoes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
+      "aza_category": "Designer Spotlight",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-01T07:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "37a29b2a6ec0",
-      "title": "I'm a Former Nordstrom Buyer—These Are the 8 Best Last-Chance Items to Buy From the Anniversary Sale Before It's Over",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-buyer-anniversary-sale-last-chance-2026",
-      "summary": "Yes to these fashion and beauty finds.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Former Nordstrom Buyer—These Are the 8 Best Last-Chance Items to...",
-      "score": 2,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "694ec4f2481a",
-      "title": "Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara, and Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-zara-nordstrom-new-arrivals",
-      "summary": "Styles that will take you from summer to fall in style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Here You Go—A Tight Edit of the Coolest New Arrivals From J.Crew, Zara...",
-      "score": 1,
-      "published": "2026-08-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d61f54bdc89a",
-      "title": "Experienced Shoppers Know That This Elegant Item Is the MVP of a Transition-Weather Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/best-lightweight-cardigans",
-      "summary": "The chicest dressers wear them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Experienced Shoppers Know That This Elegant Item Is the MVP of a Trans...",
-      "score": 2,
-      "published": "2026-08-01T07:00:00+00:00",
+      "score": 3,
+      "published": "2026-08-01T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2431,20 +2459,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "98a28cc81821",
-      "title": "Pane Is Making the Best Retro Trainers You Have Not Heard Of Yet",
-      "link": "https://www.fashionbeans.com/article/pane-shoes-retro-trainers-brand-guide/",
-      "summary": "Let me be honest with you. The retro trainer market has a sameness problem. Every brand is mining the same three archive silhouettes, slapping on a gum sole and calling it heritage. Then something like Pane comes along, builds vintage-style athletic shoes out of genuinely premium leathers with cork midsoles and hand-fi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Pane Is Making the Best Retro Trainers You Have Not Heard Of Yet...",
-      "score": 2,
-      "published": "2026-07-27T05:37:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec57f6c3454b",
       "title": "ICYMI: Kate Spade's New Creative Director, Vittoria Ceretti's Fashion and Beauty Favorites & Cosmoprof 2026's Biggest Beauty Trends",
       "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-25",
@@ -2837,6 +2851,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3104097c8b88",
+      "title": "Banarasi vs Kanjeevaram: India’s Two Great Silk Sarees",
+      "link": "https://www.azafashions.com/blog/banarasi-vs-kanjeevaram-silk-saree-guide/?utm_source=rss&utm_medium=rss&utm_campaign=banarasi-vs-kanjeevaram-silk-saree-guide",
+      "summary": "Banarasi and Kanjeevaram sarees are India's two most celebrated silk weaves—but they differ significantly in weight, weave structure, and occasion suitability. Banarasi sarees are lighter with Mughal-inspired motifs and suit formal events&#8230; The post Banarasi vs Kanjeevaram: India&#8217;s Two Great Silk Sarees appe",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Banarasi vs Kanjeevaram: India’s Two Great Silk Sarees...",
+      "score": 5,
+      "published": "2026-07-31T06:39:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "94aad3ecb0ba",
+      "title": "Sequin & Metallic Sarees: The Holiday Party Season Guide",
+      "link": "https://www.azafashions.com/blog/sequin-metallic-sarees-holiday-party-season-guide/?utm_source=rss&utm_medium=rss&utm_campaign=sequin-metallic-sarees-holiday-party-season-guide",
+      "summary": "Sequin and metallic sarees are among the most versatile options for the November–December 2026 holiday party season. They work across occasions—from office celebrations to festive dinners—and pair well with both&#8230; The post Sequin &amp; Metallic Sarees: The Holiday Party Season Guide appeared first on Aza Editorial",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-07-31T06:36:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f70a9e0b8e2",
+      "title": "Designer Saree Price Guide in USD: Every Budget, Explained",
+      "link": "https://www.azafashions.com/blog/designer-saree-price-guide-usd/?utm_source=rss&utm_medium=rss&utm_campaign=designer-saree-price-guide-usd",
+      "summary": "Designer sarees in USD typically range from $100 for entry-level festive styles to $1,500+ for heavily embellished bridal pieces. The price depends on fabric, embroidery technique, and designer name. For&#8230; The post Designer Saree Price Guide in USD: Every Budget, Explained appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Designer Saree Price Guide in USD: Every Budget, Explained...",
+      "score": 6,
+      "published": "2026-07-31T06:34:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8f14d8e67f1c",
       "title": "The Bandhani Revival: Why This Heritage Craft Is Everywhere Right Now",
       "link": "https://www.azafashions.com/blog/bandhani-revival-heritage-craft-trend/?utm_source=rss&utm_medium=rss&utm_campaign=bandhani-revival-heritage-craft-trend",
@@ -2919,98 +2975,56 @@
       "score": 3,
       "published": "2026-07-30T07:59:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "fe491c7108ab",
-      "title": "Juttis vs Kolhapuris: The Right Pick for Every Indian Outfit",
-      "link": "https://www.azafashions.com/blog/juttis-vs-kolhapuris-footwear-guide/?utm_source=rss&utm_medium=rss&utm_campaign=juttis-vs-kolhapuris-footwear-guide",
-      "summary": "Juttis are flat, closed-toe shoes originating from North India, best suited for formal and festive occasions like weddings and Diwali. Kolhapuris are open-toe, strappy sandals from Maharashtra and Karnataka, ideal for casual and&#8230; The post Juttis vs Kolhapuris: The Right Pick for Every Indian Outfit appeared first",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Juttis vs Kolhapuris: The Right Pick for Every Indian Outfit...",
-      "score": 4,
-      "published": "2026-07-29T13:25:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "30f7dec6921f",
-      "title": "Zari vs Zardozi: Understanding Indian Embroidery Work",
-      "link": "https://www.azafashions.com/blog/zari-vs-zardozi-indian-embroidery-work/?utm_source=rss&utm_medium=rss&utm_campaign=zari-vs-zardozi-indian-embroidery-work",
-      "summary": "Zari is a metallic thread—typically gold or silver—woven directly into fabric to create shimmering patterns. Zardozi is a form of embroidery that uses Zari thread, along with beads, sequins, and&#8230; The post Zari vs Zardozi: Understanding Indian Embroidery Work appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 2,
-      "published": "2026-07-29T12:40:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf3529a23c0a",
-      "title": "Organza vs Tissue Saree: Differences, Draping & Occasions",
-      "link": "https://www.azafashions.com/blog/organza-vs-tissue-saree/?utm_source=rss&utm_medium=rss&utm_campaign=organza-vs-tissue-saree",
-      "summary": "Organza sarees are crisp, sheer, and structured—ideal for festive and formal events. Tissue sarees are lightweight, slightly metallic, and more fluid in drape, making them a popular pick for weddings&#8230; The post Organza vs Tissue Saree: Differences, Draping &amp; Occasions appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 4,
-      "published": "2026-07-29T12:29:16+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "मारुति सुज़ुकी",
+      "term": "अभिजीत दीपके",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "udhayanidhi stalin",
+      "term": "अरविंद केजरीवाल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sri lanka vs pakistan",
+      "term": "हेलिकॉप्टर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sujatha vijayakumar",
+      "term": "वैशाली दारेकर-राणे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sl-w vs pakw",
+      "term": "fssai",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ather energy share price",
+      "term": "పింఛను",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पंकजा मुंडे",
+      "term": "पेमा खांडू",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aung san suu kyi",
+      "term": "ప్రభుత్వం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lic share price",
+      "term": "dy patil",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "எஸ். பி. வேலுமணி",
+      "term": "बलूचिस्तान",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
