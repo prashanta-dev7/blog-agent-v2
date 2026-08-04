@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T07:39:04.989916+00:00",
+  "generated_at": "2026-08-04T10:38:31.255477+00:00",
   "owned_count": 10,
-  "competitor_count": 17,
-  "industry_count": 185,
+  "competitor_count": 7,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Freya Dalsjø Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-04T07:33:47+00:00",
+      "published": "2026-08-04T10:36:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Self-Portrait Resort 2027...",
       "score": 0,
-      "published": "2026-08-04T07:33:47+00:00",
+      "published": "2026-08-04T10:36:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Anne Sofie Madsen Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-04T07:33:47+00:00",
+      "published": "2026-08-04T10:36:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,119 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Sportmax Resort 2027...",
       "score": 0,
-      "published": "2026-08-04T07:33:47+00:00",
+      "published": "2026-08-04T10:36:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1d532430a00d",
+      "title": "The 11 Best Hotels in the Hamptons",
+      "link": "https://www.vogue.com/article/the-best-hotels-in-the-hamptons",
+      "summary": "From East Hampton, to Shelter Island, to Montauk, here are the best hotels in the Hamptons for your next weekend getaway.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 11 Best Hotels in the Hamptons...",
+      "score": 0,
+      "published": "2026-08-04T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d47220df13d5",
+      "title": "7 Newport Airbnbs for a Last-Minute East Coast Summer Getaway",
+      "link": "https://www.vogue.com/article/newport-airbnbs-rhode-island",
+      "summary": "Seafood, history, and the occasional celeb sighting awaits—book a Newport Airbnb and let your Rhode Island holiday officially kick off.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: 7 Newport Airbnbs for a Last-Minute East Coast Summer Getaway...",
+      "score": 1,
+      "published": "2026-08-04T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "80b157f9ca3c",
+      "title": "The Best Fall Fragrances Leave an Intoxicating Trail of Musk, Amber, and Leather",
+      "link": "https://www.vogue.com/article/fall-fragrances",
+      "summary": "It’s time for spicy, gourmand, and powerhouse floral notes to come to the fore. The best fall fragrances by Maison Margiela, Tom Ford, Guerlain, and more match the depth of the season.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Fall Fragrances Leave an Intoxicating Trail of Musk, Amber, a...",
+      "score": 1,
+      "published": "2026-08-04T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-08-04T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd7283c3a3c6",
+      "title": "You Can't Be Messy Online Anymore. Where To Next?",
+      "link": "https://www.vogue.com/article/you-cant-be-messy-on-social-media-anymore-where-to-next",
+      "summary": "Mainstream social platforms have become too commercial for culture to flourish. As creativity migrates to smaller platforms built on participation rather than performance, brands must rethink not just how they show up, but whether they even should.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: You Can't Be Messy Online Anymore. Where To Next?...",
+      "score": 2,
+      "published": "2026-08-04T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f82d2b6dae6a",
+      "title": "Polka Dots Are Having Their Biggest Moment in 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/polka-dots-biggest-moment-2026/",
+      "summary": "While many prints cycle in and out of fashion, polka dots continue to demonstrate remarkable staying power. Nearly eighteen months into their latest revival, the motif has moved from the runway to the red carpet and everyday wardrobes, with designers reinterpreting it through sheer fabrics, sculptural silhouettes, and ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Polka Dots Are Having Their Biggest Moment in 2026...",
+      "score": 3,
+      "published": "2026-08-04T08:08:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904507f36bfb",
+      "title": "I’ve Been Coveting Them Since February—5 Autumn Bag Trends Fashion People Are Already Wearing",
+      "link": "https://www.whowhatwear.com/fashion/luxury/autumn-bag-trends-2026",
+      "summary": "They'll be everywhere by September.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-04T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6cdf1273a9a",
+      "title": "The Little Black Dress Is Back as Fashion’s Hero Buy",
+      "link": "https://in.apparelresources.com/fashion-news/trends/little-black-dress-back-fashions-hero-buy/",
+      "summary": "Marks &#38; Spencer&#8217;s newly launched Black Column Midi Dress, priced at £42, has quickly emerged as a bestseller on the British retailer&#8217;s website. Its appeal lies less in novelty than versatility: the dress can be styled with sandals through late summer and layered under a tailored blazer as temperatures c",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Little Black Dress Is Back as Fashion’s Hero Buy...",
+      "score": 4,
+      "published": "2026-08-04T07:41:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -793,6 +905,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3c0bd663f412",
+      "title": "8 Best Brands Like Ralph Lauren: 2026 Top Style Alternatives",
+      "link": "https://www.fashionbeans.com/article/brands-like-ralph-lauren/",
+      "summary": "The preppy professor that dresses its students in A-star attire, Ralph Lauren, is the original all-American brand. It&#8217;s best known for its popular polo shirts and colorful sweaters, and its clothing, synonymous with America itself, has helped transform the wardrobes of men worldwide—from athletes and aristocrats ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 8 Best Brands Like Ralph Lauren: 2026 Top Style Alternatives...",
+      "score": 3,
+      "published": "2026-08-03T11:45:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "53f176ab4638",
       "title": "Want To Live Longer? Start Tracking Your VO2 Max",
       "link": "https://www.vogue.com/article/vo2-health-metric",
@@ -849,31 +975,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7d73cb1fc951",
-      "title": "The Best Travel Sandals, From Packable Flip Flops to Comfortable Platforms",
-      "link": "https://www.vogue.com/article/travel-sandals",
-      "summary": "Planning a trip? Pack up some comfortable travel sandals to see you through both days on the beach and long hours spent sight-seeing.",
-      "source": "Vogue US",
+      "id": "66c4234276e1",
+      "title": "Smart Casual Dress Code For Men: Attire and Style Guide 2026",
+      "link": "https://www.fashionbeans.com/article/mens-smart-casual-dress-guide/",
+      "summary": "Trying to find the true meaning of the phrase smart casual can quickly turn into a nightmare. The Oxford Dictionary defines it as “neat, conventional, yet relatively informal in style, especially as worn to conform to a particular dress code”. But these days it&#8217;s quite common for smart casual to be the dress code",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Travel Sandals, From Packable Flip Flops to Comfortable Platf...",
-      "score": 0,
-      "published": "2026-08-03T10:00:00+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-03T10:02:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "dfa24c81c18d",
-      "title": "10 Best Route 66 Airbnbs for Your Next Great Road Trip",
-      "link": "https://www.vogue.com/article/route-66-airbnbs",
-      "summary": "Hitting the road? Book a Route 66 Airbnb to make your rest stops a little more elevated. From the starting point in Chicago right through the end in LA, these 10 properties are on our wishlist.",
-      "source": "Vogue US",
+      "id": "7ebaf4f2cb92",
+      "title": "How A Man Should Dress In His 40s 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-dress-in-your-40s-men/",
+      "summary": "They say that life begins at 40, which frankly is a little bit too Benjamin Button for comfort. It’s also not true, clearly. Even if you can reasonably expect to make it to 80, up from a short and not especially sweet 25 in medieval times, your fifth decade is middle age at best; you’re &#8230; Continue reading How A M",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 10 Best Route 66 Airbnbs for Your Next Great Road Trip...",
-      "score": 0,
-      "published": "2026-08-03T10:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How A Man Should Dress In His 40s 2026...",
+      "score": 1,
+      "published": "2026-08-03T09:00:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -961,34 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "849dcd5a15ed",
-      "title": "Mother’s Home: Inside the LA Brand’s First Standalone Store",
-      "link": "https://www.vogue.com/article/mothers-home-inside-the-la-brands-first-standalone-store",
-      "summary": "After wildfires destroyed the first iteration of the store, Mother is entering the physical retail game for the first time with a West Coast space.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Mother’s Home: Inside the LA Brand’s First Standalone Store...",
-      "score": 1,
-      "published": "2026-08-03T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fc06458176cf",
-      "title": "Consumers Are Fatigued, Influencers Are Burnt Out. What Now?",
-      "link": "https://www.vogue.com/article/consumers-are-fatigued-influencers-are-burnt-out-what-now",
-      "summary": "Battling with content fatigue and influencer burnout, the playing field for creators has never been tougher. These are the new standards for content.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Consumers Are Fatigued, Influencers Are Burnt Out. What Now?...",
-      "score": 0,
-      "published": "2026-08-03T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8c7010000037",
       "title": "32 Top Designer Brands – Luxury Fashion In 2026",
       "link": "https://www.fashionbeans.com/article/top-designer-brands/",
@@ -1000,6 +1098,20 @@
       "angle": "Fashion Intelligence: 32 Top Designer Brands – Luxury Fashion In 2026...",
       "score": 6,
       "published": "2026-08-03T04:07:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "916cb34fa48e",
+      "title": "The Best Jeans For Men With No Butt – 6 Styles That Add Shape",
+      "link": "https://www.fashionbeans.com/article/best-jeans-for-men-with-no-butt/",
+      "summary": "FYI After our latest round of research, we’ve refined our recommendations to ensure we’re only featuring the best jeans for men with a flatter posterior. These updates include swapping out older models for newer, high-quality styles that provide better structure, fit, and design enhancements—such as strategic back pock",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Jeans For Men With No Butt – 6 Styles That Add Shape...",
+      "score": 2,
+      "published": "2026-08-03T01:24:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1017,20 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dbc312420e05",
-      "title": "Hailey Bieber Endorses Summer’s Coolest Nail Trend",
-      "link": "https://www.vogue.com/article/hailey-bieber-charli-xcx-summer-manicure",
-      "summary": "Charli XCX was spotted with a flash of this shade too.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-02T22:28:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3b654b286dbe",
       "title": "Charli XCX Celebrates Her 34th Birthday With a Striped Pantless Party Look",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73327696/charli-xcx-celebrates-34-birthday-striped-pantless-look-lollapalooza-party-photos/",
@@ -1042,20 +1140,6 @@
       "angle": "Fashion Intelligence: Charli XCX Celebrates Her 34th Birthday With a Striped Pantless Party ...",
       "score": 1,
       "published": "2026-08-02T21:59:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b46b2fde0941",
-      "title": "Every Time Kate Middleton Referenced Princess Diana’s Iconic Style",
-      "link": "https://www.vogue.com/slideshow/every-time-kate-middleton-referenced-princess-diana-style",
-      "summary": "Catherine Walker coat-dresses, Alexander McQueen moments, and shared jewels: though Diana and Catherine never net, their connection through style runs deep.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Time Kate Middleton Referenced Princess Diana’s Iconic Style...",
-      "score": 2,
-      "published": "2026-08-02T21:54:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1325,34 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6f179a3c8003",
-      "title": "ABFRL Posts 11% Revenue Growth in FY ’26, Expands Retail Network to 1,273 Stores",
-      "link": "https://in.apparelresources.com/business-news/retail/abfrl-posts-11-revenue-growth-in-fy-26-expands-retail-network-to-1273-stores/",
-      "summary": "Aditya Birla Fashion and Retail Limited (ABFRL) reported consolidated revenue from operations of Rs. 8,177 crore (US $855.51 million) for FY &#8216;2025-26, registering an 11% year-on-year increase from Rs. 7,355 crore (US $769.52 million) in the previous fiscal. The company posted EBITDA of Rs. 967 crore (US $101.17 m",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ABFRL Posts 11% Revenue Growth in FY ’26, Expands Retail Network to 1,...",
-      "score": 1,
-      "published": "2026-08-01T11:58:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "94a8ff17a7b1",
-      "title": "Raymond Lifestyle Q1 Loss Widens to Us $2.36 Million; Garmenting Revenue Jumps 50%",
-      "link": "https://in.apparelresources.com/business-news/retail/raymond-lifestyle-q1-loss-widens-to-us-2-36-million-garmenting-revenue-jumps-50/",
-      "summary": "Raymond Lifestyle Ltd. reported a consolidated net loss of Rs. 22.60 crore (US $2.36 million) for the quarter ended 30th June, compared with a net loss of Rs. 19.82 crore (US $2.07 million) in the corresponding quarter of the previous fiscal. The company reported a wider consolidated net loss for the first quarter of F",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Raymond Lifestyle Q1 Loss Widens to Us $2.36 Million; Garmenting Reven...",
-      "score": 1,
-      "published": "2026-08-01T11:37:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a2836c52ecac",
       "title": "Spotted on Every It Girl This Summer: The Pretty Color Trend That Knocked Butter Yellow to Second Place",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/pool-blue-color-trend-zoe-saldana-karlie-kloss-summer-2026",
@@ -1378,48 +1434,6 @@
       "angle": "Fashion Intelligence: Cape Fear , Ending Explained: A Sinister Culture of Misinformation...",
       "score": 0,
       "published": "2026-08-01T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "60b8ac94bbcd",
-      "title": "I've Settled the Debate: Sambas Are Still In If You Wear Them Like This",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-adidas-sambas-outfit-nicole-kidman-2026",
-      "summary": "Take note.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Settled the Debate: Sambas Are Still In If You Wear Them Like Thi...",
-      "score": 1,
-      "published": "2026-08-01T08:07:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e3c61cb3b03a",
-      "title": "It's Official: Tastemakers in Milan and London Can't Stop Wearing These 6 Nail Trends This Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/europe-summer-nail-trends-2026",
-      "summary": "Spotted on Dua Lipa, Iris Law, Olivia Dean, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-01T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "55c497a571e8",
-      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in August",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-august-2026",
-      "summary": "From The Row's new everyday bag to Zara's designer-passing scarf.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-01T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2403,62 +2417,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bca3713c9068",
-      "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
-      "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
-      "summary": "A man’s hair has always been an important identifier of success; historically, it would denote class, wealth and masculinity. Now? Well, not much has changed. And despite some tweaks to length and texture, nor have the styles. What looked good on Roman emperors still has the potential to flatter a modern mug. So take a",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
-      "score": 1,
-      "published": "2026-07-27T09:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "76b2b2554bf1",
-      "title": "5 Best Spicebomb Colognes: Explosive Scents to Style in 2026",
-      "link": "https://www.fashionbeans.com/article/best-spicebomb-colognes/",
-      "summary": "Some men wear subtle, light fragrances to smell casual, clean, and fresh—however, it can be hard to grab attention wearing those perfumes. Other men opt for bold, lively scents that turn heads. That’s what Viktor&#38;Rolf’s Spicebomb is all about. It’s a manly cologne that captures the explosion of sensual, fiery spice",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Spicebomb Colognes: Explosive Scents to Style in 2026...",
-      "score": 2,
-      "published": "2026-07-27T09:39:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cf96233bfcc0",
-      "title": "7 Best Diptyque Perfumes for Him to Showcase in 2026",
-      "link": "https://www.fashionbeans.com/article/best-diptyque-perfumes/",
-      "summary": "If you’ve grown tired of the same old department store fragrances and are ready to branch out on your cologne exploration, the best Diptyque perfume provides a full-blown experience in every bottle. The innovative scents make up a well-rounded fragrance line that bypasses traditional notions of gender in the perfume wo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 7 Best Diptyque Perfumes for Him to Showcase in 2026...",
-      "score": 2,
-      "published": "2026-07-27T09:27:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "996b34be06f0",
-      "title": "7 Best Shoes That Look Like Converse: Supreme 2026 Footwear",
-      "link": "https://www.fashionbeans.com/article/shoes-that-look-like-converse/",
-      "summary": "Nike has made a lot of good business moves, and buying out Converse is near the top of the list. The Converse design is one of the most iconic in footwear history, and it’s not hard to see why. That said, a common criticism directed their way are the questionable footbeds. For the ideal blend &#8230; Continue reading 7",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best Shoes That Look Like Converse: Supreme 2026 Footwear...",
-      "score": 1,
-      "published": "2026-07-27T06:01:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec57f6c3454b",
       "title": "ICYMI: Kate Spade's New Creative Director, Vittoria Ceretti's Fashion and Beauty Favorites & Cosmoprof 2026's Biggest Beauty Trends",
       "link": "https://fashionista.com/2026/07/fashion-news-you-need-to-know-july-25",
@@ -2599,48 +2557,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec741335f4db",
-      "title": "Janhvi Kapoor & Ishaan Khatter Reunite as The KALKI Bride & Groom: A New Chapter in Wedding Fashion",
-      "link": "https://blog.kalkifashion.com/janhvi-kapoor-ishaan-khatter-reunite-as-kalki-bride-groom-a-new-chapter/",
-      "summary": "It&#8217;s been a while since we last saw Dhadak stars Janhvi Kapoor and Ishaan Khatter share the screen together.&#160; Didn’t we? Their effortless chemistry and emotionally compelling performances undoubtedly made them one of Bollywood&#8217;s most loved on-screen pairs. To an extent, that fans continued to ship the ",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Janhvi Kapoor & Ishaan Khatter Reunite as The KALKI Bride & Groom — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-08-01T13:38:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7bca2420f108",
-      "title": "Love In Bloom: The Beginning of KALKI Bride & Groom Couture ’26",
-      "link": "https://blog.kalkifashion.com/love-in-bloom-kalki-bride-groom-couture-26/",
-      "summary": "Every wedding has its own beginning. It&#8217;s the excitement of the joyful days knocking the doors, the butterflies before starting a new tomorrow, the happy chaos uniting families and the moments you&#8217;ll cherish forever after the big-fat celebration is over. To perfectly align with this feeling, KALKI Bride &#3",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Love In Bloom — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-01T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "024ce1881421",
-      "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
-      "link": "https://blog.kalkifashion.com/10-trending-anarkali-suit-for-rakshan-bandhan/",
-      "summary": "Raksha Bandhan is almost there, and the air is already filled with the joy of celebrations, reuniting with siblings and dressing up for the good. Marked by the tying of a rakhi as the sacred thread in return of a promise to be protected forever by their brother, sisters love this festival more than anything. [&#8230;] ",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Unique Anarkali Suit Options For Raksha Bandhan...",
-      "score": 2,
-      "published": "2026-07-30T09:10:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9103f94dc229",
       "title": "Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy",
       "link": "https://www.indianclothstore.com/blog/punjabi-suit-design-guide-neck-styles-and-cuts",
@@ -2652,34 +2568,6 @@
       "angle": "Fashion Intelligence: Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy...",
       "score": 3,
       "published": "2026-07-28T05:32:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "106ac738dc6b",
-      "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
-      "link": "https://blog.kalkifashion.com/10-trending-anarkali-suits-for-raksha-bandhan/",
-      "summary": "Raksha Bandhan is almost there, and the air is already filled with the joy of celebrations, reuniting with siblings and dressing up for the good. Marked by the tying of a rakhi as the sacred thread in return for a promise to be protected forever by their brother, sisters love this festival more than anything. [&#8230;]",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Unique Anarkali Suit Options For Raksha Bandhan...",
-      "score": 2,
-      "published": "2026-07-23T04:45:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "28c6a87d117f",
-      "title": "Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season",
-      "link": "https://blog.kalkifashion.com/trending-wedding-colours-beyond-red-for-modern-brides/",
-      "summary": "Red has long been an iconic color for every bride and bride-to-be. Synonymous with Indian bridal fashion, red is a symbol of love, new beginnings, and prosperity.&#160; But today’s brides want more than just red. With their elaborate taste and diverse choices available in the market, today’s brides want a more unique a",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-07-20T04:48:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2708,76 +2596,6 @@
       "angle": "Bridal Edit: Indo-Western Lehenga Choli vs Traditional Lehenga Choli — A Complete Style Guide",
       "score": 5,
       "published": "2026-07-15T14:57:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d13b9cdc1f4f",
-      "title": "Get Inspired by a Love Story That Almost Never Happened. Find Out What Fate Had in Store.",
-      "link": "https://blog.kalkifashion.com/get-inspired-by-a-love-story-that-almost-never-happened-find-out-what-fate-had-in-store/",
-      "summary": "DM Disaster Turned Destiny? Picture this: You&#8217;re scrolling Instagram, heart eyes over a guy&#8217;s travel pics, slide into his DMs&#8230; and ‘crickets’. Total radio silence. Ouch, right? That&#8217;s how Payal Vatsya&#8217;s love story almost fizzled out before it even sparked. But hold up—because what started ",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Get Inspired by a Love Story That Almost Never Happened. Find Out What...",
-      "score": 0,
-      "published": "2026-07-06T12:55:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "65bfa6e57dcf",
-      "title": "Thejaswini’s Dreamy Backwater Wedding in Kumbalangi, Kochi",
-      "link": "https://blog.kalkifashion.com/thejaswinis-dreamy-backwater-wedding-in-kumbalangi-kochi/",
-      "summary": "Swipe Right to Soulmate Status Picture this: the sun dipping low over the tranquil backwaters of Kumbalangi, Kochi, casting a golden glow on pastel florals swaying gently in the breeze. In the heart of it all? Thejaswini, radiant in her ivory lehenga, locking eyes with her groom as the world fades into a soft, dreamy [",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Thejaswini’s Dreamy Backwater Wedding in Kumbalangi, Kochi — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-06T12:07:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a92f672f113d",
-      "title": "How to Style Kurta Sets for Both Festive and Formal Occasions",
-      "link": "https://blog.kalkifashion.com/festive-occasions-more-modern-stylish-kurta-set-for-women/",
-      "summary": "An Indian kurta set for women has become a staple outfit for almost every wardrobe nowadays. It is one of the most flexible and comfortable outfits that suits every occasion. Whether you&#8217;re attending a festive night, heading to work, or casually meeting a friend, the right Indian kurta set automatically adapts to",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 5,
-      "published": "2026-07-01T05:31:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4a39530e3155",
-      "title": "What Made Swasti Choose This Royal Bridal Look?",
-      "link": "https://blog.kalkifashion.com/what-made-swasti-choose-this-royal-bridal-look/",
-      "summary": "Every bride dreams of that one moment, the moment she slips into the lehenga she&#8217;s always imagined, catches her reflection for the first time, and quietly thinks, this is exactly how I wanted to feel. For Swasti, that moment was nothing short of magical. Elegant, radiant, and effortlessly graceful, she carried he",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: What Made Swasti Choose This Royal Bridal Look? — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-06-30T10:46:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7fc9f4c6aac7",
-      "title": "Unique Ways To Rewear Your Bridal Lehenga For Different Occasions",
-      "link": "https://blog.kalkifashion.com/rewear-your-bridal-lehenga-in-stylish-new-ways/",
-      "summary": "When was the last time you picked your bridal lehenga after your wedding shenanigans got over? Probably never! Your bridal lehenga is much more than a wedding outfit. It is a symbol of your new journey, filled with emotions, cherished memories, and celebrated happiness. While this might be regular attire for others, in",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Unique Ways To Rewear Your Bridal Lehenga For Different Occasions — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-06-30T04:56:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2797,52 @@
   ],
   "trends": [
     {
-      "term": "अभिजीत दीपके",
+      "term": "നിരക്ക്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अरविंद केजरीवाल",
+      "term": "jeju vs bayern",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हेलिकॉप्टर",
+      "term": "ബലൂചിസ്ഥാന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वैशाली दारेकर-राणे",
+      "term": "यशोधरा राजे सिंधिया",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "fssai",
+      "term": "శ్రీశైలం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పింఛను",
+      "term": "सिंधु जल समझौता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पेमा खांडू",
+      "term": "शिवसेना उद्धव बाळासाहेब ठाकरे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ప్రభుత్వం",
+      "term": "ఇందిరమ్మ ఇళ్ల పథకం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dy patil",
+      "term": "संजय राऊत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बलूचिस्तान",
+      "term": "પ્રેમ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
