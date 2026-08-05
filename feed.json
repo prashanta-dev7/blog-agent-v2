@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T05:12:41.460553+00:00",
+  "generated_at": "2026-08-05T07:38:23.267424+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 178,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: By Malene Birger Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T05:12:01+00:00",
+      "published": "2026-08-05T07:37:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Paolina Russo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T05:12:01+00:00",
+      "published": "2026-08-05T07:37:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Paolo Carzana Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-05T05:12:01+00:00",
+      "published": "2026-08-05T07:37:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Studio Constance Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T05:12:01+00:00",
+      "published": "2026-08-05T07:37:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Aiayu Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T05:12:01+00:00",
+      "published": "2026-08-05T07:37:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,119 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: MKDT Studio Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T05:12:01+00:00",
+      "published": "2026-08-05T07:37:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "860c13321185",
+      "title": "Calling It: Fall's Prettiest Flat-Shoe Trend Will Be Sold Out By September",
+      "link": "https://www.whowhatwear.com/fashion/shoes/satin-flats-trend",
+      "summary": "Cool dressers love these.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fe699d796207",
+      "title": "Shield Sunglasses Are One of the Hottest Accessories of the Season—These Pairs Come Editor-Approved",
+      "link": "https://www.whowhatwear.com/fashion/summer/shield-sunglasses-trend-2026",
+      "summary": "I'm a fan.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "373a5119a09a",
+      "title": "I Ran the Numbers: These Are the Designer Bags Our Readers Are Buying Right Now",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-selling-who-what-wear-designer-bags",
+      "summary": "And the one brand they shopped the most.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Ran the Numbers: These Are the Designer Bags Our Readers Are Buying ...",
+      "score": 2,
+      "published": "2026-08-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "74f12ffeee91",
+      "title": "Doing a Silk Press on My Thick Type 4 Hair Has Never Been Easier Thanks to Shark's New Tool",
+      "link": "https://www.whowhatwear.com/beauty/hair/shark-beauty-silkipro-straightener-review",
+      "summary": "A worthy investment indeed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Doing a Silk Press on My Thick Type 4 Hair Has Never Been Easier Thank...",
+      "score": 1,
+      "published": "2026-08-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d25453fd5675",
+      "title": "Culture as Currency the Forbidden Fruit’s Community-led Growth Strategy",
+      "link": "https://in.apparelresources.com/fashion-news/trends/culture-currency-forbidden-fruits-community-led-growth-strategy/",
+      "summary": "Most fashion brands start at the drawing board with silhouettes, seasonal inspirations, or trend forecasts, but homegrown label The Forbidden Fruit approaches design through a distinctly cultural lens. Drawing inspiration from a feeling, a song, a cultural moment, a memory, or a state of mind, the brand creates product",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Culture as Currency the Forbidden Fruit’s Community-led Growth Strateg...",
+      "score": 5,
+      "published": "2026-08-05T06:20:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a45fe865248d",
+      "title": "5 Elegant, Effortless Early-Autumn Outfit Ideas to Ease You Into the New Season",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/early-autumn-outfits-ideas-2026",
+      "summary": "Get a jump on the next season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-08-05T06:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9220e58d4cd1",
+      "title": "I'm in the Mood for a Fresh Pedi—These 6 Shades Are Set to Be on Everyone's Toes in August",
+      "link": "https://www.whowhatwear.com/beauty/nails/august-pedicure-trends-2026",
+      "summary": "Sandal season is still going strong.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm in the Mood for a Fresh Pedi—These 6 Shades Are Set to Be on Every...",
+      "score": 1,
+      "published": "2026-08-05T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a5aa2f330ab",
+      "title": "Krishna Lamicoat Launches Biofilm for Cutting Operations",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/krishna-lamicoat-launches-biofilm-for-cutting-operations/",
+      "summary": "The cutting room has largely escaped the sustainability reckoning that has hit garments, packaging, trims and labels. The polymer film running through every automated cutter is consumed in vast quantities, serves no purpose beyond the cut, and goes straight to waste. As sustainability legislation tightens across key ex",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-08-05T05:52:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -989,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2cf85e7ac4d4",
-      "title": "6 Current Trends You Can Also Incorporate Into Fall Outfits to Come",
-      "link": "https://www.whowhatwear.com/fashion/trends/ransitional-trends-for-fall-2026",
-      "summary": "The essentials you need.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-04T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "09c77bb13dbb",
       "title": "Fashion People Agree: Cute Nighties Are a Wardrobe Essential This Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/nightgown-dresses",
@@ -1013,6 +1111,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion People Agree: Cute Nighties Are a Wardrobe Essential This Summ...",
       "score": 1,
+      "published": "2026-08-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2cf85e7ac4d4",
+      "title": "6 Current Trends You Can Also Incorporate Into Fall Outfits to Come",
+      "link": "https://www.whowhatwear.com/fashion/trends/ransitional-trends-for-fall-2026",
+      "summary": "The essentials you need.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-08-04T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1031,17 +1143,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "19dd1ff5d541",
-      "title": "Trust Me: Bitter Perfumes Are This Summer’s Most Sophisticated Fragrance Trend",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/bitter-perfumes",
-      "summary": "Elevated scents for summer.",
-      "source": "Who What Wear",
+      "id": "9cea432fe226",
+      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
+      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
+      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-04T06:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
+      "score": 2,
+      "published": "2026-08-04T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1056,6 +1168,34 @@
       "angle": "Fashion Intelligence: I Want to Look Chic Even in the Rain—5 Elegant Summer Outfits to Wear ...",
       "score": 2,
       "published": "2026-08-04T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19dd1ff5d541",
+      "title": "Trust Me: Bitter Perfumes Are This Summer’s Most Sophisticated Fragrance Trend",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/bitter-perfumes",
+      "summary": "Elevated scents for summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-04T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed93ef79aabd",
+      "title": "16 Best Casio Watches For Men: New and Retro Picks for 2026",
+      "link": "https://www.fashionbeans.com/article/best-casio-watches/",
+      "summary": "After originally developing calculators, Casio released its first digital wristwatch in 1974. It was called the Casiotron and was the first of its kind to include an automatic calendar function. Almost five decades later, the innovative label is just as popular as ever. Reliable, tough-as-nails, and rather charming too",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 16 Best Casio Watches For Men: New and Retro Picks for 2026...",
+      "score": 1,
+      "published": "2026-08-04T05:55:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,34 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "02e4f8e5406f",
-      "title": "Welcome to the Who What Wear UK Summer Issue",
-      "link": "https://www.whowhatwear.com/fashion/uk-summer-issue-2026",
-      "summary": "It's here!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Welcome to the Who What Wear UK Summer Issue...",
-      "score": 1,
-      "published": "2026-08-04T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5b267dd1d0ad",
-      "title": "WWW 30: The Pre-Fall Buys to See You Through This Season and the Next",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-prefall-buys-summer-2026",
-      "summary": "The Who, What and Where to shop now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-04T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "319e43053b9a",
       "title": "6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting in Their Most Elegant Outfits",
       "link": "https://www.whowhatwear.com/fashion/trends/runway-styling-ideas-2026",
@@ -1139,6 +1251,34 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-08-04T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "02e4f8e5406f",
+      "title": "Welcome to the Who What Wear UK Summer Issue",
+      "link": "https://www.whowhatwear.com/fashion/uk-summer-issue-2026",
+      "summary": "It's here!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Welcome to the Who What Wear UK Summer Issue...",
+      "score": 1,
+      "published": "2026-08-04T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b267dd1d0ad",
+      "title": "WWW 30: The Pre-Fall Buys to See You Through This Season and the Next",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-prefall-buys-summer-2026",
+      "summary": "The Who, What and Where to shop now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-08-04T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1493,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5b3818854d83",
-      "title": "Bemberg™ Cupro: Inside the Fibre Powering Anita Dongre’s Sustainable Turn",
-      "link": "https://in.apparelresources.com/fashion-news/trends/bemberg-cupro-inside-fibre-powering-anita-dongres-sustainable-turn/",
-      "summary": "Anita Dongre&#8217;s latest collection turns the spotlight on Bemberg™, a cupro fibre most Indian shoppers have worn without knowing its name. Bemberg™ is the proprietary brand name for cupro, a regenerated cellulose fibre made and sold exclusively by Japan&#8217;s Asahi Kasei Corporation, which has produced it since 1",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Bemberg™ Cupro: Inside the Fibre Powering Anita Dongre’s Sustainable T...",
-      "score": 3,
-      "published": "2026-08-03T11:19:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5987ddf8f7ad",
       "title": "Hold the Black Ballet Flats—This Trainer Trend Looks Even Chicer With Shorts",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/silver-trainer-trend-iris-law-2026",
@@ -1591,48 +1717,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2b982e2076ab",
-      "title": "We Need to Stop Calling These Shoes a Trend—They're a Modern Classic Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/emily-ratajkowski-flat-shoe-trend",
-      "summary": "Emily Ratajkowski is a fan.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-03T06:03:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "26fb1b407cca",
-      "title": "I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper East Side in Summer",
-      "link": "https://www.whowhatwear.com/fashion/upper-east-side-style-2026",
-      "summary": "The epitome of luxe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Former New Yorker—7 Style Tips I'll Always Borrow From the Upper...",
-      "score": 1,
-      "published": "2026-08-03T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2f827c7a421",
-      "title": "I Hate Wearing Foundation—This Is the Brightening Concealer Alternative I Refuse to Be Without",
-      "link": "https://www.whowhatwear.com/beauty/makeup/chanel-les-beiges-serum-concealer",
-      "summary": "My new summer staple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-03T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8c7010000037",
       "title": "32 Top Designer Brands – Luxury Fashion In 2026",
       "link": "https://www.fashionbeans.com/article/top-designer-brands/",
@@ -1658,20 +1742,6 @@
       "angle": "Fashion Intelligence: The Best Jeans For Men With No Butt – 6 Styles That Add Shape...",
       "score": 2,
       "published": "2026-08-03T01:24:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "795e2c87471f",
-      "title": "It's Here: The 2026 It-Girl Way to Wear Those Silky Pants Everyone Owns",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/silky-pants-outfit-trend-dakota-johnson",
-      "summary": "It doesn't get cooler than Dakota Johnson's styling.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Here: The 2026 It-Girl Way to Wear Those Silky Pants Everyone Own...",
-      "score": 2,
-      "published": "2026-08-02T23:35:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1717,20 +1787,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9d31162022b6",
-      "title": "The Unexpected Pant Trend Cool Girls Are Wearing With Bikinis, Tanks, and Flip-Flops",
-      "link": "https://www.whowhatwear.com/fashion/summer/boardwalk-pant-trend",
-      "summary": "Big fans over here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-02T16:30:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "77f2ebcce299",
       "title": "Dua Lipa Puts a Very Her Spin on Festival Style With a Chainmail Minidress and Little Lacy Playsuit",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73326725/dua-lipa-sunny-hill-festival-style-streak-rabanne-chainmail-minidress-chloe-playsuit-photos/",
@@ -1756,20 +1812,6 @@
       "angle": "Fashion Intelligence: Prince William and Princess Kate Take the Kids to the Glasgow Commonwe...",
       "score": 0,
       "published": "2026-08-02T14:20:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7bd92267ec36",
-      "title": "How to Look More 2026 in Jeans and Ballet Flats This Fall: Wear This Shirt Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/retro-striped-polo-shirt-trend-julia-roberts",
-      "summary": "Julia Roberts blended right in with NYC's cool dressers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-02T10:15:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2319,34 +2361,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1b637939a90d",
-      "title": "5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026",
-      "link": "https://www.fashionbeans.com/article/best-low-rise-jeans-for-men/",
-      "summary": "It’s no secret that the low-rise revival has been happening for some time in women’s fashion, but people don’t talk nearly as much about low-rise jeans in the context of men’s fashion. I think that there are many reasons for this lack of attention, but—as you’ll see throughout the rest of this article—I think that &#82",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026...",
-      "score": 1,
-      "published": "2026-07-28T15:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ca91b081ff65",
-      "title": "The Complete Guide To Panama Hats",
-      "link": "https://www.fashionbeans.com/article/panama-hat-guide/",
-      "summary": "With the warmer months of summer comes the need to dress cool. Lightweight cottons, linens, lairy Hawaiian shirts, swim shorts, deck shoes and espadrilles suddenly appear on city streets and seaside boardwalks. But finding an individual style to lift you above the sartorial herd can be hard. The answer, sometimes, is a",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Complete Guide To Panama Hats...",
-      "score": 2,
-      "published": "2026-07-28T15:06:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "77d0593ec301",
       "title": "Can Indie Sun-Care Brands Reach 'Tanmaxxing' Gen Zs?",
       "link": "https://fashionista.com/2026/07/gen-z-tanning-culture-independent-sun-care-brands-dermatologists",
@@ -2881,52 +2895,52 @@
   ],
   "trends": [
     {
-      "term": "10th result",
+      "term": "एकनाथ शिंदे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "यमन",
+      "term": "वृषभ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ayyoub bouaddi",
+      "term": "ಸ್ಕೂಟರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ardee industries ipo",
+      "term": "സൂര്യ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nikita rawal ranbir kapoor controversy",
+      "term": "द हंड्रेड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "punjab police",
+      "term": "rbi mpc meeting",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "priscilla chan",
+      "term": "mma fighter owais yaqoob",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bharti airtel share price",
+      "term": "चेन्नई सुपर किंग्स",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "brock lesnar",
+      "term": "टीना पारेख",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rbi policy",
+      "term": "dubai",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
