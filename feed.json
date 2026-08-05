@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-08-05T10:33:49.262852+00:00",
+  "generated_at": "2026-08-05T12:51:53.345063+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 179,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "20f4127c1452",
+      "title": "The Garment Copenhagen Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/the-garment",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Garment Copenhagen Spring 2027...",
+      "score": 0,
+      "published": "2026-08-05T12:50:30+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4c75f9b18f4a",
       "title": "Stine Goya Copenhagen Spring 2027",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Stine Goya Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T10:30:16+00:00",
+      "published": "2026-08-05T12:50:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Institution By Galib Gassanoff Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T10:30:16+00:00",
+      "published": "2026-08-05T12:50:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: By Malene Birger Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T10:30:16+00:00",
+      "published": "2026-08-05T12:50:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Paolina Russo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T10:30:16+00:00",
+      "published": "2026-08-05T12:50:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Paolo Carzana Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-05T10:30:16+00:00",
+      "published": "2026-08-05T12:50:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +103,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Studio Constance Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-05T10:30:16+00:00",
+      "published": "2026-08-05T12:50:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bbe0a3324694",
+      "title": "It's Official: These Are the 7 Cult Investment Buys on Every Fashion Person's Fall Wish List",
+      "link": "https://www.whowhatwear.com/fashion/investment-buys-fall-2026",
+      "summary": "These accessories are winning out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Official: These Are the 7 Cult Investment Buys on Every Fashion P...",
+      "score": 1,
+      "published": "2026-08-05T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d9f0b69f1d12",
+      "title": "The Best Movies to Watch on Your Next Flight",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a71868200/best-movies-to-watch-on-a-flight/",
+      "summary": "What to queue when you’re above 30,000 feet",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Movies to Watch on Your Next Flight...",
+      "score": 0,
+      "published": "2026-08-05T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6ac2a180a743",
+      "title": "The New York Knicks Cap Was Fashion's Hottest Product of Q2 2026",
+      "link": "https://fashionista.com/2026/08/lyst-index-q2-2026-top-popular-brands-chanel-knicks",
+      "summary": "Plus, Chanel is still the world's hottest luxury brand, Phoebe Philo saw a surge in demand and more from the latest Lyst Index.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The New York Knicks Cap Was Fashion's Hottest Product of Q2 2026...",
+      "score": 3,
+      "published": "2026-08-05T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5704b2e7e6b4",
+      "title": "Nykaa Fashion Q1 GMV Jumps 53% to Rs. 1,471 Crore",
+      "link": "https://in.apparelresources.com/business-news/retail/nykaa-fashion-q1-gmv-jumps-53-rs-1471-crore/",
+      "summary": "Nykaa Fashion delivered a strong performance in the first quarter of FY2027, with its gross merchandise value (GMV) rising 53% year-on-year (YoY) to Rs. 1,471 crore (US $153.90 million), driven by robust customer growth, brand additions and strategic partnerships. The fashion business reported a 54% YoY increase in net",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nykaa Fashion Q1 GMV Jumps 53% to Rs. 1,471 Crore...",
+      "score": 2,
+      "published": "2026-08-05T10:50:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "467f60045ef1",
+      "title": "Brandman Retail Launches Wilson’s First Exclusive India Store",
+      "link": "https://in.apparelresources.com/business-news/retail/brandman-retail-launches-wilsons-first-exclusive-india-store/",
+      "summary": "Brandman Retail, the authorised distributor of Wilson products in India, has opened the country&#8217;s first exclusive Wilson retail store at Summit Plaza in Gurugram, marking the global sports brand&#8217;s entry into the Indian retail market. Founded in 1914 in Chicago, Illinois, Wilson is a leading manufacturer of ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-08-05T10:40:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7071aff391f4",
+      "title": "Gold rings for newborns, silk saree for brides: TVK govt's maiden Budget",
+      "link": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-budget-2026-tvk-announces-gold-for-brides-newborn-rings-1000-electric-buses-ptag-2964067-2026-08-05?utm_source=rss",
+      "summary": "Gold rings for newborns, silk saree for brides: TVK govt's maiden Budget",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Gold rings for newborns, silk saree for brides — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-05T10:39:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f3255c3bf31b",
-      "title": "Golden Hour Brunette Is Summer 2026’s Glossiest Hair Color Trend",
-      "link": "https://www.vogue.com/article/golden-hour-brunette-summer-2026",
-      "summary": "The shade combines rich brown hair with honey and caramel highlights for a glossy, sun-kissed look inspired by golden hour light.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-04T14:00:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6e9a6ee5e866",
       "title": "Sephora's Olive Young Partnership Will Debut With 19 K-Beauty Brands",
       "link": "https://fashionista.com/2026/08/sephora-olive-young-partnership-debut",
@@ -1143,6 +1227,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "984da283e7d0",
+      "title": "21 Best Chelsea Boots For Men That Go With Everything 2026",
+      "link": "https://www.fashionbeans.com/article/best-chelsea-boots-men/",
+      "summary": "Few things in the male wardrobe are likely to link reigning monarchs and rockstars. Nonetheless, the best Chelsea boots for men have managed to attract wearers as diverse as this, a most notable achievement. Of course, it’s not as simple as just slipping on any old pair. You need to look out for the hallmarks &#8230; C",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 21 Best Chelsea Boots For Men That Go With Everything 2026...",
+      "score": 1,
+      "published": "2026-08-04T09:00:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc7beb8f1e05",
+      "title": "Grunge Fashion For Men: Outfits And Style Guide",
+      "link": "https://www.fashionbeans.com/article/grunge-fashion-guide/",
+      "summary": "In the beginning, it meant nothing. “It could have been sludge, grime, crud, any word like that,” according to Jonathan Poneman, the founder of Seattle-based record label Sub Pop, some time later. But in his description of the scene, sent out to journalists in the late 1980s when its soon-to-be-stars were still dossing",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-08-04T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6c9cf9e0da3b",
       "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
       "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
@@ -1171,17 +1283,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f82d2b6dae6a",
-      "title": "Polka Dots Are Having Their Biggest Moment in 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/polka-dots-biggest-moment-2026/",
-      "summary": "While many prints cycle in and out of fashion, polka dots continue to demonstrate remarkable staying power. Nearly eighteen months into their latest revival, the motif has moved from the runway to the red carpet and everyday wardrobes, with designers reinterpreting it through sheer fabrics, sculptural silhouettes, and ",
-      "source": "Apparel Resources India",
+      "id": "ae6d6cf62cae",
+      "title": "10 Best Brands like Lacoste for Preppy, Sporty Style in 2026",
+      "link": "https://www.fashionbeans.com/article/brands-like-lacoste/",
+      "summary": "If you&#8217;re faithful to the iconic preppy label but want to branch out, there are plenty of brands like Lacoste out there. In lieu of their 90th anniversary, it couldn’t be a better time to pay homage to the heritage brand while also checking out alternatives that may offer something slightly different at varying p",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Polka Dots Are Having Their Biggest Moment in 2026...",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 10 Best Brands like Lacoste for Preppy, Sporty Style in 2026...",
       "score": 3,
-      "published": "2026-08-04T08:08:37+00:00",
+      "published": "2026-08-04T08:13:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1196,20 +1308,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-08-04T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6cdf1273a9a",
-      "title": "The Little Black Dress Is Back as Fashion’s Hero Buy",
-      "link": "https://in.apparelresources.com/fashion-news/trends/little-black-dress-back-fashions-hero-buy/",
-      "summary": "Marks &#38; Spencer&#8217;s newly launched Black Column Midi Dress, priced at £42, has quickly emerged as a bestseller on the British retailer&#8217;s website. Its appeal lies less in novelty than versatility: the dress can be styled with sandals through late summer and layered under a tailored blazer as temperatures c",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Little Black Dress Is Back as Fashion’s Hero Buy...",
-      "score": 4,
-      "published": "2026-08-04T07:41:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1241,20 +1339,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "27d90e7b588b",
-      "title": "From Kaia to J.Lo—9 Celebrity Summer Looks We Loved This Month",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-summer-outfits",
-      "summary": "Get inspired.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-04T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "09c77bb13dbb",
       "title": "Fashion People Agree: Cute Nighties Are a Wardrobe Essential This Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/nightgown-dresses",
@@ -1264,6 +1348,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion People Agree: Cute Nighties Are a Wardrobe Essential This Summ...",
+      "score": 1,
+      "published": "2026-08-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "27d90e7b588b",
+      "title": "From Kaia to J.Lo—9 Celebrity Summer Looks We Loved This Month",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-summer-outfits",
+      "summary": "Get inspired.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-08-04T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1339,6 +1437,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9c0548969149",
+      "title": "Harvey Specter: How To Dress Like The Sharpest Man On TV",
+      "link": "https://www.fashionbeans.com/article/harvey-specter-suits-style/",
+      "summary": "Harvey Specter. For those in the know, it’s a name that conjures up a knowing nod of agreement among men and women alike: goddamn, that guy looks good in a suit. If you’ve seen any of the high-stakes legal drama, Suits, (the clue is in the title; and yes, it’s the one that starred the Royal Family’s &#8230; Continue re",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Harvey Specter: How To Dress Like The Sharpest Man On TV...",
+      "score": 1,
+      "published": "2026-08-04T05:04:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b267dd1d0ad",
+      "title": "WWW 30: The Pre-Fall Buys to See You Through This Season and the Next",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-prefall-buys-summer-2026",
+      "summary": "The Who, What and Where to shop now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-04T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "fad10f808b29",
       "title": "From Pendant Necklaces to Cocktail Watches, These Are the Jewellery Trends Defining Luxury in 2026",
       "link": "https://www.whowhatwear.com/fashion/luxury/luxury-jewellery-trends-2026",
@@ -1348,34 +1474,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-04T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e33b1be5b10",
-      "title": "The Only 12 Beauty Products You Need to Shop This Summer, According to Our Experts",
-      "link": "https://www.whowhatwear.com/beauty/skin/best-summer-beauty-products-2026",
-      "summary": "They know their stuff.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Only 12 Beauty Products You Need to Shop This Summer, According to...",
-      "score": 1,
-      "published": "2026-08-04T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "319e43053b9a",
-      "title": "6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting in Their Most Elegant Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/runway-styling-ideas-2026",
-      "summary": "You heard it here first.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting...",
       "score": 3,
       "published": "2026-08-04T05:00:00+00:00",
       "discovered_via": "feed"
@@ -1395,15 +1493,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5b267dd1d0ad",
-      "title": "WWW 30: The Pre-Fall Buys to See You Through This Season and the Next",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-prefall-buys-summer-2026",
-      "summary": "The Who, What and Where to shop now.",
+      "id": "319e43053b9a",
+      "title": "6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting in Their Most Elegant Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/runway-styling-ideas-2026",
+      "summary": "You heard it here first.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Styling Tips From the Autumn Runways Fashion People Will Be Adopting...",
+      "score": 3,
+      "published": "2026-08-04T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e33b1be5b10",
+      "title": "The Only 12 Beauty Products You Need to Shop This Summer, According to Our Experts",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-summer-beauty-products-2026",
+      "summary": "They know their stuff.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Only 12 Beauty Products You Need to Shop This Summer, According to...",
       "score": 1,
       "published": "2026-08-04T05:00:00+00:00",
       "discovered_via": "feed"
@@ -1689,20 +1801,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4da875113ac4",
-      "title": "I'm Attending 5 Weddings This Fall—This Is the One Dress I Plan to Wear to All of Them",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-fishtail-gown-kaia-gerber-2026",
-      "summary": "Spotted on Kaia Gerber.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm Attending 5 Weddings This Fall—This Is the One Dress I Plan to Wear to All of Them — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-08-03T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3c0bd663f412",
       "title": "8 Best Brands Like Ralph Lauren: 2026 Top Style Alternatives",
       "link": "https://www.fashionbeans.com/article/brands-like-ralph-lauren/",
@@ -1784,20 +1882,6 @@
       "angle": "Fashion Intelligence: 32 Top Designer Brands – Luxury Fashion In 2026...",
       "score": 6,
       "published": "2026-08-03T04:07:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "916cb34fa48e",
-      "title": "The Best Jeans For Men With No Butt – 6 Styles That Add Shape",
-      "link": "https://www.fashionbeans.com/article/best-jeans-for-men-with-no-butt/",
-      "summary": "FYI After our latest round of research, we’ve refined our recommendations to ensure we’re only featuring the best jeans for men with a flatter posterior. These updates include swapping out older models for newer, high-quality styles that provide better structure, fit, and design enhancements—such as strategic back pock",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Jeans For Men With No Butt – 6 Styles That Add Shape...",
-      "score": 2,
-      "published": "2026-08-03T01:24:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1913,20 +1997,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "47fb4a76f52b",
-      "title": "Olivia Rodrigo Surprises Lollapalooza in a Vintage Lacy Balenciaga Minidress",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73323359/olivia-rodrigo-balenciaga-minidress-surprise-performace-lollapalooza-festival-2026/",
-      "summary": "She joined The Smashing Pumpkins on stage for a duet of “Thirty-Three”",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Olivia Rodrigo Surprises Lollapalooza in a Vintage Lacy Balenciaga Min...",
-      "score": 1,
-      "published": "2026-08-01T14:05:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8222788a57ee",
       "title": "ICYMI: Guizio's First L.A. Store, Megan Thee Stallion's Most Romantic Scent & Fashionista's July Editors' Picks",
       "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-1",
@@ -2036,20 +2106,6 @@
       "angle": "Fashion Intelligence: Independent, Local Retail Is Far From Dead in 2026...",
       "score": 3,
       "published": "2026-07-31T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dc74fde9af41",
-      "title": "We Asked AI to Name the 5 Best Menswear Brands of 2026. Claude and ChatGPT Agreed on Nothing",
-      "link": "https://www.fashionbeans.com/article/claude-vs-chatgpt-best-menswear-brands-2026/",
-      "summary": "Let me be honest with you. We expected this experiment to be a bit of fun and a lot of overlap. Ask two of the world&#8217;s most advanced AI models to name their five favourite menswear brands of 2026 so far, and surely you get the same mood board twice: the usual suspects, safely recycled. &#8230; Continue reading We",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: We Asked AI to Name the 5 Best Menswear Brands of 2026. Claude and Cha...",
-      "score": 4,
-      "published": "2026-07-31T11:01:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2193,20 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "62a2a75ae3e7",
-      "title": "The Biggest Sneaker Trends Of 2026",
-      "link": "https://www.fashionbeans.com/article/mens-sneaker-trends/",
-      "summary": "As we edge cautiously towards 2021 there are some big questions on everyone’s lips: Are we about to be dragged into World War III? How can we stop the entire planet from burning to a cinder? And, much less importantly, what&#8217;s the next big thing going to be in the world of sneaker trends? Unfortunately, &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-07-30T07:59:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "caa0ae232b50",
       "title": "Zendaya Shines as Prada Beauty Ambassador",
       "link": "https://www.fashiongonerogue.com/story/zendaya-prada-beauty-ambassador/",
@@ -2316,20 +2358,6 @@
       "angle": "Fashion Intelligence: Guizio Opens Its First West Coast Store...",
       "score": 2,
       "published": "2026-07-29T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7fcedc8c0e4f",
-      "title": "A Complete Guide To Spring-Summer Hat Styles",
-      "link": "https://www.fashionbeans.com/article/complete-guide-to-spring-summer-hats/",
-      "summary": "Headwear might not be the first thing you search for when summer rolls around &#8211; swim shorts, Cuban collars and sunglasses probably all come first. But, as an alternative form of sun protection – and a potentially stylish wardrobe addition – a summer hat is a fine investment for the right head. To save you &#8230;",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: A Complete Guide To Spring-Summer Hat Styles...",
-      "score": 2,
-      "published": "2026-07-29T10:02:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2498,20 +2526,6 @@
       "angle": "Fashion Intelligence: The Milan Fashion Week Spring 2027 Provisional Schedule Is Here...",
       "score": 1,
       "published": "2026-07-24T15:35:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "63340a86adf6",
-      "title": "See the Provisional Schedule for Paris Fashion Week Spring 2027",
-      "link": "https://fashionista.com/2026/07/paris-fashion-week-september-2026-schedule",
-      "summary": "Running Sept. 28 through Oct. 6, the women's ready-to-wear calendar welcomes designer debuts from Carven and Courrèges.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: See the Provisional Schedule for Paris Fashion Week Spring 2027...",
-      "score": 3,
-      "published": "2026-07-24T14:12:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2753,6 +2767,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "37cc309e2c9b",
+      "title": "If You’re Buying One Floral Lehenga This Season, Make It Khushi Kapoor-Inspired",
+      "link": "https://www.azafashions.com/blog/khushi-kapoor-inspired-floral-lehengas/?utm_source=rss&utm_medium=rss&utm_campaign=khushi-kapoor-inspired-floral-lehengas",
+      "summary": "If there's one thread running through Khushi Kapoor's festive wardrobe this year, it's petals. Not the loud, obvious kind, the ones that whisper through hand embroidery, appliqué, and thread work, turning up on everything from bridesmaid&#8230; The post If You&#8217;re Buying One Floral Lehenga This Season, Make It Khu",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: If You’re Buying One Floral Lehenga This Season, Make It Khushi Kapoor-Inspired — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-08-03T19:23:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5b36d92b3619",
       "title": "Wedding Stories by Aza Is Your Ultimate Shaadi Season Edit",
       "link": "https://www.azafashions.com/blog/wedding-stories-by-aza/?utm_source=rss&utm_medium=rss&utm_campaign=wedding-stories-by-aza",
@@ -2877,70 +2905,56 @@
       "score": 4,
       "published": "2026-07-30T14:20:44+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "8e5bb4428697",
-      "title": "Real Silk vs Art Silk: How to Tell the Difference Before You Buy",
-      "link": "https://www.azafashions.com/blog/real-silk-vs-art-silk-how-to-tell-the-difference/?utm_source=rss&utm_medium=rss&utm_campaign=real-silk-vs-art-silk-how-to-tell-the-difference",
-      "summary": "Real silk is a natural fiber produced by silkworms, known for its soft drape, subtle sheen, and breathability. Art silk (artificial silk) is a synthetic or semi-synthetic alternative—typically rayon, polyester, or viscose—that&#8230; The post Real Silk vs Art Silk: How to Tell the Difference Before You Buy appeared fir",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Real Silk vs Art Silk: How to Tell the Difference Before You Buy...",
-      "score": 1,
-      "published": "2026-07-30T13:28:50+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "milan vs inter",
+      "term": "शनि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "k league all-stars vs man city",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "शिवसेना",
+      "term": "vishakha rathod",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சொத்து",
+      "term": "రహదారి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "హిమ్మత్ సింగ్",
+      "term": "बेटी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சென்னை மெட்ரோ",
+      "term": "political party",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "नितिन गडकरी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "earthquake",
+      "term": "mohamed salah",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गंगा एक्सप्रेस वे",
+      "term": "dia mirza",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bbc.com/hindi",
+      "term": "किरेन रिजिजू",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सुनील गावस्कर",
+      "term": "स्वर्ण कांता शर्मा",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
