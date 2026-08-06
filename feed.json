@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T07:38:23.983319+00:00",
+  "generated_at": "2026-08-06T10:37:54.628537+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mfpen Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-06T07:37:27+00:00",
+      "published": "2026-08-06T10:35:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Baum und Pferdgarten Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-06T07:37:27+00:00",
+      "published": "2026-08-06T10:35:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,35 +47,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Henrik Vibskov Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-06T07:37:27+00:00",
+      "published": "2026-08-06T10:35:22+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "20f4127c1452",
-      "title": "The Garment Copenhagen Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/the-garment",
-      "summary": "",
+      "id": "c1e91cd10a1f",
+      "title": "Tangerine Takes Over: Why Orange Is 2026’s Loudest Colour",
+      "link": "https://in.apparelresources.com/fashion-news/trends/tangerine-takes-orange-2026s-loudest-colour/",
+      "summary": "Traditionally associated with autumn, orange has long appeared alongside rust, brown, and burgundy as a seasonal staple from September onwards. In 2026, however, the colour has been reclaimed for summer. While Pantone selected the soft, understated Cloud Dancer as its Colour of the Year for 2026, fashion brands have la",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Tangerine Takes Over: Why Orange Is 2026’s Loudest Colour...",
+      "score": 4,
+      "published": "2026-08-06T10:25:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1ef10233392",
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Garment Copenhagen Spring 2027...",
+      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
       "score": 0,
-      "published": "2026-08-06T07:37:27+00:00",
+      "published": "2026-08-06T10:16:05+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9894818a3e37",
-      "title": "Fashion People—These Early Fall Zara Items Will Become Stars In Your Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-pre-fall-2026",
-      "summary": "Hello, stylish things.",
-      "source": "Who What Wear",
+      "id": "7aff36c15237",
+      "title": "8 Airbnbs That Make the Perfect Weekend Trips From London",
+      "link": "https://www.vogue.com/article/weekend-trips-from-london-airbnb",
+      "summary": "From Cambridge to Brighton, these weekend trips from London are a convenient way to unwind—book one of these cozy Airbnbs to kickstart your trip.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Fashion People—These Early Fall Zara Items Will Become Stars In Your W...",
+      "angle": "Fashion Intelligence: 8 Airbnbs That Make the Perfect Weekend Trips From London...",
+      "score": 0,
+      "published": "2026-08-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c36da6328840",
+      "title": "Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds",
+      "link": "https://www.vogue.com/article/feels-like-a-steal",
+      "summary": "Love a good fashion find? Same. And while there’s plenty we recommend on a daily basis, what makes us play for keeps is in the name: when it feels like a steal.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds...",
       "score": 1,
-      "published": "2026-08-06T07:00:00+00:00",
+      "published": "2026-08-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9f8ec37b308f",
+      "title": "20 Backyard Wedding Dresses for the Laid-Back Bride",
+      "link": "https://www.vogue.com/article/backyard-wedding-dresses",
+      "summary": "Celebrating at home? These backyard wedding dresses embrace the bucolic setting—from designers like Danielle Frankel and Markarian.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 20 Backyard Wedding Dresses for the Laid-Back Bride — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b263f25420a3",
+      "title": "“The Devil Wears Prada 2” Fashion to Hit the Auction Block in September",
+      "link": "https://www.vogue.com/article/the-devil-wears-prada-2-fashion-to-hit-the-auction-block-in-september",
+      "summary": "Ever wanted to steal a look from The Devil Wears Prada's Miranda Priestly, Andy Sachs, Nigel or Emily? Now you can.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: “The Devil Wears Prada 2” Fashion to Hit the Auction Block in Septembe...",
+      "score": 2,
+      "published": "2026-08-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7acda3b4464e",
+      "title": "Dipke announces nationwide campaign 'Kya Bolti Public' to address people's issues",
+      "link": "https://www.indiatoday.in/india/story/cjp-kya-bolti-public-campaign-abhijeet-dipke-september-outreach-2964997-2026-08-06?utm_source=rss",
+      "summary": "Dipke announces nationwide campaign 'Kya Bolti Public' to address people's issues",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dipke announces nationwide campaign 'Kya Bolti Public' to address peop...",
+      "score": 1,
+      "published": "2026-08-06T09:40:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "68d6b98c2aff",
+      "title": "Nothing in Budget: Wearing black, Udhayanidhi slams Vijay over farmers' issues, Cauvery",
+      "link": "https://www.indiatoday.in/india/tamil-nadu/story/cauvery-farm-loan-waiver-udhayanidhi-attacks-vijay-government-budget-2964931-2026-08-06?utm_source=rss",
+      "summary": "Nothing in Budget: Wearing black, Udhayanidhi slams Vijay over farmers' issues, Cauvery",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-06T08:01:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dfea34221e29",
+      "title": "With Dresses and Jeans, Alexa Keeps Coming Back to This French-Girl Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/soft-ballet-flats-french-outfit-trend-alexa-chung-2026",
+      "summary": "Chic every time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-06T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eb8c2a6af1e4",
+      "title": "Tamil Nadu to Launch Technical Textiles Scheme, Set Up Tirupur Technology Centre",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/tamil-nadu-launch-technical-textiles-scheme-set-tirupur-technology-centre/",
+      "summary": "The Tamil Nadu Government has announced plans to launch the Technical Textiles Transformation Scheme (TTTS) for entrepreneurs and establish a Tirupur Textiles Technology Centre (TTTC) to strengthen the State&#8217;s technical textiles ecosystem and support MSMEs and textile manufacturers in transitioning towards high-v",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-06T07:57:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -135,6 +247,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9894818a3e37",
+      "title": "Fashion People—These Early Fall Zara Items Will Become Stars in Your Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-pre-fall-2026",
+      "summary": "Hello, stylish things.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Fashion People—These Early Fall Zara Items Will Become Stars in Your W...",
+      "score": 1,
+      "published": "2026-08-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d7c162ecc1b4",
       "title": "Reliance Brands Partners with SKIMS to Launch Global Apparel Brand in India",
       "link": "https://in.apparelresources.com/business-news/retail/reliance-brands-partners-skims-launch-global-apparel-brand-india/",
@@ -163,20 +289,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a0ef3ba1e805",
-      "title": "From Screen to Store: Redefining Premium Streaming for Luxury Shoppers",
-      "link": "https://www.vogue.com/article/from-screen-to-store-redefining-premium-streaming-for-luxury-shoppers",
-      "summary": "Vogue Business joined Amazon Ads at Cannes Lions to share brand-new research on how to create a premium streaming environment that attracts luxury consumers.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: From Screen to Store: Redefining Premium Streaming for Luxury Shoppers...",
-      "score": 2,
-      "published": "2026-08-06T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6d9eb777e917",
       "title": "52 Thoughts I Had About Episode 1 of ‘The Shards’",
       "link": "https://www.vogue.com/article/52-thoughts-i-had-about-episode-1-of-the-shards",
@@ -191,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3a8936aa1135",
-      "title": "Everything I Learned About the New Rules of Capital at the Girlboss Convention",
-      "link": "https://www.vogue.com/article/everything-i-learned-about-the-new-rules-of-capital-at-the-girlboss-convention",
-      "summary": "At Camp FFF in the Hamptons, women behind some of today’s most influential companies gathered to rethink the future of female entrepreneurship.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Everything I Learned About the New Rules of Capital at the Girlboss Co...",
-      "score": 0,
-      "published": "2026-08-06T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "86a3ba67380b",
       "title": "The Vogue Business TikTok Trend Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
@@ -215,6 +313,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-08-06T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a8936aa1135",
+      "title": "Everything I Learned at the Girlboss Convention",
+      "link": "https://www.vogue.com/article/everything-i-learned-about-the-new-rules-of-capital-at-the-girlboss-convention",
+      "summary": "At Camp FFF in the Hamptons, women behind some of today’s most influential companies gathered to rethink the future of female entrepreneurship.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Everything I Learned at the Girlboss Convention...",
+      "score": 0,
       "published": "2026-08-06T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-08-05T12:56:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "59a97e6da1d9",
       "title": "Anurag Pandey Steps Down as Arvind Fashions Footwear CEO",
       "link": "https://in.apparelresources.com/business-news/retail/anurag-pandey-steps-arvind-fashions-footwear-ceo/",
@@ -1014,48 +1112,6 @@
       "angle": "Fashion Intelligence: Ladakhi Couture Goes Mainstream: Yak Wool, Ajrakh and a New Fashion Ec...",
       "score": 7,
       "published": "2026-08-05T10:05:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cc05f51dd4ac",
-      "title": "From Crete to Corfu, Here Are the Greek Island Airbnbs",
-      "link": "https://www.vogue.com/article/best-airbnbs-greek-islands",
-      "summary": "Headed to the Mediterranean? Here, our guide to the best Greek Island Airbnbs, from the whitewashed charm of the Cyclades to the colorful Ionian.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: From Crete to Corfu, Here Are the Greek Island Airbnbs...",
-      "score": 0,
-      "published": "2026-08-05T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "68de7dbdf6bf",
-      "title": "Peptides vs Retinol: Which Is Better For Firmer Skin?",
-      "link": "https://www.vogue.com/article/peptide-versus-retinol",
-      "summary": "Peptides vs retinol is a hotly debated skin-care topic. Both support smoother, firmer-looking skin, but they work in different ways. Vogue consults the experts.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Peptides vs Retinol: Which Is Better For Firmer Skin?...",
-      "score": 0,
-      "published": "2026-08-05T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b83765d41fd2",
-      "title": "‘Goldilocksing’: Why Fashion Is Choosing the Middle Ground in 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/goldilocksing-fashion-choosing-middle-ground-2026/",
-      "summary": "In 2026, midi skirts, kitten heels, capris and three-quarter sleeves are replacing maxis and minis as the silhouettes of choice, a shift the industry has termed &#8220;Goldilocksing,&#8221; after pieces that are neither too short nor too long, too flat nor too high. The commercial logic is what makes Goldilocksing dura",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ‘Goldilocksing’: Why Fashion Is Choosing the Middle Ground in 2026...",
-      "score": 1,
-      "published": "2026-08-05T09:58:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1227,20 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d25453fd5675",
-      "title": "Culture as Currency the Forbidden Fruit’s Community-led Growth Strategy",
-      "link": "https://in.apparelresources.com/fashion-news/trends/culture-currency-forbidden-fruits-community-led-growth-strategy/",
-      "summary": "Most fashion brands start at the drawing board with silhouettes, seasonal inspirations, or trend forecasts, but homegrown label The Forbidden Fruit approaches design through a distinctly cultural lens. Drawing inspiration from a feeling, a song, a cultural moment, a memory, or a state of mind, the brand creates product",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Culture as Currency the Forbidden Fruit’s Community-led Growth Strateg...",
-      "score": 5,
-      "published": "2026-08-05T06:20:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a45fe865248d",
       "title": "5 Elegant and Effortless Early-Autumn Outfit Ideas to Ease You Into the New Season",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/early-autumn-outfits-ideas-2026",
@@ -1280,20 +1322,6 @@
       "angle": "Fashion Intelligence: I'm in the Mood for a Fresh Pedi—These 6 Shades Are Set to Be on Every...",
       "score": 1,
       "published": "2026-08-05T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0a5aa2f330ab",
-      "title": "Krishna Lamicoat Launches Biofilm for Cutting Operations",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/krishna-lamicoat-launches-biofilm-for-cutting-operations/",
-      "summary": "The cutting room has largely escaped the sustainability reckoning that has hit garments, packaging, trims and labels. The polymer film running through every automated cutter is consumed in vast quantities, serves no purpose beyond the cut, and goes straight to waste. As sustainability legislation tightens across key ex",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-08-05T05:52:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1675,20 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e34d00111e91",
-      "title": "If You Only Buy One Pair of Shoes Before September, Make It This Chic Flat",
-      "link": "https://www.whowhatwear.com/fashion/shoes/metallic-ballet-flat-trend",
-      "summary": "See the style inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Only Buy One Pair of Shoes Before September, Make It This Chic ...",
-      "score": 1,
-      "published": "2026-08-04T13:53:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e5494454bf74",
       "title": "7 Best Givenchy Colognes For Men – Classic Scents for 2026",
       "link": "https://www.fashionbeans.com/article/best-givenchy-colognes/",
@@ -1756,20 +1770,6 @@
       "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
       "score": 1,
       "published": "2026-08-04T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5488700181cf",
-      "title": "The 2000s Most Divisive Heels Trend Is Coming Back—Here’s How It Girls Are Wearing It in 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/toe-cleavage-heels-trend-2026",
-      "summary": "Take note.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-04T11:38:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1896,20 +1896,6 @@
       "angle": "Fashion Intelligence: 10 Best Brands like Lacoste for Preppy, Sporty Style in 2026...",
       "score": 3,
       "published": "2026-08-04T08:13:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "904507f36bfb",
-      "title": "I’ve Been Coveting Them Since February—5 Autumn Bag Trends Fashion People Are Already Wearing",
-      "link": "https://www.whowhatwear.com/fashion/luxury/autumn-bag-trends-2026",
-      "summary": "They'll be everywhere by September.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-04T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2557,6 +2543,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "65f6a0854c19",
+      "title": "Before You Buy Your Independence Day Outfit, Read This",
+      "link": "https://blog.kalkifashion.com/before-you-buy-your-independence-day-outfit-read-this/",
+      "summary": "Style, colour, print, accessories and your combinations of Independence Day outfits make an impact and allow you to enjoy proud moments in style. The theme or the dress code is usually centered around the tri-colour and aligns with the national day celebration and the freedom movement. However, the choices might vary d",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Before You Buy Your Independence Day Outfit, Read This...",
+      "score": 3,
+      "published": "2026-08-06T08:43:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ec741335f4db",
       "title": "Janhvi Kapoor & Ishaan Khatter Reunite as The KALKI Bride & Groom: A New Chapter in Wedding Fashion",
       "link": "https://blog.kalkifashion.com/janhvi-kapoor-ishaan-khatter-reunite-as-kalki-bride-groom-a-new-chapter/",
@@ -2722,20 +2722,6 @@
       "angle": "Bridal Edit: What Made Swasti Choose This Royal Bridal Look? — A Complete Style Guide",
       "score": 2,
       "published": "2026-06-30T10:46:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7fc9f4c6aac7",
-      "title": "Unique Ways To Rewear Your Bridal Lehenga For Different Occasions",
-      "link": "https://blog.kalkifashion.com/rewear-your-bridal-lehenga-in-stylish-new-ways/",
-      "summary": "When was the last time you picked your bridal lehenga after your wedding shenanigans got over? Probably never! Your bridal lehenga is much more than a wedding outfit. It is a symbol of your new journey, filled with emotions, cherished memories, and celebrated happiness. While this might be regular attire for others, in",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Unique Ways To Rewear Your Bridal Lehenga For Different Occasions — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-06-30T04:56:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2923,52 @@
   ],
   "trends": [
     {
-      "term": "atiq ahmed",
+      "term": "दिल्ली",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "martha reeves",
+      "term": "ceo karnataka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गुरुग्राम",
+      "term": "ಕೊಲೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mhada lottery 2026",
+      "term": "সরকার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anthropic",
+      "term": "జోస్ బట్లర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "crypto exchange binance",
+      "term": "തീരുവ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "కిసాన్ క్రెడిట్ కార్డు",
+      "term": "अतीक अहमद",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "awarapan 2",
+      "term": "न्यायिक अधिकारी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "இந்திய ரிசர்வ் வங்கி",
+      "term": "അച്ഛന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tarun tejpal",
+      "term": "விடுமுறை",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
