@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T04:24:27.671246+00:00",
+  "generated_at": "2026-08-07T06:09:13.945252+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Caro Editions Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-07T04:23:09+00:00",
+      "published": "2026-08-07T06:05:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Collina Strada Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-07T04:23:09+00:00",
+      "published": "2026-08-07T06:05:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Nicklas Skovgaard Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-07T04:23:09+00:00",
+      "published": "2026-08-07T06:05:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Masu Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-07T04:23:09+00:00",
+      "published": "2026-08-07T06:05:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Chika Kisada Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-07T04:23:09+00:00",
+      "published": "2026-08-07T06:05:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6d1f34dea3c",
+      "title": "Shopping’s Next Era: An Evening in New York City",
+      "link": "https://www.vogue.com/article/shoppings-next-era-an-evening-in-new-york-city",
+      "summary": "Vogue Business and Swap invited fashion and beauty leaders to a dinner party at the Twenty Two to discuss where the future of shopping is heading.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Shopping’s Next Era: An Evening in New York City...",
+      "score": 2,
+      "published": "2026-08-07T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ac57264a669b",
+      "title": "Cool Girls in Copenhagen Don’t Do Boring—They Do These 9 Fashion Trends Spotted at Fashion Week",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026",
+      "summary": "Bandanas, bermudas and mustard yellow.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-07T04:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6bd44e86e0b",
+      "title": "Less Perfect, More Practical: Diamonds’ New Path Forward",
+      "link": "https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward",
+      "summary": "Thanks to a confluence of threats, the diamond industry is rethinking how it markets the precious stone.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Less Perfect, More Practical: Diamonds’ New Path Forward...",
+      "score": 0,
+      "published": "2026-08-07T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -412,6 +454,20 @@
       "angle": "Fashion Intelligence: This K-Beauty Brand Has Changed My Skin for the Better...",
       "score": 2,
       "published": "2026-08-06T17:07:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3919e3e3a89",
+      "title": "The Best Hairstyles For Men With Thick Hair",
+      "link": "https://www.fashionbeans.com/article/thick-hair-styles-men/",
+      "summary": "Thick hair is one of those blessings that too often feels like a curse. Yes, as your barber (and mother) will often tell you, you’ve got a lovely head of thick locks and probably won&#8217;t go bald, but thick hair does come with its own set of hairdo dilemmas. Does it give you more or &#8230; Continue reading The Best",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Hairstyles For Men With Thick Hair...",
+      "score": 1,
+      "published": "2026-08-06T17:01:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -989,17 +1045,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9f8ec37b308f",
-      "title": "20 Backyard Wedding Dresses for the Laid-Back Bride",
-      "link": "https://www.vogue.com/article/backyard-wedding-dresses",
-      "summary": "Celebrating at home? These backyard wedding dresses embrace the bucolic setting—from designers like Danielle Frankel and Markarian.",
-      "source": "Vogue US",
+      "id": "27dfd42880c4",
+      "title": "The Best Black Tie Dress Code and Attire Guide Ever Created",
+      "link": "https://www.fashionbeans.com/article/men-black-tie-dress-code/",
+      "summary": "Of all the reasons to want to be 30 Rock&#8217;s Jack Donaghy (played brilliantly by Alec Baldwin), the most compelling comes in episode seven of season one. Put-upon comedy writer Liz Lemon (Tina Fey) is further burdened with providing jokes for a speech that she assumes is being given by Donaghy that night; when she ",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 20 Backyard Wedding Dresses for the Laid-Back Bride — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-08-06T10:00:00+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Black Tie Dress Code and Attire Guide Ever Created...",
+      "score": 2,
+      "published": "2026-08-06T09:00:33+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,15 +1115,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d001c9e0e1d9",
-      "title": "7 Chic Transitional Outfits That Are Perfect for the Weird In-Between Weather",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/pre-fall-outfit-ideas-2026",
-      "summary": "Look elegant and rich in this climate.",
+      "id": "eae46c41e4b9",
+      "title": "I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on Sale at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-shoes",
+      "summary": "Ballet flats, kitten-heel sandals, knee-high boots, loafers, low-heel pumps, and Mary Janes.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Chic Transitional Outfits That Are Perfect for the Weird In-Between ...",
+      "angle": "Fashion Intelligence: I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on S...",
       "score": 1,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1087,15 +1143,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eae46c41e4b9",
-      "title": "I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on Sale at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-shoes",
-      "summary": "Ballet flats, kitten-heel sandals, knee-high boots, loafers, low-heel pumps, and Mary Janes.",
+      "id": "d001c9e0e1d9",
+      "title": "7 Chic Transitional Outfits That Are Perfect for the Weird In-Between Weather",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/pre-fall-outfit-ideas-2026",
+      "summary": "Look elegant and rich in this climate.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on S...",
+      "angle": "Fashion Intelligence: 7 Chic Transitional Outfits That Are Perfect for the Weird In-Between ...",
       "score": 1,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1112,20 +1168,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 4,
       "published": "2026-08-06T06:58:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6d9eb777e917",
-      "title": "52 Thoughts I Had About Episode 1 of ‘The Shards’",
-      "link": "https://www.vogue.com/article/52-thoughts-i-had-about-episode-1-of-the-shards",
-      "summary": "People really don’t get named “Susan” anymore, do they...much to think about.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 52 Thoughts I Had About Episode 1 of ‘The Shards’...",
-      "score": 0,
-      "published": "2026-08-06T04:36:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1773,20 +1815,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "860c13321185",
-      "title": "Calling It: Fall's Prettiest Flat-Shoe Trend Will Be Sold Out By September",
-      "link": "https://www.whowhatwear.com/fashion/shoes/satin-flats-trend",
-      "summary": "Cool dressers love these.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-05T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "74f12ffeee91",
       "title": "Doing a Silk Press on My Thick Type 4 Hair Has Never Been Easier Thanks to Shark's New Tool",
       "link": "https://www.whowhatwear.com/beauty/hair/shark-beauty-silkipro-straightener-review",
@@ -1797,6 +1825,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Doing a Silk Press on My Thick Type 4 Hair Has Never Been Easier Thank...",
       "score": 1,
+      "published": "2026-08-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "860c13321185",
+      "title": "Calling It: Fall's Prettiest Flat-Shoe Trend Will Be Sold Out By September",
+      "link": "https://www.whowhatwear.com/fashion/shoes/satin-flats-trend",
+      "summary": "Cool dressers love these.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-08-05T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1868,20 +1910,6 @@
       "angle": "Fashion Intelligence: 9 Best Men’s High-Waisted Pants For 2026...",
       "score": 1,
       "published": "2026-08-05T06:07:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9220e58d4cd1",
-      "title": "I'm in the Mood for a Fresh Pedi—These 6 Shades Are Set to Be on Everyone's Toes in August",
-      "link": "https://www.whowhatwear.com/beauty/nails/august-pedicure-trends-2026",
-      "summary": "Sandal season is still going strong.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm in the Mood for a Fresh Pedi—These 6 Shades Are Set to Be on Every...",
-      "score": 1,
-      "published": "2026-08-05T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2092,20 +2120,6 @@
       "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
       "score": 2,
       "published": "2026-08-04T09:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "984da283e7d0",
-      "title": "21 Best Chelsea Boots For Men That Go With Everything 2026",
-      "link": "https://www.fashionbeans.com/article/best-chelsea-boots-men/",
-      "summary": "Few things in the male wardrobe are likely to link reigning monarchs and rockstars. Nonetheless, the best Chelsea boots for men have managed to attract wearers as diverse as this, a most notable achievement. Of course, it’s not as simple as just slipping on any old pair. You need to look out for the hallmarks &#8230; C",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 21 Best Chelsea Boots For Men That Go With Everything 2026...",
-      "score": 1,
-      "published": "2026-08-04T09:00:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2557,6 +2571,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "fb2d443485ce",
+      "title": "Kurta Sets for Raksha Bandhan: A Thoughtful Gift Guide for Every Type of Sister",
+      "link": "https://blog.kalkifashion.com/kurta-sets-for-raksha-bandhan-a-thoughtful-gift-guide-for-every-type-of-sister/",
+      "summary": "Some bonds are woven in laughter, some in teasing, and some in quiet moments of mutual support. Raksha Bandhan is symbolic of all these moments. It goes beyond tying the sacred thread and making heartfelt promises. There is another beautiful hidden tradition, which is choosing the best gift for your sister that speaks ",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Kurta Sets for Raksha Bandhan: A Thoughtful Gift Guide for Every Type ...",
+      "score": 1,
+      "published": "2026-08-07T04:29:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "65f6a0854c19",
       "title": "Before You Buy Your Independence Day Outfit, Read This",
       "link": "https://blog.kalkifashion.com/before-you-buy-your-independence-day-outfit-read-this/",
@@ -2722,20 +2750,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 5,
       "published": "2026-07-01T05:31:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4a39530e3155",
-      "title": "What Made Swasti Choose This Royal Bridal Look?",
-      "link": "https://blog.kalkifashion.com/what-made-swasti-choose-this-royal-bridal-look/",
-      "summary": "Every bride dreams of that one moment, the moment she slips into the lehenga she&#8217;s always imagined, catches her reflection for the first time, and quietly thinks, this is exactly how I wanted to feel. For Swasti, that moment was nothing short of magical. Elegant, radiant, and effortlessly graceful, she carried he",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: What Made Swasti Choose This Royal Bridal Look? — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-06-30T10:46:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "lic share price",
+      "term": "aditi rao hydari",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ardee industries ipo",
+      "term": "crypto exchange binance",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ghost recon wildlands",
+      "term": "abhijeet dipke national convener cjp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "one night only movie",
+      "term": "ஈரான்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मिथुन राशि",
+      "term": "ipo watch",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "leap india ipo gmp",
+      "term": "thudakkam movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పాఠశాల",
+      "term": "கட்டணம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather noida",
+      "term": "வரி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eknath shinde",
+      "term": "బ్యాంకు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "karan deol",
+      "term": "bajaj finance share",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
