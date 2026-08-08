@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T08:39:46.660395+00:00",
+  "generated_at": "2026-08-08T11:27:39.528051+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,21 +19,63 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Caro Editions Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-08T08:37:20+00:00",
+      "published": "2026-08-08T11:24:07+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "504ed334e2c0",
-      "title": "Collina Strada Copenhagen Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/collina-strada",
-      "summary": "",
+      "id": "416507cf8fdb",
+      "title": "From Mahjong to Dominoes, the Best Travel Game Sets",
+      "link": "https://www.vogue.com/article/best-travel-game-sets",
+      "summary": "Whether you're packing for a beach vacation or a European grand tour, these luxury travel game sets make downtime just as memorable as sightseeing.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Collina Strada Copenhagen Spring 2027...",
-      "score": 0,
-      "published": "2026-08-08T08:37:20+00:00",
+      "angle": "Fashion Intelligence: From Mahjong to Dominoes, the Best Travel Game Sets...",
+      "score": 1,
+      "published": "2026-08-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "812b69094b26",
+      "title": "A Shoulder to Try On: The Street Style Way to Do Power Shoulders",
+      "link": "https://www.vogue.com/article/street-style-trend-power-shoulders",
+      "summary": "Power shoulders are back, no thanks to Hulu’s recently released “The Shards.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Shoulder to Try On: The Street Style Way to Do Power Shoulders...",
+      "score": 1,
+      "published": "2026-08-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "032b5db333af",
+      "title": "After Meta's apology, govt examines platform's role in 'what is shown to whom'",
+      "link": "https://www.indiatoday.in/india/story/meta-intermediary-or-publisher-key-question-in-govt-scrutiny-of-social-media-giant-2966453-2026-08-08?utm_source=rss",
+      "summary": "After Meta's apology, govt examines platform's role in 'what is shown to whom'",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: After Meta's apology, govt examines platform's role in 'what is shown ...",
+      "score": 1,
+      "published": "2026-08-08T09:01:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8b3c7e734ec0",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-8",
+      "summary": "From Jade Thirlwall’s pop art eyes, to Rihanna’s space buns, and Hayes Warner’s blonde bombshell moment—these are the best moments in celebrity beauty this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 2,
+      "published": "2026-08-08T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -555,6 +597,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1b637939a90d",
+      "title": "5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026",
+      "link": "https://www.fashionbeans.com/article/best-low-rise-jeans-for-men/",
+      "summary": "It’s no secret that the low-rise revival has been happening for some time in women’s fashion, but people don’t talk nearly as much about low-rise jeans in the context of men’s fashion. I think that there are many reasons for this lack of attention, but—as you’ll see throughout the rest of this article—I think that &#82",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026...",
+      "score": 1,
+      "published": "2026-08-07T15:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ff9b2ee818e3",
       "title": "Is the Viral Medicube Age-R Booster Pro Skincare Device Really Worth It?",
       "link": "https://www.harpersbazaar.com/beauty/skin-care/a63010519/medicube-age-r-booster-review/",
@@ -905,6 +961,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "508e90717e11",
+      "title": "9 Best Men’s Polo Shirts You Can Comfortably Rock in 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-polo-shirt/",
+      "summary": "We all know the best men’s polo shirts are a good compromise between classy dress shirts and cozy tees. They’re often made with the same fabric as athletic wear and come in solid colors, vibrant hues, and bold patterns. They can be worn for a wide range of occasions, whether it’s in the office, at &#8230; Continue read",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: 9 Best Men’s Polo Shirts You Can Comfortably Rock in 2026...",
+      "score": 3,
+      "published": "2026-08-07T09:49:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5016f64235cf",
       "title": "5 Rising Black-Owned Beauty Brands to Know",
       "link": "https://www.vogue.com/article/4-rising-black-owned-beauty-brands-to-know",
@@ -1003,6 +1073,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "79e8f85b3454",
+      "title": "14 Best Seiko Watches For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-seiko-watches/",
+      "summary": "Seiko is one of the most prolific watch brands in the world. Its quality materials, best-in-class movements, and largely approachable prices are some of the key factors contributing to the success of Japan’s oldest watchmaker. Though my list of the best Seiko watches from its many collections barely scratches the surfa",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 14 Best Seiko Watches For Men In 2026...",
+      "score": 2,
+      "published": "2026-08-07T08:56:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0aacd768c9d4",
       "title": "Fashion’s Breakout Trend: The Cocktail Blazer Goes Mainstream",
       "link": "https://in.apparelresources.com/fashion-news/trends/fashions-breakout-trend-cocktail-blazer-goes-mainstream/",
@@ -1028,6 +1112,20 @@
       "angle": "Bridal Edit: This Fashion-Designer Bride Wore a Wedding Gown Inspired by Audrey Hepburn's Ascot Dress in My Fair Lady — A Complete Style Guide",
       "score": 5,
       "published": "2026-08-07T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "62a2a75ae3e7",
+      "title": "The Biggest Sneaker Trends Of 2026",
+      "link": "https://www.fashionbeans.com/article/mens-sneaker-trends/",
+      "summary": "As we edge cautiously towards 2021 there are some big questions on everyone’s lips: Are we about to be dragged into World War III? How can we stop the entire planet from burning to a cinder? And, much less importantly, what&#8217;s the next big thing going to be in the world of sneaker trends? Unfortunately, &#8230; Co",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-07T07:59:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1126,6 +1224,20 @@
       "angle": "Fashion Intelligence: If You Can't Get a Wicker Husband, Try a Wicker Bag...",
       "score": 2,
       "published": "2026-08-07T02:11:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4443d700394f",
+      "title": "16 Best Digital Watches for Men 2026",
+      "link": "https://www.fashionbeans.com/article/best-digital-watches-for-men/",
+      "summary": "Before smartwatches took the spotlight, there was another type of techie timepiece wrapped proudly around the wrist of the world’s fashion-forward men. Featuring stylish silhouettes and technical dials, digital watches were the modern alternative to the analog designs next-gen wearers were growing tired of. However, wh",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 16 Best Digital Watches for Men 2026...",
+      "score": 2,
+      "published": "2026-08-07T01:16:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1490,34 +1602,6 @@
       "angle": "Fashion Intelligence: Ariana Grande Needs a Break. We Should Let Her Take It....",
       "score": 0,
       "published": "2026-08-06T17:00:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25c76de33667",
-      "title": "Inside Patti and Joanne Pao's Hard-to-Beat Chanel Collection",
-      "link": "https://www.vogue.com/article/patti-joanne-pao-chanel-collectors",
-      "summary": "Patti and Joanne Pao have been collecting Chanel pieces since the 1980s—including everything from rare Lagerfeld-era bags to brand-new Blazy pieces.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-08-06T16:55:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2e96b032d73c",
-      "title": "Everything to Know About the 2027 Met Gala: Theme, Hosts and More",
-      "link": "https://www.vogue.com/article/everything-to-know-met-gala",
-      "summary": "Following the Met Gala on May 3, “John Galliano: Horizons” will be on view at The Metropolitan Museum of Art from May 9, 2027 through January 9, 2028.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Everything to Know About the 2027 Met Gala: Theme, Hosts and More...",
-      "score": 0,
-      "published": "2026-08-06T16:45:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1955,48 +2039,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a3ba7980eb71",
-      "title": "The Best Shirt and Tie Combinations – Color Combos Guide",
-      "link": "https://www.fashionbeans.com/article/mens-shirt-tie-combinations-guide/",
-      "summary": "The paradox of choice (also known as choice overload) is the phenomenon by which having too many options exhausts us, makes us unhappy, and generally leads us to make terrible decisions (if any decision at all). Nowhere is this more evident in the male wardrobe than when it comes to shirt and tie style combinations. &#",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Shirt and Tie Combinations – Color Combos Guide...",
-      "score": 1,
-      "published": "2026-08-06T08:56:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ccefb26f614d",
-      "title": "7 Best Mules For Men: Stylish, Comfy Footwear in 2026",
-      "link": "https://www.fashionbeans.com/article/best-mules-for-men/",
-      "summary": "You hate tying conventional sneakers, and loafers are too stuffy to deal with on occasion. So what’s the alternative? Well, that’s where mules come in. They’re the upscale alternative to kicks and a polished downgrade of dress shoes. They’re versatile slippers that come in various styles and builds. Depending on how th",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 7 Best Mules For Men: Stylish, Comfy Footwear in 2026...",
-      "score": 4,
-      "published": "2026-08-06T08:06:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "342a18638d3f",
-      "title": "The Best Loafers Guide You’ll Ever Read",
-      "link": "https://www.fashionbeans.com/article/guide-to-mens-loafers/",
-      "summary": "A country house shoe for the landed gentry, or a Norwegian farmer’s favoured style of footwear? Whatever you consider to be the true origins of the contemporary loafer, what’s indisputable is this timeless silhouette’s skilful blend of comfort and flair. Unlike the holy footwear trinity of brogues, Derbies and Oxfords ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Loafers Guide You’ll Ever Read...",
-      "score": 2,
-      "published": "2026-08-06T08:00:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dfea34221e29",
       "title": "With Dresses and Jeans, Alexa Keeps Coming Back to This French-Girl Shoe Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/soft-ballet-flats-french-outfit-trend-alexa-chung-2026",
@@ -2081,20 +2123,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f8a80ed62216",
-      "title": "The Best Sneaker Brands You’ve Never Heard Of",
-      "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
-      "summary": "Wherever you are right now, take a quick look around at people’s footwear. What brands are they wearing? Chances are, the results of your visual sneaker survey will look a little something like this: Adidas, Nike, Converse, New Balance, Nike, maybe a bit of Reebok if you’re lucky, Adidas, Nike, Nike. No matter how clas",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
-      "score": 2,
-      "published": "2026-08-06T06:45:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d2c0eb10bb3f",
       "title": "Bella Hadid Brings the Heat to ALO’s Pre-Fall 2026 Campaign",
       "link": "https://www.fashiongonerogue.com/story/bella-hadid-alo-pre-fall-2026-campaign/",
@@ -2106,20 +2134,6 @@
       "angle": "Fashion Intelligence: Bella Hadid Brings the Heat to ALO’s Pre-Fall 2026 Campaign...",
       "score": 2,
       "published": "2026-08-06T02:12:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bb8df82861fc",
-      "title": "21 Best Chains for Men 2026",
-      "link": "https://www.fashionbeans.com/article/best-chain-necklaces-men/",
-      "summary": "Unless you raided your dear mother’s jewellery box when you were younger, traveled around South East Asia on your gap year like Leonardo DiCaprio in The Beach, or explored the best chains for men, chances are you&#8217;ve never considered adorning your neck with such an accessory. But with an ever-increasing roll call ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 21 Best Chains for Men 2026...",
-      "score": 2,
-      "published": "2026-08-06T02:00:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2865,6 +2879,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "006373f8248e",
+      "title": "7 Wedding Accessory Trends That Will Be Everywhere in 2027",
+      "link": "https://www.azafashions.com/blog/wedding-accessory-trends/?utm_source=rss&utm_medium=rss&utm_campaign=wedding-accessory-trends",
+      "summary": "Weddings are getting louder in the details. The outfit sets the stage, but this season, it's the accessories doing the talking. Here's what's about to be everywhere. From sculptural mini bags and waist-cinching belts to stacked anklets and barely-there veils,&#8230; The post 7 Wedding Accessory Trends That Will Be Ever",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: 7 Wedding Accessory Trends That Will Be Everywhere in 2027 — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-08-07T03:11:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0e64cef3d99b",
       "title": "Gen Z’s Favourite Statement Jewellery Trends of the Season",
       "link": "https://www.azafashions.com/blog/gen-z-jewellery-trends/?utm_source=rss&utm_medium=rss&utm_campaign=gen-z-jewellery-trends",
@@ -2907,6 +2935,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "098cae667a43",
+      "title": "What to Wear on a Yacht Holiday This Summer",
+      "link": "https://www.azafashions.com/blog/what-to-wear-on-a-yacht-holiday/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-on-a-yacht-holiday",
+      "summary": "There's something about the combination of open water, salty air, and golden-hour light that demands a wardrobe to match. Yacht dressing occupies a unique space in fashion—somewhere between holiday ease&#8230; The post What to Wear on a Yacht Holiday This Summer appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-08-05T09:08:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "37cc309e2c9b",
       "title": "If You’re Buying One Floral Lehenga This Season, Make It Khushi Kapoor-Inspired",
       "link": "https://www.azafashions.com/blog/khushi-kapoor-inspired-floral-lehengas/?utm_source=rss&utm_medium=rss&utm_campaign=khushi-kapoor-inspired-floral-lehengas",
@@ -2933,84 +2975,56 @@
       "score": 1,
       "published": "2026-08-04T11:58:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "2ee0df85f285",
-      "title": "Onam in Australia Just Hits Different When You Dress Like This",
-      "link": "https://www.azafashions.com/blog/onam-in-australia-just-hits-different/?utm_source=rss&utm_medium=rss&utm_campaign=onam-in-australia-just-hits-different",
-      "summary": "Celebrating Onam in Sydney's Parramatta Park, a Melbourne community hall, or a Brisbane backyard changes the setting — not the feeling. There's still the same rush of flower rangoli going&#8230; The post Onam in Australia Just Hits Different When You Dress Like This appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Onam in Australia Just Hits Different When You Dress Like This...",
-      "score": 1,
-      "published": "2026-08-04T10:17:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5b36d92b3619",
-      "title": "Wedding Stories by Aza Is Your Ultimate Shaadi Season Edit",
-      "link": "https://www.azafashions.com/blog/wedding-stories-by-aza/?utm_source=rss&utm_medium=rss&utm_campaign=wedding-stories-by-aza",
-      "summary": "The modern Indian wedding isn't one event—it's a season. And dressing for it requires a wardrobe as layered, emotional, and considered as the celebrations themselves. Wedding Stories by Aza understands&#8230; The post Wedding Stories by Aza Is Your Ultimate Shaadi Season Edit appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Wedding Stories by Aza Is Your Ultimate Shaadi Season Edit — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-08-03T10:56:24+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "अनिल अग्रवाल",
+      "term": "राशिद खान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ભારત",
+      "term": "messi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ప్రభాస్",
+      "term": "ബസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wing commander",
+      "term": "கரூர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery sambad",
+      "term": "मल्टीबैगर स्टॉक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विंग कमांडर",
+      "term": "बीबीसी हिन्दी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bombay high court",
+      "term": "വിസ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बाढ़",
+      "term": "शाकिब अल हसन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஜே சி டி பிரபாகர்",
+      "term": "தேர்தல் தொகுதி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "crypto exchange binance",
+      "term": "వైద్యుడు",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
