@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T03:22:17.446854+00:00",
+  "generated_at": "2026-08-08T05:42:17.034090+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 188,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Caro Editions Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-08T03:17:09+00:00",
+      "published": "2026-08-08T05:39:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,21 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Collina Strada Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-08T03:17:09+00:00",
+      "published": "2026-08-08T05:39:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98710a614a5a",
+      "title": "Lo Bosworth Is a \"Firm Believer\" That Drugstore Beauty Products Can Outperform Luxury Ones—Her 7 Top Picks",
+      "link": "https://www.whowhatwear.com/beauty/lo-bosworth-drugstore-beauty-favorites",
+      "summary": "From her go-to moisturizer to an iconic mascara and beyond.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Lo Bosworth Is a \"Firm Believer\" That Drugstore Beauty Products Can Ou...",
+      "score": 2,
+      "published": "2026-08-08T04:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -891,20 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "46d1a1ca3edc",
-      "title": "Suddenly, All the Coolest Fashion People Are Wearing These 2 Specific Swimwear Colors",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/chic-purple-turquoise-swimwear-summer-2026",
-      "summary": "Shop our favorite styles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8acb570dc54a",
       "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
@@ -915,6 +915,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
       "score": 1,
+      "published": "2026-08-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "46d1a1ca3edc",
+      "title": "Suddenly, All the Coolest Fashion People Are Wearing These 2 Specific Swimwear Colors",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/chic-purple-turquoise-swimwear-summer-2026",
+      "summary": "Shop our favorite styles.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1857,16 +1871,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9894818a3e37",
-      "title": "Fashion People—These Early Fall Zara Items Will Become Stars in Your Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-pre-fall-2026",
-      "summary": "Hello, stylish things.",
+      "id": "d001c9e0e1d9",
+      "title": "7 Chic Transitional Outfits That Are Perfect for the Weird In-Between Weather",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/pre-fall-outfit-ideas-2026",
+      "summary": "Look elegant and rich in this climate.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Fashion People—These Early Fall Zara Items Will Become Stars in Your W...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Chic Transitional Outfits That Are Perfect for the Weird In-Between ...",
       "score": 1,
+      "published": "2026-08-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "34d3160afeef",
+      "title": "ICYMI, This Controversial Jewellery Trend Is Back—Here's How to Wear It in 2026",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/toe-ring-fashion-trend-2026",
+      "summary": "If you don't like feet, you won't like this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1880,20 +1908,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on S...",
-      "score": 1,
-      "published": "2026-08-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d001c9e0e1d9",
-      "title": "7 Chic Transitional Outfits That Are Perfect for the Weird In-Between Weather",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/pre-fall-outfit-ideas-2026",
-      "summary": "Look elegant and rich in this climate.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Chic Transitional Outfits That Are Perfect for the Weird In-Between ...",
       "score": 1,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1913,16 +1927,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "34d3160afeef",
-      "title": "ICYMI, This Controversial Jewellery Trend Is Back—Here's How to Wear It in 2026",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/toe-ring-fashion-trend-2026",
-      "summary": "If you don't like feet, you won't like this.",
+      "id": "9894818a3e37",
+      "title": "Fashion People—These Early Fall Zara Items Will Become Stars in Your Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-pre-fall-2026",
+      "summary": "Hello, stylish things.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Fashion People—These Early Fall Zara Items Will Become Stars in Your W...",
+      "score": 1,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2095,20 +2109,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "18f65c7b9031",
-      "title": "Ballet Flats and Two Hermès Bags? Kate Moss Is Doing Over-50 Style Exactly Right",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hermes-bags-black-dress-ballet-flats-outfit-kate-moss-2026",
-      "summary": "Travelling in style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ballet Flats and Two Hermès Bags? Kate Moss Is Doing Over-50 Style Exa...",
-      "score": 1,
-      "published": "2026-08-05T16:02:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ca91b081ff65",
       "title": "The Complete Guide To Panama Hats",
       "link": "https://www.fashionbeans.com/article/panama-hat-guide/",
@@ -2120,20 +2120,6 @@
       "angle": "Fashion Intelligence: The Complete Guide To Panama Hats...",
       "score": 2,
       "published": "2026-08-05T15:06:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "96ec0d5927c3",
-      "title": "I Clock 10K Steps a Day in NYC—These Adidas Sneakers Pass My Comfort and Style Test",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nyc-editor-approved-adidas-sneakers",
-      "summary": "Supportive shoes that won't ruin a 'fit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Clock 10K Steps a Day in NYC—These Adidas Sneakers Pass My Comfort a...",
-      "score": 1,
-      "published": "2026-08-05T15:02:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2879,6 +2865,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9e0324e28c8e",
+      "title": "8 Color Combos to Make Your Gold Bridal Outfits Look Expensive",
+      "link": "https://www.azafashions.com/blog/gold-outfit-color-combinations/?utm_source=rss&utm_medium=rss&utm_campaign=gold-outfit-color-combinations",
+      "summary": "Gold is not really a colour. It is a decision. It is the shade that turns up to every occasion, weddings, festivals, red carpets, a Tuesday that suddenly needs elevating. And&#8230; The post 8 Color Combos to Make Your Gold Bridal Outfits Look Expensive appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 8 Color Combos to Make Your Gold Bridal Outfits Look Expensive — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-08-08T04:33:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5099f85cde6a",
       "title": "Ananya Panday Paithani Saree Turns Heads at Filmfare Awards Marathi 2026",
       "link": "https://www.azafashions.com/blog/ananya-panday-paithani-saree/?utm_source=rss&utm_medium=rss&utm_campaign=ananya-panday-paithani-saree",
@@ -3003,70 +3003,56 @@
       "score": 3,
       "published": "2026-08-03T10:56:24+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "6a5c6609092b",
-      "title": "Party Heels That Bring the Drama, Not the Discomfort",
-      "link": "https://www.azafashions.com/blog/party-heels-that-bring-the-drama/?utm_source=rss&utm_medium=rss&utm_campaign=party-heels-that-bring-the-drama",
-      "summary": "There's a specific kind of confidence that arrives the moment you slip on the right pair of heels. The outfit that was \"almost there\" suddenly becomes exactly right. Party heels&#8230; The post Party Heels That Bring the Drama, Not the Discomfort appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Party Heels That Bring the Drama, Not the Discomfort...",
-      "score": 1,
-      "published": "2026-08-01T22:30:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
+    {
+      "term": "artificial intelligence",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "చైనా",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "rishabh pant",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "सलमान खान",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ராசி பலன்",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "aoc",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
     {
       "term": "రైతు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
+      "term": "lpg",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ലൈസന്സ്",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "joão cancelo",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "shubman gill",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "xiaomi redmi note 17 5g",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "tom clancy's ghost recon wildlands",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "columbus crew vs c.f. pachuca standings",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ಉಡುಪಿ",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "david fincher",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "mpsos result",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "toxic trailer release date",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
