@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T05:46:41.485226+00:00",
+  "generated_at": "2026-08-09T08:41:27.623266+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-09T05:45:43+00:00",
+      "published": "2026-08-09T08:37:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "da851eca6014",
+      "title": "Vittoria Ceretti on Italian Beauty, Country Music, and the One Wellness Ritual She Swears By",
+      "link": "https://www.whowhatwear.com/beauty/makeup/vittoria-ceretti-beauty-interview",
+      "summary": "\"I've really learned from my roots.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Vittoria Ceretti on Italian Beauty, Country Music, and the One Wellnes...",
+      "score": 2,
+      "published": "2026-08-09T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb2a04913095",
+      "title": "This Affordable, French-Inspired Style Tweak Makes Any Outfit Instantly Chicer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-elsa-hosk-bandana-summer-accessory-trend-2026",
+      "summary": "If its good enough for the It girls.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Affordable, French-Inspired Style Tweak Makes Any Outfit Instantl...",
+      "score": 2,
+      "published": "2026-08-09T07:40:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b16fa62ef413",
+      "title": "Katie Holmes’s Best Hamptons Accessories? An It-Bag and an Artist Boyfriend",
+      "link": "https://www.vogue.com/article/katie-holmes-guild-hall-gala-jason-bard-yarmosky",
+      "summary": "Stepping out for Guild Hall’s Summer Gala in East Hampton, Katie Holmes toted a Tory Burch on one arm and Jason Bard Yarmosky on the other.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Katie Holmes’s Best Hamptons Accessories? An It-Bag and an Artist Boyf...",
+      "score": 0,
+      "published": "2026-08-09T07:31:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "22c0e6bfbde3",
+      "title": "My Chic Mom Gave Me a $275 Budget—I Sent Her These 3 Affordable Summer Outfit Ideas From Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/affordable-nordstrom-outfit-ideas-summer-2026",
+      "summary": "And rich-looking.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Chic Mom Gave Me a $275 Budget—I Sent Her These 3 Affordable Summer...",
+      "score": 1,
+      "published": "2026-08-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0093be0e0e6e",
+      "title": "CM Seat Becho Yojna: Jharkhand students use satire to show discontent at protest",
+      "link": "https://www.indiatoday.in/india/story/jharkhand-students-satire-protest-jpsc-jssc-exam-reforms-cancellation-probe-ptag-2966925-2026-08-09?utm_source=rss",
+      "summary": "CM Seat Becho Yojna: Jharkhand students use satire to show discontent at protest",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: CM Seat Becho Yojna: Jharkhand students use satire to show discontent ...",
+      "score": 1,
+      "published": "2026-08-09T06:35:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19296644e61a",
+      "title": "Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then Like This, This and This",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-to-autumn-outfits-with-jeans-2026",
+      "summary": "Your guide to transitional denim.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then L...",
+      "score": 1,
+      "published": "2026-08-09T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -191,6 +275,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6f630bc65e14",
+      "title": "How To Wear High-Waisted Trousers Like A Mid-Century Master",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-high-waisted-trousers/",
+      "summary": "High-waisted trousers are a trend we don’t expect every man to be instantly on board with. Common sense dictates that anything which involves playing with the body’s natural proportions provides fertile ground for weirdness. No need to fret, though. This look has roots in the 1950s, a decade so stylish it&#8217;s curre",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear High-Waisted Trousers Like A Mid-Century Master...",
+      "score": 2,
+      "published": "2026-08-08T10:42:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "416507cf8fdb",
       "title": "From Mahjong to Dominoes, the Best Travel Game Sets",
       "link": "https://www.vogue.com/article/best-travel-game-sets",
@@ -216,6 +314,20 @@
       "angle": "Fashion Intelligence: A Shoulder to Try On: The Street Style Way to Do Power Shoulders...",
       "score": 1,
       "published": "2026-08-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a2e7fd28277",
+      "title": "6 Best Chino Colors: Must Have Versatile Styles 2026",
+      "link": "https://www.fashionbeans.com/article/chino-colours-every-man-should-own/",
+      "summary": "Chinos. Hardly the life and soul of a man’s wardrobe, but integral nonetheless. But then, isn’t it precisely the former military staple’s inherent boringness that makes them so great anyway? Sure, a pair of slashed-knee skinny jeans may give a little more edge to your image and let everyone know in no uncertain terms t",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
+      "score": 1,
+      "published": "2026-08-08T09:00:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1311,20 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ea4f86a07ac7",
-      "title": "I Just Got Back From the South of France—These 5 Accessories Made Every Summer Outfit Look More Expensive",
-      "link": "https://www.whowhatwear.com/fashion/summer/affordable-summer-accessories",
-      "summary": "People there were wearing these things *everywhere.*",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Got Back From the South of France—These 5 Accessories Made Ever...",
-      "score": 2,
-      "published": "2026-08-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "46d1a1ca3edc",
       "title": "Suddenly, All the Coolest Fashion People Are Wearing These 2 Specific Swimwear Colors",
       "link": "https://www.whowhatwear.com/fashion/swimwear/chic-purple-turquoise-swimwear-summer-2026",
@@ -1335,6 +1433,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-08-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ea4f86a07ac7",
+      "title": "I Just Got Back From the South of France—These 5 Accessories Made Every Summer Outfit Look More Expensive",
+      "link": "https://www.whowhatwear.com/fashion/summer/affordable-summer-accessories",
+      "summary": "People there were wearing these things *everywhere.*",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Got Back From the South of France—These 5 Accessories Made Ever...",
+      "score": 2,
       "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1630,20 +1742,6 @@
       "angle": "Fashion Intelligence: Foundation Is Seeking Beauty PR Interns & Influencer Marketing Interns...",
       "score": 1,
       "published": "2026-08-06T18:28:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86d0e7dcb4ba",
-      "title": "In Tony, Costume Designer Chloe Karmin Hints at What Would Become Anthony Bourdain’s Signature Style",
-      "link": "https://www.vogue.com/article/anthony-bourdain-movie-costumes-style",
-      "summary": "Interview with the costume designer of TONY about Anthony Bourdain's style",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: In Tony, Costume Designer Chloe Karmin Hints at What Would Become Anth...",
-      "score": 2,
-      "published": "2026-08-06T18:26:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2036,90 +2134,6 @@
       "angle": "Fashion Intelligence: 10 Best White Sneakers for Men of Every Budget in 2026...",
       "score": 2,
       "published": "2026-08-06T10:18:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "16b3ed624ec2",
-      "title": "What to Wear With Jeans – Denim Color Guide",
-      "link": "https://www.fashionbeans.com/article/what-to-wear-with-denim/",
-      "summary": "Denim: so easy to put on, and yet, so easy to get wrong. Unlike corduroy and velvet, which appear difficult (and indeed are), denim seems simple enough on the surface, but can be perilous to a man’s sartorial reputation. Take poor Justin Timberlake, for example, who still hasn’t lived down that double denim disaster so",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear With Jeans – Denim Color Guide...",
-      "score": 1,
-      "published": "2026-08-06T10:12:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "78160d5fc2f2",
-      "title": "Brands Jacob Elordi Actually Wears in 2025 (And How to Copy His Looks)",
-      "link": "https://www.fashionbeans.com/article/jacob-elordi-brands-style-2025/",
-      "summary": "Jacob Elordi has become men’s fashion’s favourite reference point almost by accident. After Priscilla, Saltburn, Euphoria and a front-row Bottega Veneta ambassadorship, he’s stepped into a rare space — the modern leading man whose off-duty outfits inspire as much interest as his on-screen roles. What makes his style so",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Brands Jacob Elordi Actually Wears in 2025 (And How to Copy His Looks)...",
-      "score": 5,
-      "published": "2026-08-06T09:58:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c121a9610f5c",
-      "title": "7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026",
-      "link": "https://www.fashionbeans.com/article/best-5-pocket-pants/",
-      "summary": "There are some items that should be present in every guy’s wardrobe—whether you’re a country bumpkin or a suit-obsessed city dweller. And when it comes to pants, the five-pocket style is one of the most versatile lower-half options you can own. A reliable yet seriously stylish staple, the best 5 pocket pants will be yo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026...",
-      "score": 1,
-      "published": "2026-08-06T09:04:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dfea34221e29",
-      "title": "With Dresses and Jeans, Alexa Keeps Coming Back to This French-Girl Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/soft-ballet-flats-french-outfit-trend-alexa-chung-2026",
-      "summary": "Chic every time.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-06T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9894818a3e37",
-      "title": "Fashion People—These Early Fall Zara Items Will Become Stars in Your Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-pre-fall-2026",
-      "summary": "Hello, stylish things.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Fashion People—These Early Fall Zara Items Will Become Stars in Your W...",
-      "score": 1,
-      "published": "2026-08-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eae46c41e4b9",
-      "title": "I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on Sale at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-shoes",
-      "summary": "Ballet flats, kitten-heel sandals, knee-high boots, loafers, low-heel pumps, and Mary Janes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on S...",
-      "score": 1,
-      "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "धर्मेंद्र प्रधान",
+      "term": "अमेरिकेचे उपराष्ट्राध्यक्ष",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ब्रेट ली",
+      "term": "lottery sambad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "xiaomi redmi note 17 5g",
+      "term": "बचत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "delhi police",
+      "term": "गोविंदा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "st kitts & nevis patriots vs trinbago knight riders standings",
+      "term": "राजस्थान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "শনি গ্রহ",
+      "term": "कुआँ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ప్రభుత్వం",
+      "term": "dharmendra pradhan neet resignation",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तारक मेहता",
+      "term": "महेंद्र सिंह धोनी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारतीय किसान",
+      "term": "மதுரை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bangladesh cricket",
+      "term": "वादळ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
