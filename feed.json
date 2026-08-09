@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T08:41:27.623266+00:00",
+  "generated_at": "2026-08-09T11:28:11.838280+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 185,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-09T08:37:06+00:00",
+      "published": "2026-08-09T11:24:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fec230bd8f78",
+      "title": "Are Oscar Contenders Avoiding the Venice Film Festival?",
+      "link": "https://www.vogue.com/article/are-oscar-contenders-avoiding-the-venice-film-festival",
+      "summary": "A string of buzzy releases that were rumored to be heading to the Lido now won’t be. Here’s why.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Are Oscar Contenders Avoiding the Venice Film Festival?...",
+      "score": 0,
+      "published": "2026-08-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bb5aab4ca8f8",
+      "title": "What to Wear to the U.S. Open 2025: 9 Winning Outfit Ideas",
+      "link": "https://www.vogue.com/article/what-to-wear-to-the-us-open",
+      "summary": "Shop Vogue’s guide to the best tennis sweaters, dresses, sneakers, and accessories to ace your U.S. Open style.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear to the U.S. Open 2025: 9 Winning Outfit Ideas...",
+      "score": 4,
+      "published": "2026-08-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7cb57e56789f",
+      "title": "Months after Ajit Pawar's death, aircraft skids off Baramati runway; pilot safe",
+      "link": "https://www.indiatoday.in/india/story/trainer-aircraft-crashes-on-airstrip-in-baramati-pilot-safe-2nd-such-incident-after-ajit-pawars-plane-crash-2967036-2026-08-09?utm_source=rss",
+      "summary": "Months after Ajit Pawar's death, aircraft skids off Baramati runway; pilot safe",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 2,
+      "published": "2026-08-09T08:45:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1577,34 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec27a9ba54f7",
-      "title": "Menswear Designer Frederik Berner Kühl Wins Denmark’s Largest Fashion Prize",
-      "link": "https://www.vogue.com/article/menswear-designer-frederik-berner-kuhl-wins-denmarks-largest-fashion-prize",
-      "summary": "The $46,000 prize will help take the brand to the next level at a time when menswear is dominating the fashion conversation.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Menswear Designer Frederik Berner Kühl Wins Denmark’s Largest Fashion ...",
-      "score": 5,
-      "published": "2026-08-06T21:10:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cc126ce14a96",
-      "title": "The Best Street Style Photos From the Spring 2027 Show in Copenhagen",
-      "link": "https://www.vogue.com/slideshow/copenhagen-fashion-week-street-style-spring-2027",
-      "summary": "Acielle Tanbetova is on the ground in Copenhagen photographing the best dressed guests at the spring 2027 shows.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Street Style Photos From the Spring 2027 Show in Copenhagen...",
-      "score": 3,
-      "published": "2026-08-06T21:00:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c179c647aa8d",
       "title": "How to Channel Gigi Hadid’s Effortless Model-Off-Duty Style",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73344347/gigi-hadid-street-style-outfit-guide/",
@@ -2979,52 +2993,52 @@
   ],
   "trends": [
     {
-      "term": "अमेरिकेचे उपराष्ट्राध्यक्ष",
+      "term": "వర్షం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery sambad",
+      "term": "johor darul ta'zim vs chelsea",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बचत",
+      "term": "പോലീസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गोविंदा",
+      "term": "ಚಿನ್ನದ ಬೆಲೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राजस्थान",
+      "term": "निर्यात",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कुआँ",
+      "term": "mahesh bhatt granddaughter raha",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dharmendra pradhan neet resignation",
+      "term": "ugc net answer key 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महेंद्र सिंह धोनी",
+      "term": "our sticky love netflix",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மதுரை",
+      "term": "bhawana kanth",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वादळ",
+      "term": "प्रत्यक्ष विदेशी निवेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
