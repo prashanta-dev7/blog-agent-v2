@@ -1,25 +1,165 @@
 {
-  "generated_at": "2026-08-08T11:27:39.528051+00:00",
+  "generated_at": "2026-08-09T03:30:35.300090+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 185,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "287beb005879",
-      "title": "Caro Editions Copenhagen Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
+      "id": "c1950479a4da",
+      "title": "Iamisigo Copenhagen Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/iamisigo",
       "summary": "",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Caro Editions Copenhagen Spring 2027...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-08T11:24:07+00:00",
+      "published": "2026-08-09T03:29:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "460c0fd6d7e8",
+      "title": "If You Panic When Things Start to Sell Out, Order These 13 Highly Specific Items Right Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/popular-early-fall-2026-items",
+      "summary": "Chosen by a senior fashion editor.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: If You Panic When Things Start to Sell Out, Order These 13 Highly Spec...",
+      "score": 1,
+      "published": "2026-08-08T21:48:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bb2e3a5271e3",
+      "title": "Katie Holmes Wears a White Fforme Gown for a Summer Gala Date Night With Jason Yarmosky",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73382935/katie-holmes-jason-yarmosky-guild-hall-summer-gala-photos/",
+      "summary": "The couple made a rare red-carpet appearance in East Hampton",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Katie Holmes Wears a White Fforme Gown for a Summer Gala Date Night Wi...",
+      "score": 2,
+      "published": "2026-08-08T19:50:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "072371f04eb8",
+      "title": "Olivia Rodrigo’s Romantic-Rockstar Look Is a Night-Out Classic",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73382722/olivia-rodrigo-minidress-knee-high-boots-night-out-new-york-city-photos/",
+      "summary": "She celebrated a friend’s birthday in a minidress and knee-high boots",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Olivia Rodrigo’s Romantic-Rockstar Look Is a Night-Out Classic...",
+      "score": 1,
+      "published": "2026-08-08T18:01:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "25e2e399ccc2",
+      "title": "Victoria Beckham Pulls Out the Holiday Basics for an Effortlessly Chic Saint-Tropez Shopping Trip",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73382588/victoria-beckham-euro-summer-basics-wicker-hermes-kelly-bag-saint-tropez-shopping-trip-photos/",
+      "summary": "Her understated island look was all about the wicker Kelly bag",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 0,
+      "published": "2026-08-08T16:09:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "203a4ce55457",
+      "title": "Duchess Meghan Wears Princess Diana’s Diamond Earrings for a Rare Red-Carpet Date Night",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73382345/meghan-markle-princess-diana-earrings-rare-date-night-prince-harry/",
+      "summary": "She and Prince Harry headed to Canada for a sweet joint appearance",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Duchess Meghan Wears Princess Diana’s Diamond Earrings for a Rare Red-...",
+      "score": 1,
+      "published": "2026-08-08T14:24:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6dd2322eac3d",
+      "title": "Meghan Markle Wears Princess Diana’s Earrings for a Red Carpet Date Night With Prince Harry",
+      "link": "https://www.vogue.com/article/meghan-markle-princess-diana-earrings-prince-harry-david-foster-foundation",
+      "summary": "In matching monochromatic looks, the Duke and Duchess of Sussex enjoyed a rare, more glamorous night out together for the David Foster Foundation gala.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-08T13:37:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e63693cabe68",
+      "title": "From the Archives: How Anthony Bourdain Brought a Food Hall to New York's Waterfront",
+      "link": "https://www.vogue.com/article/anthony-bourdain-food-hall-manhattan-waterfront-new-york",
+      "summary": "“From bad-boy chef to globe-trotting CNN star, Anthony Bourdain has become a master of reinvention. Now can he bring a hyperambitious food hall to Manhattan’s waterfront?” Vogue asked in 2016.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: From the Archives: How Anthony Bourdain Brought a Food Hall to New Yor...",
+      "score": 0,
+      "published": "2026-08-08T13:26:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0380e82f9b64",
+      "title": "The 5 Copenhagen Fashion Week Street Style Trends That Are Perfect for Pre-Fall Dressing",
+      "link": "https://www.whowhatwear.com/fashion/street-style/copenhagen-fashion-week-street-style-trends-spring-summer-2027",
+      "summary": "Hint: Bermuda shorts are here to stay.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-08-08T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a6be2d2c5a14",
+      "title": "Don't Buy More Blue Jeans Until You See the Denim Color Trend That It Girls Are Wearing With Loafers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/khaki-jeans-loafers-outfit-trend-iris-law-2026",
+      "summary": "It'll be everywhere this fall.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-08T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b1daf823ae68",
+      "title": "ICYMI: Sephora Partners With Olive Young, Checking In With Century 21 & Fashion's Hottest Item Is a Knicks Cap",
+      "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-8",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ICYMI: Sephora Partners With Olive Young, Checking In With Century 21 ...",
+      "score": 1,
+      "published": "2026-08-08T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,17 +191,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "032b5db333af",
-      "title": "After Meta's apology, govt examines platform's role in 'what is shown to whom'",
-      "link": "https://www.indiatoday.in/india/story/meta-intermediary-or-publisher-key-question-in-govt-scrutiny-of-social-media-giant-2966453-2026-08-08?utm_source=rss",
-      "summary": "After Meta's apology, govt examines platform's role in 'what is shown to whom'",
-      "source": "India Today Fashion",
+      "id": "3504cb0f97df",
+      "title": "11 Best Snapbacks – Step Up Your Hat Game In 2026",
+      "link": "https://www.fashionbeans.com/article/best-snapbacks/",
+      "summary": "Whether you’re hiding a bad hair day or finishing off your favorite outfit, the trusty hat is a classic staple that deserves pride of place in any guy’s wardrobe. From fedoras to beanies, there are a plethora of headwear choices. However, when it comes to laid-back, street-ready style, there really is no better option ",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: After Meta's apology, govt examines platform's role in 'what is shown ...",
-      "score": 1,
-      "published": "2026-08-08T09:01:32+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 11 Best Snapbacks – Step Up Your Hat Game In 2026...",
+      "score": 3,
+      "published": "2026-08-08T09:00:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -79,20 +219,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e0d14db94caa",
-      "title": "New opportunities for innovation, leadership: PM launches AI initiatives at IIT Delhi",
-      "link": "https://www.indiatoday.in/india/video/prime-minister-narendra-modi-ai-initiatives-57th-iit-delhi-convocation-innovation-leadership-youth-power-2966404-2026-08-08?utm_source=rss",
-      "summary": "New opportunities for innovation, leadership: PM launches AI initiatives at IIT Delhi",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-08T07:53:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ee971d8a9735",
       "title": "Hold the Flip-Flops, Rosie Huntingdon-Whiteley Just Stepped Out in Understated Sandal Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/rosie-huntingon-whiteley-toe-ring-sandals",
@@ -107,20 +233,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3f1d30596b8",
-      "title": "How the Kemo Sabe Hat Became Fashion's Ultimate Cult Piece",
-      "link": "https://www.whowhatwear.com/fashion/kemo-sabe",
-      "summary": "Inside the brand.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How the Kemo Sabe Hat Became Fashion's Ultimate Cult Piece...",
-      "score": 2,
-      "published": "2026-08-08T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c90509f1839f",
       "title": "If You Love Timeless Clothing, This Is the Brand to Shop at Nordstrom",
       "link": "https://www.whowhatwear.com/fashion/shopping/almina-concept",
@@ -131,6 +243,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Love Timeless Clothing, This Is the Brand to Shop at Nordstrom...",
       "score": 1,
+      "published": "2026-08-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3f1d30596b8",
+      "title": "How the Kemo Sabe Hat Became Fashion's Ultimate Cult Piece",
+      "link": "https://www.whowhatwear.com/fashion/kemo-sabe",
+      "summary": "Inside the brand.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How the Kemo Sabe Hat Became Fashion's Ultimate Cult Piece...",
+      "score": 2,
       "published": "2026-08-08T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1129,20 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "46d1a1ca3edc",
-      "title": "Suddenly, All the Coolest Fashion People Are Wearing These 2 Specific Swimwear Colors",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/chic-purple-turquoise-swimwear-summer-2026",
-      "summary": "Shop our favorite styles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ea4f86a07ac7",
       "title": "I Just Got Back From the South of France—These 5 Accessories Made Every Summer Outfit Look More Expensive",
       "link": "https://www.whowhatwear.com/fashion/summer/affordable-summer-accessories",
@@ -1167,6 +1279,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
       "score": 1,
+      "published": "2026-08-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "46d1a1ca3edc",
+      "title": "Suddenly, All the Coolest Fashion People Are Wearing These 2 Specific Swimwear Colors",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/chic-purple-turquoise-swimwear-summer-2026",
+      "summary": "Shop our favorite styles.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1479,20 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8b4cb19bcc0c",
-      "title": "It’s Official: ‘Pattern Sandwiching’ Is Taking Over Interiors",
-      "link": "https://www.vogue.com/article/pattern-sandwiching-interiors-trend",
-      "summary": "Compared to full-blown color-drenching, consider pattern sandwiching a baby step.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It’s Official: ‘Pattern Sandwiching’ Is Taking Over Interiors...",
-      "score": 0,
-      "published": "2026-08-06T17:44:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ae75a882c46e",
       "title": "All of Your Questions About Wicker , the Sexy Basket Man Movie, Answered",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a73354613/wicker-movie-explained/",
@@ -1504,20 +1616,6 @@
       "angle": "Fashion Intelligence: All of Your Questions About Wicker , the Sexy Basket Man Movie, Answer...",
       "score": 0,
       "published": "2026-08-06T17:28:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "199a3045bee5",
-      "title": "What Is Blush Tailoring? A Look Into the Universal Blush Technique",
-      "link": "https://www.vogue.com/article/what-is-blush-tailoring",
-      "summary": "How do you find the right shade of pink, red, or coral to get that natural-looking flush? Here, experts break down the latest blush application taking over all our social feeds: blush tailoring.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What Is Blush Tailoring? A Look Into the Universal Blush Technique...",
-      "score": 0,
-      "published": "2026-08-06T17:24:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1689,34 +1787,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d9728d4e0213",
-      "title": "Kate Moss Proves it’s Still Chic to Overstuff Your Birkin",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73365693/kate-moss-overstuffed-hermes-birkin-formentera-spain-photos/",
-      "summary": "She carried her trusty Hermès bag while on holiday in Formentera, Spain",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Kate Moss Proves it’s Still Chic to Overstuff Your Birkin...",
-      "score": 0,
-      "published": "2026-08-06T15:33:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7711506f4cfa",
-      "title": "The 10 Best Hair Wavers Bazaar Editors Are Actually Using",
-      "link": "https://www.harpersbazaar.com/beauty/hair/g64378534/best-hair-wavers/",
-      "summary": "Wave hello to your best summer hair with these top-rated hair tools",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The 10 Best Hair Wavers Bazaar Editors Are Actually Using...",
-      "score": 0,
-      "published": "2026-08-06T15:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3350c577e1e7",
       "title": "8 Best Starter Watches For Men – Entry Level Picks For 2026",
       "link": "https://www.fashionbeans.com/article/best-starter-watches/",
@@ -1756,34 +1826,6 @@
       "angle": "Fashion Intelligence: Neptunalia: A Swimwear Brand Inspired by Sirens...",
       "score": 3,
       "published": "2026-08-06T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "74a1228b2653",
-      "title": "Kaia Gerber Is a Timeless Beauty in Her Sleek Gucci Two-Piece",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73365702/kaia-gerber-black-gucci-set-the-shards-los-angeles-red-carpet-photos/",
-      "summary": "She loves a midriff-baring set",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kaia Gerber Is a Timeless Beauty in Her Sleek Gucci Two-Piece...",
-      "score": 1,
-      "published": "2026-08-06T14:40:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c33f9bef50d",
-      "title": "A$AP Rocky Confirms Rihanna Is Back in the Studio and Working on New Music",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73365751/asap-rocky-says-rihanna-is-working-on-new-music-album-update/",
-      "summary": "“She cooking, bro”",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A$AP Rocky Confirms Rihanna Is Back in the Studio and Working on New M...",
-      "score": 0,
-      "published": "2026-08-06T14:33:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2025,20 +2067,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8b1fc056d378",
-      "title": "Casual Dress for Men – Outfits And Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/casual-dress-for-men/",
-      "summary": "It’s not difficult to look good in a suit. If you’ve got the money and an experienced tailor who knows what he or she is doing, then you can’t really fail. Simply hand over your cash, listen to their sartorial know-how, and allow them to stitch you something that’s made to flatter the contours of &#8230; Continue readi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-06T09:00:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dfea34221e29",
       "title": "With Dresses and Jeans, Alexa Keeps Coming Back to This French-Girl Shoe Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/soft-ballet-flats-french-outfit-trend-alexa-chung-2026",
@@ -2067,29 +2095,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "34d3160afeef",
-      "title": "ICYMI, This Controversial Jewellery Trend Is Back—Here's How to Wear It in 2026",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/toe-ring-fashion-trend-2026",
-      "summary": "If you don't like feet, you won't like this.",
+      "id": "b57b986a6da5",
+      "title": "It's the Summer of Sports—Here's How Fashion People Are Styling Everything From Jerseys to Track Shorts",
+      "link": "https://www.whowhatwear.com/fashion/sports-attire-outfits",
+      "summary": "Shop the edit.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eae46c41e4b9",
-      "title": "I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on Sale at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-shoes",
-      "summary": "Ballet flats, kitten-heel sandals, knee-high boots, loafers, low-heel pumps, and Mary Janes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on S...",
+      "angle": "Fashion Intelligence: It's the Summer of Sports—Here's How Fashion People Are Styling Everyt...",
       "score": 1,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2104,20 +2118,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 7 Chic Transitional Outfits That Are Perfect for the Weird In-Between ...",
-      "score": 1,
-      "published": "2026-08-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b57b986a6da5",
-      "title": "It's the Summer of Sports—Here's How Fashion People Are Styling Everything From Jerseys to Track Shorts",
-      "link": "https://www.whowhatwear.com/fashion/sports-attire-outfits",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: It's the Summer of Sports—Here's How Fashion People Are Styling Everyt...",
       "score": 1,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2585,20 +2585,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d86c0709b271",
-      "title": "Plantkos: A Pharmacist-Founded Skin-Care Brand Prioritizing 'Inflammation-Conscious' Formulas",
-      "link": "https://fashionista.com/2026/07/plantkos-skin-care-brand",
-      "summary": "The Florida-based brand is stocked at Bluemercury, Ulta Beauty and Amazon.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Plantkos: A Pharmacist-Founded Skin-Care Brand Prioritizing 'Inflammat...",
-      "score": 2,
-      "published": "2026-07-29T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fb2d443485ce",
       "title": "Kurta Sets for Raksha Bandhan: A Thoughtful Gift Guide for Every Type of Sister",
       "link": "https://blog.kalkifashion.com/kurta-sets-for-raksha-bandhan-a-thoughtful-gift-guide-for-every-type-of-sister/",
@@ -2837,6 +2823,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d9d5a1c9b951",
+      "title": "Know Your Designer – Episode 54: Arpita Mehta",
+      "link": "https://www.azafashions.com/blog/know-your-designer-arpita-mehta/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-arpita-mehta",
+      "summary": "There's a certain kind of designer who doesn't follow trends—they quietly create them. Arpita Mehta is exactly that. While the fashion world was busy chasing maximalism for its own sake,&#8230; The post Know Your Designer &#8211; Episode 54: Arpita Mehta appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Know Your Designer – Episode 54: Arpita Mehta...",
+      "score": 3,
+      "published": "2026-08-08T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5af25defc26",
+      "title": "Balloon Pants Are About to Be Everywhere This Season",
+      "link": "https://www.azafashions.com/blog/balloon-pants-are-about-to-be-everywhere/?utm_source=rss&utm_medium=rss&utm_campaign=balloon-pants-are-about-to-be-everywhere",
+      "summary": "Fashion has always played with volume. But right now, the conversation has shifted from simply adding fabric to sculpting it and balloon pants are leading that charge. This season's most&#8230; The post Balloon Pants Are About to Be Everywhere This Season appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-08T22:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9e0324e28c8e",
       "title": "8 Color Combos to Make Your Gold Bridal Outfits Look Expensive",
       "link": "https://www.azafashions.com/blog/gold-outfit-color-combinations/?utm_source=rss&utm_medium=rss&utm_campaign=gold-outfit-color-combinations",
@@ -2947,84 +2961,56 @@
       "score": 3,
       "published": "2026-08-05T09:08:15+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "37cc309e2c9b",
-      "title": "If You’re Buying One Floral Lehenga This Season, Make It Khushi Kapoor-Inspired",
-      "link": "https://www.azafashions.com/blog/khushi-kapoor-inspired-floral-lehengas/?utm_source=rss&utm_medium=rss&utm_campaign=khushi-kapoor-inspired-floral-lehengas",
-      "summary": "If there's one thread running through Khushi Kapoor's festive wardrobe this year, it's petals. Not the loud, obvious kind, the ones that whisper through hand embroidery, appliqué, and thread work, turning up on everything from bridesmaid&#8230; The post If You&#8217;re Buying One Floral Lehenga This Season, Make It Khu",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: If You’re Buying One Floral Lehenga This Season, Make It Khushi Kapoor-Inspired — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-08-04T19:23:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c64e7f086e1",
-      "title": "7 Iconic ’70s Blouse Styles Making a Major Comeback",
-      "link": "https://www.azafashions.com/blog/70s-blouse-styles/?utm_source=rss&utm_medium=rss&utm_campaign=70s-blouse-styles",
-      "summary": "Some decades whisper. The 1970s shouted, in paisley, in polyester, in necklines that plunged and sleeves that billowed like they had somewhere important to be. It was the decade that took&#8230; The post 7 Iconic &#8217;70s Blouse Styles Making a Major Comeback appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 7 Iconic ’70s Blouse Styles Making a Major Comeback...",
-      "score": 1,
-      "published": "2026-08-04T11:58:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "राशिद खान",
+      "term": "ಹಣ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "messi",
+      "term": "toluca vs lafc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ബസ്",
+      "term": "9 august 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கரூர்",
+      "term": "hyderabad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मल्टीबैगर स्टॉक",
+      "term": "netflix last house movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बीबीसी हिन्दी",
+      "term": "cameron norrie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വിസ",
+      "term": "inter miami vs c.f. monterrey standings",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शाकिब अल हसन",
+      "term": "quillan salkilld",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தேர்தல் தொகுதி",
+      "term": "mateusz gamrot",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వైద్యుడు",
+      "term": "amanda anisimova",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
