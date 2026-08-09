@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:30:35.300090+00:00",
+  "generated_at": "2026-08-09T05:46:41.485226+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 184,
@@ -19,7 +19,21 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-09T03:29:32+00:00",
+      "published": "2026-08-09T05:45:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "61ee5eaafe4f",
+      "title": "Autumn Is Almost Here—7 Elegant New Season Basics That Are Anything But Boring",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-transitional-basics-2026",
+      "summary": "It's time for the seasonal switchover.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-09T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -163,6 +177,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1b2bbfd1f2e1",
+      "title": "How To Wear A Cardigan – Style And Fashion Guide 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-cardigan/",
+      "summary": "Earl of Cardigan blah blah blah 19th century snooze&#8230; We’ll skip the history lesson and just tell you that cardigans are back. Thank the oversized silhouettes of designer Raf Simons, or A$AP Rocky in Gucci, or the ghost of Kurt Cobain, whose grungy, thrifted aesthetic has circled back into fashion. Despite the end",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear A Cardigan – Style And Fashion Guide 2026...",
+      "score": 4,
+      "published": "2026-08-08T11:22:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "416507cf8fdb",
       "title": "From Mahjong to Dominoes, the Best Travel Game Sets",
       "link": "https://www.vogue.com/article/best-travel-game-sets",
@@ -219,6 +247,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3aa8d81c0774",
+      "title": "13 Best Men’s Long Sleeve T-Shirts in 2026",
+      "link": "https://www.fashionbeans.com/article/best-long-sleeve-t-shirts/",
+      "summary": "You don’t need me to tell you how important the trusty t-shirt is to a guy’s sartorial success; it’s the cornerstone of every well-rounded wardrobe. But what you may need reminding about is its long-sleeved counterpart. Often overlooked when it comes to key menswear staples, the best long sleeve t-shirts manage to hit ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 13 Best Men’s Long Sleeve T-Shirts in 2026...",
+      "score": 2,
+      "published": "2026-08-08T08:00:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ee971d8a9735",
       "title": "Hold the Flip-Flops, Rosie Huntingdon-Whiteley Just Stepped Out in Understated Sandal Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/rosie-huntingon-whiteley-toe-ring-sandals",
@@ -230,6 +272,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-08T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8b01f47e9b01",
+      "title": "Summer Fashion For Big Guys: Everything You Need To Know",
+      "link": "https://www.fashionbeans.com/article/summer-fashion-for-big-guys/",
+      "summary": "Summer fashion for big guys doesn&#8217;t have to be a challenge. While the fashion industry often showcases slim figures, summer opens the door to unique styling opportunities for larger frames. “If you get the basics right – like the fits that look best on you or colors that are flattering – then everything just come",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Summer Fashion For Big Guys: Everything You Need To Know...",
+      "score": 2,
+      "published": "2026-08-08T07:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1269,20 +1325,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8acb570dc54a",
-      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
-      "summary": "Look good, stay cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
-      "score": 1,
-      "published": "2026-08-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "46d1a1ca3edc",
       "title": "Suddenly, All the Coolest Fashion People Are Wearing These 2 Specific Swimwear Colors",
       "link": "https://www.whowhatwear.com/fashion/swimwear/chic-purple-turquoise-swimwear-summer-2026",
@@ -1293,6 +1335,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-08-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8acb570dc54a",
+      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
+      "summary": "Look good, stay cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
+      "score": 1,
       "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2025,48 +2081,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8bed7b400b37",
-      "title": "How To Wear Sandals With Everything Already In Your Wardrobe",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-sandals-men/",
-      "summary": "Sandals are enjoying a renaissance of late. Time was when you might only wear them on holiday or at the gym, but these days they are fair game in the city as much as on the sand. Open-toed footwear comes in many forms, so deciding how to wear sandals really depends on your personal style and &#8230; Continue reading Ho",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Sandals With Everything Already In Your Wardrobe...",
-      "score": 2,
-      "published": "2026-08-06T09:02:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "27dfd42880c4",
-      "title": "The Best Black Tie Dress Code and Attire Guide Ever Created",
-      "link": "https://www.fashionbeans.com/article/men-black-tie-dress-code/",
-      "summary": "Of all the reasons to want to be 30 Rock&#8217;s Jack Donaghy (played brilliantly by Alec Baldwin), the most compelling comes in episode seven of season one. Put-upon comedy writer Liz Lemon (Tina Fey) is further burdened with providing jokes for a speech that she assumes is being given by Donaghy that night; when she ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Black Tie Dress Code and Attire Guide Ever Created...",
-      "score": 2,
-      "published": "2026-08-06T09:00:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3856b92612dd",
-      "title": "The Best Hair Mousse for Men for Better Styling In 2026",
-      "link": "https://www.fashionbeans.com/article/best-hair-mousse/",
-      "summary": "The best hair mousse is an unsung hero of men’s hairstyles. It’s an easy-to-apply styling product that leaves your hair touchably smooth, while still giving it shape and volume, the best is that works with will all hair types. The best hair mousse for men will help you achieve that healthy shine that doesn’t look &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Hair Mousse for Men for Better Styling In 2026...",
-      "score": 1,
-      "published": "2026-08-06T09:00:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dfea34221e29",
       "title": "With Dresses and Jeans, Alexa Keeps Coming Back to This French-Girl Shoe Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/soft-ballet-flats-french-outfit-trend-alexa-chung-2026",
@@ -2095,29 +2109,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b57b986a6da5",
-      "title": "It's the Summer of Sports—Here's How Fashion People Are Styling Everything From Jerseys to Track Shorts",
-      "link": "https://www.whowhatwear.com/fashion/sports-attire-outfits",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: It's the Summer of Sports—Here's How Fashion People Are Styling Everyt...",
-      "score": 1,
-      "published": "2026-08-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d001c9e0e1d9",
-      "title": "7 Chic Transitional Outfits That Are Perfect for the Weird In-Between Weather",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/pre-fall-outfit-ideas-2026",
-      "summary": "Look elegant and rich in this climate.",
+      "id": "eae46c41e4b9",
+      "title": "I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on Sale at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-2026-shoes",
+      "summary": "Ballet flats, kitten-heel sandals, knee-high boots, loafers, low-heel pumps, and Mary Janes.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Chic Transitional Outfits That Are Perfect for the Weird In-Between ...",
+      "angle": "Fashion Intelligence: I Never Wear High Heels Anymore, and the Shoes I Wear Instead Are on S...",
       "score": 1,
       "published": "2026-08-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2965,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "ಹಣ",
+      "term": "धर्मेंद्र प्रधान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "toluca vs lafc",
+      "term": "ब्रेट ली",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "9 august 2026",
+      "term": "xiaomi redmi note 17 5g",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hyderabad",
+      "term": "delhi police",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "netflix last house movie",
+      "term": "st kitts & nevis patriots vs trinbago knight riders standings",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cameron norrie",
+      "term": "শনি গ্রহ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "inter miami vs c.f. monterrey standings",
+      "term": "ప్రభుత్వం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "quillan salkilld",
+      "term": "तारक मेहता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mateusz gamrot",
+      "term": "भारतीय किसान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "amanda anisimova",
+      "term": "bangladesh cricket",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
