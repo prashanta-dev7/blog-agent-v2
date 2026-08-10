@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T09:19:29.419605+00:00",
+  "generated_at": "2026-08-10T11:46:48.925169+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-10T09:17:18+00:00",
+      "published": "2026-08-10T11:42:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e24f288e9055",
+      "title": "Elegant Over-50s Are Swapping Dresses and Sandals for This Trouser-and-Shoe Combo Ahead of Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-trousers-loafers-outfit-angelina-jolie-2026",
+      "summary": "I'm taking notes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Elegant Over-50s Are Swapping Dresses and Sandals for This Trouser-and...",
+      "score": 1,
+      "published": "2026-08-10T10:46:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d28f93ba8fe8",
+      "title": "Matieres Fecales: The Paris Label With a Provocative Name and a Red-carpet Résumé",
+      "link": "https://in.apparelresources.com/fashion-news/trends/matieres-fecales-paris-label-provocative-name-red-carpet-resume/",
+      "summary": "A brand name that raises eyebrows is now dressing some of the biggest names in entertainment. Matieres Fecales — French for Fecal Matter — is the Paris-based house behind Zendaya&#8217;s ethereal, feathered-wing gown at the New York premiere of The Odyssey, confirmed by her stylist Law Roach with characteristic bluntne",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Matieres Fecales: The Paris Label With a Provocative Name and a Red-ca...",
+      "score": 4,
+      "published": "2026-08-10T10:33:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1260e60227b",
+      "title": "Spandex’s Recycling Problem Has a New Fix; an All-polyethene Stretch Yarn From MIT",
+      "link": "https://in.apparelresources.com/fashion-news/trends/spandexs-recycling-problem-has-a-new-fix-an-all-polyethene-stretch-yarn-from-mit/",
+      "summary": "A newly developed yarn out of MIT could chip away at one of activewear&#8217;s most stubborn sustainability problems: fabrics that stretch well but can&#8217;t be recycled. Detailed in a July 25 study published in ACS Materials Letters, the yarn is made entirely from polyethene rather than the spandex-polyester or span",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Spandex’s Recycling Problem Has a New Fix; an All-polyethene Stretch Y...",
+      "score": 1,
+      "published": "2026-08-10T10:20:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1ef10233392",
+      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
+      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
+      "summary": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meet the Vogue & Condé Nast PhotoVogue Committee...",
+      "score": 0,
+      "published": "2026-08-10T10:10:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bd87a0a21e88",
+      "title": "The Fall 2026 Shoe Trends to Shop Now—From Kitten Heels to Slippers",
+      "link": "https://www.vogue.com/article/fall-2026-shoe-trends",
+      "summary": "From kitten heels to slippers, discover the fall 2026 shoe trends to shop now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6cc7a5a6fa48",
+      "title": "How to Style Birkenstocks for Summer & Fall",
+      "link": "https://www.vogue.com/article/how-to-wear-birkenstocks",
+      "summary": "Four outfit ideas on how to style Birkenstocks for summer and fall, featuring the Arizona sandals, Boston clogs, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Style Birkenstocks for Summer & Fall...",
+      "score": 2,
+      "published": "2026-08-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8a5bf7993a91",
+      "title": "4 Last-Minute Labor Day Weekend Getaways From New York City, for the Perfect Send-Off to Summer 2026",
+      "link": "https://www.vogue.com/article/last-minute-labor-day-weekend-getaways",
+      "summary": "From the Catskills to Nantucket, these Labor Day weekend getaways don’t require hopping on a plane.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 4 Last-Minute Labor Day Weekend Getaways From New York City, for the P...",
+      "score": 0,
+      "published": "2026-08-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf806832d182",
+      "title": "24 Designer Travel Bags for All Your 2026 Adventures",
+      "link": "https://www.vogue.com/slideshow/designer-travel-bags",
+      "summary": "Looking for the best designer travel bags? Options from Miu Miu, Loewe, The Row and more make style on the go look stylish—shop our favorites, here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 24 Designer Travel Bags for All Your 2026 Adventures...",
+      "score": 2,
+      "published": "2026-08-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "44f344f0c803",
+      "title": "Have your address, contact: LeT-linked terror group threatens Kashmiri Pandits",
+      "link": "https://www.indiatoday.in/india/story/lashkar-e-taiba-terrorist-ulc-warning-threaten-kashmiri-pandits-jammu-and-kashmir-2967531-2026-08-10?utm_source=rss",
+      "summary": "Have your address, contact: LeT-linked terror group threatens Kashmiri Pandits",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Have your address, contact: LeT-linked terror group threatens Kashmiri...",
+      "score": 1,
+      "published": "2026-08-10T09:32:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1bbb670bea73",
+      "title": "I Live in Paris—5 Things I Do and Don't Wear in the City",
+      "link": "https://www.whowhatwear.com/fashion/trends/what-not-to-wear-in-paris",
+      "summary": "Including one shoe trend that's past its prime and one I'm loving now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Live in Paris—5 Things I Do and Don't Wear in the City...",
+      "score": 2,
+      "published": "2026-08-10T09:18:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -359,6 +499,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e03e89489c41",
+      "title": "The Man Bun Guide: What Is It & How Do You Wear It?",
+      "link": "https://www.fashionbeans.com/article/man-bun-guide/",
+      "summary": "We know what you&#8217;re thinking. Man buns are bad. Terrible. A hairstyle crime that carries a minimum sentence of five years&#8217; ridicule. We can&#8217;t blame you, especially when they&#8217;re co-opted by footballers who wield about as much taste as Liberace in Poundland (hey, Andy Carroll). Don&#8217;t let naf",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Man Bun Guide: What Is It & How Do You Wear It?...",
+      "score": 2,
+      "published": "2026-08-09T11:57:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0708affb9255",
       "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
       "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
@@ -370,6 +524,20 @@
       "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
       "score": 4,
       "published": "2026-08-09T11:03:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cde1a29db844",
+      "title": "Why Everyone in Val d’Isère Is Suddenly Wearing Kappa Ski Gear",
+      "link": "https://www.fashionbeans.com/article/kappa-ski-gear-val-disere-2026/",
+      "summary": "Introduction Spend a day in Val d’Isère this winter and one thing becomes impossible to ignore. Kappa is everywhere. From first lifts to après terraces, skiers are swapping familiar luxury labels for something unexpected. This is not a nostalgia moment or a fashion stunt. Kappa’s ski gear is showing up because it perfo",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 5,
+      "published": "2026-08-09T10:47:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -426,6 +594,20 @@
       "angle": "Fashion Intelligence: What to Wear to the U.S. Open 2025: 9 Winning Outfit Ideas...",
       "score": 4,
       "published": "2026-08-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "842b3e1b65d8",
+      "title": "The Best Autumn/Winter Footwear Trends For Men 2026",
+      "link": "https://www.fashionbeans.com/article/mens-autumn-winter-footwear-trends/",
+      "summary": "The transition from summer into the colder months brings with it many unpleasant changes: prolonged darkness, frigid temperatures and a woeful lack of ice cream vans, to name a few. However, for all of autumn/winter&#8217;s glaring faults, it does boast one redeeming feature. It equips you with a bombproof excuse to tr",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-09T09:56:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -583,6 +765,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "335a12682bb7",
+      "title": "Unsurprisingly, Zendaya’s New Wedding Ring Looks Chic Even With Jeans and Ballet Flats",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-tom-holland-debut-new-wedding-rings-2026",
+      "summary": "Congrats are in order.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Unsurprisingly, Zendaya’s New Wedding Ring Looks Chic Even With Jeans and Ballet Flats — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-08-09T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9251fb5fd61c",
+      "title": "How to Dress Like Paul Newman: Timeless Lessons To Be Learned",
+      "link": "https://www.fashionbeans.com/article/paul-newman-style/",
+      "summary": "Paul Newman style is the blueprint for timeless menswear. He wasn&#8217;t just a movie star; he was a cultural icon whose wardrobe choices perfectly captured his effortless charisma. From the silver screen to candid street moments, Newman&#8217;s fashion embodied a blend of rugged masculinity and refined elegance. Whet",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: How to Dress Like Paul Newman: Timeless Lessons To Be Learned...",
+      "score": 5,
+      "published": "2026-08-09T05:10:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "61ee5eaafe4f",
       "title": "Autumn Is Almost Here—7 Elegant New Season Basics That Are Anything But Boring",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-transitional-basics-2026",
@@ -594,6 +804,20 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-09T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c26f155cd01f",
+      "title": "8 Best Underwear Brands for Men: Comfort & Support in 2026",
+      "link": "https://www.fashionbeans.com/article/best-underwear-brands-for-men/",
+      "summary": "Underwear is a lot like Pokémon. You may start off with a singular sidekick—and you’ll always have a favorite—but there are hundreds of styles out there to discover. Playing the field is the only way you can really find out what type you like the most. And to do so, you’ll need to know the &#8230; Continue reading 8 Be",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 8 Best Underwear Brands for Men: Comfort & Support in 2026...",
+      "score": 3,
+      "published": "2026-08-09T04:07:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -779,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6f630bc65e14",
-      "title": "How To Wear High-Waisted Trousers Like A Mid-Century Master",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-high-waisted-trousers/",
-      "summary": "High-waisted trousers are a trend we don’t expect every man to be instantly on board with. Common sense dictates that anything which involves playing with the body’s natural proportions provides fertile ground for weirdness. No need to fret, though. This look has roots in the 1950s, a decade so stylish it&#8217;s curre",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear High-Waisted Trousers Like A Mid-Century Master...",
-      "score": 2,
-      "published": "2026-08-08T10:42:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "416507cf8fdb",
       "title": "From Mahjong to Dominoes, the Best Travel Game Sets",
       "link": "https://www.vogue.com/article/best-travel-game-sets",
@@ -821,34 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7a2e7fd28277",
-      "title": "6 Best Chino Colors: Must Have Versatile Styles 2026",
-      "link": "https://www.fashionbeans.com/article/chino-colours-every-man-should-own/",
-      "summary": "Chinos. Hardly the life and soul of a man’s wardrobe, but integral nonetheless. But then, isn’t it precisely the former military staple’s inherent boringness that makes them so great anyway? Sure, a pair of slashed-knee skinny jeans may give a little more edge to your image and let everyone know in no uncertain terms t",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
-      "score": 1,
-      "published": "2026-08-08T09:00:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3504cb0f97df",
-      "title": "11 Best Snapbacks – Step Up Your Hat Game In 2026",
-      "link": "https://www.fashionbeans.com/article/best-snapbacks/",
-      "summary": "Whether you’re hiding a bad hair day or finishing off your favorite outfit, the trusty hat is a classic staple that deserves pride of place in any guy’s wardrobe. From fedoras to beanies, there are a plethora of headwear choices. However, when it comes to laid-back, street-ready style, there really is no better option ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 11 Best Snapbacks – Step Up Your Hat Game In 2026...",
-      "score": 3,
-      "published": "2026-08-08T09:00:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8b3c7e734ec0",
       "title": "Beauty Marks: The Best Beauty Looks of the Week",
       "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-8",
@@ -863,22 +1045,8 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3aa8d81c0774",
-      "title": "13 Best Men’s Long Sleeve T-Shirts in 2026",
-      "link": "https://www.fashionbeans.com/article/best-long-sleeve-t-shirts/",
-      "summary": "You don’t need me to tell you how important the trusty t-shirt is to a guy’s sartorial success; it’s the cornerstone of every well-rounded wardrobe. But what you may need reminding about is its long-sleeved counterpart. Often overlooked when it comes to key menswear staples, the best long sleeve t-shirts manage to hit ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 13 Best Men’s Long Sleeve T-Shirts in 2026...",
-      "score": 2,
-      "published": "2026-08-08T08:00:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ee971d8a9735",
-      "title": "Hold the Flip-Flops, Rosie Huntingdon-Whiteley Just Stepped Out in Understated Sandal Trend",
+      "title": "Hold the Flip-Flops: Rosie HW Just Stepped Out in an Understated Sandal Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/rosie-huntingon-whiteley-toe-ring-sandals",
       "summary": "Sleek, chic, effortless.",
       "source": "Who What Wear",
@@ -888,20 +1056,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-08T07:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8b01f47e9b01",
-      "title": "Summer Fashion For Big Guys: Everything You Need To Know",
-      "link": "https://www.fashionbeans.com/article/summer-fashion-for-big-guys/",
-      "summary": "Summer fashion for big guys doesn&#8217;t have to be a challenge. While the fashion industry often showcases slim figures, summer opens the door to unique styling opportunities for larger frames. “If you get the basics right – like the fits that look best on you or colors that are flattering – then everything just come",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Summer Fashion For Big Guys: Everything You Need To Know...",
-      "score": 2,
-      "published": "2026-08-08T07:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -934,9 +1088,9 @@
     },
     {
       "id": "5a1ed63488d5",
-      "title": "Not White and Black—The Two Surprising Colours That Cool Dressers Are Wearing Together Instead",
+      "title": "Not Black and White—The Two Surprising Colours Cool Dressers Are Wearing Together Instead",
       "link": "https://www.whowhatwear.com/fashion/trends/turquoise-and-red-colour-trend-2026",
-      "summary": "They're so playful.",
+      "summary": "So playful.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1367,20 +1521,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "534aaf5d9dc6",
-      "title": "Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nights, Therapy, and “Animal”",
-      "link": "https://www.vogue.com/article/now-serving-katseye",
-      "summary": "In the latest installment of Vogue’s Now Serving series, four of the group’s five current members linked up in the kitchen for an international feast.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nig...",
-      "score": 0,
-      "published": "2026-08-07T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ff9b2ee818e3",
       "title": "Is the Viral Medicube Age-R Booster Pro Skincare Device Really Worth It?",
       "link": "https://www.harpersbazaar.com/beauty/skin-care/a63010519/medicube-age-r-booster-review/",
@@ -1479,20 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0476072cc074",
-      "title": "Cooper Hoffman and Nico Parker Are a Nepo-for-Nepo Couple I can Get Behind",
-      "link": "https://www.vogue.com/article/i-want-what-they-have-cooper-hoffman-and-nico-parker",
-      "summary": "“We didn’t officially start dating until a few weeks after filming, when she came to New York to meet my mom, and I asked her to be my girlfriend,” Cooper told The Hollywood Reporter. “It was very sweet.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Cooper Hoffman and Nico Parker Are a Nepo-for-Nepo Couple I can Get Be...",
-      "score": 0,
-      "published": "2026-08-07T14:29:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dbd88f0aca52",
       "title": "Zendaya and Tom Holland Wear Their Wedding Bands in London After Marrying in Surrey This Week",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73375795/zendaya-tom-holland-wear-wedding-bands-london-after-surrey-wedding-photos/",
@@ -1518,34 +1644,6 @@
       "angle": "Fashion Intelligence: Weekly Drop Watch: Summer Fridays, Still Here, Staud and More...",
       "score": 3,
       "published": "2026-08-07T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "98441eb523c3",
-      "title": "Aperitivo Hour: A Backyard Dinner With Natasha Pickowicz",
-      "link": "https://www.vogue.com/article/aperitivo-hour-natasha-pickowicz",
-      "summary": "Chef and cookbook author Natasha Pickowicz takes us behind the scenes of her backyard dinner party.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Aperitivo Hour: A Backyard Dinner With Natasha Pickowicz...",
-      "score": 0,
-      "published": "2026-08-07T13:12:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "54b11f4c51d1",
-      "title": "The Mirror After Birth",
-      "link": "https://www.vogue.com/article/the-mirror-after-birth",
-      "summary": "In Retail Ritual, presented on the occasion of her first institutional solo exhibition at the National Gallery of Bosnia and Herzegovina during the Sarajevo Photography Festival, Carlota Guerrero transforms the luxury fitting room into a stage where motherhood, performance, consumer culture, and the female gaze converg",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: The Mirror After Birth...",
-      "score": 2,
-      "published": "2026-08-07T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1703,34 +1801,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e72b4989f8d4",
-      "title": "The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-the-hamptons",
-      "summary": "Looking for the best Airbnbs in the Hamptons? Here, 16 fabulous choices, from a fishing cottage in Montauk to a grand East Hampton estate.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation...",
-      "score": 0,
-      "published": "2026-08-07T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2da8e410e72",
-      "title": "Long, Loose and Loud: Decoding Denim’s Biggest Trend of 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/long-loose-loud-decoding-denims-biggest-trend-2026/",
-      "summary": "After years of pared-back denim, 2026 is seeing a shift towards bigger, looser proportions. Baggy, oversized and voluminous silhouettes are gaining ground, signalling a move towards more relaxed and statement-led denim. This iteration of denim favours elongated, puddle-adjacent hems, dropped or relaxed waists, and barr",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-07T09:13:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "241ae8227b09",
       "title": "Not the Lady, Not the Saddle—the New Dior Bag That Will Define Fall 2026",
       "link": "https://www.whowhatwear.com/fashion/luxury/dior-toujours-bag-trend-2026",
@@ -1745,20 +1815,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0aacd768c9d4",
-      "title": "Fashion’s Breakout Trend: The Cocktail Blazer Goes Mainstream",
-      "link": "https://in.apparelresources.com/fashion-news/trends/fashions-breakout-trend-cocktail-blazer-goes-mainstream/",
-      "summary": "At FDCI’s India Couture Week in New Delhi, the standout silhouette of 2026 was the cocktail blazer. Designers reimagined sharp tailoring as bridalwear, while its rapid trickle-down from couture runways to commercial racks and fast-fashion rails shows how quickly a red-carpet statement can become an everyday wardrobe st",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 8,
-      "published": "2026-08-07T08:09:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7729dfd96f34",
       "title": "This Fashion-Designer Bride Wore a Wedding Gown Inspired by Audrey Hepburn's Ascot Dress in My Fair Lady",
       "link": "https://www.whowhatwear.com/living/wedding/georgie-wright-and-charles-forte-wedding",
@@ -1770,20 +1826,6 @@
       "angle": "Bridal Edit: This Fashion-Designer Bride Wore a Wedding Gown Inspired by Audrey Hepburn's Ascot Dress in My Fair Lady — A Complete Style Guide",
       "score": 5,
       "published": "2026-08-07T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8acb570dc54a",
-      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
-      "summary": "Look good, stay cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
-      "score": 1,
-      "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1815,31 +1857,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ac57264a669b",
-      "title": "Cool Girls in Copenhagen Don’t Do Boring—They Do These 9 Fashion Trends Spotted at Fashion Week",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026",
-      "summary": "Bandanas, Bermudas and mustard yellow.",
+      "id": "8acb570dc54a",
+      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
+      "summary": "Look good, stay cool.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-07T04:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f11de06d3bc8",
-      "title": "If You Can't Get a Wicker Husband, Try a Wicker Bag",
-      "link": "https://www.whowhatwear.com/fashion/handbags/best-wicker-bags",
-      "summary": "Seven ways to style the trend for fall.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: If You Can't Get a Wicker Husband, Try a Wicker Bag...",
-      "score": 2,
-      "published": "2026-08-07T02:11:22+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
+      "score": 1,
+      "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "ire vs afg",
+      "term": "समाचार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "എ. ആര്. അമീന്",
+      "term": "കേരള",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कांवड़ यात्रा",
+      "term": "பயிற்சியாளர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अधिवक्ता",
+      "term": "ott release this week",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విద్యుత్తు",
+      "term": "bbc news हिन्दी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "షేర్-ఇ-పంజాబ్ టీ20 కప్",
+      "term": "ચોમાસું",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nta",
+      "term": "झारखण्ड लोक सेवा आयोग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "థ్రిల్లర్",
+      "term": "राजयोग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पप्पू यादव",
+      "term": "bond",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "monsoon session lok sabha bills",
+      "term": "ఇందిరమ్మ ఇళ్ల పథకం",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
