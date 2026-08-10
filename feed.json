@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T03:50:33.318615+00:00",
+  "generated_at": "2026-08-10T06:10:54.335505+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-10T03:49:04+00:00",
+      "published": "2026-08-10T06:05:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d35d8d7d942a",
+      "title": "5 Outfits From Zara I'm Creating With the Most Expensive-Looking New-In Buys",
+      "link": "https://www.whowhatwear.com/fashion/affordable/zara-outfit-ideas-2026",
+      "summary": "They're already in my basket.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Outfits From Zara I'm Creating With the Most Expensive-Looking New-I...",
+      "score": 1,
+      "published": "2026-08-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e2604fc431e8",
+      "title": "I Don't Own a Bottega Bag, But Wearing This Fragrance Makes Me Feel Like I Do",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/bottega-veneta-alta-perfumes",
+      "summary": "Now I smell expensive.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c05df780f212",
+      "title": "Morgane Sézalory Is Introducing a More Mature Sézane",
+      "link": "https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane",
+      "summary": "The founder and CEO defines the first era of her Parisian brand with a sense of childlike wonder. Now, she’s ready to grow up.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Morgane Sézalory Is Introducing a More Mature Sézane...",
+      "score": 1,
+      "published": "2026-08-10T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a302045486dd",
+      "title": "The Meaning of Consent in the Age of Content",
+      "link": "https://www.vogue.com/article/the-meaning-of-consent-in-the-age-of-content",
+      "summary": "Public patience for being an extra in creator content is wearing thin. As the consumer backlash over privacy and surveillance grows, brands are rewriting the rules around influencer marketing and content creation.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Meaning of Consent in the Age of Content...",
+      "score": 2,
+      "published": "2026-08-10T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -48,20 +104,6 @@
       "angle": "Fashion Intelligence: Kristen Stewart Adds a Pop of Lime Green to Her Style Streak With Her ...",
       "score": 1,
       "published": "2026-08-09T18:05:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b2abc3c2e2ed",
-      "title": "Congress sees FCRA Bill as 'anti-Christian', readies for Parliament showdown",
-      "link": "https://www.indiatoday.in/india/story/fcra-amendment-bill-congress-fears-impact-on-christian-ngos-2967344-2026-08-09?utm_source=rss",
-      "summary": "Congress sees FCRA Bill as 'anti-Christian', readies for Parliament showdown",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Congress sees FCRA Bill as 'anti-Christian', readies for Parliament sh...",
-      "score": 1,
-      "published": "2026-08-09T18:01:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -163,6 +205,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f9945cb30ccb",
+      "title": "14 Best Sling Bags For Men: Top Carriers in 2026)",
+      "link": "https://www.fashionbeans.com/article/best-sling-bags-for-men/",
+      "summary": "You know the drill; if you see a men&#8217;s accessory trend on the runway, it&#8217;s coming to every store near you. These days, the best sling bags for men are all the rage. The best sling bags for men pair form with function like no other men&#8217;s accessory (and they actually look cool). It&#8217;s time &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 14 Best Sling Bags For Men: Top Carriers in 2026)...",
+      "score": 3,
+      "published": "2026-08-09T13:29:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e4304a16085f",
       "title": "Katseye Gives Their First Performance Since Sophia Laforteza Stepped Back",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73383184/katseye-first-appearance-since-sophia-laforteza-hiatus-head-in-clouds-festival/",
@@ -247,6 +303,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7fcedc8c0e4f",
+      "title": "A Complete Guide To Spring-Summer Hat Styles",
+      "link": "https://www.fashionbeans.com/article/complete-guide-to-spring-summer-hats/",
+      "summary": "Headwear might not be the first thing you search for when summer rolls around &#8211; swim shorts, Cuban collars and sunglasses probably all come first. But, as an alternative form of sun protection – and a potentially stylish wardrobe addition – a summer hat is a fine investment for the right head. To save you &#8230;",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: A Complete Guide To Spring-Summer Hat Styles...",
+      "score": 2,
+      "published": "2026-08-09T10:02:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98c6f6ef750e",
+      "title": "The Best Men’s Selvedge Denim Jeans You Can Buy In 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-selvedge-denim-jeans/",
+      "summary": "Unless you&#8217;re a denim nerd, selvedge denim can sound more like a style buzzword than a must-have. Since we’re bombarded with different fits, washes, brands and fabric on the daily, it’d be easy for selvedge to get lost in menswear&#8217;s ever-expanding denim department. That shouldn’t be the case, however. Selve",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Men’s Selvedge Denim Jeans You Can Buy In 2026...",
+      "score": 4,
+      "published": "2026-08-09T10:00:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "fec230bd8f78",
       "title": "Are Oscar Contenders Avoiding the Venice Film Festival?",
       "link": "https://www.vogue.com/article/are-oscar-contenders-avoiding-the-venice-film-festival",
@@ -317,6 +401,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f17311d93d2e",
+      "title": "10 Best 7-Inch Inseam Shorts For Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-7-inch-inseam-shorts/",
+      "summary": "The best 7-inch inseam shorts expose just the right amount of leg to cool your crotch but cover enough to keep your modesty intact. They fall between the knee scraping 9-inch inseams and the thigh riding 5-inch inseams. The best 7-inch inseam shorts prove you’re confident enough to show off your legs, and what&#8217;s ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 10 Best 7-Inch Inseam Shorts For Men in 2026...",
+      "score": 1,
+      "published": "2026-08-09T07:42:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cb2a04913095",
       "title": "This Affordable, French-Inspired Style Tweak Makes Any Outfit Instantly Chicer",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-elsa-hosk-bandana-summer-accessory-trend-2026",
@@ -356,6 +454,34 @@
       "angle": "Fashion Intelligence: My Chic Mom Gave Me a $275 Budget—I Sent Her These 3 Affordable Summer...",
       "score": 1,
       "published": "2026-08-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be07f5ba80d2",
+      "title": "10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-baggy-jeans/",
+      "summary": "High on the list of garments we must once again reckon with, for better or worse, are baggy jeans. They’re back. They’ve been back. You know this, and you’re likely okay with this considering the fact that you clicked on a link about the 10 best men’s baggy jeans. Sure, we’re going to talk about &#8230; Continue readin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026...",
+      "score": 1,
+      "published": "2026-08-09T06:47:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f4f2e9817ff5",
+      "title": "10 Best Man Purse For Everyday Practical Travel in 2026",
+      "link": "https://www.fashionbeans.com/article/best-man-purses/",
+      "summary": "Indiana Jones had one. Joey Tribbiani (Friends) fell madly in love with his. But that didn&#8217;t stop Bradley Cooper (aka Phil from The Hangover) making fun of Alan for rocking his own version of the &#8220;best man purse.&#8221; Since then, trendsetters such as Cristiano Ronaldo, Asap Rocky, and Jacob Elordi have tu",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 10 Best Man Purse For Everyday Practical Travel in 2026...",
+      "score": 1,
+      "published": "2026-08-09T06:05:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1535,48 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5016f64235cf",
-      "title": "5 Rising Black-Owned Beauty Brands to Know",
-      "link": "https://www.vogue.com/article/4-rising-black-owned-beauty-brands-to-know",
-      "summary": "The industry’s top artists, creators, and leaders come together at the first Black Beauty Roster show for a day of education and community to advance equity within beauty.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 5 Rising Black-Owned Beauty Brands to Know...",
-      "score": 3,
-      "published": "2026-08-07T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-07T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5585436ec8a5",
-      "title": "The Dad Look: How To Dress Like A DILF",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-like-a-dilf/",
-      "summary": "As you&#8217;ve probably heard by now, your old man is trending hard this year. Ever since Balenciaga sent real dads with their real kids down the catwalk, there has been a new and unexpected fashion tribe, the DILF. For those who thought the acronym had another meaning, allow us to correct you. DILF &#8211; as &#8230;",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Dad Look: How To Dress Like A DILF...",
-      "score": 3,
-      "published": "2026-08-07T09:15:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d2da8e410e72",
       "title": "Long, Loose and Loud: Decoding Denim’s Biggest Trend of 2026",
       "link": "https://in.apparelresources.com/fashion-news/trends/long-loose-loud-decoding-denims-biggest-trend-2026/",
@@ -1591,20 +1675,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c05242e6cfff",
-      "title": "How A Man Should Dress In His 30s: Fashion and Styles 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-well-in-your-30s/",
-      "summary": "Your twenties are about discovering who you are, or working out who you want to be. But in your thirties, you can very quickly rack up more separate identities than a millennial &#8216;slashie&#8217;. Career-man-slash-husband-slash-father. Somehow you have to blend them all into one coherent wardrobe while at the same ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How A Man Should Dress In His 30s: Fashion and Styles 2026...",
-      "score": 3,
-      "published": "2026-08-07T09:00:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "241ae8227b09",
       "title": "Not the Lady, Not the Saddle—the New Dior Bag That Will Define Fall 2026",
       "link": "https://www.whowhatwear.com/fashion/luxury/dior-toujours-bag-trend-2026",
@@ -1616,20 +1686,6 @@
       "angle": "Fashion Intelligence: Not the Lady, Not the Saddle—the New Dior Bag That Will Define Fall 20...",
       "score": 1,
       "published": "2026-08-07T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "79e8f85b3454",
-      "title": "14 Best Seiko Watches For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-seiko-watches/",
-      "summary": "Seiko is one of the most prolific watch brands in the world. Its quality materials, best-in-class movements, and largely approachable prices are some of the key factors contributing to the success of Japan’s oldest watchmaker. Though my list of the best Seiko watches from its many collections barely scratches the surfa",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 14 Best Seiko Watches For Men In 2026...",
-      "score": 2,
-      "published": "2026-08-07T08:56:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1661,30 +1717,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "62a2a75ae3e7",
-      "title": "The Biggest Sneaker Trends Of 2026",
-      "link": "https://www.fashionbeans.com/article/mens-sneaker-trends/",
-      "summary": "As we edge cautiously towards 2021 there are some big questions on everyone’s lips: Are we about to be dragged into World War III? How can we stop the entire planet from burning to a cinder? And, much less importantly, what&#8217;s the next big thing going to be in the world of sneaker trends? Unfortunately, &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-07T07:59:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8acb570dc54a",
-      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
-      "summary": "Look good, stay cool.",
+      "id": "ea4f86a07ac7",
+      "title": "I Just Got Back From the South of France—These 5 Accessories Made Every Summer Outfit Look More Expensive",
+      "link": "https://www.whowhatwear.com/fashion/summer/affordable-summer-accessories",
+      "summary": "People there were wearing these things *everywhere.*",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
-      "score": 1,
+      "angle": "Fashion Intelligence: I Just Got Back From the South of France—These 5 Accessories Made Ever...",
+      "score": 2,
       "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1703,16 +1745,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ea4f86a07ac7",
-      "title": "I Just Got Back From the South of France—These 5 Accessories Made Every Summer Outfit Look More Expensive",
-      "link": "https://www.whowhatwear.com/fashion/summer/affordable-summer-accessories",
-      "summary": "People there were wearing these things *everywhere.*",
+      "id": "8acb570dc54a",
+      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
+      "summary": "Look good, stay cool.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Got Back From the South of France—These 5 Accessories Made Ever...",
-      "score": 2,
+      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
+      "score": 1,
       "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1742,20 +1784,6 @@
       "angle": "Fashion Intelligence: If You Can't Get a Wicker Husband, Try a Wicker Bag...",
       "score": 2,
       "published": "2026-08-07T02:11:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4443d700394f",
-      "title": "16 Best Digital Watches for Men 2026",
-      "link": "https://www.fashionbeans.com/article/best-digital-watches-for-men/",
-      "summary": "Before smartwatches took the spotlight, there was another type of techie timepiece wrapped proudly around the wrist of the world’s fashion-forward men. Featuring stylish silhouettes and technical dials, digital watches were the modern alternative to the analog designs next-gen wearers were growing tired of. However, wh",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 16 Best Digital Watches for Men 2026...",
-      "score": 2,
-      "published": "2026-08-07T01:16:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2011,34 +2039,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "78c8db94b353",
-      "title": "The Chicest Shoe Color Trend to Wear With White Jeans Isn't Black or White—It's This Neutral",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-jeans-tan-shoe-trend-iris-law",
-      "summary": "It's perfect for pre-fall weather.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-06T15:50:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5f2bebe1dc5b",
-      "title": "Ransom Canyon's Lizzy Greene Begged for Lauren's Messy Arc This Season",
-      "link": "https://www.whowhatwear.com/fashion/celebrity/lizzy-greene-ransom-canyon-interview-2026",
-      "summary": "\"Give me some drama!\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-06T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c9bf31d44e2a",
       "title": "Neptunalia: A Swimwear Brand Inspired by Sirens",
       "link": "https://fashionista.com/2026/08/neptunalia-swimwear-brand",
@@ -2050,20 +2050,6 @@
       "angle": "Fashion Intelligence: Neptunalia: A Swimwear Brand Inspired by Sirens...",
       "score": 3,
       "published": "2026-08-06T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f7e42a981756",
-      "title": "The Latest Zara New Arrivals Are No Joke—31 On-Trend Picks the Most Stylish People Would Love",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-new-arrivals-august-2026",
-      "summary": "Shop a range of early fall hits.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-06T13:58:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "milky mist ipo gmp",
+      "term": "supreme court",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sara tendulkar",
+      "term": "వార్త",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "karnataka bandh",
+      "term": "मुख्यमंत्री लाड़ली बहना योजना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "donald trump iran war",
+      "term": "independence day 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "har ghar tiranga",
+      "term": "content rewards",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chicago fire fc vs santos laguna standings",
+      "term": "manoramaonline",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పాము",
+      "term": "hpcl share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dhoot transmission ipo gmp",
+      "term": "tata motors share",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "result",
+      "term": "beml share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भरत सिंह",
+      "term": "jsw steel share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
