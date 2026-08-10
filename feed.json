@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:10:54.335505+00:00",
+  "generated_at": "2026-08-10T09:19:29.419605+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 182,
@@ -19,7 +19,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-10T06:05:14+00:00",
+      "published": "2026-08-10T09:17:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3c0a277e76c8",
+      "title": "Zara's Sister Brand Just Launched The Chicest Pre-Autumn Collection—18 Elegant Buys Already Moving Fast",
+      "link": "https://www.whowhatwear.com/fashion/affordable/massimo-dutti-new-in-august-2026",
+      "summary": "Capsule wardrobe heroes ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-08-10T08:54:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba2ecf1ecf65",
+      "title": "I'm Already in the Mood for Autumn—5 Expensive-Looking Outfits to Take Me Into the New Season",
+      "link": "https://www.whowhatwear.com/transitional-outfits-autumn-2026",
+      "summary": "The summer-to-autumn layering begins.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-08-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "85a929af408c",
+      "title": "AO Trend to Watch: Capri Pants Move Beyond Nostalgia to Become a Key Growth Category",
+      "link": "https://in.apparelresources.com/fashion-news/trends/ao-trend-watch-capri-pants-move-beyond-nostalgia-become-key-growth-category/",
+      "summary": "The iconic capri pants from the late 1990s and early 2000s have steadily re-entered the fashion conversation over the past several seasons with what began as a nostalgia led revival evolving into a broader movement centred around proportion, versatility, and the growing consumer appetite for alternative silhouettes. In",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-10T06:46:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -107,6 +149,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "816932fb9b54",
+      "title": "Dress Code: Thursday",
+      "link": "https://www.fashionbeans.com/article/thursday/",
+      "summary": "",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dress Code: Thursday...",
+      "score": 1,
+      "published": "2026-08-09T17:46:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0f7fb47b0744",
       "title": "The Best Dressed Stars of the Week Found Beauty in Restraint",
       "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-meghan-markle-monica-barbaro-elle-fanning",
@@ -118,6 +174,20 @@
       "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Found Beauty in Restraint...",
       "score": 2,
       "published": "2026-08-09T16:58:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "53f6846d5818",
+      "title": "Sneaker Hall Of Fame: Common Projects Achilles Low",
+      "link": "https://www.fashionbeans.com/article/common-projects-achilles-low/",
+      "summary": "The Sneaker Hall Of Fame is FashionBeans&#8217; compendium of the most iconic trainer designs of all time. From the Common Projects Achilles to the Nike Air Force One, these are the kicks that have changed the course of footwear history. The plain white sneaker is more than just a shoe rack staple, it’s a bona &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sneaker Hall Of Fame: Common Projects Achilles Low...",
+      "score": 2,
+      "published": "2026-08-09T16:00:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -373,6 +443,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "bb9e5a7981de",
+      "title": "6 Best Vegan Sneakers for Men: Cruelty-free Styling in 2026",
+      "link": "https://www.fashionbeans.com/article/best-vegan-sneakers/",
+      "summary": "I get it. You want to wear beautiful, premium, and trendy shoes but can’t stomach the idea that they might be made from animal hide and other non-sustainable materials. The practices in sourcing full-grain leather aren’t always cruelty-free, and, sadly, such methods are still mainstream. Luckily for you, the future is ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: 6 Best Vegan Sneakers for Men: Cruelty-free Styling in 2026...",
+      "score": 3,
+      "published": "2026-08-09T08:42:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9cf887472ca9",
       "title": "How To Style A Fleece Jacket – Ways To Wear in 2026",
       "link": "https://www.fashionbeans.com/article/how-to-wear-the-fleece-trend/",
@@ -510,6 +594,34 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-09T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9bea8acb6ac4",
+      "title": "10 Best Summer Cologne For Men – Fresh Scents For 2026",
+      "link": "https://www.fashionbeans.com/article/best-summer-colognes/",
+      "summary": "From smoking barbecues to freshly cut grass, the sweet smells of summer are a scent to behold. So who are you to be letting the team down? To ensure you’re in tune with the heavenly aromas sweeping the nation, you’ll need to make sure you’re wearing your very best summer cologne. You want something light, &#8230; Conti",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Summer Cologne For Men – Fresh Scents For 2026...",
+      "score": 1,
+      "published": "2026-08-09T03:00:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "762888d61a56",
+      "title": "10 Best Athletic-Fit Dress Shirts for Men 2026",
+      "link": "https://www.fashionbeans.com/article/best-athletic-fit-dress-shirts/",
+      "summary": "Fancy yourself a V-shaped fella? … Yikes. Super awkward way to kick things off. Let’s try that again, shall we? If you’re an athletic guy with a slim waist and larger-than-average chest and arm muscles, you owe it to yourself to research the best athletic-fit dress shirts. Or, at the very least, let me do &#8230; Conti",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Athletic-Fit Dress Shirts for Men 2026...",
+      "score": 1,
+      "published": "2026-08-09T01:57:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1255,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fbe360684997",
-      "title": "8 Best Cartier Colognes – Luxury Fragrances for Men in 2026",
-      "link": "https://www.fashionbeans.com/article/best-cartier-colognes/",
-      "summary": "If you want to find the best Cartier cologne, I’m here to help. I’ve always been a Cartier fanatic and decided to work my way through their robust collection of men’s colognes to find the best Cartier cologne available, and I did. After testing, I rounded up the eight best scents and reviewed them for &#8230; Continue ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 8 Best Cartier Colognes – Luxury Fragrances for Men in 2026...",
-      "score": 2,
-      "published": "2026-08-07T16:08:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "534aaf5d9dc6",
       "title": "Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nights, Therapy, and “Animal”",
       "link": "https://www.vogue.com/article/now-serving-katseye",
@@ -1280,20 +1378,6 @@
       "angle": "Fashion Intelligence: Katseye Whip Up Carbo Buldak—Plus Drinks and Dessert—and Talk Long Nig...",
       "score": 0,
       "published": "2026-08-07T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1b637939a90d",
-      "title": "5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026",
-      "link": "https://www.fashionbeans.com/article/best-low-rise-jeans-for-men/",
-      "summary": "It’s no secret that the low-rise revival has been happening for some time in women’s fashion, but people don’t talk nearly as much about low-rise jeans in the context of men’s fashion. I think that there are many reasons for this lack of attention, but—as you’ll see throughout the rest of this article—I think that &#82",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026...",
-      "score": 1,
-      "published": "2026-08-07T15:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1521,20 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4defe18984db",
-      "title": "8 Best Bucket Hats For Men To Turn Heads All 2026 Long",
-      "link": "https://www.fashionbeans.com/article/best-bucket-hats-for-men/",
-      "summary": "Forget what your dad has told you about bucket hats. Unless he’s told you that they’re awesome. In that case, he’s totally right. A must-have for every warm-weather collection, the best bucket hats for men are the coolest way to shade yourself from the sun. Better yet, the summer-ready style comes in all sorts of &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 8 Best Bucket Hats For Men To Turn Heads All 2026 Long...",
-      "score": 2,
-      "published": "2026-08-07T12:40:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7177aaef7613",
       "title": "This Fashion Nonprofit Prepares Aspiring Female Designers for Economic Success",
       "link": "https://fashionista.com/2026/08/custom-collaborative-training-institute-designer-showcase",
@@ -1647,20 +1717,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "508e90717e11",
-      "title": "9 Best Men’s Polo Shirts You Can Comfortably Rock in 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-polo-shirt/",
-      "summary": "We all know the best men’s polo shirts are a good compromise between classy dress shirts and cozy tees. They’re often made with the same fabric as athletic wear and come in solid colors, vibrant hues, and bold patterns. They can be worn for a wide range of occasions, whether it’s in the office, at &#8230; Continue read",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 9 Best Men’s Polo Shirts You Can Comfortably Rock in 2026...",
-      "score": 3,
-      "published": "2026-08-07T09:49:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d2da8e410e72",
       "title": "Long, Loose and Loud: Decoding Denim’s Biggest Trend of 2026",
       "link": "https://in.apparelresources.com/fashion-news/trends/long-loose-loud-decoding-denims-biggest-trend-2026/",
@@ -1717,16 +1773,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ea4f86a07ac7",
-      "title": "I Just Got Back From the South of France—These 5 Accessories Made Every Summer Outfit Look More Expensive",
-      "link": "https://www.whowhatwear.com/fashion/summer/affordable-summer-accessories",
-      "summary": "People there were wearing these things *everywhere.*",
+      "id": "8acb570dc54a",
+      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
+      "summary": "Look good, stay cool.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Got Back From the South of France—These 5 Accessories Made Ever...",
-      "score": 2,
+      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
+      "score": 1,
       "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1745,16 +1801,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8acb570dc54a",
-      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
-      "summary": "Look good, stay cool.",
+      "id": "ea4f86a07ac7",
+      "title": "I Just Got Back From the South of France—These 5 Accessories Made Every Summer Outfit Look More Expensive",
+      "link": "https://www.whowhatwear.com/fashion/summer/affordable-summer-accessories",
+      "summary": "People there were wearing these things *everywhere.*",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
-      "score": 1,
+      "angle": "Fashion Intelligence: I Just Got Back From the South of France—These 5 Accessories Made Ever...",
+      "score": 2,
       "published": "2026-08-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1826,20 +1882,6 @@
       "angle": "Fashion Intelligence: Brooklyn PR Is Hiring A Freelance Publicist In Los Angeles...",
       "score": 1,
       "published": "2026-08-06T20:20:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1bcaafa1e04f",
-      "title": "Inside My Stay at the #1 Resort in France, Where Celebs and ITK Fashion People Go to Unplug",
-      "link": "https://www.whowhatwear.com/living/travel/crillon-le-brave-hotel-review",
-      "summary": "The quiet South of France escape is set in a 17th-century stone village in Provence.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Inside My Stay at the #1 Resort in France, Where Celebs and ITK Fashio...",
-      "score": 1,
-      "published": "2026-08-06T20:07:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1997,34 +2039,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0e91494760b5",
-      "title": "More Than Half of My Wardrobe Is Free People—The 15 Tops, Bottoms, and Dresses That Earn Me the Most Compliments",
-      "link": "https://www.whowhatwear.com/fashion/most-complimented-free-people-tops-bottoms-and-dresses",
-      "summary": "I might have snuck a few fall wish list items in here too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: More Than Half of My Wardrobe Is Free People—The 15 Tops, Bottoms, and...",
-      "score": 1,
-      "published": "2026-08-06T17:12:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eeadafe1e102",
-      "title": "7 Bestselling Skincare Products to Check Out If You're New to KBeauty",
-      "link": "https://www.whowhatwear.com/beauty/iherb-kbeauty-august-2026-sale",
-      "summary": "From a beloved eye serum to an intriguing peel-off mask.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Bestselling Skincare Products to Check Out If You're New to KBeauty...",
-      "score": 1,
-      "published": "2026-08-06T16:27:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "92cd9ee268ea",
       "title": "Must Read: E.l.f. Beauty Reports 36% Net Sales Growth, Exemplar Luxury Group Hires Women's Fashion Director",
       "link": "https://fashionista.com/2026/08/elf-beauty-reports-36-net-sales-growth-q1-2027",
@@ -2050,20 +2064,6 @@
       "angle": "Fashion Intelligence: Neptunalia: A Swimwear Brand Inspired by Sirens...",
       "score": 3,
       "published": "2026-08-06T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "39ea804459fd",
-      "title": "Reliance Retail acquires Furrl to boost AI-driven shopping",
-      "link": "https://in.apparelresources.com/business-news/retail/reliance-retail-acquires-furrl-boost-ai-driven-shopping/",
-      "summary": "Reliance Retail Ltd. has acquired Bengaluru-based fashion discovery platform Furrl in an all-cash deal for an undisclosed amount, integrating the startup&#8217;s proprietary AI-powered styling and discovery technology into its retail ecosystem. The acquisition marks another step in Reliance Retail&#8217;s strategy to s",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Reliance Retail acquires Furrl to boost AI-driven shopping...",
-      "score": 1,
-      "published": "2026-08-06T13:28:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "supreme court",
+      "term": "ire vs afg",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వార్త",
+      "term": "എ. ആര്. അമീന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मुख्यमंत्री लाड़ली बहना योजना",
+      "term": "कांवड़ यात्रा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "independence day 2026",
+      "term": "अधिवक्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "content rewards",
+      "term": "విద్యుత్తు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "manoramaonline",
+      "term": "షేర్-ఇ-పంజాబ్ టీ20 కప్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hpcl share price",
+      "term": "nta",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata motors share",
+      "term": "థ్రిల్లర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "beml share price",
+      "term": "पप्पू यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jsw steel share price",
+      "term": "monsoon session lok sabha bills",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
