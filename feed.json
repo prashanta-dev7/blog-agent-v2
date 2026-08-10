@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T11:28:11.838280+00:00",
+  "generated_at": "2026-08-10T03:50:33.318615+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 186,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,231 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Iamisigo Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-09T11:24:18+00:00",
+      "published": "2026-08-10T03:49:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b30f6a962fb1",
+      "title": "Infanta Sofía Is the Latest Princess to Try On Queen Letizia’s Blue-and-White Summertime Dress",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73385790/infanta-sofia-borrows-queen-letizia-desigual-dress-photos/",
+      "summary": "Both the daughters have raided their mom’s closet for this one",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Infanta Sofía Is the Latest Princess to Try On Queen Letizia’s Blue-an...",
+      "score": 1,
+      "published": "2026-08-09T19:48:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9970269cdd16",
+      "title": "Kristen Stewart Adds a Pop of Lime Green to Her Style Streak With Her Latest Go-To Shoe",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73385466/kristen-stewart-wears-adidas-black-green-samba-sneakers-new-york-city-photos/",
+      "summary": "Worn everywhere from the red carpet to the streets of NYC",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Kristen Stewart Adds a Pop of Lime Green to Her Style Streak With Her ...",
+      "score": 1,
+      "published": "2026-08-09T18:05:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2abc3c2e2ed",
+      "title": "Congress sees FCRA Bill as 'anti-Christian', readies for Parliament showdown",
+      "link": "https://www.indiatoday.in/india/story/fcra-amendment-bill-congress-fears-impact-on-christian-ngos-2967344-2026-08-09?utm_source=rss",
+      "summary": "Congress sees FCRA Bill as 'anti-Christian', readies for Parliament showdown",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Congress sees FCRA Bill as 'anti-Christian', readies for Parliament sh...",
+      "score": 1,
+      "published": "2026-08-09T18:01:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f7fb47b0744",
+      "title": "The Best Dressed Stars of the Week Found Beauty in Restraint",
+      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-meghan-markle-monica-barbaro-elle-fanning",
+      "summary": "Quietly-elegant looks still turned heads on the red carpets this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Found Beauty in Restraint...",
+      "score": 2,
+      "published": "2026-08-09T16:58:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bece4ced3010",
+      "title": "Emma Watson Wears a Lilac Zimmermann Minidress for a Day at George Clooney’s Lake Como Villa",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73385161/emma-watson-floral-zimmermann-dress-george-clooney-lake-como-villa-photos/",
+      "summary": "The easy linen piece was the perfect pick for a lakeside holiday",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Emma Watson Wears a Lilac Zimmermann Minidress for a Day at George Clo...",
+      "score": 2,
+      "published": "2026-08-09T16:00:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6897454ad42c",
+      "title": "The Classics: A History of Fashion's First Jeans",
+      "link": "https://www.whowhatwear.com/fashion/denim/levi-501-jeans",
+      "summary": "At 153 years old, they've stood the test of time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Classics: A History of Fashion's First Jeans...",
+      "score": 1,
+      "published": "2026-08-09T16:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "07f5213839c8",
+      "title": "Hey Kitty Girl! Inside Kylie Jenner’s Pre-Birthday Pink Party",
+      "link": "https://www.vogue.com/article/kylie-jenner-pre-birthday-pink-party",
+      "summary": "Mogul, mom, cat fanatic—Kylie Jenner kicked off her 29th birthday celebrations early with cocktails by Hailey Bieber, a bikini cake, and lots of pink.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Hey Kitty Girl! Inside Kylie Jenner’s Pre-Birthday Pink Party...",
+      "score": 0,
+      "published": "2026-08-09T15:28:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af4a8e11eb96",
+      "title": "How To Wear Pinstripe Trousers The Modern Way",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-pinstripe-trousers/",
+      "summary": "If, like everyone else, you have long been confused and frustrated by the smart-casual dress code, base a pair of pinstripe trousers at the core of your wardrobe and you’ll make the job a whole lot easier. The fine-line print hasn’t always been seen as a key piece in a man’s everyday arsenal. For a &#8230; Continue rea",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Pinstripe Trousers The Modern Way...",
+      "score": 2,
+      "published": "2026-08-09T15:01:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4139361dea51",
+      "title": "Kylie Jenner Wears Her Pink Minidress With Glamorous Gucci Feather Heels for Her 29th Birthday",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73385003/kylie-jenner-pink-dress-gucci-feather-heels-29-birthday-party-photos/",
+      "summary": "The “Princess Kitty” event came with a dress code",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kylie Jenner Wears Her Pink Minidress With Glamorous Gucci Feather Hee...",
+      "score": 2,
+      "published": "2026-08-09T14:18:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87a63a949ba5",
+      "title": "Tallulah Willis Is Married! Inside Her Final Balenciaga Wedding Dress Fitting at the Chateau Marmont",
+      "link": "https://www.vogue.com/article/tallulah-willis-balenciaga-wedding-dress-final-fitting",
+      "summary": "The writer, artist, and advocate tied the knot in Idaho this weekend—and she invited Vogue for a very special final fitting with her mom, Demi Moore, and sisters Rumer and Scout.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Tallulah Willis Is Married! Inside Her Final Balenciaga Wedding Dress Fitting at the Chateau Marmont — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-09T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4304a16085f",
+      "title": "Katseye Gives Their First Performance Since Sophia Laforteza Stepped Back",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73383184/katseye-first-appearance-since-sophia-laforteza-hiatus-head-in-clouds-festival/",
+      "summary": "They took the stage at the Head in the Clouds festival",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Katseye Gives Their First Performance Since Sophia Laforteza Stepped B...",
+      "score": 0,
+      "published": "2026-08-09T13:18:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d610c9c5fd6",
+      "title": "Elvis Presley: The King Of Fashion",
+      "link": "https://www.fashionbeans.com/article/elvis-presley-fashion/",
+      "summary": "It’s 1968, an NBC TV special. There’s a small stage, surrounded by primly-dressed women with big bouffant dos and men dressed as though they might be accountants. On the stage is a raven-maned man who occasionally sits on the steps to be among the people. But he is clearly not of the people &#8211; not &#8230; Continue",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Elvis Presley: The King Of Fashion...",
+      "score": 3,
+      "published": "2026-08-09T12:48:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "16172d901ac4",
+      "title": "8 Best Minimalist Sneakers: Low-key, High Profile in 2026",
+      "link": "https://www.fashionbeans.com/article/best-minimalist-sneakers/",
+      "summary": "Free from futile features and loud logos, the best minimalist sneakers focus on what really matters: style, comfort, and wearability. This is why every guy should own a decent pair or three. Join me as I uncover the slickest silhouettes in the game, rounding up a plethora of the most simple yet seriously stylish sneake",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Minimalist Sneakers: Low-key, High Profile in 2026...",
+      "score": 2,
+      "published": "2026-08-09T12:27:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f38b641ae124",
+      "title": "12 Best Tracksuits for Men – Ultimate Style Guide in 2026",
+      "link": "https://www.fashionbeans.com/article/best-tracksuits-for-men/",
+      "summary": "The best tracksuits for men have been all the rage since long before Squid Games aired. Think Run-DMC making tracksuits central to hip-hop culture. Or the varied men of The Sopranos sporting matching zip-up jackets and pants as they catch rays outside of Satriale’s. Don’t even get me started about Juicy Couture&#8217;s",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-09T12:26:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cd26ec9f7039",
+      "title": "From the Archives: In 1999, Silicon Valley’s Newly Minted Millionaires Were Brushing Up on Their Manners",
+      "link": "https://www.vogue.com/article/from-the-archives-the-new-rich-ruling-class",
+      "summary": "Long before “Big Tech” entered the lexicon, Vogue uncovered Silicon Valley’s surprising etiquette boom—from table manners to handshakes and everything in between.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: In 1999, Silicon Valley’s Newly Minted Millionaires...",
+      "score": 0,
+      "published": "2026-08-09T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0708affb9255",
+      "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
+      "summary": "It’s not hard to remember a time when wide-leg trousers were considered one of those beyond-the-pale pieces that fashion designers periodically tried to foist on sceptical menfolk, perhaps out of boredom, or “for banter”. Sure, wide-leg trousers made an impact on the runway. Okay, so they created a striking silhouette.",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
+      "score": 4,
+      "published": "2026-08-09T11:03:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,17 +275,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7cb57e56789f",
-      "title": "Months after Ajit Pawar's death, aircraft skids off Baramati runway; pilot safe",
-      "link": "https://www.indiatoday.in/india/story/trainer-aircraft-crashes-on-airstrip-in-baramati-pilot-safe-2nd-such-incident-after-ajit-pawars-plane-crash-2967036-2026-08-09?utm_source=rss",
-      "summary": "Months after Ajit Pawar's death, aircraft skids off Baramati runway; pilot safe",
-      "source": "India Today Fashion",
+      "id": "712356e6ceb5",
+      "title": "Cocktail Attire For Men: Dress Code Style Guide 2026",
+      "link": "https://www.fashionbeans.com/article/mens-cocktail-attire-dress-code/",
+      "summary": "How do you define cocktail attire? Like many of the puzzling dress codes that crop up on fancy invitations now and again, the barometers are not immediately clear – at least, that is, for men. This is one of the (very) few occasions in life when women have it easier. There&#8217;s even a book on &#8230; Continue readin",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 2,
-      "published": "2026-08-09T08:45:43+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-09T09:00:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9cf887472ca9",
+      "title": "How To Style A Fleece Jacket – Ways To Wear in 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-the-fleece-trend/",
+      "summary": "Since when has fleece been cool? Like many of the current trends permeating fashion (ugly trainers spring to mind), you probably wouldn’t have been seen dead wearing fleece just a few years ago. Now, it’s everywhere. Once reserved for hikers, bird watchers and teachers on school trips, fleece is today just as likely to",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Style A Fleece Jacket – Ways To Wear in 2026...",
+      "score": 4,
+      "published": "2026-08-09T08:00:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -118,20 +356,6 @@
       "angle": "Fashion Intelligence: My Chic Mom Gave Me a $275 Budget—I Sent Her These 3 Affordable Summer...",
       "score": 1,
       "published": "2026-08-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0093be0e0e6e",
-      "title": "CM Seat Becho Yojna: Jharkhand students use satire to show discontent at protest",
-      "link": "https://www.indiatoday.in/india/story/jharkhand-students-satire-protest-jpsc-jssc-exam-reforms-cancellation-probe-ptag-2966925-2026-08-09?utm_source=rss",
-      "summary": "CM Seat Becho Yojna: Jharkhand students use satire to show discontent at protest",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: CM Seat Becho Yojna: Jharkhand students use satire to show discontent ...",
-      "score": 1,
-      "published": "2026-08-09T06:35:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1339,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1c5abf4ab26f",
-      "title": "Justin and Hailey Bieber Have the Summer Date Night Fashion Formula Down",
-      "link": "https://www.vogue.com/article/justin-hailey-bieber-summer-date-night-fashion",
-      "summary": "After vacationing in Greece, Hailey Bieber has been back in LA and locking in—weighted vest workouts, high-protein homemade meals. She took the night off in style.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Justin and Hailey Bieber Have the Summer Date Night Fashion Formula Do...",
-      "score": 2,
-      "published": "2026-08-07T09:27:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5585436ec8a5",
       "title": "The Dad Look: How To Dress Like A DILF",
       "link": "https://www.fashionbeans.com/article/how-to-dress-like-a-dilf/",
@@ -1465,6 +1675,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8acb570dc54a",
+      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
+      "summary": "Look good, stay cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
+      "score": 1,
+      "published": "2026-08-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "46d1a1ca3edc",
       "title": "Suddenly, All the Coolest Fashion People Are Wearing These 2 Specific Swimwear Colors",
       "link": "https://www.whowhatwear.com/fashion/swimwear/chic-purple-turquoise-swimwear-summer-2026",
@@ -1493,34 +1717,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8acb570dc54a",
-      "title": "No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25º Heat",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-25-degree-weather-2026",
-      "summary": "Look good, stay cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No Fuss, No Frills—5 Effortless Outfit Formulas to Keep You Cool in 25...",
-      "score": 1,
-      "published": "2026-08-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6d1f34dea3c",
-      "title": "Shopping’s Next Era: An Evening in New York City",
-      "link": "https://www.vogue.com/article/shoppings-next-era-an-evening-in-new-york-city",
-      "summary": "Vogue Business and Swap invited fashion and beauty leaders to a dinner party at the Twenty Two to discuss where the future of shopping is heading.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Shopping’s Next Era: An Evening in New York City...",
-      "score": 2,
-      "published": "2026-08-07T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ac57264a669b",
       "title": "Cool Girls in Copenhagen Don’t Do Boring—They Do These 9 Fashion Trends Spotted at Fashion Week",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/street-style/copenhagen-fashion-week-street-style-trends-august-2026",
@@ -1532,20 +1728,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-07T04:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b6bd44e86e0b",
-      "title": "Less Perfect, More Practical: Diamonds’ New Path Forward",
-      "link": "https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward",
-      "summary": "Thanks to a confluence of threats, the diamond industry is rethinking how it markets the precious stone.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Less Perfect, More Practical: Diamonds’ New Path Forward...",
-      "score": 0,
-      "published": "2026-08-07T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1588,34 +1770,6 @@
       "angle": "Fashion Intelligence: How Jane Schoenbrun Found Terror and Ecstasy at Camp Miasma...",
       "score": 0,
       "published": "2026-08-06T22:24:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c7d93147d2a3",
-      "title": "Happy Birthday, Michelle Yeoh! 14 Gorgeous Vintage Photos of the Star",
-      "link": "https://www.vogue.com/slideshow/michelle-yeoh-vintage-photos",
-      "summary": "Ahead of her turn in “Blade Runner 2099” later this year opposite Hunter Schafer—and in honor of her birthday—we’re taking a nostalgic trip back to the Oscar winner’s early years on the scene.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Happy Birthday, Michelle Yeoh! 14 Gorgeous Vintage Photos of the Star...",
-      "score": 0,
-      "published": "2026-08-06T22:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d636ecc3eba7",
-      "title": "The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week",
-      "link": "https://www.fashionbeans.com/article/salomon-sneakers-fashion-week-2026/",
-      "summary": "Salomon Stopped Trying To Be Fashion And that’s exactly why fashion won’t stop wearing it. During Paris Men’s Fashion Week, new creative director Heikki Salonen said something disarmingly simple about Salomon: “Salomon is not a fashion house.” So the brand is doubling down on what it does best. Serious mountain footwea",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week...",
-      "score": 3,
-      "published": "2026-08-06T21:46:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1829,62 +1983,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d9a3aa8efb8d",
-      "title": "This K-Beauty Brand Has Changed My Skin for the Better",
-      "link": "https://www.harpersbazaar.com/beauty/skin-care/a68990530/why-we-love-medicube-korean-beauty-skincare/",
-      "summary": "I’ve lost count of how many friends, family members, and coworkers I’ve turned on to the brand Medicube",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This K-Beauty Brand Has Changed My Skin for the Better...",
-      "score": 2,
-      "published": "2026-08-06T17:07:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d3919e3e3a89",
-      "title": "The Best Hairstyles For Men With Thick Hair",
-      "link": "https://www.fashionbeans.com/article/thick-hair-styles-men/",
-      "summary": "Thick hair is one of those blessings that too often feels like a curse. Yes, as your barber (and mother) will often tell you, you’ve got a lovely head of thick locks and probably won&#8217;t go bald, but thick hair does come with its own set of hairdo dilemmas. Does it give you more or &#8230; Continue reading The Best",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Hairstyles For Men With Thick Hair...",
-      "score": 1,
-      "published": "2026-08-06T17:01:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "701f43aa30ff",
-      "title": "Ariana Grande Needs a Break. We Should Let Her Take It.",
-      "link": "https://www.harpersbazaar.com/culture/art-books-music/a73359290/ariana-grande-more-than-deserves-a-break/",
-      "summary": "There’s a long history of stars stepping back and emerging better for it—and an equally bleak history of those who didn’t",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Ariana Grande Needs a Break. We Should Let Her Take It....",
-      "score": 0,
-      "published": "2026-08-06T17:00:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d759d679afc3",
-      "title": "Lola Tung Looks All Grown Up in a Sheer Dilara Fındıkoğlu Dress",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73366383/lola-tung-sheer-lace-dilara-fndkoglu-dress-balenciaga-le-city-bag-nyc-street-style/",
-      "summary": "Paired with some enviable accessories",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lola Tung Looks All Grown Up in a Sheer Dilara Fındıkoğlu Dress...",
-      "score": 1,
-      "published": "2026-08-06T16:35:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "eeadafe1e102",
       "title": "7 Bestselling Skincare Products to Check Out If You're New to KBeauty",
       "link": "https://www.whowhatwear.com/beauty/iherb-kbeauty-august-2026-sale",
@@ -1896,34 +1994,6 @@
       "angle": "Fashion Intelligence: 7 Bestselling Skincare Products to Check Out If You're New to KBeauty...",
       "score": 1,
       "published": "2026-08-06T16:27:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "95b1cf27fb20",
-      "title": "Anya Taylor-Joy—and Many of Her Female Counterparts—Will Never Try Method Acting",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73366228/anya-taylor-joy-why-women-do-not-method-act-quote/",
-      "summary": "“We can’t completely lose our minds”",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Anya Taylor-Joy—and Many of Her Female Counterparts—Will Never Try Met...",
-      "score": 0,
-      "published": "2026-08-06T16:25:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2e9120cf3a0a",
-      "title": "All About Matt Damon’s Four Daughters: Alexia, Isabella, Gia, and Stella",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73357734/who-are-matt-damon-kids-four-daughters-alexia-isabella-gia-stella/",
-      "summary": "The Odyssey actor and his wife of 20 years, Luciana, have raised four kids together.",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: All About Matt Damon’s Four Daughters: Alexia, Isabella, Gia, and Stel...",
-      "score": 0,
-      "published": "2026-08-06T16:13:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1952,20 +2022,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-06T15:50:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3350c577e1e7",
-      "title": "8 Best Starter Watches For Men – Entry Level Picks For 2026",
-      "link": "https://www.fashionbeans.com/article/best-starter-watches/",
-      "summary": "I remember buying my first watch. I was in my late teens and can recall being somewhat overwhelmed by the different types on offer. There were diving watches, chronographs, and the kind you wear with a suit. Not forgetting the digital designs that all my friends were raving about. If only someone had written a &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 8 Best Starter Watches For Men – Entry Level Picks For 2026...",
-      "score": 1,
-      "published": "2026-08-06T15:10:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2025,34 +2081,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b24049fcd325",
-      "title": "What Bronson MFG Teaches Us About Factory Direct and Brand Clothing",
-      "link": "https://www.fashionbeans.com/article/what-bronson-teaches-us-about-factory-direct-and-brand-clothing/",
-      "summary": "1936 Selvedge Denim Reproduction Jeans This is a pair of selvedge denim reproduction jeans from 1936. They are really good quality, but you have to ignore the broken button. Levis sells their reproduction pair for $300, but Buck Mason sells their reproduction pair for $270. So, Buck Mason is the deal, right? No. The je",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: What Bronson MFG Teaches Us About Factory Direct and Brand Clothing...",
-      "score": 1,
-      "published": "2026-08-06T13:26:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5a6e5a7f08af",
-      "title": "7 Best Summer Shirts For Men: Many Kinds of Cool in 2026",
-      "link": "https://www.fashionbeans.com/article/best-summer-shirts-for-men/",
-      "summary": "You wake well rested. Shafts of sunshine dapple through your window. It’s going to be a glorious summer’s day. Now, how do you meet this meteorological gift? Ideally, a cool and cooling outfit. This article is here to make the case that the best summer shirts for men are precisely what you need. In this &#8230; Continu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best Summer Shirts For Men: Many Kinds of Cool in 2026...",
-      "score": 1,
-      "published": "2026-08-06T12:32:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9f61824c1e37",
       "title": "Where to Find Job Security in Fashion",
       "link": "https://fashionista.com/2026/08/fashion-industry-job-security-layoffs-ai-2026",
@@ -2078,76 +2106,6 @@
       "angle": "Fashion Intelligence: This Brand Builder Landed Jobs at Deciem and Quince Without Ever Apply...",
       "score": 2,
       "published": "2026-08-06T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "26a42d45ac1b",
-      "title": "Laura Harrier and the Wardrobe.NYC Founders Agree: Wear *These* H&M Track Pants on Your Next Flight",
-      "link": "https://www.whowhatwear.com/fashion/shopping/hm-wardrobe-nyc-collaboration-launch",
-      "summary": "Teyana Taylor already owns them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Laura Harrier and the Wardrobe.NYC Founders Agree: Wear *These* H&M Tr...",
-      "score": 1,
-      "published": "2026-08-06T11:32:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8676a8785d1e",
-      "title": "The Father’s Day Gift Guide That Actually Gets It Right: 9 Pieces He Will Wear Long After June",
-      "link": "https://www.fashionbeans.com/article/fathers-day-gift-guide/",
-      "summary": "No gimmicks, no novelty mugs, no &#8220;world&#8217;s best dad&#8221; anything. Just nine pieces of proper menswear he will actually pull out of the wardrobe long after June is over. The short version: Most Father&#8217;s Day gift guides are written for people who do not know the recipient. This one is not. Nine carefu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Father’s Day Gift Guide That Actually Gets It Right: 9 Pieces He W...",
-      "score": 2,
-      "published": "2026-08-06T11:21:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6fdae8b985c7",
-      "title": "Not Quite a Ballet Flat, Not Quite a Trainer—This \"Unexpected\" Shoe Is All I Want to Wear This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/shoes/onitsuka-tiger-gymnarina-trainer",
-      "summary": "They'll make jeans and skirts look way cooler.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Quite a Ballet Flat, Not Quite a Trainer—This \"Unexpected\" Shoe Is...",
-      "score": 1,
-      "published": "2026-08-06T10:51:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "260735fa0246",
-      "title": "Why Riviera Style Should Be Your Go-To Summer Look",
-      "link": "https://www.fashionbeans.com/article/riviera-style-guide/",
-      "summary": "Most holiday style guides stop at suggesting a few T-shirts, a pair of swim shorts and some sunglasses for your travels. And we get it, all three are essentials when hopping across borders. But what if you skipped arm day, have no desire to take a dip and actually enjoy forcibly squinting at the sun? &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Why Riviera Style Should Be Your Go-To Summer Look...",
-      "score": 1,
-      "published": "2026-08-06T10:21:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7322c715f40c",
-      "title": "10 Best White Sneakers for Men of Every Budget in 2026",
-      "link": "https://www.fashionbeans.com/article/best-white-sneakers-for-men/",
-      "summary": "Trends come and go. But white sneakers? They’re forever. Having remained a constant figure in a guy’s rotation for as long as I can remember, the best white sneakers for men are an indispensable part of any well-rounded wardrobe. And for good reason. Easy to style, versatile, and as comfortable as they come, the clean-",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 10 Best White Sneakers for Men of Every Budget in 2026...",
-      "score": 2,
-      "published": "2026-08-06T10:18:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2993,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "వర్షం",
+      "term": "milky mist ipo gmp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "johor darul ta'zim vs chelsea",
+      "term": "sara tendulkar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പോലീസ്",
+      "term": "karnataka bandh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಚಿನ್ನದ ಬೆಲೆ",
+      "term": "donald trump iran war",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "निर्यात",
+      "term": "har ghar tiranga",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mahesh bhatt granddaughter raha",
+      "term": "chicago fire fc vs santos laguna standings",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ugc net answer key 2026",
+      "term": "పాము",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "our sticky love netflix",
+      "term": "dhoot transmission ipo gmp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bhawana kanth",
+      "term": "result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रत्यक्ष विदेशी निवेश",
+      "term": "भरत सिंह",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
