@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-08-11T08:54:04.665125+00:00",
+  "generated_at": "2026-08-11T11:43:39.777161+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 181,
+  "industry_count": 190,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "cb35c121a99f",
+      "title": "Michael Kors Fall 2026 Celebrates Legends of the Stage",
+      "link": "https://www.fashiongonerogue.com/story/michael-kors-fall-2026-campaign/",
+      "summary": "Michael Kors celebrates 45 years with a fall-winter 2026 campaign built for the spotlight. The fall Michael Kors Collection trades ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Michael Kors Fall 2026 Celebrates Legends of the Stage...",
+      "score": 1,
+      "published": "2026-08-11T11:43:31+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b1301ce8ebdd",
       "title": "Stel Copenhagen Spring 2027",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Stel Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T08:51:18+00:00",
+      "published": "2026-08-11T11:38:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Akikoaoki Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T08:51:18+00:00",
+      "published": "2026-08-11T11:38:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Harunobumurata Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T08:51:18+00:00",
+      "published": "2026-08-11T11:38:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Royal Danish Academy Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T08:51:18+00:00",
+      "published": "2026-08-11T11:38:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,175 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Swedish School of Textiles Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T08:51:18+00:00",
+      "published": "2026-08-11T11:38:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0ae0b5cba7e7",
+      "title": "Madden NYC Enters India with Women’s Footwear",
+      "link": "https://in.apparelresources.com/business-news/retail/madden-nyc-enters-india-womens-footwear/",
+      "summary": "Madden NYC, the accessible fashion brand from Steve Madden, an American fashion designer and businessman, has entered India with a women’s footwear collection. The brand will be available online and through select retail outlets across the country. The collection includes sneakers, slides, heels and other everyday foot",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Madden NYC Enters India with Women’s Footwear...",
+      "score": 5,
+      "published": "2026-08-11T11:30:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "da24dcbde3e1",
+      "title": "Shelve Your Flip-Flops—Elegant Dressers Are Wearing Minis With This More Comfortable Sandal Right Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/ankle-strap-sandals-white-minidress-outfit-emma-watson-2026",
+      "summary": "What's not to love?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-11T11:26:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "56deae2e7715",
+      "title": "RSWM Partners with Spain-based NDS9 to Expand Garment Manufacturing",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/rswm-partners-spain-based-nds9-expand-garment-manufacturing/",
+      "summary": "RSWM Limited, the flagship company of the LNJ Bhilwara Group has entered into a joint venture agreement with Spain-based Noize Design Studio (NDS9) to establish an integrated garment manufacturing platform in India focused on premium denim and activewear for international apparel brands. The location of the facility is",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: RSWM Partners with Spain-based NDS9 to Expand Garment Manufacturing...",
+      "score": 2,
+      "published": "2026-08-11T11:23:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-08-11T11:12:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7f75427e7d7a",
+      "title": "Dress properly: Rekha Gupta slams AAP MLA Anil Jha over viral vest-and-shorts video",
+      "link": "https://www.indiatoday.in/india/story/delhi-lakshmi-yojana-rekha-gupta-targets-aap-mla-anil-jha-over-viral-video-2968601-2026-08-11?utm_source=rss",
+      "summary": "Dress properly: Rekha Gupta slams AAP MLA Anil Jha over viral vest-and-shorts video",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dress properly: Rekha Gupta slams AAP MLA Anil Jha over viral vest-and...",
+      "score": 1,
+      "published": "2026-08-11T10:54:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c6ad7568cade",
+      "title": "Aretto Targets 100+ Retail Outlets by FY ’27, Eyes International Expansion",
+      "link": "https://in.apparelresources.com/business-news/retail/aretto-targets-100-retail-outlets-fy-27-eyes-international-expansion/",
+      "summary": "Kids’ footwear brand Aretto is targeting more than 100 retail outlets by FY &#8217;27 as it accelerates its transition from a predominantly online business to an omnichannel and international brand. Founded by Satyajit Mittal, the company opened its first store in Pune and has since expanded to 30 retail stores in its ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Aretto Targets 100+ Retail Outlets by FY ’27, Eyes International Expan...",
+      "score": 2,
+      "published": "2026-08-11T10:53:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fb7d9fc46a6d",
+      "title": "Banarasi saree exports rise 5 times as Varanasi's weaving industry gets a boost",
+      "link": "https://www.indiatoday.in/india/story/banarasi-saree-exports-varanasi-weavers-fivefold-rise-under-odop-scheme-utrith-2968581-2026-08-11?utm_source=rss",
+      "summary": "Banarasi saree exports rise 5 times as Varanasi's weaving industry gets a boost",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Banarasi saree exports rise 5 times as Varanasi's weaving industry get...",
+      "score": 2,
+      "published": "2026-08-11T10:15:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ae5a7b14ee91",
+      "title": "24 Best Airbnbs in the French Riviera Are Brimming with Mediterranean Charm",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-french-riviera",
+      "summary": "Planning a trip to the Côte d’Azur? From quaint city stays to luxe villas, these are the best Airbnbs on the French Riviera.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 24 Best Airbnbs in the French Riviera Are Brimming with Mediterranean ...",
+      "score": 0,
+      "published": "2026-08-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7ebeb63b09e4",
+      "title": "Pick Up a New Hobby With These Watercolor Paint Sets",
+      "link": "https://www.vogue.com/article/watercolor-paint-sets",
+      "summary": "From rainbow-colored palettes to refined brushes to sketchpads, these watercolor paint sets include everything you need to kickstart a new hobby.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Pick Up a New Hobby With These Watercolor Paint Sets...",
+      "score": 0,
+      "published": "2026-08-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "88e123541cfb",
+      "title": "From Twinning to Prairie Core—8 Street Style Trends From the Spring 2027 Shows in Copenhagen",
+      "link": "https://www.vogue.com/article/from-twinning-to-prairie-core-8-street-style-trends-from-the-spring-2027-shows-in-copenhagen",
+      "summary": "These were the 8 street style trends worth trying on your own from the spring 2027 shows in Copenhagen.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7cd07a47a547",
+      "title": "12 Pre-Fall Accessory Trends to Introduce to Your Wardrobe Now",
+      "link": "https://www.vogue.com/article/pre-fall-2026-acessory-trends",
+      "summary": "From scarves to layered necklaces, these pre-fall accessory trends mark the transition into autumn.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1592fe60ad74",
+      "title": "According to Tastemakers, the Chicest Colour to Wear on Your Toes Is Nothing At All",
+      "link": "https://www.whowhatwear.com/beauty/nails/bare-pedicure",
+      "summary": "Step to it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: According to Tastemakers, the Chicest Colour to Wear on Your Toes Is N...",
+      "score": 1,
+      "published": "2026-08-11T09:57:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -807,6 +989,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1d2c5e1cb16a",
+      "title": "8 Best Flip-flops for Men: Smart, Suave & Breezy in 2026",
+      "link": "https://www.fashionbeans.com/article/best-flip-flops-for-men/",
+      "summary": "When summer comes around, it’s natural to want to keep cool however you can. You put on T-shirts and shorts, wear a hat, and, yes, swap out your sneakers for sandals. But the heat is never an excuse for looking less than your best. The best flip-flops for men are a great way to look &#8230; Continue reading 8 Best Flip",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Flip-flops for Men: Smart, Suave & Breezy in 2026...",
+      "score": 1,
+      "published": "2026-08-10T10:33:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d28f93ba8fe8",
       "title": "Matieres Fecales: The Paris Label With a Provocative Name and a Red-carpet Résumé",
       "link": "https://in.apparelresources.com/fashion-news/trends/matieres-fecales-paris-label-provocative-name-red-carpet-resume/",
@@ -877,59 +1073,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8a5bf7993a91",
-      "title": "4 Last-Minute Labor Day Weekend Getaways From New York City, for the Perfect Send-Off to Summer 2026",
-      "link": "https://www.vogue.com/article/last-minute-labor-day-weekend-getaways",
-      "summary": "From the Catskills to Nantucket, these Labor Day weekend getaways don’t require hopping on a plane.",
-      "source": "Vogue US",
+      "id": "83c732eaefb2",
+      "title": "12 Pants For Short Men – Best Styles For 2026",
+      "link": "https://www.fashionbeans.com/article/pants-for-short-men/",
+      "summary": "I’m all for embracing the body you were given. Especially when it comes to wearing whatever the hell you want. But, I’m also a realist. And I believe that the best pants for short men are different from the ones taller guys wear. If you’re reading this, you’re probably short. So you’ll understand what I’m &#8230; Conti",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 4 Last-Minute Labor Day Weekend Getaways From New York City, for the P...",
-      "score": 0,
-      "published": "2026-08-10T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf806832d182",
-      "title": "24 Designer Travel Bags for All Your 2026 Adventures",
-      "link": "https://www.vogue.com/slideshow/designer-travel-bags",
-      "summary": "Looking for the best designer travel bags? Options from Miu Miu, Loewe, The Row and more make style on the go look stylish—shop our favorites, here.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 24 Designer Travel Bags for All Your 2026 Adventures...",
+      "angle": "Fashion Intelligence: 12 Pants For Short Men – Best Styles For 2026...",
       "score": 2,
-      "published": "2026-08-10T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bd87a0a21e88",
-      "title": "The Fall 2026 Shoe Trends to Shop Now—From Kitten Heels to Slippers",
-      "link": "https://www.vogue.com/article/fall-2026-shoe-trends",
-      "summary": "From kitten heels to slippers, discover the fall 2026 shoe trends to shop now.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-10T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6cc7a5a6fa48",
-      "title": "How to Style Birkenstocks for Summer & Fall",
-      "link": "https://www.vogue.com/article/how-to-wear-birkenstocks",
-      "summary": "Four outfit ideas on how to style Birkenstocks for summer and fall, featuring the Arizona sandals, Boston clogs, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Style Birkenstocks for Summer & Fall...",
-      "score": 2,
-      "published": "2026-08-10T10:00:00+00:00",
+      "published": "2026-08-10T09:53:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -947,6 +1101,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5c4092758d0e",
+      "title": "10 Best Doc Martens for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-doc-martens/",
+      "summary": "Whether you’re new to the world of Doc Martens or an enthusiast that has been on the ‘AirWair’ walk for years, I believe there’s a pair for everyone. So as an enthusiast of this legendary brand, I&#8217;ve taken the liberty to share my personal insights and viewpoints about some of the best Doc Martens offerings. &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Doc Martens for Men In 2026...",
+      "score": 1,
+      "published": "2026-08-10T09:12:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3c0a277e76c8",
       "title": "Zara's Sister Brand Just Launched The Chicest Pre-Autumn Collection—18 Elegant Buys Already Moving Fast",
       "link": "https://www.whowhatwear.com/fashion/affordable/massimo-dutti-new-in-august-2026",
@@ -958,6 +1126,20 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 3,
       "published": "2026-08-10T08:54:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf78984a6dbd",
+      "title": "8 Best Travel Pants for Men to Wear on Any Trip in 2026",
+      "link": "https://www.fashionbeans.com/article/best-travel-pants-for-men/",
+      "summary": "Your bags are packed, your ticket’s booked… All that’s left is what to wear. The best travel pants for men take the guesswork out of getting ready on the go. Designed for functionality and style, they’re an unbeatable travel clothing essential for every kind of voyage. The pants on this list have been tried and &#8230;",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Best Travel Pants for Men to Wear on Any Trip in 2026...",
+      "score": 2,
+      "published": "2026-08-10T08:49:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1031,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e2604fc431e8",
-      "title": "I Don't Own a Bottega Bag, But Wearing This Fragrance Makes Me Feel Like I Do",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/bottega-veneta-alta-perfumes",
-      "summary": "Now I smell expensive.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d35d8d7d942a",
       "title": "5 Outfits From Zara I'm Creating With the Most Expensive-Looking New-In Buys",
       "link": "https://www.whowhatwear.com/fashion/affordable/zara-outfit-ideas-2026",
@@ -1054,6 +1222,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 5 Outfits From Zara I'm Creating With the Most Expensive-Looking New-I...",
+      "score": 1,
+      "published": "2026-08-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e2604fc431e8",
+      "title": "I Don't Own a Bottega Bag, But Wearing This Fragrance Makes Me Feel Like I Do",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/bottega-veneta-alta-perfumes",
+      "summary": "Now I smell expensive.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-08-10T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1073,20 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c05df780f212",
-      "title": "Morgane Sézalory Is Introducing a More Mature Sézane",
-      "link": "https://www.vogue.com/article/morgane-sezalory-is-introducing-a-more-mature-sezane",
-      "summary": "The founder and CEO defines the first era of her Parisian brand with a sense of childlike wonder. Now, she’s ready to grow up.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Morgane Sézalory Is Introducing a More Mature Sézane...",
-      "score": 1,
-      "published": "2026-08-10T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d07b00065a7e",
       "title": "Fashion for Tall Men – Style Guide To Looking Good 2026",
       "link": "https://www.fashionbeans.com/article/tall-mens-clothing-tips/",
@@ -1098,6 +1266,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-10T01:16:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b17bb80653dc",
+      "title": "15 Types Of Chains For Men & How To Wear Them in 2026",
+      "link": "https://www.fashionbeans.com/article/types-of-chains-for-men/",
+      "summary": "After you woke up this morning, yawned, stretched, and scratched your lower back with both hands for some reason, did you then look in the mirror and say, “You know what, I think I’m going to start being a chain guy?” Should have. Totally should have. Because not only are men&#8217;s chains here to stay, &#8230; Contin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 15 Types Of Chains For Men & How To Wear Them in 2026...",
+      "score": 1,
+      "published": "2026-08-10T01:00:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1364,34 +1546,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-09T09:56:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "712356e6ceb5",
-      "title": "Cocktail Attire For Men: Dress Code Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/mens-cocktail-attire-dress-code/",
-      "summary": "How do you define cocktail attire? Like many of the puzzling dress codes that crop up on fancy invitations now and again, the barometers are not immediately clear – at least, that is, for men. This is one of the (very) few occasions in life when women have it easier. There&#8217;s even a book on &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-09T09:00:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bb9e5a7981de",
-      "title": "6 Best Vegan Sneakers for Men: Cruelty-free Styling in 2026",
-      "link": "https://www.fashionbeans.com/article/best-vegan-sneakers/",
-      "summary": "I get it. You want to wear beautiful, premium, and trendy shoes but can’t stomach the idea that they might be made from animal hide and other non-sustainable materials. The practices in sourcing full-grain leather aren’t always cruelty-free, and, sadly, such methods are still mainstream. Luckily for you, the future is ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: 6 Best Vegan Sneakers for Men: Cruelty-free Styling in 2026...",
-      "score": 3,
-      "published": "2026-08-09T08:42:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1980,34 +2134,6 @@
       "angle": "Fashion Intelligence: Is Fara Homidi Beauty’s Essential Blonzer Compact Worth It?...",
       "score": 2,
       "published": "2026-08-07T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c5b3789f52bb",
-      "title": "Life in Focus: Anupam Bansal Executive Director, Liberty Shoes",
-      "link": "https://in.apparelresources.com/business-news/retail/life-in-focus-anupam-bansal-executive-director-liberty-shoes/",
-      "summary": "Three decades in footwear, and I would not have it any other way. Liberty has grown into one of India’s most recognised footwear conglomerates with an annual turnover crossing Rs. 800 crore and a presence in over 30 countries. 450+ exclusive stores, 5,000+ multibrand outlets, e-commerce across Myntra, Flipkart, Nykaa F",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Life in Focus: Anupam Bansal Executive Director, Liberty Shoes...",
-      "score": 2,
-      "published": "2026-08-07T12:51:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b706f7f34419",
-      "title": "Accessores to Maximise Fall Winter 2026: Key Driving Trends",
-      "link": "https://in.apparelresources.com/fashion-news/trends/accessores-maximise-fall-winter-2026-key-driving-trends/",
-      "summary": "Fall Winter 2026 is proving that now is not the time to dial down the details. Accessories are having their moment and stepping firmly back into the spotlight, with recent fashion weeks awash in a kaleidoscope of colours, textures and dimensions that speak to the season’s growing embrace of maximalism. From long gloves",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-07T12:49:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2923,52 +3049,52 @@
   ],
   "trends": [
     {
-      "term": "सूखा",
+      "term": "आज तक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mcx gold",
+      "term": "రుతురాజ్ గైక్వాడ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दुर्घटना",
+      "term": "সরফরাজ খান",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "விக்ரம்",
+      "term": "মাংস",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एक्सिनोस",
+      "term": "पुलिस महानिदेशक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अमिताभ बच्चन",
+      "term": "मजदूरी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அரிசி",
+      "term": "ಗೃಹಲಕ್ಷ್ಮಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रेवती सुळे",
+      "term": "குர்னூர் பிரார்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bangladesh",
+      "term": "അരി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నాగార్జున",
+      "term": "हिन्दुस्तान कॉपर लिमिटेड",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
