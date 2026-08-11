@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T03:40:11.351508+00:00",
+  "generated_at": "2026-08-11T05:53:34.753577+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Stel Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T03:37:25+00:00",
+      "published": "2026-08-11T05:50:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Akikoaoki Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T03:37:25+00:00",
+      "published": "2026-08-11T05:50:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Harunobumurata Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T03:37:25+00:00",
+      "published": "2026-08-11T05:50:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Royal Danish Academy Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T03:37:25+00:00",
+      "published": "2026-08-11T05:50:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Swedish School of Textiles Copenhagen Spring 2027...",
       "score": 0,
-      "published": "2026-08-11T03:37:25+00:00",
+      "published": "2026-08-11T05:50:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "33c261058799",
+      "title": "I've Waited Months for the Reformation Sale—9 Capsule Wardrobe Buys Already in My Basket",
+      "link": "https://www.whowhatwear.com/fashion/shopping/reformation-summer-sale-2026",
+      "summary": "Fashion people swear by these staples.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Waited Months for the Reformation Sale—9 Capsule Wardrobe Buys Al...",
+      "score": 2,
+      "published": "2026-08-11T05:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6446721ebd46",
+      "title": "Exemplar Luxury Group Is Ready to Win Back Brands and VICs",
+      "link": "https://www.vogue.com/article/exemplar-luxury-group-is-ready-to-win-back-brands-and-vics",
+      "summary": "CEO Geoffroy van Raemdonck hosted a party in the Hamptons for important customers and partners across the group’s three retailers. It’s an effort to reintroduce themselves to the industry.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Exemplar Luxury Group Is Ready to Win Back Brands and VICs...",
+      "score": 2,
+      "published": "2026-08-11T04:55:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7731075e3cf5",
+      "title": "I’ve Done The Research—According to the Runways, These 6 Autumn Shoe Trends Will Be Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/shoes/autumn-shoe-trends-2026",
+      "summary": "Best foot forward.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-11T04:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9a37982ff66f",
+      "title": "India’s Gen Z Is Rewriting the Luxury Playbook",
+      "link": "https://www.vogue.com/article/indias-gen-z-is-rewriting-the-luxury-playbook",
+      "summary": "A generation that has found its voice is now reshaping India’s luxury market.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: India’s Gen Z Is Rewriting the Luxury Playbook...",
+      "score": 1,
+      "published": "2026-08-11T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -342,20 +398,6 @@
       "angle": "Fashion Intelligence: Jennifer Lopez Pairs Sheer Separates With a Statement Micro Bag...",
       "score": 0,
       "published": "2026-08-10T18:09:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2e7b4d6c428a",
-      "title": "PM Modi, Sharad Pawar seen together at Supriya Sule's daughter's wedding reception",
-      "link": "https://www.indiatoday.in/india/story/pm-modi-sharad-pawar-amit-shah-photo-revati-sule-wedding-reception-2968161-2026-08-10?utm_source=rss",
-      "summary": "PM Modi, Sharad Pawar seen together at Supriya Sule's daughter's wedding reception",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: PM Modi, Sharad Pawar seen together at Supriya Sule's daughter's wedding reception — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-08-10T18:02:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -919,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a302045486dd",
-      "title": "The Meaning of Consent in the Age of Content",
-      "link": "https://www.vogue.com/article/the-meaning-of-consent-in-the-age-of-content",
-      "summary": "Public patience for being an extra in creator content is wearing thin. As the consumer backlash over privacy and surveillance grows, brands are rewriting the rules around influencer marketing and content creation.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Meaning of Consent in the Age of Content...",
-      "score": 2,
-      "published": "2026-08-10T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b30f6a962fb1",
       "title": "Infanta Sofía Is the Latest Princess to Try On Queen Letizia’s Blue-and-White Summertime Dress",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73385790/infanta-sofia-borrows-queen-letizia-desigual-dress-photos/",
@@ -972,20 +1000,6 @@
       "angle": "Fashion Intelligence: Dress Code: Thursday...",
       "score": 1,
       "published": "2026-08-09T17:46:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0f7fb47b0744",
-      "title": "The Best Dressed Stars of the Week Found Beauty in Restraint",
-      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-meghan-markle-monica-barbaro-elle-fanning",
-      "summary": "Quietly-elegant looks still turned heads on the red carpets this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Found Beauty in Restraint...",
-      "score": 2,
-      "published": "2026-08-09T16:58:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1339,20 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "335a12682bb7",
-      "title": "Unsurprisingly, Zendaya’s New Wedding Ring Looks Chic Even With Jeans and Ballet Flats",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-tom-holland-debut-new-wedding-rings-2026",
-      "summary": "Congrats are in order.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Unsurprisingly, Zendaya’s New Wedding Ring Looks Chic Even With Jeans and Ballet Flats — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-08-09T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "19296644e61a",
       "title": "Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then Like This, This and This",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-to-autumn-outfits-with-jeans-2026",
@@ -1362,6 +1362,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then L...",
+      "score": 1,
+      "published": "2026-08-09T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "335a12682bb7",
+      "title": "Unsurprisingly, Zendaya’s New Wedding Ring Looks Chic Even With Jeans and Ballet Flats",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-tom-holland-debut-new-wedding-rings-2026",
+      "summary": "Congrats are in order.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Unsurprisingly, Zendaya’s New Wedding Ring Looks Chic Even With Jeans and Ballet Flats — A Complete Style Guide",
       "score": 1,
       "published": "2026-08-09T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1731,20 +1745,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bc6885fe389f",
-      "title": "Give It a Month, and You'll See This Low-Key Summer-to-Fall Jeans Outfit on Every L.A. Cool Girl",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/summer-to-fall-jeans-outfit-hailey-bieber",
-      "summary": "Hailey Bieber is leading the charge.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Give It a Month, and You'll See This Low-Key Summer-to-Fall Jeans Outf...",
-      "score": 1,
-      "published": "2026-08-07T21:06:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d81f5eb7258a",
       "title": "7 Summer-to-Fall Transitional Outfits to Keep You Stylish Between Seasons",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73287362/summer-fall-transitional-outfits-2026/",
@@ -1770,20 +1770,6 @@
       "angle": "Fashion Intelligence: The Shoes Bazaar Editors Swear By When Traveling Across Europe...",
       "score": 1,
       "published": "2026-08-07T20:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "65369fd08904",
-      "title": "Black-and-White Polka-Dot Dresses Are Chic, But It Girls Are Choosing the Print in This Trendy Color",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/chocolate-brown-polka-dot-dress-trend-phoebe-dynevor",
-      "summary": "It's perfect for fall.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-07T20:28:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2585,6 +2571,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e8fb4c7bc1d2",
+      "title": "5 Ways to Style Your Palazzo Suit Set for Raksha Bandhan",
+      "link": "https://blog.kalkifashion.com/5-ways-to-style-your-palazzo-suit-set-for-raksha-bandhan/",
+      "summary": "Raksha Bandhan is not just a festival of brothers and sisters, it is much more than that. It is a celebration where laughter echoes through the corridors of the house, the kitchen smells of yummy food, and some traditions are wrapped in love. On such a day filled with memories, how can you not wear [&#8230;] The post 5",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Ways to Style Your Palazzo Suit Set for Raksha Bandhan...",
+      "score": 2,
+      "published": "2026-08-11T04:31:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "fb2d443485ce",
       "title": "Kurta Sets for Raksha Bandhan: A Thoughtful Gift Guide for Every Type of Sister",
       "link": "https://blog.kalkifashion.com/kurta-sets-for-raksha-bandhan-a-thoughtful-gift-guide-for-every-type-of-sister/",
@@ -2750,20 +2750,6 @@
       "angle": "Bridal Edit: Thejaswini’s Dreamy Backwater Wedding in Kumbalangi, Kochi — A Complete Style Guide",
       "score": 2,
       "published": "2026-07-06T12:07:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a92f672f113d",
-      "title": "How to Style Kurta Sets for Both Festive and Formal Occasions",
-      "link": "https://blog.kalkifashion.com/festive-occasions-more-modern-stylish-kurta-set-for-women/",
-      "summary": "An Indian kurta set for women has become a staple outfit for almost every wardrobe nowadays. It is one of the most flexible and comfortable outfits that suits every occasion. Whether you&#8217;re attending a festive night, heading to work, or casually meeting a friend, the right Indian kurta set automatically adapts to",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 5,
-      "published": "2026-07-01T05:31:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,54 +2951,54 @@
   ],
   "trends": [
     {
-      "term": "weather meerut",
+      "term": "वृषभ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "up scholarship",
+      "term": "santy sharma bigg boss",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather mumbai",
+      "term": "molbio diagnostics ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "supriya sule",
+      "term": "shiprocket ipo gmp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गाजियाबाद",
+      "term": "ipo gmp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "husharu pittalu",
+      "term": "independence day 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "surya grahan 2026",
+      "term": "gland pharma share",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ajit doval",
+      "term": "dhoot transmission ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather ahmedabad",
+      "term": "bse share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अमावस्या कब है",
+      "term": "technocraft ventures ipo gmp",
       "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Art & Craft"
     }
   ],
   "tracked_keywords": [
