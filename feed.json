@@ -1,25 +1,67 @@
 {
-  "generated_at": "2026-08-12T04:03:32.890745+00:00",
+  "generated_at": "2026-08-12T06:13:59.010683+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "3bfdf88284a0",
-      "title": "Do you wear janeu, eat non-veg? Ram temple CEO job interview gets personal",
-      "link": "https://www.indiatoday.in/india/story/ram-temple-ceo-selection-ayodhya-candidates-asked-about-janeu-diet-faith-2969108-2026-08-12?utm_source=rss",
-      "summary": "Do you wear janeu, eat non-veg? Ram temple CEO job interview gets personal",
-      "source": "India Today Fashion",
+      "id": "ca47bbd85f4b",
+      "title": "Not Chrome, Not Glitter—Aqua Glazed Nails Is the Trend to Try This August",
+      "link": "https://www.whowhatwear.com/beauty/nails/manucurist-active-plump-aqua-glazed",
+      "summary": "Chic and fun.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-12T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "58722aa17d6e",
+      "title": "Fashion’s Betting on the Ballet. What’s the Pointe?",
+      "link": "https://www.vogue.com/article/fashions-betting-on-the-ballet-whats-the-pointe",
+      "summary": "As the luxury market favors experiential clienteling and culture-led engagement, ballet and dance are becoming trusted signals of taste, attracting young consumers and VICs.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Fashion’s Betting on the Ballet. What’s the Pointe?...",
+      "score": 2,
+      "published": "2026-08-12T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c8285ad6bc2",
+      "title": "What Fashion Executives Are Reading This Summer",
+      "link": "https://www.vogue.com/article/what-fashion-executives-are-reading-this-summer",
+      "summary": "Spanning topics from algorithms to ecology, here’s what fashion executives have read this summer.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Do you wear janeu, eat non-veg? Ram temple CEO job interview gets pers...",
+      "angle": "Fashion Intelligence: What Fashion Executives Are Reading This Summer...",
       "score": 1,
-      "published": "2026-08-12T03:00:03+00:00",
+      "published": "2026-08-12T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e34a80b5bb2f",
+      "title": "The It-Kids of South Korea",
+      "link": "https://www.vogue.com/article/the-it-kids-of-south-korea",
+      "summary": "Here are the next-gen South Korean stars that luxury brands should have on their radars.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The It-Kids of South Korea...",
+      "score": 2,
+      "published": "2026-08-12T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -625,20 +667,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "42ffcf172214",
-      "title": "Lip Contouring or Lip Liner: Which Makes Lips Look Bigger?",
-      "link": "https://www.vogue.com/article/lip-contouring-lip-liner",
-      "summary": "Learn the differences between lip contouring and lip liner, as well as techniques and the best products for fuller-looking or more defined lips.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lip Contouring or Lip Liner: Which Makes Lips Look Bigger?...",
-      "score": 0,
-      "published": "2026-08-11T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "28c11c181b1e",
       "title": "Kaia Gerber and Homer Gere on ‘The Shards,’ Their Parents, and Proving Everyone Wrong | Vogue’s September 2026 Cover Story",
       "link": "https://www.vogue.com/article/kaia-gerber-homer-gere-september-cover-2026-interview",
@@ -648,6 +676,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kaia Gerber and Homer Gere on ‘The Shards,’ Their Parents, and Proving...",
+      "score": 0,
+      "published": "2026-08-11T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42ffcf172214",
+      "title": "Lip Contouring or Lip Liner: Which Makes Lips Look Bigger?",
+      "link": "https://www.vogue.com/article/lip-contouring-lip-liner",
+      "summary": "Learn the differences between lip contouring and lip liner, as well as techniques and the best products for fuller-looking or more defined lips.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Lip Contouring or Lip Liner: Which Makes Lips Look Bigger?...",
       "score": 0,
       "published": "2026-08-11T12:00:00+00:00",
       "discovered_via": "feed"
@@ -919,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6446721ebd46",
-      "title": "Exemplar Luxury Group Is Ready to Win Back Brands and VICs",
-      "link": "https://www.vogue.com/article/exemplar-luxury-group-is-ready-to-win-back-brands-and-vics",
-      "summary": "CEO Geoffroy van Raemdonck hosted a party in the Hamptons for important customers and partners across the group’s three retailers. It’s an effort to reintroduce themselves to the industry.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Exemplar Luxury Group Is Ready to Win Back Brands and VICs...",
-      "score": 2,
-      "published": "2026-08-11T04:55:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7731075e3cf5",
       "title": "I’ve Done The Research—According to the Runways, These 6 Autumn Shoe Trends Will Be Everywhere",
       "link": "https://www.whowhatwear.com/fashion/shoes/autumn-shoe-trends-2026",
@@ -944,20 +972,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-11T04:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9a37982ff66f",
-      "title": "India’s Gen Z Is Rewriting the Luxury Playbook",
-      "link": "https://www.vogue.com/article/indias-gen-z-is-rewriting-the-luxury-playbook",
-      "summary": "A generation that has found its voice is now reshaping India’s luxury market.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: India’s Gen Z Is Rewriting the Luxury Playbook...",
-      "score": 1,
-      "published": "2026-08-11T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1000,20 +1014,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-08-11T02:08:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86daf5189a5e",
-      "title": "10 Anti-inflammatory Foods to Eat Regularly, According to Experts",
-      "link": "https://www.vogue.com/article/anti-inflammatory-foods-to-eat-regularly-2026",
-      "summary": "A handful of scientifically proven benefits will make you hungry for these anti-inflammatory foods.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Anti-inflammatory Foods to Eat Regularly, According to Experts...",
-      "score": 0,
-      "published": "2026-08-11T01:06:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1577,6 +1577,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "256a6a05f503",
+      "title": "How To Wear A Cuban Collar Shirt",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-cuban-collar-shirt/",
+      "summary": "Like all the best things in menswear, the Cuban collar shirt is a must-have because it&#8217;s versatile. You could wear the same one to a summer wedding and again to the beach the following weekend. This type of shirt is something of a comeback hero of men&#8217;s wardrobes. Also known as a revere collar or &#8230; Co",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: How To Wear A Cuban Collar Shirt...",
+      "score": 3,
+      "published": "2026-08-10T07:00:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ba2ecf1ecf65",
       "title": "I'm Already in the Mood for Autumn—5 Expensive-Looking Outfits to Take Me Into the New Season",
       "link": "https://www.whowhatwear.com/transitional-outfits-autumn-2026",
@@ -1647,20 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e2604fc431e8",
-      "title": "I Don't Own a Bottega Bag, But Wearing This Fragrance Makes Me Feel Like I Do",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/bottega-veneta-alta-perfumes",
-      "summary": "Now I smell expensive.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d35d8d7d942a",
       "title": "5 Outfits From Zara I'm Creating With the Most Expensive-Looking New-In Buys",
       "link": "https://www.whowhatwear.com/fashion/affordable/zara-outfit-ideas-2026",
@@ -1670,6 +1670,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 5 Outfits From Zara I'm Creating With the Most Expensive-Looking New-I...",
+      "score": 1,
+      "published": "2026-08-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e2604fc431e8",
+      "title": "I Don't Own a Bottega Bag, But Wearing This Fragrance Makes Me Feel Like I Do",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/bottega-veneta-alta-perfumes",
+      "summary": "Now I smell expensive.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-08-10T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1742,34 +1756,6 @@
       "angle": "Fashion Intelligence: Kristen Stewart Adds a Pop of Lime Green to Her Style Streak With Her ...",
       "score": 1,
       "published": "2026-08-09T18:05:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "816932fb9b54",
-      "title": "Dress Code: Thursday",
-      "link": "https://www.fashionbeans.com/article/thursday/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dress Code: Thursday...",
-      "score": 1,
-      "published": "2026-08-09T17:46:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "53f6846d5818",
-      "title": "Sneaker Hall Of Fame: Common Projects Achilles Low",
-      "link": "https://www.fashionbeans.com/article/common-projects-achilles-low/",
-      "summary": "The Sneaker Hall Of Fame is FashionBeans&#8217; compendium of the most iconic trainer designs of all time. From the Common Projects Achilles to the Nike Air Force One, these are the kicks that have changed the course of footwear history. The plain white sneaker is more than just a shoe rack staple, it’s a bona &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sneaker Hall Of Fame: Common Projects Achilles Low...",
-      "score": 2,
-      "published": "2026-08-09T16:00:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1880,20 +1866,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then L...",
-      "score": 1,
-      "published": "2026-08-09T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "335a12682bb7",
-      "title": "Unsurprisingly, Zendaya’s New Wedding Ring Looks Chic Even With Jeans and Ballet Flats",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-tom-holland-debut-new-wedding-rings-2026",
-      "summary": "Congrats are in order.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Unsurprisingly, Zendaya’s New Wedding Ring Looks Chic Even With Jeans and Ballet Flats — A Complete Style Guide",
       "score": 1,
       "published": "2026-08-09T06:00:00+00:00",
       "discovered_via": "feed"
@@ -2585,6 +2557,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8588fe449fdb",
+      "title": "Trending Indo Western Dresses For Raksha Bandhan",
+      "link": "https://blog.kalkifashion.com/trending-indo-western-dresses-for-raksha-bandhan/",
+      "summary": "Raksha Bandhan is not just a festival but a celebration of laughter, love, sibling bond, childhood memories and heartfelt promises. When families gather to celebrate this festival, every sister wants to look beautiful in her outfit. You will be glad to know that this year, Indo-Western dresses are the talk of the town,",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-12T04:18:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e8fb4c7bc1d2",
       "title": "5 Ways to Style Your Palazzo Suit Set for Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/5-ways-to-style-your-palazzo-suit-set-for-raksha-bandhan/",
@@ -2750,20 +2736,6 @@
       "angle": "Fashion Intelligence: Get Inspired by a Love Story That Almost Never Happened. Find Out What...",
       "score": 0,
       "published": "2026-07-06T12:55:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "65bfa6e57dcf",
-      "title": "Thejaswini’s Dreamy Backwater Wedding in Kumbalangi, Kochi",
-      "link": "https://blog.kalkifashion.com/thejaswinis-dreamy-backwater-wedding-in-kumbalangi-kochi/",
-      "summary": "Swipe Right to Soulmate Status Picture this: the sun dipping low over the tranquil backwaters of Kumbalangi, Kochi, casting a golden glow on pastel florals swaying gently in the breeze. In the heart of it all? Thejaswini, radiant in her ivory lehenga, locking eyes with her groom as the world fades into a soft, dreamy [",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Thejaswini’s Dreamy Backwater Wedding in Kumbalangi, Kochi — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-07-06T12:07:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "my bias my boss drama",
+      "term": "jamaica kingsmen vs barbados tridents",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "molbio diagnostics ipo",
+      "term": "n chandrasekaran",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shiprocket ipo gmp",
+      "term": "टोयोटा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "హైదరాబాద్",
+      "term": "chennai international airport",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "oracle layoffs",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बलूचिस्तान",
+      "term": "हार्दिक पांड्या",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "freedom habba registration",
+      "term": "సినిమా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "clerk recruitment",
+      "term": "राशियाँ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गूगल",
+      "term": "independence day 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नोएडा इंटरनेशनल एयरपोर्ट",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "അടിവസ്ത്രം",
+      "term": "milky mist ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
