@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-08-12T09:10:25.089320+00:00",
+  "generated_at": "2026-08-12T11:44:51.588858+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "3e576757a8ae",
+      "title": "Why Botanical Fashion Never Goes Out of Style",
+      "link": "https://www.fashiongonerogue.com/story/botanical-fashion-style/",
+      "summary": "Fashion has always taken its cues from the natural world, and no source of inspiration has proven as durable as ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Botanical Fashion Never Goes Out of Style...",
+      "score": 2,
+      "published": "2026-08-12T11:41:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e184d2449428",
+      "title": "Sorry Trainers—These Breakthrough Shoe Trends Make Leggings Look Significantly Chicer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/micro-wedge-flip-flops-high-vamp-flat-shoes-leggings-outfits-hailey-beiber-2026",
+      "summary": "Immediate upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-12T11:19:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f17e76a6f672",
+      "title": "Strapless Return as A/W 2026’s Unlikely Silhouette",
+      "link": "https://in.apparelresources.com/fashion-news/trends/strapless-return-w-2026s-unlikely-silhouette/",
+      "summary": "The strapless silhouette, typically filed under summer dressing, is emerging as one of the season&#8217;s most-repeated shapes on both global runways and India&#8217;s festive circuit. Fashion month reporting for Fall/Winter 2026 places the bandeau and strapless column among the season&#8217;s defining minimalist state",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Strapless Return as A/W 2026’s Unlikely Silhouette...",
+      "score": 5,
+      "published": "2026-08-12T10:55:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "511c5dcf53df",
+      "title": "V-Mart Retail Opens 600th Store In Bihar, Expands to 338+ Cities",
+      "link": "https://in.apparelresources.com/business-news/retail/v-mart-retail-opens-600th-store-bihar-expands-338-cities/",
+      "summary": "Value fashion retailer V-Mart Retail Limited opened its 600th store in Patna, Bihar, taking its retail network to 338+ cities across 29 states and Union Territories. The company has added 100 stores over the past 12 months, including 24 stores year-to-date in FY27, as it expands its presence in Tier II, Tier III and em",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: V-Mart Retail Opens 600th Store In Bihar, Expands to 338+ Cities...",
+      "score": 1,
+      "published": "2026-08-12T10:34:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a1843fa60b98",
+      "title": "28 Black-Tie Wedding Guest Dresses That Are Perfectly Formal",
+      "link": "https://www.vogue.com/slideshow/black-tie-wedding-guest-dresses",
+      "summary": "From sequined gowns to maximalist florals, our edit of the best black-tie wedding guest dresses will help you master the formal attire dress code.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 28 Black-Tie Wedding Guest Dresses That Are Perfectly Formal — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "45b02b407dc3",
+      "title": "8 Travel Totes for Every Style, Destination, and Itinerary",
+      "link": "https://www.vogue.com/article/travel-totes",
+      "summary": "Heading on a trip? A travel tote is one of the most useful purchases to make before you hit the road—from coastal canvas to sleek leather, here are some of our favorites.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Travel Totes for Every Style, Destination, and Itinerary...",
+      "score": 1,
+      "published": "2026-08-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-08-12T09:33:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "80eaaa6b5714",
+      "title": "Justin and Hailey Bieber Can Both Be Pilates Princesses",
+      "link": "https://www.vogue.com/article/justin-and-hailey-bieber-can-both-be-pilates-princesses",
+      "summary": "She’s been on a strength training journey, but Hailey Bieber knows there’s nothing quite like a reformer pilates burn.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Justin and Hailey Bieber Can Both Be Pilates Princesses...",
+      "score": 0,
+      "published": "2026-08-12T09:18:16+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "64233d57c043",
       "title": "Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little Else",
@@ -65,20 +177,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "965b531d97f4",
-      "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
-      "summary": "A short cut.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "63dc6058b5ec",
       "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
       "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
@@ -89,6 +187,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "965b531d97f4",
+      "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
+      "summary": "A short cut.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-08-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -289,20 +401,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b6025b5245fb",
-      "title": "Attention—Drunk Elephant Just Launched Foundation, and I’m Never Going Back to Tinted Moisturizer",
-      "link": "https://www.whowhatwear.com/beauty/makeup/drunk-elephant-kamo-triple-peptide-cover-drops",
-      "summary": "I've worn it every single day for a month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-11T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4d6a9f05d3c8",
       "title": "If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll Wear for Years to Come",
       "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-classic-fall-fashion-august-2026",
@@ -312,6 +410,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll We...",
+      "score": 1,
+      "published": "2026-08-11T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6025b5245fb",
+      "title": "Attention—Drunk Elephant Just Launched Foundation, and I’m Never Going Back to Tinted Moisturizer",
+      "link": "https://www.whowhatwear.com/beauty/makeup/drunk-elephant-kamo-triple-peptide-cover-drops",
+      "summary": "I've worn it every single day for a month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-11T20:00:00+00:00",
       "discovered_via": "feed"
@@ -709,6 +821,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "90f7b028b6e6",
+      "title": "How to Master Kaia Gerber’s Effortless Style—From Off-Duty Ease to Evening Polish",
+      "link": "https://www.vogue.com/article/kaia-gerber-best-street-style-outfits",
+      "summary": "Re-create the supermodel and September cover star’s best looks, from casual weekend moments to elegant night-out ensembles.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: How to Master Kaia Gerber’s Effortless Style—From Off-Duty Ease to Eve...",
+      "score": 2,
+      "published": "2026-08-11T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7e0baf34c2b0",
       "title": "From the Archives: Cindy Crawford and Richard Gere’s November 1992 Cover Story",
       "link": "https://www.vogue.com/article/from-the-archives-the-model-and-the-movie-star-november-1992",
@@ -732,20 +858,6 @@
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-11T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "90f7b028b6e6",
-      "title": "How to Master Kaia Gerber’s Effortless Style—From Off-Duty Ease to Evening Polish",
-      "link": "https://www.vogue.com/article/kaia-gerber-best-street-style-outfits",
-      "summary": "Re-create the supermodel and September cover star’s best looks, from casual weekend moments to elegant night-out ensembles.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: How to Master Kaia Gerber’s Effortless Style—From Off-Duty Ease to Eve...",
       "score": 2,
       "published": "2026-08-11T12:00:00+00:00",
       "discovered_via": "feed"
@@ -877,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb9ba102220d",
-      "title": "The Vogue Business AI Tracker",
-      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
-      "score": 2,
-      "published": "2026-08-11T11:12:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c6ad7568cade",
       "title": "Aretto Targets 100+ Retail Outlets by FY ’27, Eyes International Expansion",
       "link": "https://in.apparelresources.com/business-news/retail/aretto-targets-100-retail-outlets-fy-27-eyes-international-expansion/",
@@ -902,48 +1000,6 @@
       "angle": "Fashion Intelligence: Aretto Targets 100+ Retail Outlets by FY ’27, Eyes International Expan...",
       "score": 2,
       "published": "2026-08-11T10:53:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ae5a7b14ee91",
-      "title": "24 Best Airbnbs in the French Riviera Are Brimming with Mediterranean Charm",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-french-riviera",
-      "summary": "Planning a trip to the Côte d’Azur? From quaint city stays to luxe villas, these are the best Airbnbs on the French Riviera.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 24 Best Airbnbs in the French Riviera Are Brimming with Mediterranean ...",
-      "score": 0,
-      "published": "2026-08-11T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ebeb63b09e4",
-      "title": "Pick Up a New Hobby With These Watercolor Paint Sets",
-      "link": "https://www.vogue.com/article/watercolor-paint-sets",
-      "summary": "From rainbow-colored palettes to refined brushes to sketchpads, these watercolor paint sets include everything you need to kickstart a new hobby.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Pick Up a New Hobby With These Watercolor Paint Sets...",
-      "score": 0,
-      "published": "2026-08-11T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "88e123541cfb",
-      "title": "From Twinning to Prairiecore—8 Street Style Trends From the Spring 2027 Shows in Copenhagen",
-      "link": "https://www.vogue.com/article/from-twinning-to-prairie-core-8-street-style-trends-from-the-spring-2027-shows-in-copenhagen",
-      "summary": "These were the 8 street style trends worth trying on your own from the spring 2027 shows in Copenhagen.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-11T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -975,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "580601211d2f",
-      "title": "7 Classic Trends Every Chic Parisian Will Wear This Fall",
-      "link": "https://www.whowhatwear.com/fashion/trends/parisian-classic-fall-trends",
-      "summary": "Look elegant all season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b12d329bb9ab",
       "title": "It's Here: The It 2026 Brand Every Stylish It Girl Is Packing For Summer in Europe",
       "link": "https://www.whowhatwear.com/fashion/la-veste-fashion-brand",
@@ -1013,6 +1055,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-08-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "580601211d2f",
+      "title": "7 Classic Trends Every Chic Parisian Will Wear This Fall",
+      "link": "https://www.whowhatwear.com/fashion/trends/parisian-classic-fall-trends",
+      "summary": "Look elegant all season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-08-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1406,20 +1462,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 6,
       "published": "2026-08-10T12:53:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "40e4b80de2bc",
-      "title": "Banana Club targets 100 stores, Rs 500 crore revenue by 2028",
-      "link": "https://in.apparelresources.com/business-news/retail/banana-club-targets-100-stores-rs-500-crore-revenue-2028/",
-      "summary": "Men’s fashion brand Banana Club is targeting 100 stores and revenue of Rs 500 crore (US $5.23 million) by 2028 as it expands into emerging cities, adds new product categories and explores quick-commerce fulfilment. The brand currently operates 21 stores across eight cities and is set to open its 22nd outlet in Kamla Na",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Banana Club targets 100 stores, Rs 500 crore revenue by 2028...",
-      "score": 2,
-      "published": "2026-08-10T12:38:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1882,20 +1924,6 @@
       "angle": "Fashion Intelligence: Katseye Gives Their First Performance Since Sophia Laforteza Stepped B...",
       "score": 0,
       "published": "2026-08-09T13:18:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "da851eca6014",
-      "title": "Vittoria Ceretti on Italian Beauty, Country Music, and the One Wellness Ritual She Swears By",
-      "link": "https://www.whowhatwear.com/beauty/makeup/vittoria-ceretti-beauty-interview",
-      "summary": "\"I've really learned from my roots.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Vittoria Ceretti on Italian Beauty, Country Music, and the One Wellnes...",
-      "score": 2,
-      "published": "2026-08-09T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2400,20 +2428,6 @@
       "angle": "Fashion Intelligence: H&M Studio Essentials Fall 2026 Makes Minimalism Feel Major...",
       "score": 1,
       "published": "2026-08-04T02:16:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4a4b9c1f6f2e",
-      "title": "Choosing Wedding Jewelry That Matches Your Personal Style",
-      "link": "https://www.fashiongonerogue.com/story/wedding-jewelry-matches-your-style/",
-      "summary": "Wedding jewelry often gets treated as an afterthought, something to sort out in the final weeks before the big day. ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Choosing Wedding Jewelry That Matches Your Personal Style — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-04T02:11:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "hal share price",
+      "term": "urban cruiser hyryder aero black edition",
+      "summary": "",
+      "aza_category": "Trend Alert"
+    },
+    {
+      "term": "cbse compartment result 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्वरा भास्कर",
+      "term": "த்ரிஷா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వరద",
+      "term": "ವಿಜಯ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಮಧು ಬಂಗಾರಪ್ಪ",
+      "term": "मुख्यमंत्री लाड़ली बहना योजना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विजय",
+      "term": "dl65",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "కార్యదర్శి",
+      "term": "ibrahim zadran",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സുപ്രീം കോടതി",
+      "term": "தமிழ்நாடு அரசு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "எதிர்நீச்சல்",
+      "term": "डॉलर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "google pixel",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "અમિતાભ બચ્ચન",
+      "term": "രാഹുല് ഗാന്ധി",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
