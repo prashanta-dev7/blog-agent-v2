@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-08-12T06:13:59.010683+00:00",
+  "generated_at": "2026-08-12T09:10:25.089320+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "64233d57c043",
+      "title": "Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little Else",
+      "link": "https://www.vogue.com/article/jennifer-lopez-french-riviera-manicure",
+      "summary": "Fresh, clean, and somewhere between Jane Birkin’s effortless chic and Brigitte Bardot’s glam: Jennifer Lopez has mastered the summer nude.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little El...",
+      "score": 1,
+      "published": "2026-08-12T08:41:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b8321f485e0",
+      "title": "Dashcam video shows moment of Atiq Ahmed's son's fatal crash, SUV flung into air",
+      "link": "https://www.indiatoday.in/india/story/atiq-ahmed-son-abaan-ahmed-crash-video-jhansi-police-verify-fatal-suv-accident-uttar-pradesh-2969324-2026-08-12?utm_source=rss",
+      "summary": "Dashcam video shows moment of Atiq Ahmed's son's fatal crash, SUV flung into air",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Dashcam video shows moment of Atiq Ahmed's son's fatal crash, SUV flun...",
+      "score": 1,
+      "published": "2026-08-12T08:04:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "530b7ad96d0b",
+      "title": "Not Black and White—The Coolest Dressers Are Opting For Bold Colour Combos This Season",
+      "link": "https://www.whowhatwear.com/fashion/trends/trending-colour-combinations-2026",
+      "summary": "Rainbows all round.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-12T07:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57b74cf99958",
+      "title": "Aap badal gaye ho: When Kharge, Gandhi siblings met PM Modi at wedding event",
+      "link": "https://www.indiatoday.in/india/story/pm-modi-rahul-priyanka-gandhi-kharge-banter-wedding-event-viral-video-2969306-2026-08-12?utm_source=rss",
+      "summary": "Aap badal gaye ho: When Kharge, Gandhi siblings met PM Modi at wedding event",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Aap badal gaye ho — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-08-12T07:35:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "965b531d97f4",
+      "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
+      "summary": "A short cut.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63dc6058b5ec",
+      "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
+      "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
+      "summary": "Trust me—I get my steps in.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ca47bbd85f4b",
       "title": "Not Chrome, Not Glitter—Aqua Glazed Nails Is the Trend to Try This August",
@@ -845,20 +929,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: Pick Up a New Hobby With These Watercolor Paint Sets...",
       "score": 0,
-      "published": "2026-08-11T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7cd07a47a547",
-      "title": "12 Pre-Fall Accessory Trends to Introduce to Your Wardrobe Now",
-      "link": "https://www.vogue.com/article/pre-fall-2026-acessory-trends",
-      "summary": "From scarves to layered necklaces, these pre-fall accessory trends mark the transition into autumn.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-08-11T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1826,48 +1896,6 @@
       "angle": "Fashion Intelligence: Vittoria Ceretti on Italian Beauty, Country Music, and the One Wellnes...",
       "score": 2,
       "published": "2026-08-09T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb2a04913095",
-      "title": "This Affordable, French-Inspired Style Tweak Makes Any Outfit Instantly Chicer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-elsa-hosk-bandana-summer-accessory-trend-2026",
-      "summary": "If its good enough for the It girls…",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Affordable, French-Inspired Style Tweak Makes Any Outfit Instantl...",
-      "score": 2,
-      "published": "2026-08-09T07:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "22c0e6bfbde3",
-      "title": "My Chic Mom Gave Me a $275 Budget—I Sent Her These 3 Affordable Summer Outfit Ideas From Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/affordable-nordstrom-outfit-ideas-summer-2026",
-      "summary": "And rich-looking.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Chic Mom Gave Me a $275 Budget—I Sent Her These 3 Affordable Summer...",
-      "score": 1,
-      "published": "2026-08-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "19296644e61a",
-      "title": "Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then Like This, This and This",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-to-autumn-outfits-with-jeans-2026",
-      "summary": "Your guide to transitional denim.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Trust Me—When You're Ready to Wear Jeans Again, You Should Wear Then L...",
-      "score": 1,
-      "published": "2026-08-09T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "jamaica kingsmen vs barbados tridents",
+      "term": "hal share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "n chandrasekaran",
+      "term": "स्वरा भास्कर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टोयोटा",
+      "term": "వరద",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chennai international airport",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "oracle layoffs",
+      "term": "ಮಧು ಬಂಗಾರಪ್ಪ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हार्दिक पांड्या",
+      "term": "विजय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సినిమా",
+      "term": "కార్యదర్శి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राशियाँ",
+      "term": "സുപ്രീം കോടതി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "independence day 2026",
+      "term": "எதிர்நீச்சல்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "milky mist ipo",
+      "term": "google pixel",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "અમિતાભ બચ્ચન",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
