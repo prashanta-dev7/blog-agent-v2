@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-08-13T09:10:54.413626+00:00",
+  "generated_at": "2026-08-13T11:44:38.156060+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 176,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "403c5ddfc0bd",
+      "title": "Paul Anthony Kelly Has Found a New Love Story as...a Disney Weddings Model",
+      "link": "https://www.vogue.com/article/paul-anthony-kelly-disney-weddings-model",
+      "summary": "With a breakout role as JFK Jnr. in “Love Story” under his belt and a slate of forthcoming projects, why is Paul Anthony Kelly modeling a Mickey Mouse tuxedo?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Paul Anthony Kelly Has Found a New Love Story as...a Disney Weddings Model — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-13T10:17:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "458af1f14b43",
+      "title": "8 Vogue Editors on the Dream Airbnbs They Have Wishlisted",
+      "link": "https://www.vogue.com/article/vogue-editors-dream-airbnbs",
+      "summary": "Planning a trip? Peruse our wishlist first: From Mexico City to the Mediterranean, Vogue editors share their all-time dream Airbnbs.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Vogue Editors on the Dream Airbnbs They Have Wishlisted...",
+      "score": 0,
+      "published": "2026-08-13T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82cccf361803",
+      "title": "How Can Brands Manage Wildfire Risks?",
+      "link": "https://www.vogue.com/article/how-can-brands-manage-wildfire-risks",
+      "summary": "As record-breaking fires burn globally, investment, adaptation, and resilience have become non-negotiable.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Can Brands Manage Wildfire Risks?...",
+      "score": 1,
+      "published": "2026-08-13T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "def2a6e302ae",
+      "title": "Kristen Stewart and Alia Shawkat’s Clashing Co-Star Style Has Layers",
+      "link": "https://www.vogue.com/article/kristen-stewart-alia-shawkat-wrong-girls-clashing-co-star-style",
+      "summary": "“The Wrong Girls” actors have strong personal aesthetics: rebellious sneakerhead Kristen Stewart, artful romantic Alia Shawkat—but on press tour, they make room for sweet sartorial nods to each other.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Kristen Stewart and Alia Shawkat’s Clashing Co-Star Style Has Layers...",
+      "score": 1,
+      "published": "2026-08-13T09:28:22+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "cba9bcb9df84",
       "title": "Don't want people to stay healthy? SC raps FSSAI over packaged food labels",
@@ -93,6 +149,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "bac7a56fa866",
+      "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
+      "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
+      "summary": "Power couple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e196c74101fe",
       "title": "I'm Ready For Autumn But It's Still Hot—7 Chic Trouser Trends That Work For Both",
       "link": "https://www.whowhatwear.com/fashion/shopping/transitional-trouser-trends-2026",
@@ -117,20 +187,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bac7a56fa866",
-      "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
-      "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
-      "summary": "Power couple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
       "published": "2026-08-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -891,62 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "45b02b407dc3",
-      "title": "8 Travel Totes for Every Style, Destination, and Itinerary",
-      "link": "https://www.vogue.com/article/travel-totes",
-      "summary": "Heading on a trip? A travel tote is one of the most useful purchases to make before you hit the road—from coastal canvas to sleek leather, here are some of our favorites.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Travel Totes for Every Style, Destination, and Itinerary...",
-      "score": 1,
-      "published": "2026-08-12T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9f43f0d1fd45",
-      "title": "7 Sneaker Trends to Have on Your Radar for Fall 2026",
-      "link": "https://www.vogue.com/article/6-sneaker-trends-to-look-out-for-in-2025",
-      "summary": "Vogue highlights the key sneaker trends of fall 2026, from nostalgic white plimsolls to embellished runners and skater-inspired slip-ons.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-12T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-08-12T09:33:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "80eaaa6b5714",
-      "title": "Justin and Hailey Bieber Can Both Be Pilates Princesses",
-      "link": "https://www.vogue.com/article/justin-and-hailey-bieber-can-both-be-pilates-princesses",
-      "summary": "She’s been on a strength training journey, but Hailey Bieber knows there’s nothing quite like a reformer pilates burn.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Justin and Hailey Bieber Can Both Be Pilates Princesses...",
-      "score": 0,
-      "published": "2026-08-12T09:18:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "530b7ad96d0b",
       "title": "Not Black and White—The Coolest Dressers Are Opting for Bold Colour Combos This Season",
       "link": "https://www.whowhatwear.com/fashion/trends/trending-colour-combinations-2026",
@@ -961,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "63dc6058b5ec",
-      "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
-      "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
-      "summary": "Trust me—I get my steps in.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "965b531d97f4",
       "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
@@ -985,6 +971,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63dc6058b5ec",
+      "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
+      "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
+      "summary": "Trust me—I get my steps in.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-08-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1059,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b6025b5245fb",
-      "title": "Attention—Drunk Elephant Just Launched Foundation, and I’m Never Going Back to Tinted Moisturizer",
-      "link": "https://www.whowhatwear.com/beauty/makeup/drunk-elephant-kamo-triple-peptide-cover-drops",
-      "summary": "I've worn it every single day for a month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-11T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4d6a9f05d3c8",
       "title": "If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll Wear for Years to Come",
       "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-classic-fall-fashion-august-2026",
@@ -1082,6 +1068,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll We...",
+      "score": 1,
+      "published": "2026-08-11T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6025b5245fb",
+      "title": "Attention—Drunk Elephant Just Launched Foundation, and I’m Never Going Back to Tinted Moisturizer",
+      "link": "https://www.whowhatwear.com/beauty/makeup/drunk-elephant-kamo-triple-peptide-cover-drops",
+      "summary": "I've worn it every single day for a month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-11T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1969,6 +1969,76 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d9ecefb688e4",
+      "title": "7 Best Silicone Wedding Bands For Men (2026 Edition)",
+      "link": "https://www.fashionbeans.com/article/best-silicone-wedding-bands/",
+      "summary": "While there’s certainly something to be said for doing things the traditional way, it doesn’t always mean it’s the best way. Take your wedding band, for example. It’s eye-catching. It’s strong and sturdy. It tells a timeless tale of love and devotion. All of these things are true. But it’s also true that “traditional” ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 7 Best Silicone Wedding Bands For Men (2026 Edition) — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-10T06:55:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d8b17d303225",
+      "title": "11 Best Non Iron Dress Shirts For Men in 2026",
+      "link": "https://www.fashionbeans.com/article/non-iron-dress-shirts-for-men/",
+      "summary": "You&#8217;re all set for your next big event: a sleek suit, the right dress socks, dress shoes that will keep you moving. Everything is falling into place until you realize your dress shirt is beyond wrinkled. No ironing board and iron in sight and no time or money to go to the cleaners, you&#8217;re in &#8230; Continu",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 11 Best Non Iron Dress Shirts For Men in 2026...",
+      "score": 1,
+      "published": "2026-08-10T06:50:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "acc031ac1eec",
+      "title": "9 Best Safety Razors For Men – Next-Level Shaving in 2026",
+      "link": "https://www.fashionbeans.com/article/best-safety-razor-for-men/",
+      "summary": "The best safety razors make me think of the phrase, “if it ain’t broke, don’t fix it.” They’re the sharks of the men’s grooming world, a piece of equipment that hasn’t evolved much in over 100 years. Sure, there have been plenty of advancements in shaving, but the original-style razor is still available because it’s &#",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 9 Best Safety Razors For Men – Next-Level Shaving in 2026...",
+      "score": 1,
+      "published": "2026-08-10T06:29:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f949d813b7c3",
+      "title": "Ametora: How To Dress With Japanese Style",
+      "link": "https://www.fashionbeans.com/article/ametora-style-guide/",
+      "summary": "If you spend even a cursory amount of time looking at the more discerning end of menswear, you’ll have noticed one country dominating. Whether you’re obsessing over cult workwear brands, following Instagram accounts like @clutchmagazinejapan, or noticing how much money you can self-justify spending on a single pair of ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ametora: How To Dress With Japanese Style...",
+      "score": 5,
+      "published": "2026-08-10T06:04:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6bc7c474c074",
+      "title": "6 Best Bvlgari Cologne For Men – Italian Luxury For 2026",
+      "link": "https://www.fashionbeans.com/article/best-bvlgari-colognes/",
+      "summary": "You’ve seen the fancy-pants Bvlgari shopping bags all over town. You’ve had your eye on the Bvlgari watch, the engagement ring, the leather bifold wallet, and the oceanside hotel in Bali. There’s no doubt about it—the luxury Italian fashion house does many things and does them well. But if you haven’t yet discovered th",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: 6 Best Bvlgari Cologne For Men – Italian Luxury For 2026...",
+      "score": 2,
+      "published": "2026-08-10T05:20:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b30f6a962fb1",
       "title": "Infanta Sofía Is the Latest Princess to Try On Queen Letizia’s Blue-and-White Summertime Dress",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73385790/infanta-sofia-borrows-queen-letizia-desigual-dress-photos/",
@@ -2725,6 +2795,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b0e405f9717a",
+      "title": "The Wrap Dress Is Having a Moment in Saudi Arabia — Here Are 7 Styles to Try",
+      "link": "https://www.azafashions.com/blog/wrap-dresses-women-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=wrap-dresses-women-saudi-arabia",
+      "summary": "There is a reason the wrap dress has outlived every fleeting trend cycle since Diane von Fürstenberg first tied one shut in 1974, it moves the way a woman moves. No&#8230; The post The Wrap Dress Is Having a Moment in Saudi Arabia — Here Are 7 Styles to Try appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Wrap Dress Is Having a Moment in Saudi Arabia — Here Are 7 Styles ...",
+      "score": 3,
+      "published": "2026-08-12T09:43:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1ef24111e75b",
       "title": "15 Best Designers to Know for the Perfect Punjabi Bridal Suit",
       "link": "https://www.azafashions.com/blog/punjabi-bridal-suit-designers/?utm_source=rss&utm_medium=rss&utm_campaign=punjabi-bridal-suit-designers",
@@ -2849,70 +2933,56 @@
       "score": 0,
       "published": "2026-08-06T06:04:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "106335b573c7",
-      "title": "Modern Brides Are Saying Yes to Statement Hair Accessories",
-      "link": "https://www.azafashions.com/blog/statement-hair-accessories/?utm_source=rss&utm_medium=rss&utm_campaign=statement-hair-accessories",
-      "summary": "The bridal conversation has shifted. Where once a bride's styling story began and ended with her lehenga and jewellery, today's modern bride understands something the fashion world has long known:&#8230; The post Modern Brides Are Saying Yes to Statement Hair Accessories appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Modern Brides Are Saying Yes to Statement Hair Accessories — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-08-05T09:37:25+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ಬೆಂಗಳೂರು",
+      "term": "எ. வ. வேலு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రితికా నాయక్",
+      "term": "realme 16x 5g",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भ्रष्टाचार",
+      "term": "അനുപമ പരമേശ്വരന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "జియో",
+      "term": "friday ott releases",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ദേശീയപാത 66",
+      "term": "mahindra scorpio pickup truck",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ബസ്",
+      "term": "साई पल्लवी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मनीष सिसोदिया",
+      "term": "तस्कीन अहमद",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मुद्रास्फीति",
+      "term": "tsunami",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hang seng index",
+      "term": "ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಉಡುಪಿ",
+      "term": "स्कॉटलैंड बनाम कनाडा",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
