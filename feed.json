@@ -1,13 +1,153 @@
 {
-  "generated_at": "2026-08-13T04:08:02.344671+00:00",
+  "generated_at": "2026-08-13T06:16:02.841815+00:00",
   "owned_count": 10,
-  "competitor_count": 17,
-  "industry_count": 174,
+  "competitor_count": 18,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "df2f9da51592",
+      "title": "Autumn's First Major Trend Is Here—And It's Already All Over Zara, H&M and Róhe",
+      "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
+      "summary": "Sorry to my trench coats.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bac7a56fa866",
+      "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
+      "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
+      "summary": "Power couple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e196c74101fe",
+      "title": "I'm Ready For Autumn But It's Still Hot—7 Chic Trouser Trends That Work For Both",
+      "link": "https://www.whowhatwear.com/fashion/shopping/transitional-trouser-trends-2026",
+      "summary": "Autumn-friendly and heatwave-proof.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5726361f3dc1",
+      "title": "7 Autumn Nail Ideas That You Can Wear Right Now to Get Ahead of the Trends",
+      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-nail-ideas-2026",
+      "summary": "Transitional shades.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "75869844f88c",
+      "title": "5 Sophisticated Outfits We're Excited to Wear This Autumn and Well Into 2027",
+      "link": "https://www.whowhatwear.com/autumn-outfit-ideas-2026",
+      "summary": "Bring on the new season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 5 Sophisticated Outfits We're Excited to Wear This Autumn and Well Int...",
+      "score": 3,
+      "published": "2026-08-13T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ab2bf8c6e2bc",
+      "title": "How Exclusive Access Became the New Birkin",
+      "link": "https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin",
+      "summary": "As tiered reward systems first popularized by finance and travel hit fashion, status is shifting from what you own to where you can go.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Exclusive Access Became the New Birkin...",
+      "score": 1,
+      "published": "2026-08-13T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2fc47129b745",
+      "title": "A To-Do List for Harvey Nichols’s New Owner",
+      "link": "https://www.vogue.com/article/a-to-do-list-for-harvey-nicholss-new-owner",
+      "summary": "For success, the new owner will need financial discipline, a complete logistics overhaul, and a fresh go-to-market image for Harvey Nicks 2.0.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A To-Do List for Harvey Nichols’s New Owner...",
+      "score": 0,
+      "published": "2026-08-13T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "86a3ba67380b",
+      "title": "The Vogue Business TikTok Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from TikTok, unpacking the latest creators and biggest trends sweeping its Gen Z user base.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-13T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "67a2c5ddcf91",
+      "title": "New York’s Still Here Is Heading West",
+      "link": "https://www.vogue.com/article/new-yorks-still-here-is-heading-west",
+      "summary": "With a West Village opening today and Los Angeles next month, downtown denim go-to Still Here is expanding how its founders know best: physical-first.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: New York’s Still Here Is Heading West...",
+      "score": 0,
+      "published": "2026-08-13T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73e6cd44bd5d",
+      "title": "72 Thoughts I Had While Watching Episode 1 of ‘Sterling Point’",
+      "link": "https://www.vogue.com/article/72-thoughts-about-episode-1-of-sterling-point",
+      "summary": "Aw, I love this Canadian cabin! It’s wasted on a teen, though. Now, a thirtysomething like myself could really cozy up and do 'The Artist’s Way' in there.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 72 Thoughts I Had While Watching Episode 1 of ‘Sterling Point’...",
+      "score": 0,
+      "published": "2026-08-13T04:16:27+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4e145140ed4a",
       "title": "Instead of Black Ankle Boots, This Celeb-Approved Style and Color Will Be Trending This Fall",
@@ -583,6 +723,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6dde80999bae",
+      "title": "Anne Hathaway’s Bump Is Nobody Else’s Business—Plain and Simple",
+      "link": "https://www.vogue.com/article/anne-hathaway-bump-nobodys-business",
+      "summary": "“I knew there were dinosaurs in Anne Hathaway’s new film, but turns out they’re all over her Instagram, too,” Claire Cohen writes of the recent furore over the star’s maternity style.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Anne Hathaway’s Bump Is Nobody Else’s Business—Plain and Simple...",
+      "score": 1,
+      "published": "2026-08-12T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3ef45cb01fe6",
       "title": "Fendi Fall 2026 Marks a New Era",
       "link": "https://www.fashiongonerogue.com/story/fendi-fall-2026-campaign/",
@@ -723,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "64233d57c043",
-      "title": "Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little Else",
-      "link": "https://www.vogue.com/article/jennifer-lopez-french-riviera-manicure",
-      "summary": "Fresh, clean, and somewhere between Jane Birkin’s effortless chic and Brigitte Bardot’s glam: Jennifer Lopez has mastered the summer nude.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little El...",
-      "score": 1,
-      "published": "2026-08-12T08:41:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "530b7ad96d0b",
       "title": "Not Black and White—The Coolest Dressers Are Opting for Bold Colour Combos This Season",
       "link": "https://www.whowhatwear.com/fashion/trends/trending-colour-combinations-2026",
@@ -751,20 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "63dc6058b5ec",
-      "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
-      "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
-      "summary": "Trust me—I get my steps in.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "965b531d97f4",
       "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
@@ -775,6 +901,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63dc6058b5ec",
+      "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
+      "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
+      "summary": "Trust me—I get my steps in.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-08-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -793,62 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "58722aa17d6e",
-      "title": "Fashion’s Betting on the Ballet. What’s the Pointe?",
-      "link": "https://www.vogue.com/article/fashions-betting-on-the-ballet-whats-the-pointe",
-      "summary": "As the luxury market favors experiential clienteling and culture-led engagement, ballet and dance are becoming trusted signals of taste, attracting young consumers and VICs.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Fashion’s Betting on the Ballet. What’s the Pointe?...",
-      "score": 2,
-      "published": "2026-08-12T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c8285ad6bc2",
-      "title": "What Fashion Executives Are Reading This Summer",
-      "link": "https://www.vogue.com/article/what-fashion-executives-are-reading-this-summer",
-      "summary": "Spanning topics from algorithms to ecology, here’s what fashion executives have read this summer.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What Fashion Executives Are Reading This Summer...",
-      "score": 1,
-      "published": "2026-08-12T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e34a80b5bb2f",
-      "title": "The It-Kids of South Korea",
-      "link": "https://www.vogue.com/article/the-it-kids-of-south-korea",
-      "summary": "Here are the next-gen South Korean stars that luxury brands should have on their radars.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The It-Kids of South Korea...",
-      "score": 2,
-      "published": "2026-08-12T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "561171cb7f67",
-      "title": "What You Missed at the Building a Career in Fashion Event",
-      "link": "https://www.vogue.com/article/building-a-career-in-fashion-london",
-      "summary": "Discover the key takeaways from an evening of conversation, advice and networking focused on building a career in fashion.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What You Missed at the Building a Career in Fashion Event...",
-      "score": 1,
-      "published": "2026-08-12T03:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fdfa24b1537e",
       "title": "Mary-Kate and Ashley Are Backing This Tasteful Shirt Trend for Fall",
       "link": "https://www.whowhatwear.com/fashion/fall/greta-lee-wearing-the-row-trend",
@@ -860,20 +944,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-12T02:26:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3af88c01ad82",
-      "title": "I Want What Oprah and Stedman Quietly, Consistently Have:",
-      "link": "https://www.vogue.com/article/i-want-what-they-have-oprah-winfrey-and-stedman-graham",
-      "summary": "Graham described himself as being “dedicated to [Winfrey’s] happiness” in a 2019 interview. Who could ask for more!",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Want What Oprah and Stedman Quietly, Consistently Have:...",
-      "score": 0,
-      "published": "2026-08-12T00:14:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -919,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4d6a9f05d3c8",
-      "title": "If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll Wear for Years to Come",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-classic-fall-fashion-august-2026",
-      "summary": "Shop these exact items in each category.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll We...",
-      "score": 1,
-      "published": "2026-08-11T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b6025b5245fb",
       "title": "Attention—Drunk Elephant Just Launched Foundation, and I’m Never Going Back to Tinted Moisturizer",
       "link": "https://www.whowhatwear.com/beauty/makeup/drunk-elephant-kamo-triple-peptide-cover-drops",
@@ -942,6 +998,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-11T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4d6a9f05d3c8",
+      "title": "If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll Wear for Years to Come",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-classic-fall-fashion-august-2026",
+      "summary": "Shop these exact items in each category.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll We...",
       "score": 1,
       "published": "2026-08-11T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1325,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "580601211d2f",
-      "title": "7 Classic Trends Every Chic Parisian Will Wear This Fall",
-      "link": "https://www.whowhatwear.com/fashion/trends/parisian-classic-fall-trends",
-      "summary": "Look elegant all season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b12d329bb9ab",
       "title": "It's Here: The It 2026 Brand Every Stylish It Girl Is Packing For Summer in Europe",
       "link": "https://www.whowhatwear.com/fashion/la-veste-fashion-brand",
@@ -1349,6 +1405,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: It's Here: The It 2026 Brand Every Stylish It Girl Is Packing For Summ...",
       "score": 1,
+      "published": "2026-08-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "580601211d2f",
+      "title": "7 Classic Trends Every Chic Parisian Will Wear This Fall",
+      "link": "https://www.whowhatwear.com/fashion/trends/parisian-classic-fall-trends",
+      "summary": "Look elegant all season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-08-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1507,20 +1577,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5d1b66fbc57f",
-      "title": "I've Been Air-Drying My Hair for Over a Decade—See the Expert-Backed Products I Swear By",
-      "link": "https://www.whowhatwear.com/beauty/hair/air-dry-products",
-      "summary": "No frizz, effortless results.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Been Air-Drying My Hair for Over a Decade—See the Expert-Backed P...",
-      "score": 1,
-      "published": "2026-08-10T19:27:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8be18f97177c",
       "title": "An Insider’s Edit of the Best Bags Under $300",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73337351/best-affordable-fall-bags-2026/",
@@ -1563,34 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "72738991ead6",
-      "title": "I Wear Slick-Backs Multiple Times a Week—These Are the Only Products That Keep My Look Intact",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-slick-back-products",
-      "summary": "You'll get frizz-free results every time.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Wear Slick-Backs Multiple Times a Week—These Are the Only Products T...",
-      "score": 1,
-      "published": "2026-08-10T17:52:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4edfe9d5f373",
-      "title": "It's Here: The Most Important and Prettiest Shoe Trend of Fall 2026",
-      "link": "https://www.whowhatwear.com/fashion/fall/satin-shoe-trend-fall-2026",
-      "summary": "Including Reformation's viral under-$250 pair.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-10T17:35:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "25b0ef815e82",
       "title": "The Tradwife Aesthetic Has Reached Copenhagen Street Style",
       "link": "https://fashionista.com/2026/08/copenhagen-fashion-week-spring-2027-street-style-tradwife",
@@ -1616,20 +1644,6 @@
       "angle": "Fashion Intelligence: The Right Now Is Hiring An Account Manager In New York, NY (Hybrid)...",
       "score": 3,
       "published": "2026-08-10T16:58:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4b15adee550e",
-      "title": "Don't Hold the Cropped Jeans—Just Wear Them With This Shoe Trend If You're Scared of Looking Dated",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-full-foot-ballet-flats-trend-dakota-johnson",
-      "summary": "When in doubt, do as Dakota Johnson does.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-10T16:44:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2445,6 +2459,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "75f6ee6d0efa",
+      "title": "Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Match",
+      "link": "https://www.indianclothstore.com/blog/saree-for-rakshabandhan-outfit-ideas",
+      "summary": "A good saree for rakshabandhan paired with a matching kurta for the brother is the easiest way to create a coordinated Raksha Bandhan look without shopping for separate color palettes. This guide covers saree picks, kurti options, salwar kameez styles, men&#8217;s kurta pajama pairings, and color combinations that phot",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Mat...",
+      "score": 4,
+      "published": "2026-08-13T05:06:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8588fe449fdb",
       "title": "Trending Indo Western Dresses For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/trending-indo-western-dresses-for-raksha-bandhan/",
@@ -2825,52 +2853,52 @@
   ],
   "trends": [
     {
-      "term": "jio finance share",
+      "term": "azim premji scholarship",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kerala lottery results dl 65",
+      "term": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रेस सचिव",
+      "term": "मैथ्यू हेडन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सारा तेंडुलकर",
+      "term": "taiwan index",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഡോണള്ഡ് ട്രംപ്",
+      "term": "aditya dhar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lenskart share price",
+      "term": "யானை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "independence day 2026",
+      "term": "shiprocket ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांग्लादेश क्रिकेट बोर्ड",
+      "term": "vodafone idea share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricketer abhishek",
+      "term": "bangalore bandh karnataka bandh today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "15 august 2026",
+      "term": "behari lal engineering ltd ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
