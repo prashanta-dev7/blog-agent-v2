@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-08-13T06:16:02.841815+00:00",
+  "generated_at": "2026-08-13T09:10:54.413626+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 175,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "cba9bcb9df84",
+      "title": "Don't want people to stay healthy? SC raps FSSAI over packaged food labels",
+      "link": "https://www.indiatoday.in/india/law-news/story/fssai-warning-labels-packaged-food-supreme-court-questions-delay-on-sugar-salt-and-fat-tags-2970174-2026-08-13?utm_source=rss",
+      "summary": "Don't want people to stay healthy? SC raps FSSAI over packaged food labels",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Don't want people to stay healthy? SC raps FSSAI over packaged food la...",
+      "score": 1,
+      "published": "2026-08-13T07:57:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1ceb2796f757",
+      "title": "Pedis at the Ready: I Think Flip-Flops and Ballet Flats Look Coolest When Styled With This Divisive Sock Trend",
+      "link": "https://www.whowhatwear.com/fashion/trends/toeless-sock-trend-2026",
+      "summary": "Footloose who?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-13T07:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b8c76a22ceb",
+      "title": "Forget Baby Tees, According to the Runways This is the Chicest Way to Show Skin this Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/strapless-dress-trend-2026",
+      "summary": "Give sleeves the cold shoulder.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Forget Baby Tees, According to the Runways This is the Chicest Way to ...",
+      "score": 2,
+      "published": "2026-08-13T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d809a9bfdea3",
+      "title": "Who What Wear Editors Told Me Their 21 Best Fashion Finds This Month",
+      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-august-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 21 Best Fashion Finds This Month...",
+      "score": 2,
+      "published": "2026-08-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "91d46c502c8b",
+      "title": "Colorful Streets, Caribbean Escapes, and the Best Local Designers: An Insider's Guide to Cartagena",
+      "link": "https://www.whowhatwear.com/living/travel/cartegena-colombia-travel-guide-agua-bendita",
+      "summary": "The founders of Agua Bendita share their dream itinerary.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Colorful Streets, Caribbean Escapes, and the Best Local Designers: An ...",
+      "score": 1,
+      "published": "2026-08-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "df2f9da51592",
       "title": "Autumn's First Major Trend Is Here—And It's Already All Over Zara, H&M and Róhe",
@@ -18,20 +88,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bac7a56fa866",
-      "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
-      "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
-      "summary": "Power couple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-08-13T06:00:00+00:00",
       "discovered_via": "feed"
@@ -61,6 +117,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bac7a56fa866",
+      "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
+      "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
+      "summary": "Power couple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-08-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -891,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "965b531d97f4",
-      "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
-      "summary": "A short cut.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "63dc6058b5ec",
       "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
       "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
@@ -915,6 +971,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "965b531d97f4",
+      "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
+      "summary": "A short cut.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-08-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1395,20 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b12d329bb9ab",
-      "title": "It's Here: The It 2026 Brand Every Stylish It Girl Is Packing For Summer in Europe",
-      "link": "https://www.whowhatwear.com/fashion/la-veste-fashion-brand",
-      "summary": "Shop the rising cult brand.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Here: The It 2026 Brand Every Stylish It Girl Is Packing For Summ...",
-      "score": 1,
-      "published": "2026-08-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "580601211d2f",
       "title": "7 Classic Trends Every Chic Parisian Will Wear This Fall",
       "link": "https://www.whowhatwear.com/fashion/trends/parisian-classic-fall-trends",
@@ -1419,6 +1475,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-08-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b12d329bb9ab",
+      "title": "It's Here: The It 2026 Brand Every Stylish It Girl Is Packing For Summer in Europe",
+      "link": "https://www.whowhatwear.com/fashion/la-veste-fashion-brand",
+      "summary": "Shop the rising cult brand.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Here: The It 2026 Brand Every Stylish It Girl Is Packing For Summ...",
+      "score": 1,
       "published": "2026-08-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1434,34 +1504,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "33c261058799",
-      "title": "I've Waited Months for the Reformation Sale—9 Capsule Wardrobe Buys Already in My Basket",
-      "link": "https://www.whowhatwear.com/fashion/shopping/reformation-summer-sale-2026",
-      "summary": "Fashion people swear by these staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Waited Months for the Reformation Sale—9 Capsule Wardrobe Buys Al...",
-      "score": 2,
-      "published": "2026-08-11T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7731075e3cf5",
-      "title": "I’ve Done the Research: According to the Runways, These 6 Autumn Shoe Trends Will Be Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/shoes/autumn-shoe-trends-2026",
-      "summary": "Best foot forward.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-11T04:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1490,20 +1532,6 @@
       "angle": "Fashion Intelligence: How to Mix Diamond Rings With Gold & Silver Jewelry...",
       "score": 1,
       "published": "2026-08-11T02:44:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "28373813153e",
-      "title": "5 Copenhagen Trends Coming in Hot for 2027",
-      "link": "https://www.whowhatwear.com/fashion/runway/copenhagen-fashion-week-runway-spring-summer-2027",
-      "summary": "According to the latest runway shows.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-11T02:08:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1560,20 +1588,6 @@
       "angle": "Fashion Intelligence: Jamaica Kincaid Wants You to Know She Shaved Her Eyebrows First...",
       "score": 2,
       "published": "2026-08-10T20:27:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "776488c52972",
-      "title": "Sheer, Slinky, and Barely There—Copenhagen's Chicest Runway Trend Is Coming for Bridal",
-      "link": "https://www.whowhatwear.com/fashion/runway/copenhagen-fashion-week-spring-summer-2027-second-wedding-dress-trend",
-      "summary": "The coolest brides in Copenhagen approve.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Sheer, Slinky, and Barely There—Copenhagen's Chicest Runway Trend Is Coming for Bridal — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-08-10T20:09:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2853,52 +2867,52 @@
   ],
   "trends": [
     {
-      "term": "azim premji scholarship",
+      "term": "ಬೆಂಗಳೂರು",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்",
+      "term": "రితికా నాయక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मैथ्यू हेडन",
+      "term": "भ्रष्टाचार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "జియో",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aditya dhar",
+      "term": "ദേശീയപാത 66",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "யானை",
+      "term": "ബസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shiprocket ipo",
+      "term": "मनीष सिसोदिया",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vodafone idea share price",
+      "term": "मुद्रास्फीति",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bangalore bandh karnataka bandh today",
+      "term": "hang seng index",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "behari lal engineering ltd ipo",
+      "term": "ಉಡುಪಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
