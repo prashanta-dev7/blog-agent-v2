@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:13:51.553567+00:00",
+  "generated_at": "2026-08-14T09:06:23.349220+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 182,
@@ -8,6 +8,62 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "59f35b92515c",
+      "title": "Sorry, Polka Dots—This Print Trend Will Make Your Tops, Jeans and Dresses Look Chicer This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/striped-fashion-trend-2026",
+      "summary": "Spotted.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "37a2ee732cf8",
+      "title": "Easy, Effortless and Elegant—5 Chic Outfits That Will Be My Go-Tos This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/chic-british-outfits-autumn-2026",
+      "summary": "Get ahead of the new season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Easy, Effortless and Elegant—5 Chic Outfits That Will Be My Go-Tos Thi...",
+      "score": 2,
+      "published": "2026-08-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d988fbdb385",
+      "title": "60 aircraft, Rs 1 lakh crore: Air Force's big push to modernise transport fleet",
+      "link": "https://www.indiatoday.in/india/story/air-force-iaf-transport-aircraft-tender-60-multi-role-planes-1-lakh-crore-programme-2970903-2026-08-14?utm_source=rss",
+      "summary": "60 aircraft, Rs 1 lakh crore: Air Force's big push to modernise transport fleet",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-08-14T06:33:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "487dfc5d9f02",
+      "title": "These 6 Style Tribes Will Be the Dominating Trends For Autumn: Which One Are You?",
+      "link": "https://www.whowhatwear.com/fashion/trends/style-personalities-autumn-2026",
+      "summary": "Khaite Classicist, or a Boho Baddie?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-14T06:14:26+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4635f5aaf248",
       "title": "A Top Manicurist Just Told Me That These 6 Nail Trends Will Always Be in Style",
@@ -244,20 +300,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-13T18:55:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f0b785b2ad67",
-      "title": "Kanpur widow alleges SBI staff stole her Rs 50 lakh jewellery from locker",
-      "link": "https://www.indiatoday.in/india/story/sbi-locker-theft-kanpur-widow-alleges-rs-50-lakh-jewellery-missing-ptag-2970809-2026-08-14?utm_source=rss",
-      "summary": "Kanpur widow alleges SBI staff stole her Rs 50 lakh jewellery from locker",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kanpur widow alleges SBI staff stole her Rs 50 lakh jewellery from loc...",
-      "score": 1,
-      "published": "2026-08-13T18:35:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -499,20 +541,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ef07a278a1f9",
-      "title": "I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This One Product",
-      "link": "https://www.whowhatwear.com/beauty/hair/roz-wave-texturizing-mist-review",
-      "summary": "Volume, touchable waves, and impressive grip in just one spritz.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This ...",
-      "score": 1,
-      "published": "2026-08-13T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4072131ca204",
       "title": "From the King Kylie Era to the 2026 Oscars, These Are Kylie Jenner's Best Beauty Looks of All Time",
       "link": "https://www.whowhatwear.com/beauty/kylie-jenner-beauty-retrospective",
@@ -522,6 +550,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: From the King Kylie Era to the 2026 Oscars, These Are Kylie Jenner's B...",
+      "score": 1,
+      "published": "2026-08-13T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef07a278a1f9",
+      "title": "I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This One Product",
+      "link": "https://www.whowhatwear.com/beauty/hair/roz-wave-texturizing-mist-review",
+      "summary": "Volume, touchable waves, and impressive grip in just one spritz.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This ...",
       "score": 1,
       "published": "2026-08-13T14:00:00+00:00",
       "discovered_via": "feed"
@@ -835,34 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bac7a56fa866",
-      "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
-      "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
-      "summary": "Power couple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e196c74101fe",
-      "title": "I'm Ready For Autumn But It's Still Hot—7 Chic Trouser Trends That Work For Both",
-      "link": "https://www.whowhatwear.com/fashion/shopping/transitional-trouser-trends-2026",
-      "summary": "Autumn-friendly and heatwave-proof.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5726361f3dc1",
       "title": "7 Autumn Nail Ideas That You Can Wear Right Now to Get Ahead of the Trends",
       "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-nail-ideas-2026",
@@ -881,6 +895,34 @@
       "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
       "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
       "summary": "Sorry to my trench coats.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bac7a56fa866",
+      "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
+      "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
+      "summary": "Power couple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e196c74101fe",
+      "title": "I'm Ready For Autumn But It's Still Hot—7 Chic Trouser Trends That Work For Both",
+      "link": "https://www.whowhatwear.com/fashion/shopping/transitional-trouser-trends-2026",
+      "summary": "Autumn-friendly and heatwave-proof.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1395,20 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "965b531d97f4",
-      "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
-      "summary": "A short cut.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "63dc6058b5ec",
       "title": "I Live in NYC and Only Wear Walkable Shoe Trends That Go With Everything—7 That Have My Approval",
       "link": "https://www.whowhatwear.com/fashion/shoes/walkable-nyc-shoe-trends-2026",
@@ -1419,6 +1447,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-08-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "965b531d97f4",
+      "title": "Hold the Jeans—I Think Flip-Flops and Ballet Flats Look Chicest When Paired With This Summer Trend",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-short-outfits-summer-2026",
+      "summary": "A short cut.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-08-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1493,34 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b6025b5245fb",
-      "title": "Attention—Drunk Elephant Just Launched Foundation, and I’m Never Going Back to Tinted Moisturizer",
-      "link": "https://www.whowhatwear.com/beauty/makeup/drunk-elephant-kamo-triple-peptide-cover-drops",
-      "summary": "I've worn it every single day for a month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-11T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4d6a9f05d3c8",
-      "title": "If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll Wear for Years to Come",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-classic-fall-fashion-august-2026",
-      "summary": "Shop these exact items in each category.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want Classic Pieces, Shop 31 Early Fall Shopbop Items You'll We...",
-      "score": 1,
-      "published": "2026-08-11T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cd3b517247ca",
       "title": "Demi Lovato Wears ’90s Dolce &amp; Gabbana to Reunite With the Jonas Brothers at the Camp Rock 3 Premiere",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73405188/demi-lovato-vintage-dolce-gabbana-dress-camp-rock-3-premiere-photos/",
@@ -1574,20 +1588,6 @@
       "angle": "Fashion Intelligence: Brooklyn Beckham and Nicola Peltz Bring Their South of France Style St...",
       "score": 1,
       "published": "2026-08-11T17:00:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d95e79875355",
-      "title": "I Tried On Rixo's Autumn Collection Early—Here's How to Shop the Best Pieces Before Everyone Else",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rixo-autumn-winter-2026-collection-try-on",
-      "summary": "There are so many standouts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-11T16:49:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2809,6 +2809,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a7add45ddfd4",
+      "title": "The Sheer Shirt Trend Is Making Menswear More Interesting",
+      "link": "https://www.azafashions.com/blog/the-sheer-shirt-trend/?utm_source=rss&utm_medium=rss&utm_campaign=the-sheer-shirt-trend",
+      "summary": "Menswear is loosening up. Not in a chaotic, anything-goes kind of way — more like a slow exhale after years of playing it safe. The sheer shirt is at the&#8230; The post The Sheer Shirt Trend Is Making Menswear More Interesting appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-14T08:44:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "af5a522406e8",
       "title": "The Floral Skirt Is Here to Steal Your Outfit’s Spotlight",
       "link": "https://www.azafashions.com/blog/floral-skirt-trend-usa/?utm_source=rss&utm_medium=rss&utm_campaign=floral-skirt-trend-usa",
@@ -2834,6 +2848,20 @@
       "angle": "Fashion Intelligence: The Wrap Dress Is Having a Moment in Saudi Arabia — Here Are 7 Styles ...",
       "score": 3,
       "published": "2026-08-12T09:43:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "249fd69836cc",
+      "title": "Varun Chakilam Unveils His Latest Collection at Aza Bandra Store",
+      "link": "https://www.azafashions.com/blog/varun-chakilam-at-aza-bandra/?utm_source=rss&utm_medium=rss&utm_campaign=varun-chakilam-at-aza-bandra",
+      "summary": "Some evenings simply feel different. On 29th July 2026, Aza Bandra became that kind of evening — a beautifully curated showcase where designer fashion, compelling craftsmanship, and a high-profile guest&#8230; The post Varun Chakilam Unveils His Latest Collection at Aza Bandra Store appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 5,
+      "published": "2026-08-12T07:56:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2919,84 +2947,56 @@
       "score": 3,
       "published": "2026-08-07T10:30:37+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "e8daa5d6f4f1",
-      "title": "National Handloom Day 2026: India’s Iconic Weaves that Refuse to be Forgotten",
-      "link": "https://www.azafashions.com/blog/national-handloom-day-iconic-indian-weaves/?utm_source=rss&utm_medium=rss&utm_campaign=national-handloom-day-iconic-indian-weaves",
-      "summary": "There is a particular sound a handloom makes, the wooden clack of the shuttle, the rhythmic thud of the reed pressing thread into place, that no machine has ever managed&#8230; The post National Handloom Day 2026: India&#8217;s Iconic Weaves that Refuse to be Forgotten appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-08-07T09:59:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "006373f8248e",
-      "title": "7 Wedding Accessory Trends That Will Be Everywhere in 2027",
-      "link": "https://www.azafashions.com/blog/wedding-accessory-trends/?utm_source=rss&utm_medium=rss&utm_campaign=wedding-accessory-trends",
-      "summary": "Weddings are getting louder in the details. The outfit sets the stage, but this season, it's the accessories doing the talking. Here's what's about to be everywhere. From sculptural mini bags and waist-cinching belts to stacked anklets and barely-there veils,&#8230; The post 7 Wedding Accessory Trends That Will Be Ever",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: 7 Wedding Accessory Trends That Will Be Everywhere in 2027 — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-08-07T03:11:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "agadha movie review",
+      "term": "moises henriques",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వరి",
+      "term": "finland vs spain",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आग",
+      "term": "विराट कोहली",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പെട്രോള്",
+      "term": "സുരേഷ് ഗോപി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "क्राइम थ्रिलर",
+      "term": "ऑस्ट्रेलिया वि बांगलादेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "har ghar tiranga certificate",
+      "term": "supreme court",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lg electronics india share price",
+      "term": "પેન્શન",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शेयर प्राइस",
+      "term": "పులి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "శ్రీదేవి",
+      "term": "अश्लेषा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "खेत",
+      "term": "अफ़ग़ानिस्तान",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
