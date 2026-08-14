@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:06:23.349220+00:00",
+  "generated_at": "2026-08-14T11:43:34.085991+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 182,
@@ -8,6 +8,174 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "e11c97f82f1e",
+      "title": "UP maps 208 traditional dishes under One District One Cuisine, allocates Rs 75 crore",
+      "link": "https://www.indiatoday.in/india/story/one-district-one-cuisine-up-identifies-208-traditional-dishes-across-75-districts-allocates-rs-75-crore-utrith-2971263-2026-08-14?utm_source=rss",
+      "summary": "UP maps 208 traditional dishes under One District One Cuisine, allocates Rs 75 crore",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: UP maps 208 traditional dishes under One District One Cuisine, allocat...",
+      "score": 1,
+      "published": "2026-08-14T11:39:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c43adbbba60d",
+      "title": "Kannauj perfume gets GI protection: The centuries-old craft behind the scent",
+      "link": "https://www.indiatoday.in/india/story/kannauj-perfume-gi-tag-itar-attar-traditional-deg-bhapka-process-utrith-2971276-2026-08-14?utm_source=rss",
+      "summary": "Kannauj perfume gets GI protection: The centuries-old craft behind the scent",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-08-14T11:38:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5853092231ff",
+      "title": "Zara Larsson’s New Swim Collab is a Pastel Dream",
+      "link": "https://www.fashiongonerogue.com/story/zara-larsson-nii-hai-main-rose-swim/",
+      "summary": "Zara Larsson fronts a new swimwear campaign for Nii HAi x MAIN ROSE. It&#8217;s a collaboration between her own label ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Zara Larsson’s New Swim Collab is a Pastel Dream...",
+      "score": 2,
+      "published": "2026-08-14T11:33:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "83fd37c117d7",
+      "title": "Sorry, Flip-Flops—Elegant Over-50s Are Preferring to Wear This French Shoe Trend With Denim",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/breton-top-denim-shorts-mary-janes-outfit-naomi-watts-2026",
+      "summary": "Passport to Paris.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-14T10:52:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6abc5d9b3189",
+      "title": "Halle Berry Is Having the Best Summer Ever—With a Beauty and Intimacy Routine To Match",
+      "link": "https://www.vogue.com/article/halle-berry-summer-beauty-routine",
+      "summary": "Pleasure gel, a good SPF: actor and women’s health advocate Halle Berry shared a glimpse at the must-have beauty and intimacy products she brings on vacation.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Halle Berry Is Having the Best Summer Ever—With a Beauty and Intimacy ...",
+      "score": 1,
+      "published": "2026-08-14T10:37:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f69ed6df190",
+      "title": "7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest",
+      "link": "https://www.vogue.com/article/airbnbs-in-british-columbia",
+      "summary": "Heading to the Pacific Northwest? An Airbnb in British Columbia puts you right in the middle of the province’s lush nature and rugged terrain—here, seven to consider booking.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest...",
+      "score": 0,
+      "published": "2026-08-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "449acec758f7",
+      "title": "The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director",
+      "link": "https://www.vogue.com/article/best-jewelry-brands",
+      "summary": "Shop the best jewelry brands from our designer jewelry labels; the thrill of discovering a new name is almost as good as finding that perfect piece of jewelry.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director...",
+      "score": 3,
+      "published": "2026-08-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c1e9f4a5e38",
+      "title": "Sézane Officially Has a Permanent Store in L.A.",
+      "link": "https://fashionista.com/2026/08/sezane-brentwood-los-angeles-store",
+      "summary": "It reimagined its Brentwood Country Mart store as a smaller \"petite boutique\" featuring best sellers. This coincides with a new chapter for the French brand.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sézane Officially Has a Permanent Store in L.A....",
+      "score": 1,
+      "published": "2026-08-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "221200df22e8",
+      "title": "Dua Lipa Supersizes the Vacation Tote Bag—Airline Restrictions Be Damned",
+      "link": "https://www.vogue.com/article/dua-lipa-supersize-vacation-tote-bag",
+      "summary": "Queen of La Vacanza as a lifestyle, Dua Lipa knows nothing should ever get in the way of a good travel look.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dua Lipa Supersizes the Vacation Tote Bag—Airline Restrictions Be Damn...",
+      "score": 1,
+      "published": "2026-08-14T09:58:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5c55f951e9f7",
+      "title": "Jennifer Lawrence Settles Summer’s Great Shorts Debate",
+      "link": "https://www.vogue.com/article/jennifer-lawrence-settles-summers-great-shorts-debate",
+      "summary": "Whether you’re having a Big Shorts Summer or enjoying the it-girl itsy-bitsies—Jennifer Lawrence remains committed to the once-divisive denim jorts.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jennifer Lawrence Settles Summer’s Great Shorts Debate...",
+      "score": 0,
+      "published": "2026-08-14T09:44:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8bb7a77276c6",
+      "title": "How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business",
+      "link": "https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business",
+      "summary": "With $50 million in Series A funding and 1,500 new US retail doors through Sephora, the brand behind the ubiquitous metallic blue lip stain has turned virality into lasting growth.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business...",
+      "score": 2,
+      "published": "2026-08-14T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-14T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "59f35b92515c",
       "title": "Sorry, Polka Dots—This Print Trend Will Make Your Tops, Jeans and Dresses Look Chicer This Autumn",
@@ -34,20 +202,6 @@
       "angle": "Fashion Intelligence: Easy, Effortless and Elegant—5 Chic Outfits That Will Be My Go-Tos Thi...",
       "score": 2,
       "published": "2026-08-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3d988fbdb385",
-      "title": "60 aircraft, Rs 1 lakh crore: Air Force's big push to modernise transport fleet",
-      "link": "https://www.indiatoday.in/india/story/air-force-iaf-transport-aircraft-tender-60-multi-role-planes-1-lakh-crore-programme-2970903-2026-08-14?utm_source=rss",
-      "summary": "60 aircraft, Rs 1 lakh crore: Air Force's big push to modernise transport fleet",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-08-14T06:33:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -807,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "def2a6e302ae",
-      "title": "Kristen Stewart and Alia Shawkat’s Clashing Co-Star Style Has Layers",
-      "link": "https://www.vogue.com/article/kristen-stewart-alia-shawkat-wrong-girls-clashing-co-star-style",
-      "summary": "“The Wrong Girls” actors have strong personal aesthetics: rebellious sneakerhead Kristen Stewart, artful romantic Alia Shawkat—but on press tour, they make room for sweet sartorial nods to each other.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Kristen Stewart and Alia Shawkat’s Clashing Co-Star Style Has Layers...",
-      "score": 1,
-      "published": "2026-08-13T09:28:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1ceb2796f757",
       "title": "Pedis at the Ready: I Think Flip-Flops and Ballet Flats Look Coolest When Styled With This Divisive Sock Trend",
       "link": "https://www.whowhatwear.com/fashion/trends/toeless-sock-trend-2026",
@@ -877,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5726361f3dc1",
-      "title": "7 Autumn Nail Ideas That You Can Wear Right Now to Get Ahead of the Trends",
-      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-nail-ideas-2026",
-      "summary": "Transitional shades.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "df2f9da51592",
       "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
       "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
@@ -933,6 +1059,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5726361f3dc1",
+      "title": "7 Autumn Nail Ideas That You Can Wear Right Now to Get Ahead of the Trends",
+      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-nail-ideas-2026",
+      "summary": "Transitional shades.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "75869844f88c",
       "title": "5 Sophisticated Outfits We're Excited to Wear This Autumn and Well Into 2027",
       "link": "https://www.whowhatwear.com/autumn-outfit-ideas-2026",
@@ -947,76 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "86a3ba67380b",
-      "title": "The Vogue Business TikTok Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from TikTok, unpacking the latest creators and biggest trends sweeping its Gen Z user base.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-13T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ab2bf8c6e2bc",
-      "title": "How Exclusive Access Became the New Birkin",
-      "link": "https://www.vogue.com/article/how-exclusive-access-became-the-new-birkin",
-      "summary": "As tiered reward systems first popularized by finance and travel hit fashion, status is shifting from what you own to where you can go.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Exclusive Access Became the New Birkin...",
-      "score": 1,
-      "published": "2026-08-13T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2fc47129b745",
-      "title": "A To-Do List for Harvey Nichols’s New Owner",
-      "link": "https://www.vogue.com/article/a-to-do-list-for-harvey-nicholss-new-owner",
-      "summary": "For success, the new owner will need financial discipline, a complete logistics overhaul, and a fresh go-to-market image for Harvey Nicks 2.0.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A To-Do List for Harvey Nichols’s New Owner...",
-      "score": 0,
-      "published": "2026-08-13T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "67a2c5ddcf91",
-      "title": "New York’s Still Here Is Heading West",
-      "link": "https://www.vogue.com/article/new-yorks-still-here-is-heading-west",
-      "summary": "With a West Village opening today and Los Angeles next month, downtown denim go-to Still Here is expanding how its founders know best: physical-first.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: New York’s Still Here Is Heading West...",
-      "score": 0,
-      "published": "2026-08-13T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "73e6cd44bd5d",
-      "title": "72 Thoughts I Had While Watching Episode 1 of ‘Sterling Point’",
-      "link": "https://www.vogue.com/article/72-thoughts-about-episode-1-of-sterling-point",
-      "summary": "Aw, I love this Canadian cabin! It’s wasted on a teen, though. Now, a thirtysomething like myself could really cozy up and do 'The Artist’s Way' in there.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 72 Thoughts I Had While Watching Episode 1 of ‘Sterling Point’...",
-      "score": 0,
-      "published": "2026-08-13T04:16:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e145140ed4a",
       "title": "Instead of Black Ankle Boots, This Celeb-Approved Style and Color Will Be Trending This Fall",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/charlize-theron-white-lace-up-ankle-boots",
@@ -1028,20 +1098,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-13T02:11:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4f43cc47abad",
-      "title": "46 Thoughts I Had About Episode 3 of ‘The Shards’",
-      "link": "https://www.vogue.com/article/46-thoughts-i-had-about-episode-3-of-the-shards",
-      "summary": "Lord, take me back to 1981 so I can unironically participate in roller disco.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 46 Thoughts I Had About Episode 3 of ‘The Shards’...",
-      "score": 0,
-      "published": "2026-08-13T02:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1493,20 +1549,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4bc798f2faf8",
-      "title": "If You Want to Look Cool for the Last Weeks of Summer, Wear This, This, and This Together",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/three-item-summer-outfit-zoe-saldana",
-      "summary": "Trust me—it's the easiest outfit combination.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want to Look Cool for the Last Weeks of Summer, Wear This, This...",
-      "score": 2,
-      "published": "2026-08-11T21:14:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "259c54892362",
       "title": "Why the T-Shirt Dress Is a Summer-to-Fall Hero",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73347467/best-t-shirt-dresses-2026/",
@@ -1518,20 +1560,6 @@
       "angle": "Fashion Intelligence: Why the T-Shirt Dress Is a Summer-to-Fall Hero...",
       "score": 1,
       "published": "2026-08-11T20:42:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f3a7c527c69e",
-      "title": "Just So You Know, the Most Stylish People Will Be Wearing These 5 Trends Come Fall",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-fashion-trends-august-2026",
-      "summary": "Your cheat code to endless compliments.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-11T20:40:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2361,20 +2389,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d2c0eb10bb3f",
-      "title": "Bella Hadid Brings the Heat to ALO’s Pre-Fall 2026 Campaign",
-      "link": "https://www.fashiongonerogue.com/story/bella-hadid-alo-pre-fall-2026-campaign/",
-      "summary": "Bella Hadid fronts ALO&#8217;s pre-fall 2026 campaign. She brings her cool, focused energy to the activewear brand&#8217;s newest wellness story. ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bella Hadid Brings the Heat to ALO’s Pre-Fall 2026 Campaign...",
-      "score": 2,
-      "published": "2026-08-06T02:12:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "34c3b6d607c9",
       "title": "Jennifer Behr Is Hiring An E-Commerce and Marketing Assistant In New York, NY",
       "link": "https://fashionista.com/2026/08/jennifer-behr-is-hiring-an-e-commerce-and-marketing-assistant-in-new-york-ny",
@@ -2540,20 +2554,6 @@
       "angle": "Fashion Intelligence: Francesca Simons PR Is Seeking PR Interns In New York, NY...",
       "score": 2,
       "published": "2026-07-31T17:14:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bc9de80febef",
-      "title": "NDS the Label: The Contemporary Bridal Brand Prioritizing Personal Style",
-      "link": "https://fashionista.com/2026/07/nds-the-label-bridal-wear",
-      "summary": "It focuses on styling pieces — detachable accessories, gloves, separates — so the bride can build a wedding wardrobe.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: NDS the Label — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-07-31T15:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2809,6 +2809,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c37f06f554a4",
+      "title": "Aza Kolkata Hosted an Exclusive Meet-the-Designer Event Featuring Sheetal Batra, Istya, & Soup by Sougat Paul",
+      "link": "https://www.azafashions.com/blog/aza-kolkata-event-sheetalbatra-istya-sougatpaul/?utm_source=rss&utm_medium=rss&utm_campaign=aza-kolkata-event-sheetalbatra-istya-sougatpaul",
+      "summary": "Aza Kolkata hosted an extraordinary Meet-the-Designer event at its landmark destination. The afternoon spotlighted three distinctive designers—Sheetal Batra, Istya, and Soup by Sougat Paul. Guests enjoyed a rare opportunity to&#8230; The post Aza Kolkata Hosted an Exclusive Meet-the-Designer Event Featuring Sheetal Bat",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Aza Kolkata Hosted an Exclusive Meet-the-Designer Event Featuring Shee...",
+      "score": 1,
+      "published": "2026-08-14T10:32:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a7add45ddfd4",
       "title": "The Sheer Shirt Trend Is Making Menswear More Interesting",
       "link": "https://www.azafashions.com/blog/the-sheer-shirt-trend/?utm_source=rss&utm_medium=rss&utm_campaign=the-sheer-shirt-trend",
@@ -2933,70 +2947,56 @@
       "score": 4,
       "published": "2026-08-08T04:33:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "5099f85cde6a",
-      "title": "Ananya Panday Paithani Saree Turns Heads at Filmfare Awards Marathi 2026",
-      "link": "https://www.azafashions.com/blog/ananya-panday-paithani-saree/?utm_source=rss&utm_medium=rss&utm_campaign=ananya-panday-paithani-saree",
-      "summary": "Every awards season leaves us with a handful of looks we'll forget by next week. And then there's that one outfit you keep coming back to, not because it's dramatic&#8230; The post Ananya Panday Paithani Saree Turns Heads at Filmfare Awards Marathi 2026 appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Ananya Panday Paithani Saree Turns Heads at Filmfare Awards Marathi 20...",
-      "score": 3,
-      "published": "2026-08-07T10:30:37+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "moises henriques",
+      "term": "म्यूचुअल फंड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "finland vs spain",
+      "term": "टाटा स्टील",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विराट कोहली",
+      "term": "pothole",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സുരേഷ് ഗോപി",
+      "term": "ജോര്ജിന റോഡ്രിഗസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऑस्ट्रेलिया वि बांगलादेश",
+      "term": "ओम प्रकाश राजभर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "supreme court",
+      "term": "komal rani",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "પેન્શન",
+      "term": "स्कॉटलैंड क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పులి",
+      "term": "இந்தியா தேசிய கிரிக்கெட் அணி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अश्लेषा",
+      "term": "పంట",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अफ़ग़ानिस्तान",
+      "term": "ఇంగ్లాండ్ క్రికెట్ జట్టు",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
