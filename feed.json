@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T02:48:27.084156+00:00",
+  "generated_at": "2026-08-15T05:23:41.606020+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 187,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -1409,20 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df2f9da51592",
-      "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
-      "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
-      "summary": "Sorry to my trench coats.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bac7a56fa866",
       "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
       "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
@@ -1432,6 +1418,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df2f9da51592",
+      "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
+      "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
+      "summary": "Sorry to my trench coats.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-13T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1686,20 +1686,6 @@
       "angle": "Fashion Intelligence: The 10 Easiest Low-Maintenance Short Hairstyles for Summer...",
       "score": 2,
       "published": "2026-08-12T15:28:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "606bb6efa0a0",
-      "title": "Fashion Editors Agree: These Cotton Underwear Styles Are Worth Every Penny",
-      "link": "https://www.whowhatwear.com/fashion/lingerie/best-cotton-underwear",
-      "summary": "The tested and true styles we actually wear on repeat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Fashion Editors Agree: These Cotton Underwear Styles Are Worth Every P...",
-      "score": 3,
-      "published": "2026-08-12T15:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +2993,52 @@
   ],
   "trends": [
     {
-      "term": "kamindu mendis",
+      "term": "doomsday",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aaj tak live news",
+      "term": "kit connor",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्वातंत्र्य दिनाच्या शुभेच्छा",
+      "term": "चंद्रशेखर बावनकुळे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तिरंगा झंडा",
+      "term": "samara weaving",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "out",
+      "term": "sony",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "noel tata",
+      "term": "jiohotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "priyadarshan on saif ali khan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricket",
+      "term": "hotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "आईसीसी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aaj tak",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "aaj tak news",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "national anthem of india",
+      "term": "maya boyd",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
