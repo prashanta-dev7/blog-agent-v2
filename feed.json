@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-08-15T05:23:41.606020+00:00",
+  "generated_at": "2026-08-15T08:26:24.490488+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 186,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "6df0bdd9b688",
+      "title": "Jelly Shoes Might Be Trending, But the Most Elegant People I Know Are Wearing This Classy Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/peep-toe-flats-trend-karlie-kloss-2026",
+      "summary": "I wish I had known about these sooner.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e9ed04627fba",
+      "title": "Stylish People Know This Monochrome Outfit Is the Easiest Way to Look Chic and Feel Cool",
+      "link": "https://www.whowhatwear.com/fashion/shopping/white-summer-outfits-2026",
+      "summary": "Heat-wave dressing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Stylish People Know This Monochrome Outfit Is the Easiest Way to Look ...",
+      "score": 2,
+      "published": "2026-08-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a8c1f24966b",
+      "title": "It Girls in London and Paris Agree: This Timeless Top Trend Makes Jeans, Shorts and Skirts Look Chicer",
+      "link": "https://www.whowhatwear.com/fashion/tops/henley-t-shirt-trend-2026",
+      "summary": "Bella Swan, eat your heart out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-15T07:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "367349a55fe0",
+      "title": "Hold The Dainty Necklaces—According to the Runways, This Is the Chicest Way to Wear Bling This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/autumn-jewellery-trends-2026",
+      "summary": "Large and in charge.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hold The Dainty Necklaces—According to the Runways, This Is the Chices...",
+      "score": 2,
+      "published": "2026-08-15T07:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3e49464d506f",
+      "title": "These 5 Fun Handbag Trends Will Be The Secret Behind Every Great Outfit This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/fun-handbag-trends-autumn-2026",
+      "summary": "Buckle up (you, not your bag).",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7c4262b77b8",
+      "title": "Dad Hats and Jeans Are Cool, But This Dad-Shirt Trend Is What Will Be Everywhere This Fall",
+      "link": "https://www.whowhatwear.com/fashion/tops/long-sleeve-polo-shirt-trend",
+      "summary": "If I see someone wearing it, I know they're cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "365f8ce7bd4f",
+      "title": "Forget Bandanas and Silk Scarves: Hailey Bieber Is Wearing This '90s Accessory in Her Hair Instead",
+      "link": "https://www.whowhatwear.com/beauty/hair/zig-zag-headband-trend-hailey-bieber-2026",
+      "summary": "Miu Miu is backing the trend too.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-08-15T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ff75c7de17b",
+      "title": "9 Early-Autumn Zara Buys Elegant French Women Are Shopping Now",
+      "link": "https://www.whowhatwear.com/fashion/affordable/early-autumn-french-girl-zara-buys-2026",
+      "summary": "Transitional season inspiration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 9 Early-Autumn Zara Buys Elegant French Women Are Shopping Now...",
+      "score": 1,
+      "published": "2026-08-15T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "235f60f4be14",
       "title": "Wait, Adidas Is Having a Sneaky Sale—12 Cool Styles That Need Your Attention",
@@ -863,20 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5184b16012f9",
-      "title": "How to Attract Gen Z’s New Club Kids",
-      "link": "https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids",
-      "summary": "It’s widely believed that Gen Z don’t party like other generations. But a new crop of influencers and social media savvy DJs are driving young crowds to party capitals like Ibiza. Should brands hit the club?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Attract Gen Z’s New Club Kids...",
-      "score": 1,
-      "published": "2026-08-14T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0acd120d2608",
       "title": "Carmen Busquets Partners with Parsons on Award for Disabled Students",
       "link": "https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students",
@@ -886,6 +984,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Carmen Busquets Partners with Parsons on Award for Disabled Students...",
+      "score": 1,
+      "published": "2026-08-14T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5184b16012f9",
+      "title": "How to Attract Gen Z’s New Club Kids",
+      "link": "https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids",
+      "summary": "It’s widely believed that Gen Z don’t party like other generations. But a new crop of influencers and social media savvy DJs are driving young crowds to party capitals like Ibiza. Should brands hit the club?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Attract Gen Z’s New Club Kids...",
       "score": 1,
       "published": "2026-08-14T04:30:00+00:00",
       "discovered_via": "feed"
@@ -1185,20 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4072131ca204",
-      "title": "From the King Kylie Era to the 2026 Met Gala, These Are Kylie Jenner's Best Beauty Looks of All Time",
-      "link": "https://www.whowhatwear.com/beauty/kylie-jenner-beauty-retrospective",
-      "summary": "BRB, I'm gonna go stream \"Fourth Strike.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: From the King Kylie Era to the 2026 Met Gala, These Are Kylie Jenner's...",
-      "score": 1,
-      "published": "2026-08-13T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ef07a278a1f9",
       "title": "I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This One Product",
       "link": "https://www.whowhatwear.com/beauty/hair/roz-wave-texturizing-mist-review",
@@ -1208,6 +1306,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This ...",
+      "score": 1,
+      "published": "2026-08-13T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4072131ca204",
+      "title": "From the King Kylie Era to the 2026 Met Gala, These Are Kylie Jenner's Best Beauty Looks of All Time",
+      "link": "https://www.whowhatwear.com/beauty/kylie-jenner-beauty-retrospective",
+      "summary": "BRB, I'm gonna go stream \"Fourth Strike.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: From the King Kylie Era to the 2026 Met Gala, These Are Kylie Jenner's...",
       "score": 1,
       "published": "2026-08-13T14:00:00+00:00",
       "discovered_via": "feed"
@@ -1395,20 +1507,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e196c74101fe",
-      "title": "I'm Ready for Autumn But It's Still Hot—7 Chic Trouser Trends That Work for Both",
-      "link": "https://www.whowhatwear.com/fashion/shopping/transitional-trouser-trends-2026",
-      "summary": "Autumn-friendly and heatwave-proof.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bac7a56fa866",
       "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
       "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
@@ -1418,20 +1516,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "df2f9da51592",
-      "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
-      "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
-      "summary": "Sorry to my trench coats.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-13T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1451,45 +1535,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "75869844f88c",
-      "title": "5 Sophisticated Outfits We're Excited to Wear This Autumn and Well Into 2027",
-      "link": "https://www.whowhatwear.com/autumn-outfit-ideas-2026",
-      "summary": "Bring on the new season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 5 Sophisticated Outfits We're Excited to Wear This Autumn and Well Int...",
-      "score": 3,
-      "published": "2026-08-13T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4e145140ed4a",
-      "title": "Instead of Black Ankle Boots, This Celeb-Approved Style and Color Will Be Trending This Fall",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/charlize-theron-white-lace-up-ankle-boots",
-      "summary": "À la Charlize Theron.",
+      "id": "df2f9da51592",
+      "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
+      "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
+      "summary": "Sorry to my trench coats.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-13T02:11:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b4a4d8cedb19",
-      "title": "Tate McRae Just Cosigned the Internet's Favorite Non-Basic Way to Wear a French Manicure",
-      "link": "https://www.whowhatwear.com/beauty/nails/tate-mcrae-butter-yellow-french-manicure",
-      "summary": "Plus, the exact $13 shades she wore.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Tate McRae Just Cosigned the Internet's Favorite Non-Basic Way to Wear...",
       "score": 1,
-      "published": "2026-08-12T21:00:00+00:00",
+      "published": "2026-08-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1521,20 +1577,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc79c7a4ee6f",
-      "title": "From Paris to Japan: These Will Be the Most In-Demand Nail Trends Across the Globe This Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/global-summer-nail-trends-2026",
-      "summary": "They're effortlessly chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-12T19:11:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7eb4326b385a",
       "title": "Travis Kelce Calls His Wedding to Taylor Swift the “Best Night” of His Life",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73415736/travis-kelce-first-comments-breaks-silence-interview-wife-taylor-swift-wedding-detail/",
@@ -1546,20 +1588,6 @@
       "angle": "Bridal Edit: Travis Kelce Calls His Wedding to Taylor Swift the “Best Night” of His Life — A Complete Style Guide",
       "score": 1,
       "published": "2026-08-12T18:55:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ff8aeaf85831",
-      "title": "How the Costume Designer for FX's Love Story: John F. Kennedy Jr. & Carolyn Bessette Sourced Archival Looks for the Series",
-      "link": "https://www.whowhatwear.com/living/who-what-wear-podcast-rudy-mance",
-      "summary": "And how he landed his big break.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: How the Costume Designer for FX's Love Story: John F. Kennedy Jr. & Ca...",
-      "score": 1,
-      "published": "2026-08-12T18:42:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1588,20 +1616,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-12T18:00:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "98b83efdd2af",
-      "title": "FYI, Your Favorite Skiwear Brand Makes Seriously Cute Activewear Too",
-      "link": "https://www.whowhatwear.com/fashion/fall/halfdays-fall-activewear-review",
-      "summary": "Pieces worth making room in your closet for.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: FYI, Your Favorite Skiwear Brand Makes Seriously Cute Activewear Too...",
-      "score": 2,
-      "published": "2026-08-12T17:54:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1644,20 +1658,6 @@
       "angle": "Fashion Intelligence: How to Get the Perfect Nude Manicure, According to Hailey Bieber's Nai...",
       "score": 0,
       "published": "2026-08-12T16:31:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7054f2d0bad4",
-      "title": "Okay, I Want to Wear Anine Bing's New Fall Collection on the Streets of Paris—It's So Chic",
-      "link": "https://www.whowhatwear.com/fashion/shopping/anine-bing-fall-2026",
-      "summary": "Beautiful staples ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-08-12T16:28:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2263,20 +2263,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6bc7c474c074",
-      "title": "6 Best Bvlgari Cologne For Men – Italian Luxury For 2026",
-      "link": "https://www.fashionbeans.com/article/best-bvlgari-colognes/",
-      "summary": "You’ve seen the fancy-pants Bvlgari shopping bags all over town. You’ve had your eye on the Bvlgari watch, the engagement ring, the leather bifold wallet, and the oceanside hotel in Bali. There’s no doubt about it—the luxury Italian fashion house does many things and does them well. But if you haven’t yet discovered th",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: 6 Best Bvlgari Cologne For Men – Italian Luxury For 2026...",
-      "score": 2,
-      "published": "2026-08-10T05:20:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b1daf823ae68",
       "title": "ICYMI: Sephora Partners With Olive Young, Checking In With Century 21 & Fashion's Hottest Item Is a Knicks Cap",
       "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-8",
@@ -2851,6 +2837,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "56836e562115",
+      "title": "How Indian Designers Have Conquered the Global Stage",
+      "link": "https://www.azafashions.com/blog/indian-designers-at-the-global-stage/?utm_source=rss&utm_medium=rss&utm_campaign=indian-designers-at-the-global-stage",
+      "summary": "Every Independence Day, we honour the journey of a progressive nation built on deep roots. Today, that spirit lives vibrantly in Indian artistry. Several decades ago, local ateliers were seen&#8230; The post How Indian Designers Have Conquered the Global Stage appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How Indian Designers Have Conquered the Global Stage...",
+      "score": 1,
+      "published": "2026-08-15T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a0a5005700d8",
       "title": "Inside Aza Bandra’s Meet the Designer Evening with Mrunal Khimji",
       "link": "https://www.azafashions.com/blog/aza-bandra-meet-the-designer-mrunal-khimji/?utm_source=rss&utm_medium=rss&utm_campaign=aza-bandra-meet-the-designer-mrunal-khimji",
@@ -2975,70 +2975,56 @@
       "score": 1,
       "published": "2026-08-12T15:32:58+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "b0e405f9717a",
-      "title": "The Wrap Dress Is Having a Moment in Saudi Arabia — Here Are 7 Styles to Try",
-      "link": "https://www.azafashions.com/blog/wrap-dresses-women-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=wrap-dresses-women-saudi-arabia",
-      "summary": "There is a reason the wrap dress has outlived every fleeting trend cycle since Diane von Fürstenberg first tied one shut in 1974, it moves the way a woman moves. No&#8230; The post The Wrap Dress Is Having a Moment in Saudi Arabia — Here Are 7 Styles to Try appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Wrap Dress Is Having a Moment in Saudi Arabia — Here Are 7 Styles ...",
-      "score": 3,
-      "published": "2026-08-12T09:43:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "doomsday",
+      "term": "moneycontrol",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kit connor",
+      "term": "ट्रैक्टर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चंद्रशेखर बावनकुळे",
+      "term": "மம்மூட்டி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "samara weaving",
+      "term": "సెప్టెంబర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sony",
+      "term": "a47",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jiohotstar",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "priyadarshan on saif ali khan",
+      "term": "kashi rudras",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hotstar",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "आईसीसी",
+      "term": "സിസ തോമസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "maya boyd",
+      "term": "వృద్ధాప్యం",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "പെട്രോള്",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ఉపాధి",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
