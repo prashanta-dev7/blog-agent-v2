@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:26:24.490488+00:00",
+  "generated_at": "2026-08-15T11:20:02.394798+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 185,
@@ -8,6 +8,90 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "436322107728",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-15-2026",
+      "summary": "Color continues to dominate, from opulent ’80s pink to dreamy shades of pastel, while glam teams got precise with eyes and lips. From Priyanka Kedia to Adela, these are the week’s best beauty looks.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-08-15T10:06:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0adea757e35f",
+      "title": "The Scandi Street Style Way to Wear Sheers",
+      "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
+      "summary": "At Copenhagen Fashion Week, peekaboo looks were all the rage.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Scandi Street Style Way to Wear Sheers...",
+      "score": 3,
+      "published": "2026-08-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8657bdde5933",
+      "title": "Discover the Best Dresses for Every August Occasion",
+      "link": "https://www.vogue.com/article/dresses",
+      "summary": "Explore the best dresses of the month, from silk maxidresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-08-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b4aa4a27285f",
+      "title": "Forget Paris—Buyers, Tastemakers, and Trend Forecasters Are Saying Spring 2027 Trends Start in This City",
+      "link": "https://www.whowhatwear.com/fashion/runway/ciff-spring-summer-2027-buyers-fashion-trends",
+      "summary": "Fashion's coolest trade show.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "641d18602ed0",
+      "title": "Should India remain underdeveloped? SC raps Centre over packaged food warning labels",
+      "link": "https://www.indiatoday.in/india/law-news/story/front-of-package-labelling-supreme-court-asks-centre-to-decide-visual-format-ptag-2971908-2026-08-15?utm_source=rss",
+      "summary": "Should India remain underdeveloped? SC raps Centre over packaged food warning labels",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Should India remain underdeveloped? SC raps Centre over packaged food ...",
+      "score": 1,
+      "published": "2026-08-15T09:07:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8f2b2d53ade",
+      "title": "Hold the Black Shoes—This Elegant Sandal Colour Trend Makes Summer Dresses Look Chicest",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/brown-sandals-trend-victoria-beckham-2026",
+      "summary": "Confirmed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-15T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6df0bdd9b688",
       "title": "Jelly Shoes Might Be Trending, But the Most Elegant People I Know Are Wearing This Classy Shoe Trend Instead",
@@ -751,6 +835,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d496b515e2e6",
+      "title": "The Truth About Uniqlo vs Levi Jeans vs. 1 Tiny Japanese Denim Brand",
+      "link": "https://www.fashionbeans.com/article/uniqlo-vs-levi-jeans/",
+      "summary": "Starting Simple: The Uniqlo Review Today, we are doing a little comparison. We&#8217;re looking at Uniqlo&#8217;s impossibly priced $50 Japanese selvedge denim jeans versus a very famous Japanese brand&#8216;s $160 selvedge denim jeans versus Levi&#8217;s $260 selvedge jeans. What the heck is going on? Because there ar",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Truth About Uniqlo vs Levi Jeans vs. 1 Tiny Japanese Denim Brand...",
+      "score": 1,
+      "published": "2026-08-14T10:58:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "83fd37c117d7",
       "title": "Sorry, Flip-Flops—Elegant Over-50s Are Preferring to Wear This French Shoe Trend With Denim",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/breton-top-denim-shorts-mary-janes-outfit-naomi-watts-2026",
@@ -779,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0f69ed6df190",
-      "title": "7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest",
-      "link": "https://www.vogue.com/article/airbnbs-in-british-columbia",
-      "summary": "Heading to the Pacific Northwest? An Airbnb in British Columbia puts you right in the middle of the province’s lush nature and rugged terrain—here, seven to consider booking.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest...",
-      "score": 0,
-      "published": "2026-08-14T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "449acec758f7",
       "title": "The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director",
       "link": "https://www.vogue.com/article/best-jewelry-brands",
@@ -803,6 +887,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director...",
       "score": 3,
+      "published": "2026-08-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f69ed6df190",
+      "title": "7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest",
+      "link": "https://www.vogue.com/article/airbnbs-in-british-columbia",
+      "summary": "Heading to the Pacific Northwest? An Airbnb in British Columbia puts you right in the middle of the province’s lush nature and rugged terrain—here, seven to consider booking.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest...",
+      "score": 0,
       "published": "2026-08-14T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -849,20 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8bb7a77276c6",
-      "title": "How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business",
-      "link": "https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business",
-      "summary": "With $50 million in Series A funding and 1,500 new US retail doors through Sephora, the brand behind the ubiquitous metallic blue lip stain has turned virality into lasting growth.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business...",
-      "score": 2,
-      "published": "2026-08-14T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "904f20a31d4f",
       "title": "The Vogue Business Beauty Trend Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
@@ -873,6 +957,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-08-14T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8bb7a77276c6",
+      "title": "How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business",
+      "link": "https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business",
+      "summary": "With $50 million in Series A funding and 1,500 new US retail doors through Sephora, the brand behind the ubiquitous metallic blue lip stain has turned virality into lasting growth.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business...",
+      "score": 2,
       "published": "2026-08-14T09:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -1073,34 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a574a0b04cab",
-      "title": "The Habit That Could Be Impacting Your Gut Microbiome",
-      "link": "https://www.vogue.com/article/gut-microbiome-posture",
-      "summary": "Experts explain the link between posture, the vagus nerve, and the gut microbiome.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Habit That Could Be Impacting Your Gut Microbiome...",
-      "score": 0,
-      "published": "2026-08-13T22:56:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "189f45bdcf5e",
-      "title": "Meet the Next Generation of Chefs Redefining Modern Mexican Cuisine in the U.S.",
-      "link": "https://www.vogue.com/article/next-generation-of-chefs-redefining-modern-mexican-cuisine-in-the-us",
-      "summary": "While Enrique Olvera’s work undoubtedly changed the perception of Mexican cuisine in the US, many young chefs are now bringing their own culinary prowess and personal histories to cities like Miami and Washington, D.C.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meet the Next Generation of Chefs Redefining Modern Mexican Cuisine in...",
-      "score": 0,
-      "published": "2026-08-13T22:31:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ebe9ce4bd466",
       "title": "Your Guide to Acing US Open Style",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73405498/us-open-outfit-ideas/",
@@ -1140,20 +1210,6 @@
       "angle": "Fashion Intelligence: Inside Art’s Long Love Affair With Tarot...",
       "score": 0,
       "published": "2026-08-13T19:29:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d27ffaaac668",
-      "title": "Planes, Trains, and Automobiles: How New Yorkers Dress for Summer Weekends",
-      "link": "https://www.vogue.com/article/new-york-summer-weekend-street-style",
-      "summary": "Out of office—and heading out of town. Here’s how New Yorkers are dressing for summer weekends in and out of the city.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Planes, Trains, and Automobiles: How New Yorkers Dress for Summer Week...",
-      "score": 1,
-      "published": "2026-08-13T19:10:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1297,20 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ef07a278a1f9",
-      "title": "I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This One Product",
-      "link": "https://www.whowhatwear.com/beauty/hair/roz-wave-texturizing-mist-review",
-      "summary": "Volume, touchable waves, and impressive grip in just one spritz.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This ...",
-      "score": 1,
-      "published": "2026-08-13T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4072131ca204",
       "title": "From the King Kylie Era to the 2026 Met Gala, These Are Kylie Jenner's Best Beauty Looks of All Time",
       "link": "https://www.whowhatwear.com/beauty/kylie-jenner-beauty-retrospective",
@@ -1320,6 +1362,20 @@
       "is_competitor": false,
       "aza_category": "Occasion Dressing",
       "angle": "Fashion Intelligence: From the King Kylie Era to the 2026 Met Gala, These Are Kylie Jenner's...",
+      "score": 1,
+      "published": "2026-08-13T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef07a278a1f9",
+      "title": "I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This One Product",
+      "link": "https://www.whowhatwear.com/beauty/hair/roz-wave-texturizing-mist-review",
+      "summary": "Volume, touchable waves, and impressive grip in just one spritz.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm on a Wavy-Hair Journey This Summer—My Friends and I Swear By This ...",
       "score": 1,
       "published": "2026-08-13T14:00:00+00:00",
       "discovered_via": "feed"
@@ -1507,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bac7a56fa866",
-      "title": "Forget Burgundy and Aubergine—This Autumn, Everyone Will Be Wearing This Exact Colour Combination",
-      "link": "https://www.whowhatwear.com/fashion/fall/red-and-purple-colour-trend-2026",
-      "summary": "Power couple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5726361f3dc1",
       "title": "7 Autumn Nail Ideas That You Can Wear Right Now to Get Ahead of the Trends",
       "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-nail-ideas-2026",
@@ -1531,20 +1573,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "df2f9da51592",
-      "title": "Autumn's First Major Trend Is Here, and It's Already All Over Zara, H&M and Róhe",
-      "link": "https://www.whowhatwear.com/fashion/fall/frog-fastening-jackets",
-      "summary": "Sorry to my trench coats.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
       "published": "2026-08-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2232,34 +2260,6 @@
       "angle": "Fashion Intelligence: 11 Best Non Iron Dress Shirts For Men in 2026...",
       "score": 1,
       "published": "2026-08-10T06:50:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "acc031ac1eec",
-      "title": "9 Best Safety Razors For Men – Next-Level Shaving in 2026",
-      "link": "https://www.fashionbeans.com/article/best-safety-razor-for-men/",
-      "summary": "The best safety razors make me think of the phrase, “if it ain’t broke, don’t fix it.” They’re the sharks of the men’s grooming world, a piece of equipment that hasn’t evolved much in over 100 years. Sure, there have been plenty of advancements in shaving, but the original-style razor is still available because it’s &#",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Best Safety Razors For Men – Next-Level Shaving in 2026...",
-      "score": 1,
-      "published": "2026-08-10T06:29:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f949d813b7c3",
-      "title": "Ametora: How To Dress With Japanese Style",
-      "link": "https://www.fashionbeans.com/article/ametora-style-guide/",
-      "summary": "If you spend even a cursory amount of time looking at the more discerning end of menswear, you’ll have noticed one country dominating. Whether you’re obsessing over cult workwear brands, following Instagram accounts like @clutchmagazinejapan, or noticing how much money you can self-justify spending on a single pair of ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Ametora: How To Dress With Japanese Style...",
-      "score": 5,
-      "published": "2026-08-10T06:04:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "moneycontrol",
+      "term": "बहीण",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ट्रैक्टर",
+      "term": "മമിത ബൈജു",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மம்மூட்டி",
+      "term": "oak street movies",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సెప్టెంబర్",
+      "term": "telangana",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "a47",
+      "term": "ಡಿ ಕೆ ಶಿವಕುಮಾರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kashi rudras",
+      "term": "শিশু",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സിസ തോമസ്",
+      "term": "किसान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వృద్ధాప్యం",
+      "term": "azmatullah omarzai",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പെട്രോള്",
+      "term": "hockey world cup 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఉపాధి",
+      "term": "हरियाली तीज",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
