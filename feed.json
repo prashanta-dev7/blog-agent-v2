@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:20:02.394798+00:00",
+  "generated_at": "2026-08-16T02:56:40.543239+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 185,
@@ -8,6 +8,216 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "57917ce2c2a0",
+      "title": "As Bulldozers Arrive at the Border in Big Bend, Here’s What You Can Still Do to Protect the Park",
+      "link": "https://www.vogue.com/article/how-to-help-big-bend-national-park",
+      "summary": "Nonprofits including the Big Bend Protection Alliance and the National Parks Conservation Association are mobilizing to fight Trump's takeover of Big Bend.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: As Bulldozers Arrive at the Border in Big Bend, Here’s What You Can St...",
+      "score": 0,
+      "published": "2026-08-15T21:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ebfeec0f2e95",
+      "title": "Ram temple in Ayodhya rolls out new dress code for priests",
+      "link": "https://www.indiatoday.in/india/story/ram-temple-in-ayodhya-introduces-uniform-dress-code-for-priests-2972234-2026-08-16?utm_source=rss",
+      "summary": "Ram temple in Ayodhya rolls out new dress code for priests",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ram temple in Ayodhya rolls out new dress code for priests...",
+      "score": 1,
+      "published": "2026-08-15T20:59:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "549ef8d20b8c",
+      "title": "Kaia Gerber’s Low-Key Dinner-Date Style Is So Timeless",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73442818/kaia-gerber-lewis-pullman-timeless-couple-style-photos/",
+      "summary": "She stepped out with Lewis Pullman in a LBD and trench coat",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kaia Gerber’s Low-Key Dinner-Date Style Is So Timeless...",
+      "score": 1,
+      "published": "2026-08-15T19:32:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf2de1b68d16",
+      "title": "Anne Hathaway Goes Bold With Red Pleats and Sculptural Ruffles to Share a Princess Diaries 3 Update",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73442679/anne-hathaway-shares-princess-diaries-3-update-d23-disney-fan-event/",
+      "summary": "Courtesy of Ukraine-based label J’amemme",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Anne Hathaway Goes Bold With Red Pleats and Sculptural Ruffles to Shar...",
+      "score": 1,
+      "published": "2026-08-15T18:26:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8b08d821b0de",
+      "title": "Sorry To Your Friends: 41 Fall Items From Nordstrom, Revolve, and Shopbop Will Make Them Jealous",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-arrivals-nordstrom-revolve-shopbop-august-2026",
+      "summary": "Seasonal arrivals to refresh your closet.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Sorry To Your Friends: 41 Fall Items From Nordstrom, Revolve, and Shop...",
+      "score": 1,
+      "published": "2026-08-15T18:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "28bd4064c8fc",
+      "title": "Sabarimala ghee to face regular quality tests ahead of pilgrimage season",
+      "link": "https://www.indiatoday.in/india/story/sabarimala-ghee-testing-minister-asks-tdb-to-set-up-labs-before-mandalam-season-ptag-2972112-2026-08-15?utm_source=rss",
+      "summary": "Sabarimala ghee to face regular quality tests ahead of pilgrimage season",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-15T17:46:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c10f82a6a311",
+      "title": "Lisa Kudrow and Mira Sorvino Reunite for Romy and Michele’s High School Reunion 2",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73442567/lisa-kudrow-mira-sorvino-reunite-romy-and-micheles-high-school-reunion-2-photos/",
+      "summary": "Nearly 30 years later",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Lisa Kudrow and Mira Sorvino Reunite for Romy and Michele’s High Schoo...",
+      "score": 0,
+      "published": "2026-08-15T17:24:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a74c4c4f6977",
+      "title": "Victoria Beckham Is Wearing This Breezy Sheer Dress All Summer Long",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73442454/victoria-beckham-rewears-sheer-floral-dress-mini-hermes-kelly-bag-portofino-photos/",
+      "summary": "From Ibiza to Portofino",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-15T16:27:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "da04d0366f37",
+      "title": "Video: Man on scooter stops elderly woman to 'ask address', snatches chain and flees",
+      "link": "https://www.indiatoday.in/india/story/dehradun-chain-snatching-cctv-75-year-old-woman-knocked-down-by-activa-rider-2972161-2026-08-15?utm_source=rss",
+      "summary": "Video: Man on scooter stops elderly woman to 'ask address', snatches chain and flees",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Video: Man on scooter stops elderly woman to 'ask address', snatches c...",
+      "score": 1,
+      "published": "2026-08-15T15:26:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba9dea5cafc6",
+      "title": "Sadie Sink Goes Archival for the X-Men Reveal With a McQueen Spring 2004 Dress",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73442305/sadie-sink-archival-alexander-mcqueen-spring-2004-dress-disney-fan-event-photos/",
+      "summary": "The piece looked like it was made of stained glass",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sadie Sink Goes Archival for the X-Men Reveal With a McQueen Spring 20...",
+      "score": 1,
+      "published": "2026-08-15T15:14:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19e0fca6ed1d",
+      "title": "Nicole Kidman Dances in Leather and Fur for Troye Sivan’s New Music Video",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73442228/nicole-kidman-stars-troye-sivan-music-video-photos/",
+      "summary": "She’s truly the best",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nicole Kidman Dances in Leather and Fur for Troye Sivan’s New Music Vi...",
+      "score": 0,
+      "published": "2026-08-15T14:01:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9fedc66449d3",
+      "title": "‘Heated Rivalry’ Season 2 Is on Its Way—and It Already Has a Stacked Cast",
+      "link": "https://www.vogue.com/article/everything-we-know-so-far-heated-rivalry-season-2",
+      "summary": "Here’s everything we know so far about the second outing of everyone’s favorite gay hockey show—including its expected air date.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d70924b7421e",
+      "title": "Cute Shoes That Won't Kill Your Feet—17 Pairs I'd Wear All Day",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cute-comfortable-walking-shoes",
+      "summary": "Editor approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Cute Shoes That Won't Kill Your Feet—17 Pairs I'd Wear All Day...",
+      "score": 1,
+      "published": "2026-08-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f451eb72e6f0",
+      "title": "23 Under-$200 Shopbop Finds That Look Triple the Price",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-fashion-beauty-august-2026",
+      "summary": "Shop fashion and beauty, from Alex Mill to Flamingo Estate.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 23 Under-$200 Shopbop Finds That Look Triple the Price...",
+      "score": 2,
+      "published": "2026-08-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c021578879d4",
+      "title": "ICYMI: Copenhagen Fashion Week's Top Spring 2027 Trends, Saucony Is StockX's Fastest-Growing Sneaker Brand & Asos Is Platforming Emerging Designers",
+      "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-15",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-08-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "436322107728",
       "title": "Beauty Marks: The Best Beauty Looks of the Week",
@@ -20,20 +230,6 @@
       "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
       "score": 1,
       "published": "2026-08-15T10:06:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0adea757e35f",
-      "title": "The Scandi Street Style Way to Wear Sheers",
-      "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
-      "summary": "At Copenhagen Fashion Week, peekaboo looks were all the rage.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Scandi Street Style Way to Wear Sheers...",
-      "score": 3,
-      "published": "2026-08-15T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,6 +247,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0adea757e35f",
+      "title": "The Scandi Street Style Way to Wear Sheers",
+      "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
+      "summary": "At Copenhagen Fashion Week, peekaboo looks were all the rage.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Scandi Street Style Way to Wear Sheers...",
+      "score": 3,
+      "published": "2026-08-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b4aa4a27285f",
       "title": "Forget Paris—Buyers, Tastemakers, and Trend Forecasters Are Saying Spring 2027 Trends Start in This City",
       "link": "https://www.whowhatwear.com/fashion/runway/ciff-spring-summer-2027-buyers-fashion-trends",
@@ -62,20 +272,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-08-15T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "641d18602ed0",
-      "title": "Should India remain underdeveloped? SC raps Centre over packaged food warning labels",
-      "link": "https://www.indiatoday.in/india/law-news/story/front-of-package-labelling-supreme-court-asks-centre-to-decide-visual-format-ptag-2971908-2026-08-15?utm_source=rss",
-      "summary": "Should India remain underdeveloped? SC raps Centre over packaged food warning labels",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Should India remain underdeveloped? SC raps Centre over packaged food ...",
-      "score": 1,
-      "published": "2026-08-15T09:07:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -149,10 +345,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3e49464d506f",
-      "title": "These 5 Fun Handbag Trends Will Be The Secret Behind Every Great Outfit This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/fun-handbag-trends-autumn-2026",
-      "summary": "Buckle up (you, not your bag).",
+      "id": "c7c4262b77b8",
+      "title": "Dad Hats and Jeans Are Cool, But This Dad-Shirt Trend Is What Will Be Everywhere This Fall",
+      "link": "https://www.whowhatwear.com/fashion/tops/long-sleeve-polo-shirt-trend",
+      "summary": "If I see someone wearing it, I know they're cool.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -163,10 +359,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c7c4262b77b8",
-      "title": "Dad Hats and Jeans Are Cool, But This Dad-Shirt Trend Is What Will Be Everywhere This Fall",
-      "link": "https://www.whowhatwear.com/fashion/tops/long-sleeve-polo-shirt-trend",
-      "summary": "If I see someone wearing it, I know they're cool.",
+      "id": "3e49464d506f",
+      "title": "These 5 Fun Handbag Trends Will Be The Secret Behind Every Great Outfit This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/fun-handbag-trends-autumn-2026",
+      "summary": "Buckle up (you, not your bag).",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -216,6 +412,20 @@
       "angle": "Fashion Intelligence: Wait, Adidas Is Having a Sneaky Sale—12 Cool Styles That Need Your Att...",
       "score": 1,
       "published": "2026-08-14T22:42:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c28e615e593a",
+      "title": "At the Venice Film Festival, Why Is Only One Woman Competing for the Top Prize?",
+      "link": "https://www.vogue.com/article/why-is-only-one-woman-competing-for-venice-film-festivals-top-prize",
+      "summary": "After years of increased representation, female directors are all but missing from the Venice Film Festival’s main competition. Here’s how we got here—and what needs to change.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: At the Venice Film Festival, Why Is Only One Woman Competing for the T...",
+      "score": 0,
+      "published": "2026-08-14T22:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -975,6 +1185,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "dc47fe218f7c",
+      "title": "Clothing I Don’t Regret Buying: Items Worth Every Penny",
+      "link": "https://www.fashionbeans.com/article/clothing-i-dont-regret-buying/",
+      "summary": "In my days of being the biggest fashion nerd on the planet, I&#8217;ve reviewed many things, both amazing and not-so-good, and today we&#8217;re going to be looking at a list of the amazing things – things that I love, things that I think were incredible purchases by me and that I&#8217;m excited that I own. &#8230; Co",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Clothing I Don’t Regret Buying: Items Worth Every Penny...",
+      "score": 1,
+      "published": "2026-08-14T09:06:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "59f35b92515c",
       "title": "Sorry, Polka Dots—This Print Trend Will Make Your Tops, Jeans and Dresses Look Chicer This Autumn",
       "link": "https://www.whowhatwear.com/fashion/trends/striped-fashion-trend-2026",
@@ -1031,20 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4635f5aaf248",
-      "title": "A Top Manicurist Just Told Me That These 6 Nail Trends Will Always Be in Style",
-      "link": "https://www.whowhatwear.com/beauty/nails/timeless-nail-trends",
-      "summary": "Totally timeless.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-14T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "62bc95ee8270",
       "title": "This Understated, Affordable Basic Will Make Your Outfits Look 10 Times Chicer This Autumn",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-long-sleeved-t-shirts",
@@ -1055,6 +1265,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: This Understated, Affordable Basic Will Make Your Outfits Look 10 Time...",
       "score": 1,
+      "published": "2026-08-14T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4635f5aaf248",
+      "title": "A Top Manicurist Just Told Me That These 6 Nail Trends Will Always Be in Style",
+      "link": "https://www.whowhatwear.com/beauty/nails/timeless-nail-trends",
+      "summary": "Totally timeless.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-08-14T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1070,34 +1294,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-14T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0acd120d2608",
-      "title": "Carmen Busquets Partners with Parsons on Award for Disabled Students",
-      "link": "https://www.vogue.com/article/carmen-busquets-partners-with-parsons-on-award-for-disabled-students",
-      "summary": "The $12,500 grant will support the futures of aspiring fashion leaders through mentorship and collaboration opportunities.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Carmen Busquets Partners with Parsons on Award for Disabled Students...",
-      "score": 1,
-      "published": "2026-08-14T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5184b16012f9",
-      "title": "How to Attract Gen Z’s New Club Kids",
-      "link": "https://www.vogue.com/article/how-to-attract-gen-zs-new-club-kids",
-      "summary": "It’s widely believed that Gen Z don’t party like other generations. But a new crop of influencers and social media savvy DJs are driving young crowds to party capitals like Ibiza. Should brands hit the club?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Attract Gen Z’s New Club Kids...",
-      "score": 1,
-      "published": "2026-08-14T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1140,20 +1336,6 @@
       "angle": "Fashion Intelligence: Kylie Jenner Sizzles in ALO’s Pink Drop...",
       "score": 1,
       "published": "2026-08-14T02:06:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8af9b6176543",
-      "title": "45 Thoughts I Had About Episode 4 of ‘The Shards’",
-      "link": "https://www.vogue.com/article/45-thoughts-i-had-about-episode-4-of-the-shards",
-      "summary": "“Are you an actor? My dad is a producer, he will put you in one of his movies” is an iconically LA-brained way to beg a knife-wielding stranger for your life.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 45 Thoughts I Had About Episode 4 of ‘The Shards’...",
-      "score": 0,
-      "published": "2026-08-14T01:45:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1521,62 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5b8c76a22ceb",
-      "title": "Forget Baby Tees—According to the Runways, This Is the Chicest Way to Show Skin This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/strapless-dress-trend-2026",
-      "summary": "Give sleeves the cold shoulder.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Forget Baby Tees—According to the Runways, This Is the Chicest Way to ...",
-      "score": 2,
-      "published": "2026-08-13T07:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d809a9bfdea3",
-      "title": "Who What Wear Editors Told Me Their 21 Best Fashion Finds This Month",
-      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-august-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 21 Best Fashion Finds This Month...",
-      "score": 2,
-      "published": "2026-08-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "91d46c502c8b",
-      "title": "Colorful Streets, Caribbean Escapes, and the Best Local Designers: An Insider's Guide to Cartagena",
-      "link": "https://www.whowhatwear.com/living/travel/cartegena-colombia-travel-guide-agua-bendita",
-      "summary": "The founders of Agua Bendita share their dream itinerary.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Colorful Streets, Caribbean Escapes, and the Best Local Designers: An ...",
-      "score": 1,
-      "published": "2026-08-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5726361f3dc1",
-      "title": "7 Autumn Nail Ideas That You Can Wear Right Now to Get Ahead of the Trends",
-      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-nail-ideas-2026",
-      "summary": "Transitional shades.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "00fc6753a7a0",
       "title": "How to Make Ballet Flats Feel Fresh Again",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73403742/how-to-style-ballet-flats/",
@@ -1731,20 +1857,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f366972c651c",
-      "title": "Amal Clooney Is So Chic in a Black Floral Slipdress for a Family Outing in Lake Como",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73413290/amal-clooney-black-floral-slipdress-lake-como-george-kids-ella-alexander-photos/",
-      "summary": "Her Italian wardrobe never disappoints",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Amal Clooney Is So Chic in a Black Floral Slipdress for a Family Outin...",
-      "score": 1,
-      "published": "2026-08-12T14:20:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "46955b20018b",
       "title": "Sincerely Yours: A Gen Alpha Skin-Care Brand Founded by Creator Salish Matter",
       "link": "https://fashionista.com/2026/08/sincerely-yours-skin-care-brand",
@@ -1756,34 +1868,6 @@
       "angle": "Fashion Intelligence: Sincerely Yours: A Gen Alpha Skin-Care Brand Founded by Creator Salish...",
       "score": 1,
       "published": "2026-08-12T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cab231be56d9",
-      "title": "ECCO ELEVATE Rethinks Footwear Through Craftsmanship and Comfort",
-      "link": "https://www.harpersbazaar.com/fashion/a73320262/ecco-elevate-rethinks-footwear-through-craftsmanship-and-comfort/",
-      "summary": "Where elegance meets ease.",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 2,
-      "published": "2026-08-12T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c03719935c2f",
-      "title": "Rihanna Shares a Rare, Candid Video of Her Three Kids in Barbados",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73413120/rihanna-drive-video-photos-three-kids-in-barbados-rza-riot-rocki/",
-      "summary": "RZA, Riot, and Rocki are so adorable",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rihanna Shares a Rare, Candid Video of Her Three Kids in Barbados...",
-      "score": 0,
-      "published": "2026-08-12T13:44:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1829,34 +1913,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "259c54892362",
-      "title": "Why the T-Shirt Dress Is a Summer-to-Fall Hero",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a73347467/best-t-shirt-dresses-2026/",
-      "summary": "Versatility and comfort all in one",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why the T-Shirt Dress Is a Summer-to-Fall Hero...",
-      "score": 1,
-      "published": "2026-08-11T20:42:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cd3b517247ca",
-      "title": "Demi Lovato Wears ’90s Dolce &amp; Gabbana to Reunite With the Jonas Brothers at the Camp Rock 3 Premiere",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73405188/demi-lovato-vintage-dolce-gabbana-dress-camp-rock-3-premiere-photos/",
-      "summary": "Plus, she revived her deep side part for the occasion",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Demi Lovato Wears ’90s Dolce &amp; Gabbana to Reunite With the Jonas B...",
-      "score": 2,
-      "published": "2026-08-11T19:32:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "81403e6fe4db",
       "title": "Natasha Colvin Studios Fall Styling Internship - NYC",
       "link": "https://fashionista.com/2026/08/natasha-colvin-studios-fall-styling-internship-nyc",
@@ -1868,20 +1924,6 @@
       "angle": "Fashion Intelligence: Natasha Colvin Studios Fall Styling Internship - NYC...",
       "score": 1,
       "published": "2026-08-11T18:06:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "262738de31c9",
-      "title": "Dua Lipa Plays Tourist in Brooklyn With a Bandana, Boots, and More of Summer’s Biggest Trends",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73404817/dua-lipa-cosigns-biggest-summer-trends-bandana-new-york-city-photos/",
-      "summary": "She biked around the city with Callum Turner",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-11T17:47:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2235,34 +2277,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d9ecefb688e4",
-      "title": "7 Best Silicone Wedding Bands For Men (2026 Edition)",
-      "link": "https://www.fashionbeans.com/article/best-silicone-wedding-bands/",
-      "summary": "While there’s certainly something to be said for doing things the traditional way, it doesn’t always mean it’s the best way. Take your wedding band, for example. It’s eye-catching. It’s strong and sturdy. It tells a timeless tale of love and devotion. All of these things are true. But it’s also true that “traditional” ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 7 Best Silicone Wedding Bands For Men (2026 Edition) — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-10T06:55:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d8b17d303225",
-      "title": "11 Best Non Iron Dress Shirts For Men in 2026",
-      "link": "https://www.fashionbeans.com/article/non-iron-dress-shirts-for-men/",
-      "summary": "You&#8217;re all set for your next big event: a sleek suit, the right dress socks, dress shoes that will keep you moving. Everything is falling into place until you realize your dress shirt is beyond wrinkled. No ironing board and iron in sight and no time or money to go to the cleaners, you&#8217;re in &#8230; Continu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 11 Best Non Iron Dress Shirts For Men in 2026...",
-      "score": 1,
-      "published": "2026-08-10T06:50:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b1daf823ae68",
       "title": "ICYMI: Sephora Partners With Olive Young, Checking In With Century 21 & Fashion's Hottest Item Is a Knicks Cap",
       "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-8",
@@ -2582,20 +2596,6 @@
       "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
       "score": 1,
       "published": "2026-08-04T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7f205c600617",
-      "title": "E.l.f. x Bubble Is the Beauty Collab Consumers Literally Asked For",
-      "link": "https://fashionista.com/2026/08/bubble-elf-collaboration-makeup-skin-care",
-      "summary": "The limited-edition collection of hybrid formulas was inspired by the way consumers were already \"cocktailing\" the two brands' products on their own.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: E.l.f. x Bubble Is the Beauty Collab Consumers Literally Asked For...",
-      "score": 3,
-      "published": "2026-08-03T18:49:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "बहीण",
+      "term": "सोने",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മമിത ബൈജു",
+      "term": "ದೇವದತ್ ಪಡಿಕ್ಕಲ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "oak street movies",
+      "term": "కూరగాయలు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "telangana",
+      "term": "ఆగష్టు 16",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಡಿ ಕೆ ಶಿವಕುಮಾರ್",
+      "term": "mackenzie dern",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "শিশু",
+      "term": "jalin turner",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "किसान",
+      "term": "kaue fernandes",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "azmatullah omarzai",
+      "term": "mitchell starc",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "cami clark",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hockey world cup 2026",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "हरियाली तीज",
+      "term": "सुखोई",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
