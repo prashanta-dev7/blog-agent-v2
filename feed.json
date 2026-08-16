@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:56:40.543239+00:00",
+  "generated_at": "2026-08-16T05:27:25.469107+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 185,
@@ -8,6 +8,20 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "3dd6abd22cd8",
+      "title": "Fresh Off the Runway—7 Designer Bags That Are Already Claiming It Status for Autumn",
+      "link": "https://www.whowhatwear.com/fashion/handbags/designer-autumn-it-bags-2026",
+      "summary": "From The Row to Gucci.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Fresh Off the Runway—7 Designer Bags That Are Already Claiming It Stat...",
+      "score": 2,
+      "published": "2026-08-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "57917ce2c2a0",
       "title": "As Bulldozers Arrive at the Border in Big Bend, Here’s What You Can Still Do to Protect the Park",
@@ -1689,20 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1ceb2796f757",
-      "title": "Pedis at the Ready: I Think Flip-Flops and Ballet Flats Look Coolest When Styled With This Divisive Sock Trend",
-      "link": "https://www.whowhatwear.com/fashion/trends/toeless-sock-trend-2026",
-      "summary": "Footloose, but make it cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-13T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "00fc6753a7a0",
       "title": "How to Make Ballet Flats Feel Fresh Again",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73403742/how-to-style-ballet-flats/",
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "सोने",
+      "term": "up scholarship",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ದೇವದತ್ ಪಡಿಕ್ಕಲ್",
+      "term": "खेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "కూరగాయలు",
+      "term": "india vs sri lanka test",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఆగష్టు 16",
+      "term": "ओमान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mackenzie dern",
+      "term": "mominul haque",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jalin turner",
+      "term": "ayushman bharat card",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kaue fernandes",
+      "term": "cholesterol",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mitchell starc",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "cami clark",
+      "term": "alexander zverev",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सुखोई",
+      "term": "तारक मेहता का उल्टा चश्मा",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "nathan lyon",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
