@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:28:06.013904+00:00",
+  "generated_at": "2026-08-16T11:19:29.285269+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 184,
@@ -9,10 +9,80 @@
   },
   "articles": [
     {
-      "id": "09fa8434003e",
-      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
-      "summary": "Confirmed by Kaia.",
+      "id": "3228b026f78b",
+      "title": "David Beckham Takes His Instagram Husband Duties Very Seriously",
+      "link": "https://www.vogue.com/article/david-beckham-takes-his-instagram-husband-duties-very-seriously",
+      "summary": "The Beckhams might be the most papped family in the world right now, but in Positano, David made sure he was the one getting Victoria’s best angles.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: David Beckham Takes His Instagram Husband Duties Very Seriously...",
+      "score": 0,
+      "published": "2026-08-16T11:03:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42b9ac21ab03",
+      "title": "30 Gingham Decor Pieces to Bring the Checkered Trend Home",
+      "link": "https://www.vogue.com/article/gingham-decor",
+      "summary": "Bring a bit of pattern home with some gingham decor—from pillows to blankets to even a bed frame, these are our favorites from brands like Hawkins New York, Serena & Lily, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-16T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "41ff0719593a",
+      "title": "Ask Earl With Laurel Pantin: How to Layer in a Heat Wave",
+      "link": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
+      "summary": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ask Earl With Laurel Pantin: How to Layer in a Heat Wave...",
+      "score": 1,
+      "published": "2026-08-16T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63410e7a8499",
+      "title": "Pre-Approved: The 29 Coolest Things to Buy From Shopbop, According to a Senior Fashion Editor",
+      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-from-shopbop-fall-2026",
+      "summary": "I did the deep-diving for you.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Pre-Approved: The 29 Coolest Things to Buy From Shopbop, According to ...",
+      "score": 1,
+      "published": "2026-08-16T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8d9e668ec4ea",
+      "title": "'Dimaagi Naxal' label targets Jantar Mantar protesters: CPM hits out at PM Modi",
+      "link": "https://www.indiatoday.in/india/story/dimaagi-naxal-remark-ma-baby-opposition-attack-pm-modi-independence-day-speech-2972371-2026-08-16?utm_source=rss",
+      "summary": "'Dimaagi Naxal' label targets Jantar Mantar protesters: CPM hits out at PM Modi",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 'Dimaagi Naxal' label targets Jantar Mantar protesters: CPM hits out a...",
+      "score": 1,
+      "published": "2026-08-16T08:38:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdd440725ba7",
+      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
+      "summary": "Suddenly, they're everywhere.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -23,10 +93,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdd440725ba7",
-      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
-      "summary": "Suddenly, they're everywhere.",
+      "id": "09fa8434003e",
+      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
+      "summary": "Confirmed by Kaia.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -191,20 +261,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "28bd4064c8fc",
-      "title": "Sabarimala ghee to face regular quality tests ahead of pilgrimage season",
-      "link": "https://www.indiatoday.in/india/story/sabarimala-ghee-testing-minister-asks-tdb-to-set-up-labs-before-mandalam-season-ptag-2972112-2026-08-15?utm_source=rss",
-      "summary": "Sabarimala ghee to face regular quality tests ahead of pilgrimage season",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-15T17:46:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c10f82a6a311",
       "title": "Lisa Kudrow and Mira Sorvino Reunite for Romy and Michele’s High School Reunion 2",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73442567/lisa-kudrow-mira-sorvino-reunite-romy-and-micheles-high-school-reunion-2-photos/",
@@ -331,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0adea757e35f",
-      "title": "The Scandi Street Style Way to Wear Sheers",
-      "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
-      "summary": "At Copenhagen Fashion Week, peekaboo looks were all the rage.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Scandi Street Style Way to Wear Sheers...",
-      "score": 3,
-      "published": "2026-08-15T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8657bdde5933",
       "title": "Discover the Best Dresses for Every August Occasion",
       "link": "https://www.vogue.com/article/dresses",
@@ -354,6 +396,20 @@
       "is_competitor": false,
       "aza_category": "Occasion Dressing",
       "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-08-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0adea757e35f",
+      "title": "The Scandi Street Style Way to Wear Sheers",
+      "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
+      "summary": "At Copenhagen Fashion Week, peekaboo looks were all the rage.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Scandi Street Style Way to Wear Sheers...",
       "score": 3,
       "published": "2026-08-15T10:00:00+00:00",
       "discovered_via": "feed"
@@ -1255,34 +1311,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-14T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8bb7a77276c6",
-      "title": "How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business",
-      "link": "https://www.vogue.com/article/how-wonderskin-turned-tiktok-fame-into-a-dollar200-million-beauty-business",
-      "summary": "With $50 million in Series A funding and 1,500 new US retail doors through Sephora, the brand behind the ubiquitous metallic blue lip stain has turned virality into lasting growth.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Wonderskin Turned TikTok Fame Into a $200 Million Beauty Business...",
-      "score": 2,
-      "published": "2026-08-14T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dc47fe218f7c",
       "title": "Clothing I Don’t Regret Buying: Items Worth Every Penny",
       "link": "https://www.fashionbeans.com/article/clothing-i-dont-regret-buying/",
@@ -1325,20 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ab3cdf09ad37",
-      "title": "Justin and Hailey Bieber’s Mismatched Couple Style Through the Years",
-      "link": "https://www.vogue.com/slideshow/justin-bieber-hailey-bieber-mismatched-couple-style-through-the-years",
-      "summary": "Throughout their relationship, Hailey and Justin Bieber have continued to grow into themselves, moving away from their shared fashion choices.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Justin and Hailey Bieber’s Mismatched Couple Style Through the Years...",
-      "score": 2,
-      "published": "2026-08-14T06:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "487dfc5d9f02",
       "title": "These 6 Style Tribes Will Be the Dominating Trends For Autumn: Which One Are You?",
       "link": "https://www.whowhatwear.com/fashion/trends/style-personalities-autumn-2026",
@@ -1378,20 +1392,6 @@
       "angle": "Fashion Intelligence: This Understated, Affordable Basic Will Make Your Outfits Look 10 Time...",
       "score": 1,
       "published": "2026-08-14T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "033db820d6ce",
-      "title": "7 Classic Trends Every Chic Parisian Will Wear This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/parisian-classic-fall-trends-uk",
-      "summary": "Vive l'automne!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-14T05:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2823,6 +2823,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ffdda445d23d",
+      "title": "What Are The Biggest Bridal Fashion Trends for 2027 Weddings",
+      "link": "https://www.azafashions.com/blog/biggest-bridal-trends-2027/?utm_source=rss&utm_medium=rss&utm_campaign=biggest-bridal-trends-2027",
+      "summary": "Every wedding season leaves behind a residue,&#160;a phrase, a silhouette, a shade that lingers in every trousseau conversation for years after. 2027 is shaping up to be one of those&#8230; The post What Are The Biggest Bridal Fashion Trends for 2027 Weddings appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: What Are The Biggest Bridal Fashion Trends for 2027 Weddings — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-08-16T09:48:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "56836e562115",
       "title": "How Indian Designers Have Conquered the Global Stage",
       "link": "https://www.azafashions.com/blog/indian-designers-at-the-global-stage/?utm_source=rss&utm_medium=rss&utm_campaign=indian-designers-at-the-global-stage",
@@ -2947,70 +2961,56 @@
       "score": 2,
       "published": "2026-08-13T12:39:12+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "bf923cb44b90",
-      "title": "Vedika Pinto as Sudha in Musafir Cafe Is Our New Style Obsession",
-      "link": "https://www.azafashions.com/blog/vedika-pinto-as-sudha-in-musafir-cafe/?utm_source=rss&utm_medium=rss&utm_campaign=vedika-pinto-as-sudha-in-musafir-cafe",
-      "summary": "There's a particular kind of pleasure in watching a character's clothing do the heavy lifting. Not in a theatrical, costume-drama way — but quietly, almost imperceptibly, the way a real&#8230; The post Vedika Pinto as Sudha in Musafir Cafe Is Our New Style Obsession appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Vedika Pinto as Sudha in Musafir Cafe Is Our New Style Obsession...",
-      "score": 1,
-      "published": "2026-08-12T15:32:58+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "lottery sambad",
+      "term": "sixth generation fighter",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रेल",
+      "term": "neet",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ആര്യ രാജേന്ദ്രന്",
+      "term": "spurs vs hoffenheim",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lal bahadur shastri international airport, varanasi",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "raja sen",
+      "term": "लिस्टिंग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बिहार",
+      "term": "వరద",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஆஸ்திரேலியா",
+      "term": "கனமழை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऑस्ट्रेलिया राष्ट्रीय क्रिकेट टीम",
+      "term": "supreme court of india",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery result",
+      "term": "kerala lottery result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "நடிகர்",
+      "term": "ध्रुव जुरेल",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ദേവന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
