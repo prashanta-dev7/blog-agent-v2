@@ -1,25 +1,109 @@
 {
-  "generated_at": "2026-08-17T08:41:54.738794+00:00",
+  "generated_at": "2026-08-17T11:24:46.619877+00:00",
   "owned_count": 10,
-  "competitor_count": 17,
-  "industry_count": 185,
+  "competitor_count": 18,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "3a690b06bd40",
-      "title": "It's Official: This Is the Biggest Bag Trend of 2026",
-      "link": "https://www.whowhatwear.com/fashion/flat-tote-bag-trend",
-      "summary": "It's Official: This Is the Biggest Bag Trend of 2026",
+      "id": "bfa2c1f01a98",
+      "title": "Kate Moss Paired Her Denim Mini Skirt With a Summer Shoe Trend I Thought I’d Never See on Over 50s",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/denim-mini-skirt-gladiator-sandals-outfit-kate-moss-2026",
+      "summary": "Forget flip-flops. Whilst on holiday in Formentera, Kate Moss just completed her anti-jeans summer outfit with this dated shoe trend from the 2000s.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-17T11:06:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3707a307490c",
+      "title": "Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft Symmetry",
+      "link": "https://www.vogue.com/article/savette-soft-symmetry-launch",
+      "summary": "Savette’s newest handbag introduces an element of undone elegance to the brand’s refined design codes. Learn more about the design from founder Amy Zurek and shop it on Vogue first.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft ...",
       "score": 1,
-      "published": "2026-08-17T08:00:00+00:00",
+      "published": "2026-08-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aa24abeaea94",
+      "title": "How to Get a Wedding Dress Fast",
+      "link": "https://www.vogue.com/article/how-to-get-a-wedding-dress-fast",
+      "summary": "Getting married in under nine months? We give you all the solutions on how to get a wedding dress fast, from shopping vintage to going bespoke.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: How to Get a Wedding Dress Fast — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87a697c51d67",
+      "title": "I'm a Fashion Person, and These Are the Clothes I Want to Wear From Aligne, Tibi, Vince, COS, and Soft Goat",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-early-fall-shopping-2026",
+      "summary": "Cool pants! Gorgeous knits!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Fashion Person, and These Are the Clothes I Want to Wear From Al...",
+      "score": 2,
+      "published": "2026-08-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "beda0306ab2c",
+      "title": "How to Wear the Nightie Dress Trend, According to Six of the Season’s It Girls",
+      "link": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend",
+      "summary": "From Dôen, Madewell, and even Chloé, here’s how six of the season’s It girls are wearing the nightie dress trend.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-08-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cc34bafb4860",
+      "title": "The Best Vanilla Perfumes Have Architecture and Attitude",
+      "link": "https://www.vogue.com/article/modern-vanilla-perfumes",
+      "summary": "The best vanilla perfumes are far from the sugary dessert scents you'd imagine. Crisp and light, moody and rich, these fragrances by Guerlain, Dior, and more make the note feel new.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Vanilla Perfumes Have Architecture and Attitude...",
+      "score": 0,
+      "published": "2026-08-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "77fad1c8f171",
+      "title": "34 Best Fall Wedding Guest Dresses to Wear for Autumnal RSVPs",
+      "link": "https://www.vogue.com/slideshow/best-fall-wedding-guest-dresses",
+      "summary": "Autumn ceremonies will be here before you know it. Start planning your look with our edit of the best fall wedding guest dresses to shop right now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 34 Best Fall Wedding Guest Dresses to Wear for Autumnal RSVPs — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-17T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -32,6 +116,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: I'm a Jewelry Designer in L.A.—This Is My Citizens of Humanity Capsule...",
+      "score": 1,
+      "published": "2026-08-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a690b06bd40",
+      "title": "It's Official: This Is the Biggest Bag Trend of 2026",
+      "link": "https://www.whowhatwear.com/fashion/flat-tote-bag-trend",
+      "summary": "It's Official: This Is the Biggest Bag Trend of 2026",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-17T08:00:00+00:00",
       "discovered_via": "feed"
@@ -373,17 +471,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "42b9ac21ab03",
-      "title": "30 Gingham Decor Pieces to Bring the Checkered Trend Home",
-      "link": "https://www.vogue.com/article/gingham-decor",
-      "summary": "Bring a bit of pattern home with some gingham decor—from pillows to blankets to even a bed frame, these are our favorites from brands like Hawkins New York, Serena & Lily, and more.",
-      "source": "Vogue US",
+      "id": "66c4234276e1",
+      "title": "Smart Casual Dress Code For Men: Attire and Style Guide 2026",
+      "link": "https://www.fashionbeans.com/article/mens-smart-casual-dress-guide/",
+      "summary": "Trying to find the true meaning of the phrase smart casual can quickly turn into a nightmare. The Oxford Dictionary defines it as “neat, conventional, yet relatively informal in style, especially as worn to conform to a particular dress code”. But these days it&#8217;s quite common for smart casual to be the dress code",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-08-16T10:00:00+00:00",
+      "published": "2026-08-16T10:02:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -397,6 +495,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ask Earl With Laurel Pantin: How to Layer in a Heat Wave...",
       "score": 1,
+      "published": "2026-08-16T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42b9ac21ab03",
+      "title": "30 Gingham Decor Pieces to Bring the Checkered Trend Home",
+      "link": "https://www.vogue.com/article/gingham-decor",
+      "summary": "Bring a bit of pattern home with some gingham decor—from pillows to blankets to even a bed frame, these are our favorites from brands like Hawkins New York, Serena & Lily, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-08-16T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -467,6 +579,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 6 Easy and Elegant, Transitional Workwear Looks to See You Through Aut...",
       "score": 1,
+      "published": "2026-08-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d45c36e2829f",
+      "title": "How To Build The Ultimate Minimalist Wardrobe For Men 2026",
+      "link": "https://www.fashionbeans.com/article/minimalist-wardrobe-men/",
+      "summary": "All the best things come in capsules. Medicine. Space food. Time. And, naturally, clothes. Not in a download-your-outfit-from-the-internet way, the minimalist wardrobe is far simpler than that. It&#8217;s the answer to every instance when you looked at your wardrobe and wondered, “What shall I wear today?” Ostensibly i",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Build The Ultimate Minimalist Wardrobe For Men 2026...",
+      "score": 2,
       "published": "2026-08-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -653,20 +779,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d70924b7421e",
-      "title": "Cute Shoes That Won't Kill Your Feet—17 Pairs I'd Wear All Day",
-      "link": "https://www.whowhatwear.com/fashion/shopping/cute-comfortable-walking-shoes",
-      "summary": "Editor approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Cute Shoes That Won't Kill Your Feet—17 Pairs I'd Wear All Day...",
-      "score": 1,
-      "published": "2026-08-15T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f451eb72e6f0",
       "title": "23 Under-$200 Shopbop Finds That Look Triple the Price",
       "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-fashion-beauty-august-2026",
@@ -677,6 +789,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 23 Under-$200 Shopbop Finds That Look Triple the Price...",
       "score": 2,
+      "published": "2026-08-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d70924b7421e",
+      "title": "Cute Shoes That Won't Kill Your Feet—17 Pairs I'd Wear All Day",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cute-comfortable-walking-shoes",
+      "summary": "Editor approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Cute Shoes That Won't Kill Your Feet—17 Pairs I'd Wear All Day...",
+      "score": 1,
       "published": "2026-08-15T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -808,23 +934,23 @@
     },
     {
       "id": "367349a55fe0",
-      "title": "Hold The Dainty Necklaces—According to the Runways, This Is the Chicest Way to Wear Bling This Autumn",
+      "title": "Hold the Dainty Necklaces: According to the Runways, This Is the Chicest Way to Wear Bling This Autumn",
       "link": "https://www.whowhatwear.com/fashion/jewelry/autumn-jewellery-trends-2026",
       "summary": "Large and in charge.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hold The Dainty Necklaces—According to the Runways, This Is the Chices...",
+      "angle": "Fashion Intelligence: Hold the Dainty Necklaces: According to the Runways, This Is the Chice...",
       "score": 2,
       "published": "2026-08-15T07:30:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "c7c4262b77b8",
-      "title": "Dad Hats and Jeans Are Cool, But This Dad-Shirt Trend Is What Will Be Everywhere This Fall",
-      "link": "https://www.whowhatwear.com/fashion/tops/long-sleeve-polo-shirt-trend",
-      "summary": "If I see someone wearing it, I know they're cool.",
+      "id": "3e49464d506f",
+      "title": "These 5 Fun Handbag Trends Will Be The Secret Behind Every Great Outfit This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/fun-handbag-trends-autumn-2026",
+      "summary": "Buckle up (you, not your bag).",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -835,10 +961,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3e49464d506f",
-      "title": "These 5 Fun Handbag Trends Will Be The Secret Behind Every Great Outfit This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/fun-handbag-trends-autumn-2026",
-      "summary": "Buckle up (you, not your bag).",
+      "id": "c7c4262b77b8",
+      "title": "Dad Hats and Jeans Are Cool, But This Dad-Shirt Trend Is What Will Be Everywhere This Fall",
+      "link": "https://www.whowhatwear.com/fashion/tops/long-sleeve-polo-shirt-trend",
+      "summary": "If I see someone wearing it, I know they're cool.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1073,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "97f2b33520d6",
-      "title": "Oh, These Are Good—29 Under-$170 Pre-Fall Fashion Arrivals From Banana Republic, Levi's, Nordstrom, and More",
-      "link": "https://www.whowhatwear.com/under-200-fall-arrivals-ssense-nordstrom-free-people-adidas-levis",
-      "summary": "For those who blew their budget on summer travel.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Oh, These Are Good—29 Under-$170 Pre-Fall Fashion Arrivals From Banana...",
-      "score": 1,
-      "published": "2026-08-14T18:42:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "851ca235c880",
       "title": "Miss Dior Parfum Just Got the Cutest Couture Upgrade",
       "link": "https://www.harpersbazaar.com/beauty/a73436919/miss-dior-parfum-2026/",
@@ -1185,20 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a9c229338c1e",
-      "title": "I'm a Shopping Director, and Here Is My First List of Fashionable Fall Items at Nordstrom—Go!",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-fall-nordstrom-2026",
-      "summary": "This edit is modern and chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Shopping Director, and Here Is My First List of Fashionable Fall...",
-      "score": 1,
-      "published": "2026-08-14T16:46:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "513c14d2a6a6",
       "title": "A Behind-the-Scenes Look at Zara Larsson’s Lollapalooza Stop During Her ‘Midnight Sun’ Tour",
       "link": "https://www.vogue.com/article/soundcheck-zara-larsson",
@@ -1255,48 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bd848c2759a7",
-      "title": "Kaia Gerber and Lewis Pullman Are Ready for Fall in Their Autumnal Couple Style",
-      "link": "https://www.vogue.com/article/kaia-gerber-lewis-pullman-autumnal-couple-style",
-      "summary": "Summer doesn’t technically end until late September, but as far as Kaia Gerber and Lewis Pullman are concerned, it’s already fall.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kaia Gerber and Lewis Pullman Are Ready for Fall in Their Autumnal Cou...",
-      "score": 1,
-      "published": "2026-08-14T14:18:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "68932cd03a97",
-      "title": "Feta Isn’t Just Delicious, It’s High in Protein and Calcium",
-      "link": "https://www.vogue.com/article/feta-cheese-benefits-2026",
-      "summary": "Eaten in Greece for centuries and rooted in tradition, feta is an ancient cheese with plenty of nutritional benefits.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Feta Isn’t Just Delicious, It’s High in Protein and Calcium...",
-      "score": 0,
-      "published": "2026-08-14T14:08:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1e1c0027f7d1",
-      "title": "Amal Clooney Has Nailed Her Summer Gala Dressing Formula",
-      "link": "https://www.vogue.com/article/amal-clooney-nails-summer-gala-dressing-formula",
-      "summary": "High summer on Lake Como is Amal Clooney at the peak of her fashion powers—her latest look, for a Clooney Foundation for Justice dinner, hits all the right notes.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Amal Clooney Has Nailed Her Summer Gala Dressing Formula...",
-      "score": 2,
-      "published": "2026-08-14T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d53a08286ecb",
       "title": "TAD Beauty: A 3D-Printed Lash Extensions Brand Reimagining DIY Clusters",
       "link": "https://fashionista.com/2026/08/tad-beauty-lash-extension-brand",
@@ -1322,20 +1378,6 @@
       "angle": "Fashion Intelligence: Nicole Kidman Gets Real About How Her Vision for Her Future Changed Af...",
       "score": 0,
       "published": "2026-08-14T13:55:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0798e33065c8",
-      "title": "Tracee Ellis Ross Wants You to Have It All",
-      "link": "https://www.vogue.com/article/tracee-ellis-ross-wants-you-to-have-it-all",
-      "summary": "The actor and entrepreneur shares her love for textured hair—curly, straight, or styled—and how Pattern Beauty’s newest collection supports beauty play.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Tracee Ellis Ross Wants You to Have It All...",
-      "score": 3,
-      "published": "2026-08-14T13:39:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1420,20 +1462,6 @@
       "angle": "Fashion Intelligence: Page Industries Q1 Revenue Rises 7.9% to Rs 1,420 Crore...",
       "score": 1,
       "published": "2026-08-14T12:04:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bbf15bc00ec7",
-      "title": "The Stars of London’s West End Hop a Chic Train (Reimagined by Baz Luhrmann and Catherine Martin) for an Opulent Fashion Trip",
-      "link": "https://www.vogue.com/article/baz-luhrmann-catherine-martin-reimagined-train-fashion",
-      "summary": "Brian Cox, Letitia Wright, Josephine Thiesen, Luke Thompson, Sadie Soverall, Harriet Walter, and more take the glamorous journey of a lifetime.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Stars of London’s West End Hop a Chic Train (Reimagined by Baz Luh...",
-      "score": 1,
-      "published": "2026-08-14T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1756,20 +1784,6 @@
       "angle": "Fashion Intelligence: Meenakshi India Targets 38 Lakh-Piece Capacity by FY30...",
       "score": 1,
       "published": "2026-08-13T13:26:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "54d9e0831503",
-      "title": "Bata India Q1 FY ’27 Profit Rises 23% to Rs 64 Crore",
-      "link": "https://in.apparelresources.com/business-news/retail/bata-india-q1-fy-27-profit-rises-23-rs-64-crore/",
-      "summary": "Footwear retailer Bata India reported a 23 % year-on-year increase in consolidated net profit to Rs 63.98 crore (US $6.69 million) for the quarter ended June 30, compared with Rs 52 crore (US $5.44 million) in Q1 FY &#8217;26. Revenue from operations increased 4% to Rs 978.95 crore (US $102.42 million), driven by premi",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bata India Q1 FY ’27 Profit Rises 23% to Rs 64 Crore...",
-      "score": 1,
-      "published": "2026-08-13T13:25:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2235,48 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bf78984a6dbd",
-      "title": "8 Best Travel Pants for Men to Wear on Any Trip in 2026",
-      "link": "https://www.fashionbeans.com/article/best-travel-pants-for-men/",
-      "summary": "Your bags are packed, your ticket’s booked… All that’s left is what to wear. The best travel pants for men take the guesswork out of getting ready on the go. Designed for functionality and style, they’re an unbeatable travel clothing essential for every kind of voyage. The pants on this list have been tried and &#8230;",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 8 Best Travel Pants for Men to Wear on Any Trip in 2026...",
-      "score": 2,
-      "published": "2026-08-10T08:49:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0aa9eaacb491",
-      "title": "7 Best Venetian Loafers for Men: Subtle & Chic Picks in 2026",
-      "link": "https://www.fashionbeans.com/article/best-venetian-loafers-for-men/",
-      "summary": "Finding new ways to style your outfits is a challenging task but never impossible. If you own more than one type of shoe, then you can easily mix and match staples to your preferences. But what if you don’t like filling your closet with tons of sneakers, Oxfords, and boots? What kind of footwear is &#8230; Continue rea",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best Venetian Loafers for Men: Subtle & Chic Picks in 2026...",
-      "score": 3,
-      "published": "2026-08-10T08:03:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ab41366e873b",
-      "title": "What To Wear To A Summer Wedding",
-      "link": "https://www.fashionbeans.com/article/summer-wedding-what-to-wear/",
-      "summary": "There comes a time in every man’s life when summers become a seemingly endless succession of other people’s nuptials. If you haven’t reached that point yet, then rest assured: summer wedding season is coming. As is the constant deliberation over wedding attire. Sometimes, in the case of stricter dress codes, there’s a ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: What To Wear To A Summer Wedding — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-08-10T07:00:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b1daf823ae68",
       "title": "ICYMI: Sephora Partners With Olive Young, Checking In With Century 21 & Fashion's Hottest Item Is a Knicks Cap",
       "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-8",
@@ -2599,6 +2571,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a05c5d62e9cc",
+      "title": "What to Wear on Janmashtami: Outfit Ideas for Men and Women",
+      "link": "https://www.indianclothstore.com/blog/janmashtami-outfit-ideas",
+      "summary": "If you&#8217;re short on time, here&#8217;s the direct answer: our go-to Janmashtami outfit ideas are a yellow or peacock-blue dhoti kurta for men and a saree or lehenga in yellow and blue for women, both in breathable cotton or cotton-silk. That&#8217;s what to wear on Janmashtami if you want something that looks righ",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: What to Wear on Janmashtami: Outfit Ideas for Men and Women...",
+      "score": 6,
+      "published": "2026-08-17T09:00:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "75f6ee6d0efa",
       "title": "Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Match",
       "link": "https://www.indianclothstore.com/blog/saree-for-rakshabandhan-outfit-ideas",
@@ -2865,6 +2851,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "aba72ca0ca49",
+      "title": "Timeless Treasures: Modern Festive Jewellery Gifts from Araiya by Aza",
+      "link": "https://www.azafashions.com/blog/festive-jewellery-gifts-araiya-by-aza/?utm_source=rss&utm_medium=rss&utm_campaign=festive-jewellery-gifts-araiya-by-aza",
+      "summary": "Gifting jewellery is never a small decision. You want something beautiful, meaningful, and built to last. Araiya by Aza delivers on all three. Lab-grown diamonds have changed the fine jewellery&#8230; The post Timeless Treasures: Modern Festive Jewellery Gifts from Araiya by Aza appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 2,
+      "published": "2026-08-16T09:28:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "56836e562115",
       "title": "How Indian Designers Have Conquered the Global Stage",
       "link": "https://www.azafashions.com/blog/indian-designers-at-the-global-stage/?utm_source=rss&utm_medium=rss&utm_campaign=indian-designers-at-the-global-stage",
@@ -2961,70 +2961,56 @@
       "score": 3,
       "published": "2026-08-14T08:44:10+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "11c5d10c59ac",
-      "title": "Consider This Your Menswear Colour Cheat Sheet",
-      "link": "https://www.azafashions.com/blog/menswear-colour-cheat-sheet/?utm_source=rss&utm_medium=rss&utm_campaign=menswear-colour-cheat-sheet",
-      "summary": "Most guys circle through the same four colours on rotation. Black shirt. White tee. Navy blazer. Grey trousers. Repeat. It's not a bad uniform—but it's not exactly memorable, either. Here's&#8230; The post Consider This Your Menswear Colour Cheat Sheet appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Consider This Your Menswear Colour Cheat Sheet...",
-      "score": 2,
-      "published": "2026-08-13T16:00:46+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "कुंभ",
+      "term": "सरसों",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cabinet reshuffle",
+      "term": "lakshmanan meyyappan guinness world record",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വി.ഡി. സതീശന്",
+      "term": "பாரதிராஜா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കടം",
+      "term": "तरुण चुघ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ott this week",
+      "term": "ಅನುರಾಗ್ ಠಾಕೂರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రాజమహేంద్రవరం",
+      "term": "முதலமைச்சர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "সংবাদ",
+      "term": "teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বঙ্গোপসাগর",
+      "term": "పవన్ కళ్యాణ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "stampede",
+      "term": "ott release this week",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "krone",
+      "term": "അനുരാഗ് കശ്യപ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
