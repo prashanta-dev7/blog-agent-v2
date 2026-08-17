@@ -1,13 +1,265 @@
 {
-  "generated_at": "2026-08-16T11:19:29.285269+00:00",
+  "generated_at": "2026-08-17T02:56:39.181304+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "19148bde2dc8",
+      "title": "The Jacket and T-Shirt Trend Every Cool Girl Will Wear to the Airport With Jeans This Fall Is Here",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/red-jacket-striped-tshirt-trend-dua-lipa",
+      "summary": "Dua Lipa got a head start.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-16T21:34:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3c5c61d5220",
+      "title": "Rich-Looking and Elegant—the $80 Pant Trend Stylish People Are Wearing Now Until October",
+      "link": "https://www.whowhatwear.com/fashion/shopping/open-edit-satin-pants-nordstrom-2026",
+      "summary": "Snag a pair before they sell out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-16T21:12:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "64c7ec2040b6",
+      "title": "I'm a Beauty Editor, But I'm Not Immune to TikTok Hacks—This Dewy Foundation Trick Is Practically Magic",
+      "link": "https://www.whowhatwear.com/beauty/makeup/beauty-editor-dewy-foundation-combo",
+      "summary": "Now, I refuse to do my makeup any other way.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Beauty Editor, But I'm Not Immune to TikTok Hacks—This Dewy Foun...",
+      "score": 1,
+      "published": "2026-08-16T21:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b3bf8270d954",
+      "title": "Spotted in NYC—the Shorts Trend It Girls Are Wearing With T-Shirts",
+      "link": "https://www.whowhatwear.com/fashion/shopping/athletic-shorts-and-t-shirt-outfit-ideas-2026",
+      "summary": "Zoë Kravitz approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-16T20:58:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1de895ba1d41",
+      "title": "Dua Lipa’s Layered Look Combines Leather, Lace, and Denim",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73445968/dua-lipa-summer-layering-leather-vest-sheer-lace-top-photos/",
+      "summary": "Her photo dumps never disappoint",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dua Lipa’s Layered Look Combines Leather, Lace, and Denim...",
+      "score": 0,
+      "published": "2026-08-16T19:12:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c6596b016349",
+      "title": "Taylor Swift Debuts a Fresh Bob Haircut for the First Time Since the 1989 Era",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73446018/taylor-swift-debuts-new-bob-haircut-wears-wedding-band-photos/",
+      "summary": "Plus, she was seen out with her wedding ring for first time",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-16T18:21:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d022bf4d16d5",
+      "title": "Ayushman Bharat launch in West Bengal opens treatment access across India",
+      "link": "https://www.indiatoday.in/india/story/ayushman-bharat-west-bengal-launch-state-scheme-hospital-access-india-ptag-2972653-2026-08-16?utm_source=rss",
+      "summary": "Ayushman Bharat launch in West Bengal opens treatment access across India",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-16T18:03:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b376bc771dd6",
+      "title": "Travis Kelce Pairs His Chunky Gold Wedding Band With a Tie-Dye Amiri Set for a Preseason Game",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73445827/travis-kelce-wears-taylor-swift-wedding-band-tie-dye-amiri-set-photos/",
+      "summary": "He offered a new look at the ring",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Travis Kelce Pairs His Chunky Gold Wedding Band With a Tie-Dye Amiri Set for a Preseason Game — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-16T17:12:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "65edee94abca",
+      "title": "No Suitcase, No Trainers—This is the Bag and Shoe Trend Stylish Dressers Are Wearing to the Airport Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/oversized-chanel-tote-bag-pointed-toe-heels-airport-outfit-dua-lipa-2026",
+      "summary": "What an upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-16T17:11:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0ad122391e16",
+      "title": "David Beckham Plays Photographer for Victoria During the Family’s Trip to Portofino",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73445609/david-beckham-photographs-victoria-portofino-euro-summer-trip/",
+      "summary": "Relationship goals",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: David Beckham Plays Photographer for Victoria During the Family’s Trip...",
+      "score": 0,
+      "published": "2026-08-16T16:10:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c6f964498e9a",
+      "title": "Kendall Jenner Borrows Hailey Bieber’s Favorite ’90s Headband in Hawaii",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73445452/kendall-jenner-wears-hailey-bieber-favorite-90s-zigzag-headband/",
+      "summary": "She took a cue from her bestie with this one",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kendall Jenner Borrows Hailey Bieber’s Favorite ’90s Headband in Hawai...",
+      "score": 0,
+      "published": "2026-08-16T15:16:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d47e879d8a71",
+      "title": "The Best Dressed Stars of the Week Opted for Vintage Touches",
+      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-sadie-sink-amal-clooney-cardi-b",
+      "summary": "From archival runway to fabulous maternity wear, it was an exciting week on the red carpet, care of Sadie Sink, Anne Hathaway, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Opted for Vintage Touches...",
+      "score": 3,
+      "published": "2026-08-16T15:01:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2f9b8445b163",
+      "title": "Ariana Grande Debuts a New Tattoo With a Nod to Her Rekindled Romance With Ricky Àlvarez",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73445222/ariana-grande-debuts-new-tattoo-for-boyfriend-ricky-alvarez-photos/",
+      "summary": "The boy is hers!",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 0,
+      "published": "2026-08-16T14:25:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a9071f120677",
+      "title": "A Timeline of Cristiano Ronaldo and Georgina Rodríguez’s Relationship",
+      "link": "https://www.vogue.com/article/a-brief-timeline-of-cristiano-ronaldo-and-georgina-rodriguez-relationship",
+      "summary": "Ronaldo and his longtime partner, Georgina Rodríguez, tied the knot on Tuesday, August 11 in Cascais, Portugal after a decade together.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Timeline of Cristiano Ronaldo and Georgina Rodríguez’s Relationship...",
+      "score": 0,
+      "published": "2026-08-16T12:01:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7928fd48075f",
+      "title": "Exclusive Photos: Inside Cristiano Ronaldo and Georgina Rodríguez’s Intimate Wedding",
+      "link": "https://www.vogue.com/article/cristiano-ronaldo-and-georgina-rodriguez-wedding",
+      "summary": "“It was exactly as I’d imagined it,” Georgina Rodríguez tells Vogue exclusively of her wedding to Cristiano Ronaldo at home in Portugal.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Exclusive Photos — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-08-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "88c719fc507c",
+      "title": "From the Archives: Escape to Formentera With Consuelo Castiglioni",
+      "link": "https://www.vogue.com/article/from-the-archives-everything-goes",
+      "summary": "The couple who have made Marni the label of choice for chic hippie nomads, writes Hamish Bowles, satisfy their wanderlust with a rough-hewn island getaway.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: From the Archives: Escape to Formentera With Consuelo Castiglioni...",
+      "score": 1,
+      "published": "2026-08-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a568e440d196",
+      "title": "I'm an L.A. Stylist—These Are the Cool Brands You'll Find in My Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/los-angeles-stylist-recommendations",
+      "summary": "Sophia Lintner shares what she's loving right now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm an L.A. Stylist—These Are the Cool Brands You'll Find in My Wardro...",
+      "score": 1,
+      "published": "2026-08-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "18543701b270",
+      "title": "Ariana Grande Debuts a New Tattoo With a Not-So-Secret Reference",
+      "link": "https://www.vogue.com/article/ariana-grande-debuts-a-new-tattoo",
+      "summary": "For London’s first Eternal Sunshine show, Ariana Grande debuted the “I do love you” tattoo on her collarbone, which matches boyfriend Ricky Alvarez.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-16T11:37:26+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "3228b026f78b",
       "title": "David Beckham Takes His Instagram Husband Duties Very Seriously",
@@ -62,20 +314,6 @@
       "angle": "Fashion Intelligence: Pre-Approved: The 29 Coolest Things to Buy From Shopbop, According to ...",
       "score": 1,
       "published": "2026-08-16T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8d9e668ec4ea",
-      "title": "'Dimaagi Naxal' label targets Jantar Mantar protesters: CPM hits out at PM Modi",
-      "link": "https://www.indiatoday.in/india/story/dimaagi-naxal-remark-ma-baby-opposition-attack-pm-modi-independence-day-speech-2972371-2026-08-16?utm_source=rss",
-      "summary": "'Dimaagi Naxal' label targets Jantar Mantar protesters: CPM hits out at PM Modi",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 'Dimaagi Naxal' label targets Jantar Mantar protesters: CPM hits out a...",
-      "score": 1,
-      "published": "2026-08-16T08:38:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -202,20 +440,6 @@
       "angle": "Fashion Intelligence: As Bulldozers Arrive at the Border in Big Bend, Here’s What You Can St...",
       "score": 0,
       "published": "2026-08-15T21:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ebfeec0f2e95",
-      "title": "Ram temple in Ayodhya rolls out new dress code for priests",
-      "link": "https://www.indiatoday.in/india/story/ram-temple-in-ayodhya-introduces-uniform-dress-code-for-priests-2972234-2026-08-16?utm_source=rss",
-      "summary": "Ram temple in Ayodhya rolls out new dress code for priests",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ram temple in Ayodhya rolls out new dress code for priests...",
-      "score": 1,
-      "published": "2026-08-15T20:59:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -443,20 +667,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6df0bdd9b688",
-      "title": "Jelly Shoes Might Be Trending, But the Most Elegant People I Know Are Wearing This Classy Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/peep-toe-flats-trend-karlie-kloss-2026",
-      "summary": "I wish I had known about these sooner.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-15T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e9ed04627fba",
       "title": "Stylish People Know This Monochrome Outfit Is the Easiest Way to Look Chic and Feel Cool",
       "link": "https://www.whowhatwear.com/fashion/shopping/white-summer-outfits-2026",
@@ -466,6 +676,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Stylish People Know This Monochrome Outfit Is the Easiest Way to Look ...",
+      "score": 2,
+      "published": "2026-08-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6df0bdd9b688",
+      "title": "Jelly Shoes Might Be Trending, But the Most Elegant People I Know Are Wearing This Classy Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/peep-toe-flats-trend-karlie-kloss-2026",
+      "summary": "I wish I had known about these sooner.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-15T08:00:00+00:00",
       "discovered_via": "feed"
@@ -527,20 +751,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5ff75c7de17b",
-      "title": "9 Early-Autumn Zara Buys Elegant French Women Are Shopping Now",
-      "link": "https://www.whowhatwear.com/fashion/affordable/early-autumn-french-girl-zara-buys-2026",
-      "summary": "Transitional season inspiration.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 9 Early-Autumn Zara Buys Elegant French Women Are Shopping Now...",
-      "score": 1,
-      "published": "2026-08-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "365f8ce7bd4f",
       "title": "Forget Bandanas and Silk Scarves: Hailey Bieber Is Wearing This '90s Accessory in Her Hair Instead",
       "link": "https://www.whowhatwear.com/beauty/hair/zig-zag-headband-trend-hailey-bieber-2026",
@@ -551,6 +761,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
+      "published": "2026-08-15T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ff75c7de17b",
+      "title": "9 Early-Autumn Zara Buys Elegant French Women Are Shopping Now",
+      "link": "https://www.whowhatwear.com/fashion/affordable/early-autumn-french-girl-zara-buys-2026",
+      "summary": "Transitional season inspiration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 9 Early-Autumn Zara Buys Elegant French Women Are Shopping Now...",
+      "score": 1,
       "published": "2026-08-15T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,20 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cfd351175ebb",
-      "title": "7 Celebrity Outfit Formulas That Will Make You Look Like You Have a Personal Stylist",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/celebrity-outfits-formulas-summer-2026",
-      "summary": "From Hailey Bieber to Zoë Kravitz.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-14T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "110d8d89417e",
       "title": "Everything I Wore to Copenhagen Fashion Week as a Midsize Model",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/copenhagen-inspired-midsize-outfit-ideas",
@@ -929,6 +1139,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
+      "published": "2026-08-14T15:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cfd351175ebb",
+      "title": "7 Celebrity Outfit Formulas That Will Make You Look Like You Have a Personal Stylist",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/celebrity-outfits-formulas-summer-2026",
+      "summary": "From Hailey Bieber to Zoë Kravitz.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-08-14T15:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1227,48 +1451,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6abc5d9b3189",
-      "title": "Halle Berry Is Having the Best Summer Ever—With a Beauty and Intimacy Routine To Match",
-      "link": "https://www.vogue.com/article/halle-berry-summer-beauty-routine",
-      "summary": "Pleasure gel, a good SPF: actor and women’s health advocate Halle Berry shared a glimpse at the must-have beauty and intimacy products she brings on vacation.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Halle Berry Is Having the Best Summer Ever—With a Beauty and Intimacy ...",
-      "score": 1,
-      "published": "2026-08-14T10:37:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "449acec758f7",
-      "title": "The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director",
-      "link": "https://www.vogue.com/article/best-jewelry-brands",
-      "summary": "Shop the best jewelry brands from our designer jewelry labels; the thrill of discovering a new name is almost as good as finding that perfect piece of jewelry.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director...",
-      "score": 3,
-      "published": "2026-08-14T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0f69ed6df190",
-      "title": "7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest",
-      "link": "https://www.vogue.com/article/airbnbs-in-british-columbia",
-      "summary": "Heading to the Pacific Northwest? An Airbnb in British Columbia puts you right in the middle of the province’s lush nature and rugged terrain—here, seven to consider booking.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest...",
-      "score": 0,
-      "published": "2026-08-14T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6c1e9f4a5e38",
       "title": "Sézane Officially Has a Permanent Store in L.A.",
       "link": "https://fashionista.com/2026/08/sezane-brentwood-los-angeles-store",
@@ -1280,34 +1462,6 @@
       "angle": "Fashion Intelligence: Sézane Officially Has a Permanent Store in L.A....",
       "score": 1,
       "published": "2026-08-14T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "221200df22e8",
-      "title": "Dua Lipa Supersizes the Vacation Tote Bag—Airline Restrictions Be Damned",
-      "link": "https://www.vogue.com/article/dua-lipa-supersize-vacation-tote-bag",
-      "summary": "Queen of La Vacanza as a lifestyle, Dua Lipa knows nothing should ever get in the way of a good travel look.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dua Lipa Supersizes the Vacation Tote Bag—Airline Restrictions Be Damn...",
-      "score": 1,
-      "published": "2026-08-14T09:58:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5c55f951e9f7",
-      "title": "Jennifer Lawrence Settles Summer’s Great Shorts Debate",
-      "link": "https://www.vogue.com/article/jennifer-lawrence-settles-summers-great-shorts-debate",
-      "summary": "Whether you’re having a Big Shorts Summer or enjoying the it-girl itsy-bitsies—Jennifer Lawrence remains committed to the once-divisive denim jorts.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jennifer Lawrence Settles Summer’s Great Shorts Debate...",
-      "score": 0,
-      "published": "2026-08-14T09:44:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1336,62 +1490,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "37a2ee732cf8",
-      "title": "Easy, Effortless and Elegant—5 Chic Outfits That Will Be My Go-Tos This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/chic-british-outfits-autumn-2026",
-      "summary": "Get ahead of the new season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Easy, Effortless and Elegant—5 Chic Outfits That Will Be My Go-Tos Thi...",
-      "score": 2,
-      "published": "2026-08-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "487dfc5d9f02",
-      "title": "These 6 Style Tribes Will Be the Dominating Trends For Autumn: Which One Are You?",
-      "link": "https://www.whowhatwear.com/fashion/trends/style-personalities-autumn-2026",
-      "summary": "Khaite Classicist, or a Boho Baddie?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-14T06:14:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4635f5aaf248",
-      "title": "A Top Manicurist Just Told Me That These 6 Nail Trends Will Always Be in Style",
-      "link": "https://www.whowhatwear.com/beauty/nails/timeless-nail-trends",
-      "summary": "Totally timeless.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-14T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "62bc95ee8270",
-      "title": "This Understated, Affordable Basic Will Make Your Outfits Look 10 Times Chicer This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-long-sleeved-t-shirts",
-      "summary": "A cool-girl favourite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Understated, Affordable Basic Will Make Your Outfits Look 10 Time...",
-      "score": 1,
-      "published": "2026-08-14T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1745,62 +1843,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2e30bf1fb163",
-      "title": "Hailey Bieber Is Wearing Her Favorite Zig-Zag Headband All Summer Long",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73415033/hailey-bieber-y2k-zigzag-headband-trend-photos/",
-      "summary": "She stepped out in the Y2K accessory once again",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-12T18:00:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "13b2e115b4f4",
-      "title": "Jennifer Lopez Poses in a Silky White Bra and Dolce &amp; Gabbana Polka-Dot Pumps for a Pin-Up-Inspired Shoot",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73413612/jennifer-lopez-dolce-gabbana-silky-white-lingerie-photoshoot/",
-      "summary": "She gave major Leo energy",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jennifer Lopez Poses in a Silky White Bra and Dolce &amp; Gabbana Polk...",
-      "score": 1,
-      "published": "2026-08-12T16:40:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e11e61c47378",
-      "title": "Dakota Fanning Keeps the Butter-Yellow Reign Alive in a Mugler Balconette Dress",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73414624/dakota-fanning-butter-yellow-mugler-cone-bra-dress-jimmy-fallon-tonight-show-photo/",
-      "summary": "She fittingly wore the sunny look to promote her new film, The Sun Never Sets",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Dakota Fanning Keeps the Butter-Yellow Reign Alive in a Mugler Balcone...",
-      "score": 1,
-      "published": "2026-08-12T16:35:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dfae8dc0935b",
-      "title": "How to Get the Perfect Nude Manicure, According to Hailey Bieber's Nail Artist",
-      "link": "https://www.harpersbazaar.com/beauty/nails/a73403850/nude-manicure-tips/",
-      "summary": "Nude nails are never as easy as they seem. Here, nail artist Zola Ganzorigt shares her secrets for getting it right.",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Get the Perfect Nude Manicure, According to Hailey Bieber's Nai...",
-      "score": 0,
-      "published": "2026-08-12T16:31:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cc4332629119",
       "title": "Must Read: Rihanna Covers 'Elle', Phia Co-Founders Knew the App Was Wrongfully Claiming Sales Credits",
       "link": "https://fashionista.com/2026/08/rihanna-elle-cover-september-2026",
@@ -1812,34 +1854,6 @@
       "angle": "Fashion Intelligence: Must Read: Rihanna Covers 'Elle', Phia Co-Founders Knew the App Was Wr...",
       "score": 1,
       "published": "2026-08-12T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "38ab67d4d0fd",
-      "title": "The 10 Easiest Low-Maintenance Short Hairstyles for Summer",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a73404089/short-hairstyles-for-summer/",
-      "summary": "This season’s most elegant looks are pared back and minimally styled",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The 10 Easiest Low-Maintenance Short Hairstyles for Summer...",
-      "score": 2,
-      "published": "2026-08-12T15:28:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9508b26cb4f6",
-      "title": "Cristiano Ronaldo and Georgina Rodríguez Marry in an Intimate Ceremony",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73413121/cristiano-ronaldo-georgina-rodriguez-married-wedding-ceremony-details-rings-photos/",
-      "summary": "They tied the knot after 10 years and five kids together",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Cristiano Ronaldo and Georgina Rodríguez Marry in an Intimate Ceremon...",
-      "score": 0,
-      "published": "2026-08-12T14:29:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2823,6 +2837,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "541a3c865668",
+      "title": "Janmashtami Outfits With a Little More Drama and a Lot Less Tradition",
+      "link": "https://www.azafashions.com/blog/janmashtami-outfits-usa/?utm_source=rss&utm_medium=rss&utm_campaign=janmashtami-outfits-usa",
+      "summary": "Janmashtami in the diaspora has a rhythm all its own;&#160;temple aartis that start after the American workday ends, community dahi handis in a parking lot instead of a Mathura lane,&#8230; The post Janmashtami Outfits With a Little More Drama and a Lot Less Tradition appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Janmashtami Outfits With a Little More Drama and a Lot Less Tradition...",
+      "score": 1,
+      "published": "2026-08-16T16:55:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ffdda445d23d",
       "title": "What Are The Biggest Bridal Fashion Trends for 2027 Weddings",
       "link": "https://www.azafashions.com/blog/biggest-bridal-trends-2027/?utm_source=rss&utm_medium=rss&utm_campaign=biggest-bridal-trends-2027",
@@ -2947,70 +2975,56 @@
       "score": 2,
       "published": "2026-08-13T16:00:46+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "af5a522406e8",
-      "title": "The Floral Skirt Is Here to Steal Your Outfit’s Spotlight",
-      "link": "https://www.azafashions.com/blog/floral-skirt-trend-usa/?utm_source=rss&utm_medium=rss&utm_campaign=floral-skirt-trend-usa",
-      "summary": "Somewhere between the last frost and the first invite to a garden brunch, florals quietly staged a takeover. But except this time, they skipped the dress and went straight for the&#8230; The post The Floral Skirt Is Here to Steal Your Outfit’s Spotlight appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Floral Skirt Is Here to Steal Your Outfit’s Spotlight...",
-      "score": 2,
-      "published": "2026-08-13T12:39:12+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "sixth generation fighter",
+      "term": "matthew forde",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neet",
+      "term": "17",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "spurs vs hoffenheim",
+      "term": "elina svitolina",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "लिस्टिंग",
+      "term": "tamil nadu",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వరద",
+      "term": "madhusudan kela",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கனமழை",
+      "term": "जन गण मन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "supreme court of india",
+      "term": "श्रेयंका पाटील",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kerala lottery result today",
+      "term": "hikaru nakamura",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ध्रुव जुरेल",
+      "term": "cambridge professor jason arday",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ദേവന്",
+      "term": "पी॰ चिदंबरम",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
