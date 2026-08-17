@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-08-17T05:34:18.178933+00:00",
+  "generated_at": "2026-08-17T08:41:54.738794+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "3a690b06bd40",
+      "title": "It's Official: This Is the Biggest Bag Trend of 2026",
+      "link": "https://www.whowhatwear.com/fashion/flat-tote-bag-trend",
+      "summary": "It's Official: This Is the Biggest Bag Trend of 2026",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba057e5b43ba",
+      "title": "I'm a Jewelry Designer in L.A.—This Is My Citizens of Humanity Capsule Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/citizens-of-humanit-jennifer-meyer",
+      "summary": "Shop the Citizens of Humanity collaboration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I'm a Jewelry Designer in L.A.—This Is My Citizens of Humanity Capsule...",
+      "score": 1,
+      "published": "2026-08-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73c1ad0a2ed2",
+      "title": "AI, chips, CWG can't all go there: Annamalai attacks 'Gujarat-centric model'",
+      "link": "https://www.indiatoday.in/india/tamil-nadu/story/k-annamalai-says-gujarat-centric-development-model-must-change-bjp-too-delhi-centric-2972987-2026-08-17?utm_source=rss",
+      "summary": "AI, chips, CWG can't all go there: Annamalai attacks 'Gujarat-centric model'",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: AI, chips, CWG can't all go there: Annamalai attacks 'Gujarat-centric ...",
+      "score": 1,
+      "published": "2026-08-17T07:19:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a0cc117969cc",
+      "title": "The 6 Shoe Trends that London's Best Dressed Will Be Wearing in Autumn 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/london-autumn-shoe-trends-2026",
+      "summary": "How the capital stays one step ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5531e07120df",
+      "title": "Calling All Rei Kawakubo Fans—dot COMME Is Auctioning 265 Pieces of His Epic Collection",
+      "link": "https://www.vogue.com/article/calling-all-rei-kawakubo-fan-comme-is-auctioning-pieces-of-his-epic-collection",
+      "summary": "Dot COMME: The Auction is a reminder of Rei Kawakubo’s exceptional and singular creativity, regardless of the era the Comme des Garçons piece comes from.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-17T06:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1dbb80d2913b",
+      "title": "Not Linen, Not Taffeta—Chic Dressers Are All Wearing This Transitional Trouser Trend Into Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/cotton-poplin-trouser-trend-2026",
+      "summary": "I've bought several pairs.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-17T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "47c734a9e502",
       "title": "I'm Breaking Up With My Summer Perfumes—9 Scents I'm Wearing Instead",
@@ -219,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7928fd48075f",
-      "title": "Exclusive Photos: Inside Cristiano Ronaldo and Georgina Rodríguez’s Intimate Wedding",
-      "link": "https://www.vogue.com/article/cristiano-ronaldo-and-georgina-rodriguez-wedding",
-      "summary": "“It was exactly as I’d imagined it,” Georgina Rodríguez tells Vogue exclusively of her wedding to Cristiano Ronaldo at home in Portugal.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Exclusive Photos — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-08-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "88c719fc507c",
       "title": "From the Archives: Escape to Formentera With Consuelo Castiglioni",
       "link": "https://www.vogue.com/article/from-the-archives-everything-goes",
@@ -242,6 +312,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: From the Archives: Escape to Formentera With Consuelo Castiglioni...",
+      "score": 1,
+      "published": "2026-08-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7928fd48075f",
+      "title": "Exclusive Photos: Inside Cristiano Ronaldo and Georgina Rodríguez’s Intimate Wedding",
+      "link": "https://www.vogue.com/article/cristiano-ronaldo-and-georgina-rodriguez-wedding",
+      "summary": "“It was exactly as I’d imagined it,” Georgina Rodríguez tells Vogue exclusively of her wedding to Cristiano Ronaldo at home in Portugal.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Exclusive Photos — A Complete Style Guide",
       "score": 1,
       "published": "2026-08-16T12:00:00+00:00",
       "discovered_via": "feed"
@@ -331,10 +415,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "09fa8434003e",
-      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
-      "summary": "Confirmed by Kaia.",
+      "id": "bdd440725ba7",
+      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
+      "summary": "Suddenly, they're everywhere.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -345,10 +429,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdd440725ba7",
-      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
-      "summary": "Suddenly, they're everywhere.",
+      "id": "09fa8434003e",
+      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
+      "summary": "Confirmed by Kaia.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1143,34 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "110d8d89417e",
-      "title": "Everything I Wore to Copenhagen Fashion Week as a Midsize Model",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/copenhagen-inspired-midsize-outfit-ideas",
-      "summary": "I'm a model who just walked and watched Copenhagen Fashion Week. Here are the outfits I wore and the trends I'm bringing home.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-08-14T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cfd351175ebb",
-      "title": "7 Celebrity Outfit Formulas That Will Make You Look Like You Have a Personal Stylist",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/celebrity-outfits-formulas-summer-2026",
-      "summary": "From Hailey Bieber to Zoë Kravitz.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-14T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "76aa337dc4f1",
       "title": "Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story",
       "link": "https://www.vogue.com/article/keeping-the-spirit-alive-more-than-a-month-in-pictures-the-pvmonday-story",
@@ -1381,20 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "50ed089dde3f",
-      "title": "Halle Berry Is 60! 23 Vintage Photos of the Timeless Beauty",
-      "link": "https://www.vogue.com/slideshow/vintage-photos-of-halle-berry",
-      "summary": "These throwback snapshots prove that Berry has always had an ageless and absolutely jaw-dropping sense of style.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Halle Berry Is 60! 23 Vintage Photos of the Timeless Beauty...",
-      "score": 2,
-      "published": "2026-08-14T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c98cfe8bcfc7",
       "title": "Tory Burch Fall 2026 Goes for a Walk in Central Park",
       "link": "https://www.fashiongonerogue.com/story/tory-burch-fall-2026-campaign/",
@@ -1434,20 +1476,6 @@
       "angle": "Fashion Intelligence: The Truth About Uniqlo vs Levi Jeans vs. 1 Tiny Japanese Denim Brand...",
       "score": 1,
       "published": "2026-08-14T10:58:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "83fd37c117d7",
-      "title": "Sorry, Flip-Flops—Elegant Over-50s Are Preferring to Wear This French Shoe Trend With Denim",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/breton-top-denim-shorts-mary-janes-outfit-naomi-watts-2026",
-      "summary": "Passport to Paris.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-14T10:52:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2249,20 +2277,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "256a6a05f503",
-      "title": "How To Wear A Cuban Collar Shirt",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-cuban-collar-shirt/",
-      "summary": "Like all the best things in menswear, the Cuban collar shirt is a must-have because it&#8217;s versatile. You could wear the same one to a summer wedding and again to the beach the following weekend. This type of shirt is something of a comeback hero of men&#8217;s wardrobes. Also known as a revere collar or &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: How To Wear A Cuban Collar Shirt...",
-      "score": 3,
-      "published": "2026-08-10T07:00:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b1daf823ae68",
       "title": "ICYMI: Sephora Partners With Olive Young, Checking In With Century 21 & Fashion's Hottest Item Is a Knicks Cap",
       "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-8",
@@ -2965,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "flood situation near baitarani river",
+      "term": "कुंभ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चुनाव",
+      "term": "cabinet reshuffle",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nbt",
+      "term": "വി.ഡി. സതീശന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "idfc first bank share",
+      "term": "കടം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "निशान मदुष्का",
+      "term": "ott this week",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tmpv share price",
+      "term": "రాజమహేంద్రవరం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "apollo micro systems share",
+      "term": "সংবাদ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ajay ahuja kargil war",
+      "term": "বঙ্গোপসাগর",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "physics wallah share price",
+      "term": "stampede",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jio share price",
+      "term": "krone",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
