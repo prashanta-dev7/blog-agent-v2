@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-08-17T02:56:39.181304+00:00",
+  "generated_at": "2026-08-17T05:34:18.178933+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 185,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "47c734a9e502",
+      "title": "I'm Breaking Up With My Summer Perfumes—9 Scents I'm Wearing Instead",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/summer-to-autumn-perfumes",
+      "summary": "Scents for a seasonal shift.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-17T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a393936bcec",
+      "title": "How to Pull Off an Influencer Trip in 2026",
+      "link": "https://www.vogue.com/article/how-to-pull-off-an-influencer-trip-in-2026",
+      "summary": "Brands are zeroing in on niche talent and de-emphasizing product promo. Consumers are as locked in as ever, but with a critical eye. What’s the best strategy?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Pull Off an Influencer Trip in 2026...",
+      "score": 1,
+      "published": "2026-08-17T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "19148bde2dc8",
       "title": "The Jacket and T-Shirt Trend Every Cool Girl Will Wear to the Airport With Jeans This Fall Is Here",
@@ -90,20 +118,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-16T18:21:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d022bf4d16d5",
-      "title": "Ayushman Bharat launch in West Bengal opens treatment access across India",
-      "link": "https://www.indiatoday.in/india/story/ayushman-bharat-west-bengal-launch-state-scheme-hospital-access-india-ptag-2972653-2026-08-16?utm_source=rss",
-      "summary": "Ayushman Bharat launch in West Bengal opens treatment access across India",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-16T18:03:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -317,10 +331,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdd440725ba7",
-      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
-      "summary": "Suddenly, they're everywhere.",
+      "id": "09fa8434003e",
+      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
+      "summary": "Confirmed by Kaia.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -331,10 +345,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "09fa8434003e",
-      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
-      "summary": "Confirmed by Kaia.",
+      "id": "bdd440725ba7",
+      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
+      "summary": "Suddenly, they're everywhere.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -667,20 +681,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e9ed04627fba",
-      "title": "Stylish People Know This Monochrome Outfit Is the Easiest Way to Look Chic and Feel Cool",
-      "link": "https://www.whowhatwear.com/fashion/shopping/white-summer-outfits-2026",
-      "summary": "Heat-wave dressing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Stylish People Know This Monochrome Outfit Is the Easiest Way to Look ...",
-      "score": 2,
-      "published": "2026-08-15T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6df0bdd9b688",
       "title": "Jelly Shoes Might Be Trending, But the Most Elegant People I Know Are Wearing This Classy Shoe Trend Instead",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/peep-toe-flats-trend-karlie-kloss-2026",
@@ -690,6 +690,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e9ed04627fba",
+      "title": "Stylish People Know This Monochrome Outfit Is the Easiest Way to Look Chic and Feel Cool",
+      "link": "https://www.whowhatwear.com/fashion/shopping/white-summer-outfits-2026",
+      "summary": "Heat-wave dressing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Stylish People Know This Monochrome Outfit Is the Easiest Way to Look ...",
       "score": 2,
       "published": "2026-08-15T08:00:00+00:00",
       "discovered_via": "feed"
@@ -723,10 +737,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3e49464d506f",
-      "title": "These 5 Fun Handbag Trends Will Be The Secret Behind Every Great Outfit This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/fun-handbag-trends-autumn-2026",
-      "summary": "Buckle up (you, not your bag).",
+      "id": "c7c4262b77b8",
+      "title": "Dad Hats and Jeans Are Cool, But This Dad-Shirt Trend Is What Will Be Everywhere This Fall",
+      "link": "https://www.whowhatwear.com/fashion/tops/long-sleeve-polo-shirt-trend",
+      "summary": "If I see someone wearing it, I know they're cool.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -737,10 +751,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c7c4262b77b8",
-      "title": "Dad Hats and Jeans Are Cool, But This Dad-Shirt Trend Is What Will Be Everywhere This Fall",
-      "link": "https://www.whowhatwear.com/fashion/tops/long-sleeve-polo-shirt-trend",
-      "summary": "If I see someone wearing it, I know they're cool.",
+      "id": "3e49464d506f",
+      "title": "These 5 Fun Handbag Trends Will Be The Secret Behind Every Great Outfit This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/fun-handbag-trends-autumn-2026",
+      "summary": "Buckle up (you, not your bag).",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1381,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5a5add947937",
-      "title": "The Best Albums of 2026—So Far",
-      "link": "https://www.vogue.com/article/best-albums-of-2026",
-      "summary": "From the pop-star set to the up-and-comers, here are Vogue staffers' favorite albums of the year thus far.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Albums of 2026—So Far...",
-      "score": 0,
-      "published": "2026-08-14T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c98cfe8bcfc7",
       "title": "Tory Burch Fall 2026 Goes for a Walk in Central Park",
       "link": "https://www.fashiongonerogue.com/story/tory-burch-fall-2026-campaign/",
@@ -1476,20 +1476,6 @@
       "angle": "Fashion Intelligence: Clothing I Don’t Regret Buying: Items Worth Every Penny...",
       "score": 1,
       "published": "2026-08-14T09:06:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "59f35b92515c",
-      "title": "Sorry, Polka Dots—This Print Trend Will Make Your Tops, Jeans and Dresses Look Chicer This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/striped-fashion-trend-2026",
-      "summary": "Spotted.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-14T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "matthew forde",
+      "term": "flood situation near baitarani river",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "17",
+      "term": "चुनाव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "elina svitolina",
+      "term": "nbt",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tamil nadu",
+      "term": "idfc first bank share",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "madhusudan kela",
+      "term": "निशान मदुष्का",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जन गण मन",
+      "term": "tmpv share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "श्रेयंका पाटील",
+      "term": "apollo micro systems share",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hikaru nakamura",
+      "term": "ajay ahuja kargil war",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cambridge professor jason arday",
+      "term": "physics wallah share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पी॰ चिदंबरम",
+      "term": "jio share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
