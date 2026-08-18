@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:52:49.369273+00:00",
+  "generated_at": "2026-08-18T05:27:56.940964+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 183,
@@ -8,6 +8,104 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "5f282ee7e3f0",
+      "title": "Register to Attend | The Fashion Executive’s Guide to Longevity Tech, Live Webinar",
+      "link": "https://www.vogue.com/article/the-fashion-executives-guide-to-longevity-tech-live-webinar",
+      "summary": "Longevity tech is reshaping wellness and luxury. Join Vogue Business on 10 September for a live webinar on the trends and brands driving the category.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Register to Attend | The Fashion Executive’s Guide to Longevity Tech, ...",
+      "score": 4,
+      "published": "2026-08-18T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f77bbed8ad53",
+      "title": "Register to Attend | Insider Roundtable: The Fashion Executive’s Guide to Longevity Tech",
+      "link": "https://www.vogue.com/article/insider-roundtable-the-fashion-executives-guide-to-longevity-tech",
+      "summary": "Join Vogue Business for an intimate, off-the-record discussion on longevity tech, exploring what's next — from wearables to wellness — designed for industry leaders.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Register to Attend | Insider Roundtable: The Fashion Executive’s Guide...",
+      "score": 2,
+      "published": "2026-08-18T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "424e84506807",
+      "title": "It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be Relying On for the Time Being",
+      "link": "https://www.whowhatwear.com/fashion/fall/transitional-capsule-wardrobe-autumn-2026",
+      "summary": "You'll rely on them in autumn, too.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be...",
+      "score": 1,
+      "published": "2026-08-18T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4d84d4a1ebb9",
+      "title": "Forget What You Think: Cardigans Are No Longer Considered \"Boring\"",
+      "link": "https://www.whowhatwear.com/fashion/trends/cardigan-trends-autumn-2026",
+      "summary": "These trends prove it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Forget What You Think: Cardigans Are No Longer Considered \"Boring\"...",
+      "score": 1,
+      "published": "2026-08-18T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "15b52888b79a",
+      "title": "How Kilian Paris Is Turning a Bestseller Into a Fragrance Wardrobe",
+      "link": "https://www.vogue.com/article/how-kilian-paris-is-turning-a-bestseller-into-a-fragrance-wardrobe",
+      "summary": "With the days of the signature scent behind us, Kilian Paris is introducing a new collection to turn its hero fragrance into an expandable universe.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How Kilian Paris Is Turning a Bestseller Into a Fragrance Wardrobe...",
+      "score": 1,
+      "published": "2026-08-18T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b8d8fbb91982",
+      "title": "The Lucrative Vacation Menswear Opportunity",
+      "link": "https://www.vogue.com/article/the-lucrative-vacation-menswear-opportunity",
+      "summary": "Men are now outpacing women on vacation wardrobe spending, and brands are waking up to the potential of an underserved market.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Lucrative Vacation Menswear Opportunity...",
+      "score": 3,
+      "published": "2026-08-18T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "93a09b57a1cd",
+      "title": "Register Now | How to Future-Proof a Fashion Brand",
+      "link": "https://www.vogue.com/article/register-now-how-to-future-proof-a-fashion-brand",
+      "summary": "Register now to attend the Vogue Business and Swap event in New York",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Register Now | How to Future-Proof a Fashion Brand...",
+      "score": 2,
+      "published": "2026-08-18T03:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "0b161645c42a",
       "title": "12 Makeup Essentials to Build Your Collection From Scratch",
@@ -107,15 +205,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "541576b13b7c",
-      "title": "How to Spot an It Girl in 2026: This Bag Color and This Pretty Heel Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-bag-ballet-heel-trends-kaia-gerber",
-      "summary": "Kaia Gerber is as It girl as it gets.",
+      "id": "7ecff3bfc657",
+      "title": "I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Dimension This Fall",
+      "link": "https://www.whowhatwear.com/beauty/hair/brunette-fall-hair-trends-2026",
+      "summary": "Plus, how to preserve your highest-quality color all season long.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Di...",
       "score": 1,
       "published": "2026-08-17T20:00:00+00:00",
       "discovered_via": "feed"
@@ -135,6 +233,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "541576b13b7c",
+      "title": "How to Spot an It Girl in 2026: This Bag Color and This Pretty Heel Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-bag-ballet-heel-trends-kaia-gerber",
+      "summary": "Kaia Gerber is as It girl as it gets.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-17T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "30f56eece4df",
       "title": "I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-aritzia-new-arrivals-august-2026",
@@ -144,20 +256,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar...",
-      "score": 1,
-      "published": "2026-08-17T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ecff3bfc657",
-      "title": "I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Dimension This Fall",
-      "link": "https://www.whowhatwear.com/beauty/hair/brunette-fall-hair-trends-2026",
-      "summary": "Plus, how to preserve your highest-quality color all season long.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Di...",
       "score": 1,
       "published": "2026-08-17T20:00:00+00:00",
       "discovered_via": "feed"
@@ -220,14 +318,14 @@
     },
     {
       "id": "d4e264e281c4",
-      "title": "Hayden Panettiere Has Died at 36—Revisit 5 of her Most Iconic Roles",
+      "title": "Hayden Panettiere Has Died at 36—Revisit 5 of Her Most Iconic Roles",
       "link": "https://www.vogue.com/article/hayden-panettiere-obituary",
       "summary": "The actress starred in the series \"Heroes\" and \"Nashville\" and featured in two of the latest installments of the “Scream” franchise.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Hayden Panettiere Has Died at 36—Revisit 5 of her Most Iconic Roles...",
+      "angle": "Fashion Intelligence: Hayden Panettiere Has Died at 36—Revisit 5 of Her Most Iconic Roles...",
       "score": 0,
       "published": "2026-08-17T17:58:19+00:00",
       "discovered_via": "feed"
@@ -342,6 +440,34 @@
       "angle": "Fashion Intelligence: 24 Rare Photos of a Young Princess Anne...",
       "score": 0,
       "published": "2026-08-17T16:05:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef21256462a1",
+      "title": "18 Jaw-Dropping Photos of Madonna in the Early Days",
+      "link": "https://www.vogue.com/slideshow/vintage-photos-of-madonna",
+      "summary": "In honor of the pop icon’s birthday, we take a look back at the formative early years of her extraordinary career.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 18 Jaw-Dropping Photos of Madonna in the Early Days...",
+      "score": 0,
+      "published": "2026-08-17T16:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0442cc28f3af",
+      "title": "Who Is Dylan Meyer, Kristen Stewart’s Wife?",
+      "link": "https://www.vogue.com/article/kristen-stewart-and-dylan-meyer",
+      "summary": "Any celeb couple can look cute in photos, but it takes a special duo to work together, as Stewart and Meyer have done with their new comedy “The Wrong Girls.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Who Is Dylan Meyer, Kristen Stewart’s Wife?...",
+      "score": 0,
+      "published": "2026-08-17T16:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -611,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3707a307490c",
-      "title": "Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft Symmetry",
-      "link": "https://www.vogue.com/article/savette-soft-symmetry-launch",
-      "summary": "Savette’s newest handbag introduces an element of undone elegance to the brand’s refined design codes. Learn more about the design from founder Amy Zurek and shop it on Vogue first.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft ...",
-      "score": 1,
-      "published": "2026-08-17T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "aa24abeaea94",
       "title": "How to Get a Wedding Dress Fast",
       "link": "https://www.vogue.com/article/how-to-get-a-wedding-dress-fast",
@@ -635,6 +747,20 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: How to Get a Wedding Dress Fast — A Complete Style Guide",
       "score": 2,
+      "published": "2026-08-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3707a307490c",
+      "title": "Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft Symmetry",
+      "link": "https://www.vogue.com/article/savette-soft-symmetry-launch",
+      "summary": "Savette’s newest handbag introduces an element of undone elegance to the brand’s refined design codes. Learn more about the design from founder Amy Zurek and shop it on Vogue first.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft ...",
+      "score": 1,
       "published": "2026-08-17T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -653,20 +779,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cc34bafb4860",
-      "title": "The Best Vanilla Perfumes Have Architecture and Attitude",
-      "link": "https://www.vogue.com/article/modern-vanilla-perfumes",
-      "summary": "The best vanilla perfumes are far from the sugary dessert scents you’d imagine. Crisp and light, moody and rich, these fragrances by Guerlain, Dior, and more make the note feel new.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Vanilla Perfumes Have Architecture and Attitude...",
-      "score": 0,
-      "published": "2026-08-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "beda0306ab2c",
       "title": "How to Wear the Nightie Dress Trend, According to Six of the Season’s It Girls",
       "link": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend",
@@ -677,6 +789,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
+      "published": "2026-08-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cc34bafb4860",
+      "title": "The Best Vanilla Perfumes Have Architecture and Attitude",
+      "link": "https://www.vogue.com/article/modern-vanilla-perfumes",
+      "summary": "The best vanilla perfumes are far from the sugary dessert scents you’d imagine. Crisp and light, moody and rich, these fragrances by Guerlain, Dior, and more make the note feel new.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Vanilla Perfumes Have Architecture and Attitude...",
+      "score": 0,
       "published": "2026-08-17T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -695,20 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ba057e5b43ba",
-      "title": "I'm a Jewelry Designer in L.A.—This Is My Citizens of Humanity Capsule Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/citizens-of-humanit-jennifer-meyer",
-      "summary": "Shop the COH x Jennifer Meyer collaboration.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I'm a Jewelry Designer in L.A.—This Is My Citizens of Humanity Capsule...",
-      "score": 1,
-      "published": "2026-08-17T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3a690b06bd40",
       "title": "It's Official: This Is the Biggest Bag Trend of 2026",
       "link": "https://www.whowhatwear.com/fashion/flat-tote-bag-trend",
@@ -719,6 +831,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-08-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba057e5b43ba",
+      "title": "I'm a Jewelry Designer in L.A.—This Is My Citizens of Humanity Capsule Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/citizens-of-humanit-jennifer-meyer",
+      "summary": "Shop the COH x Jennifer Meyer collaboration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I'm a Jewelry Designer in L.A.—This Is My Citizens of Humanity Capsule...",
+      "score": 1,
       "published": "2026-08-17T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -776,20 +902,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-17T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0a393936bcec",
-      "title": "How to Pull Off an Influencer Trip in 2026",
-      "link": "https://www.vogue.com/article/how-to-pull-off-an-influencer-trip-in-2026",
-      "summary": "Brands are zeroing in on niche talent and de-emphasizing product promo. Consumers are as locked in as ever, but with a critical eye. What’s the best strategy?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Pull Off an Influencer Trip in 2026...",
-      "score": 1,
-      "published": "2026-08-17T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d47e879d8a71",
-      "title": "The Best Dressed Stars of the Week Opted for Vintage Touches",
-      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-sadie-sink-amal-clooney-cardi-b",
-      "summary": "From archival runway to fabulous maternity wear, it was an exciting week on the red carpet, care of Sadie Sink, Anne Hathaway, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Opted for Vintage Touches...",
-      "score": 3,
-      "published": "2026-08-16T15:01:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2f9b8445b163",
       "title": "Ariana Grande Debuts a New Tattoo With a Nod to Her Rekindled Romance With Ricky Àlvarez",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73445222/ariana-grande-debuts-new-tattoo-for-boyfriend-ricky-alvarez-photos/",
@@ -958,48 +1056,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 0,
       "published": "2026-08-16T14:25:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a9071f120677",
-      "title": "A Timeline of Cristiano Ronaldo and Georgina Rodríguez’s Relationship",
-      "link": "https://www.vogue.com/article/a-brief-timeline-of-cristiano-ronaldo-and-georgina-rodriguez-relationship",
-      "summary": "Ronaldo and his longtime partner, Georgina Rodríguez, tied the knot on Tuesday, August 11 in Cascais, Portugal after a decade together.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Timeline of Cristiano Ronaldo and Georgina Rodríguez’s Relationship...",
-      "score": 0,
-      "published": "2026-08-16T12:01:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "88c719fc507c",
-      "title": "From the Archives: Escape to Formentera With Consuelo Castiglioni",
-      "link": "https://www.vogue.com/article/from-the-archives-everything-goes",
-      "summary": "The couple who have made Marni the label of choice for chic hippie nomads, writes Hamish Bowles, satisfy their wanderlust with a rough-hewn island getaway.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: From the Archives: Escape to Formentera With Consuelo Castiglioni...",
-      "score": 1,
-      "published": "2026-08-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7928fd48075f",
-      "title": "Exclusive Photos: Inside Cristiano Ronaldo and Georgina Rodríguez’s Intimate Wedding",
-      "link": "https://www.vogue.com/article/cristiano-ronaldo-and-georgina-rodriguez-wedding",
-      "summary": "“It was exactly as I’d imagined it,” Georgina Rodríguez tells Vogue exclusively of her wedding to Cristiano Ronaldo at home in Portugal.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Exclusive Photos — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-08-16T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1017,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "18543701b270",
-      "title": "Ariana Grande Debuts a New Tattoo With a Not-So-Secret Reference",
-      "link": "https://www.vogue.com/article/ariana-grande-debuts-a-new-tattoo",
-      "summary": "For London’s first Eternal Sunshine show, Ariana Grande debuted the “I do love you” tattoo on her collarbone, which matches boyfriend Ricky Alvarez.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-16T11:37:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3b8995322710",
       "title": "7 Shoes Like Hey Dude – Similar Alternatives For Men 2026",
       "link": "https://www.fashionbeans.com/article/shoes-like-hey-dude/",
@@ -1042,20 +1084,6 @@
       "angle": "Fashion Intelligence: 7 Shoes Like Hey Dude – Similar Alternatives For Men 2026...",
       "score": 2,
       "published": "2026-08-16T11:16:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3228b026f78b",
-      "title": "David Beckham Takes His Instagram Husband Duties Very Seriously",
-      "link": "https://www.vogue.com/article/david-beckham-takes-his-instagram-husband-duties-very-seriously",
-      "summary": "The Beckhams might be the most papped family in the world right now, but in Positano, David made sure he was the one getting Victoria’s best angles.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: David Beckham Takes His Instagram Husband Duties Very Seriously...",
-      "score": 0,
-      "published": "2026-08-16T11:03:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,10 +1115,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdd440725ba7",
-      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
-      "summary": "Suddenly, they're everywhere.",
+      "id": "09fa8434003e",
+      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
+      "summary": "Confirmed by Kaia.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1101,10 +1129,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "09fa8434003e",
-      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
-      "summary": "Confirmed by Kaia.",
+      "id": "bdd440725ba7",
+      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
+      "summary": "Suddenly, they're everywhere.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1420,34 +1448,6 @@
       "angle": "Fashion Intelligence: Stylish People Know This Monochrome Outfit Is the Easiest Way to Look ...",
       "score": 2,
       "published": "2026-08-15T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7a8c1f24966b",
-      "title": "It Girls in London and Paris Agree: This Timeless Top Trend Makes Jeans, Shorts and Skirts Look Chicer",
-      "link": "https://www.whowhatwear.com/fashion/tops/henley-t-shirt-trend-2026",
-      "summary": "Bella Swan, eat your heart out.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-15T07:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "367349a55fe0",
-      "title": "Hold the Dainty Necklaces: According to the Runways, This Is the Chicest Way to Wear Bling This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/autumn-jewellery-trends-2026",
-      "summary": "Large and in charge.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hold the Dainty Necklaces: According to the Runways, This Is the Chice...",
-      "score": 2,
-      "published": "2026-08-15T07:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2571,6 +2571,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "915c5cf2e0c3",
+      "title": "Trending Sharara Suits for Raksha Bandhan 2026",
+      "link": "https://blog.kalkifashion.com/trending-sharara-suits-for-raksha-bandhan-2026/",
+      "summary": "Raksha Bandhan 2026 is knocking on our doors, and one thing every woman must be excited about is the outfit she’ll wear on this day. Haven’t you already doomscrolled innumerable times for that perfect suit set to wear this festive season? Raksha Bandhan is the perfect excuse to bring out a festive look that feels [&#82",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 5,
+      "published": "2026-08-18T04:53:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a05c5d62e9cc",
       "title": "What to Wear on Janmashtami: Outfit Ideas for Men and Women",
       "link": "https://www.indianclothstore.com/blog/janmashtami-outfit-ideas",
@@ -2767,20 +2781,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d13b9cdc1f4f",
-      "title": "Get Inspired by a Love Story That Almost Never Happened. Find Out What Fate Had in Store.",
-      "link": "https://blog.kalkifashion.com/get-inspired-by-a-love-story-that-almost-never-happened-find-out-what-fate-had-in-store/",
-      "summary": "DM Disaster Turned Destiny? Picture this: You&#8217;re scrolling Instagram, heart eyes over a guy&#8217;s travel pics, slide into his DMs&#8230; and ‘crickets’. Total radio silence. Ouch, right? That&#8217;s how Payal Vatsya&#8217;s love story almost fizzled out before it even sparked. But hold up—because what started ",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Get Inspired by a Love Story That Almost Never Happened. Find Out What...",
-      "score": 0,
-      "published": "2026-07-06T12:55:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dc0d74da955e",
       "title": "Designer Kurtas for Wedding Functions Crafted for Moments That Matter",
       "link": "https://www.torani.in/blogs/news/designer-kurtas-for-wedding-functions-crafted-for-moments-that-matter",
@@ -2965,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "alexandra eala",
+      "term": "epf",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "noel tata",
+      "term": "തിരുവനന്തപുരം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "h1n1",
+      "term": "tempsens instruments ipo gmp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "joão cancelo barcelona",
+      "term": "iran war",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jiri lehecka",
+      "term": "hilo hawaii",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಬಾಂಗ್ಲಾದೇಶ",
+      "term": "behari lal ipo allotment status",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bayern munich jamal musiala",
+      "term": "cag",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "flood situation near baitarani river",
+      "term": "paytm share",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather patna",
+      "term": "lalitha jewellery ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather chandigarh",
+      "term": "sunshine pictures ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
