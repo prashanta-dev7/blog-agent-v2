@@ -1,25 +1,39 @@
 {
-  "generated_at": "2026-08-18T05:27:56.940964+00:00",
+  "generated_at": "2026-08-18T08:35:49.747216+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "5f282ee7e3f0",
-      "title": "Register to Attend | The Fashion Executive’s Guide to Longevity Tech, Live Webinar",
-      "link": "https://www.vogue.com/article/the-fashion-executives-guide-to-longevity-tech-live-webinar",
-      "summary": "Longevity tech is reshaping wellness and luxury. Join Vogue Business on 10 September for a live webinar on the trends and brands driving the category.",
-      "source": "Vogue US",
+      "id": "a75be7b963a0",
+      "title": "Hailey Bieber Has Convinced Me to Wear Brown Lipstick Again—These Are the Shades I’d Actually Recommend",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-brown-lipsticks",
+      "summary": "Move over, pink.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Register to Attend | The Fashion Executive’s Guide to Longevity Tech, ...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hailey Bieber Has Convinced Me to Wear Brown Lipstick Again—These Are ...",
+      "score": 1,
+      "published": "2026-08-18T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "649a13eae801",
+      "title": "H&M Just Launched The Chicest Pre-Autumn Collection—5 Elegant Trends Already Moving Fast",
+      "link": "https://www.whowhatwear.com/fashion/affordable/hm-pre-autumn-trends-2026",
+      "summary": "Let the transitional season begin.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 4,
-      "published": "2026-08-18T05:00:00+00:00",
+      "published": "2026-08-18T05:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,6 +47,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Register to Attend | Insider Roundtable: The Fashion Executive’s Guide...",
       "score": 2,
+      "published": "2026-08-18T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5f282ee7e3f0",
+      "title": "Register to Attend | The Fashion Executive’s Guide to Longevity Tech, Live Webinar",
+      "link": "https://www.vogue.com/article/the-fashion-executives-guide-to-longevity-tech-live-webinar",
+      "summary": "Longevity tech is reshaping wellness and luxury. Join Vogue Business on 10 September for a live webinar on the trends and brands driving the category.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Register to Attend | The Fashion Executive’s Guide to Longevity Tech, ...",
+      "score": 4,
       "published": "2026-08-18T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -219,20 +247,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f80a5f42ef65",
-      "title": "Get Ready—Free People's Gorgeous Fall 2026 Campaign Starring Willow Smith Just Launched",
-      "link": "https://www.whowhatwear.com/fashion/shopping/free-people-fall-2026-campaign",
-      "summary": "Shop the new arrivals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-17T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "541576b13b7c",
       "title": "How to Spot an It Girl in 2026: This Bag Color and This Pretty Heel Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-bag-ballet-heel-trends-kaia-gerber",
@@ -242,6 +256,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-17T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f80a5f42ef65",
+      "title": "Get Ready—Free People's Gorgeous Fall 2026 Campaign Starring Willow Smith Just Launched",
+      "link": "https://www.whowhatwear.com/fashion/shopping/free-people-fall-2026-campaign",
+      "summary": "Shop the new arrivals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-17T20:00:00+00:00",
       "discovered_via": "feed"
@@ -709,6 +737,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a476ab23b044",
+      "title": "David Beckham’s Best Hairstyles (And How To Get The Look)",
+      "link": "https://www.fashionbeans.com/article/david-beckham-hair-styles/",
+      "summary": "David Beckham’s dress sense is something that, frankly, we spend too much time analysing, but the man&#8217;s frequently-changing hairstyles are just as worthy of our scrutiny. Yes, there have been some questionable choices along the way (shout out to the Alice bands and toe-curling cornrows) but on balance, Mr Beckham",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: David Beckham’s Best Hairstyles (And How To Get The Look)...",
+      "score": 2,
+      "published": "2026-08-17T11:40:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4015eaad3884",
       "title": "Sculpted, Not Cinched: 2026’s Body-Engineered Silhouette Takes Over Fashion",
       "link": "https://in.apparelresources.com/fashion-news/trends/sculpted-not-cinched-2026s-body-engineered-silhouette-takes-fashion/",
@@ -737,20 +779,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "aa24abeaea94",
-      "title": "How to Get a Wedding Dress Fast",
-      "link": "https://www.vogue.com/article/how-to-get-a-wedding-dress-fast",
-      "summary": "Getting married in under nine months? We give you all the solutions on how to get a wedding dress fast, from shopping vintage to going bespoke.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Get a Wedding Dress Fast — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-17T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3707a307490c",
       "title": "Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft Symmetry",
       "link": "https://www.vogue.com/article/savette-soft-symmetry-launch",
@@ -761,6 +789,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft ...",
       "score": 1,
+      "published": "2026-08-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aa24abeaea94",
+      "title": "How to Get a Wedding Dress Fast",
+      "link": "https://www.vogue.com/article/how-to-get-a-wedding-dress-fast",
+      "summary": "Getting married in under nine months? We give you all the solutions on how to get a wedding dress fast, from shopping vintage to going bespoke.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: How to Get a Wedding Dress Fast — A Complete Style Guide",
+      "score": 2,
       "published": "2026-08-17T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -779,20 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "beda0306ab2c",
-      "title": "How to Wear the Nightie Dress Trend, According to Six of the Season’s It Girls",
-      "link": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend",
-      "summary": "From Dôen, Madewell, and even Chloé, here’s how six of the season’s It girls are wearing the nightie dress trend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-08-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cc34bafb4860",
       "title": "The Best Vanilla Perfumes Have Architecture and Attitude",
       "link": "https://www.vogue.com/article/modern-vanilla-perfumes",
@@ -803,6 +831,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Best Vanilla Perfumes Have Architecture and Attitude...",
       "score": 0,
+      "published": "2026-08-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "beda0306ab2c",
+      "title": "How to Wear the Nightie Dress Trend, According to Six of the Season’s It Girls",
+      "link": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend",
+      "summary": "From Dôen, Madewell, and even Chloé, here’s how six of the season’s It girls are wearing the nightie dress trend.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
       "published": "2026-08-17T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -818,6 +860,34 @@
       "angle": "Bridal Edit: 34 Best Fall Wedding Guest Dresses to Wear for Autumnal RSVPs — A Complete Style Guide",
       "score": 3,
       "published": "2026-08-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bca3713c9068",
+      "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
+      "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
+      "summary": "A man’s hair has always been an important identifier of success; historically, it would denote class, wealth and masculinity. Now? Well, not much has changed. And despite some tweaks to length and texture, nor have the styles. What looked good on Roman emperors still has the potential to flatter a modern mug. So take a",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
+      "score": 1,
+      "published": "2026-08-17T09:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c9cf9e0da3b",
+      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
+      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
+      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
+      "score": 1,
+      "published": "2026-08-17T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1115,10 +1185,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "09fa8434003e",
-      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
-      "summary": "Confirmed by Kaia.",
+      "id": "bdd440725ba7",
+      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
+      "summary": "Suddenly, they're everywhere.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1129,10 +1199,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdd440725ba7",
-      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
-      "summary": "Suddenly, they're everywhere.",
+      "id": "09fa8434003e",
+      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
+      "summary": "Confirmed by Kaia.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1406,48 +1476,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-08-15T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c8f2b2d53ade",
-      "title": "Hold the Black Shoes—This Elegant Sandal Colour Trend Makes Summer Dresses Look Chicest",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/brown-sandals-trend-victoria-beckham-2026",
-      "summary": "Confirmed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-15T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6df0bdd9b688",
-      "title": "Jelly Shoes Might Be Trending, But the Most Elegant People I Know Are Wearing This Classy Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/peep-toe-flats-trend-karlie-kloss-2026",
-      "summary": "I wish I had known about these sooner.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-15T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e9ed04627fba",
-      "title": "Stylish People Know This Monochrome Outfit Is the Easiest Way to Look Chic and Feel Cool",
-      "link": "https://www.whowhatwear.com/fashion/shopping/white-summer-outfits-2026",
-      "summary": "Heat-wave dressing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Stylish People Know This Monochrome Outfit Is the Easiest Way to Look ...",
-      "score": 2,
-      "published": "2026-08-15T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2235,48 +2263,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5c4092758d0e",
-      "title": "10 Best Doc Martens for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-doc-martens/",
-      "summary": "Whether you’re new to the world of Doc Martens or an enthusiast that has been on the ‘AirWair’ walk for years, I believe there’s a pair for everyone. So as an enthusiast of this legendary brand, I&#8217;ve taken the liberty to share my personal insights and viewpoints about some of the best Doc Martens offerings. &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Best Doc Martens for Men In 2026...",
-      "score": 1,
-      "published": "2026-08-10T09:12:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66633f524ea0",
-      "title": "A Complete Guide To Men’s Fragrances, Aftershaves & Colognes",
-      "link": "https://www.fashionbeans.com/article/mens-fragrance-aftershave-cologne-guide/",
-      "summary": "Men&#8217;s fragrances are their own special science. One of the rare occasions when chemistry and artistry not only collide but are treated with equivalent levels of respect and appreciation. However, as with any mega-bucks profit-generating global industry, it does have a bad habit of talking in its own ‘insider’ lin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: A Complete Guide To Men’s Fragrances, Aftershaves & Colognes...",
-      "score": 1,
-      "published": "2026-08-10T09:00:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1c8d43f79ad7",
-      "title": "The Best Italian Menswear Brands",
-      "link": "https://www.fashionbeans.com/article/best-italian-menswear-brands/",
-      "summary": "“Italians see fashion as a search for beauty,” says Matteo Persivale, one of Milan’s best-dressed men and a senior writer at Corriere della Serra, the country&#8217;s leading daily newspaper. Perhaps that’s why those in less tropical climes are still so drawn to the Italianate style — it breaks free of the workaday pra",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Italian Menswear Brands...",
-      "score": 7,
-      "published": "2026-08-10T09:00:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b1daf823ae68",
       "title": "ICYMI: Sephora Partners With Olive Young, Checking In With Century 21 & Fashion's Hottest Item Is a Knicks Cap",
       "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-8",
@@ -2965,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "epf",
+      "term": "finland vs luxembourg",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "തിരുവനന്തപുരം",
+      "term": "आलिया भट्ट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tempsens instruments ipo gmp",
+      "term": "వాతావరణ సూచన",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iran war",
+      "term": "प्रभात खबर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hilo hawaii",
+      "term": "રોકાણ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "behari lal ipo allotment status",
+      "term": "maruti suzuki august price hike",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cag",
+      "term": "ಯಲಹಂಕ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "paytm share",
+      "term": "విశాఖపట్నం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lalitha jewellery ipo",
+      "term": "rishabh pant",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sunshine pictures ipo",
+      "term": "எ. வ. வேலு",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
