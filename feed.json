@@ -1,13 +1,167 @@
 {
-  "generated_at": "2026-08-18T08:35:49.747216+00:00",
+  "generated_at": "2026-08-18T11:24:43.057055+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 182,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "041b9bec4813",
+      "title": "TechnoSport Expands Manufacturing Capacity in Tamil Nadu",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/technosport-expands-manufacturing-capacity-tamil-nadu/",
+      "summary": "TechnoSport, a Bengaluru-based activewear company, has announced an investment of Rs 130 crore (US $13.59 million) to expand its existing manufacturing facility in Erode, Tamil Nadu. The company signed a Memorandum of Understanding (MoU) with the Tamil Nadu government at the Vettri Tamil Nadu Investment Conclave 2026. ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: TechnoSport Expands Manufacturing Capacity in Tamil Nadu...",
+      "score": 1,
+      "published": "2026-08-18T11:22:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6abcd6729ad",
+      "title": "Dior Makeup Finds Its Lucky Charm for Fall 2026",
+      "link": "https://www.fashiongonerogue.com/story/dior-makeup-fall-2026/",
+      "summary": "Dior Makeup&#8217;s fall 2026 campaign turns the four-leaf clover into the season&#8217;s most wearable beauty look. Called Lucky Clover, Deva ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Dior Makeup Finds Its Lucky Charm for Fall 2026...",
+      "score": 3,
+      "published": "2026-08-18T11:21:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-08-18T11:13:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "68ea5e1e78e4",
+      "title": "Fashion People Are Accessorising Like It’s 2006 Again—6 Trends Making a Comeback 20 Years Later",
+      "link": "https://www.whowhatwear.com/fashion/trends/y2k-accessory-trends-2026",
+      "summary": "Love them or loathe them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-18T11:01:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "86e29f3d2476",
+      "title": "I'm Your Stylist, No Appointment Needed—6 Relevant Early Fall Outfits From Shopbop That Are So Chic",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-early-fall-outfits-2026",
+      "summary": "Modern. Cool. Period.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Your Stylist, No Appointment Needed—6 Relevant Early Fall Outfits ...",
+      "score": 1,
+      "published": "2026-08-18T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "50308ef5fad1",
+      "title": "Tailored Cuts Regain Ground as Oversize Loses Momentum",
+      "link": "https://in.apparelresources.com/fashion-news/trends/tailored-cuts-regain-ground-oversize-loses-momentum/",
+      "summary": "Global fashion is showing a shift toward body-skimming cuts after nearly a decade of oversized dressing. Runways and social platforms are increasingly featuring pieces that follow the body&#8217;s line rather than obscure it, marking a correction after an extended run for XXL silhouettes. The shift is visible across ca",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Tailored Cuts Regain Ground as Oversize Loses Momentum...",
+      "score": 4,
+      "published": "2026-08-18T10:22:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "33fdab2d644d",
+      "title": "24 Best Bridal Pajamas for the Wedding, Honeymoon, and Beyond",
+      "link": "https://www.vogue.com/article/bridal-pajamas",
+      "summary": "You have the dress—now, shop Vogue’s edit of the best bridal pajamas, sets, and robes to ensure you start your wedding day on the right foot.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 24 Best Bridal Pajamas for the Wedding, Honeymoon, and Beyond — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b4e98f347a57",
+      "title": "Dylan Meyer and Shatara Michelle Ford on Remaking Genre Movies in Their Own Image",
+      "link": "https://www.vogue.com/article/shatara-michelle-ford-dylan-meyer-interview",
+      "summary": "The filmmakers behind “The Wrong Girls” and “Dreams in Nightmares” have reimagined two classic tropes—the buddy comedy and the road movie—for a different time (and different bodies).",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dylan Meyer and Shatara Michelle Ford on Remaking Genre Movies in Thei...",
+      "score": 0,
+      "published": "2026-08-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "afaac6556c99",
+      "title": "Velvet Returns to the Spotlight for Pre- Fall 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/velvet-returns-spotlight-pre-fall-2026/",
+      "summary": "Velvet Returns as Fall 2026&#8217;s Defining Fabric, With Indian Labels Leading the Charge Velvet is emerging as one of the season&#8217;s most consistent trends, moving beyond its usual festive-wear tag to reposition itself as a modern, all-season fabric for fall and prefall 2026. Fashion coverage entering the new sea",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Velvet Returns to the Spotlight for Pre- Fall 2026...",
+      "score": 6,
+      "published": "2026-08-18T09:45:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d7af64a3193c",
+      "title": "The Exec’s Guide to Longevity Tech",
+      "link": "https://www.vogue.com/article/the-execs-guide-to-longevity-tech",
+      "summary": "AI is reshaping preventative health just as longevity becomes one of luxury’s fastest-growing opportunities. Where is the technology heading next, and what should fashion execs be paying attention to?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Exec’s Guide to Longevity Tech...",
+      "score": 2,
+      "published": "2026-08-18T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-08-18T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "a75be7b963a0",
       "title": "Hailey Bieber Has Convinced Me to Wear Brown Lipstick Again—These Are the Shades I’d Actually Recommend",
@@ -233,15 +387,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7ecff3bfc657",
-      "title": "I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Dimension This Fall",
-      "link": "https://www.whowhatwear.com/beauty/hair/brunette-fall-hair-trends-2026",
-      "summary": "Plus, how to preserve your highest-quality color all season long.",
+      "id": "30f56eece4df",
+      "title": "I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-aritzia-new-arrivals-august-2026",
+      "summary": "Fall wardrobe staples you'll wear on repeat.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Di...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar...",
       "score": 1,
       "published": "2026-08-17T20:00:00+00:00",
       "discovered_via": "feed"
@@ -275,15 +429,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "30f56eece4df",
-      "title": "I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-aritzia-new-arrivals-august-2026",
-      "summary": "Fall wardrobe staples you'll wear on repeat.",
+      "id": "7ecff3bfc657",
+      "title": "I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Dimension This Fall",
+      "link": "https://www.whowhatwear.com/beauty/hair/brunette-fall-hair-trends-2026",
+      "summary": "Plus, how to preserve your highest-quality color all season long.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Di...",
       "score": 1,
       "published": "2026-08-17T20:00:00+00:00",
       "discovered_via": "feed"
@@ -779,34 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3707a307490c",
-      "title": "Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft Symmetry",
-      "link": "https://www.vogue.com/article/savette-soft-symmetry-launch",
-      "summary": "Savette’s newest handbag introduces an element of undone elegance to the brand’s refined design codes. Learn more about the design from founder Amy Zurek and shop it on Vogue first.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft ...",
-      "score": 1,
-      "published": "2026-08-17T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aa24abeaea94",
-      "title": "How to Get a Wedding Dress Fast",
-      "link": "https://www.vogue.com/article/how-to-get-a-wedding-dress-fast",
-      "summary": "Getting married in under nine months? We give you all the solutions on how to get a wedding dress fast, from shopping vintage to going bespoke.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Get a Wedding Dress Fast — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-17T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "87a697c51d67",
       "title": "I'm a Fashion Person, and These Are the Clothes I Want to Wear From Aligne, Tibi, Vince, COS, and Soft Goat",
       "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-early-fall-shopping-2026",
@@ -821,48 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cc34bafb4860",
-      "title": "The Best Vanilla Perfumes Have Architecture and Attitude",
-      "link": "https://www.vogue.com/article/modern-vanilla-perfumes",
-      "summary": "The best vanilla perfumes are far from the sugary dessert scents you’d imagine. Crisp and light, moody and rich, these fragrances by Guerlain, Dior, and more make the note feel new.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Vanilla Perfumes Have Architecture and Attitude...",
-      "score": 0,
-      "published": "2026-08-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "beda0306ab2c",
-      "title": "How to Wear the Nightie Dress Trend, According to Six of the Season’s It Girls",
-      "link": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend",
-      "summary": "From Dôen, Madewell, and even Chloé, here’s how six of the season’s It girls are wearing the nightie dress trend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-08-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "77fad1c8f171",
-      "title": "34 Best Fall Wedding Guest Dresses to Wear for Autumnal RSVPs",
-      "link": "https://www.vogue.com/slideshow/best-fall-wedding-guest-dresses",
-      "summary": "Autumn ceremonies will be here before you know it. Start planning your look with our edit of the best fall wedding guest dresses to shop right now.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 34 Best Fall Wedding Guest Dresses to Wear for Autumnal RSVPs — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-08-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bca3713c9068",
       "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
       "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
@@ -874,6 +958,20 @@
       "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
       "score": 1,
       "published": "2026-08-17T09:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a3ea33ff5eb1",
+      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
+      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
+      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
+      "score": 2,
+      "published": "2026-08-17T09:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,17 +1031,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5531e07120df",
-      "title": "Calling All Rei Kawakubo Fans—dot COMME Is Auctioning 265 Pieces of His Epic Collection",
-      "link": "https://www.vogue.com/article/calling-all-rei-kawakubo-fan-comme-is-auctioning-pieces-of-his-epic-collection",
-      "summary": "Dot COMME: The Auction is a reminder of Rei Kawakubo’s exceptional and singular creativity, regardless of the era the Comme des Garçons piece comes from.",
-      "source": "Vogue US",
+      "id": "9cea432fe226",
+      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
+      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
+      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-17T06:05:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
+      "score": 2,
+      "published": "2026-08-17T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1185,10 +1283,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdd440725ba7",
-      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
-      "summary": "Suddenly, they're everywhere.",
+      "id": "09fa8434003e",
+      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
+      "summary": "Confirmed by Kaia.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1199,10 +1297,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "09fa8434003e",
-      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
-      "summary": "Confirmed by Kaia.",
+      "id": "bdd440725ba7",
+      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
+      "summary": "Suddenly, they're everywhere.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1437,20 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f451eb72e6f0",
-      "title": "23 Under-$200 Shopbop Finds That Look Triple the Price",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-fashion-beauty-august-2026",
-      "summary": "Shop fashion and beauty, from Alex Mill to Flamingo Estate.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Under-$200 Shopbop Finds That Look Triple the Price...",
-      "score": 2,
-      "published": "2026-08-15T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c021578879d4",
       "title": "ICYMI: Copenhagen Fashion Week's Top Spring 2027 Trends, Saucony Is StockX's Fastest-Growing Sneaker Brand & Asos Is Platforming Emerging Designers",
       "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-15",
@@ -1462,20 +1546,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-08-15T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b4aa4a27285f",
-      "title": "Forget Paris—Buyers, Tastemakers, and Trend Forecasters Are Saying Spring 2027 Trends Start in This City",
-      "link": "https://www.whowhatwear.com/fashion/runway/ciff-spring-summer-2027-buyers-fashion-trends",
-      "summary": "Fashion's coolest trade show.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-15T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1714,20 +1784,6 @@
       "angle": "Fashion Intelligence: Weekly Drop Watch: Betsey Johnson x Paris Hilton, Abercrombie x Abbode...",
       "score": 3,
       "published": "2026-08-14T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c2d6bd67193a",
-      "title": "Page Industries Q1 Revenue Rises 7.9% to Rs 1,420 Crore",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/page-industries-q1-revenue-rises-7-9-rs-1420-crore/",
-      "summary": "Page Industries Ltd, a manufacturer and retailer of innerwear, reported a 7.9% year-on-year increase in revenue from operations to Rs 1,420.44 crore(US $148.88 million) in the first quarter of FY27, driven by growth in apparel sales volumes and steady consumer demand. The innerwear and athleisure manufacturer recorded ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Page Industries Q1 Revenue Rises 7.9% to Rs 1,420 Crore...",
-      "score": 1,
-      "published": "2026-08-14T12:04:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2235,34 +2291,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "83c732eaefb2",
-      "title": "12 Pants For Short Men – Best Styles For 2026",
-      "link": "https://www.fashionbeans.com/article/pants-for-short-men/",
-      "summary": "I’m all for embracing the body you were given. Especially when it comes to wearing whatever the hell you want. But, I’m also a realist. And I believe that the best pants for short men are different from the ones taller guys wear. If you’re reading this, you’re probably short. So you’ll understand what I’m &#8230; Conti",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 12 Pants For Short Men – Best Styles For 2026...",
-      "score": 2,
-      "published": "2026-08-10T09:53:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4708032df4fa",
-      "title": "Seersucker: What It Is, Why You Need It & How To Wear It",
-      "link": "https://www.fashionbeans.com/article/seersucker-guide-for-men/",
-      "summary": "The warmer months are fast approaching and this means two things: summer Fridays, of course, and summer wardrobes. The latter is somewhat trickier to navigate. Ever since business casual became a thing, men have been under pressure to look not just smart but relaxed-smart &#8211; and during the warmer months that&#8217",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Seersucker: What It Is, Why You Need It & How To Wear It...",
-      "score": 1,
-      "published": "2026-08-10T09:41:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b1daf823ae68",
       "title": "ICYMI: Sephora Partners With Olive Young, Checking In With Century 21 & Fashion's Hottest Item Is a Knicks Cap",
       "link": "https://fashionista.com/2026/08/fashion-news-you-need-to-know-august-8",
@@ -2358,20 +2386,6 @@
       "angle": "Fashion Intelligence: This Fashion Nonprofit Prepares Aspiring Female Designers for Economic...",
       "score": 4,
       "published": "2026-08-07T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7492e9b57317",
-      "title": "Irina Shayk Wows in REVOLVE Los Angeles’ Summer Styles",
-      "link": "https://www.fashiongonerogue.com/story/irina-shayk-revolve-los-angeles/",
-      "summary": "Irina Shayk stars in REVOLVE&#8217;s new Los Angeles summer 2026 campaign, and she looks effortlessly glamorous. Photographed by Robin Galiegue ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Irina Shayk Wows in REVOLVE Los Angeles’ Summer Styles...",
-      "score": 1,
-      "published": "2026-08-07T11:23:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "finland vs luxembourg",
+      "term": "विमल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आलिया भट्ट",
+      "term": "அன்புமணி ராமதாஸ்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వాతావరణ సూచన",
+      "term": "બુધ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रभात खबर",
+      "term": "ദേവ്ദത്ത് പടിക്കല്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "રોકાણ",
+      "term": "bpsc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "maruti suzuki august price hike",
+      "term": "सौर ऊर्जा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಯಲಹಂಕ",
+      "term": "तीस्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విశాఖపట్నం",
+      "term": "sri lanka national cricket team",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rishabh pant",
+      "term": "ঘটনা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "எ. வ. வேலு",
+      "term": "वंदे भारत एक्सप्रेस",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
