@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T05:29:14.838727+00:00",
+  "generated_at": "2026-08-19T08:35:56.024255+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 184,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bode Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-19T05:27:23+00:00",
+      "published": "2026-08-19T08:34:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2ef11243ef5d",
+      "title": "Everyone in Fashion Is Swapping Their Go-To Jeans for This Cooler Alternative",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-loose-denim-shorts-outfits",
+      "summary": "We are too.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Everyone in Fashion Is Swapping Their Go-To Jeans for This Cooler Alte...",
+      "score": 1,
+      "published": "2026-08-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b644ad62121",
+      "title": "Prediction: 6 Trends the Best Dressed People in the Street Style Set Will Wear This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/street-style-trend-predictions-autumn-2026",
+      "summary": "Warning, great outfits ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 5,
+      "published": "2026-08-19T07:10:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1160f8522203",
+      "title": "Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-ex-nihilo-perfumes",
+      "summary": "Straight from a beauty editor.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict...",
+      "score": 3,
+      "published": "2026-08-19T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "31dabad36491",
+      "title": "How to Spot an It Girl In 2026—She’ll Be Wearing Her Jeans and Jackets With This Chic Accessory",
+      "link": "https://www.whowhatwear.com/fashion/trends/hat-trends-2026",
+      "summary": "Chic from head to toe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-19T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "40fee43b5802",
+      "title": "I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Dimension This Autumn",
+      "link": "https://www.whowhatwear.com/beauty/hair/brunette-autumn-hair-trends-2026",
+      "summary": "Plus, how to preserve your highest-quality colour all season long.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Di...",
+      "score": 1,
+      "published": "2026-08-19T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ee51312b3e41",
+      "title": "Don't Tell Your Summer Pedicures—Here are the 7 Elegant Colours to Wear on Your Toes Between Seasons",
+      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-colour-pedicure-trends-2026",
+      "summary": "Transitional trends.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-19T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -667,30 +751,44 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1005bd1c7546",
-      "title": "A Bad Bunny and a Beagle Walk Into a Restaurant…",
-      "link": "https://www.vogue.com/article/bad-bunny-dogue-2026",
-      "summary": "After wrapping his eight-month-long Debí Tirar Más Fotos World Tour, Bad Bunny had one thing left to do: an Italian dinner date with his beagle, Sansa.",
+      "id": "0af99e0d8778",
+      "title": "9 Vogue Editors on the Dog Essentials They (and Their Four-Legged Friends) Can’t Live Without",
+      "link": "https://www.vogue.com/article/vogue-editor-dog-essentials",
+      "summary": "From treats to toys to grooming essentials, Vogue editors share the dog essentials they (and their furry friends) can’t live without.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Bad Bunny and a Beagle Walk Into a Restaurant…...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 9 Vogue Editors on the Dog Essentials They (and Their Four-Legged Frie...",
       "score": 0,
       "published": "2026-08-18T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "f7d35e9c45d0",
-      "title": "Lena Dunham’s Hairless Dogs Have Taught Her to Keep Calm and Carry On",
-      "link": "https://www.vogue.com/article/lena-dunham-dogue-2026",
-      "summary": "“I sometimes joke that Ingrid is my dog and Cornichon is her dog,” Dunham says of her two pooches.",
+      "id": "ab1d993a2068",
+      "title": "Meet Samantha, the Afghan Hound Who Will Probably Out-Dress You",
+      "link": "https://www.vogue.com/slideshow/samantha-stylish-afghan-hound-dogue-2026",
+      "summary": "I’ve got to be honest with you: I cannot take my eyes off of Samantha’s hair.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lena Dunham’s Hairless Dogs Have Taught Her to Keep Calm and Carry On...",
-      "score": 0,
+      "angle": "Fashion Intelligence: Meet Samantha, the Afghan Hound Who Will Probably Out-Dress You...",
+      "score": 1,
+      "published": "2026-08-18T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dfc9ebdb9aef",
+      "title": "On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest",
+      "link": "https://www.vogue.com/slideshow/worlds-ugliest-dog-contest-2026",
+      "summary": "One magical, mange-dodging day with the contestants at the Sonoma County Fair’s 50th Annual World’s Ugliest Dog Competition",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest...",
+      "score": 1,
       "published": "2026-08-18T13:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -723,43 +821,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dfc9ebdb9aef",
-      "title": "On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest",
-      "link": "https://www.vogue.com/slideshow/worlds-ugliest-dog-contest-2026",
-      "summary": "One magical, mange-dodging day with the contestants at the Sonoma County Fair’s 50th Annual World’s Ugliest Dog Competition",
+      "id": "1005bd1c7546",
+      "title": "A Bad Bunny and a Beagle Walk Into a Restaurant…",
+      "link": "https://www.vogue.com/article/bad-bunny-dogue-2026",
+      "summary": "After wrapping his eight-month-long Debí Tirar Más Fotos World Tour, Bad Bunny had one thing left to do: an Italian dinner date with his beagle, Sansa.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest...",
-      "score": 1,
-      "published": "2026-08-18T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5d79f19470d1",
-      "title": "How Cane III Became Social Media’s Most Beloved Restaurant Mascot",
-      "link": "https://www.vogue.com/article/cane-iii-dogue-2026",
-      "summary": "A true Sagittarius, Labrador Cane III is a natural in front of the camera—and loves being recognized in public.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Cane III Became Social Media’s Most Beloved Restaurant Mascot...",
+      "angle": "Fashion Intelligence: A Bad Bunny and a Beagle Walk Into a Restaurant…...",
       "score": 0,
       "published": "2026-08-18T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "1cc3d65f5438",
-      "title": "I Love My Dog—Does That Mean I Should Clone Him?",
-      "link": "https://www.vogue.com/article/pet-cloning-dogue-2026",
-      "summary": "The Austin, Texas-based pet-cloning company ViaGen currently charges $50,000 for an exact genetic replica of your dog or cat. But is it all worth it? Margaux Anbouba asks.",
+      "id": "f7d35e9c45d0",
+      "title": "Lena Dunham’s Hairless Dogs Have Taught Her to Keep Calm and Carry On",
+      "link": "https://www.vogue.com/article/lena-dunham-dogue-2026",
+      "summary": "“I sometimes joke that Ingrid is my dog and Cornichon is her dog,” Dunham says of her two pooches.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Love My Dog—Does That Mean I Should Clone Him?...",
+      "angle": "Fashion Intelligence: Lena Dunham’s Hairless Dogs Have Taught Her to Keep Calm and Carry On...",
       "score": 0,
       "published": "2026-08-18T13:00:00+00:00",
       "discovered_via": "feed"
@@ -1031,6 +1115,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "90cbfbbdf8e4",
+      "title": "The Complete Guide To Mod Fashion",
+      "link": "https://www.fashionbeans.com/article/mod-fashion-guide/",
+      "summary": "Back in 1959, Colin MacInnes offered up the following description of a young gadabout-town in his novel Absolute Beginners: “College-boy smooth crop hair with burned-in side part, neat white Italian round-collared shirt, short Roman jacket, very tailored (two little vents, three buttons), no-turn-up narrow trousers wit",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Complete Guide To Mod Fashion...",
+      "score": 1,
+      "published": "2026-08-18T10:00:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "afaac6556c99",
       "title": "Velvet Returns to the Spotlight for Pre- Fall 2026",
       "link": "https://in.apparelresources.com/fashion-news/trends/velvet-returns-spotlight-pre-fall-2026/",
@@ -1042,6 +1140,34 @@
       "angle": "Fashion Intelligence: Velvet Returns to the Spotlight for Pre- Fall 2026...",
       "score": 6,
       "published": "2026-08-18T09:45:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "48dbef95e0d8",
+      "title": "24 Best Men’s Shorts – Top Tier Guide for 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-shorts-guide/",
+      "summary": "When things start to heat up and your afternoon walks result in glistening beads of sweat on your brow, it can only mean one thing—shorts season is around the corner. It&#8217;s easy to remove layers if you&#8217;ve overcommitted; less so to add ones you&#8217;ve not brought. &#8220;Don&#8217;t dive in too early,&#8221",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 24 Best Men’s Shorts – Top Tier Guide for 2026...",
+      "score": 1,
+      "published": "2026-08-18T09:30:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3dfd33e6f524",
+      "title": "26 Best Sneaker Brands For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-sneaker-brands/",
+      "summary": "There was a time not so very long ago when attending a special event in a pair of sneakers was a surefire way to flag yourself to your shiny-shoed peers as a sartorial pariah. However, sneakers are now en vogue, with the best sneaker brands constantly innovating new and stylish footwear. Attitudes have shifted in &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 26 Best Sneaker Brands For Men In 2026...",
+      "score": 2,
+      "published": "2026-08-18T09:12:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "424e84506807",
-      "title": "It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be Relying On for the Time Being",
-      "link": "https://www.whowhatwear.com/fashion/fall/transitional-capsule-wardrobe-autumn-2026",
-      "summary": "You'll rely on them in autumn, too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be...",
-      "score": 1,
-      "published": "2026-08-18T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4d84d4a1ebb9",
       "title": "Forget What You Think: Cardigans Are No Longer Considered \"Boring\"",
       "link": "https://www.whowhatwear.com/fashion/trends/cardigan-trends-autumn-2026",
@@ -1110,6 +1222,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Forget What You Think: Cardigans Are No Longer Considered \"Boring\"...",
+      "score": 1,
+      "published": "2026-08-18T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "424e84506807",
+      "title": "It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be Relying On for the Time Being",
+      "link": "https://www.whowhatwear.com/fashion/fall/transitional-capsule-wardrobe-autumn-2026",
+      "summary": "You'll rely on them in autumn, too.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be...",
       "score": 1,
       "published": "2026-08-18T05:00:00+00:00",
       "discovered_via": "feed"
@@ -1171,20 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "30f56eece4df",
-      "title": "I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-aritzia-new-arrivals-august-2026",
-      "summary": "Fall wardrobe staples you'll wear on repeat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar...",
-      "score": 1,
-      "published": "2026-08-17T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "541576b13b7c",
       "title": "How to Spot an It Girl in 2026: This Bag Color and This Pretty Heel Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-bag-ballet-heel-trends-kaia-gerber",
@@ -1194,6 +1306,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-17T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "30f56eece4df",
+      "title": "I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-aritzia-new-arrivals-august-2026",
+      "summary": "Fall wardrobe staples you'll wear on repeat.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar...",
       "score": 1,
       "published": "2026-08-17T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1717,48 +1843,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b3bf8270d954",
-      "title": "Spotted in NYC—the Shorts Trend It Girls Are Wearing With T-Shirts",
-      "link": "https://www.whowhatwear.com/fashion/shopping/athletic-shorts-and-t-shirt-outfit-ideas-2026",
-      "summary": "Zoë Kravitz approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-16T20:58:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "65edee94abca",
-      "title": "No Suitcase, No Trainers—This is the Bag and Shoe Trend Stylish Dressers Are Wearing to the Airport Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/oversized-chanel-tote-bag-pointed-toe-heels-airport-outfit-dua-lipa-2026",
-      "summary": "What an upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-16T17:11:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a568e440d196",
-      "title": "I'm an L.A. Stylist—These Are the Cool Brands You'll Find in My Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/los-angeles-stylist-recommendations",
-      "summary": "Sophia Lintner shares what she's loving right now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm an L.A. Stylist—These Are the Cool Brands You'll Find in My Wardro...",
-      "score": 1,
-      "published": "2026-08-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3b8995322710",
       "title": "7 Shoes Like Hey Dude – Similar Alternatives For Men 2026",
       "link": "https://www.fashionbeans.com/article/shoes-like-hey-dude/",
@@ -1784,62 +1868,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-16T10:02:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "63410e7a8499",
-      "title": "Preapproved: The 29 Coolest Things to Buy From Shopbop, According to a Senior Fashion Editor",
-      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-from-shopbop-fall-2026",
-      "summary": "I took the deep dive for you.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Preapproved: The 29 Coolest Things to Buy From Shopbop, According to a...",
-      "score": 1,
-      "published": "2026-08-16T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bdd440725ba7",
-      "title": "Over Flip-Flops and Sandals? Fashion People Are Styling This Closed-Toe Pre-Autumn Shoe Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/water-shoe-trend-alexa-chung-2026",
-      "summary": "Suddenly, they're everywhere.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "09fa8434003e",
-      "title": "If You Want Your Trench Coat to Look French in Autumn, Wear Them With This Shoe Trend, Not Trainers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trench-coat-black-dress-ballet-flat-outfit-kaia-gerber-2026",
-      "summary": "Confirmed by Kaia.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d0b8d0b82831",
-      "title": "M&S Just Perfected 5 Chic Runway Shoe Trends—These Styles Will Sell Out This Autumn",
-      "link": "https://www.whowhatwear.com/marks-and-spencer-autumn-shoe-trends-2026",
-      "summary": "One step ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-16T07:05:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2288,48 +2316,6 @@
       "angle": "Fashion Intelligence: The Right Now Is Hiring An Account Manager In New York, NY (Hybrid)...",
       "score": 3,
       "published": "2026-08-10T16:58:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7504e3212e1f",
-      "title": "How To Wear A Baseball Cap – Style Guide for Guys",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-baseball-cap-snapback/",
-      "summary": "The baseball cap has long been one of menswear’s most polarising accessories and the focus of a fierce debate: does donning a brimmed, bonce cover elevate your look to the ‘peak’ of all that is stylish and contemporary? Or is it a one-way ticket to the sartorial naughty step? It’s an argument that has split &#8230; Con",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-10T15:53:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d1c0aa34d17d",
-      "title": "5 Best Zero Gap Trimmers For Men – Ultra-Close Trims in 2026",
-      "link": "https://www.fashionbeans.com/article/best-zero-gap-trimmers/",
-      "summary": "If you’re looking for an epic beard style or a fade haircut with the sharpest, slickest lines in town, you’ve got to use the right electric shaver for the job. Now, for face-taming, mane-scaping excellence, zero fade trimmers should be high on your priority list. With the ability to achieve a closer cut and slicker &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Zero Gap Trimmers For Men – Ultra-Close Trims in 2026...",
-      "score": 1,
-      "published": "2026-08-10T13:03:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4e93d9ac3e67",
-      "title": "How To Wear Pastels For Men",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-pastels-men/",
-      "summary": "Neutrals are great. They really are. Black will always be the new black, there’s no skin tone that doesn’t look good in grey, and it’s impossible to look under- (or, in fact, over-) dressed in a navy suit. However, when you consider that dog tags and square-toe shoes were once considered the height of cool, &#8230; Con",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Pastels For Men...",
-      "score": 2,
-      "published": "2026-08-10T11:00:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "gaja alternative ipo gmp today",
+      "term": "सौर ऊर्जा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tempsens instruments ipo",
+      "term": "test championship points table 2027",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "behari lal engineering share price",
+      "term": "awarapan 2 box office collection day 5",
+      "summary": "",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "term": "retirement",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kangana ranaut",
+      "term": "भारतीय वायुसेना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dhoot transmission share price",
+      "term": "பால்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shiprocket share price",
+      "term": "wtc points table",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sunshine pictures ipo",
+      "term": "आयशा खान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sirmaur floods",
+      "term": "जम्मू",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "horizon industrial parks ipo gmp",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "lalitha jewellery ipo",
+      "term": "राष्ट्रीय जनतांत्रिक गठबंधन",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
