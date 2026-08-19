@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T02:54:14.275156+00:00",
+  "generated_at": "2026-08-19T05:29:14.838727+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 183,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,19 +19,61 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bode Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-19T02:50:42+00:00",
+      "published": "2026-08-19T05:27:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6295f64106cb",
+      "title": "Shopbop Just Launched A Surprise Sale—These 17 Chic Finds Will Sell Out First",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-sale-items-august-2026",
+      "summary": "Score up to 25% off sale items.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-19T04:55:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1433873a61a9",
+      "title": "Brand Heat: Why Winter Brands Are Going All In on Summer",
+      "link": "https://www.vogue.com/article/brand-heat-why-winter-brands-are-going-all-in-on-summer",
+      "summary": "As heatwaves become the new normal, outerwear brands are realizing that expanding their seasonality may be a smart investment. So will these brands get their time in the sun?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Brand Heat: Why Winter Brands Are Going All In on Summer...",
+      "score": 3,
+      "published": "2026-08-19T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bcf8f46c48f9",
+      "title": "With Neon Rebels, Maisonette is Taking On the Tween Market",
+      "link": "https://www.vogue.com/article/with-neon-rebels-maisonette-is-taking-on-the-tween-market",
+      "summary": "Today, kidswear retailer Maisonette launches its new teen boutique Neon Rebels, in a bid to capture the tween fashion white space by catering to both kids and parents",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: With Neon Rebels, Maisonette is Taking On the Tween Market...",
+      "score": 3,
+      "published": "2026-08-19T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
       "id": "35a0fc9ea0af",
-      "title": "Zubaan kesari, matter in grey zone: Is Mundhe's notice to SRK, Ajay Devgn legal?",
+      "title": "Is Tukaram Mundhe's notice to SRK, Ajay Devgn legal? Zubaan kesari, matter in grey zone",
       "link": "https://www.indiatoday.in/india/story/maharashtra-fda-vimal-elaichi-ad-shah-rukh-khan-ajay-devgn-surrogate-advertising-pan-masala-2973059-2026-08-19?utm_source=rss",
-      "summary": "Zubaan kesari, matter in grey zone: Is Mundhe's notice to SRK, Ajay Devgn legal?",
+      "summary": "Is Tukaram Mundhe's notice to SRK, Ajay Devgn legal? Zubaan kesari, matter in grey zone",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zubaan kesari, matter in grey zone: Is Mundhe's notice to SRK, Ajay De...",
+      "angle": "Fashion Intelligence: Is Tukaram Mundhe's notice to SRK, Ajay Devgn legal? Zubaan kesari, ma...",
       "score": 1,
       "published": "2026-08-19T01:30:00+00:00",
       "discovered_via": "feed"
@@ -653,43 +695,43 @@
       "discovered_via": "feed"
     },
     {
-      "id": "074fefa3dfc9",
-      "title": "The 2026 Dogue Competition Winner is Here!",
-      "link": "https://www.vogue.com/article/dogue-2026-competition-winner",
-      "summary": "We’ve combed through thousands of submissions, and one thing is clear–whether tail wagging or subtly smizing, Vogue Dogues sure know their angles. Who would emerge the winner was less obvious.",
+      "id": "35b02bff7bd9",
+      "title": "The Bride and Groom Wore Custom Rachel Antonoff and Susan Alexandra for Their Upper East Side Wedding",
+      "link": "https://www.vogue.com/article/dog-wedding-dogue-2026",
+      "summary": "Edie Berlinger-Douglas and Tuxedo Murillo’s penthouse wedding at The Surrey hotel featured custom looks, a star wedding photographer, and a three-tiered dog-friendly cake.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 2026 Dogue Competition Winner is Here!...",
-      "score": 0,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Bride and Groom Wore Custom Rachel Antonoff and Susan Alexandra for Their Upper East Side Wedding — A Complete Style Guide",
+      "score": 1,
       "published": "2026-08-18T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "2116a89a1c55",
-      "title": "The Best Part of Riding the Subway Is a Chance Encounter With a Subway Dog",
-      "link": "https://www.vogue.com/slideshow/subway-dogs-dogue-2026",
-      "summary": "Uptown or downtown, express or local, an unexpected benefit of New York’s public transit system is coming face-to-face with a four-legged friend.",
+      "id": "bf029aece028",
+      "title": "Puppy Love! 11 Times Dogs Served as Witness for Their Parents’ Vogue Wedding",
+      "link": "https://www.vogue.com/slideshow/dogs-in-vogue-weddings-dogue-2026",
+      "summary": "Here are all the times dogs gave their paw of approval to their parents’ nuptials in Vogue.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Part of Riding the Subway Is a Chance Encounter With a Subway...",
-      "score": 0,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Puppy Love! 11 Times Dogs Served as Witness for Their Parents’ Vogue Wedding — A Complete Style Guide",
+      "score": 1,
       "published": "2026-08-18T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "ab1d993a2068",
-      "title": "Meet Samantha, the Afghan Hound Who Will Probably Out-Dress You",
-      "link": "https://www.vogue.com/slideshow/samantha-stylish-afghan-hound-dogue-2026",
-      "summary": "I’ve got to be honest with you: I cannot take my eyes off of Samantha’s hair.",
+      "id": "dfc9ebdb9aef",
+      "title": "On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest",
+      "link": "https://www.vogue.com/slideshow/worlds-ugliest-dog-contest-2026",
+      "summary": "One magical, mange-dodging day with the contestants at the Sonoma County Fair’s 50th Annual World’s Ugliest Dog Competition",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meet Samantha, the Afghan Hound Who Will Probably Out-Dress You...",
+      "angle": "Fashion Intelligence: On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest...",
       "score": 1,
       "published": "2026-08-18T13:00:00+00:00",
       "discovered_via": "feed"
@@ -719,34 +761,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Love My Dog—Does That Mean I Should Clone Him?...",
       "score": 0,
-      "published": "2026-08-18T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0af99e0d8778",
-      "title": "9 Vogue Editors on the Dog Essentials They (and Their Four-Legged Friends) Can’t Live Without",
-      "link": "https://www.vogue.com/article/vogue-editor-dog-essentials",
-      "summary": "From treats to toys to grooming essentials, Vogue editors share the dog essentials they (and their furry friends) can’t live without.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 9 Vogue Editors on the Dog Essentials They (and Their Four-Legged Frie...",
-      "score": 0,
-      "published": "2026-08-18T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dfc9ebdb9aef",
-      "title": "On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest",
-      "link": "https://www.vogue.com/slideshow/worlds-ugliest-dog-contest-2026",
-      "summary": "One magical, mange-dodging day with the contestants at the Sonoma County Fair’s 50th Annual World’s Ugliest Dog Competition",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest...",
-      "score": 1,
       "published": "2026-08-18T13:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1028,6 +1042,20 @@
       "angle": "Fashion Intelligence: Velvet Returns to the Spotlight for Pre- Fall 2026...",
       "score": 6,
       "published": "2026-08-18T09:45:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d51850d357a7",
+      "title": "6 Best Ferragamo Cologne For The Modern Man in 2026",
+      "link": "https://www.fashionbeans.com/article/best-ferragamo-colognes/",
+      "summary": "Are you suited, booted, and searching for a scent that smells as good as you look? The best Ferragamo colognes are created for confident, go-getting guys. Those who are comfortable in their skin and looking for an unforgettable fragrance. Italian designer Ferragamo is a master of the olfactory art of creating timeless ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 6 Best Ferragamo Cologne For The Modern Man in 2026...",
+      "score": 1,
+      "published": "2026-08-18T07:49:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1493,6 +1521,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ec351137bfdc",
+      "title": "8 Best YSL Colognes For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-ysl-cologne/",
+      "summary": "Following in the footsteps of Chanel, Yves Saint Laurent launched his first fragrance for women, Y, in 1964 by creating, in his own words, &#8220;a lush, heavy, and languid perfume.&#8221; Just seven years later, the designer shocked the world of haute couture, posing naked to launch Pour Homme, the first and best YSL ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 8 Best YSL Colognes For Men In 2026...",
+      "score": 3,
+      "published": "2026-08-17T09:38:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "81f21ce16854",
       "title": "23 Best Affordable Watch Brands: Cheap Budget Options 2026",
       "link": "https://www.fashionbeans.com/best-cheap-watches-men/",
@@ -1798,20 +1840,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-08-16T07:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0bf98c71bb71",
-      "title": "6 Easy and Elegant Transitional Workwear Looks to See You Through Early Autumn",
-      "link": "https://www.whowhatwear.com/fashion/office/transitional-work-capsule-wardrobe-2026",
-      "summary": "No stress.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Easy and Elegant Transitional Workwear Looks to See You Through Earl...",
-      "score": 1,
-      "published": "2026-08-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2302,20 +2330,6 @@
       "angle": "Fashion Intelligence: How To Wear Pastels For Men...",
       "score": 2,
       "published": "2026-08-10T11:00:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1d2c5e1cb16a",
-      "title": "8 Best Flip-flops for Men: Smart, Suave & Breezy in 2026",
-      "link": "https://www.fashionbeans.com/article/best-flip-flops-for-men/",
-      "summary": "When summer comes around, it’s natural to want to keep cool however you can. You put on T-shirts and shorts, wear a hat, and, yes, swap out your sneakers for sandals. But the heat is never an excuse for looking less than your best. The best flip-flops for men are a great way to look &#8230; Continue reading 8 Best Flip",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Flip-flops for Men: Smart, Suave & Breezy in 2026...",
-      "score": 1,
-      "published": "2026-08-10T10:33:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "iva jovic",
+      "term": "gaja alternative ipo gmp today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "స్టాక్",
+      "term": "tempsens instruments ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಲೋಕಾಯುಕ್ತ",
+      "term": "behari lal engineering share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "masayoshi son",
+      "term": "kangana ranaut",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఆదాయపు పన్ను",
+      "term": "dhoot transmission share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అమెజాన్ ప్రైమ్ వీడియో",
+      "term": "shiprocket share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hardik pandya",
+      "term": "sunshine pictures ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "19 august 2026",
+      "term": "sirmaur floods",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अधिग्रहण",
+      "term": "horizon industrial parks ipo gmp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "city",
+      "term": "lalitha jewellery ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
