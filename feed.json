@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T08:35:56.024255+00:00",
+  "generated_at": "2026-08-19T11:24:23.928855+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 183,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bode Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-19T08:34:18+00:00",
+      "published": "2026-08-19T11:20:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdfe2de8bab3",
+      "title": "Suddenly, the Chicest Dressers in Their 20s and 50s Are Ditching Black and White For This Divisive New-Season Shade",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/purple-colour-trend-iris-law-tracee-ellis-ross-2026",
+      "summary": "I get it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-19T10:51:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3bafa15c4e9a",
+      "title": "Fall's Around the Corner—These 7 Highly Specific It Items Will Be on Every Fashion Person Next Season",
+      "link": "https://www.whowhatwear.com/fashion/luxury/early-fall-2026-luxury-it-items",
+      "summary": "Good taste came early.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0eaa783cda24",
+      "title": "Not Jacob Elordi, Not Harry Styles—The New It Guy That Will Be on Every Best Dressed List in Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jack-innanen-street-style-2026",
+      "summary": "You heard it here first.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Jacob Elordi, Not Harry Styles—The New It Guy That Will Be on Ever...",
+      "score": 2,
+      "published": "2026-08-19T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57b5a47c41e9",
+      "title": "For Vijay, Karnataka border encounter of 3 Tamilians marks first test of statecraft",
+      "link": "https://www.indiatoday.in/india/story/chamarajanagar-forest-encounter-karnataka-tamil-nadu-poaching-investigation-2974808-2026-08-19?utm_source=rss",
+      "summary": "For Vijay, Karnataka border encounter of 3 Tamilians marks first test of statecraft",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-08-19T09:05:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,20 +107,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1160f8522203",
-      "title": "Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-ex-nihilo-perfumes",
-      "summary": "Straight from a beauty editor.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict...",
-      "score": 3,
-      "published": "2026-08-19T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "31dabad36491",
       "title": "How to Spot an It Girl In 2026—She’ll Be Wearing Her Jeans and Jackets With This Chic Accessory",
       "link": "https://www.whowhatwear.com/fashion/trends/hat-trends-2026",
@@ -89,6 +131,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Di...",
       "score": 1,
+      "published": "2026-08-19T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1160f8522203",
+      "title": "Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-ex-nihilo-perfumes",
+      "summary": "Straight from a beauty editor.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict...",
+      "score": 3,
       "published": "2026-08-19T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -146,20 +202,6 @@
       "angle": "Fashion Intelligence: With Neon Rebels, Maisonette is Taking On the Tween Market...",
       "score": 3,
       "published": "2026-08-19T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "35a0fc9ea0af",
-      "title": "Is Tukaram Mundhe's notice to SRK, Ajay Devgn legal? Zubaan kesari, matter in grey zone",
-      "link": "https://www.indiatoday.in/india/story/maharashtra-fda-vimal-elaichi-ad-shah-rukh-khan-ajay-devgn-surrogate-advertising-pan-masala-2973059-2026-08-19?utm_source=rss",
-      "summary": "Is Tukaram Mundhe's notice to SRK, Ajay Devgn legal? Zubaan kesari, matter in grey zone",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Is Tukaram Mundhe's notice to SRK, Ajay Devgn legal? Zubaan kesari, ma...",
-      "score": 1,
-      "published": "2026-08-19T01:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1143,6 +1185,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "492fe40c850b",
+      "title": "Best Men’s Hair Products: Modern Guide For 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-hair-products/",
+      "summary": "There was a time when hair care for men involved little more than a quick suds-up with some Head &#38; Shoulders, a furious towel dry and, on special occasions, a slather of Dax or Brylcreem – you know, if you were feeling fancy. Now though, with freeze-hold gels, matte clays and volumising sprays crowding our &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Best Men’s Hair Products: Modern Guide For 2026...",
+      "score": 1,
+      "published": "2026-08-18T09:39:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "48dbef95e0d8",
       "title": "24 Best Men’s Shorts – Top Tier Guide for 2026",
       "link": "https://www.fashionbeans.com/article/best-mens-shorts-guide/",
@@ -1168,6 +1224,34 @@
       "angle": "Fashion Intelligence: 26 Best Sneaker Brands For Men In 2026...",
       "score": 2,
       "published": "2026-08-18T09:12:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a72e30125e79",
+      "title": "6 Key Men’s Swimwear Trends For Spring/Summer 2026",
+      "link": "https://www.fashionbeans.com/article/mens-swimwear-trends/",
+      "summary": "Mastering fashion trends in everyday clothes can be difficult enough, but when you consider that it’s just one square foot of fabric covering your modesty, swimwear has to say more about you per inch than any other garment. To make matters worse, upgrading your trunks from duty-free afterthought to a first-class fit is",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-18T09:00:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "227926995c9e",
+      "title": "20 Best Hats for Men – Must Have’s For Any Taste in 2026",
+      "link": "https://www.fashionbeans.com/article/best-hats-for-men/",
+      "summary": "Every man has that one hat he reaches for no matter the occasion. If a certain hat came to your mind, we bet you’re guilty of practically having it glued to your head. When’s the last time you washed it, by the way? If you came across this article about the best hats for men &#8230; Continue reading 20 Best Hats for Me",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: 20 Best Hats for Men – Must Have’s For Any Taste in 2026...",
+      "score": 1,
+      "published": "2026-08-18T08:00:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1213,20 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4d84d4a1ebb9",
-      "title": "Forget What You Think: Cardigans Are No Longer Considered \"Boring\"",
-      "link": "https://www.whowhatwear.com/fashion/trends/cardigan-trends-autumn-2026",
-      "summary": "These trends prove it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Forget What You Think: Cardigans Are No Longer Considered \"Boring\"...",
-      "score": 1,
-      "published": "2026-08-18T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "424e84506807",
       "title": "It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be Relying On for the Time Being",
       "link": "https://www.whowhatwear.com/fashion/fall/transitional-capsule-wardrobe-autumn-2026",
@@ -1236,6 +1306,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be...",
+      "score": 1,
+      "published": "2026-08-18T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4d84d4a1ebb9",
+      "title": "Forget What You Think: Cardigans Are No Longer Considered \"Boring\"",
+      "link": "https://www.whowhatwear.com/fashion/trends/cardigan-trends-autumn-2026",
+      "summary": "These trends prove it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Forget What You Think: Cardigans Are No Longer Considered \"Boring\"...",
       "score": 1,
       "published": "2026-08-18T05:00:00+00:00",
       "discovered_via": "feed"
@@ -1773,20 +1857,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "47c734a9e502",
-      "title": "I'm Breaking Up With My Summer Perfumes—9 Scents I'm Wearing Instead",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/summer-to-autumn-perfumes",
-      "summary": "Scents for a seasonal shift.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-17T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5e72c839485e",
       "title": "8 Best Dolce and Gabbana Colognes and Perfume For Men 2026",
       "link": "https://www.fashionbeans.com/article/best-dolce-and-gabbana-colognes/",
@@ -1798,48 +1868,6 @@
       "angle": "Fashion Intelligence: 8 Best Dolce and Gabbana Colognes and Perfume For Men 2026...",
       "score": 1,
       "published": "2026-08-17T01:41:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "19148bde2dc8",
-      "title": "The Jacket and T-Shirt Every Cool Girl Will Wear to the Airport With Jeans This Fall Are Here",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/red-jacket-striped-tshirt-trend-dua-lipa",
-      "summary": "Dua Lipa got a head start.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-16T21:34:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f3c5c61d5220",
-      "title": "Rich-Looking and Elegant—the $80 Pant Trend Stylish People Are Wearing Now Until October",
-      "link": "https://www.whowhatwear.com/fashion/shopping/open-edit-satin-pants-nordstrom-2026",
-      "summary": "Snag a pair before they sell out.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-16T21:12:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "64c7ec2040b6",
-      "title": "I'm a Beauty Editor, But I'm Not Immune to TikTok Hacks—This Dewy Foundation Trick Is Practically Magic",
-      "link": "https://www.whowhatwear.com/beauty/makeup/beauty-editor-dewy-foundation-combo",
-      "summary": "Now, I refuse to do my makeup any other way.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Beauty Editor, But I'm Not Immune to TikTok Hacks—This Dewy Foun...",
-      "score": 1,
-      "published": "2026-08-16T21:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2823,6 +2851,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6e3d0be75df0",
+      "title": "Janmashtami Looks for Kids That Are Anything But Costume-y",
+      "link": "https://www.azafashions.com/blog/janmashtami-looks-for-kids/?utm_source=rss&utm_medium=rss&utm_campaign=janmashtami-looks-for-kids",
+      "summary": "Janmashtami dressing for little ones doesn't have to mean a full Krishna crown or a literal Radha recreation. The real magic of dressing children for this celebration lies in something&#8230; The post Janmashtami Looks for Kids That Are Anything But Costume-y appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Janmashtami Looks for Kids That Are Anything But Costume-y...",
+      "score": 1,
+      "published": "2026-08-17T09:25:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "541a3c865668",
       "title": "Janmashtami Outfits With a Little More Drama and a Lot Less Tradition",
       "link": "https://www.azafashions.com/blog/janmashtami-outfits-usa/?utm_source=rss&utm_medium=rss&utm_campaign=janmashtami-outfits-usa",
@@ -2947,70 +2989,56 @@
       "score": 1,
       "published": "2026-08-14T10:32:23+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "a7add45ddfd4",
-      "title": "The Sheer Shirt Trend Is Making Menswear More Interesting",
-      "link": "https://www.azafashions.com/blog/the-sheer-shirt-trend/?utm_source=rss&utm_medium=rss&utm_campaign=the-sheer-shirt-trend",
-      "summary": "Menswear is loosening up. Not in a chaotic, anything-goes kind of way — more like a slow exhale after years of playing it safe. The sheer shirt is at the&#8230; The post The Sheer Shirt Trend Is Making Menswear More Interesting appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-14T08:44:10+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "सौर ऊर्जा",
+      "term": "teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "test championship points table 2027",
+      "term": "ladli behna yojana",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "awarapan 2 box office collection day 5",
+      "term": "bharatiya janata party",
       "summary": "",
-      "aza_category": "Designer Spotlight"
+      "aza_category": "Occasion Dressing"
     },
     {
-      "term": "retirement",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "भारतीय वायुसेना",
+      "term": "yuhuai wu",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பால்",
+      "term": "జో రూట్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wtc points table",
+      "term": "బంద్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आयशा खान",
+      "term": "शिक्षा मंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जम्मू",
+      "term": "cbi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राष्ट्रीय जनतांत्रिक गठबंधन",
+      "term": "ಆಸ್ತಿ",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "காப்பீடு",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
