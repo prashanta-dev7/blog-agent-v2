@@ -1,13 +1,265 @@
 {
-  "generated_at": "2026-08-20T08:36:40.512414+00:00",
+  "generated_at": "2026-08-20T11:25:33.643568+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 182,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "3f3ac939cb48",
+      "title": "Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint",
+      "link": "https://in.apparelresources.com/business-news/retail/baazar-retail-crosses-250-store-mark-expands-value-fashion-footprint-2/",
+      "summary": "Baazar Retail Pvt. Ltd., the operator of Baazar Kolkata and Fashion City, has crossed 250 stores as it enters its 25th year, strengthening its presence across 13 states. The retailer now operates a network covering around 15 lakh sq. ft. of retail space. The company has expanded across West Bengal, Bihar, Odisha, Jhark",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint...",
+      "score": 1,
+      "published": "2026-08-20T11:05:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7d4bc869fad9",
+      "title": "Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint",
+      "link": "https://in.apparelresources.com/business-news/retail/baazar-retail-crosses-250-store-mark-expands-value-fashion-footprint/",
+      "summary": "Baazar Retail Pvt. Ltd., the operator of Baazar Kolkata and Fashion City, has crossed 250 stores as it enters its 25th year, strengthening its presence across 13 states. The retailer now operates a network covering around 15 lakh sq. ft. of retail space. The company has expanded across West Bengal, Bihar, Odisha, Jhark",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint...",
+      "score": 1,
+      "published": "2026-08-20T11:03:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "33df7da9cb3f",
+      "title": "The Chicest People I Know Are Already Styling Knee-Length Skirts With This Autumn Boots Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/knee-length-skirt-knee-high-boots-outfit-trend-margot-robbie-2026",
+      "summary": "Soon, we'll all be doing the same.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-20T10:58:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "de2feb6a597f",
+      "title": "Angel & Rocket Targets 100 Stores, Rs 250 Crore Revenue in India",
+      "link": "https://in.apparelresources.com/business-news/retail/angel-rocket-targets-100-stores-rs-250-crore-revenue-in-india/",
+      "summary": "British kidswear brand, Angel &#38; Rocket is targeting 100 stores and Rs 250 crore revenue in India over the next five years as SP Retail Brands expands its retail, digital and brand-building investments. The brand currently operates six stores in India and is set to open its seventh store in Chennai shortly. Jaipur h",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Angel & Rocket Targets 100 Stores, Rs 250 Crore Revenue in India...",
+      "score": 2,
+      "published": "2026-08-20T10:52:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "89f58f77d2be",
+      "title": "On the Podcast: How Mark Guiducci Is Putting His Stamp on Vanity Fair",
+      "link": "https://www.vogue.com/article/on-the-podcast-how-mark-guiducci-is-putting-his-stamp-on-the-new-vanity-fair",
+      "summary": "For this Thursday’s episode of “The Run Through,“ Chloe Malle spoke with her longtime friend (and former Vogue colleague) Mark Guiducci, the global editorial director of Vanity Fair, just days before the launch of his September cover, featuring Marc Jacobs.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: On the Podcast: How Mark Guiducci Is Putting His Stamp on Vanity Fair...",
+      "score": 1,
+      "published": "2026-08-20T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a2cae3453e3",
+      "title": "Forget Butter and Lemon, Hailey Bieber Co-Signs Fluro Yellow",
+      "link": "https://www.vogue.com/article/forget-butter-and-lemon-hailey-bieber-co-signs-fluro-yellow",
+      "summary": "Back from vacationing in Greek and sporting a glorious tan, Hailey Bieber is hopping on the neon-bright trend just like the rest of us.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Forget Butter and Lemon, Hailey Bieber Co-Signs Fluro Yellow...",
+      "score": 1,
+      "published": "2026-08-20T10:05:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "733f98f1a377",
+      "title": "30 Best Airbnbs in Paris 2026 for a Stylish Sojourn in the City of Light",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-paris",
+      "summary": "Searching for the best airbnbs in Paris? Consider this list of our favorites, from an apartment with views of the Eiffel Tower to an artist’s studio.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 30 Best Airbnbs in Paris 2026 for a Stylish Sojourn in the City of Lig...",
+      "score": 0,
+      "published": "2026-08-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "09769557d500",
+      "title": "‘Novak Djokovic: The Wolf in Winter’ Is the Best Tennis Film in Years",
+      "link": "https://www.vogue.com/article/novak-djokovic-the-wolf-in-winter",
+      "summary": "Directed by Jason Hehir—best-known for the Michael Jordan documentary “The Last Dance”—“The Wolf in Winter” gives us the most complete portrayal of the 24-time Grand Slam winner that we've yet seen.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ‘Novak Djokovic: The Wolf in Winter’ Is the Best Tennis Film in Years...",
+      "score": 0,
+      "published": "2026-08-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0e7a4c7e8bd7",
+      "title": "The Best Crossbody Bags Are Designed for Life on the Go",
+      "link": "https://www.vogue.com/slideshow/best-crossbody-bags",
+      "summary": "From investment-worthy crossbody bags from Gucci and Prada to contemporary styles from Toteme and Khaite, shop the best crossbody bags for everyday wear.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Crossbody Bags Are Designed for Life on the Go...",
+      "score": 2,
+      "published": "2026-08-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e37f41bc29f6",
+      "title": "‘Off Campus’ Season 2 Will Probably Arrive Sooner Than You Think",
+      "link": "https://www.vogue.com/article/everything-we-know-so-far-off-campus-season-2",
+      "summary": "Everything you need to know about the second outing of Prime Video’s mega hit, from the cast to the plot and (possible) release date.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f414cb1bfd80",
+      "title": "What We Know So Far About Netflix’s Florence Pugh-Led ‘East of Eden’",
+      "link": "https://www.vogue.com/article/florence-pugh-east-of-eden-netflix-everything-we-know-so-far",
+      "summary": "The Zoe Kazan-helmed, seven-episode adaptation starring Florence Pugh and Mike Faist is due to hit Netflix at some point this fall.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: What We Know So Far About Netflix’s Florence Pugh-Led ‘East of Eden’...",
+      "score": 0,
+      "published": "2026-08-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5453e0319516",
+      "title": "If Margot Robbie Is Wearing This Long-Lost It Item, We Can Probably Assume It's No Longer Dated",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/casual-jumpsuit-outfit-margot-robbie",
+      "summary": "If you're intrigued, you should be.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-20T09:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19fa7e12306e",
+      "title": "Dead Rat Found In Branded Namkeen Packet In Kanpur Dehat; Food Safety Department Issues Notice",
+      "link": "https://www.indiatoday.in/india/video/dead-rat-found-in-branded-namkeen-packet-in-kanpur-dehat-food-safety-department-issues-notice-ytvd-2975728-2026-08-20?utm_source=rss",
+      "summary": "Dead Rat Found In Branded Namkeen Packet In Kanpur Dehat; Food Safety Department Issues Notice",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dead Rat Found In Branded Namkeen Packet In Kanpur Dehat; Food Safety ...",
+      "score": 1,
+      "published": "2026-08-20T09:32:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "163492b30fb5",
+      "title": "Will the EU’s Ban on Destroying Unsold Stock Actually Work?",
+      "link": "https://www.vogue.com/article/will-the-eus-ban-on-destroying-unsold-stock-actually-work",
+      "summary": "A month in, brands are still scrambling to comply with the EU’s new ban on destroying unsold stock. Questions remain over how exactly the rules will be implemented, and whether recycling counts as destruction.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Will the EU’s Ban on Destroying Unsold Stock Actually Work?...",
+      "score": 1,
+      "published": "2026-08-20T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e99a15d41739",
+      "title": "What Fashion Can Learn From Luxury Travel About Climate Action",
+      "link": "https://www.vogue.com/article/what-fashion-can-learn-from-luxury-travel-about-climate-action",
+      "summary": "Luxury hospitality has learnt the hard way how to fund conservation, communicate honestly about climate change, and navigate unintended consequences. There’s a lot for fashion to learn.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What Fashion Can Learn From Luxury Travel About Climate Action...",
+      "score": 2,
+      "published": "2026-08-20T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "32ae44a7a241",
+      "title": "Rihanna Is Anti-Boho in the Best Way",
+      "link": "https://www.vogue.com/article/rihanna-is-anti-boho-in-the-best-way",
+      "summary": "While most will look to Chloé for romantically ruffled dresses and bohemian layers, Rihanna kept it cozy and cool in a velour tracksuit.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rihanna Is Anti-Boho in the Best Way...",
+      "score": 1,
+      "published": "2026-08-20T09:27:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8992b90f5a4b",
+      "title": "Yes, the Post-Breakup Glow-Up Is a Real Thing",
+      "link": "https://www.vogue.com/article/post-breakup-glow-up",
+      "summary": "Behind that sudden boost in attractiveness that so often appears after a relationship ends lies an explanation rooted in emotion, biology, and a deep desire to reconnect with oneself.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Yes, the Post-Breakup Glow-Up Is a Real Thing...",
+      "score": 0,
+      "published": "2026-08-20T09:18:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7407ebcb9c78",
+      "title": "In Rainy Paris, Margot Robbie Finds the Chicest Possible Solution",
+      "link": "https://www.vogue.com/article/in-rainy-paris-margot-robbie-finds-the-chicest-possible-solution",
+      "summary": "Joined by her husband as she continues filming the “Ocean’s Eleven” prequel movie, Margot Robbie kept her favorite Chanel accessory safe and dry.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In Rainy Paris, Margot Robbie Finds the Chicest Possible Solution...",
+      "score": 1,
+      "published": "2026-08-20T09:14:20+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d74721a20381",
       "title": "Not Stilettos—The Heel Style Taking Over LA, NYC, and Paris Right Now",
@@ -52,9 +304,9 @@
     },
     {
       "id": "8a026c7c80cd",
-      "title": "If French Women in Paris Are Wearing Lace this Autumn, it's Exactly Like This",
+      "title": "If French Women in Paris Are Wearing Lace this Autumn, It's Exactly Like This",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-lace-outfits-autumn-2026",
-      "summary": "Oh la la.",
+      "summary": "Oh là là",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -62,20 +314,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-08-20T06:35:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdcaf10f914b",
-      "title": "If You Want Your Dresses, Trousers and Shorts to Look French—Wear This Kate Moss-Approved Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-moss-ballet-flat-outfits",
-      "summary": "The London cool girl loves a Parisian classic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-20T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,6 +327,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Fou...",
       "score": 1,
+      "published": "2026-08-20T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdcaf10f914b",
+      "title": "If You Want Your Dresses, Trousers and Shorts to Look French—Wear This Kate Moss-Approved Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-moss-ballet-flat-outfits",
+      "summary": "The London cool girl loves a Parisian classic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-08-20T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -107,20 +359,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5bf69510c08d",
-      "title": "It’s Time for Brands to Invest in Women Who Lift",
-      "link": "https://www.vogue.com/article/its-time-for-brands-to-invest-in-women-who-lift",
-      "summary": "As GLP-1 users look to build muscle mass, and strength training appears more readily in popular culture, it could be time for luxury brands to hit the gym.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It’s Time for Brands to Invest in Women Who Lift...",
-      "score": 2,
-      "published": "2026-08-20T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "86a3ba67380b",
       "title": "The Vogue Business TikTok Trend Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
@@ -131,6 +369,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-08-20T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5bf69510c08d",
+      "title": "It’s Time for Brands to Invest in Women Who Lift",
+      "link": "https://www.vogue.com/article/its-time-for-brands-to-invest-in-women-who-lift",
+      "summary": "As GLP-1 users look to build muscle mass, and strength training appears more readily in popular culture, it could be time for luxury brands to hit the gym.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It’s Time for Brands to Invest in Women Who Lift...",
+      "score": 2,
       "published": "2026-08-20T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -220,7 +472,7 @@
     },
     {
       "id": "782ca2eb4da3",
-      "title": "Glossy Leather, Hot Reds and Psychedelic Boho: 5 Luxury Trends That Will Define Autumn 2026 Style",
+      "title": "Glossy Leather, Hot Reds and \"Psychedelic Boho\": 5 Luxury Trends That Will Define Autumn 2026 Style",
       "link": "https://www.whowhatwear.com/fashion/luxury/luxury-fashion-trends-autumn-2026",
       "summary": "Straight from the runways.",
       "source": "Who What Wear",
@@ -611,34 +863,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d0f241a35277",
-      "title": "The Fall 2026 Fashion Trends to Know and Shop Now",
-      "link": "https://www.vogue.com/article/fall-winter-2026-fashion-trends",
-      "summary": "The top four trends of the fall 2026 season—which range from modern suiting codes to 1920s Art Deco eveningwear—are designed for work and play. Shop them now.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-08-19T15:41:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3e4507d2791b",
-      "title": "Victoria Beckham Is the Sun Protection GF to David Beckham’s Tanning BF",
-      "link": "https://www.vogue.com/article/victoria-beckham-sun-protection-gf-david-beckham-tanning-bf",
-      "summary": "Protecting your skin is always in style.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Victoria Beckham Is the Sun Protection GF to David Beckham’s Tanning B...",
-      "score": 1,
-      "published": "2026-08-19T15:34:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e969a4451b9a",
       "title": "Kim Kardashian and Lewis Hamilton’s Complete Relationship Timeline",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71140976/kim-kardashian-lewis-hamilton-relationship-timeline/",
@@ -650,20 +874,6 @@
       "angle": "Fashion Intelligence: Kim Kardashian and Lewis Hamilton’s Complete Relationship Timeline...",
       "score": 0,
       "published": "2026-08-19T15:28:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1e77f35a19b",
-      "title": "These Vogue-Approved Totes Are the Best Work Bags for Women",
-      "link": "https://www.vogue.com/article/best-work-bags-for-women",
-      "summary": "Shop Vogue’s guide to the best work bags for women, from classic canvas carryalls to sleek leather totes, from L.L. Bean, Toteme, The Row, Khaite, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: These Vogue-Approved Totes Are the Best Work Bags for Women...",
-      "score": 0,
-      "published": "2026-08-19T15:19:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -723,34 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6bc10d96fc6b",
-      "title": "Estée Lauder Companies Sales Growth Accelerates to 5% in Q4",
-      "link": "https://www.vogue.com/article/estee-lauder-companies-sales-growth-accelerates-to-5-in-q4",
-      "summary": "ELC’s fiscal 2026 revenues were up 3% as the company continues on its upward trajectory.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Estée Lauder Companies Sales Growth Accelerates to 5% in Q4...",
-      "score": 0,
-      "published": "2026-08-19T14:21:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e23c9b93a45a",
-      "title": "7 Vacation Outfits to Try, Inspired by Celebrities",
-      "link": "https://www.vogue.com/article/celebrity-vacation-outfits",
-      "summary": "Shop our favorite celebrity vacation outfits that will take you from swimming in the Mediterranean to strolling the streets of Paris or Rome, all with stylish flair.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 7 Vacation Outfits to Try, Inspired by Celebrities...",
-      "score": 2,
-      "published": "2026-08-19T14:14:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "69ae74915eac",
       "title": "Helena Christensen Told Us All Her Supermodel Makeup Secrets",
       "link": "https://www.harpersbazaar.com/beauty/makeup/a73467224/helena-christensen-makeup-beauty-interview-2026/",
@@ -776,34 +958,6 @@
       "angle": "Fashion Intelligence: I'm in My 30s, But I Still Love \"Back to School\" Shopping—16 Under-$50...",
       "score": 1,
       "published": "2026-08-19T14:06:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "91fa21122b11",
-      "title": "Jean Louis Is the Famous Hollywood Costume Designer You’ve Never Heard Of—Until Now",
-      "link": "https://www.vogue.com/article/jean-louis-is-the-famous-hollywood-costume-designer-youve-never-heard-of-until-now",
-      "summary": "The life and work of the man who designed Rita Hayworth’s Gilda Dress and Marilyn Monroe’s “Happy Birthday” dress are brought to life by brothers Mauricio and Roger Padilha.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Jean Louis Is the Famous Hollywood Costume Designer You’ve Never Heard...",
-      "score": 2,
-      "published": "2026-08-19T14:05:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e376793c8ca8",
-      "title": "With ‘Unprecedented Times,’ Malavika Kannan Gives the Pandemic Novel New Bite",
-      "link": "https://www.vogue.com/article/unprecedented-times-malavika-kannan-interview",
-      "summary": "“Unprecedented Times” is out now from Henry Holt & Co.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: With ‘Unprecedented Times,’ Malavika Kannan Gives the Pandemic Novel N...",
-      "score": 0,
-      "published": "2026-08-19T14:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -874,62 +1028,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-19T13:10:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "583a0ba7b043",
-      "title": "Sonny Bridges Is the Son of a Champion",
-      "link": "https://www.vogue.com/article/mikal-bridges-dogue-2026",
-      "summary": "“He’s a good kid,” Mikal Bridges tells Vogue of his dog Sonny, who has been by his side from his college basketball days to the Knicks’ historic championship win.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sonny Bridges Is the Son of a Champion...",
-      "score": 0,
-      "published": "2026-08-19T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eb6c5fe660c4",
-      "title": "Serena Williams Already Had Two Dogs—But Then She Picked Up Christopher ‘Chip’ Rafael Nadal",
-      "link": "https://www.vogue.com/article/serena-williams-dogue-2026",
-      "summary": "“He was my first son,” Serena Williams tells Vogue of her Yorkie, Chip.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Serena Williams Already Had Two Dogs—But Then She Picked Up Christophe...",
-      "score": 0,
-      "published": "2026-08-19T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e492b305a063",
-      "title": "AGUA É by Myles Loftin: A Love Story in Paradise",
-      "link": "https://www.vogue.com/article/agua-e-by-myles-loftin-a-love-story-in-paradise",
-      "summary": "Published by Pomegranate Press, Myles Loftin’s new zine brings together portraits, fashion, and landscapes from the Dominican Republic, exploring intimacy and desire through a contemporary love story.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: AGUA É by Myles Loftin: A Love Story in Paradise...",
-      "score": 1,
-      "published": "2026-08-19T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eae936ee9b65",
-      "title": "My Fair Doggies: Julie Andrews and Emma Walton Hamilton on Their Many Canine Companions",
-      "link": "https://www.vogue.com/article/julie-andrews-emma-walton-hamilton-shy-book-release",
-      "summary": "The legendary performer and her daughter talk their new children’s book, “Shy,” and look back on a lifetime of beloved dogs.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Fair Doggies: Julie Andrews and Emma Walton Hamilton on Their Many ...",
-      "score": 0,
-      "published": "2026-08-19T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1017,6 +1115,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4c4791dd95ce",
+      "title": "5 Celebrity Hairstyles That Shouldn’t Have Worked But Did",
+      "link": "https://www.fashionbeans.com/article/celebrity-hairstyles-shouldnt-work-but-did/",
+      "summary": "Full catwalk looks, skipping check-in queues at airports, tax evasion: famous people can get away with a lot that us mere mortals can’t, and edgy haircuts are no exception. Except that you can pull off an unconventional coif with the aid of the right advice and products, and without attracting the opprobrium of the fas",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-19T10:01:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3bafa15c4e9a",
       "title": "Fall's Around the Corner—These 7 Highly Specific It Items Will Be on Every Fashion Person Next Season",
       "link": "https://www.whowhatwear.com/fashion/luxury/early-fall-2026-luxury-it-items",
@@ -1056,6 +1168,20 @@
       "angle": "Fashion Intelligence: Not Jacob Elordi, Not Harry Styles—the New It Guy Who Will Be on Every...",
       "score": 2,
       "published": "2026-08-19T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3bf0dce49c65",
+      "title": "The Biggest Men’s Hair Trends For 2026",
+      "link": "https://www.fashionbeans.com/article/mens-hair-trends/",
+      "summary": "Refreshing your look needn’t cost more than a round of drinks. Yes, you could spend the equivalent of a small car on a new wardrobe, but 45 minutes in the barber’s chair can have the same effect if you’re brave enough to say something other than “The usual.” Plus, if it’s the kind of barbershop &#8230; Continue reading",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-19T09:12:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1115,15 +1241,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1160f8522203",
-      "title": "Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-ex-nihilo-perfumes",
-      "summary": "Straight from a beauty editor.",
+      "id": "ee51312b3e41",
+      "title": "Don't Tell Your Summer Pedicures—Here are the 7 Elegant Colours to Wear on Your Toes Between Seasons",
+      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-colour-pedicure-trends-2026",
+      "summary": "Transitional trends.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-08-19T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1157,15 +1283,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ee51312b3e41",
-      "title": "Don't Tell Your Summer Pedicures—Here are the 7 Elegant Colours to Wear on Your Toes Between Seasons",
-      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-colour-pedicure-trends-2026",
-      "summary": "Transitional trends.",
+      "id": "1160f8522203",
+      "title": "Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-ex-nihilo-perfumes",
+      "summary": "Straight from a beauty editor.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict...",
       "score": 3,
       "published": "2026-08-19T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1182,6 +1308,20 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-19T04:55:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5a86b9354fd1",
+      "title": "14 Best Hair Clay For Men – Get More Definition for 2026",
+      "link": "https://www.fashionbeans.com/article/best-hair-clay/",
+      "summary": "There are plenty of hair clays for men out there, all formulated specifically for us guys. But, when it comes to choosing the best hair clay for men, what&#8217;s the ideal pick for you? If you’re trying to get the most out of your slick-back hairstyles but don’t know where to look, then don’t panic &#8230; Continue re",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 14 Best Hair Clay For Men – Get More Definition for 2026...",
+      "score": 1,
+      "published": "2026-08-19T04:00:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1210,6 +1350,20 @@
       "angle": "Fashion Intelligence: 21 Best Chains for Men 2026...",
       "score": 2,
       "published": "2026-08-19T02:00:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8acb1c84c8c7",
+      "title": "18 Types of Jackets for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/types-of-jackets-for-men/",
+      "summary": "What’s the first piece of clothing you notice on someone? Their shoes? Nah, too far down. Their shirt? Often not visible at first glance. The pants? Likely obscured by a piece of outerwear. No matter which way you spin it, your jacket is getting spotted first. The types of jackets for men span the seasons &#8230; Conti",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 18 Types of Jackets for Men In 2026...",
+      "score": 2,
+      "published": "2026-08-19T01:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1675,34 +1829,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "68ea5e1e78e4",
-      "title": "Fashion People Are Accessorising Like It’s 2006 Again—6 Trends Making a Comeback 20 Years Later",
-      "link": "https://www.whowhatwear.com/fashion/trends/y2k-accessory-trends-2026",
-      "summary": "Love them or loathe them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-18T11:01:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86e29f3d2476",
-      "title": "I'm Your Stylist, No Appointment Needed—6 Relevant Early Fall Outfits From Shopbop That Are So Chic",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-early-fall-outfits-2026",
-      "summary": "Modern. Cool. Period.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm Your Stylist, No Appointment Needed—6 Relevant Early Fall Outfits ...",
-      "score": 1,
-      "published": "2026-08-18T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "256701c8d5f1",
       "title": "25 Types of Hats For Men – Styles for Any Occasion in 2026",
       "link": "https://www.fashionbeans.com/article/mens-hat-styles/",
@@ -1885,34 +2011,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d51850d357a7",
-      "title": "6 Best Ferragamo Cologne For The Modern Man in 2026",
-      "link": "https://www.fashionbeans.com/article/best-ferragamo-colognes/",
-      "summary": "Are you suited, booted, and searching for a scent that smells as good as you look? The best Ferragamo colognes are created for confident, go-getting guys. Those who are comfortable in their skin and looking for an unforgettable fragrance. Italian designer Ferragamo is a master of the olfactory art of creating timeless ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 6 Best Ferragamo Cologne For The Modern Man in 2026...",
-      "score": 1,
-      "published": "2026-08-18T07:49:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "24eaf095c5d0",
-      "title": "7 Best Birkenstocks for Men – Different Shoe Styles For 2026",
-      "link": "https://www.fashionbeans.com/article/best-birkenstocks-for-men/",
-      "summary": "Have you noticed? Everyone’s rocking Birkenstocks right now. From fashionistas to ordinary office folk, they’ve found their way onto the feet of men of all sartorial preferences. I’m calling it the biggest comeback since Take That. But when you think about it, the iconic sandal&#8217;s resurgence should be anything but",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best Birkenstocks for Men – Different Shoe Styles For 2026...",
-      "score": 2,
-      "published": "2026-08-18T05:55:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "be7ade92aa73",
       "title": "Must Read: Lindsay Lohan to Enter Celebrity Beauty Market, U.S. Retail Sales Fell in July",
       "link": "https://fashionista.com/news/lindsay-lohan-to-enter-celebrity-beauty-market-linlo-beauty",
@@ -1924,76 +2022,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-17T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8965052c51f7",
-      "title": "Ester JV Secures Second Sports Brand Commitment",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/ester-jv-secures-second-sports-brand-commitment/",
-      "summary": "Ester Industries’ 50:50 joint venture with Loop Industries has secured a non-binding letter of intent (LOI) from a global sports and athletic brand for the supply of up to 15,000 tonnes of Loop PET fibre-grade resin annually. The resin will be supplied from the upcoming manufacturing facility of Ester Loop Infinite Tec",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ester JV Secures Second Sports Brand Commitment...",
-      "score": 1,
-      "published": "2026-08-17T13:38:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "38ffca617fe6",
-      "title": "PM MITRA Dhar Park Targets Partial Production by 2028",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/pm-mitra-dhar-park-targets-partial-production-2028/",
-      "summary": "Construction activity has begun at the PM Mega Integrated Textile Region and Apparel (PM MITRA) Park in Dhar, Madhya Pradesh, with several large textile units already working on their facilities. Other companies are expected to start construction after the monsoon season, as they complete lease formalities and take pos",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: PM MITRA Dhar Park Targets Partial Production by 2028...",
-      "score": 1,
-      "published": "2026-08-17T13:31:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a476ab23b044",
-      "title": "David Beckham’s Best Hairstyles (And How To Get The Look)",
-      "link": "https://www.fashionbeans.com/article/david-beckham-hair-styles/",
-      "summary": "David Beckham’s dress sense is something that, frankly, we spend too much time analysing, but the man&#8217;s frequently-changing hairstyles are just as worthy of our scrutiny. Yes, there have been some questionable choices along the way (shout out to the Alice bands and toe-curling cornrows) but on balance, Mr Beckham",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: David Beckham’s Best Hairstyles (And How To Get The Look)...",
-      "score": 2,
-      "published": "2026-08-17T11:40:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4015eaad3884",
-      "title": "Sculpted, Not Cinched: 2026’s Body-Engineered Silhouette Takes Over Fashion",
-      "link": "https://in.apparelresources.com/fashion-news/trends/sculpted-not-cinched-2026s-body-engineered-silhouette-takes-fashion/",
-      "summary": "Sculpted, corseted bodices are emerging as fashion&#8217;s defining silhouette of 2026, with couture houses and red carpets both pushing the torso into increasingly architectural territory. The trend moves beyond conventional waist-cinching corsetry into what is being termed body engineering, where the garment redraws ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Sculpted, Not Cinched: 2026’s Body-Engineered Silhouette Takes Over Fa...",
-      "score": 3,
-      "published": "2026-08-17T11:33:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bca3713c9068",
-      "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
-      "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
-      "summary": "A man’s hair has always been an important identifier of success; historically, it would denote class, wealth and masculinity. Now? Well, not much has changed. And despite some tweaks to length and texture, nor have the styles. What looked good on Roman emperors still has the potential to flatter a modern mug. So take a",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
-      "score": 1,
-      "published": "2026-08-17T09:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2837,6 +2865,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "49da7154c4c4",
+      "title": "The New V-Neck Trend Is All About Looking Longer and Leaner",
+      "link": "https://www.azafashions.com/blog/v-neckline-trend/?utm_source=rss&utm_medium=rss&utm_campaign=v-neckline-trend",
+      "summary": "There was a time when necklines were an afterthought. The outfit did the talking, and everything above the collarbone simply followed along. Not anymore. In 2026, the conversation has shifted&#8230; The post The New V-Neck Trend Is All About Looking Longer and Leaner appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-19T10:26:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b246d6ba04c8",
       "title": "Are Long Dresses the New Partywear Trend in New Zealand?",
       "link": "https://www.azafashions.com/blog/floor-length-party-dresses-new-zealand/?utm_source=rss&utm_medium=rss&utm_campaign=floor-length-party-dresses-new-zealand",
@@ -2933,70 +2975,56 @@
       "score": 1,
       "published": "2026-08-15T06:00:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "a0a5005700d8",
-      "title": "Inside Aza Bandra’s Meet the Designer Evening with Mrunal Khimji",
-      "link": "https://www.azafashions.com/blog/aza-bandra-meet-the-designer-mrunal-khimji/?utm_source=rss&utm_medium=rss&utm_campaign=aza-bandra-meet-the-designer-mrunal-khimji",
-      "summary": "Some fashion conversations happen on runways. Others happen over a closer look at a sleeve, a conversation about craftsmanship, fabric selection, detailing involved, or a story behind a silhouette.&#160; On&#8230; The post Inside Aza Bandra’s Meet the Designer Evening with Mrunal Khimji appeared first on Aza Editorials",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Inside Aza Bandra’s Meet the Designer Evening with Mrunal Khimji...",
-      "score": 4,
-      "published": "2026-08-14T22:53:13+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "आईसीसी विश्व टेस्ट चैम्पियनशिप",
+      "term": "ஜன நாயகன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "योजना",
+      "term": "teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vietnam",
+      "term": "राजपाल यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sajjan kumar",
+      "term": "news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "সোনা",
+      "term": "सैफ़ अली ख़ान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "veena vijayan",
+      "term": "bse sensex",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अमृत भारत एक्सप्रेस",
+      "term": "ग्रे मार्केट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "झारखण्ड लोक सेवा आयोग",
+      "term": "pak vs eng test",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ਪੰਜਾਬ",
+      "term": "வன்னி அரசு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bangalore weather",
+      "term": "சிவகாசி",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
