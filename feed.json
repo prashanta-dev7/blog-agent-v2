@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T02:53:38.595731+00:00",
+  "generated_at": "2026-08-20T05:29:21.666087+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 184,
@@ -8,6 +8,76 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d4289226aefd",
+      "title": "Blake Lively Casually Brought This $11,000 Bag to Yankee Stadium (Hint: It's Not a Birkin)",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/blake-lively-tiger-print-bag",
+      "summary": "It's the most covetable new designer bag of fall 2026.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Blake Lively Casually Brought This $11,000 Bag to Yankee Stadium (Hint...",
+      "score": 1,
+      "published": "2026-08-20T04:37:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5bf69510c08d",
+      "title": "It’s Time for Brands to Invest in Women Who Lift",
+      "link": "https://www.vogue.com/article/its-time-for-brands-to-invest-in-women-who-lift",
+      "summary": "As GLP-1 users look to build muscle mass, and strength training appears more readily in popular culture, it could be time for luxury brands to hit the gym.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It’s Time for Brands to Invest in Women Who Lift...",
+      "score": 2,
+      "published": "2026-08-20T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "86a3ba67380b",
+      "title": "The Vogue Business TikTok Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from TikTok, unpacking the latest creators and biggest trends sweeping its Gen Z user base.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-20T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db16ebdfe451",
+      "title": "Should Luxury Brands Reduce their Prices?",
+      "link": "https://www.vogue.com/article/should-luxury-brands-reduce-their-prices",
+      "summary": "Luxury price hikes alienated the aspirational shopper. After Gucci lowered the price on its Mercato bag, it begs the question, should other brands follow suit?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Should Luxury Brands Reduce their Prices?...",
+      "score": 2,
+      "published": "2026-08-20T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a634e20faf9",
+      "title": "On Her New Album ‘Blue Island,’ Ravyn Lenae Proves She Can Do It All",
+      "link": "https://www.vogue.com/article/ravyn-lenae-blue-island-interview",
+      "summary": "The genre-defying musician is back with a standout third record that serves a riposte to those who have previously tried to pigeonhole her as a Black artist.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On Her New Album ‘Blue Island,’ Ravyn Lenae Proves She Can Do It All...",
+      "score": 0,
+      "published": "2026-08-20T04:25:38+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f910dd49cfbe",
       "title": "This Wedding-Guest Dress Trend Will Define Fall 2026",
@@ -121,6 +191,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "68b2dac47e03",
+      "title": "I Became a Single Mother During the War in Ukraine—and I Don’t Regret a Thing",
+      "link": "https://www.vogue.com/article/single-mother-during-the-war-in-ukraine",
+      "summary": "In war, mothers in particular rise to the occasion. Ukrainian war veteran Hanna Vasyk describes her life as a single mother in Kyiv.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: I Became a Single Mother During the War in Ukraine—and I Don’t Regret ...",
+      "score": 1,
+      "published": "2026-08-19T22:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "37bee44b74b6",
       "title": "The Places, People, and Pieces That Defined the Style Set's Copenhagen Fashion Week",
       "link": "https://www.whowhatwear.com/fashion/copenhagen-fashion-week-diary-spring-summer-2027",
@@ -132,6 +216,20 @@
       "angle": "Fashion Intelligence: The Places, People, and Pieces That Defined the Style Set's Copenhagen...",
       "score": 2,
       "published": "2026-08-19T22:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d636ecc3eba7",
+      "title": "The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week",
+      "link": "https://www.fashionbeans.com/article/salomon-sneakers-fashion-week-2026/",
+      "summary": "Salomon Stopped Trying To Be Fashion And that’s exactly why fashion won’t stop wearing it. During Paris Men’s Fashion Week, new creative director Heikki Salonen said something disarmingly simple about Salomon: “Salomon is not a fashion house.” So the brand is doubling down on what it does best. Serious mountain footwea",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week...",
+      "score": 3,
+      "published": "2026-08-19T21:46:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -164,14 +262,14 @@
     },
     {
       "id": "7f8055a4d5cd",
-      "title": "Adam Baidawi and Alex Marxsen’s New York Wedding Was a Love Letter to Their New Home City",
+      "title": "Adam Baidawi and Alex Marxsen’s New York City Hall Wedding Was a Love Letter to Their New Home",
       "link": "https://www.vogue.com/slideshow/adam-baidawi-and-alex-marxsen-wedding",
       "summary": "GQ’s global editorial director Adam Baidawi married the Lululemon marketing executive Alex Marxsen in a whirlwind New York City Hall wedding that included pizza slices, shooting hoops, martinis at Bemelmans Bar, and just two guests.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Adam Baidawi and Alex Marxsen’s New York Wedding Was a Love Letter to Their New Home City — A Complete Style Guide",
+      "angle": "Bridal Edit: Adam Baidawi and Alex Marxsen’s New York City Hall Wedding Was a Love Letter to Their New Home — A Complete Style Guide",
       "score": 1,
       "published": "2026-08-19T20:30:00+00:00",
       "discovered_via": "feed"
@@ -300,20 +398,6 @@
       "angle": "Fashion Intelligence: How Henry Smith Became Fashion’s Most Underrated Bag Collector...",
       "score": 2,
       "published": "2026-08-19T18:19:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "867c9cc1563d",
-      "title": "Cyberabad police arrest man in Rs 1 crore WhatsApp saree shop fraud",
-      "link": "https://www.indiatoday.in/india/story/lucknow-man-held-rs-1-crore-whatsapp-saree-outlet-cyber-fraud-ptag-2975092-2026-08-19?utm_source=rss",
-      "summary": "Cyberabad police arrest man in Rs 1 crore WhatsApp saree shop fraud",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Cyberabad police arrest man in Rs 1 crore WhatsApp saree shop fraud...",
-      "score": 1,
-      "published": "2026-08-19T18:07:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,62 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eae936ee9b65",
-      "title": "My Fair Doggies: Julie Andrews and Emma Walton Hamilton on Their Many Canine Companions",
-      "link": "https://www.vogue.com/article/julie-andrews-emma-walton-hamilton-shy-book-release",
-      "summary": "The legendary performer and her daughter talk their new children’s book, “Shy,” and look back on a lifetime of beloved dogs.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Fair Doggies: Julie Andrews and Emma Walton Hamilton on Their Many ...",
-      "score": 0,
-      "published": "2026-08-19T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0f3d51d4181e",
-      "title": "Nepo Doggies Chicken and Slim Are Tory Burch’s Favorite Models",
-      "link": "https://www.vogue.com/article/tory-burch-dogue-2026",
-      "summary": "Few fur families are as picturesque as Tory Burch and her two golden-hued miniature poodles, especially when spotted frolicking across the pristinely manicured lawn of her sprawling Hamptons pile.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Nepo Doggies Chicken and Slim Are Tory Burch’s Favorite Models...",
-      "score": 1,
-      "published": "2026-08-19T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "46056ea2350a",
-      "title": "Charles Melton Takes His Husky, Neya, Everywhere—From Hikes to Hollywood Sets",
-      "link": "https://www.vogue.com/article/charles-melton-dogue-2026",
-      "summary": "What does heartthrob Charles Melton love most about his adopted Siberian Husky? “She’s so expressive and soulful,” he says. “She’s my best friend.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Charles Melton Takes His Husky, Neya, Everywhere—From Hikes to Hollywo...",
-      "score": 0,
-      "published": "2026-08-19T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aee2a0802695",
-      "title": "Blue Lagoon Skin Science’s Lip Renewal Mask Is Here",
-      "link": "https://www.vogue.com/article/blue-lagoon-skin-science-lip-mask",
-      "summary": "Designed to address the visible signs of aging in the lip and lip contour area, the Lip Renewal Masks draws upon the healing properties of the Blue Lagoon to moisturize, soften, and plump the lips.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Blue Lagoon Skin Science’s Lip Renewal Mask Is Here...",
-      "score": 1,
-      "published": "2026-08-19T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e492b305a063",
       "title": "AGUA É by Myles Loftin: A Love Story in Paradise",
       "link": "https://www.vogue.com/article/agua-e-by-myles-loftin-a-love-story-in-paradise",
@@ -807,16 +835,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "77ab847e9c17",
-      "title": "Kristen Bell on Saunas, Smart Beauty Routines, and Leaning Into Feelings",
-      "link": "https://www.vogue.com/article/kristen-bell-beauty-interview-loreal",
-      "summary": "The “Nobody Wants This” and “Frozen” actor talks to Vogue about life and her new partnership with L’Oréal Paris.",
+      "id": "eae936ee9b65",
+      "title": "My Fair Doggies: Julie Andrews and Emma Walton Hamilton on Their Many Canine Companions",
+      "link": "https://www.vogue.com/article/julie-andrews-emma-walton-hamilton-shy-book-release",
+      "summary": "The legendary performer and her daughter talk their new children’s book, “Shy,” and look back on a lifetime of beloved dogs.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Kristen Bell on Saunas, Smart Beauty Routines, and Leaning Into Feelin...",
-      "score": 1,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Fair Doggies: Julie Andrews and Emma Walton Hamilton on Their Many ...",
+      "score": 0,
       "published": "2026-08-19T13:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -860,20 +888,6 @@
       "angle": "Fashion Intelligence: Maisonette Is Giving Tweens Their Own Shopping Destination...",
       "score": 1,
       "published": "2026-08-19T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "56ffe309df10",
-      "title": "The 8 Best Breakfasts for Gut Health",
-      "link": "https://www.vogue.com/article/best-breakfasts-for-gut-health",
-      "summary": "What if the key to a healthy gut isn’t about what you eat but also when you eat? Here, experts break down the best breakfasts to support your gut.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 8 Best Breakfasts for Gut Health...",
-      "score": 0,
-      "published": "2026-08-19T12:07:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,6 +947,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ccefb26f614d",
+      "title": "7 Best Mules For Men: Stylish, Comfy Footwear in 2026",
+      "link": "https://www.fashionbeans.com/article/best-mules-for-men/",
+      "summary": "You hate tying conventional sneakers, and loafers are too stuffy to deal with on occasion. So what’s the alternative? Well, that’s where mules come in. They’re the upscale alternative to kicks and a polished downgrade of dress shoes. They’re versatile slippers that come in various styles and builds. Depending on how th",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: 7 Best Mules For Men: Stylish, Comfy Footwear in 2026...",
+      "score": 4,
+      "published": "2026-08-19T08:06:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "2ef11243ef5d",
       "title": "Everyone in Fashion Is Swapping Their Go-To Jeans for This Cooler Alternative",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-loose-denim-shorts-outfits",
@@ -975,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "31dabad36491",
-      "title": "How to Spot an It Girl In 2026—She’ll Be Wearing Her Jeans and Jackets With This Chic Accessory",
-      "link": "https://www.whowhatwear.com/fashion/trends/hat-trends-2026",
-      "summary": "Chic from head to toe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-19T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "40fee43b5802",
       "title": "I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Dimension This Autumn",
       "link": "https://www.whowhatwear.com/beauty/hair/brunette-autumn-hair-trends-2026",
@@ -999,6 +1013,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Di...",
       "score": 1,
+      "published": "2026-08-19T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "31dabad36491",
+      "title": "How to Spot an It Girl In 2026—She’ll Be Wearing Her Jeans and Jackets With This Chic Accessory",
+      "link": "https://www.whowhatwear.com/fashion/trends/hat-trends-2026",
+      "summary": "Chic from head to toe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-08-19T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1675,6 +1703,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a3ba7980eb71",
+      "title": "The Best Shirt and Tie Combinations – Color Combos Guide",
+      "link": "https://www.fashionbeans.com/article/mens-shirt-tie-combinations-guide/",
+      "summary": "The paradox of choice (also known as choice overload) is the phenomenon by which having too many options exhausts us, makes us unhappy, and generally leads us to make terrible decisions (if any decision at all). Nowhere is this more evident in the male wardrobe than when it comes to shirt and tie style combinations. &#",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Shirt and Tie Combinations – Color Combos Guide...",
+      "score": 1,
+      "published": "2026-08-18T08:56:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "227926995c9e",
       "title": "20 Best Hats for Men – Must Have’s For Any Taste in 2026",
       "link": "https://www.fashionbeans.com/article/best-hats-for-men/",
@@ -1810,20 +1852,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar...",
-      "score": 1,
-      "published": "2026-08-17T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ecff3bfc657",
-      "title": "I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Dimension This Fall",
-      "link": "https://www.whowhatwear.com/beauty/hair/brunette-fall-hair-trends-2026",
-      "summary": "Plus, how to preserve your highest-quality color all season long.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Always Thought My Brown Hair Looked Flat—5 Ways I'd Add Chocolate Di...",
       "score": 1,
       "published": "2026-08-17T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1994,34 +2022,6 @@
       "angle": "Fashion Intelligence: 8 Best Dolce and Gabbana Colognes and Perfume For Men 2026...",
       "score": 1,
       "published": "2026-08-17T01:41:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3b8995322710",
-      "title": "7 Shoes Like Hey Dude – Similar Alternatives For Men 2026",
-      "link": "https://www.fashionbeans.com/article/shoes-like-hey-dude/",
-      "summary": "Whether you’re looking for something more affordable, unique, or just an alternative to those old high school canvas slip ons, there are a lot of shoes like Hey Dude out there. The Italian brand is synonymous with casual slip-on loafer-style shoes made for comfort and functionality, but they aren’t the only option for ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Shoes Like Hey Dude – Similar Alternatives For Men 2026...",
-      "score": 2,
-      "published": "2026-08-16T11:16:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66c4234276e1",
-      "title": "Smart Casual Dress Code For Men: Attire and Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/mens-smart-casual-dress-guide/",
-      "summary": "Trying to find the true meaning of the phrase smart casual can quickly turn into a nightmare. The Oxford Dictionary defines it as “neat, conventional, yet relatively informal in style, especially as worn to conform to a particular dress code”. But these days it&#8217;s quite common for smart casual to be the dress code",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-16T10:02:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "aryna sabalenka",
+      "term": "khalifa",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अंतरिक्ष",
+      "term": "swiggy share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तुषार मेहता",
+      "term": "vodafone idea share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vijay deverakonda",
+      "term": "mcx share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ब्याज दर",
+      "term": "ongc share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "orlando city vs chicago",
+      "term": "milky mist share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "యూరియా",
+      "term": "hdfc bank share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ബാങ്ക്",
+      "term": "gaja alternative ipo gmp today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "colorado vs lafc",
+      "term": "nick kyrgios",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "20 august 2026",
+      "term": "bse share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
