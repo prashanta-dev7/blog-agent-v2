@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-08-20T05:29:21.666087+00:00",
+  "generated_at": "2026-08-20T08:36:40.512414+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 184,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d74721a20381",
+      "title": "Not Stilettos—The Heel Style Taking Over LA, NYC, and Paris Right Now",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/skinny-wedge-sandals",
+      "summary": "Very chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Stilettos—The Heel Style Taking Over LA, NYC, and Paris Right Now...",
+      "score": 1,
+      "published": "2026-08-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "016e2315be9d",
+      "title": "Plaid For Fall Isn't Groundbreaking, But These 30 Cool Plaid Pieces Are",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-fall-clothing-items",
+      "summary": "It girls wear this print all season long.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Plaid For Fall Isn't Groundbreaking, But These 30 Cool Plaid Pieces Ar...",
+      "score": 2,
+      "published": "2026-08-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "75d88f794ae2",
+      "title": "The Lovely Mayhem of Madelyn Cline",
+      "link": "https://www.whowhatwear.com/beauty/makeup/madelyn-cline-night-out-beauty-staples",
+      "summary": "As the final season of Outer Banks hits our screens, the Pogue Princess talks on-the-go makeup staples, probiotics, and a silly night out with the cast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Lovely Mayhem of Madelyn Cline...",
+      "score": 1,
+      "published": "2026-08-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8a026c7c80cd",
+      "title": "If French Women in Paris Are Wearing Lace this Autumn, it's Exactly Like This",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-lace-outfits-autumn-2026",
+      "summary": "Oh la la.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-20T06:35:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdcaf10f914b",
+      "title": "If You Want Your Dresses, Trousers and Shorts to Look French—Wear This Kate Moss-Approved Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-moss-ballet-flat-outfits",
+      "summary": "The London cool girl loves a Parisian classic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-20T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "37d4b8494988",
+      "title": "I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Foundations I Actually Use",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-foundation-for-oily-skin",
+      "summary": "My favourite formulas.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Fou...",
+      "score": 1,
+      "published": "2026-08-20T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d4289226aefd",
       "title": "Blake Lively Casually Brought This $11,000 Bag to Yankee Stadium (Hint: It's Not a Birkin)",
@@ -793,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eb6c5fe660c4",
-      "title": "Serena Williams Already Had Two Dogs—But Then She Picked Up Christopher ‘Chip’ Rafael Nadal",
-      "link": "https://www.vogue.com/article/serena-williams-dogue-2026",
-      "summary": "“He was my first son,” Serena Williams tells Vogue of her Yorkie, Chip.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Serena Williams Already Had Two Dogs—But Then She Picked Up Christophe...",
-      "score": 0,
-      "published": "2026-08-19T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "583a0ba7b043",
       "title": "Sonny Bridges Is the Son of a Champion",
       "link": "https://www.vogue.com/article/mikal-bridges-dogue-2026",
@@ -816,6 +886,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sonny Bridges Is the Son of a Champion...",
+      "score": 0,
+      "published": "2026-08-19T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eb6c5fe660c4",
+      "title": "Serena Williams Already Had Two Dogs—But Then She Picked Up Christopher ‘Chip’ Rafael Nadal",
+      "link": "https://www.vogue.com/article/serena-williams-dogue-2026",
+      "summary": "“He was my first son,” Serena Williams tells Vogue of her Yorkie, Chip.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Serena Williams Already Had Two Dogs—But Then She Picked Up Christophe...",
       "score": 0,
       "published": "2026-08-19T13:00:00+00:00",
       "discovered_via": "feed"
@@ -919,6 +1003,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3de73d5d466c",
+      "title": "Football Casuals: How To Wear Terrace Fashion",
+      "link": "https://www.fashionbeans.com/article/terrace-fashion-guide/",
+      "summary": "Ordinarily, getting kitted out head to toe in your most expensive clothing might be something you’d reserve for a date, a wedding or a black-tie event. However, if you were a devotee of terrace fashion, a matchday trip to the pub would be the only excuse you’d need to get yourself suited and booted. Of course, &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Football Casuals: How To Wear Terrace Fashion...",
+      "score": 3,
+      "published": "2026-08-19T10:32:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3bafa15c4e9a",
       "title": "Fall's Around the Corner—These 7 Highly Specific It Items Will Be on Every Fashion Person Next Season",
       "link": "https://www.whowhatwear.com/fashion/luxury/early-fall-2026-luxury-it-items",
@@ -930,6 +1028,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "78160d5fc2f2",
+      "title": "Brands Jacob Elordi Actually Wears in 2025 (And How to Copy His Looks)",
+      "link": "https://www.fashionbeans.com/article/jacob-elordi-brands-style-2025/",
+      "summary": "Jacob Elordi has become men’s fashion’s favourite reference point almost by accident. After Priscilla, Saltburn, Euphoria and a front-row Bottega Veneta ambassadorship, he’s stepped into a rare space — the modern leading man whose off-duty outfits inspire as much interest as his on-screen roles. What makes his style so",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Brands Jacob Elordi Actually Wears in 2025 (And How to Copy His Looks)...",
+      "score": 5,
+      "published": "2026-08-19T09:58:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -989,15 +1101,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ee51312b3e41",
-      "title": "Don't Tell Your Summer Pedicures—Here are the 7 Elegant Colours to Wear on Your Toes Between Seasons",
-      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-colour-pedicure-trends-2026",
-      "summary": "Transitional trends.",
+      "id": "f8a80ed62216",
+      "title": "The Best Sneaker Brands You’ve Never Heard Of",
+      "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
+      "summary": "Wherever you are right now, take a quick look around at people’s footwear. What brands are they wearing? Chances are, the results of your visual sneaker survey will look a little something like this: Adidas, Nike, Converse, New Balance, Nike, maybe a bit of Reebok if you’re lucky, Adidas, Nike, Nike. No matter how clas",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
+      "score": 2,
+      "published": "2026-08-19T06:45:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1160f8522203",
+      "title": "Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-ex-nihilo-perfumes",
+      "summary": "Straight from a beauty editor.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict...",
       "score": 3,
       "published": "2026-08-19T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1031,15 +1157,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1160f8522203",
-      "title": "Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-ex-nihilo-perfumes",
-      "summary": "Straight from a beauty editor.",
+      "id": "ee51312b3e41",
+      "title": "Don't Tell Your Summer Pedicures—Here are the 7 Elegant Colours to Wear on Your Toes Between Seasons",
+      "link": "https://www.whowhatwear.com/beauty/nails/summer-autumn-transition-colour-pedicure-trends-2026",
+      "summary": "Transitional trends.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Hailey Bieber Loves This Luxury French Perfume Brand—Here's My Verdict...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-08-19T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1056,6 +1182,34 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-19T04:55:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "48672dd4d3c9",
+      "title": "13 Types of Shirts Every Man Should Own 2026",
+      "link": "https://www.fashionbeans.com/article/types-of-shirt-men/",
+      "summary": "With all of its different variations, the men’s shirt is without a doubt the most versatile article of dress there is. If you have the right styles, getting ready in the morning can be as easy as throwing one on and looking fresh. But with so many endless options of shirt brands out there, which &#8230; Continue readin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 13 Types of Shirts Every Man Should Own 2026...",
+      "score": 3,
+      "published": "2026-08-19T04:00:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bb8df82861fc",
+      "title": "21 Best Chains for Men 2026",
+      "link": "https://www.fashionbeans.com/article/best-chain-necklaces-men/",
+      "summary": "Unless you raided your dear mother’s jewellery box when you were younger, traveled around South East Asia on your gap year like Leonardo DiCaprio in The Beach, or explored the best chains for men, chances are you&#8217;ve never considered adorning your neck with such an accessory. But with an ever-increasing roll call ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 21 Best Chains for Men 2026...",
+      "score": 2,
+      "published": "2026-08-19T02:00:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1745,20 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a75be7b963a0",
-      "title": "Hailey Bieber Has Convinced Me to Wear Brown Lipstick Again—These Are the Shades I’d Actually Recommend",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-brown-lipsticks",
-      "summary": "Move over, pink.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hailey Bieber Has Convinced Me to Wear Brown Lipstick Again—These Are ...",
-      "score": 1,
-      "published": "2026-08-18T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "24eaf095c5d0",
       "title": "7 Best Birkenstocks for Men – Different Shoe Styles For 2026",
       "link": "https://www.fashionbeans.com/article/best-birkenstocks-for-men/",
@@ -1770,90 +1910,6 @@
       "angle": "Fashion Intelligence: 7 Best Birkenstocks for Men – Different Shoe Styles For 2026...",
       "score": 2,
       "published": "2026-08-18T05:55:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "649a13eae801",
-      "title": "H&M Just Launched the Chicest Pre-Autumn Collection—5 Elegant Trends Already Moving Fast",
-      "link": "https://www.whowhatwear.com/fashion/affordable/hm-pre-autumn-trends-2026",
-      "summary": "Let the transitional season begin.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 4,
-      "published": "2026-08-18T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "424e84506807",
-      "title": "It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be Relying On for the Time Being",
-      "link": "https://www.whowhatwear.com/fashion/fall/transitional-capsule-wardrobe-autumn-2026",
-      "summary": "You'll rely on them in autumn, too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Still Too Hot for My Autumn Outfits—7 TransitionalStaples I'll Be...",
-      "score": 1,
-      "published": "2026-08-18T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4d84d4a1ebb9",
-      "title": "Forget What You Think: Cardigans Are No Longer Considered \"Boring\"",
-      "link": "https://www.whowhatwear.com/fashion/trends/cardigan-trends-autumn-2026",
-      "summary": "These trends prove it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Forget What You Think: Cardigans Are No Longer Considered \"Boring\"...",
-      "score": 1,
-      "published": "2026-08-18T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8eb9085392dc",
-      "title": "Here's a Preview of What Everyone Is Going to Wear With Summer's Biggest Skirt Trend for Fall",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/v-neck-sweater-knee-length-skirt-outfit-jennifer-garner",
-      "summary": "I know you're a fashion person if you wear this combination.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-17T21:05:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "541576b13b7c",
-      "title": "How to Spot an It Girl in 2026: This Bag Color and This Pretty Heel Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-bag-ballet-heel-trends-kaia-gerber",
-      "summary": "Kaia Gerber is as It girl as it gets.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-17T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "30f56eece4df",
-      "title": "I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-aritzia-new-arrivals-august-2026",
-      "summary": "Fall wardrobe staples you'll wear on repeat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Won't Gatekeep—Put These 14 Pretty Aritzia Arrivals on Your Radar...",
-      "score": 1,
-      "published": "2026-08-17T20:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1938,90 +1994,6 @@
       "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
       "score": 1,
       "published": "2026-08-17T09:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec351137bfdc",
-      "title": "8 Best YSL Colognes For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-ysl-cologne/",
-      "summary": "Following in the footsteps of Chanel, Yves Saint Laurent launched his first fragrance for women, Y, in 1964 by creating, in his own words, &#8220;a lush, heavy, and languid perfume.&#8221; Just seven years later, the designer shocked the world of haute couture, posing naked to launch Pour Homme, the first and best YSL ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 8 Best YSL Colognes For Men In 2026...",
-      "score": 3,
-      "published": "2026-08-17T09:38:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "81f21ce16854",
-      "title": "23 Best Affordable Watch Brands: Cheap Budget Options 2026",
-      "link": "https://www.fashionbeans.com/best-cheap-watches-men/",
-      "summary": "Stauer Watch Reviews: Are They Any Good? It used to be a case of “you get what you pay for” when it came to affordable watch brands, both in terms of quality and kudos. Dropping a few thousand not only meant you&#8217;d get decent mechanics but also boardroom brownie points for sporting a reputable name &#8230; Continu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Best Affordable Watch Brands: Cheap Budget Options 2026...",
-      "score": 1,
-      "published": "2026-08-17T09:30:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3ea33ff5eb1",
-      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
-      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
-      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
-      "score": 2,
-      "published": "2026-08-17T09:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c9cf9e0da3b",
-      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
-      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
-      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
-      "score": 1,
-      "published": "2026-08-17T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9cea432fe226",
-      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
-      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
-      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
-      "score": 2,
-      "published": "2026-08-17T06:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5e72c839485e",
-      "title": "8 Best Dolce and Gabbana Colognes and Perfume For Men 2026",
-      "link": "https://www.fashionbeans.com/article/best-dolce-and-gabbana-colognes/",
-      "summary": "The best Dolce and Gabbana cologne is bright, sexy, and always in style. Much like their clothing, each of their scents is fresh and masculine with just the right amount of restraint—a balance that’s harder to strike than you think. While you might not be able to hop on a plane to Italy on a &#8230; Continue reading 8 ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Dolce and Gabbana Colognes and Perfume For Men 2026...",
-      "score": 1,
-      "published": "2026-08-17T01:41:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2865,6 +2837,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b246d6ba04c8",
+      "title": "Are Long Dresses the New Partywear Trend in New Zealand?",
+      "link": "https://www.azafashions.com/blog/floor-length-party-dresses-new-zealand/?utm_source=rss&utm_medium=rss&utm_campaign=floor-length-party-dresses-new-zealand",
+      "summary": "Forget the mini. New Zealand's nightlife has quietly rewritten the rules, and maxi dress&#160;is the new fluent. From Auckland's rooftop bars to Wellington's basement clubs, the dress that owns the&#8230; The post Are Long Dresses the New Partywear Trend in New Zealand? appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-19T06:08:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "40d1e05a8e8d",
       "title": "9 Trending Flats That Will Make You Forget About Heels",
       "link": "https://www.azafashions.com/blog/trending-flats-to-wear/?utm_source=rss&utm_medium=rss&utm_campaign=trending-flats-to-wear",
@@ -2961,70 +2947,56 @@
       "score": 4,
       "published": "2026-08-14T22:53:13+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "0c9603bad36e",
-      "title": "Your Next Festive Look Might Not Need a Dupatta",
-      "link": "https://www.azafashions.com/blog/festive-looks-without-dupatta/?utm_source=rss&utm_medium=rss&utm_campaign=festive-looks-without-dupatta",
-      "summary": "There's a quiet shift happening in festive dressing. At weddings, pujas, and Diwali gatherings, more and more women are showing up in stunning festive looks without a dupatta in sight&#8230; The post Your Next Festive Look Might Not Need a Dupatta appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 5,
-      "published": "2026-08-14T17:19:04+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "khalifa",
+      "term": "आईसीसी विश्व टेस्ट चैम्पियनशिप",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "swiggy share price",
+      "term": "योजना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vodafone idea share price",
+      "term": "vietnam",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mcx share price",
+      "term": "sajjan kumar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ongc share price",
+      "term": "সোনা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "milky mist share price",
+      "term": "veena vijayan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hdfc bank share price",
+      "term": "अमृत भारत एक्सप्रेस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gaja alternative ipo gmp today",
+      "term": "झारखण्ड लोक सेवा आयोग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nick kyrgios",
+      "term": "ਪੰਜਾਬ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bse share price",
+      "term": "bangalore weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
