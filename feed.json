@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T02:59:13.217696+00:00",
+  "generated_at": "2026-08-21T05:31:27.784440+00:00",
   "owned_count": 10,
   "competitor_count": 19,
-  "industry_count": 181,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,21 +19,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Alexander Wang Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-21T02:58:19+00:00",
+      "published": "2026-08-21T05:29:34+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "534d25db1e47",
-      "title": "Govt Allows Duty-Free Sugar Imports & Imposes Stock Limits As Festive Prices Surge",
-      "link": "https://www.indiatoday.in/india/video/govt-allows-duty-free-sugar-imports-imposes-stock-limits-as-festive-prices-surge-ytvd-2976265-2026-08-21?utm_source=rss",
-      "summary": "Govt Allows Duty-Free Sugar Imports & Imposes Stock Limits As Festive Prices Surge",
+      "id": "4314cd26431a",
+      "title": "Beauty Girls Are Skipping Salon Appointments Thanks to These Root Touch-Up Products",
+      "link": "https://www.whowhatwear.com/beauty/hair/best-root-touch-ups",
+      "summary": "Seamless results for as little as $7.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Girls Are Skipping Salon Appointments Thanks to These Root Touc...",
+      "score": 1,
+      "published": "2026-08-21T05:11:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "76fadbc36d2f",
+      "title": "The Business of Katseye",
+      "link": "https://www.vogue.com/article/the-business-of-katseye",
+      "summary": "As the world’s first multi-ethnic, English-language group modeled on the K-pop framework, Katseye has broken significant industry barriers. Their continued high-profile activities indicate their ability to adapt despite recent controversy. But can their influence be sustained?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Business of Katseye...",
+      "score": 2,
+      "published": "2026-08-21T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "abc82f60b2da",
+      "title": "BJP Slams Congress over Sajjan Kumar Remarks, Deepender Hooda Calls Former MP a 'Role Model'",
+      "link": "https://www.indiatoday.in/india/video/bjp-slams-congress-over-sajjan-kumar-remarks-deepender-hooda-calls-former-mp-a-role-model-ytvd-2976299-2026-08-21?utm_source=rss",
+      "summary": "BJP Slams Congress over Sajjan Kumar Remarks, Deepender Hooda Calls Former MP a 'Role Model'",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: BJP Slams Congress over Sajjan Kumar Remarks, Deepender Hooda Calls Fo...",
       "score": 1,
-      "published": "2026-08-21T02:32:54+00:00",
+      "published": "2026-08-21T03:52:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -569,20 +597,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8bd3101be9aa",
-      "title": "Zaydn Raises US $681K Seed Funding to Scale Sneaker Business",
-      "link": "https://in.apparelresources.com/business-news/retail/zaydn-raises-us-681k-seed-funding-scale-sneaker-business-2/",
-      "summary": "Homegrown sneaker brand Zaydn is gearing up for its next phase of growth after raising $681K in a seed funding round led by Inflection Point Ventures (IPV), with participation from BeyondSeed and private angel investors. The company plans to deploy the capital towards increasing inventory and production capacity, stren",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zaydn Raises US $681K Seed Funding to Scale Sneaker Business...",
-      "score": 1,
-      "published": "2026-08-20T13:46:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7426c4eba4f8",
       "title": "Zaydn Raises US $681K Seed Funding to Scale Sneaker Business",
       "link": "https://in.apparelresources.com/business-news/retail/zaydn-raises-us-681k-seed-funding-scale-sneaker-business/",
@@ -678,34 +692,6 @@
       "angle": "Fashion Intelligence: The 9 Major Benefits of Walking After Dinner...",
       "score": 0,
       "published": "2026-08-20T11:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f3ac939cb48",
-      "title": "Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint",
-      "link": "https://in.apparelresources.com/business-news/retail/baazar-retail-crosses-250-store-mark-expands-value-fashion-footprint-2/",
-      "summary": "Baazar Retail Pvt. Ltd., the operator of Baazar Kolkata and Fashion City, has crossed 250 stores as it enters its 25th year, strengthening its presence across 13 states. The retailer now operates a network covering around 15 lakh sq. ft. of retail space. The company has expanded across West Bengal, Bihar, Odisha, Jhark",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint...",
-      "score": 1,
-      "published": "2026-08-20T11:05:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7d4bc869fad9",
-      "title": "Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint",
-      "link": "https://in.apparelresources.com/business-news/retail/baazar-retail-crosses-250-store-mark-expands-value-fashion-footprint/",
-      "summary": "Baazar Retail Pvt. Ltd., the operator of Baazar Kolkata and Fashion City, has crossed 250 stores as it enters its 25th year, strengthening its presence across 13 states. The retailer now operates a network covering around 15 lakh sq. ft. of retail space. The company has expanded across West Bengal, Bihar, Odisha, Jhark",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint...",
-      "score": 1,
-      "published": "2026-08-20T11:03:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -919,20 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "75d88f794ae2",
-      "title": "The Lovely Mayhem of Madelyn Cline",
-      "link": "https://www.whowhatwear.com/beauty/makeup/madelyn-cline-night-out-beauty-staples",
-      "summary": "As the final season of Outer Banks hits our screens, the Pogue Princess talks on-the-go makeup staples, probiotics, and a silly night out with the cast.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Lovely Mayhem of Madelyn Cline...",
-      "score": 1,
-      "published": "2026-08-20T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "016e2315be9d",
       "title": "Plaid for Fall Isn't Groundbreaking, But These 30 Cool Pieces Are",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-fall-clothing-items",
@@ -956,6 +928,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Not Stilettos—the Heel Style Taking Over L.A., NYC, and Paris Right No...",
+      "score": 1,
+      "published": "2026-08-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "75d88f794ae2",
+      "title": "The Lovely Mayhem of Madelyn Cline",
+      "link": "https://www.whowhatwear.com/beauty/makeup/madelyn-cline-night-out-beauty-staples",
+      "summary": "As the final season of Outer Banks hits our screens, the Pogue Princess talks on-the-go makeup staples, probiotics, and a silly night out with the cast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Lovely Mayhem of Madelyn Cline...",
       "score": 1,
       "published": "2026-08-20T08:00:00+00:00",
       "discovered_via": "feed"
@@ -1140,20 +1126,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-08-20T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ff7a4dd50d06",
-      "title": "Your Mealtimes Might Be Giving You Metabolic Jet Lag",
-      "link": "https://www.vogue.com/article/travel-jetlag-gut-health",
-      "summary": "You mealtimes can affect metabolism, sleep, and blood sugar. Experts explain how to avoid metabolic jet lag with a consistent eating schedule.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Your Mealtimes Might Be Giving You Metabolic Jet Lag...",
-      "score": 0,
-      "published": "2026-08-19T22:18:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1927,6 +1899,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "041b9bec4813",
+      "title": "TechnoSport Expands Manufacturing Capacity in Tamil Nadu",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/technosport-expands-manufacturing-capacity-tamil-nadu/",
+      "summary": "TechnoSport, a Bengaluru-based activewear company, has announced an investment of Rs 130 crore (US $13.59 million) to expand its existing manufacturing facility in Erode, Tamil Nadu. The company signed a Memorandum of Understanding (MoU) with the Tamil Nadu government at the Vettri Tamil Nadu Investment Conclave 2026. ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: TechnoSport Expands Manufacturing Capacity in Tamil Nadu...",
+      "score": 1,
+      "published": "2026-08-18T11:22:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f6abcd6729ad",
       "title": "Dior Makeup Finds Its Lucky Charm for Fall 2026",
       "link": "https://www.fashiongonerogue.com/story/dior-makeup-fall-2026/",
@@ -1955,6 +1941,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "50308ef5fad1",
+      "title": "Tailored Cuts Regain Ground as Oversize Loses Momentum",
+      "link": "https://in.apparelresources.com/fashion-news/trends/tailored-cuts-regain-ground-oversize-loses-momentum/",
+      "summary": "Global fashion is showing a shift toward body-skimming cuts after nearly a decade of oversized dressing. Runways and social platforms are increasingly featuring pieces that follow the body&#8217;s line rather than obscure it, marking a correction after an extended run for XXL silhouettes. The shift is visible across ca",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Tailored Cuts Regain Ground as Oversize Loses Momentum...",
+      "score": 4,
+      "published": "2026-08-18T10:22:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "90cbfbbdf8e4",
       "title": "The Complete Guide To Mod Fashion",
       "link": "https://www.fashionbeans.com/article/mod-fashion-guide/",
@@ -1980,6 +1980,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-08-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "afaac6556c99",
+      "title": "Velvet Returns to the Spotlight for Pre- Fall 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/velvet-returns-spotlight-pre-fall-2026/",
+      "summary": "Velvet Returns as Fall 2026&#8217;s Defining Fabric, With Indian Labels Leading the Charge Velvet is emerging as one of the season&#8217;s most consistent trends, moving beyond its usual festive-wear tag to reposition itself as a modern, all-season fabric for fall and prefall 2026. Fashion coverage entering the new sea",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Velvet Returns to the Spotlight for Pre- Fall 2026...",
+      "score": 6,
+      "published": "2026-08-18T09:45:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "స్మార్ట్ టీవీ",
+      "term": "aquarius horoscope today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पगार",
+      "term": "khalifa movie prithviraj",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tamil nadu",
+      "term": "viktor gyökeres",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सर्जियो गोर",
+      "term": "superstar rajinikanth",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "वृश्चिक राशि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "friday",
+      "term": "अंगणवाडी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "समाचार खबरें",
+      "term": "खाद्य तेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iphone 18 pro max price in india",
+      "term": "delivery",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "varalakshmi",
+      "term": "చంద్రమోహన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wings vs fever",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "21 august",
+      "term": "india vix today",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
