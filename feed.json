@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T05:31:27.784440+00:00",
+  "generated_at": "2026-08-21T08:39:10.233537+00:00",
   "owned_count": 10,
-  "competitor_count": 19,
+  "competitor_count": 18,
   "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
@@ -19,7 +19,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Alexander Wang Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-21T05:29:34+00:00",
+      "published": "2026-08-21T08:37:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "07fad812c098",
+      "title": "This Viral Tote Is Suddenly Fashion’s Most-Wanted Handbag—and It’s Surprisingly Affordable",
+      "link": "https://www.whowhatwear.com/fashion/shopping/alex-mill-tote-bag",
+      "summary": "Gwyneth, Tracee and Julia agree.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Viral Tote Is Suddenly Fashion’s Most-Wanted Handbag—and It’s Sur...",
+      "score": 1,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db3d95b514fd",
+      "title": "Not Wedges, Not Pumps—This Is the New-Season Heels Trend Fashion People in Paris Are All Wearing",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cut-out-heels-mini-dress-hat-outfit-margot-robbie-2026",
+      "summary": "Sorry, slingbacks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f66cd1bea51",
+      "title": "I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Designer Bags",
+      "link": "https://www.whowhatwear.com/fashion/luxury/man-bags-designer",
+      "summary": "Sorry, luxury watches.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Des...",
+      "score": 2,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2c6def26e1f",
+      "title": "Stylish Women Have Quietly Started Wearing Their Jeans This Specific Way",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-cuffed-jeans-outfit-ideas-2026",
+      "summary": "See the proof inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "74fa74b7a5ac",
+      "title": "The Fall 2026 Pieces Fashion Editors Are Buying Before Everyone Else",
+      "link": "https://www.whowhatwear.com/fashion/shopping/editor-favorite-fall-fashion-2026",
+      "summary": "Ahead of the curve.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Fall 2026 Pieces Fashion Editors Are Buying Before Everyone Else...",
+      "score": 1,
+      "published": "2026-08-21T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8f7ec3a9bd5c",
+      "title": "Trainers Are An Autumn Capsule Staple—6 Styles Everyone With Taste Will Be Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shoes/autumn-trainer-trends-2026",
+      "summary": "Best foot forward.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-21T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "20bc52e0b3b8",
+      "title": "Autumn's Chicest Blouses Have Already Arrived—These 9 Will Sell Out Before September",
+      "link": "https://www.whowhatwear.com/fashion/tops/best-autumn-blouses-2026",
+      "summary": "From boho embroidery to pared-back minimalism, these are the most elegant blouses for autumn 2026.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Autumn's Chicest Blouses Have Already Arrived—These 9 Will Sell Out Be...",
+      "score": 1,
+      "published": "2026-08-21T05:55:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -48,20 +146,6 @@
       "angle": "Fashion Intelligence: The Business of Katseye...",
       "score": 2,
       "published": "2026-08-21T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "abc82f60b2da",
-      "title": "BJP Slams Congress over Sajjan Kumar Remarks, Deepender Hooda Calls Former MP a 'Role Model'",
-      "link": "https://www.indiatoday.in/india/video/bjp-slams-congress-over-sajjan-kumar-remarks-deepender-hooda-calls-former-mp-a-role-model-ytvd-2976299-2026-08-21?utm_source=rss",
-      "summary": "BJP Slams Congress over Sajjan Kumar Remarks, Deepender Hooda Calls Former MP a 'Role Model'",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: BJP Slams Congress over Sajjan Kumar Remarks, Deepender Hooda Calls Fo...",
-      "score": 1,
-      "published": "2026-08-21T03:52:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -541,20 +625,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "80325e0ddc3e",
-      "title": "I Had to Do a Double Take When I Saw These 40 Rich-Looking New Arrivals at Zara",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-zara-fashion",
-      "summary": "Step into the new season in style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Had to Do a Double Take When I Saw These 40 Rich-Looking New Arrival...",
-      "score": 2,
-      "published": "2026-08-20T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e87b96a5fe11",
       "title": "I'm Looking Ahead—Per Celebrity Hairstylists, Whisper Fringe Is Going to Be Major Come Fall",
       "link": "https://www.whowhatwear.com/beauty/hair/whisper-fringe-fall-hair-trend",
@@ -564,6 +634,20 @@
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-20T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "80325e0ddc3e",
+      "title": "I Had to Do a Double Take When I Saw These 40 Rich-Looking New Arrivals at Zara",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-zara-fashion",
+      "summary": "Step into the new season in style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Had to Do a Double Take When I Saw These 40 Rich-Looking New Arrival...",
       "score": 2,
       "published": "2026-08-20T14:00:00+00:00",
       "discovered_via": "feed"
@@ -751,20 +835,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "733f98f1a377",
-      "title": "30 Best Airbnbs in Paris 2026 for a Stylish Sojourn in the City of Light",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-paris",
-      "summary": "Searching for the best airbnbs in Paris? Consider this list of our favorites, from an apartment with views of the Eiffel Tower to an artist’s studio.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 30 Best Airbnbs in Paris 2026 for a Stylish Sojourn in the City of Lig...",
-      "score": 0,
-      "published": "2026-08-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0e7a4c7e8bd7",
       "title": "The Best Crossbody Bags Are Designed for Life on the Go",
       "link": "https://www.vogue.com/slideshow/best-crossbody-bags",
@@ -793,15 +863,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f414cb1bfd80",
-      "title": "What We Know So Far About Netflix’s Florence Pugh-Led ‘East of Eden’",
-      "link": "https://www.vogue.com/article/florence-pugh-east-of-eden-netflix-everything-we-know-so-far",
-      "summary": "The Zoe Kazan-helmed, seven-episode adaptation starring Florence Pugh and Mike Faist is due to hit Netflix at some point this fall.",
+      "id": "733f98f1a377",
+      "title": "30 Best Airbnbs in Paris 2026 for a Stylish Sojourn in the City of Light",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-paris",
+      "summary": "Searching for the best airbnbs in Paris? Consider this list of our favorites, from an apartment with views of the Eiffel Tower to an artist’s studio.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: What We Know So Far About Netflix’s Florence Pugh-Led ‘East of Eden’...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 30 Best Airbnbs in Paris 2026 for a Stylish Sojourn in the City of Lig...",
       "score": 0,
       "published": "2026-08-20T10:00:00+00:00",
       "discovered_via": "feed"
@@ -817,6 +887,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-08-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f414cb1bfd80",
+      "title": "What We Know So Far About Netflix’s Florence Pugh-Led ‘East of Eden’",
+      "link": "https://www.vogue.com/article/florence-pugh-east-of-eden-netflix-everything-we-know-so-far",
+      "summary": "The Zoe Kazan-helmed, seven-episode adaptation starring Florence Pugh and Mike Faist is due to hit Netflix at some point this fall.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: What We Know So Far About Netflix’s Florence Pugh-Led ‘East of Eden’...",
+      "score": 0,
       "published": "2026-08-20T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,6 +989,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c05242e6cfff",
+      "title": "How A Man Should Dress In His 30s: Fashion and Styles 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-dress-well-in-your-30s/",
+      "summary": "Your twenties are about discovering who you are, or working out who you want to be. But in your thirties, you can very quickly rack up more separate identities than a millennial &#8216;slashie&#8217;. Career-man-slash-husband-slash-father. Somehow you have to blend them all into one coherent wardrobe while at the same ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How A Man Should Dress In His 30s: Fashion and Styles 2026...",
+      "score": 3,
+      "published": "2026-08-20T09:00:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "75d88f794ae2",
+      "title": "The Lovely Mayhem of Madelyn Cline",
+      "link": "https://www.whowhatwear.com/beauty/makeup/madelyn-cline-night-out-beauty-staples",
+      "summary": "As the final season of Outer Banks hits our screens, the Pogue Princess talks on-the-go makeup staples, probiotics, and a silly night out with the cast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Lovely Mayhem of Madelyn Cline...",
+      "score": 1,
+      "published": "2026-08-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "016e2315be9d",
       "title": "Plaid for Fall Isn't Groundbreaking, But These 30 Cool Pieces Are",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-fall-clothing-items",
@@ -933,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "75d88f794ae2",
-      "title": "The Lovely Mayhem of Madelyn Cline",
-      "link": "https://www.whowhatwear.com/beauty/makeup/madelyn-cline-night-out-beauty-staples",
-      "summary": "As the final season of Outer Banks hits our screens, the Pogue Princess talks on-the-go makeup staples, probiotics, and a silly night out with the cast.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Lovely Mayhem of Madelyn Cline...",
-      "score": 1,
-      "published": "2026-08-20T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8a026c7c80cd",
       "title": "If French Women in Paris Are Wearing Lace this Autumn, It'll Be Exactly Like This",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-lace-outfits-autumn-2026",
@@ -961,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "37d4b8494988",
-      "title": "I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Foundations I Actually Use",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-foundation-for-oily-skin",
-      "summary": "My favourite formulas.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Fou...",
-      "score": 1,
-      "published": "2026-08-20T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fdcaf10f914b",
       "title": "If You Want Your Dresses, Trousers and Shorts to Look French—Wear This Kate Moss-Approved Shoe Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-moss-ballet-flat-outfits",
@@ -985,6 +1069,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-08-20T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "37d4b8494988",
+      "title": "I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Foundations I Actually Use",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-foundation-for-oily-skin",
+      "summary": "My favourite formulas.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Fou...",
+      "score": 1,
       "published": "2026-08-20T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1126,6 +1224,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-08-20T02:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "36bd3e1dc9ee",
+      "title": "10 Best Shoes To Wear Without Socks – Go Sockless in 2026",
+      "link": "https://www.fashionbeans.com/article/best-shoes-to-wear-without-socks/",
+      "summary": "Wearing shoes with no socks is the kind of sartorial move that splits opinion. Especially amongst the older generation. I once flashed my ankles at a spring wedding and had to listen to my aunts and uncles insist I had “forgotten something”. But I hadn’t; never heard of a no-show shock, grandpa? Anyhow, I’m here &#8230",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: 10 Best Shoes To Wear Without Socks – Go Sockless in 2026...",
+      "score": 3,
+      "published": "2026-08-20T01:19:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1423,20 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "584a928da38d",
-      "title": "I'm in My 30s, But I Still Love \"Back to School\" Shopping—16 Under-$50 Beauty Products I'd Buy for the Ultimate Fall Reset",
-      "link": "https://www.whowhatwear.com/beauty/walmart-fall-beauty-event-2026",
-      "summary": "An (affordable) upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm in My 30s, But I Still Love \"Back to School\" Shopping—16 Under-$50...",
-      "score": 1,
-      "published": "2026-08-19T14:06:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "07a209a3818e",
       "title": "Virginskin: A Derm Skin-Care Brand Blending 'Nature and Science'",
       "link": "https://fashionista.com/2026/08/virginskin-skin-care-brand",
@@ -1476,20 +1574,6 @@
       "angle": "Fashion Intelligence: A Voyager’s Guide to Good Taste...",
       "score": 1,
       "published": "2026-08-19T13:52:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b0e193787a07",
-      "title": "Hold the Jeans—Dua Just Wore the Trouser Trend Every Cool Girl Has in Their Rotation",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bloomer-trouser-trend-dua-lipa-2026",
-      "summary": "I'm inspired.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-19T13:40:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1577,20 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fdfe2de8bab3",
-      "title": "Suddenly, the Chicest Dressers in Their 20s and 50s Are Ditching Black and White For This Divisive New-Season Shade",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/purple-colour-trend-iris-law-tracee-ellis-ross-2026",
-      "summary": "I get it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-19T10:51:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3de73d5d466c",
       "title": "Football Casuals: How To Wear Terrace Fashion",
       "link": "https://www.fashionbeans.com/article/terrace-fashion-guide/",
@@ -1619,20 +1689,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3bafa15c4e9a",
-      "title": "Fall's Around the Corner—These 7 Highly Specific It Items Will Be on Every Fashion Person Next Season",
-      "link": "https://www.whowhatwear.com/fashion/luxury/early-fall-2026-luxury-it-items",
-      "summary": "Good taste came early.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-19T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "78160d5fc2f2",
       "title": "Brands Jacob Elordi Actually Wears in 2025 (And How to Copy His Looks)",
       "link": "https://www.fashionbeans.com/article/jacob-elordi-brands-style-2025/",
@@ -1644,20 +1700,6 @@
       "angle": "Fashion Intelligence: Brands Jacob Elordi Actually Wears in 2025 (And How to Copy His Looks)...",
       "score": 5,
       "published": "2026-08-19T09:58:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0eaa783cda24",
-      "title": "Not Jacob Elordi, Not Harry Styles—the New It Guy Who Will Be on Every Best Dressed List in Fall 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jack-innanen-street-style-2026",
-      "summary": "You heard it here first.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Jacob Elordi, Not Harry Styles—the New It Guy Who Will Be on Every...",
-      "score": 2,
-      "published": "2026-08-19T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1686,20 +1728,6 @@
       "angle": "Fashion Intelligence: 7 Best Mules For Men: Stylish, Comfy Footwear in 2026...",
       "score": 4,
       "published": "2026-08-19T08:06:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2ef11243ef5d",
-      "title": "Everyone in Fashion Is Swapping Their Go-To Jeans for This Cooler Alternative",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/long-loose-denim-shorts-outfits",
-      "summary": "We are too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Everyone in Fashion Is Swapping Their Go-To Jeans for This Cooler Alte...",
-      "score": 1,
-      "published": "2026-08-19T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2064,34 +2092,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-08-18T09:00:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ded578d37678",
-      "title": "How To Wear Streetwear Like A Grown-Up",
-      "link": "https://www.fashionbeans.com/article/mens-wear-grown-up-streetwear/",
-      "summary": "Streetwear is a strange and complex beast. On the one hand, it&#8217;s disposable, obnoxious, and often unflattering. On the other, Supreme – the skate brand that James Jebbia launched – is now a billion-dollar behemoth. Though born 50 years ago in Californian surf culture, streetwear outfits didn&#8217;t truly blow up",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: How To Wear Streetwear Like A Grown-Up...",
-      "score": 4,
-      "published": "2026-08-18T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3ba7980eb71",
-      "title": "The Best Shirt and Tie Combinations – Color Combos Guide",
-      "link": "https://www.fashionbeans.com/article/mens-shirt-tie-combinations-guide/",
-      "summary": "The paradox of choice (also known as choice overload) is the phenomenon by which having too many options exhausts us, makes us unhappy, and generally leads us to make terrible decisions (if any decision at all). Nowhere is this more evident in the male wardrobe than when it comes to shirt and tie style combinations. &#",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Shirt and Tie Combinations – Color Combos Guide...",
-      "score": 1,
-      "published": "2026-08-18T08:56:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2809,20 +2809,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "daac22f17dda",
-      "title": "White Anarkali Dress Styling Guide: 9 Looks for Every Skin Tone and Occasion",
-      "link": "https://www.indianclothstore.com/blog/white-anarkali-dress-styling-guide-skin-tone-occasion",
-      "summary": "A white anarkali dress is one of the most versatile pieces in Indian ethnic wear — but most women either avoid it out of uncertainty or style it the same way every time. White works beautifully across skin tones when the fabric, embellishment, and accessories are chosen correctly. Indian Cloth Store has put together th",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 6,
-      "published": "2026-06-22T06:49:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b3027c9c63fa",
       "title": "Sonam Kapoor’s Pichwai-Inspired Anarkali Is Festive Dressing at Its Finest",
       "link": "https://www.azafashions.com/blog/sonam-kapoor-pichwai-inspired-anarkali/?utm_source=rss&utm_medium=rss&utm_campaign=sonam-kapoor-pichwai-inspired-anarkali",
@@ -2965,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "aquarius horoscope today",
+      "term": "भुवनेश्वर कुमार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "khalifa movie prithviraj",
+      "term": "देवेन्द्र नाथ महतो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "viktor gyökeres",
+      "term": "bulgaria vs czech republic",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "superstar rajinikanth",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "वृश्चिक राशि",
+      "term": "নিট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अंगणवाडी",
+      "term": "പാലാ നഗരസഭ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "खाद्य तेल",
+      "term": "క్రమశిక్షణ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "delivery",
+      "term": "badminton world championship",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "చంద్రమోహన్",
+      "term": "किसान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india vix today",
+      "term": "सोने",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "పులి",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
