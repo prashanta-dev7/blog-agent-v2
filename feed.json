@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-08-21T08:39:10.233537+00:00",
+  "generated_at": "2026-08-21T11:24:22.679322+00:00",
   "owned_count": 10,
-  "competitor_count": 18,
-  "industry_count": 182,
+  "competitor_count": 20,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "0ac26edc1473",
+      "title": "Gisele Bundchen is Effortlessly Chic in Marc O’Polo Fall 2026",
+      "link": "https://www.fashiongonerogue.com/story/gisele-bundchen-marc-opolo-fall-2026/",
+      "summary": "Gisele Bundchen fronts Marc O&#8217;Polo&#8217;s fall-winter 2026 campaign. She returns to the label with the same easy cool that&#8217;s marked ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Gisele Bundchen is Effortlessly Chic in Marc O’Polo Fall 2026...",
+      "score": 1,
+      "published": "2026-08-21T11:23:14+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b46167468609",
       "title": "Alexander Wang Fall 2026 Ready-to-Wear",
@@ -19,7 +33,189 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Alexander Wang Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-21T08:37:09+00:00",
+      "published": "2026-08-21T11:19:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d404ee42d722",
+      "title": "Showdown Intensifies Over Vande Mataram Bill As Film Personalities And Politicians Clash",
+      "link": "https://www.indiatoday.in/india/video/showdown-intensifies-over-vande-mataram-bill-as-film-personalities-and-politicians-clash-ytvd-2976682-2026-08-21?utm_source=rss",
+      "summary": "Showdown Intensifies Over Vande Mataram Bill As Film Personalities And Politicians Clash",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Showdown Intensifies Over Vande Mataram Bill As Film Personalities And...",
+      "score": 1,
+      "published": "2026-08-21T11:03:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df16756da6fc",
+      "title": "Dark Romance Dominates Fall 2026 Runways, Set to Trickle Into Indian Retail",
+      "link": "https://in.apparelresources.com/fashion-news/trends/dark-romance-dominates-fall-2026-runways-set-trickle-indian-retail/",
+      "summary": "Fashion&#8217;s Fall/Winter 2026 season has crystallised around a single dominant mood: dark romance. Described by buyers and editors as a mash-up of feminine drama and masculine tailoring, the trend pairs lace, satin and velvet against starched shirting and structured silhouettes, finished in a largely monochrome, got",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Dark Romance Dominates Fall 2026 Runways, Set to Trickle Into Indian R...",
+      "score": 4,
+      "published": "2026-08-21T10:45:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e12eca3939c",
+      "title": "Instead of T-Shirts and Tanks, This Jumper Trend Makes Stove-Pipe Jeans Look Chicest",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/off-the-shoulder-jumper-stove-pipe-jeans-outfit-trend-jessica-alba-2026",
+      "summary": "An early-autumn staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-21T10:41:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "730d28a29fb1",
+      "title": "Jacob Elordi Doesn’t Mind Being Mogged by His Co-Star, Rak the Dog",
+      "link": "https://www.vogue.com/article/jacob-elordi-rak-the-dog-the-dog-stars-premiere-london",
+      "summary": "Oh, to be a Dogue, posing alongside Jacob Elordi—the co-stars appeared together on the red carpet for the world premiere of Ridley Scott’s “The Dog Stars.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Jacob Elordi Doesn’t Mind Being Mogged by His Co-Star, Rak the Dog...",
+      "score": 0,
+      "published": "2026-08-21T10:40:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "511f2ad04087",
+      "title": "Hold the Sneakerinas—This Classic Trainer Trend Makes Leggings Look Far Chicer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-leggings-white-chunky-trainers-outfit-jennifer-lopez-2026",
+      "summary": "It's true.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-21T10:31:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c2e92f29a03b",
+      "title": "I, Too, Would Like to Vacation With the Lipas",
+      "link": "https://www.vogue.com/article/dua-lipa-family-birthday-vacation-ibiza-formentera",
+      "summary": "Dua Lipa’s 31st birthday celebrations have all ready started, recruiting her siblings Rina and Gjin for a day on a yacht off the shores of Formentera.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: I, Too, Would Like to Vacation With the Lipas...",
+      "score": 0,
+      "published": "2026-08-21T10:20:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "81646b963d7b",
+      "title": "Trench Coats Get an Overhaul for A/W 26",
+      "link": "https://in.apparelresources.com/fashion-news/trends/trench-coats-get-an-overhaul-for-a-w-26/",
+      "summary": "The trench coat, fashion&#8217;s most dependable staple, is being pulled apart and reassembled for autumn/winter 2026. Rather than the familiar double-breasted cut and waist belt, this season&#8217;s versions arrive in glossy leather, cape silhouettes, contrast collars, cropped hems and exaggerated proportions. Burberr",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Trench Coats Get an Overhaul for A/W 26...",
+      "score": 2,
+      "published": "2026-08-21T10:20:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "daa9511a90dd",
+      "title": "Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen",
+      "link": "https://www.vogue.com/article/aperitivo-hour-cat-chen",
+      "summary": "Dulan Wine founder Cat Chen takes us behind the scenes of her Pasadena apéro.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen...",
+      "score": 0,
+      "published": "2026-08-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "title": "The Best Zara New Arrivals to Shop for Summer 2026",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Summer essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Summer 2026...",
+      "score": 0,
+      "published": "2026-08-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4b0bbadd8ba",
+      "title": "70 Glorious Kim Cattrall Looks, In Honor of Her 70th Birthday",
+      "link": "https://www.vogue.com/slideshow/kim-cattrall-best-red-carpet-looks",
+      "summary": "Move over, Samantha Jones: Kim Cattrall’s red carpet history proves that the actor has a style all her own.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 70 Glorious Kim Cattrall Looks, In Honor of Her 70th Birthday...",
+      "score": 1,
+      "published": "2026-08-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "761b4925cd14",
+      "title": "The GLP-1 Pill Era Is Forcing Beauty to Change Again",
+      "link": "https://www.vogue.com/article/the-glp-1-pill-era-is-forcing-beauty-to-change-again",
+      "summary": "GLP-1s have already upended the beauty market, creating a whole new host of skin and haircare concerns. Now, as GLP-1 pills reduce the barrier to entry, there’s more beauty innovation abound.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The GLP-1 Pill Era Is Forcing Beauty to Change Again...",
+      "score": 1,
+      "published": "2026-08-21T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-21T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ece1c143fa08",
+      "title": "200 lodged in body, 3 in eye: Rahul Gandhi shows pellets from victim's body",
+      "link": "https://www.indiatoday.in/india/story/rahul-gandhi-dharna-congress-mp-displays-pellets-from-cjp-protest-victims-body-2976555-2026-08-21?utm_source=rss",
+      "summary": "200 lodged in body, 3 in eye: Rahul Gandhi shows pellets from victim's body",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 200 lodged in body, 3 in eye: Rahul Gandhi shows pellets from victim's...",
+      "score": 1,
+      "published": "2026-08-21T08:59:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,20 +247,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3f66cd1bea51",
-      "title": "I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Designer Bags",
-      "link": "https://www.whowhatwear.com/fashion/luxury/man-bags-designer",
-      "summary": "Sorry, luxury watches.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Des...",
-      "score": 2,
-      "published": "2026-08-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d2c6def26e1f",
       "title": "Stylish Women Have Quietly Started Wearing Their Jeans This Specific Way",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-cuffed-jeans-outfit-ideas-2026",
@@ -75,6 +257,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f66cd1bea51",
+      "title": "I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Designer Bags",
+      "link": "https://www.whowhatwear.com/fashion/luxury/man-bags-designer",
+      "summary": "Sorry, luxury watches.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Des...",
+      "score": 2,
       "published": "2026-08-21T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -625,20 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e87b96a5fe11",
-      "title": "I'm Looking Ahead—Per Celebrity Hairstylists, Whisper Fringe Is Going to Be Major Come Fall",
-      "link": "https://www.whowhatwear.com/beauty/hair/whisper-fringe-fall-hair-trend",
-      "summary": "Fashion people are already giving us a taste.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-20T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "80325e0ddc3e",
       "title": "I Had to Do a Double Take When I Saw These 40 Rich-Looking New Arrivals at Zara",
       "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-zara-fashion",
@@ -648,6 +830,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I Had to Do a Double Take When I Saw These 40 Rich-Looking New Arrival...",
+      "score": 2,
+      "published": "2026-08-20T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e87b96a5fe11",
+      "title": "I'm Looking Ahead—Per Celebrity Hairstylists, Whisper Fringe Is Going to Be Major Come Fall",
+      "link": "https://www.whowhatwear.com/beauty/hair/whisper-fringe-fall-hair-trend",
+      "summary": "Fashion people are already giving us a taste.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-20T14:00:00+00:00",
       "discovered_via": "feed"
@@ -706,6 +902,20 @@
       "angle": "Fashion Intelligence: Sandy Liang Realized She Didn’t Have an Archive, So She Made One With ...",
       "score": 0,
       "published": "2026-08-20T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1858e2c75644",
+      "title": "Men’s Handbags Are Having a Moment — The 8 Best to Buy in 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-handbags-shoulder-bags-2026/",
+      "summary": "It&#8217;s worth addressing the word upfront. &#8216;Handbag&#8217; still makes some men uncomfortable, despite the fact that the shoulder bag — in every meaningful sense — is exactly that. A structured leather carry with a short strap, worn over the shoulder or by hand. The word has always been the issue, not the obje",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Men’s Handbags Are Having a Moment — The 8 Best to Buy in 2026...",
+      "score": 1,
+      "published": "2026-08-20T12:59:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -779,6 +989,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "40b46ce43140",
+      "title": "5 Best Kilian Perfumes: Tops from an A-List Perfumer in 2026",
+      "link": "https://www.fashionbeans.com/article/best-kilian-perfumes/",
+      "summary": "If you’re interested in Kilian Men’s colognes, then I know that I can skip a lot of the basics with you. After all, Kilian’s killer eaux de parfum aren’t for the uninitiated. You need to know your stuff to even be considering picking up a fragrance from the incredibly deluxe brand. Since one of the &#8230; Continue rea",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Best Kilian Perfumes: Tops from an A-List Perfumer in 2026...",
+      "score": 1,
+      "published": "2026-08-20T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "33df7da9cb3f",
       "title": "The Chicest People I Know Are Already Styling Knee-Length Skirts With This Autumn Boots Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/knee-length-skirt-knee-high-boots-outfit-trend-margot-robbie-2026",
@@ -849,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "09769557d500",
-      "title": "‘Novak Djokovic: The Wolf in Winter’ Is the Best Tennis Film in Years",
-      "link": "https://www.vogue.com/article/novak-djokovic-the-wolf-in-winter",
-      "summary": "Directed by Jason Hehir—best-known for the Michael Jordan documentary “The Last Dance”—“The Wolf in Winter” gives us the most complete portrayal of the 24-time Grand Slam winner that we've yet seen.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ‘Novak Djokovic: The Wolf in Winter’ Is the Best Tennis Film in Years...",
-      "score": 0,
-      "published": "2026-08-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "733f98f1a377",
       "title": "30 Best Airbnbs in Paris 2026 for a Stylish Sojourn in the City of Light",
       "link": "https://www.vogue.com/article/best-airbnbs-in-paris",
@@ -872,6 +1082,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 30 Best Airbnbs in Paris 2026 for a Stylish Sojourn in the City of Lig...",
+      "score": 0,
+      "published": "2026-08-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "09769557d500",
+      "title": "‘Novak Djokovic: The Wolf in Winter’ Is the Best Tennis Film in Years",
+      "link": "https://www.vogue.com/article/novak-djokovic-the-wolf-in-winter",
+      "summary": "Directed by Jason Hehir—best-known for the Michael Jordan documentary “The Last Dance”—“The Wolf in Winter” gives us the most complete portrayal of the 24-time Grand Slam winner that we've yet seen.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ‘Novak Djokovic: The Wolf in Winter’ Is the Best Tennis Film in Years...",
       "score": 0,
       "published": "2026-08-20T10:00:00+00:00",
       "discovered_via": "feed"
@@ -947,48 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "32ae44a7a241",
-      "title": "Rihanna Is Anti-Boho in the Best Way",
-      "link": "https://www.vogue.com/article/rihanna-is-anti-boho-in-the-best-way",
-      "summary": "While most will look to Chloé for romantically ruffled dresses and bohemian layers, Rihanna kept it cozy and cool in a velour tracksuit.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rihanna Is Anti-Boho in the Best Way...",
-      "score": 1,
-      "published": "2026-08-20T09:27:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8992b90f5a4b",
-      "title": "Yes, the Post-Breakup Glow-Up Is a Real Thing",
-      "link": "https://www.vogue.com/article/post-breakup-glow-up",
-      "summary": "Behind that sudden boost in attractiveness that so often appears after a relationship ends lies an explanation rooted in emotion, biology, and a deep desire to reconnect with oneself.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Yes, the Post-Breakup Glow-Up Is a Real Thing...",
-      "score": 0,
-      "published": "2026-08-20T09:18:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7407ebcb9c78",
-      "title": "In Rainy Paris, Margot Robbie Finds the Chicest Possible Solution",
-      "link": "https://www.vogue.com/article/in-rainy-paris-margot-robbie-finds-the-chicest-possible-solution",
-      "summary": "Joined by her husband as she continues filming the “Ocean’s Eleven” prequel movie, Margot Robbie kept her favorite Chanel accessory safe and dry.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: In Rainy Paris, Margot Robbie Finds the Chicest Possible Solution...",
-      "score": 1,
-      "published": "2026-08-20T09:14:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c05242e6cfff",
       "title": "How A Man Should Dress In His 30s: Fashion and Styles 2026",
       "link": "https://www.fashionbeans.com/article/how-to-dress-well-in-your-30s/",
@@ -1017,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "016e2315be9d",
-      "title": "Plaid for Fall Isn't Groundbreaking, But These 30 Cool Pieces Are",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-fall-clothing-items",
-      "summary": "It girls will wear this print all season long.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Plaid for Fall Isn't Groundbreaking, But These 30 Cool Pieces Are...",
-      "score": 2,
-      "published": "2026-08-20T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d74721a20381",
       "title": "Not Stilettos—the Heel Style Taking Over L.A., NYC, and Paris Right Now",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/skinny-wedge-sandals",
@@ -1041,6 +1209,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Not Stilettos—the Heel Style Taking Over L.A., NYC, and Paris Right No...",
       "score": 1,
+      "published": "2026-08-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "016e2315be9d",
+      "title": "Plaid for Fall Isn't Groundbreaking, But These 30 Cool Pieces Are",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-fall-clothing-items",
+      "summary": "It girls will wear this print all season long.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Plaid for Fall Isn't Groundbreaking, But These 30 Cool Pieces Are...",
+      "score": 2,
       "published": "2026-08-20T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1059,20 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fdcaf10f914b",
-      "title": "If You Want Your Dresses, Trousers and Shorts to Look French—Wear This Kate Moss-Approved Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-moss-ballet-flat-outfits",
-      "summary": "The London cool girl loves a Parisian classic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-20T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "37d4b8494988",
       "title": "I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Foundations I Actually Use",
       "link": "https://www.whowhatwear.com/beauty/makeup/best-foundation-for-oily-skin",
@@ -1083,6 +1251,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I'm a Makeup Artist and Beauty Editor With Oily Skin—These Are the Fou...",
       "score": 1,
+      "published": "2026-08-20T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdcaf10f914b",
+      "title": "If You Want Your Dresses, Trousers and Shorts to Look French—Wear This Kate Moss-Approved Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-moss-ballet-flat-outfits",
+      "summary": "The London cool girl loves a Parisian classic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-08-20T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1098,62 +1280,6 @@
       "angle": "Fashion Intelligence: Blake Lively Casually Brought This $11,000 Bag to Yankee Stadium—Hint:...",
       "score": 1,
       "published": "2026-08-20T04:37:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86a3ba67380b",
-      "title": "The Vogue Business TikTok Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from TikTok, unpacking the latest creators and biggest trends sweeping its Gen Z user base.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-20T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5bf69510c08d",
-      "title": "It’s Time for Brands to Invest in Women Who Lift",
-      "link": "https://www.vogue.com/article/its-time-for-brands-to-invest-in-women-who-lift",
-      "summary": "As GLP-1 users look to build muscle mass, and strength training appears more readily in popular culture, it could be time for luxury brands to hit the gym.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It’s Time for Brands to Invest in Women Who Lift...",
-      "score": 2,
-      "published": "2026-08-20T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db16ebdfe451",
-      "title": "Should Luxury Brands Reduce their Prices?",
-      "link": "https://www.vogue.com/article/should-luxury-brands-reduce-their-prices",
-      "summary": "Luxury price hikes alienated the aspirational shopper. After Gucci lowered the price on its Mercato bag, it begs the question, should other brands follow suit?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Should Luxury Brands Reduce their Prices?...",
-      "score": 2,
-      "published": "2026-08-20T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a634e20faf9",
-      "title": "On Her New Album ‘Blue Island,’ Ravyn Lenae Proves She Can Do It All",
-      "link": "https://www.vogue.com/article/ravyn-lenae-blue-island-interview",
-      "summary": "The genre-defying musician is back with a standout third record that serves a riposte to those who have previously tried to pigeonhole her as a Black artist.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: On Her New Album ‘Blue Island,’ Ravyn Lenae Proves She Can Do It All...",
-      "score": 0,
-      "published": "2026-08-20T04:25:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1196,20 +1322,6 @@
       "angle": "Fashion Intelligence: Kith’s Active Drop is Sporty & Sleek...",
       "score": 2,
       "published": "2026-08-20T02:00:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "103c53af1024",
-      "title": "52 Thoughts I Had About Episode 5 of ‘The Shards’",
-      "link": "https://www.vogue.com/article/52-thoughts-i-had-about-episode-5-of-the-shards",
-      "summary": "This is all really giving that episode of Friends where Monica, Ross, and Joey do the televised dance show on New Year’s Eve.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 52 Thoughts I Had About Episode 5 of ‘The Shards’...",
-      "score": 1,
-      "published": "2026-08-20T02:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1462,20 +1574,6 @@
       "angle": "Fashion Intelligence: Kim Kardashian and Lewis Hamilton’s Complete Relationship Timeline...",
       "score": 0,
       "published": "2026-08-19T15:28:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "499a11281a63",
-      "title": "It's True: These 10 End-of-Summer Nail Colors Scream \"I Have Impeccable Taste\"",
-      "link": "https://www.whowhatwear.com/beauty/nails/summer-to-fall-transition-nail-colors-2026",
-      "summary": "Celebrity manicurists agree.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: It's True: These 10 End-of-Summer Nail Colors Scream \"I Have Impeccabl...",
-      "score": 1,
-      "published": "2026-08-19T15:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1969,20 +2067,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "50308ef5fad1",
-      "title": "Tailored Cuts Regain Ground as Oversize Loses Momentum",
-      "link": "https://in.apparelresources.com/fashion-news/trends/tailored-cuts-regain-ground-oversize-loses-momentum/",
-      "summary": "Global fashion is showing a shift toward body-skimming cuts after nearly a decade of oversized dressing. Runways and social platforms are increasingly featuring pieces that follow the body&#8217;s line rather than obscure it, marking a correction after an extended run for XXL silhouettes. The shift is visible across ca",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Tailored Cuts Regain Ground as Oversize Loses Momentum...",
-      "score": 4,
-      "published": "2026-08-18T10:22:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "90cbfbbdf8e4",
       "title": "The Complete Guide To Mod Fashion",
       "link": "https://www.fashionbeans.com/article/mod-fashion-guide/",
@@ -2008,20 +2092,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-08-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "afaac6556c99",
-      "title": "Velvet Returns to the Spotlight for Pre- Fall 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/velvet-returns-spotlight-pre-fall-2026/",
-      "summary": "Velvet Returns as Fall 2026&#8217;s Defining Fabric, With Indian Labels Leading the Charge Velvet is emerging as one of the season&#8217;s most consistent trends, moving beyond its usual festive-wear tag to reposition itself as a modern, all-season fabric for fall and prefall 2026. Fashion coverage entering the new sea",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Velvet Returns to the Spotlight for Pre- Fall 2026...",
-      "score": 6,
-      "published": "2026-08-18T09:45:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2064,34 +2134,6 @@
       "angle": "Fashion Intelligence: 26 Best Sneaker Brands For Men In 2026...",
       "score": 2,
       "published": "2026-08-18T09:12:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "303dc2b691d6",
-      "title": "Yes Pleats: Why Modern Men Should Still Wear Pleated Pants",
-      "link": "https://www.fashionbeans.com/article/type-of-pleats-pleated-pants-guide/",
-      "summary": "Great style is all about your waist. Not in a don’t-those-models-eat-anything sense. But rather, as a dapper man once told me, because where a man’s trousers sit reveal whether he knows how to dress himself. For what seems like forever, trousers have perched precariously on the hips, threatening at any moment to fall t",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Yes Pleats: Why Modern Men Should Still Wear Pleated Pants...",
-      "score": 4,
-      "published": "2026-08-18T09:03:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a72e30125e79",
-      "title": "6 Key Men’s Swimwear Trends For Spring/Summer 2026",
-      "link": "https://www.fashionbeans.com/article/mens-swimwear-trends/",
-      "summary": "Mastering fashion trends in everyday clothes can be difficult enough, but when you consider that it’s just one square foot of fabric covering your modesty, swimwear has to say more about you per inch than any other garment. To make matters worse, upgrading your trunks from duty-free afterthought to a first-class fit is",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-18T09:00:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2333,20 +2375,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3e576757a8ae",
-      "title": "Why Botanical Fashion Never Goes Out of Style",
-      "link": "https://www.fashiongonerogue.com/story/botanical-fashion-style/",
-      "summary": "Fashion has always taken its cues from the natural world, and no source of inspiration has proven as durable as ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why Botanical Fashion Never Goes Out of Style...",
-      "score": 2,
-      "published": "2026-08-12T11:41:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "81403e6fe4db",
       "title": "Natasha Colvin Studios Fall Styling Internship - NYC",
       "link": "https://fashionista.com/2026/08/natasha-colvin-studios-fall-styling-internship-nyc",
@@ -2554,6 +2582,34 @@
       "angle": "Fashion Intelligence: Brooklyn PR Is Hiring A Freelance Publicist In Los Angeles...",
       "score": 1,
       "published": "2026-08-06T20:20:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "30591ea40f34",
+      "title": "cw-check-https://test123.com/",
+      "link": "https://www.indianclothstore.com/blog/cw-check-https-test123-com",
+      "summary": "cw-check https://test123.com The post cw-check-https://test123.com/ appeared first on Indian Cloth Store- Blog .",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: cw-check-https://test123.com/...",
+      "score": 0,
+      "published": "2026-08-21T11:21:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e82d5854a48a",
+      "title": "Ganesh Chaturthi Outfit Guide: What to Wear for Sthapana, Aarti and Visarjan",
+      "link": "https://www.indianclothstore.com/blog/ganesh-chaturthi-outfit-guide",
+      "summary": "Ganesh Chaturthi isn&#8217;t a single event. It&#8217;s a stretch of days that involves sitting through the idol installation, standing for aarti (sometimes twice a day), and eventually walking in a visarjan procession. Each of these calls for a slightly different outfit, and dressing the same way for all three often m",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ganesh Chaturthi Outfit Guide: What to Wear for Sthapana, Aarti and Vi...",
+      "score": 3,
+      "published": "2026-08-21T08:51:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "भुवनेश्वर कुमार",
+      "term": "മോഷണം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "देवेन्द्र नाथ महतो",
+      "term": "chennai weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bulgaria vs czech republic",
+      "term": "rinku singh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "নিট",
+      "term": "politics",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പാലാ നഗരസഭ",
+      "term": "ऑस्ट्रेलिया राष्ट्रीय क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "క్రమశిక్షణ",
+      "term": "kick stream",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "badminton world championship",
+      "term": "దక్షిణ మధ్య రైల్వే",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "किसान",
+      "term": "sk66",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सोने",
+      "term": "aadhav arjuna",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పులి",
+      "term": "नक्षत्र",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
