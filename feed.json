@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T05:26:39.912055+00:00",
+  "generated_at": "2026-08-22T08:28:15.770953+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 182,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Romance Was Born Spring 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-22T05:25:04+00:00",
+      "published": "2026-08-22T08:25:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,119 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Simon Miller Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-22T05:25:04+00:00",
+      "published": "2026-08-22T08:25:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f41432169e6f",
+      "title": "Once Fashion’s Most Divisive Shoe, Tabis Are Suddenly Everywhere—17 Split-Toe Flats to Shop Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/tabi-ballet-flat-trend-2026",
+      "summary": "It's a Tabi takeover.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Once Fashion’s Most Divisive Shoe, Tabis Are Suddenly Everywhere—17 Sp...",
+      "score": 1,
+      "published": "2026-08-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d096ed3a5787",
+      "title": "5 Fall Shoe Trends That'll Make Your Jeans Look Cooler",
+      "link": "https://www.whowhatwear.com/fashion/fall/shoe-trends-with-jeans-fall-2026",
+      "summary": "Denim is waiting in the wings.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "96431886943d",
+      "title": "I'm a Denim Devotee— 6 Trends I'll Be Wearing With Jeans This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-trends-to-wear-with-jeans-2026",
+      "summary": "New season ready.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "65593102ad25",
+      "title": "Millennials Will Be Shocked: Gen Z Is Saying These 2016 Brands Are Relevant Again",
+      "link": "https://www.whowhatwear.com/fashion/shopping/2016-brands-comeback-2026",
+      "summary": "Hello, nostalgia.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Millennials Will Be Shocked: Gen Z Is Saying These 2016 Brands Are Rel...",
+      "score": 1,
+      "published": "2026-08-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7d6e3571d63",
+      "title": "8 Fashion Editors On the Pieces They Regret Buying (and What We'd Buy Instead)",
+      "link": "https://www.whowhatwear.com/fashion/shopping/things-we-dont-regret-buying",
+      "summary": "Let's just keep this between us.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Fashion Editors On the Pieces They Regret Buying (and What We'd Buy ...",
+      "score": 1,
+      "published": "2026-08-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "667f9314df3c",
+      "title": "I Studied All of Zara's Autumn Colour Trends—7 I'd Buy Now Before They Inevitably Sell Out",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-early-autumn-colour-trends-2026",
+      "summary": "Colour vision.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-22T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7848045f606",
+      "title": "Congress Slams Centre Over Sugar Price Hike Before Festive Season; Government Denies Shortage",
+      "link": "https://www.indiatoday.in/india/video/congress-slams-centre-over-sugar-price-hike-before-festive-season-government-denies-shortage-ytvd-2977273-2026-08-22?utm_source=rss",
+      "summary": "Congress Slams Centre Over Sugar Price Hike Before Festive Season; Government Denies Shortage",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-22T06:31:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "efe3b996fae0",
+      "title": "Julia Roberts Has Followed These 9 Fashion Trends Since the ’90s—They’ll Be Everywhere This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/julia-roberts-fashion-trends",
+      "summary": "The study of an icon.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-22T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -765,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "daa9511a90dd",
-      "title": "Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen",
-      "link": "https://www.vogue.com/article/aperitivo-hour-cat-chen",
-      "summary": "Dulan Wine founder Cat Chen takes us behind the scenes of her Pasadena apéro.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen...",
-      "score": 0,
-      "published": "2026-08-21T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fdc4611c90a3",
       "title": "The Best Zara New Arrivals to Shop for Summer 2026",
       "link": "https://www.vogue.com/article/best-zara-finds",
@@ -803,6 +901,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: 70 Glorious Kim Cattrall Looks, in Honor of Her 70th Birthday...",
       "score": 1,
+      "published": "2026-08-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "daa9511a90dd",
+      "title": "Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen",
+      "link": "https://www.vogue.com/article/aperitivo-hour-cat-chen",
+      "summary": "Dulan Wine founder Cat Chen takes us behind the scenes of her Pasadena apéro.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen...",
+      "score": 0,
       "published": "2026-08-21T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -835,34 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3f66cd1bea51",
-      "title": "I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Designer Bags",
-      "link": "https://www.whowhatwear.com/fashion/luxury/man-bags-designer",
-      "summary": "Sorry, luxury watches.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Des...",
-      "score": 2,
-      "published": "2026-08-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db3d95b514fd",
-      "title": "Not Wedges, Not Pumps—This Is the New-Season Heels Trend Fashion People in Paris Are All Wearing",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cut-out-heels-mini-dress-hat-outfit-margot-robbie-2026",
-      "summary": "Sorry, slingbacks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-08-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d2c6def26e1f",
       "title": "Stylish Women Have Quietly Started Wearing Their Jeans This Specific Way",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-cuffed-jeans-outfit-ideas-2026",
@@ -877,6 +961,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3f66cd1bea51",
+      "title": "I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Designer Bags",
+      "link": "https://www.whowhatwear.com/fashion/luxury/man-bags-designer",
+      "summary": "Sorry, luxury watches.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Des...",
+      "score": 2,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "07fad812c098",
       "title": "This Viral Tote Is Suddenly Fashion’s Most-Wanted Handbag—and It’s Surprisingly Affordable",
       "link": "https://www.whowhatwear.com/fashion/shopping/alex-mill-tote-bag",
@@ -887,6 +985,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: This Viral Tote Is Suddenly Fashion’s Most-Wanted Handbag—and It’s Sur...",
       "score": 1,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db3d95b514fd",
+      "title": "Not Wedges, Not Pumps—This Is the New-Season Heels Trend Fashion People in Paris Are All Wearing",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cut-out-heels-mini-dress-hat-outfit-margot-robbie-2026",
+      "summary": "Sorry, slingbacks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
       "published": "2026-08-21T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1535,20 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "33df7da9cb3f",
-      "title": "The Chicest People I Know Are Already Styling Knee-Length Skirts With This Autumn Boots Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/knee-length-skirt-knee-high-boots-outfit-trend-margot-robbie-2026",
-      "summary": "Soon, we'll all be doing the same.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-20T10:58:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "de2feb6a597f",
       "title": "Angel & Rocket Targets 100 Stores, Rs 250 Crore Revenue in India",
       "link": "https://in.apparelresources.com/business-news/retail/angel-rocket-targets-100-stores-rs-250-crore-revenue-in-india/",
@@ -1563,17 +1661,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5453e0319516",
-      "title": "If Margot Robbie Is Wearing This Long-Lost It Item, We Can Probably Assume It's No Longer Dated",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/casual-jumpsuit-outfit-margot-robbie",
-      "summary": "If you're intrigued, you should be.",
-      "source": "Who What Wear",
+      "id": "6e587cfac5d2",
+      "title": "8 Fragrances Worn By The World’s Most Stylish Men",
+      "link": "https://www.fashionbeans.com/article/celebrity-mens-fragrances/",
+      "summary": "Having already read the FashionBeans guides to dressing for your body shape, nailing smart-casual and picking the right tie to wear with your shirt — you have read them, right? — it’s likely you’ve already got your appearance pretty down pat. But it’ll all be for naught if you don’t smell good. “Manners and a &#8230; C",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-20T09:45:00+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Fragrances Worn By The World’s Most Stylish Men...",
+      "score": 3,
+      "published": "2026-08-20T10:19:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1591,48 +1689,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "016e2315be9d",
-      "title": "Plaid for Fall Isn't Groundbreaking, But These 30 Cool Pieces Are",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-fall-clothing-items",
-      "summary": "It girls will wear this print all season long.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Plaid for Fall Isn't Groundbreaking, But These 30 Cool Pieces Are...",
-      "score": 2,
-      "published": "2026-08-20T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d74721a20381",
-      "title": "Not Stilettos—the Heel Style Taking Over L.A., NYC, and Paris Right Now",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/skinny-wedge-sandals",
-      "summary": "Very chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Stilettos—the Heel Style Taking Over L.A., NYC, and Paris Right No...",
-      "score": 1,
-      "published": "2026-08-20T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "75d88f794ae2",
-      "title": "The Lovely Mayhem of Madelyn Cline",
-      "link": "https://www.whowhatwear.com/beauty/makeup/madelyn-cline-night-out-beauty-staples",
-      "summary": "As the final season of Outer Banks hits our screens, the Pogue Princess talks on-the-go makeup staples, probiotics, and a silly night out with the cast.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Lovely Mayhem of Madelyn Cline...",
-      "score": 1,
-      "published": "2026-08-20T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4df7c7b7f730",
       "title": "Beach Wear For Men – Ultimate Guide in 2026",
       "link": "https://www.fashionbeans.com/article/complete-guide-to-beachwear/",
@@ -1644,34 +1700,6 @@
       "angle": "Fashion Intelligence: Beach Wear For Men – Ultimate Guide in 2026...",
       "score": 2,
       "published": "2026-08-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8a026c7c80cd",
-      "title": "If French Women in Paris Are Wearing Lace this Autumn, It'll Be Exactly Like This",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-lace-outfits-autumn-2026",
-      "summary": "Oh là là",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-20T06:35:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdcaf10f914b",
-      "title": "If You Want Your Dresses, Trousers and Shorts to Look French—Wear This Kate Moss-Approved Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-moss-ballet-flat-outfits",
-      "summary": "The London cool girl loves a Parisian classic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-20T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2148,20 +2176,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 2,
       "published": "2026-08-18T10:23:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "90cbfbbdf8e4",
-      "title": "The Complete Guide To Mod Fashion",
-      "link": "https://www.fashionbeans.com/article/mod-fashion-guide/",
-      "summary": "Back in 1959, Colin MacInnes offered up the following description of a young gadabout-town in his novel Absolute Beginners: “College-boy smooth crop hair with burned-in side part, neat white Italian round-collared shirt, short Roman jacket, very tailored (two little vents, three buttons), no-turn-up narrow trousers wit",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Complete Guide To Mod Fashion...",
-      "score": 1,
-      "published": "2026-08-18T10:00:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2837,6 +2851,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7de30458571c",
+      "title": "Geometric Menswear Is Giving Traditional Dressing a Sharper Edge",
+      "link": "https://www.azafashions.com/blog/geometric-menswear-trend/?utm_source=rss&utm_medium=rss&utm_campaign=geometric-menswear-trend",
+      "summary": "Menswear has always had its classics: the straight kurta, the structured sherwani, the dependable Nehru jacket. But lately, designers are drawing outside those familiar lines. Geometric menswear is bringing angles,&#8230; The post Geometric Menswear Is Giving Traditional Dressing a Sharper Edge appeared first on Aza Ed",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Geometric Menswear Is Giving Traditional Dressing a Sharper Edge...",
+      "score": 6,
+      "published": "2026-08-22T07:46:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e1a19b273694",
       "title": "Old Zari Is Back and It’s Making Indianwear Look Richer",
       "link": "https://www.azafashions.com/blog/old-zari-comeback/?utm_source=rss&utm_medium=rss&utm_campaign=old-zari-comeback",
@@ -2961,70 +2989,56 @@
       "score": 1,
       "published": "2026-08-17T09:25:47+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "541a3c865668",
-      "title": "Janmashtami Outfits With a Little More Drama and a Lot Less Tradition",
-      "link": "https://www.azafashions.com/blog/janmashtami-outfits-usa/?utm_source=rss&utm_medium=rss&utm_campaign=janmashtami-outfits-usa",
-      "summary": "Janmashtami in the diaspora has a rhythm all its own;&#160;temple aartis that start after the American workday ends, community dahi handis in a parking lot instead of a Mathura lane,&#8230; The post Janmashtami Outfits With a Little More Drama and a Lot Less Tradition appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Janmashtami Outfits With a Little More Drama and a Lot Less Tradition...",
-      "score": 1,
-      "published": "2026-08-16T16:55:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "chandigarh weather",
+      "term": "समाचार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ప్రజాశక్తి",
+      "term": "ಜ್ಯೋತಿಷ್ಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அணை",
+      "term": "दिशा वकानी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నారా లోకేశ్",
+      "term": "ಅಗ್ನಿಪರೀಕ್ಷೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टाटा मोटर्स",
+      "term": "ಜಾಮೀನು",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bank",
+      "term": "maharashtra fda restaurant licence suspension",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शिक्षक",
+      "term": "टेस्ट क्रिकेट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taskin ahmed",
+      "term": "बातमी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "narendra modi",
+      "term": "iran",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "is bank open today",
+      "term": "honor",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
