@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:28:15.770953+00:00",
+  "generated_at": "2026-08-22T11:20:18.081277+00:00",
   "owned_count": 10,
   "competitor_count": 20,
   "industry_count": 183,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Romance Was Born Spring 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-22T08:25:37+00:00",
+      "published": "2026-08-22T11:18:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,175 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Simon Miller Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-22T08:25:37+00:00",
+      "published": "2026-08-22T11:18:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "496ff47a9f42",
+      "title": "Chef Sanjeev Kapoor On Food Misconceptions, Restaurant Hygiene & Packaged Food Labels",
+      "link": "https://www.indiatoday.in/india/video/chef-sanjeev-kapoor-on-food-misconceptions-restaurant-hygiene-packaged-food-labels-ytvd-2977447-2026-08-22?utm_source=rss",
+      "summary": "Chef Sanjeev Kapoor On Food Misconceptions, Restaurant Hygiene & Packaged Food Labels",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Chef Sanjeev Kapoor On Food Misconceptions, Restaurant Hygiene & Packa...",
+      "score": 1,
+      "published": "2026-08-22T11:16:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "95527f2a6e22",
+      "title": "It's Early, But It's Here: The Summer-to-Fall Capsule Wardrobe 2 Style Experts Swear By",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-to-fall-transitional-dressing-mandy-lee-erin-walsh",
+      "summary": "Mandy Lee and Erin Walsh share it all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Early, But It's Here: The Summer-to-Fall Capsule Wardrobe 2 Style...",
+      "score": 2,
+      "published": "2026-08-22T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dffb8e14c3f5",
+      "title": "On Her 31st Birthday, See Dua Lipa’s Beauty Evolution in 20 Photos",
+      "link": "https://www.vogue.com/slideshow/dua-lipa-beauty-evolution",
+      "summary": "From bleach blonde to raven locks, experiments in bangs and blush, Dua Lipa is the ultimate beauty muse—with a permanent vacation tan.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On Her 31st Birthday, See Dua Lipa’s Beauty Evolution in 20 Photos...",
+      "score": 1,
+      "published": "2026-08-22T10:40:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "20115699c630",
+      "title": "How to Wear a Handkerchief According to the Street Style Set",
+      "link": "https://www.vogue.com/article/street-style-handkerchief-trend",
+      "summary": "The street style set show how to do handkerchief styling.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How to Wear a Handkerchief According to the Street Style Set...",
+      "score": 3,
+      "published": "2026-08-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "293cf7246d47",
+      "title": "Where Meghan Markle and Prince Harry Could—or Should—Live in the UK",
+      "link": "https://www.vogue.com/article/where-meghan-and-harry-could-or-should-live-in-the-uk",
+      "summary": "Now that Prince Harry and Meghan Markle are moving back to the UK with Prince Archie and Princess Lilibet, where precisely will the family Sussex choose to settle? Writer Lauren O’Neill has some suggestions…",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Where Meghan Markle and Prince Harry Could—or Should—Live in the UK...",
+      "score": 0,
+      "published": "2026-08-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "615c5238c461",
+      "title": "On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Moments",
+      "link": "https://www.vogue.com/slideshow/dua-lipa-best-fashion-moments",
+      "summary": "Vogue spotlights some of Dua Lipa’s best looks, from many Met Gala moments to her off-duty style.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Momen...",
+      "score": 2,
+      "published": "2026-08-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e805f7529c75",
+      "title": "The Best Azelaic Acid Products Tackle Breakouts, Dark Spots, and Redness All at Once",
+      "link": "https://www.vogue.com/article/best-azelaic-acid-products",
+      "summary": "Acne-fighting, rosacea-calming, hyperpigmentation-fading azelaic acid has many benefits. Here are the best skin-care products featuring the potent ingredient.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Azelaic Acid Products Tackle Breakouts, Dark Spots, and Redne...",
+      "score": 0,
+      "published": "2026-08-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "633cbdec0d06",
+      "title": "15 Minimalist-But-Cool Outfits All the Chicest Women Will Be Wearing This Fall",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/minimalist-fall-outfit-ideas-2026",
+      "summary": "Effortless.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "68766b52a306",
+      "title": "Vande Mataram Showdown: BJP's Sambit Patra Slams Two-Stanza Rendition, Announces Nationwide Push",
+      "link": "https://www.indiatoday.in/india/video/bjp-office-bearers-meet-pm-modi-resolution-passed-over-vande-mataram-row-ytvd-2977380-2026-08-22?utm_source=rss",
+      "summary": "Vande Mataram Showdown: BJP's Sambit Patra Slams Two-Stanza Rendition, Announces Nationwide Push",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Vande Mataram Showdown: BJP's Sambit Patra Slams Two-Stanza Rendition,...",
+      "score": 1,
+      "published": "2026-08-22T09:54:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1b73ad9de924",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-22",
+      "summary": "This week, the beauty world played with natural features: sculptural floral nails, softly flushed blush, skin-forward glam. From Sadie Sink to Tyla, read on.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-08-22T09:45:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c6ddf6ef8311",
+      "title": "Sorry, Bandanas—This Trending Accessory Is the Easiest Way to Make Your Autumn Outfits Look Elevated",
+      "link": "https://www.whowhatwear.com/fashion/trends/oversized-textured-brooch-trend-2026",
+      "summary": "So simple, so chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-22T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cf932e26fe57",
+      "title": "Even Minimalists Are Rethinking Neutrals For Accessories In This Surprising Colour Trend",
+      "link": "https://www.whowhatwear.com/fashion/trends/turquoise-accessory-trend-2026",
+      "summary": "The easiest way to elevate a look right now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-22T09:09:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -118,20 +286,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-22T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c7848045f606",
-      "title": "Congress Slams Centre Over Sugar Price Hike Before Festive Season; Government Denies Shortage",
-      "link": "https://www.indiatoday.in/india/video/congress-slams-centre-over-sugar-price-hike-before-festive-season-government-denies-shortage-ytvd-2977273-2026-08-22?utm_source=rss",
-      "summary": "Congress Slams Centre Over Sugar Price Hike Before Festive Season; Government Denies Shortage",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-22T06:31:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -597,20 +751,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "050e23409bf4",
-      "title": "According to Expert Nail Artists, August's Hottest Pedi Shades Scream Runway, Not Boardwalk",
-      "link": "https://www.whowhatwear.com/beauty/nails/august-pedicure-colors-2026",
-      "summary": "From trendy blues to fall-coded burgundies.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: According to Expert Nail Artists, August's Hottest Pedi Shades Scream ...",
-      "score": 2,
-      "published": "2026-08-21T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "75cf95427acf",
       "title": "Chic and Trend-Forward—These New Arrivals From J.Crew, Zara, and Reformation Are Giving \"It Girl\"",
       "link": "https://www.whowhatwear.com/jcrew-zara-reformation-fall-fashion-2026",
@@ -621,6 +761,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-08-21T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "050e23409bf4",
+      "title": "According to Expert Nail Artists, August's Hottest Pedi Shades Scream Runway, Not Boardwalk",
+      "link": "https://www.whowhatwear.com/beauty/nails/august-pedicure-colors-2026",
+      "summary": "From trendy blues to fall-coded burgundies.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: According to Expert Nail Artists, August's Hottest Pedi Shades Scream ...",
+      "score": 2,
       "published": "2026-08-21T14:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -947,34 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d2c6def26e1f",
-      "title": "Stylish Women Have Quietly Started Wearing Their Jeans This Specific Way",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-cuffed-jeans-outfit-ideas-2026",
-      "summary": "See the proof inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f66cd1bea51",
-      "title": "I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Designer Bags",
-      "link": "https://www.whowhatwear.com/fashion/luxury/man-bags-designer",
-      "summary": "Sorry, luxury watches.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Des...",
-      "score": 2,
-      "published": "2026-08-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "07fad812c098",
       "title": "This Viral Tote Is Suddenly Fashion’s Most-Wanted Handbag—and It’s Surprisingly Affordable",
       "link": "https://www.whowhatwear.com/fashion/shopping/alex-mill-tote-bag",
@@ -999,6 +1125,34 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2c6def26e1f",
+      "title": "Stylish Women Have Quietly Started Wearing Their Jeans This Specific Way",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-cuffed-jeans-outfit-ideas-2026",
+      "summary": "See the proof inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f66cd1bea51",
+      "title": "I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Designer Bags",
+      "link": "https://www.whowhatwear.com/fashion/luxury/man-bags-designer",
+      "summary": "Sorry, luxury watches.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Des...",
+      "score": 2,
       "published": "2026-08-21T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1059,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "76fadbc36d2f",
-      "title": "The Business of Katseye",
-      "link": "https://www.vogue.com/article/the-business-of-katseye",
-      "summary": "As the world’s first multi-ethnic, English-language group modeled on the K-pop framework, Katseye has broken significant industry barriers. Their continued high-profile activities indicate their ability to adapt despite recent controversy. But can their influence be sustained?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Business of Katseye...",
-      "score": 2,
-      "published": "2026-08-21T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6b685b0bec78",
       "title": "The Autumn Denim Guide 2026: The Styles, Shades and Silhouettes You Need to Know this Season",
       "link": "https://www.whowhatwear.com/fashion/denim/autumn-jeans-trends-2026",
@@ -1126,34 +1266,6 @@
       "angle": "Fashion Intelligence: I Know Summer's Not Over, But I'm Already Daydreaming About Fall—17 CO...",
       "score": 1,
       "published": "2026-08-20T21:59:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee1362c3ae7a",
-      "title": "This Underrated California Wine Country Will Transport You Straight to Europe",
-      "link": "https://www.vogue.com/article/temecula-valley-wine-country-guide",
-      "summary": "Want the feel of an Italian or Spanish vineyard vacation, without actually traveling across the Atlantic? Head to Temecula Valley Wine Country.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Underrated California Wine Country Will Transport You Straight to...",
-      "score": 0,
-      "published": "2026-08-20T21:22:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b707b4f6fcf0",
-      "title": "This Jewelry-Designer Bride Created All Her Own Looks for Her Tuscan Castle Wedding",
-      "link": "https://www.vogue.com/slideshow/rene-barnes-and-christian-dicroce-wedding",
-      "summary": "Rene Barnes created six looks using deadstock fabric from Dior, Armani, and Oscar de la Renta to marry Christian DiCroce at a 13th-century castle outside Siena.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Jewelry-Designer Bride Created All Her Own Looks for Her Tuscan Castle Wedding — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-20T21:11:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1283,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "db6e8910a078",
-      "title": "Margaret Qualley Brings Chanel’s Barefoot Sandals to the Red Carpet",
-      "link": "https://www.vogue.com/article/margaret-qualley-chanel-barefoot-sandal-red-carpet",
-      "summary": "Get those pedicures ready! Chanel’s divisive barefoot sandals have made their way to Hollywoodland.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 0,
-      "published": "2026-08-20T19:13:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "db82da515d2b",
       "title": "Role Model Is Our September 2026 Music Director",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a73454336/role-model-september-2026-music-director/",
@@ -1350,20 +1448,6 @@
       "angle": "Fashion Intelligence: This Is How the Royal Family Reacted to the News That Harry and Meghan...",
       "score": 0,
       "published": "2026-08-20T17:54:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c39454fb76b8",
-      "title": "30+ Best Trench Coats for Women in 2026",
-      "link": "https://www.vogue.com/article/best-trench-coats-for-women",
-      "summary": "Shop Vogue’s guide to the best trench coats for women in 2026, from tried-and-true classics to reimagined silhouettes from Khaite, Burberry, Nour Hammour and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 30+ Best Trench Coats for Women in 2026...",
-      "score": 0,
-      "published": "2026-08-20T17:52:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1451,34 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "77db7b243725",
-      "title": "I Trekked to Times Square at 8 A.M. to Shop Olive Young's Sephora Collection—9 Worth-It Items",
-      "link": "https://www.whowhatwear.com/beauty/skin/olive-young-sephora-collection",
-      "summary": "You'd be smart to snag them now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-20T14:33:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a7d3e1577c8b",
-      "title": "Hailey Bieber Knows This Sneaker Color Trend Looks Best With Black Leggings",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-gym-shoes-asics",
-      "summary": "It's a go.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-20T14:20:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "18692b51a85d",
       "title": "Kendall Jenner and Jacob Elordi Are All About the Primary Colors As They Perfect Their Couple Style",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73484020/kendall-jenner-jacob-elordi-primary-colors-couple-style-london-photos/",
@@ -1490,34 +1546,6 @@
       "angle": "Fashion Intelligence: Kendall Jenner and Jacob Elordi Are All About the Primary Colors As Th...",
       "score": 1,
       "published": "2026-08-20T14:06:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e87b96a5fe11",
-      "title": "I'm Looking Ahead—Per Celebrity Hairstylists, Whisper Fringe Is Going to Be Major Come Fall",
-      "link": "https://www.whowhatwear.com/beauty/hair/whisper-fringe-fall-hair-trend",
-      "summary": "Fashion people are already giving us a taste.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-20T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "80325e0ddc3e",
-      "title": "I Had to Do a Double Take When I Saw These 40 Rich-Looking New Arrivals at Zara",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-zara-fashion",
-      "summary": "Step into the new season in style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Had to Do a Double Take When I Saw These 40 Rich-Looking New Arrival...",
-      "score": 2,
-      "published": "2026-08-20T14:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1616,20 +1644,6 @@
       "angle": "Fashion Intelligence: Baazar Retail Crosses 250-Store Mark, Expands Value-Fashion Footprint...",
       "score": 1,
       "published": "2026-08-20T11:52:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "508d7786f6ae",
-      "title": "Hold the Leopard Print—This Is the Nail Design Fashion People Will Be Wearing in Autumn",
-      "link": "https://www.whowhatwear.com/beauty/nails/zebra-nail-trend",
-      "summary": "So chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-20T11:37:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2162,20 +2176,6 @@
       "angle": "Fashion Intelligence: Dior Makeup Finds Its Lucky Charm for Fall 2026...",
       "score": 3,
       "published": "2026-08-18T11:21:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "256701c8d5f1",
-      "title": "25 Types of Hats For Men – Styles for Any Occasion in 2026",
-      "link": "https://www.fashionbeans.com/article/mens-hat-styles/",
-      "summary": "Remember when Justin Bieber wore a hot pink beanie to a black tie event? Unless you’re Justin, who can pull off anything (you guessed it, we are Beliebers), a beanie at the Grammys isn’t the most appropriate choice of hat. Then what types of hats are suitable for a black tie event, you ask? We’d &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-08-18T10:23:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2851,6 +2851,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ae5098315f79",
+      "title": "The Essential Jewellery Colour Palette for Red Bridal Wear",
+      "link": "https://www.azafashions.com/blog/jewellery-colour-red-bridal-wear/?utm_source=rss&utm_medium=rss&utm_campaign=jewellery-colour-red-bridal-wear",
+      "summary": "While a red bridal outfit remains the ultimate classic, choosing the right jewellery palette is what brings the entire look together. The key lies in understanding colour harmony, whether you prefer a&#8230; The post The Essential Jewellery Colour Palette for Red Bridal Wear appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Essential Jewellery Colour Palette for Red Bridal Wear — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-08-22T09:47:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7de30458571c",
       "title": "Geometric Menswear Is Giving Traditional Dressing a Sharper Edge",
       "link": "https://www.azafashions.com/blog/geometric-menswear-trend/?utm_source=rss&utm_medium=rss&utm_campaign=geometric-menswear-trend",
@@ -2876,6 +2890,20 @@
       "angle": "Fashion Intelligence: Old Zari Is Back and It’s Making Indianwear Look Richer...",
       "score": 3,
       "published": "2026-08-21T13:37:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a3dd4be0f772",
+      "title": "Forget Traditional Earrings: Bridal Ear Cuffs Are In",
+      "link": "https://www.azafashions.com/blog/bridal-ear-cuffs-are-in/?utm_source=rss&utm_medium=rss&utm_campaign=bridal-ear-cuffs-are-in",
+      "summary": "Bridal jewellery is having a moment—and not in the way your grandmother would expect. The days of defaulting to chandbaalis or jhumkas just because that's what brides wear are quietly&#8230; The post Forget Traditional Earrings: Bridal Ear Cuffs Are In appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Forget Traditional Earrings — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-08-21T10:12:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2961,84 +2989,56 @@
       "score": 3,
       "published": "2026-08-19T06:08:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "40d1e05a8e8d",
-      "title": "9 Trending Flats That Will Make You Forget About Heels",
-      "link": "https://www.azafashions.com/blog/trending-flats-to-wear/?utm_source=rss&utm_medium=rss&utm_campaign=trending-flats-to-wear",
-      "summary": "Not long ago, comfort and ‘occasion-friendly’ footwear did not get along. Heels got you into the party; flats got you home. But somewhere between the rise of quiet luxury and&#8230; The post 9 Trending Flats That Will Make You Forget About Heels appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-08-18T04:31:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6e3d0be75df0",
-      "title": "Janmashtami Looks for Kids That Are Anything But Costume-y",
-      "link": "https://www.azafashions.com/blog/janmashtami-looks-for-kids/?utm_source=rss&utm_medium=rss&utm_campaign=janmashtami-looks-for-kids",
-      "summary": "Janmashtami dressing for little ones doesn't have to mean a full Krishna crown or a literal Radha recreation. The real magic of dressing children for this celebration lies in something&#8230; The post Janmashtami Looks for Kids That Are Anything But Costume-y appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Janmashtami Looks for Kids That Are Anything But Costume-y...",
-      "score": 1,
-      "published": "2026-08-17T09:25:47+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "समाचार",
+      "term": "andrey santos",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಜ್ಯೋತಿಷ್ಯ",
+      "term": "కింగ్ కోబ్రా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दिशा वकानी",
+      "term": "birmingham vs bristol city",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಅಗ್ನಿಪರೀಕ್ಷೆ",
+      "term": "महाराष्ट्र",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಜಾಮೀನು",
+      "term": "വിദ്യാര്ത്ഥി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "maharashtra fda restaurant licence suspension",
+      "term": "karnataka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टेस्ट क्रिकेट",
+      "term": "ಅಧಿಕಾರಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बातमी",
+      "term": "hull vs man united",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iran",
+      "term": "f1 sprint",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "honor",
+      "term": "medhavi bidhuri cricketer",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
