@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T08:28:26.729119+00:00",
+  "generated_at": "2026-08-23T11:19:57.820012+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Romance Was Born Spring 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-23T08:27:33+00:00",
+      "published": "2026-08-23T11:18:33+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Simon Miller Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-23T08:27:33+00:00",
+      "published": "2026-08-23T11:18:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "679fd1d4aa9e",
+      "title": "Viral video claimed to show Keerthana; TVK minister denies it, calls out misogyny",
+      "link": "https://www.indiatoday.in/india/tamil-nadu/story/keerthana-false-video-row-tamil-nadu-tvk-minister-slams-scrutiny-womens-clothes-2977990-2026-08-23?utm_source=rss",
+      "summary": "Viral video claimed to show Keerthana; TVK minister denies it, calls out misogyny",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Viral video claimed to show Keerthana; TVK minister denies it, calls o...",
+      "score": 1,
+      "published": "2026-08-23T11:14:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f0ccad9e95a2",
+      "title": "Smriti Irani Challenges Rahul Gandhi Over Women's Quota Bill Amid BJP-Congress Nari Shakti Showdown",
+      "link": "https://www.indiatoday.in/india/video/smriti-irani-challenges-rahul-gandhi-over-womens-quota-bill-amid-bjp-congress-nari-shakti-showdown-ytvd-2977997-2026-08-23?utm_source=rss",
+      "summary": "Smriti Irani Challenges Rahul Gandhi Over Women's Quota Bill Amid BJP-Congress Nari Shakti Showdown",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Smriti Irani Challenges Rahul Gandhi Over Women's Quota Bill Amid BJP-...",
+      "score": 1,
+      "published": "2026-08-23T10:37:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "832f60f5190e",
+      "title": "The 7 Best Airbnbs in Morocco Include Stately Riads",
+      "link": "https://www.vogue.com/article/airbnbs-in-morocco",
+      "summary": "An Airbnb in Morocco gives you lots of space, privacy, and (if you book one of our favorite riads) unique architectural charm. Here, seven favorites.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 7 Best Airbnbs in Morocco Include Stately Riads...",
+      "score": 0,
+      "published": "2026-08-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e239e742eb8b",
+      "title": "From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Ruled the Venice Film Festival",
+      "link": "https://www.vogue.com/slideshow/20-times-italian-bombshells-ruled-the-venice-film-festival",
+      "summary": "From Sophia Loren to Monica Bellucci, we look back at the Venice Film Festival’s most stylish attendees from decades past.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Rule...",
+      "score": 0,
+      "published": "2026-08-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d29f94f41065",
+      "title": "Suddenly, Celebrities Are Over Denim and Track Shorts—This is the Shorts Trend They’re All Backing Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pink-shorts-trend-hailey-bieber-iris-law-elsa-hosk-nina-dobrev-2026",
+      "summary": "It's taking off right now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-23T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4bf83f22a1a8",
+      "title": "NCB to launch 24 nationwide anti-drug drives from Sept, target fugitives, pharmacies",
+      "link": "https://www.indiatoday.in/india/story/ncb-anti-drug-campaign-24-nationwide-drives-track-fugitives-inspect-pharmacies-ptag-2977938-2026-08-23?utm_source=rss",
+      "summary": "NCB to launch 24 nationwide anti-drug drives from Sept, target fugitives, pharmacies",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-23T08:33:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -317,6 +401,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "615c5238c461",
+      "title": "On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Moments",
+      "link": "https://www.vogue.com/slideshow/dua-lipa-best-fashion-moments",
+      "summary": "Vogue spotlights some of Dua Lipa’s best looks, from many Met Gala moments to her off-duty style.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Momen...",
+      "score": 2,
+      "published": "2026-08-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "20115699c630",
       "title": "How to Wear a Handkerchief According to the Street Style Set",
       "link": "https://www.vogue.com/article/street-style-handkerchief-trend",
@@ -341,20 +439,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Where Meghan Markle and Prince Harry Could—or Should—Live in the UK...",
       "score": 0,
-      "published": "2026-08-22T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "615c5238c461",
-      "title": "On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Moments",
-      "link": "https://www.vogue.com/slideshow/dua-lipa-best-fashion-moments",
-      "summary": "Vogue spotlights some of Dua Lipa’s best looks, from many Met Gala moments to her off-duty style.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Momen...",
-      "score": 2,
       "published": "2026-08-22T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -485,20 +569,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "96431886943d",
-      "title": "I'm a Denim Devotee— 6 Trends I'll Be Wearing With Jeans This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/autumn-trends-to-wear-with-jeans-2026",
-      "summary": "New season ready.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "65593102ad25",
       "title": "Millennials Will Be Shocked: Gen Z Is Saying These 2016 Brands Are Relevant Again",
       "link": "https://www.whowhatwear.com/fashion/shopping/2016-brands-comeback-2026",
@@ -523,6 +593,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: 8 Fashion Editors On the Pieces They Regret Buying (and What We'd Buy ...",
       "score": 1,
+      "published": "2026-08-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "96431886943d",
+      "title": "I'm a Denim Devotee— 6 Trends I'll Be Wearing With Jeans This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-trends-to-wear-with-jeans-2026",
+      "summary": "New season ready.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-08-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1003,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "75cf95427acf",
-      "title": "Chic and Trend-Forward—These New Arrivals From J.Crew, Zara, and Reformation Are Giving \"It Girl\"",
-      "link": "https://www.whowhatwear.com/jcrew-zara-reformation-fall-fashion-2026",
-      "summary": "Brocade jackets, two-tone shoes, and cool Henleys.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-21T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "050e23409bf4",
       "title": "According to Expert Nail Artists, August's Hottest Pedi Shades Scream Runway, Not Boardwalk",
       "link": "https://www.whowhatwear.com/beauty/nails/august-pedicure-colors-2026",
@@ -1027,6 +1097,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: According to Expert Nail Artists, August's Hottest Pedi Shades Scream ...",
       "score": 2,
+      "published": "2026-08-21T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "75cf95427acf",
+      "title": "Chic and Trend-Forward—These New Arrivals From J.Crew, Zara, and Reformation Are Giving \"It Girl\"",
+      "link": "https://www.whowhatwear.com/jcrew-zara-reformation-fall-fashion-2026",
+      "summary": "Brocade jackets, two-tone shoes, and cool Henleys.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-08-21T14:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1255,20 +1339,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c2e92f29a03b",
-      "title": "I, Too, Would Like to Vacation With the Lipas",
-      "link": "https://www.vogue.com/article/dua-lipa-family-birthday-vacation-ibiza-formentera",
-      "summary": "Dua Lipa’s 31st birthday celebrations have all ready started, recruiting her siblings Rina and Gjin for a day on a yacht off the shores of Formentera.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: I, Too, Would Like to Vacation With the Lipas...",
-      "score": 0,
-      "published": "2026-08-21T10:20:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "81646b963d7b",
       "title": "Trench Coats Get an Overhaul for A/W 26",
       "link": "https://in.apparelresources.com/fashion-news/trends/trench-coats-get-an-overhaul-for-a-w-26/",
@@ -1280,20 +1350,6 @@
       "angle": "Fashion Intelligence: Trench Coats Get an Overhaul for A/W 26...",
       "score": 2,
       "published": "2026-08-21T10:20:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdc4611c90a3",
-      "title": "The Best Zara New Arrivals to Shop for Summer 2026",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "Summer essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Summer 2026...",
-      "score": 0,
-      "published": "2026-08-21T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,20 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "74fa74b7a5ac",
-      "title": "The Fall 2026 Pieces Fashion Editors Are Buying Before Everyone Else",
-      "link": "https://www.whowhatwear.com/fashion/shopping/editor-favorite-fall-fashion-2026",
-      "summary": "Ahead of the curve.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Fall 2026 Pieces Fashion Editors Are Buying Before Everyone Else...",
-      "score": 1,
-      "published": "2026-08-21T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "809d138763bd",
       "title": "The All White Outfit Guide For Men",
       "link": "https://www.fashionbeans.com/article/all-white-outfit-men/",
@@ -1378,20 +1420,6 @@
       "angle": "Fashion Intelligence: The All White Outfit Guide For Men...",
       "score": 4,
       "published": "2026-08-21T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8f7ec3a9bd5c",
-      "title": "Trainers Are An Autumn Capsule Staple—6 Styles Everyone With Taste Will Be Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/shoes/autumn-trainer-trends-2026",
-      "summary": "Best foot forward.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-21T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2148,20 +2176,6 @@
       "angle": "Fashion Intelligence: 21 Best Chains for Men 2026...",
       "score": 2,
       "published": "2026-08-19T02:00:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8acb1c84c8c7",
-      "title": "18 Types of Jackets for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/types-of-jackets-for-men/",
-      "summary": "What’s the first piece of clothing you notice on someone? Their shoes? Nah, too far down. Their shirt? Often not visible at first glance. The pants? Likely obscured by a piece of outerwear. No matter which way you spin it, your jacket is getting spotted first. The types of jackets for men span the seasons &#8230; Conti",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 18 Types of Jackets for Men In 2026...",
-      "score": 2,
-      "published": "2026-08-19T01:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "मकर राशिफल 2026",
+      "term": "മഞ്ജു വാര്യര്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കാനഡ",
+      "term": "அரிசி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery sambad lottery sambad",
+      "term": "आवास",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "govinda",
+      "term": "யஷஸ்வி ஜெய்ஸ்வால்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "સોનું",
+      "term": "ব্রাজিল জাতীয় ফুটবল দল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चेक",
+      "term": "devdutt padikkal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഒമാന്",
+      "term": "dutch gp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ரமேஷ்",
+      "term": "पी॰ चिदंबरम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "animesh kujur",
+      "term": "शुबमन गिल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एक राष्ट्र , एक चुनाव",
+      "term": "rain",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
