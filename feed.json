@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-08-24T08:46:23.066566+00:00",
+  "generated_at": "2026-08-24T11:27:23.772592+00:00",
   "owned_count": 10,
-  "competitor_count": 20,
-  "industry_count": 182,
+  "competitor_count": 21,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "495b31459c20",
+      "title": "I Live for Soft Goat's Gorgeous Knits—the Fall Collection Is Absolutely Divine",
+      "link": "https://www.whowhatwear.com/fashion/shopping/soft-goat-fall-2026",
+      "summary": "The sweaters! The coats!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-24T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a1d1c97ab313",
+      "title": "How to Spot an Elegant It Girl in Autumn 2026—These Timeless Jeans and This Trending Shoe",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/dark-wash-stove-pipe-jeans-kitten-heel-flip-flops-satin-bag-trend-dakota-fanning-2026",
+      "summary": "Spot them a mile away.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-24T10:24:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e0d0203c0f41",
+      "title": "The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studios",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-milan",
+      "summary": "On your next visit to Italy’s fashion capital, skip the hotel and stay in one of the best Airbnbs in Milan instead. Vogue rounds up its favorites.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studio...",
+      "score": 1,
+      "published": "2026-08-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4ec00d311d2",
+      "title": "20 Modern Jewelry Brands Worth Knowing in 2026",
+      "link": "https://www.vogue.com/article/contemporary-jewelry-brands-to-invest-in-now",
+      "summary": "Get to know the modern jewelry brands Vogue editors are loving. From Juju Vera to Vertigo to Dezso, these designers deserve a spot in your jewelry box.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 20 Modern Jewelry Brands Worth Knowing in 2026...",
+      "score": 2,
+      "published": "2026-08-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6638f12689b7",
+      "title": "Just Browsing: L’Agence Fuses California Ease With a French Edge on Madison Avenue",
+      "link": "https://www.vogue.com/article/just-browsing-lagence-2026",
+      "summary": "From standout denim to elegant slip dresses, these are the best pieces to shop at L’Agence’s flagship.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Just Browsing: L’Agence Fuses California Ease With a French Edge on Ma...",
+      "score": 1,
+      "published": "2026-08-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "423cae6da8e7",
+      "title": "I Yap About Shopping All Day Long—These Are the 4 Fall Elevated Basics I'm Telling People to Try First",
+      "link": "https://www.whowhatwear.com/fashion/shopping/elevated-basics-fall-2026",
+      "summary": "You'll wear these pieces all the time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Yap About Shopping All Day Long—These Are the 4 Fall Elevated Basics...",
+      "score": 1,
+      "published": "2026-08-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2ae3b7e2f528",
+      "title": "In Paris, Every Elegant French Woman's Autumn Wardrobe Includes a Staple From This Chic Brand",
+      "link": "https://www.whowhatwear.com/fashion/shopping/sezane-autumn-new-in-2026",
+      "summary": "Vive l'automne!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In Paris, Every Elegant French Woman's Autumn Wardrobe Includes a Stap...",
+      "score": 1,
+      "published": "2026-08-24T09:40:53+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "eae8e9376ae2",
       "title": "Pack Away Your Sandals—These 5 Autumn Boot Trends Have Our Full Attention Right Now",
@@ -20,20 +118,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-24T07:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6bb9665adf3d",
-      "title": "Opposition Launches Overnight Assembly Protest Over Welfare Fund Scam And Demands Minister Resignation",
-      "link": "https://www.indiatoday.in/india/video/opposition-launches-overnight-assembly-protest-over-welfare-fund-scam-and-demands-minister-resignation-ytvd-2978467-2026-08-24?utm_source=rss",
-      "summary": "Opposition Launches Overnight Assembly Protest Over Welfare Fund Scam And Demands Minister Resignation",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-24T07:27:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -765,20 +849,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "96431886943d",
-      "title": "I'm a Denim Devotee— 6 Trends I'll Be Wearing With Jeans This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/autumn-trends-to-wear-with-jeans-2026",
-      "summary": "New season ready.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "65593102ad25",
       "title": "Millennials Will Be Shocked: Gen Z Is Saying These 2016 Brands Are Relevant Again",
       "link": "https://www.whowhatwear.com/fashion/shopping/2016-brands-comeback-2026",
@@ -803,6 +873,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: 8 Fashion Editors On the Pieces They Regret Buying (and What We'd Buy ...",
       "score": 1,
+      "published": "2026-08-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "96431886943d",
+      "title": "I'm a Denim Devotee— 6 Trends I'll Be Wearing With Jeans This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-trends-to-wear-with-jeans-2026",
+      "summary": "New season ready.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-08-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -975,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "53cc0f71a15a",
-      "title": "The Fashion Person's Guide to Getting Dressed for the US Open",
-      "link": "https://www.whowhatwear.com/fashion/summer/what-to-wear-to-the-us-open-2026",
-      "summary": "Let the games begin.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Fashion Person's Guide to Getting Dressed for the US Open...",
-      "score": 2,
-      "published": "2026-08-21T21:34:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7d8284706e18",
       "title": "Princess Sofia of Sweden Nails the All-White Uniform With the Help of Some Billowing Pleated Pants",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73497345/princess-sofia-of-sweden-all-white-look-pleated-pants/",
@@ -1003,34 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c678c79262c0",
-      "title": "Not Black Leggings—Hailey Bieber and Other It Girls Are Wearing This Chic Shorts Color to Pilates Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/baby-pink-shorts-trend-nina-dobrev-hailey-bieber-2026",
-      "summary": "It's prettier, too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-21T20:58:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8867a9993b79",
-      "title": "Kylie Jenner's Khy Just Launched Shoes—I Have a Feeling They'll Sell Out in a Week",
-      "link": "https://www.whowhatwear.com/fashion/shopping/kylie-jenner-khy-gia-borghini",
-      "summary": "In collaboration with Gia Borghini.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-21T20:46:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0f9a5d3b3295",
       "title": "How Will the British Press Handle Harry and Meghan’s Return?",
       "link": "https://www.harpersbazaar.com/celebrity/a73496570/prince-harry-meghan-markle-moving-back-uk-british-press/",
@@ -1042,34 +1084,6 @@
       "angle": "Fashion Intelligence: How Will the British Press Handle Harry and Meghan’s Return?...",
       "score": 0,
       "published": "2026-08-21T20:08:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2b300128ae6a",
-      "title": "If Your Style Is Kendall Jenner Coded, These Are the 2026 Color Trends to Wear",
-      "link": "https://www.whowhatwear.com/fashion/kendall-jenner-color-trends",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-21T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3d3c96f274aa",
-      "title": "Fashion People Everywhere (Myself Included) Will Be Wearing These 3 Specific Items This Fall",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-dark-denim-suede-handbags-leather-loafers-fall-2026",
-      "summary": "A chic closet refresh made easy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-21T20:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1171,34 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "30f2a8794ef6",
-      "title": "Hydrate vs Moisturize: What Benefits Aging Skin More?",
-      "link": "https://www.vogue.com/article/hydrate-versus-moisturize",
-      "summary": "Contrary to the common assumption, hydration and moisture are two different concepts when it comes to skincare.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hydrate vs Moisturize: What Benefits Aging Skin More?...",
-      "score": 0,
-      "published": "2026-08-21T17:46:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "97a0621a6119",
-      "title": "’70s Jeans and Boho Blouses Were Always Meant to Be",
-      "link": "https://www.vogue.com/article/70s-jeans-boho-blouses",
-      "summary": "These retro-inspired jeans will give your wardrobe a breath of fresh air when paired with boho blouses.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ’70s Jeans and Boho Blouses Were Always Meant to Be...",
-      "score": 0,
-      "published": "2026-08-21T17:16:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a8aa8eaac2ce",
       "title": "Miley Cyrus’s Casual Off-Duty Fit Is Elevated With an Animal-Print Statement Bag",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73495805/miley-cyrus-saint-laurent-leopard-print-tote-bag-los-angeles-street-style-photos/",
@@ -1210,20 +1196,6 @@
       "angle": "Fashion Intelligence: Miley Cyrus’s Casual Off-Duty Fit Is Elevated With an Animal-Print Sta...",
       "score": 1,
       "published": "2026-08-21T16:56:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "96ad2a1c54df",
-      "title": "The Top Fall 2026 Color Trends, From Royal Purple to Juicy Peach",
-      "link": "https://www.vogue.com/article/fall-2026-color-trends",
-      "summary": "A closer look at fall’s top color trends—from royal purple to juicy peach—and the pieces to shop to introduce them to your wardrobe.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-21T16:54:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1969,20 +1941,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7f9b6faf10ce",
-      "title": "Global “Whimsy-Maxxing” Trend Pushes Clashing Prints and Layered Dressing Back Into Focus",
-      "link": "https://in.apparelresources.com/fashion-news/trends/global-whimsy-maxxing-trend-pushes-clashing-prints-layered-dressing-back-focus/",
-      "summary": "A new maximalist dressing trend, “whimsy-maxxing,” is steering consumers toward colour, print and texture over restraint. The aesthetic embraces clashing florals, stripes and checks, bright sneakers with printed dresses, oversized sunglasses and layered pieces that feel accumulated rather than carefully curated. Positi",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-19T13:10:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9e6ae6e1e669",
       "title": "The Best Grey Hairstyles For Men",
       "link": "https://www.fashionbeans.com/article/best-grey-hairstyles-men/",
@@ -2557,6 +2515,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5a520d9429c2",
+      "title": "Sensible Medical insurance Preparations",
+      "link": "https://www.indianclothstore.com/blog/sensible-medical-insurance-preparations",
+      "summary": "ghstbuyer Mandating this type of extremely important health and fitness benefits guarantees complete coverage for those and you may household, dealing with the diverse health care requires. These types of benefits tend to be emergency characteristics, maternity and you may newborn proper care, psychological state and y",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sensible Medical insurance Preparations...",
+      "score": 0,
+      "published": "2026-08-24T11:03:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2d0bce7d1c7b",
+      "title": "Kushali’s Wedding Look Was a Beautiful Celebration of Tradition and Individuality",
+      "link": "https://blog.kalkifashion.com/kushalis-wedding-look-was-a-beautiful-celebration-of-tradition-and-individuality/",
+      "summary": "Some bridal looks make a statement through grandeur, while others remain memorable because they feel deeply personal. Real bride Kushali’s wedding ensemble brought both worlds together. Rich in traditional colour, intricate craftsmanship and thoughtful styling, her look reflected the significance of the occasion withou",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Kushali’s Wedding Look Was a Beautiful Celebration of Tradition and Individuality — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-08-24T10:35:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3e1de67aa661",
       "title": "Thoughtful Raksha Bandhan Gifts For Your Brother",
       "link": "https://blog.kalkifashion.com/thoughtful-raksha-bandhan-gifts-for-your-brother/",
@@ -2767,20 +2753,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "106ac738dc6b",
-      "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
-      "link": "https://blog.kalkifashion.com/10-trending-anarkali-suits-for-raksha-bandhan/",
-      "summary": "Raksha Bandhan is almost there, and the air is already filled with the joy of celebrations, reuniting with siblings and dressing up for the good. Marked by the tying of a rakhi as the sacred thread in return for a promise to be protected forever by their brother, sisters love this festival more than anything. [&#8230;]",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Unique Anarkali Suit Options For Raksha Bandhan...",
-      "score": 2,
-      "published": "2026-07-23T04:45:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "19b64ad7353c",
       "title": "Jacket Style Lehenga Choli: What It Is and When to Wear One",
       "link": "https://www.indianclothstore.com/blog/jacket-style-lehenga-choli-what-it-is-when-to-wear",
@@ -2979,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "mohammed siraj",
+      "term": "ऋषभ पंत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मोहसिन खान",
+      "term": "प्याज",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சென்னை சூப்பர் கிங்ஸ்",
+      "term": "অভিষেক ব্যানার্জি",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वाराणसी",
+      "term": "ఆంధ్రప్రదేశ్ రాష్ట్ర ఎన్నికల సంఘం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "alpha",
+      "term": "பங்கு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಸಕ್ಕರೆ",
+      "term": "ચેક",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "harbhajan singh",
+      "term": "బంగారం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "తిరుపతి",
+      "term": "santy sharma news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "போக்குவரத்து",
+      "term": "శుక్రుడు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "harvard university",
+      "term": "teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
