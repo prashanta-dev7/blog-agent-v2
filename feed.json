@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T11:19:57.820012+00:00",
+  "generated_at": "2026-08-24T02:59:46.875460+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 185,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Romance Was Born Spring 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-23T11:18:33+00:00",
+      "published": "2026-08-24T02:54:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,35 +33,189 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Simon Miller Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-08-23T11:18:33+00:00",
+      "published": "2026-08-24T02:54:08+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "679fd1d4aa9e",
-      "title": "Viral video claimed to show Keerthana; TVK minister denies it, calls out misogyny",
-      "link": "https://www.indiatoday.in/india/tamil-nadu/story/keerthana-false-video-row-tamil-nadu-tvk-minister-slams-scrutiny-womens-clothes-2977990-2026-08-23?utm_source=rss",
-      "summary": "Viral video claimed to show Keerthana; TVK minister denies it, calls out misogyny",
-      "source": "India Today Fashion",
+      "id": "20013b4fb6ce",
+      "title": "How to Spot an It Girl in 2026: This Cropped-Jeans Style and This French-Girl Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-crop-flare-jeans-block-heel-pumps-trends-zoe-kravitz",
+      "summary": "Click if you want to look as cool as Zoë.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Viral video claimed to show Keerthana; TVK minister denies it, calls o...",
-      "score": 1,
-      "published": "2026-08-23T11:14:51+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-23T22:26:45+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "f0ccad9e95a2",
-      "title": "Smriti Irani Challenges Rahul Gandhi Over Women's Quota Bill Amid BJP-Congress Nari Shakti Showdown",
-      "link": "https://www.indiatoday.in/india/video/smriti-irani-challenges-rahul-gandhi-over-womens-quota-bill-amid-bjp-congress-nari-shakti-showdown-ytvd-2977997-2026-08-23?utm_source=rss",
-      "summary": "Smriti Irani Challenges Rahul Gandhi Over Women's Quota Bill Amid BJP-Congress Nari Shakti Showdown",
-      "source": "India Today Fashion",
+      "id": "ee4f16322893",
+      "title": "Silky, Hydrating, and Featherweight—These Serum Foundations Are the Answer to Your Makeup Prayers",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-serum-foundation-products",
+      "summary": "Options for every skin type and budget.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Silky, Hydrating, and Featherweight—These Serum Foundations Are the An...",
+      "score": 1,
+      "published": "2026-08-23T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d44297d6b5ff",
+      "title": "How Sophie McIntosh Wrote ‘Benevolent,’ One of the Most Bracing Plays of the Year",
+      "link": "https://www.vogue.com/article/sophie-mcintosh-benevolent-play-interview",
+      "summary": "The playwright speaks to Vogue about drawing inspiration from New York’s old reformatory homes, why she still believes in content warnings, and what it means for a play to be truly “political.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Sophie McIntosh Wrote ‘Benevolent,’ One of the Most Bracing Plays ...",
+      "score": 0,
+      "published": "2026-08-23T19:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "22ec94b25092",
+      "title": "Dress Code: Suitsupply",
+      "link": "https://www.fashionbeans.com/article/suitsupply/",
+      "summary": "",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dress Code: Suitsupply...",
+      "score": 1,
+      "published": "2026-08-23T18:01:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f89d42b9bb8a",
+      "title": "Zoë Kravitz’s Casual NYC Look Is All About This Slouchy Saint Laurent Bag",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73504575/zoe-kravitz-saint-laurent-slouchy-bag-nyc-street-style-photos/",
+      "summary": "She adds the statement piece to her white tee and jeans",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Zoë Kravitz’s Casual NYC Look Is All About This Slouchy Saint Laurent ...",
+      "score": 0,
+      "published": "2026-08-23T17:47:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a123b174690c",
+      "title": "Princess Kate Cosigns the Victorian Blouse Trend With a High-Neck Ruffled Shirt",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73504416/kate-middleton-cosigns-victorian-style-blouse-trend-photos/",
+      "summary": "She headed to church with Prince William and their children",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-23T16:40:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "643446b1d2eb",
+      "title": "The Best Dressed Stars of the Week Nailed Sophisticated-Cool",
+      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-rihanna-hailey-bieber-zoe-kravitz",
+      "summary": "These quietly elegant looks had serious cool factor—as seen on stars like Rihanna, Hailey Bieber, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Nailed Sophisticated-Cool...",
+      "score": 1,
+      "published": "2026-08-23T16:14:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d026e85820c1",
+      "title": "Rihanna’s Sporty Y2K Look Features a Cotton Candy-Pink Jacket and an Itty-Bitty Skirt",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73504192/rihanna-sporty-y2k-look-cotton-candy-pink-miu-miu-jacket-photos/",
+      "summary": "A$AP Rocky ushers the kids along for a family outing",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rihanna’s Sporty Y2K Look Features a Cotton Candy-Pink Jacket and an I...",
+      "score": 0,
+      "published": "2026-08-23T15:40:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0ac734de973b",
+      "title": "Hailey Bieber Shares a Sweet Glimpse at Everyday Life With Son Jack Blues",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73504070/hailey-bieber-celebrates-son-jack-blues-bieber-second-birthday/",
+      "summary": "The 2-year-old has a new hobby",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hailey Bieber Shares a Sweet Glimpse at Everyday Life With Son Jack Bl...",
+      "score": 0,
+      "published": "2026-08-23T14:03:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a31e32a367ef",
+      "title": "Instead of Ballet Flats, This Is the Flat Shoe Trend Everyone Will Style With Cute Jeans This Fall",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/derby-shoe-outfits",
+      "summary": "And trousers, too.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-23T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d797ce93cef3",
+      "title": "Rihanna Runs It Back in a 2000s-era Rihanna Staple",
+      "link": "https://www.vogue.com/article/rihanna-runs-it-back-in-a-2000s-era-rihanna-staple",
+      "summary": "While everyone else engages in the great summer shorts debate, Rihanna opts to keep it classic on a night out in New York.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rihanna Runs It Back in a 2000s-era Rihanna Staple...",
+      "score": 0,
+      "published": "2026-08-23T13:27:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "789a44410471",
+      "title": "A First Look At Sézane’s “New Era” Autumn Collection",
+      "link": "https://www.vogue.com/article/sezane-new-in",
+      "summary": "Vogue hears from Sézane founder Morgane Sezalory about the brand’s new era. Expect trenches, denim and suede accessories aplenty.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Smriti Irani Challenges Rahul Gandhi Over Women's Quota Bill Amid BJP-...",
-      "score": 1,
-      "published": "2026-08-23T10:37:20+00:00",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-08-23T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7deb7d93ad7",
+      "title": "Fashion Insiders Are Already Wearing What Will Be Fall 2026's Chicest Loafers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/khaite-colt-loafers-trend-sarah-pidgeon-2026",
+      "summary": "Prepare to be sick of them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-23T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -79,15 +233,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e239e742eb8b",
-      "title": "From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Ruled the Venice Film Festival",
-      "link": "https://www.vogue.com/slideshow/20-times-italian-bombshells-ruled-the-venice-film-festival",
+      "id": "2847171fdb5a",
+      "title": "From Sophia Loren to Monica Bellucci, 19 Times Italian Bombshells Ruled the Venice Film Festival",
+      "link": "https://www.vogue.com/slideshow/19-times-italian-bombshells-ruled-the-venice-film-festival",
       "summary": "From Sophia Loren to Monica Bellucci, we look back at the Venice Film Festival’s most stylish attendees from decades past.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Rule...",
+      "angle": "Fashion Intelligence: From Sophia Loren to Monica Bellucci, 19 Times Italian Bombshells Rule...",
       "score": 0,
       "published": "2026-08-23T10:00:00+00:00",
       "discovered_via": "feed"
@@ -104,20 +258,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-23T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4bf83f22a1a8",
-      "title": "NCB to launch 24 nationwide anti-drug drives from Sept, target fugitives, pharmacies",
-      "link": "https://www.indiatoday.in/india/story/ncb-anti-drug-campaign-24-nationwide-drives-track-fugitives-inspect-pharmacies-ptag-2977938-2026-08-23?utm_source=rss",
-      "summary": "NCB to launch 24 nationwide anti-drug drives from Sept, target fugitives, pharmacies",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-23T08:33:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -163,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c2cda0dbc4cd",
-      "title": "I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beauty Products—You’re Welcome",
-      "link": "https://www.whowhatwear.com/wellness/luxury-london-gym-beauty-products",
-      "summary": "What to expect for £200+ a month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beaut...",
-      "score": 1,
-      "published": "2026-08-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0ea83e942924",
       "title": "I've Tried Lots of Luxury Perfumes, But These Body Mists Earn Me Just as Many Compliments",
       "link": "https://www.whowhatwear.com/penhaligons-body-mists",
@@ -186,6 +312,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I've Tried Lots of Luxury Perfumes, But These Body Mists Earn Me Just ...",
+      "score": 1,
+      "published": "2026-08-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c2cda0dbc4cd",
+      "title": "I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beauty Products—You’re Welcome",
+      "link": "https://www.whowhatwear.com/wellness/luxury-london-gym-beauty-products",
+      "summary": "What to expect for £200+ a month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beaut...",
       "score": 1,
       "published": "2026-08-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -202,6 +342,20 @@
       "angle": "Fashion Intelligence: Zoë Kravitz Experiments in a Long Misunderstood Denim Style...",
       "score": 1,
       "published": "2026-08-23T05:56:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3cc630394e1f",
+      "title": "Behind the Gloss: Achieve the Wet Hair Look with 2026’s Trendsetting Products",
+      "link": "https://www.fashionbeans.com/article/best-wet-hair-look-products/",
+      "summary": "It’s hard to put a finger on why the wet look is so appealing. Perhaps it’s because it makes us think of emerging from a cool body of water or that it generally evokes moisture, which inevitably makes us think of youth. Needless to say, the wet look is hot. Both sultry and sleek with &#8230; Continue reading Behind the",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-23T05:51:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -222,7 +376,7 @@
       "id": "7ef67012a444",
       "title": "Ariana Grande and Ricky Álvarez Layer Up for an Even Harder Launch in London",
       "link": "https://www.vogue.com/article/ariana-grande-and-ricky-alvarez-layer-up-in-london",
-      "summary": "In London for the Eternal Sunshine tour, Ariana Grande and boyfriend Ricky Álvarez are holding onto the last embers of British summertime, despite the temp.",
+      "summary": "In London for the “Eternal Sunshine” tour, Ariana Grande and boyfriend Ricky Álvarez are holding onto the last embers of British summertime.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
@@ -569,6 +723,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "96431886943d",
+      "title": "I'm a Denim Devotee— 6 Trends I'll Be Wearing With Jeans This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-trends-to-wear-with-jeans-2026",
+      "summary": "New season ready.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "65593102ad25",
       "title": "Millennials Will Be Shocked: Gen Z Is Saying These 2016 Brands Are Relevant Again",
       "link": "https://www.whowhatwear.com/fashion/shopping/2016-brands-comeback-2026",
@@ -593,20 +761,6 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: 8 Fashion Editors On the Pieces They Regret Buying (and What We'd Buy ...",
       "score": 1,
-      "published": "2026-08-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "96431886943d",
-      "title": "I'm a Denim Devotee— 6 Trends I'll Be Wearing With Jeans This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/autumn-trends-to-wear-with-jeans-2026",
-      "summary": "New season ready.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-08-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1157,20 +1311,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-21T13:24:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "256184fc0e57",
       "title": "Microbladed Brows Gone Wrong? Here’s How to Fix Them",
       "link": "https://www.harpersbazaar.com/beauty/makeup/a73475623/fix-microbladed-eyebrows/",
@@ -1196,20 +1336,6 @@
       "angle": "Fashion Intelligence: The Best Transitional Jackets to Wear Into Early Fall...",
       "score": 1,
       "published": "2026-08-21T13:06:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e5a42bc3674",
-      "title": "Could This Yacht Reverse Aging?",
-      "link": "https://www.vogue.com/article/could-this-yacht-reverse-aging",
-      "summary": "The Four Seasons is partnering with wellbeing clinic Lanserhof to offer an ultra-luxe longevity retreat. It’s a reflection of what luxury means today.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Could This Yacht Reverse Aging?...",
-      "score": 2,
-      "published": "2026-08-21T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1311,20 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "730d28a29fb1",
-      "title": "Jacob Elordi Doesn’t Mind Being Mogged by His Co-Star, Rak the Dog",
-      "link": "https://www.vogue.com/article/jacob-elordi-rak-the-dog-the-dog-stars-premiere-london",
-      "summary": "Oh, to be a Dogue, posing alongside Jacob Elordi—the co-stars appeared together on the red carpet for the world premiere of Ridley Scott’s “The Dog Stars.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Jacob Elordi Doesn’t Mind Being Mogged by His Co-Star, Rak the Dog...",
-      "score": 0,
-      "published": "2026-08-21T10:40:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "511f2ad04087",
       "title": "Hold the Sneakerinas—This Classic Trainer Trend Makes Leggings Look Far Chicer",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-leggings-white-chunky-trainers-outfit-jennifer-lopez-2026",
@@ -1350,62 +1462,6 @@
       "angle": "Fashion Intelligence: Trench Coats Get an Overhaul for A/W 26...",
       "score": 2,
       "published": "2026-08-21T10:20:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "07fad812c098",
-      "title": "This Viral Tote Is Suddenly Fashion’s Most-Wanted Handbag—and It’s Surprisingly Affordable",
-      "link": "https://www.whowhatwear.com/fashion/shopping/alex-mill-tote-bag",
-      "summary": "Gwyneth, Tracee and Julia agree.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Viral Tote Is Suddenly Fashion’s Most-Wanted Handbag—and It’s Sur...",
-      "score": 1,
-      "published": "2026-08-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db3d95b514fd",
-      "title": "Not Wedges, Not Pumps—This Is the New-Season Heels Trend Fashion People in Paris Are All Wearing",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cut-out-heels-mini-dress-hat-outfit-margot-robbie-2026",
-      "summary": "Sorry, slingbacks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-08-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2c6def26e1f",
-      "title": "Stylish Women Have Quietly Started Wearing Their Jeans This Specific Way",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-cuffed-jeans-outfit-ideas-2026",
-      "summary": "See the proof inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f66cd1bea51",
-      "title": "I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Designer Bags",
-      "link": "https://www.whowhatwear.com/fashion/luxury/man-bags-designer",
-      "summary": "Sorry, luxury watches.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Blame Jacob Elordi—Here’s Why Every Man Is Suddenly Splurging on Des...",
-      "score": 2,
-      "published": "2026-08-21T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1899,62 +1955,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "49ceaf1f9def",
-      "title": "These Denim Trends Will Define Fall 2026",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a73455542/fall-denim-trends-2026/",
-      "summary": "From skinny cigarettes to dark indigo, here’s what made the cut",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-19T20:12:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1b7eaa1f076b",
-      "title": "The Minimalist Fashion Brand Leaving No Trace",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a73455352/the-park-sustainable-luxury-review/",
-      "summary": "The Park gives a second life to garment waste and uses tree pulp to craft its dresses and skirts",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: The Minimalist Fashion Brand Leaving No Trace...",
-      "score": 4,
-      "published": "2026-08-19T20:06:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bb6805708e96",
-      "title": "Duchess Meghan Offers Rare Intel Into Her Morning Wellness Routine",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73476242/meghan-markle-morning-wellness-routine-details-yoga-peppermint-tea/",
-      "summary": "It involves a bit of yoga and this specific beverage",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Duchess Meghan Offers Rare Intel Into Her Morning Wellness Routine...",
-      "score": 0,
-      "published": "2026-08-19T18:25:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "02ce3bc865b3",
-      "title": "Nicole Kidman Brings Back Her Natural Curls While on Vacation in Iceland",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a73474967/nicole-kidman-natural-curls-vacation-photos/",
-      "summary": "The Oscar-winning star took to the seas for time off with her family",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Nicole Kidman Brings Back Her Natural Curls While on Vacation in Icela...",
-      "score": 0,
-      "published": "2026-08-19T17:39:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e1557939337c",
       "title": "Must Read: Estée Lauder Posts Strong Q4 Sales, Target Shows Signs of Recovery",
       "link": "https://fashionista.com/news/estee-lauder-q4-earnings-report-fiscal-2027",
@@ -2162,20 +2162,6 @@
       "angle": "Fashion Intelligence: 13 Types of Shirts Every Man Should Own 2026...",
       "score": 3,
       "published": "2026-08-19T04:00:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bb8df82861fc",
-      "title": "21 Best Chains for Men 2026",
-      "link": "https://www.fashionbeans.com/article/best-chain-necklaces-men/",
-      "summary": "Unless you raided your dear mother’s jewellery box when you were younger, traveled around South East Asia on your gap year like Leonardo DiCaprio in The Beach, or explored the best chains for men, chances are you&#8217;ve never considered adorning your neck with such an accessory. But with an ever-increasing roll call ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 21 Best Chains for Men 2026...",
-      "score": 2,
-      "published": "2026-08-19T02:00:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "മഞ്ജു വാര്യര്",
+      "term": "रक्षाबंधन कब है",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அரிசி",
+      "term": "today rain",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आवास",
+      "term": "weather mumbai",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "யஷஸ்வி ஜெய்ஸ்வால்",
+      "term": "విశ్వనాధ్ & సన్స్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ব্রাজিল জাতীয় ফুটবল দল",
+      "term": "aoc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "devdutt padikkal",
+      "term": "रवि तेजा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dutch gp",
+      "term": "பூர்ணா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पी॰ चिदंबरम",
+      "term": "अंतरिक्ष यान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शुबमन गिल",
+      "term": "ভারতীয় রেল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rain",
+      "term": "মানসী সিনহা",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
