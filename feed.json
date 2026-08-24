@@ -1,39 +1,95 @@
 {
-  "generated_at": "2026-08-24T02:59:46.875460+00:00",
+  "generated_at": "2026-08-24T05:37:23.381941+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 184,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "cc50092c0e4c",
-      "title": "Romance Was Born Spring 2026 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/romance-was-born",
-      "summary": "",
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Romance Was Born Spring 2026 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-08-24T02:54:08+00:00",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-08-24T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "2d3b7dbbdeca",
-      "title": "Simon Miller Fall 2026 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/simon-miller",
-      "summary": "",
+      "id": "f2ff8a53c953",
+      "title": "Indian Share Markets Open Steady, Govt Steps In To Cool Sugar Prices Ahead Of Festive Season",
+      "link": "https://www.indiatoday.in/india/video/indian-share-markets-open-steady-govt-steps-in-to-cool-sugar-prices-ahead-of-festive-season-ytvd-2978354-2026-08-24?utm_source=rss",
+      "summary": "Indian Share Markets Open Steady, Govt Steps In To Cool Sugar Prices Ahead Of Festive Season",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-24T04:52:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b851435c8ce6",
+      "title": "Fact Check: This DOES NOT show massive crowd at Rahul Gandhi's 'Chhatron Ki Goonj' in Pune",
+      "link": "https://www.indiatoday.in/india/story/rahul-gandhi-pune-event-fact-check-viral-crowd-video-from-mexico-2978343-2026-08-24?utm_source=rss",
+      "summary": "Fact Check: This DOES NOT show massive crowd at Rahul Gandhi's 'Chhatron Ki Goonj' in Pune",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Fact Check: This DOES NOT show massive crowd at Rahul Gandhi's 'Chhatr...",
+      "score": 1,
+      "published": "2026-08-24T04:42:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b8f579a32e0",
+      "title": "Sugar Prices Surge Ahead Of Festive Season; Congress Targets Govt, Centre Cites Red Rot & El Nino",
+      "link": "https://www.indiatoday.in/india/video/sugar-prices-surge-ahead-of-festive-season-congress-targets-govt-centre-cites-red-rot-el-nino-ytvd-2978345-2026-08-24?utm_source=rss",
+      "summary": "Sugar Prices Surge Ahead Of Festive Season; Congress Targets Govt, Centre Cites Red Rot & El Nino",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-24T04:33:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d481fb63e59",
+      "title": "Are Creators Up to the Task of Their New Marketing Roles?",
+      "link": "https://www.vogue.com/article/are-creators-up-to-the-task-of-their-new-marketing-roles",
+      "summary": "The creator job description is no longer limited to making and distributing content — influencers are now expected to have business savvy to boot.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Simon Miller Fall 2026 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-08-24T02:54:08+00:00",
+      "angle": "Fashion Intelligence: Are Creators Up to the Task of Their New Marketing Roles?...",
+      "score": 0,
+      "published": "2026-08-24T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98d2f84c3695",
+      "title": "In Luxury’s New Resale Era, Everyone’s a Fashion Expert",
+      "link": "https://www.vogue.com/article/in-luxurys-new-resale-era-everyones-a-fashion-expert",
+      "summary": "The RealReal’s 2026 resale report illustrates the rise in specificity and saviness in luxury resale. This will change how the industry operates.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In Luxury’s New Resale Era, Everyone’s a Fashion Expert...",
+      "score": 2,
+      "published": "2026-08-24T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -303,20 +359,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0ea83e942924",
-      "title": "I've Tried Lots of Luxury Perfumes, But These Body Mists Earn Me Just as Many Compliments",
-      "link": "https://www.whowhatwear.com/penhaligons-body-mists",
-      "summary": "And look just as chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Tried Lots of Luxury Perfumes, But These Body Mists Earn Me Just ...",
-      "score": 1,
-      "published": "2026-08-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c2cda0dbc4cd",
       "title": "I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beauty Products—You’re Welcome",
       "link": "https://www.whowhatwear.com/wellness/luxury-london-gym-beauty-products",
@@ -326,6 +368,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beaut...",
+      "score": 1,
+      "published": "2026-08-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0ea83e942924",
+      "title": "I've Tried Lots of Luxury Perfumes, But These Body Mists Earn Me Just as Many Compliments",
+      "link": "https://www.whowhatwear.com/penhaligons-body-mists",
+      "summary": "And look just as chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Tried Lots of Luxury Perfumes, But These Body Mists Earn Me Just ...",
       "score": 1,
       "published": "2026-08-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1224,20 +1280,6 @@
       "angle": "Fashion Intelligence: Rihanna Heads to Dinner in a Creamsicle Chloé Tracksuit...",
       "score": 0,
       "published": "2026-08-21T14:58:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "820a59b25930",
-      "title": "Lords of the Rings: Menswear Designers Are Going All-In on This Frisky, Statement-Making Earring",
-      "link": "https://www.vogue.com/article/hoop-earrings-mens-trend",
-      "summary": "The hot new jewelry item from the spring 2027 menswear shows was the bold hoop earring.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Lords of the Rings: Menswear Designers Are Going All-In on This Frisky...",
-      "score": 4,
-      "published": "2026-08-21T14:27:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +3049,52 @@
   ],
   "trends": [
     {
-      "term": "रक्षाबंधन कब है",
+      "term": "விஜய்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "today rain",
+      "term": "abid mushtaq",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather mumbai",
+      "term": "mht cet 2026 cap counselling results",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విశ్వనాధ్ & సన్స్",
+      "term": "mohammed shami",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aoc",
+      "term": "parandur airport",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "पोलीस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रवि तेजा",
+      "term": "ಹಾಸನ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பூர்ணா",
+      "term": "मोहम्मद अली जौहर यूनिवर्सिटी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अंतरिक्ष यान",
+      "term": "india vs sri lanka",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ভারতীয় রেল",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "মানসী সিনহা",
+      "term": "प्राकृतिक गैस",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
