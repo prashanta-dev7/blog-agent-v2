@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-08-24T05:37:23.381941+00:00",
+  "generated_at": "2026-08-24T08:46:23.066566+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 187,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "eae8e9376ae2",
+      "title": "Pack Away Your Sandals—These 5 Autumn Boot Trends Have Our Full Attention Right Now",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-boot-trends-2026",
+      "summary": "Bring on the boots.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-24T07:40:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6bb9665adf3d",
+      "title": "Opposition Launches Overnight Assembly Protest Over Welfare Fund Scam And Demands Minister Resignation",
+      "link": "https://www.indiatoday.in/india/video/opposition-launches-overnight-assembly-protest-over-welfare-fund-scam-and-demands-minister-resignation-ytvd-2978467-2026-08-24?utm_source=rss",
+      "summary": "Opposition Launches Overnight Assembly Protest Over Welfare Fund Scam And Demands Minister Resignation",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-08-24T07:27:54+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b5246c083189",
       "title": "The Vogue Business People Moves Tracker",
@@ -20,48 +48,6 @@
       "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
       "score": 0,
       "published": "2026-08-24T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f2ff8a53c953",
-      "title": "Indian Share Markets Open Steady, Govt Steps In To Cool Sugar Prices Ahead Of Festive Season",
-      "link": "https://www.indiatoday.in/india/video/indian-share-markets-open-steady-govt-steps-in-to-cool-sugar-prices-ahead-of-festive-season-ytvd-2978354-2026-08-24?utm_source=rss",
-      "summary": "Indian Share Markets Open Steady, Govt Steps In To Cool Sugar Prices Ahead Of Festive Season",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-24T04:52:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b851435c8ce6",
-      "title": "Fact Check: This DOES NOT show massive crowd at Rahul Gandhi's 'Chhatron Ki Goonj' in Pune",
-      "link": "https://www.indiatoday.in/india/story/rahul-gandhi-pune-event-fact-check-viral-crowd-video-from-mexico-2978343-2026-08-24?utm_source=rss",
-      "summary": "Fact Check: This DOES NOT show massive crowd at Rahul Gandhi's 'Chhatron Ki Goonj' in Pune",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Fact Check: This DOES NOT show massive crowd at Rahul Gandhi's 'Chhatr...",
-      "score": 1,
-      "published": "2026-08-24T04:42:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4b8f579a32e0",
-      "title": "Sugar Prices Surge Ahead Of Festive Season; Congress Targets Govt, Centre Cites Red Rot & El Nino",
-      "link": "https://www.indiatoday.in/india/video/sugar-prices-surge-ahead-of-festive-season-congress-targets-govt-centre-cites-red-rot-el-nino-ytvd-2978345-2026-08-24?utm_source=rss",
-      "summary": "Sugar Prices Surge Ahead Of Festive Season; Congress Targets Govt, Centre Cites Red Rot & El Nino",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-24T04:33:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -359,20 +345,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c2cda0dbc4cd",
-      "title": "I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beauty Products—You’re Welcome",
-      "link": "https://www.whowhatwear.com/wellness/luxury-london-gym-beauty-products",
-      "summary": "What to expect for £200+ a month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beaut...",
-      "score": 1,
-      "published": "2026-08-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0ea83e942924",
       "title": "I've Tried Lots of Luxury Perfumes, But These Body Mists Earn Me Just as Many Compliments",
       "link": "https://www.whowhatwear.com/penhaligons-body-mists",
@@ -382,6 +354,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I've Tried Lots of Luxury Perfumes, But These Body Mists Earn Me Just ...",
+      "score": 1,
+      "published": "2026-08-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c2cda0dbc4cd",
+      "title": "I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beauty Products—You’re Welcome",
+      "link": "https://www.whowhatwear.com/wellness/luxury-london-gym-beauty-products",
+      "summary": "What to expect for £200+ a month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I’ve Ranked London's Most Exclusive Gyms Based Entirely on Their Beaut...",
       "score": 1,
       "published": "2026-08-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -751,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f41432169e6f",
-      "title": "Once Fashion’s Most Divisive Shoe, Tabis Are Suddenly Everywhere—17 Split-Toe Flats to Shop Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/tabi-ballet-flat-trend-2026",
-      "summary": "It's a Tabi takeover.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Once Fashion’s Most Divisive Shoe, Tabis Are Suddenly Everywhere—17 Sp...",
-      "score": 1,
-      "published": "2026-08-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d096ed3a5787",
       "title": "5 Fall Shoe Trends That'll Make Your Jeans Look Cooler",
       "link": "https://www.whowhatwear.com/fashion/fall/shoe-trends-with-jeans-fall-2026",
@@ -774,6 +746,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f41432169e6f",
+      "title": "Once Fashion’s Most Divisive Shoe, Tabis Are Suddenly Everywhere—17 Split-Toe Flats to Shop Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/tabi-ballet-flat-trend-2026",
+      "summary": "It's a Tabi takeover.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Once Fashion’s Most Divisive Shoe, Tabis Are Suddenly Everywhere—17 Sp...",
       "score": 1,
       "published": "2026-08-22T08:00:00+00:00",
       "discovered_via": "feed"
@@ -1283,34 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "050e23409bf4",
-      "title": "According to Expert Nail Artists, August's Hottest Pedi Shades Scream Runway, Not Boardwalk",
-      "link": "https://www.whowhatwear.com/beauty/nails/august-pedicure-colors-2026",
-      "summary": "From trendy blues to fall-coded burgundies.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: According to Expert Nail Artists, August's Hottest Pedi Shades Scream ...",
-      "score": 2,
-      "published": "2026-08-21T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "75cf95427acf",
-      "title": "Chic and Trend-Forward—These New Arrivals From J.Crew, Zara, and Reformation Are Giving \"It Girl\"",
-      "link": "https://www.whowhatwear.com/jcrew-zara-reformation-fall-fashion-2026",
-      "summary": "Brocade jackets, two-tone shoes, and cool Henleys.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-21T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bf3cfac737f5",
       "title": "Ahyun: An Acne-Safe Beauty Brand Inspired by the Founder's Chinese and Korean Heritage",
       "link": "https://fashionista.com/2026/08/ahyun-cosmetics-skin-care-brand",
@@ -1462,34 +1420,6 @@
       "angle": "Fashion Intelligence: Dark Romance Dominates Fall 2026 Runways, Set to Trickle Into Indian R...",
       "score": 4,
       "published": "2026-08-21T10:45:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e12eca3939c",
-      "title": "Instead of T-Shirts and Tanks, This Jumper Trend Makes Stove-Pipe Jeans Look Chicest",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/off-the-shoulder-jumper-stove-pipe-jeans-outfit-trend-jessica-alba-2026",
-      "summary": "An early-autumn staple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-21T10:41:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "511f2ad04087",
-      "title": "Hold the Sneakerinas—This Classic Trainer Trend Makes Leggings Look Far Chicer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-leggings-white-chunky-trainers-outfit-jennifer-lopez-2026",
-      "summary": "It's true.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-21T10:31:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2627,6 +2557,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3e1de67aa661",
+      "title": "Thoughtful Raksha Bandhan Gifts For Your Brother",
+      "link": "https://blog.kalkifashion.com/thoughtful-raksha-bandhan-gifts-for-your-brother/",
+      "summary": "Are you also enjoying the festive air that has been surrounding us lately? Doesn’t the atmosphere feel a little different as soon as the calendar reaches mid-year? The air feels fresher, the vibes get happier, and there’s a certain excitement that comes with knowing the festive season is just around the corner. And Rak",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Thoughtful Raksha Bandhan Gifts For Your Brother...",
+      "score": 2,
+      "published": "2026-08-24T06:14:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "30591ea40f34",
       "title": "cw-check-https://test123.com/",
       "link": "https://www.indianclothstore.com/blog/cw-check-https-test123-com",
@@ -2837,20 +2781,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "28c6a87d117f",
-      "title": "Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season",
-      "link": "https://blog.kalkifashion.com/trending-wedding-colours-beyond-red-for-modern-brides/",
-      "summary": "Red has long been an iconic color for every bride and bride-to-be. Synonymous with Indian bridal fashion, red is a symbol of love, new beginnings, and prosperity.&#160; But today’s brides want more than just red. With their elaborate taste and diverse choices available in the market, today’s brides want a more unique a",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Skipping Red Bridal Lehengas? These Colors Are Winning Hearts This Wedding Season — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-07-20T04:48:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "19b64ad7353c",
       "title": "Jacket Style Lehenga Choli: What It Is and When to Wear One",
       "link": "https://www.indianclothstore.com/blog/jacket-style-lehenga-choli-what-it-is-when-to-wear",
@@ -3049,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "விஜய்",
+      "term": "mohammed siraj",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "abid mushtaq",
+      "term": "मोहसिन खान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mht cet 2026 cap counselling results",
+      "term": "சென்னை சூப்பர் கிங்ஸ்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mohammed shami",
+      "term": "वाराणसी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "parandur airport",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "पोलीस",
+      "term": "alpha",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಹಾಸನ",
+      "term": "ಸಕ್ಕರೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मोहम्मद अली जौहर यूनिवर्सिटी",
+      "term": "harbhajan singh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india vs sri lanka",
+      "term": "తిరుపతి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्राकृतिक गैस",
+      "term": "போக்குவரத்து",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "harvard university",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
