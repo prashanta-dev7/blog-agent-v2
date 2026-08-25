@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-08-25T08:41:04.363657+00:00",
+  "generated_at": "2026-08-25T11:26:29.372979+00:00",
   "owned_count": 10,
   "competitor_count": 22,
-  "industry_count": 180,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "f4d06431aaed",
+      "title": "Allahabad HC Dismisses Student Plea To Wear Hijab, Says Not Essential Practice In Islam",
+      "link": "https://www.indiatoday.in/india/video/allahabad-hc-dismisses-student-plea-to-wear-hijab-says-not-essential-practice-in-islam-ytvd-2979555-2026-08-25?utm_source=rss",
+      "summary": "Allahabad HC Dismisses Student Plea To Wear Hijab, Says Not Essential Practice In Islam",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Allahabad HC Dismisses Student Plea To Wear Hijab, Says Not Essential ...",
+      "score": 1,
+      "published": "2026-08-25T11:22:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fce4af7e93d9",
+      "title": "Emerging Designers Are Gaining Momentum on the Luxury Resale Market",
+      "link": "https://fashionista.com/news/emerging-designers-realreal-luxury-resale-report-2026",
+      "summary": "Secondhand shoppers are increasingly seeking out indie brands like Zankov, Heirlome and Rùadh, according to The RealReal's new report.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Emerging Designers Are Gaining Momentum on the Luxury Resale Market...",
+      "score": 3,
+      "published": "2026-08-25T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7505c1e86545",
+      "title": "On the Podcast: Three Vogue Editors’ Most Anticipated Festival Films",
+      "link": "https://www.vogue.com/article/on-the-podcast-vogue-editors-most-anticipated-fall-films-or-plus-harry-and-meghan-head-back-to-the-uk",
+      "summary": "Deputy editor Taylor Antrim served as a guest host on today’s episode of “The Run-Through,” joined by fellow Vogue editors and cinephiles Liam Hess and Lisa Wong Macabasco to break down their most anticipated premieres in Venice, Toronto, and at the New York Film Festival.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: On the Podcast: Three Vogue Editors’ Most Anticipated Festival Films...",
+      "score": 0,
+      "published": "2026-08-25T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "16a32b6d3a93",
+      "title": "Let’s Face It: Influencers Aren’t Really the Problem",
+      "link": "https://www.vogue.com/article/lets-face-it-influencers-arent-really-the-problem",
+      "summary": "Influencer culture has its problems, content creator Laura Jung writes. But its harshest critics should scrutinize the systems that power it, too.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Let’s Face It: Influencers Aren’t Really the Problem...",
+      "score": 0,
+      "published": "2026-08-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d566a6143f9c",
+      "title": "From the Archives: MacKenzie Bezos: Writer, Mother of Four, and High-Profile Wife",
+      "link": "https://www.vogue.com/article/a-novel-perspective-mackenzie-bezos",
+      "summary": "As the noted philanthropist releases her latest work of fiction, “Last Days in Two Nations,” via Substack, revisit Vogue’s profile of Scott from 2013.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: MacKenzie Bezos: Writer, Mother of Four, and High-P...",
+      "score": 0,
+      "published": "2026-08-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4e221a03f635",
+      "title": "Not Jeans—These Pants Will Make Every Fall Outfit Look Way Cooler",
+      "link": "https://www.whowhatwear.com/fashion/shopping/anti-denim-fall-pants-shopping",
+      "summary": "See the shopping list inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Jeans—These Pants Will Make Every Fall Outfit Look Way Cooler...",
+      "score": 1,
+      "published": "2026-08-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5e319b3a8a62",
+      "title": "Luxury’s Latest Cyber Risk? AI Agents Going Rogue",
+      "link": "https://www.vogue.com/article/luxurys-latest-cyber-risk-ai-agents-going-rogue",
+      "summary": "As AI bots become more sophisticated, the threat of security breaches is on the rise. Here’s how brands can protect themselves.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Luxury’s Latest Cyber Risk? AI Agents Going Rogue...",
+      "score": 2,
+      "published": "2026-08-25T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "2aea57bc8174",
       "title": "H&M Just Dropped the Chicest Autumn Basics—19 Anti-Trend Pieces I'm Backing for the New Season",
@@ -20,34 +118,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 2,
       "published": "2026-08-25T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "072af566b8d2",
-      "title": "Flapper-Era Silhouettes Return for the Festive Season",
-      "link": "https://in.apparelresources.com/fashion-news/trends/flapper-era-silhouettes-return-festive-season/",
-      "summary": "Silhouettes drawn from the 1920s flapper era are reappearing across global runways and red carpets this festive and wedding season, offering a straight-cut, sleeveless alternative to the fitted eveningwear that has dominated recent seasons. The defining elements are a loose, column-like drop-waist silhouette, exposed s",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 5,
-      "published": "2026-08-25T07:45:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f09a98f750ca",
-      "title": "Parandur Airport Project Sparks Showdown In Assembly As TVK And DMK Clash Over Farmers Interests",
-      "link": "https://www.indiatoday.in/india/video/parandur-airport-project-sparks-showdown-in-assembly-as-tvk-and-dmk-clash-over-farmers-interests-ytvd-2979385-2026-08-25?utm_source=rss",
-      "summary": "Parandur Airport Project Sparks Showdown In Assembly As TVK And DMK Clash Over Farmers Interests",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-25T07:32:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -751,48 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bd9e661b4075",
-      "title": "Odette Opens 50th Store in Bengaluru",
-      "link": "https://in.apparelresources.com/business-news/retail/odette-opens-50th-store-bengaluru/",
-      "summary": "Homegrown fashion and lifestyle brand Odette has opened its 50th store in India, strengthening its offline retail presence with a new outlet at The Galleria Mall, Yelahanka, Bengaluru. The store marks the brand’s second outlet in the city and forms part of its expansion across key retail markets. Spread across approxim",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Odette Opens 50th Store in Bengaluru...",
-      "score": 3,
-      "published": "2026-08-24T12:27:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c0d834ce0126",
-      "title": "Checks Get a Modern Makeover for A/W 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/checks-get-modern-makeover-w-2026/",
-      "summary": "Checks are returning as a key print for Autumn/Winter 2026, building on the heritage-led dressing that gained traction last season. The shift this year is largely in how the pattern is being styled. Rather than relying on a single checked garment, designers are layering checks across different pieces, scales and colour",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Checks Get a Modern Makeover for A/W 2026...",
-      "score": 4,
-      "published": "2026-08-24T12:13:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f30cf3dfa94b",
-      "title": "SNITCH Opens Five New Stores, Store Count Reaches 131",
-      "link": "https://in.apparelresources.com/business-news/retail/snitch-opens-five-new-stores-store-count-reaches-131/",
-      "summary": "SNITCH, a menswear brand, has opened five new stores in Kolkata, Pune, Nashik, Patiala and Noida In August as part of its offline retail expansion and omnichannel strategy. The new stores are located across metro and emerging markets. With these additions, SNITCH’s total store count in India has reached 131 stores. Eac",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: SNITCH Opens Five New Stores, Store Count Reaches 131...",
-      "score": 3,
-      "published": "2026-08-24T11:49:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "495b31459c20",
       "title": "I Live for Soft Goat's Gorgeous Knits—the Fall Collection Is Absolutely Divine",
       "link": "https://www.whowhatwear.com/fashion/shopping/soft-goat-fall-2026",
@@ -830,34 +858,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The 26 Best Airbnbs in Milan, From Industrial Lofts to Charming Studio...",
-      "score": 1,
-      "published": "2026-08-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e4ec00d311d2",
-      "title": "20 Modern Jewelry Brands Worth Knowing in 2026",
-      "link": "https://www.vogue.com/article/contemporary-jewelry-brands-to-invest-in-now",
-      "summary": "Get to know the modern jewelry brands Vogue editors are loving. From Juju Vera to Vertigo to Dezso, these designers deserve a spot in your jewelry box.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 20 Modern Jewelry Brands Worth Knowing in 2026...",
-      "score": 2,
-      "published": "2026-08-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6638f12689b7",
-      "title": "Just Browsing: L’Agence Fuses California Ease With a French Edge on Madison Avenue",
-      "link": "https://www.vogue.com/article/just-browsing-lagence-2026",
-      "summary": "From standout denim to elegant slip dresses, these are the best pieces to shop at L’Agence’s flagship.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Just Browsing: L’Agence Fuses California Ease With a French Edge on Ma...",
       "score": 1,
       "published": "2026-08-24T10:00:00+00:00",
       "discovered_via": "feed"
@@ -902,34 +902,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-24T07:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-08-24T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0d481fb63e59",
-      "title": "Are Creators Up to the Task of Their New Marketing Roles?",
-      "link": "https://www.vogue.com/article/are-creators-up-to-the-task-of-their-new-marketing-roles",
-      "summary": "The creator job description is no longer limited to making and distributing content — influencers are now expected to have business savvy to boot.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Are Creators Up to the Task of Their New Marketing Roles?...",
-      "score": 0,
-      "published": "2026-08-24T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1115,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "618f431883d1",
-      "title": "We All Agree, Then—This Fuss-Free Top is the Easy Way to Elevate Your New Season Looks",
-      "link": "https://www.whowhatwear.com/how-to-wear-a-henley-t-shirt-2026",
-      "summary": "It's all in the detail.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e096aa476567",
       "title": "Denim Is Around the Corner—7 Ways Parisian It Girls Are Updating Their Jeans Outfits for Autumn",
       "link": "https://www.whowhatwear.com/fashion/fall/french-girl-autumn-jeans-outfits-2026",
@@ -1138,6 +1096,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Denim Is Around the Corner—7 Ways Parisian It Girls Are Updating Their...",
+      "score": 1,
+      "published": "2026-08-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "618f431883d1",
+      "title": "We All Agree, Then—This Fuss-Free Top is the Easy Way to Elevate Your New Season Looks",
+      "link": "https://www.whowhatwear.com/how-to-wear-a-henley-t-shirt-2026",
+      "summary": "It's all in the detail.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-08-23T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1395,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f41432169e6f",
-      "title": "Once Fashion’s Most Divisive Shoe, Tabis Are Suddenly Everywhere—17 Split-Toe Flats to Shop Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/tabi-ballet-flat-trend-2026",
-      "summary": "It's a Tabi takeover.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Once Fashion’s Most Divisive Shoe, Tabis Are Suddenly Everywhere—17 Sp...",
-      "score": 1,
-      "published": "2026-08-22T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "75e48456338a",
       "title": "An Expert Guide to Curly and Coily Hair Over 50",
       "link": "https://www.harpersbazaar.com/beauty/hair/a73495788/curly-hair-over-50-guide/",
@@ -1574,20 +1532,6 @@
       "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
       "score": 3,
       "published": "2026-08-21T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25d945c904b1",
-      "title": "Reliance Brands appoints Shivani Goel as Vice President –Marketing",
-      "link": "https://in.apparelresources.com/business-news/retail/reliance-brands-appoints-shivani-goel-vice-president-marketing/",
-      "summary": "Shivani Goel has joined Reliance Brands Limited as Associate Vice President Marketing, where she will lead marketing and brand growth for a portfolio of global luxury and premium brands in India. In her new role, Goel will oversee the India marketing mandate for HUGO BOSS, Paul &#38; Shark, ZEGNA and TUMI. Her responsi",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Reliance Brands appoints Shivani Goel as Vice President –Marketing...",
-      "score": 2,
-      "published": "2026-08-21T13:47:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2515,17 +2459,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2eab6ea6000e",
-      "title": "Lulla Collection & Bindya Accessories Is Hiring An Assistant Sales & Logistics Coordinator In New York, NY",
-      "link": "https://fashionista.com/2026/08/lulla-collection-bindya-accessories-is-hiring-an-assistant-sales-logistics-coordinator-in-new-york-ny",
-      "summary": "Lulla Collection & Bindya Accessories is an established importer and wholesaler of fashion accessories, handbags, scarves, hats, beachwear, and lifestyle products.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 4,
-      "published": "2026-08-07T21:45:38+00:00",
+      "id": "19896b7afc45",
+      "title": "Shivani’s Magenta Bridal Dream Amid the Natural Beauty of Sasan Gir",
+      "link": "https://blog.kalkifashion.com/shivanis-magenta-bridal-look-in-sasan-gir/",
+      "summary": "Some love stories unfold slowly, finding their rhythm over months or even years. Others arrive with complete certainty. For this KALKI bride and her husband, it took only one meeting to know that they had found the person with whom they wanted to spend the rest of their lives. There was no hesitation or second-guessing",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Shivani’s Magenta Bridal Dream Amid the Natural Beauty of Sasan Gir — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-25T09:52:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2568,6 +2512,20 @@
       "angle": "Bridal Edit: Kushali’s Wedding Look Was a Beautiful Celebration of Tradition and Individuality — A Complete Style Guide",
       "score": 5,
       "published": "2026-08-24T10:35:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ee1b9aa7b14",
+      "title": "Die besten Slots bestes boku casino in der Online Spielothek.",
+      "link": "https://www.indianclothstore.com/blog/die-besten-slots-bestes-boku-casino-in-der-online-spielothek",
+      "summary": "Überprüfen Sie, ob es in Ihrem bevorzugten Genre genug Spieltitel gibt und ob die Spiele von führenden Softwareanbietern bereitgestellt werden In diesem Sinne, haben wir versucht auf unserer Liste der besten Online Casinos etwas für jeden Geschmack zu bieten. Freispiele können als Teil des Willkommensbonus oder im Rahm",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Die besten Slots bestes boku casino in der Online Spielothek....",
+      "score": 0,
+      "published": "2026-08-24T09:17:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2697,20 +2655,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "75f6ee6d0efa",
-      "title": "Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Match",
-      "link": "https://www.indianclothstore.com/blog/saree-for-rakshabandhan-outfit-ideas",
-      "summary": "A good saree for rakshabandhan paired with a matching kurta for the brother is the easiest way to create a coordinated Raksha Bandhan look without shopping for separate color palettes. This guide covers saree picks, kurti options, salwar kameez styles, men&#8217;s kurta pajama pairings, and color combinations that phot",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Mat...",
-      "score": 4,
-      "published": "2026-08-13T05:06:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8588fe449fdb",
       "title": "Trending Indo Western Dresses For Raksha Bandhan",
       "link": "https://blog.kalkifashion.com/trending-indo-western-dresses-for-raksha-bandhan/",
@@ -2795,20 +2739,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "024ce1881421",
-      "title": "10 Unique Anarkali Suit Options For Raksha Bandhan",
-      "link": "https://blog.kalkifashion.com/10-trending-anarkali-suit-for-rakshan-bandhan/",
-      "summary": "Raksha Bandhan is almost there, and the air is already filled with the joy of celebrations, reuniting with siblings and dressing up for the good. Marked by the tying of a rakhi as the sacred thread in return of a promise to be protected forever by their brother, sisters love this festival more than anything. [&#8230;] ",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Unique Anarkali Suit Options For Raksha Bandhan...",
-      "score": 2,
-      "published": "2026-07-30T09:10:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dc0d74da955e",
       "title": "Designer Kurtas for Wedding Functions Crafted for Moments That Matter",
       "link": "https://www.torani.in/blogs/news/designer-kurtas-for-wedding-functions-crafted-for-moments-that-matter",
@@ -2837,10 +2767,24 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ec3bffa04917",
+      "title": "Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twist – Here’s How to Recreate It",
+      "link": "https://www.azafashions.com/blog/kiara-advani-black-velvet-saree/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-black-velvet-saree",
+      "summary": "Some colours don't need company. Kiara Advani proved exactly that at the Toxic promotions in Hyderabad, stepping out in an all-black velvet saree by Manish Malhotra that skipped embellishment-heavy drama&#8230; The post Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twist &#8211; Here&#8217;s How to",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twi...",
+      "score": 3,
+      "published": "2026-08-25T10:27:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "fc3b99117186",
       "title": "Skip the Heavy Silk: Lightweight Sarees to Wear This Ganesh Chaturthi",
       "link": "https://www.azafashions.com/blog/lightweight-sarees-ganesh-chaturthi/?utm_source=rss&utm_medium=rss&utm_campaign=lightweight-sarees-ganesh-chaturthi",
-      "summary": "Ganesh Chaturthi calls for colour, festivity, and a saree that feels as good as it looks. But there's a common assumption that dressing up for a festive occasion often means reaching for&#8230; The post Skip the Heavy Silk: Lightweight Sarees to Wear This Ganesh Chaturthi appeared first on Aza Editorials .",
+      "summary": "Ganesh Chaturthi calls for colour, festivity, and a saree that feels as good as it looks. But there's a common assumption that dressing up for a festive&#160;occasion often&#160;means reaching for&#8230; The post Skip the Heavy Silk: Lightweight Sarees to Wear This Ganesh Chaturthi appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
@@ -2961,70 +2905,56 @@
       "score": 1,
       "published": "2026-08-20T11:22:48+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "a920d67c088d",
-      "title": "Kinda Chic: The New Rules of Wedding Dressing",
-      "link": "https://www.azafashions.com/blog/kinda-chic-indian-wedding-dressing/?utm_source=rss&utm_medium=rss&utm_campaign=kinda-chic-indian-wedding-dressing",
-      "summary": "Five ways to make occasionwear feel a little less expected—and a lot more you.&#160; There is a new mood taking over fashion right now: Kinda Chic.&#160; Not quite minimal, not&#8230; The post Kinda Chic: The New Rules of Wedding Dressing appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Kinda Chic — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-08-19T11:45:40+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "অভিষেক ব্যানার্জি",
+      "term": "उत्तर प्रदेश शिक्षक पात्रता परीक्षा यूपीटीईटी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "north zone vs west zone",
+      "term": "തൃണമൂല് കോണ്ഗ്രസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఉపాధ్యాయ అర్హత పరీక్ష",
+      "term": "teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bethlehem kudumba unit movie",
+      "term": "திரைப்படம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बजाज पल्सर",
+      "term": "कसोटी सामना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दिल्ली",
+      "term": "illu illalu",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రైలు",
+      "term": "अतीक अहमद",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অর্থ",
+      "term": "prithvi shaw",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hindustan copper ofs",
+      "term": "शेयर बाज़ार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बुलंदशहर",
+      "term": "कॉकरोच जनता पार्टी",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
