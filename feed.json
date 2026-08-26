@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T03:01:20.303379+00:00",
+  "generated_at": "2026-08-26T05:33:53.955331+00:00",
   "owned_count": 10,
-  "competitor_count": 22,
+  "competitor_count": 20,
   "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
@@ -19,7 +19,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kith Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-08-26T02:56:26+00:00",
+      "published": "2026-08-26T05:30:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2064fcb33bd6",
+      "title": "From Notting Hill to Rio: The Brand Guide to Carnival",
+      "link": "https://www.vogue.com/article/from-notting-hill-to-rio-the-brand-guide-to-carnival",
+      "summary": "In 2026, audiences are quick to call out a culture vulture. Brands wanting to engage with Carnival, Fête De La Musique, and cultural festivities must approach with caution, envisioning themselves as supporters, not headline sponsors.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: From Notting Hill to Rio: The Brand Guide to Carnival...",
+      "score": 1,
+      "published": "2026-08-26T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7ff1ca533f67",
+      "title": "The Rise of the Influencer-Investor",
+      "link": "https://www.vogue.com/article/the-rise-of-the-influencer-investor",
+      "summary": "Creators are claiming a stake in the businesses their influence helps scale. But the promise of a bigger payday comes with financial risk — and a more complicated relationship with their audiences.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Rise of the Influencer-Investor...",
+      "score": 0,
+      "published": "2026-08-26T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c1add8670d58",
-      "title": "Here’s Everything Coming to Netflix in September 2026",
-      "link": "https://www.vogue.com/article/everything-coming-to-netflix-september-2026",
-      "summary": "From the return of 'Stranger Things: Tales From ‘85' to Ryan Murphy’s 'Monster: The Lizzie Borden Story' to the brand-new animated comedy 'Dang!'",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Here’s Everything Coming to Netflix in September 2026...",
-      "score": 1,
-      "published": "2026-08-24T23:07:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2d26024c21c1",
       "title": "Florence Pugh Is the New Face of Max Mara’s First Fragrance",
       "link": "https://www.harpersbazaar.com/beauty/health/a73512836/florence-pugh-max-mara-perfume-news/",
@@ -1112,20 +1126,6 @@
       "angle": "Fashion Intelligence: Here It Is: The Ideal 10-Piece Fall Travel Wardrobe for 2026...",
       "score": 1,
       "published": "2026-08-24T20:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d994a3bdb92d",
-      "title": "Male Model Jesse Rinderknecht Went Straight From the Farm to Being the Face of Celine",
-      "link": "https://www.vogue.com/article/model-jesse-rinderknecht-interview-photos",
-      "summary": "Swiss model Jesse Rinderknecht tells us about how he was discovered, what he likes to do, and his favorite pieces of clothing",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Male Model Jesse Rinderknecht Went Straight From the Farm to Being the...",
-      "score": 1,
-      "published": "2026-08-24T20:14:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2795,34 +2795,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dc0d74da955e",
-      "title": "Designer Kurtas for Wedding Functions Crafted for Moments That Matter",
-      "link": "https://www.torani.in/blogs/news/designer-kurtas-for-wedding-functions-crafted-for-moments-that-matter",
-      "summary": "Wedding functions have a rhythm to them. The mehendi that starts everything off, the sangeet that stretches into the early hours, the main ceremony that feels over before you've had a chance to take it all in. Each one has its own mood, colour, and energy. And the outfit you wear to each one becomes part of how you rem",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Designer Kurtas for Wedding Functions Crafted for Moments That Matter — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-06-27T05:17:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2b1cc38cd1f6",
-      "title": "Designer Sherwani for Groom Designed for Timeless Wedding Celebrations",
-      "link": "https://www.torani.in/blogs/news/designer-sherwani-for-groom-designed-for-timeless-wedding-celebrations",
-      "summary": "For most grooms, the wedding day is a collection of moments that have lived in the imagination long before they actually arrive. The baraat, the first look, the slow walk to the mandap, the photographs that try to hold all of it at once. Through every one of those moments, through every ritual and every celebration tha",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Designer Spotlight",
-      "angle": "Bridal Edit: Designer Sherwani for Groom Designed for Timeless Wedding Celebrations — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-06-27T05:13:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec3bffa04917",
       "title": "Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twist – Here’s How to Recreate It",
       "link": "https://www.azafashions.com/blog/kiara-advani-black-velvet-saree/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-black-velvet-saree",
@@ -2965,54 +2937,54 @@
   ],
   "trends": [
     {
-      "term": "gandhari",
+      "term": "lahiru udara",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather gwalior",
+      "term": "హైదరాబాద్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aadhaar card",
+      "term": "उर्वशी रौतेला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "stock market today",
+      "term": "sonal dinusha",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অভিনয়শিল্পী",
+      "term": "உக்ரைன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "today is eid",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "भारतीय महिला हॉकी टीम",
+      "term": "सोनल दिनुषा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "barawafat",
+      "term": "ಬ್ಯಾಂಕ್ ರಜೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "antigua & barbuda falcons vs barbados royals",
+      "term": "today date",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eid today",
+      "term": "toxic movie review in telugu",
       "summary": "",
-      "aza_category": "Occasion Dressing"
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "cyient share price",
+      "summary": "",
+      "aza_category": "Fashion & Style"
     }
   ],
   "tracked_keywords": [
