@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T05:33:53.955331+00:00",
+  "generated_at": "2026-08-26T08:42:05.226811+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 179,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kith Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-08-26T05:30:07+00:00",
+      "published": "2026-08-26T08:40:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3e1d43f5337f",
+      "title": "I'm Obsessed With Nicole Kidman’s “Revenge Dressing” Era, And You Should Be Too",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/nicole-kidman-pop-culture-moments-2026",
+      "summary": "That's babygirl to you.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Obsessed With Nicole Kidman’s “Revenge Dressing” Era, And You Shou...",
+      "score": 1,
+      "published": "2026-08-26T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "362c00ccd63b",
+      "title": "Jeans Are An Autumn Staple—Everyone With Taste Will Be Wearing Them With These 5 Shirt Styles",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/autumn-shirt-jeans-outfits-2026",
+      "summary": "Think \"jeans and a nice top\".",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-26T07:35:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b1ca3ad6dd5c",
+      "title": "Giva Withdraws Controversial Rakhi Ad | Row Over Outfit & Pet Rakhi | Kangana Vs Rahul",
+      "link": "https://www.indiatoday.in/india/video/giva-withdraws-controversial-rakhi-ad-row-over-outfit-pet-rakhi-kangana-vs-rahul-ytvd-2980172-2026-08-26?utm_source=rss",
+      "summary": "Giva Withdraws Controversial Rakhi Ad | Row Over Outfit & Pet Rakhi | Kangana Vs Rahul",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Giva Withdraws Controversial Rakhi Ad | Row Over Outfit & Pet Rakhi | ...",
+      "score": 1,
+      "published": "2026-08-26T07:24:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6d9df8b01634",
+      "title": "Prediction: Every Fashion Person Will Be Wearing This New Perfume in Autumn",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/byredo-future-memories-review",
+      "summary": "I'm already hooked.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-26T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1605,48 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d29f94f41065",
-      "title": "Suddenly, Celebrities Are Over Denim and Track Shorts—This is the Shorts Trend They’re All Backing Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pink-shorts-trend-hailey-bieber-iris-law-elsa-hosk-nina-dobrev-2026",
-      "summary": "It's taking off right now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-23T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ca59a6ba0789",
-      "title": "I'm a Fashion Editor, These are the 5 Late-Summer Outfits I'm Wearing On Repeat Right Now",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/late-summer-outfit-ideas-2026",
-      "summary": "Easy, breezy and autumn-ready.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-23T07:13:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e096aa476567",
-      "title": "Denim Is Around the Corner—7 Ways Parisian It Girls Are Updating Their Jeans Outfits for Autumn",
-      "link": "https://www.whowhatwear.com/fashion/fall/french-girl-autumn-jeans-outfits-2026",
-      "summary": "The new French tuck.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Denim Is Around the Corner—7 Ways Parisian It Girls Are Updating Their...",
-      "score": 1,
-      "published": "2026-08-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3cc630394e1f",
       "title": "Behind the Gloss: Achieve the Wet Hair Look with 2026’s Trendsetting Products",
       "link": "https://www.fashionbeans.com/article/best-wet-hair-look-products/",
@@ -2515,6 +2529,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "cebc790d3327",
+      "title": "Isha’s Perfect Bollywood Love Story Turned into an Ivory Bridal Dream in Jaipur",
+      "link": "https://blog.kalkifashion.com/ishas-ivory-bridal-dream-in-jaipur/",
+      "summary": "Some love stories begin with a perfect first meeting. Isha’s began with a meeting that seemingly led nowhere—only to return with a wonderfully unexpected twist. What started as an arranged introduction gradually became a friendship, then a romance, and finally a marriage celebrated amid the regal beauty of Vijayran Pal",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Celebrity Style",
+      "angle": "Bridal Edit: Isha’s Perfect Bollywood Love Story Turned into an Ivory Bridal Dream in Jaipur — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1121d14e943d",
       "title": "New betting sites UK make placing bets feel surprisingly straightforward",
       "link": "https://www.indianclothstore.com/blog/new-betting-sites-uk-make-placing-bets-feel-surprisingly-straightforward",
@@ -2781,20 +2809,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7bca2420f108",
-      "title": "Love In Bloom: The Beginning of KALKI Bride & Groom Couture ’26",
-      "link": "https://blog.kalkifashion.com/love-in-bloom-kalki-bride-groom-couture-26/",
-      "summary": "Every wedding has its own beginning. It&#8217;s the excitement of the joyful days knocking the doors, the butterflies before starting a new tomorrow, the happy chaos uniting families and the moments you&#8217;ll cherish forever after the big-fat celebration is over. To perfectly align with this feeling, KALKI Bride &#3",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Love In Bloom — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-01T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec3bffa04917",
       "title": "Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twist – Here’s How to Recreate It",
       "link": "https://www.azafashions.com/blog/kiara-advani-black-velvet-saree/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-black-velvet-saree",
@@ -2937,52 +2951,52 @@
   ],
   "trends": [
     {
-      "term": "lahiru udara",
+      "term": "समाचार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "హైదరాబాద్",
+      "term": "pasindu sooriyabandara",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "उर्वशी रौतेला",
+      "term": "தமிழக வெற்றிக் கழகம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sonal dinusha",
+      "term": "ರಾಜೀನಾಮೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "உக்ரைன்",
+      "term": "टॉक्सिक मूवी रिव्यू",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सोनल दिनुषा",
+      "term": "പി.എ. മുഹമ്മദ് റിയാസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಬ್ಯಾಂಕ್ ರಜೆ",
+      "term": "tata group",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "today date",
+      "term": "లేడీ సూపర్ స్టార్ నయనతార",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "toxic movie review in telugu",
+      "term": "amitabh bachchan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cyient share price",
+      "term": "nepal",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
