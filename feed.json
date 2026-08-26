@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T08:42:05.226811+00:00",
+  "generated_at": "2026-08-26T11:28:54.013153+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 180,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kith Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-08-26T08:40:13+00:00",
+      "published": "2026-08-26T11:25:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ff103179870a",
+      "title": "London’s Fast Approaching Fall Won’t Keep Millie Bobby Brown Out of Her Capris",
+      "link": "https://www.vogue.com/article/millie-bobby-brown-capri-pants-london",
+      "summary": "Millie Bobby Brown stepped out in London on Monday for dinner at Dorian with her husband, Jake Bongiovi, and her famous father-in-law Jon Bongiovi.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: London’s Fast Approaching Fall Won’t Keep Millie Bobby Brown Out of He...",
+      "score": 0,
+      "published": "2026-08-26T11:05:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ea785114ab3",
+      "title": "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
+      "link": "https://www.vogue.com/slideshow/dolly-parton-quotes-on-life-love-and-everything-in-between",
+      "summary": "The country music icon Dolly Parton has passed away at the age of age: her love of dazzling rhinestones and great bon mots remain gifts to us all.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Charming Dolly Parton Quotes on Life, Love, and Everything In Betwe...",
+      "score": 0,
+      "published": "2026-08-26T10:55:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9e674d1a4693",
+      "title": "I'm Officially Over Flip-Flops—Instead, I'm Wearing Ballet Flats In This Elegant Shade",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/beige-ballet-flats-trend-apple-martin-2026",
+      "summary": "I'm recommending them to everyone.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-08-26T10:47:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "581160ddfd43",
+      "title": "“We Will Always Love You”: Beyoncé, Taylor Swift, and More Remember Dolly Parton",
+      "link": "https://www.vogue.com/article/dolly-parton-celebrity-tributes",
+      "summary": "The news of Dolly Parton’s death prompted a wave of tributes from across the globe, with music, fashion, and Hollywood stars honoring Parton’s profound legacy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: “We Will Always Love You”: Beyoncé, Taylor Swift, and More Remember Do...",
+      "score": 1,
+      "published": "2026-08-26T10:31:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc34fb6c1234",
+      "title": "Video shows 6-year-old removed by Bihar cops from protest site, Dipke reacts",
+      "link": "https://www.indiatoday.in/india/story/bihar-student-protest-six-year-old-boy-police-abhijeet-dipke-aap-react-2980266-2026-08-26?utm_source=rss",
+      "summary": "Video shows 6-year-old removed by Bihar cops from protest site, Dipke reacts",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Video shows 6-year-old removed by Bihar cops from protest site, Dipke ...",
+      "score": 1,
+      "published": "2026-08-26T10:17:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0174bd797210",
+      "title": "9 Best Places to Travel in Fall, From Upstate Cabins to French Vineyards",
+      "link": "https://www.vogue.com/article/best-places-to-travel-in-fall",
+      "summary": "Wondering what the best places to travel in the fall are? From countryside retreats to city escapes, these nine destinations are a good place to start.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 9 Best Places to Travel in Fall, From Upstate Cabins to French Vineyar...",
+      "score": 0,
+      "published": "2026-08-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a845b7df34fe",
+      "title": "A Dolly Parton Quote to Live By",
+      "link": "https://www.vogue.com/article/a-dolly-parton-quote-to-live-by",
+      "summary": "Writer Margaux Anbouba pays tribute to the country singer, who deftly demystified her famous assets.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Dolly Parton Quote to Live By...",
+      "score": 0,
+      "published": "2026-08-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4202ce4b37d4",
+      "title": "I'm Shopbop's Senior Fashion Director—These Are the Fall Trends I'm Not Wearing, But Here's What I'm Adding to My Closet Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/shopbop-fall-fashion-trends-2026-in-out",
+      "summary": "Wardrobe inspo ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6d5f51c517f6",
+      "title": "In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Clinical-Grade Skincare Brand to Me",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-prequel-products",
+      "summary": "In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Clinical-Grade Skincare Brand to Me",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Cli...",
+      "score": 1,
+      "published": "2026-08-26T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "88fa98c85803",
+      "title": "And Now, 31 Pretty Fall Tops to Wear With Jeans",
+      "link": "https://www.whowhatwear.com/fashion/tops/pretty-fall-tops-to-wear-with-jeans",
+      "summary": "\"Jeans and a cute top\" season is upon us.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: And Now, 31 Pretty Fall Tops to Wear With Jeans...",
+      "score": 2,
+      "published": "2026-08-26T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5e319b3a8a62",
-      "title": "Luxury’s Latest Cyber Risk? AI Agents Going Rogue",
-      "link": "https://www.vogue.com/article/luxurys-latest-cyber-risk-ai-agents-going-rogue",
-      "summary": "As AI bots become more sophisticated, the threat of security breaches is on the rise. Here’s how brands can protect themselves.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Luxury’s Latest Cyber Risk? AI Agents Going Rogue...",
-      "score": 2,
-      "published": "2026-08-25T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2aea57bc8174",
       "title": "H&M Just Dropped the Chicest Autumn Basics—19 Anti-Trend Pieces I'm Backing for the New Season",
       "link": "https://www.whowhatwear.com/fashion/shopping/hm-early-autumn-basics-2026",
@@ -1017,6 +1143,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a334c8d087bd",
+      "title": "The Diamond Face Shape: Your Ultimate Style Guide",
+      "link": "https://www.fashionbeans.com/article/diamond-face-shapes/",
+      "summary": "Have you ever been caught squinting at the mirror, wondering why that trendy haircut doesn&#8217;t quite suit your diamond face shape? You&#8217;re not alone. Understanding your face shape isn&#8217;t just facial geometry trivia—it&#8217;s the foundation of your entire style game. Think of it as the cheat code for look",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-25T05:42:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bbec6e60c3e8",
+      "title": "Pear Face Shape: Your Ultimate Guide to Striking Style",
+      "link": "https://www.fashionbeans.com/article/pear-face-shapes/",
+      "summary": "Ever stood in front of the mirror, wondering why that &#8220;universally flattering&#8221; haircut looks more like a &#8220;universal disaster&#8221; on you? The secret&#8217;s in your face shape, gents. And if your jaw&#8217;s wider than your forehead with a narrower chin, congrats—you&#8217;re rocking the pear face s",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Pear Face Shape: Your Ultimate Guide to Striking Style...",
+      "score": 1,
+      "published": "2026-08-25T05:12:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4ff0e84677af",
       "title": "My Friend Asked Me What Colour Trends Will Dominate Autumn 2026—I Sent Her These 5",
       "link": "https://www.whowhatwear.com/fashion/fall/autumn-fashion-colour-trends-2026",
@@ -1028,62 +1182,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-25T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb9ba102220d",
-      "title": "The Vogue Business AI Tracker",
-      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
-      "score": 2,
-      "published": "2026-08-25T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "230daf9385c1",
-      "title": "Inside Tennis’s Booming Influencer Economy",
-      "link": "https://www.vogue.com/article/inside-tenniss-booming-influencer-economy",
-      "summary": "As Grand Slams become increasingly valuable stages for the creator economy, brands and tournaments are racing to capitalize on the attention without diluting what made the events desirable in the first place.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Inside Tennis’s Booming Influencer Economy...",
-      "score": 1,
-      "published": "2026-08-25T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b977f267a5c2",
-      "title": "Back to School: How are Parents Shopping for Gen Alpha?",
-      "link": "https://www.vogue.com/article/back-to-school-how-are-parents-shopping-for-gen-alpha",
-      "summary": "Despite tight budgets, parent spending for kids remains stable. The key for brands will be adapting to a new, increasingly fashion-literate generation of youngsters who know what they want.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Back to School: How are Parents Shopping for Gen Alpha?...",
-      "score": 2,
-      "published": "2026-08-25T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "37222f607156",
-      "title": "Should Brands Be Patrons of Art and Culture?",
-      "link": "https://www.vogue.com/article/should-brands-be-patrons-of-art-and-culture",
-      "summary": "Brands are beginning to rethink their role in culture, moving from trying to create or control it to funding the people and the ecosystems already producing it.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Should Brands Be Patrons of Art and Culture?...",
-      "score": 1,
-      "published": "2026-08-25T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1112,6 +1210,34 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-08-25T02:20:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7f679c38b1bc",
+      "title": "18 Best Turtlenecks for Men: Perfect Layer 2026",
+      "link": "https://www.fashionbeans.com/article/best-turtlenecks-for-men/",
+      "summary": "It’s fair to say the best turtlenecks for men have been worn by some questionably-dressed characters over the years. To name but a few, Velma Dinkley, Ron Burgundy, and Dwayne &#8220;The Rock&#8221; Johnson (you know the picture). Yet they’re still considered ridiculously cool. Pretty impressive, right? Just as popular",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 18 Best Turtlenecks for Men: Perfect Layer 2026...",
+      "score": 1,
+      "published": "2026-08-25T01:44:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5d6fa4273eee",
+      "title": "The Unstructured Blazer: A Complete Guide 2026",
+      "link": "https://www.fashionbeans.com/article/unstructured-blazer/",
+      "summary": "The occasions that require you to dress up in a suit are increasingly few and far between. And with the impact of sportswear on men&#8217;s clothing, or at least the move to dressing more comfortably, it&#8217;s hardly surprising that tailoring is getting a major re-think. But one product of this shift, the men&#8217;s",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Unstructured Blazer: A Complete Guide 2026...",
+      "score": 3,
+      "published": "2026-08-25T01:00:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1409,34 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c0d834ce0126",
-      "title": "Checks Get a Modern Makeover for A/W 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/checks-get-modern-makeover-w-2026/",
-      "summary": "Checks are returning as a key print for Autumn/Winter 2026, building on the heritage-led dressing that gained traction last season. The shift this year is largely in how the pattern is being styled. Rather than relying on a single checked garment, designers are layering checks across different pieces, scales and colour",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Checks Get a Modern Makeover for A/W 2026...",
-      "score": 4,
-      "published": "2026-08-24T12:13:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f30cf3dfa94b",
-      "title": "SNITCH Opens Five New Stores, Store Count Reaches 131",
-      "link": "https://in.apparelresources.com/business-news/retail/snitch-opens-five-new-stores-store-count-reaches-131/",
-      "summary": "SNITCH, a menswear brand, has opened five new stores in Kolkata, Pune, Nashik, Patiala and Noida In August as part of its offline retail expansion and omnichannel strategy. The new stores are located across metro and emerging markets. With these additions, SNITCH’s total store count in India has reached 131 stores. Eac",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: SNITCH Opens Five New Stores, Store Count Reaches 131...",
-      "score": 3,
-      "published": "2026-08-24T11:49:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "495b31459c20",
       "title": "I Live for Soft Goat's Gorgeous Knits—the Fall Collection Is Absolutely Divine",
       "link": "https://www.whowhatwear.com/fashion/shopping/soft-goat-fall-2026",
@@ -1521,20 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ee4f16322893",
-      "title": "Silky, Hydrating, and Featherweight—These Serum Foundations Are the Answer to Your Makeup Prayers",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-serum-foundation-products",
-      "summary": "Options for every skin type and budget.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Silky, Hydrating, and Featherweight—These Serum Foundations Are the An...",
-      "score": 1,
-      "published": "2026-08-23T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "22ec94b25092",
       "title": "Dress Code: Suitsupply",
       "link": "https://www.fashionbeans.com/article/suitsupply/",
@@ -1602,34 +1686,6 @@
       "angle": "Fashion Intelligence: Hailey Bieber Shares a Sweet Glimpse at Everyday Life With Son Jack Bl...",
       "score": 0,
       "published": "2026-08-23T14:03:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a31e32a367ef",
-      "title": "Instead of Ballet Flats, This Is the Flat Shoe Trend Everyone Will Style With Cute Jeans This Fall",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/derby-shoe-outfits",
-      "summary": "And trousers, too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-23T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b7deb7d93ad7",
-      "title": "Fashion Insiders Are Already Wearing What Will Be Fall 2026's Chicest Loafers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/khaite-colt-loafers-trend-sarah-pidgeon-2026",
-      "summary": "Prepare to be sick of them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-23T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2235,48 +2291,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3bf0dce49c65",
-      "title": "The Biggest Men’s Hair Trends For 2026",
-      "link": "https://www.fashionbeans.com/article/mens-hair-trends/",
-      "summary": "Refreshing your look needn’t cost more than a round of drinks. Yes, you could spend the equivalent of a small car on a new wardrobe, but 45 minutes in the barber’s chair can have the same effect if you’re brave enough to say something other than “The usual.” Plus, if it’s the kind of barbershop &#8230; Continue reading",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-19T09:12:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ccefb26f614d",
-      "title": "7 Best Mules For Men: Stylish, Comfy Footwear in 2026",
-      "link": "https://www.fashionbeans.com/article/best-mules-for-men/",
-      "summary": "You hate tying conventional sneakers, and loafers are too stuffy to deal with on occasion. So what’s the alternative? Well, that’s where mules come in. They’re the upscale alternative to kicks and a polished downgrade of dress shoes. They’re versatile slippers that come in various styles and builds. Depending on how th",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 7 Best Mules For Men: Stylish, Comfy Footwear in 2026...",
-      "score": 4,
-      "published": "2026-08-19T08:06:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f8a80ed62216",
-      "title": "The Best Sneaker Brands You’ve Never Heard Of",
-      "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
-      "summary": "Wherever you are right now, take a quick look around at people’s footwear. What brands are they wearing? Chances are, the results of your visual sneaker survey will look a little something like this: Adidas, Nike, Converse, New Balance, Nike, maybe a bit of Reebok if you’re lucky, Adidas, Nike, Nike. No matter how clas",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
-      "score": 2,
-      "published": "2026-08-19T06:45:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6fc8b2629ef0",
       "title": "Nadri: A Fashion Jewelry Brand Established in 1984",
       "link": "https://fashionista.com/2026/08/nadri-jewelry-brand",
@@ -2529,6 +2543,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4f31474c0972",
+      "title": "Навігація в Migliori Siti di Slot Online без зайвих кліків: що варто знати новачкам",
+      "link": "https://www.indianclothstore.com/blog/navigaciya-v-migliori-siti-di-slot-online-bez-zayvih-klikiv-shcho-varto-znati-novachkam",
+      "summary": "Навігація по Migliori Siti di Slot Online часто визначається простотою інтерфейсу та швидкістю доступу до потрібних функцій, що особливо важливо для тих, хто тільки починає знайомство з платформою. The post Навігація в Migliori Siti di Slot Online без зайвих кліків: що варто знати новачкам appeared first on Indian Clot",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Навігація в Migliori Siti di Slot Online без зайвих кліків: що варто з...",
+      "score": 0,
+      "published": "2026-08-26T10:02:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b18a42fae96",
+      "title": "Test Post Created",
+      "link": "https://www.indianclothstore.com/blog/test-post-created-4",
+      "summary": "Test Post Created The post Test Post Created appeared first on Indian Cloth Store- Blog .",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Test Post Created...",
+      "score": 0,
+      "published": "2026-08-26T10:01:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cebc790d3327",
       "title": "Isha’s Perfect Bollywood Love Story Turned into an Ivory Bridal Dream in Jaipur",
       "link": "https://blog.kalkifashion.com/ishas-ivory-bridal-dream-in-jaipur/",
@@ -2683,20 +2725,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5ee1b9aa7b14",
-      "title": "Die besten Slots bestes boku casino in der Online Spielothek.",
-      "link": "https://www.indianclothstore.com/blog/die-besten-slots-bestes-boku-casino-in-der-online-spielothek",
-      "summary": "Überprüfen Sie, ob es in Ihrem bevorzugten Genre genug Spieltitel gibt und ob die Spiele von führenden Softwareanbietern bereitgestellt werden In diesem Sinne, haben wir versucht auf unserer Liste der besten Online Casinos etwas für jeden Geschmack zu bieten. Freispiele können als Teil des Willkommensbonus oder im Rahm",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Die besten Slots bestes boku casino in der Online Spielothek....",
-      "score": 0,
-      "published": "2026-08-24T09:17:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3e1de67aa661",
       "title": "Thoughtful Raksha Bandhan Gifts For Your Brother",
       "link": "https://blog.kalkifashion.com/thoughtful-raksha-bandhan-gifts-for-your-brother/",
@@ -2708,20 +2736,6 @@
       "angle": "Fashion Intelligence: Thoughtful Raksha Bandhan Gifts For Your Brother...",
       "score": 2,
       "published": "2026-08-24T06:14:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "441e910fc15e",
-      "title": "Sweepstake Casinos: Top USA Sweeps Sites with Real Cash Prizes Most of Crown Coins’ games are developed by elite industry creators such as Playson and Ruby Play (delivering seamless), lag-free visuals that elevate every gaming session to an impressive and delightful viewing experience.",
-      "link": "https://www.indianclothstore.com/blog/sweepstake-casinos-top-usa-sweeps-sites-with-real-cash",
-      "summary": "New players can claim and begin playing without needing to input any Crown Coins Casino promotional code. For new players (Crown Coins provides a generous welcome bonus—up to 200% Extra Bonus Coins—on either of their first two purchases), along with a chance to win an additional 100 SC in a Spin to Win event. Each casi",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sweepstake Casinos: Top USA Sweeps Sites with Real Cash Prizes Most of...",
-      "score": 0,
-      "published": "2026-08-21T23:47:44+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2806,6 +2820,20 @@
       "angle": "Bridal Edit: Janhvi Kapoor & Ishaan Khatter Reunite as The KALKI Bride & Groom — A Complete Style Guide",
       "score": 3,
       "published": "2026-08-01T13:38:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "62f5985bbd8a",
+      "title": "Navratri Garba USA 2026: City Guide & What to Wear",
+      "link": "https://www.azafashions.com/blog/navratri-garba-events-usa-2026-city-guide-what-to-wear/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-garba-events-usa-2026-city-guide-what-to-wear",
+      "summary": "Navratri 2026 runs from October 11–19. Major Garba events are held across US cities including New Jersey, Houston, Chicago, Atlanta, and the Bay Area. Women traditionally wear chaniya choli or&#8230; The post Navratri Garba USA 2026: City Guide &amp; What to Wear appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 2,
+      "published": "2026-08-26T09:57:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2933,70 +2961,56 @@
       "score": 4,
       "published": "2026-08-20T16:31:47+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "071b0e89dc96",
-      "title": "Tangerine is Taking Over the Indian Wedding Scene",
-      "link": "https://www.azafashions.com/blog/tangerine-is-taking-over/?utm_source=rss&utm_medium=rss&utm_campaign=tangerine-is-taking-over",
-      "summary": "Red has had its moment. So has blush pink, dusty rose, and the endless parade of pastels. The colour quietly stealing the spotlight at Indian weddings right now? Tangerine. Vibrant&#8230; The post Tangerine is Taking Over the Indian Wedding Scene appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Tangerine is Taking Over the Indian Wedding Scene — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-08-20T11:22:48+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "समाचार",
+      "term": "teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pasindu sooriyabandara",
+      "term": "mukesh ambani family business succession",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தமிழக வெற்றிக் கழகம்",
+      "term": "ஆசிரியர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ರಾಜೀನಾಮೆ",
+      "term": "chhavi varshney",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टॉक्सिक मूवी रिव्यू",
+      "term": "देवेंद्र फडणवीस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പി.എ. മുഹമ്മദ് റിയാസ്",
+      "term": "gta6 leaks",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata group",
+      "term": "सिंधु जल समझौता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "లేడీ సూపర్ స్టార్ నయనతార",
+      "term": "रियलमी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "amitabh bachchan",
+      "term": "લગ્ન",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nepal",
+      "term": "father abandons son mount fuji hike",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
