@@ -1,18 +1,312 @@
 {
-  "generated_at": "2026-08-27T12:18:48.889938+00:00",
+  "generated_at": "2026-08-27T16:06:48.071904+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 180,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
+      "id": "871cce3c2e3f",
+      "title": "The It Items that Fashion Insiders Are Shopping for Fall 2026",
+      "link": "https://www.harpersbazaar.com/fashion/trends/a73498051/fall-fashion-it-items-2026/",
+      "summary": "Voila: Your fall starter pack",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The It Items that Fashion Insiders Are Shopping for Fall 2026...",
+      "score": 1,
+      "published": "2026-08-27T16:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63238a16e4cd",
+      "title": "One Nation, One Election: 70% back simultaneous polls, MOTN survey shows",
+      "link": "https://www.indiatoday.in/india/story/one-nation-one-election-support-704-motn-survey-august-2026-2981452-2026-08-27?utm_source=rss",
+      "summary": "One Nation, One Election: 70% back simultaneous polls, MOTN survey shows",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: One Nation, One Election: 70% back simultaneous polls, MOTN survey sho...",
+      "score": 1,
+      "published": "2026-08-27T15:51:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "da30c14dffd4",
+      "title": "Rooms Showroom Is Hiring A Sales Representative - Boutiques In New York, NY",
+      "link": "https://fashionista.com/2026/08/rooms-showroom-is-hiring-a-sales-representative-boutiques-in-new-york-ny",
+      "summary": "Rooms Showroom is a premier wholesale showroom representing contemporary fashion brands and connecting them with leading boutique retailers across North America.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Rooms Showroom Is Hiring A Sales Representative - Boutiques In New Yor...",
+      "score": 3,
+      "published": "2026-08-27T15:40:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3a66d263d64",
+      "title": "Kaia Gerber Steps Out in a IYKYK Fashion Tee",
+      "link": "https://www.vogue.com/article/kaia-gerber-emily-dawn-long-graphic-tee",
+      "summary": "The model wore a cheeky graphic tee that has been also worn by celebrities like Pedro Pascal, Tommy Dorfman, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Kaia Gerber Steps Out in a IYKYK Fashion Tee...",
+      "score": 2,
+      "published": "2026-08-27T15:29:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c3de1b2d0f7f",
+      "title": "Allow Zoë Kravitz and Harry Styles to Teach You How to Style Merch",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73542775/zoe-kravitz-harry-styles-graphic-tees-barneys-merch-photos/",
+      "summary": "Even the Batman star is missing this cult NYC store",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Allow Zoë Kravitz and Harry Styles to Teach You How to Style Merch...",
+      "score": 1,
+      "published": "2026-08-27T15:10:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "20be27c46e3f",
+      "title": "Congress alleges Rs 36,000-crore sugar scam as festive prices surge",
+      "link": "https://www.indiatoday.in/india/story/sugar-prices-sugar-shortage-congress-alleges-rs-36000-crore-scam-before-diwali-festival-season-2981095-2026-08-27?utm_source=rss",
+      "summary": "Congress alleges Rs 36,000-crore sugar scam as festive prices surge",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-08-27T15:10:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cc430898e150",
+      "title": "Sandra Bullock and Nicole Kidman Twin in Witchy Looks for a Practical Magic 2 Press Event in London",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73542802/sandra-bullock-nicole-kidman-black-and-white-looks-practical-magic-2-red-carpet-london-photos/",
+      "summary": "The highly-anticipated sequel gets its wide release on September 11",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sandra Bullock and Nicole Kidman Twin in Witchy Looks for a Practical ...",
+      "score": 0,
+      "published": "2026-08-27T15:05:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "438808a75afb",
+      "title": "Punjab Poll Projection: INDIA Alliance Leads NDA As Lok Sabha Numbers Show Big Edge",
+      "link": "https://www.indiatoday.in/india/video/punjab-poll-projection-india-alliance-at-11-seats-nda-at-1-vidhan-sabha-fight-multi-cornered-ytvd-2981405-2026-08-27?utm_source=rss",
+      "summary": "Punjab Poll Projection: INDIA Alliance Leads NDA As Lok Sabha Numbers Show Big Edge",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Punjab Poll Projection: INDIA Alliance Leads NDA As Lok Sabha Numbers ...",
+      "score": 1,
+      "published": "2026-08-27T15:02:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "746361ffbe36",
+      "title": "Fashion People Are Choosing This Elegant Shoe Trend for Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/pointed-toe-kitten-heel-pumps-fall-2026",
+      "summary": "Pointed-toe kitten-heel pumps.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-27T15:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "74a5d63bb682",
+      "title": "Gen Z discontent mounts over jobs and paper leak concerns, latest MOTN survey shows",
+      "link": "https://www.indiatoday.in/india/video/gen-z-discontent-mounts-over-jobs-and-exam-leak-concerns-in-latest-motn-track-frvd-2981376-2026-08-27?utm_source=rss",
+      "summary": "Gen Z discontent mounts over jobs and paper leak concerns, latest MOTN survey shows",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Gen Z discontent mounts over jobs and paper leak concerns, latest MOTN...",
+      "score": 1,
+      "published": "2026-08-27T14:57:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5d458cbf3dd0",
+      "title": "Meghan Wood Communications Is Seeking A Fall 2026 PR Intern in New York, NY",
+      "link": "https://fashionista.com/2026/08/meghan-wood-communications-is-seeking-a-fall-2026-pr-intern-in-new-york-ny",
+      "summary": "This role will develop and strengthen your understanding of the fashion and communications industries, that will support future success!",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meghan Wood Communications Is Seeking A Fall 2026 PR Intern in New Yor...",
+      "score": 1,
+      "published": "2026-08-27T14:36:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdea28808c7d",
+      "title": "Lauren Sánchez Bezos Emerges From Her Private Jet in a Fitted, Lace-Up Sundress",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73542859/lauren-sanchez-bezos-private-jet-travel-style-lace-up-dress-hermes-sandals-chanel-puzzle-tote/",
+      "summary": "And some rare designer accessories",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Lauren Sánchez Bezos Emerges From Her Private Jet in a Fitted, Lace-Up...",
+      "score": 2,
+      "published": "2026-08-27T14:24:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db38187deea4",
+      "title": "Kylie Jenner Told Us How Her Next Fashion Venture Is Inspired by Her Grandma, MJ",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-khy-fashion-brand-goals",
+      "summary": "Let her explain.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kylie Jenner Told Us How Her Next Fashion Venture Is Inspired by Her G...",
+      "score": 1,
+      "published": "2026-08-27T14:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8d0f06e909bc",
+      "title": "Narendra Modi remains India's PM choice at 48.7%, but mood shows a shift: MOTN",
+      "link": "https://www.indiatoday.in/india/story/narendra-modi-next-prime-minister-rahul-gandhi-vijay-mood-of-nation-survey-2981351-2026-08-27?utm_source=rss",
+      "summary": "Narendra Modi remains India's PM choice at 48.7%, but mood shows a shift: MOTN",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Narendra Modi remains India's PM choice at 48.7%, but mood shows a shi...",
+      "score": 1,
+      "published": "2026-08-27T14:00:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6a2e08578015",
+      "title": "If You Love '90s Minimalism You'll Want to Recreate These 5 Runway Looks",
+      "link": "https://www.whowhatwear.com/fashion/runway/minimalist-fall-2026-runway-looks",
+      "summary": "Kate Moss would approve of these looks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Love '90s Minimalism You'll Want to Recreate These 5 Runway Loo...",
+      "score": 1,
+      "published": "2026-08-27T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "74e13b45299c",
+      "title": "Soul-A: A Sun-Protective Clothing Brand Designed for Everyday Wear",
+      "link": "https://fashionista.com/2026/08/soul-sun-protective-upf-clothing-brand",
+      "summary": "It was founded by board-certified dermatologist Dr. Angelo Landriscina.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Soul-A: A Sun-Protective Clothing Brand Designed for Everyday Wear...",
+      "score": 2,
+      "published": "2026-08-27T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "926feb4a9e59",
+      "title": "All I Want This Fall Is a Saucy Little Windbreaker",
+      "link": "https://www.vogue.com/article/fall-colorful-windbreakers-trend",
+      "summary": "A neon-bright windbreaker is the perfect thing to trick people into thinking I am outdoorsy (nope) and adventurous (definitely not).",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: All I Want This Fall Is a Saucy Little Windbreaker...",
+      "score": 0,
+      "published": "2026-08-27T13:51:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a88890b5747",
+      "title": "Soft Suede Emerges as Key Texture for Early Fall 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/soft-suede-emerges-key-texture-early-fall-2026/",
+      "summary": "Suede is emerging as one of the defining textures of the early fall 2026 season, with brands across global and Indian markets incorporating the material into transitional-season collections in warm neutral and earthy tones. Zara has introduced suede pieces as part of its fall offering, signalling wider industry uptake ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Soft Suede Emerges as Key Texture for Early Fall 2026...",
+      "score": 3,
+      "published": "2026-08-27T13:12:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ba4d121d886",
+      "title": "Arvind’s Sustainable Cotton Sourcing Hits 87% in FY26",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/arvinds-sustainable-cotton-sourcing-hits-87-fy26/",
+      "summary": "Arvind Limited filed its Business Responsibility and Sustainability Report (BRSR) for FY26 on August 26, 2026, detailing its progress on environmental and social governance targets across its textile operations. The report covers standalone operations and has received limited assurance from Intertek India Private Limit",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Arvind’s Sustainable Cotton Sourcing Hits 87% in FY26...",
+      "score": 1,
+      "published": "2026-08-27T12:46:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f05dec86ea7",
+      "title": "I'm Calling It: Balloon Jeans Will Be Autumn's Biggest Denim Trend—Here's How to Wear Them Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/balloon-jeans-trend-jessica-alba-2026",
+      "summary": "Get to know.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-08-27T12:45:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "55c40159da98",
+      "title": "A Stylish Person’s Guide to Seoul, by Beauty Founder Erica Choi",
+      "link": "https://fashionista.com/2026/08/seoul-korea-fashion-beauty-travel-recommendations",
+      "summary": "The esthetician and Superegg founder shares her hidden gems throughout the South Korean city.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: A Stylish Person’s Guide to Seoul, by Beauty Founder Erica Choi...",
+      "score": 1,
+      "published": "2026-08-27T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4d9a03348b8b",
       "title": "For Mirror Shine, Wash Your Hair the Chinese Way",
       "link": "https://www.vogue.com/article/for-mirror-shine-wash-your-hair-the-chinese-way",
-      "summary": "The 6-step routine focuses on scalp health and shinier, healthier hair.",
+      "summary": "Learn about the 6-step Chinese hair care routine that focuses on scalp health and shinier, healthier hair.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
@@ -122,14 +416,14 @@
     },
     {
       "id": "3dbe4c912b8d",
-      "title": "The Future of Exosome Skincare, According to the Vogue Beauty Board",
+      "title": "The Future of Exosome Skin Care, According to the Vogue Beauty Board",
       "link": "https://www.vogue.com/article/exosomes-for-skin-beauty-board",
       "summary": "How do exosomes compare to other skin treatments? Vogue’s Beauty Board weighs in on the trending ingredient, focused on cellular communication with regenerative and anti-inflammatory properties.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Future of Exosome Skincare, According to the Vogue Beauty Board...",
+      "angle": "Fashion Intelligence: The Future of Exosome Skin Care, According to the Vogue Beauty Board...",
       "score": 2,
       "published": "2026-08-27T10:00:00+00:00",
       "discovered_via": "feed"
@@ -891,34 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2c77fb726b93",
-      "title": "Collagen vs. Collagen Peptides: Which Supplement Is Better?",
-      "link": "https://www.vogue.com/article/collagen-vs-collagen-peptides",
-      "summary": "If you’re comparing collagen versus collagen peptides in a supplement, there’s an important distinction to know. But you can also get the benefits of collagen topically. Shop our top picks now.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Collagen vs. Collagen Peptides: Which Supplement Is Better?...",
-      "score": 0,
-      "published": "2026-08-26T14:26:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bde5a83303b8",
-      "title": "How Arc’teryx Made Its Most Circular Product Yet",
-      "link": "https://www.vogue.com/article/how-arcteryx-made-its-most-circular-product-yet",
-      "summary": "Arc’teryx’s new hardshell jacket is the first fashion product to receive a circularity certification, but combining durability with recyclability is a delicate balance.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Arc’teryx Made Its Most Circular Product Yet...",
-      "score": 1,
-      "published": "2026-08-26T14:01:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "40de3aa01fb2",
       "title": "Not Loafers, Not Mules: The French-Girl Flats You'll Wear From Summer to Fall (and Beyond)",
       "link": "https://www.whowhatwear.com/fashion/shopping/chic-ballet-flats",
@@ -1143,20 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6d5f51c517f6",
-      "title": "In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Clinical-Grade Skincare Brand to Me",
-      "link": "https://www.whowhatwear.com/beauty/skin/best-prequel-products",
-      "summary": "In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Clinical-Grade Skincare Brand to Me",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Cli...",
-      "score": 1,
-      "published": "2026-08-26T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "88fa98c85803",
       "title": "And Now, 31 Pretty Fall Tops to Wear With Jeans",
       "link": "https://www.whowhatwear.com/fashion/tops/pretty-fall-tops-to-wear-with-jeans",
@@ -1167,6 +1419,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: And Now, 31 Pretty Fall Tops to Wear With Jeans...",
       "score": 2,
+      "published": "2026-08-26T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6d5f51c517f6",
+      "title": "In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Clinical-Grade Skincare Brand to Me",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-prequel-products",
+      "summary": "In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Clinical-Grade Skincare Brand to Me",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In The Last 30 Days, 3 Dermatologists Recommended This Affordable, Cli...",
+      "score": 1,
       "published": "2026-08-26T09:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1465,20 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ecc5031b79cb",
-      "title": "The Updated Fall Basics Fashion People Will Wear in 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/basics-fall-2026",
-      "summary": "Boatneck tops, cashmere sweaters, knee-length skirts, straight-leg jeans, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Updated Fall Basics Fashion People Will Wear in 2026...",
-      "score": 2,
-      "published": "2026-08-25T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2b3b63879a14",
       "title": "Parker Zinn: A Contemporary Knitwear Brand Founded by a Parsons Graduate",
       "link": "https://fashionista.com/companies/brand-bio/parker-zinn-knitwear-brand",
@@ -1521,20 +1773,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "86b0e3294979",
-      "title": "Hold the Jeans—Fashion People Will Be Reaching For These Trousers On Repeat Come September",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/red-trouser-trend-bella-hadid-2026",
-      "summary": "The chicest swap.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hold the Jeans—Fashion People Will Be Reaching For These Trousers On R...",
-      "score": 1,
-      "published": "2026-08-25T14:40:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a9cce8944c91",
       "title": "Naomi Osaka’s Most Fabulous Grand Slam Looks of All Time",
       "link": "https://www.harpersbazaar.com/celebrity/sports-athletes/a73486620/naomi-osaka-best-grand-slam-tennis-looks-kits-court-style-photos/",
@@ -1549,34 +1787,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "964b6ab63739",
-      "title": "Zara Just Confirmed These 5 Trends for Early Fall",
-      "link": "https://www.whowhatwear.com/fashion/shopping/early-fall-zara-trends-2026",
-      "summary": "Add to cart immediately.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-25T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "18dc14330a96",
-      "title": "If You're a Fashion Person, You're Wearing Your Sneakers With These 6 Chic Items",
-      "link": "https://www.whowhatwear.com/fashion/shopping/sneaker-outfits",
-      "summary": "From track shorts to satin skirts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-25T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bb51ee78e80a",
       "title": "This Emerging K-Beauty Brand's Body Toner Is Magic for My Eczema-Prone Skin",
       "link": "https://fashionista.com/2026/08/knock-unscented-melt-in-body-toner-review",
@@ -1588,48 +1798,6 @@
       "angle": "Fashion Intelligence: This Emerging K-Beauty Brand's Body Toner Is Magic for My Eczema-Prone...",
       "score": 2,
       "published": "2026-08-25T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0ed51ac54791",
-      "title": "India’s Retail Sales Up 8% in July; Footwear at 13% and Apparel at 12%",
-      "link": "https://in.apparelresources.com/business-news/retail/indias-retail-sales-8-july-footwear-13-apparel-12/",
-      "summary": "India’s retail market recorded 8% year-on-year growth in July 2026, according to the Retailers Association of India (RAI) Business Survey, with apparel and clothing and footwear emerging as the strongest-performing fashion categories. Footwear recorded 13% growth, while apparel and clothing grew 12% during the month. F",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: India’s Retail Sales Up 8% in July; Footwear at 13% and Apparel at 12%...",
-      "score": 2,
-      "published": "2026-08-25T13:11:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b64245af27a2",
-      "title": "Levi’s India Opens 500th Store in Bengaluru",
-      "link": "https://in.apparelresources.com/business-news/retail/levis-india-opens-500th-store-bengaluru/",
-      "summary": "Levi’s India, the Indian arm of US-based denim and lifestyle brand Levi Strauss &#38; Co., has opened its 500th store at Phoenix Marketcity in Bengaluru, marking a major milestone in the brand’s retail expansion in the country. Levi’s entered the Indian market in 1995 and has expanded its retail presence across key mar",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Levi’s India Opens 500th Store in Bengaluru...",
-      "score": 2,
-      "published": "2026-08-25T13:06:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4f20611176df",
-      "title": "Apparel Group Opens First Ben Sherman Store in Surat, Plans 8-Store Rollout",
-      "link": "https://in.apparelresources.com/business-news/retail/apparel-group-opens-first-ben-sherman-store-surat-plans-8-store-rollout/",
-      "summary": "Apparel Group, a global leader in fashion and lifestyle retail conglomerates, has partnered with Marquee Brand the premier global brand management company, to launch the first Ben Sherman branded store in India at VR Surat, marking the British menswear brand’s entry into physical retail in the country. The Surat outlet",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Apparel Group Opens First Ben Sherman Store in Surat, Plans 8-Store Ro...",
-      "score": 6,
-      "published": "2026-08-25T13:01:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1913,20 +2081,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a884c789b4af",
-      "title": "Kate Middleton Debuts New Highlights for Summer",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a73511633/kate-middleton-blonde-hair-refresh-photos/",
-      "summary": "The royal’s latest hair refresh is perfect for the season",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-08-24T17:36:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7fc45fb042ca",
       "title": "Must Read: Sézane Enters a New Chapter, Harlem's Fashion Row Reveals Its Style Awards 2026 Honorees",
       "link": "https://fashionista.com/2026/08/sezane-rebrand-new-chapter",
@@ -1938,34 +2092,6 @@
       "angle": "Fashion Intelligence: Must Read: Sézane Enters a New Chapter, Harlem's Fashion Row Reveals I...",
       "score": 2,
       "published": "2026-08-24T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cc5d6271846f",
-      "title": "Jennifer Lopez Is the Picture of Late Summer in a Backless White Dress",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73510831/jennifer-lopez-late-summer-look-backless-white-dress-christian-louboutin-greekaba-tote/",
-      "summary": "Paired with the perfect luxury beach tote",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jennifer Lopez Is the Picture of Late Summer in a Backless White Dress...",
-      "score": 2,
-      "published": "2026-08-24T15:10:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "313610db9843",
-      "title": "Rarely Seen Dutch Princess Alexia Makes a Stunning Appearance at the Grand Prix",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73510798/dutch-grand-prix-royal-family-princess-alexia-photos/",
-      "summary": "The stylish royal made an entrance with her parents, King Willem-Alexander and Queen Maxima",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rarely Seen Dutch Princess Alexia Makes a Stunning Appearance at the G...",
-      "score": 0,
-      "published": "2026-08-24T14:12:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1994,20 +2120,6 @@
       "angle": "Fashion Intelligence: Dress Code: Suitsupply...",
       "score": 1,
       "published": "2026-08-23T18:01:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f89d42b9bb8a",
-      "title": "Zoë Kravitz’s Casual NYC Look Is All About This Slouchy Saint Laurent Bag",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73504575/zoe-kravitz-saint-laurent-slouchy-bag-nyc-street-style-photos/",
-      "summary": "She adds the statement piece to her white tee and jeans",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zoë Kravitz’s Casual NYC Look Is All About This Slouchy Saint Laurent ...",
-      "score": 0,
-      "published": "2026-08-23T17:47:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2473,62 +2585,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7f876b49a97c",
-      "title": "4AM's Viral Clean Sheets Are Turning Face Wipes From 'Shameful' to 'Aspirational'",
-      "link": "https://fashionista.com/2026/08/4-am-jade-beguelin-sabrina-sade-founder-interview",
-      "summary": "\"If you want to take a tequila shot at 4 a.m., who are we as a skin-care brand to shame you for that?\" Co-Founder Sabrina Sade says of the brand's core ethos.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 4AM's Viral Clean Sheets Are Turning Face Wipes From 'Shameful' to 'As...",
-      "score": 1,
-      "published": "2026-08-13T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a4eb20014c56",
-      "title": "Asos' Latest Initiative? Platforming Emerging Designers",
-      "link": "https://fashionista.com/2026/08/asos-arrange-bespoke-emerging-designers-collaborations",
-      "summary": "The program, Arrange Bespoke, unveils special collaborations with young talent, but doesn’t sell them (at least not yet).",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Asos' Latest Initiative? Platforming Emerging Designers...",
-      "score": 1,
-      "published": "2026-08-13T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cc4332629119",
-      "title": "Must Read: Rihanna Covers 'Elle', Phia Co-Founders Knew the App Was Wrongfully Claiming Sales Credits",
-      "link": "https://fashionista.com/2026/08/rihanna-elle-cover-september-2026",
-      "summary": "Plus, Exemplar Luxury Group's chief buying officer exits.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Must Read: Rihanna Covers 'Elle', Phia Co-Founders Knew the App Was Wr...",
-      "score": 1,
-      "published": "2026-08-12T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "46955b20018b",
-      "title": "Sincerely Yours: A Gen Alpha Skin-Care Brand Founded by Creator Salish Matter",
-      "link": "https://fashionista.com/2026/08/sincerely-yours-skin-care-brand",
-      "summary": "With a focus on younger consumers' \"developing skin,\" its assortment features a hydrating cleanser, lightweight moisturizer and mineral SPF.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sincerely Yours: A Gen Alpha Skin-Care Brand Founded by Creator Salish...",
-      "score": 1,
-      "published": "2026-08-12T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0a2daf629bf3",
       "title": "Models with Extra Large Cup Sizes on OnlyFans Featuring Huge Tits",
       "link": "https://www.indianclothstore.com/blog/models-with-extra-large-cup-sizes-on-onlyfans-featuring-huge",
@@ -2809,9 +2865,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "11a95cb204ae",
+      "id": "71eedde5e766",
       "title": "How the 800-Year-Old Kamarbandh Became 2026’s Favourite Bridal Accessory",
-      "link": "https://www.azafashions.com/blog/kamarbandh-is-back/?utm_source=rss&utm_medium=rss&utm_campaign=kamarbandh-is-back",
+      "link": "https://blog.azafashions.com/2026/08/27/kamarbandh-is-back/?utm_source=rss&utm_medium=rss&utm_campaign=kamarbandh-is-back",
       "summary": "Long before it was cinching Rashmika Mandanna's bridal saree or catching flashbulbs at Manish Malhotra's Diwali bash, the kamarbandh was already doing its job on stone. Carved into temple walls,&#8230; The post How the 800-Year-Old Kamarbandh Became 2026&#8217;s Favourite Bridal Accessory appeared first on Aza Editoria",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2823,9 +2879,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "455437d9df7a",
+      "id": "502163d8efa4",
       "title": "Abhinisha Jani Ashara Makes a Case for Maroon Maximalism",
-      "link": "https://www.azafashions.com/blog/abhinisha-jani-mishra-in-samyukta-singhania-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=abhinisha-jani-mishra-in-samyukta-singhania-lehenga",
+      "link": "https://blog.azafashions.com/2026/08/26/abhinisha-jani-mishra-in-samyukta-singhania-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=abhinisha-jani-mishra-in-samyukta-singhania-lehenga",
       "summary": "Some collaborations feel inevitable before they even happen. Abhinisha Jani Ashara has spent her platform teaching women to love their bodies without asterisks, without apology, without waiting for permission,&#160;so when&#8230; The post Abhinisha Jani Ashara Makes a Case for Maroon Maximalism appeared first on Aza Ed",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2837,9 +2893,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "62f5985bbd8a",
+      "id": "0533397ad125",
       "title": "Navratri Garba USA 2026: City Guide & What to Wear",
-      "link": "https://www.azafashions.com/blog/navratri-garba-events-usa-2026-city-guide-what-to-wear/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-garba-events-usa-2026-city-guide-what-to-wear",
+      "link": "https://blog.azafashions.com/2026/08/26/navratri-garba-events-usa-2026-city-guide-what-to-wear/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-garba-events-usa-2026-city-guide-what-to-wear",
       "summary": "Navratri 2026 runs from October 11–19. Major Garba events are held across US cities including New Jersey, Houston, Chicago, Atlanta, and the Bay Area. Women traditionally wear chaniya choli or&#8230; The post Navratri Garba USA 2026: City Guide &amp; What to Wear appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2851,9 +2907,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec3bffa04917",
+      "id": "c8f82fb6ada6",
       "title": "Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twist – Here’s How to Recreate It",
-      "link": "https://www.azafashions.com/blog/kiara-advani-black-velvet-saree/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-black-velvet-saree",
+      "link": "https://blog.azafashions.com/2026/08/25/kiara-advani-black-velvet-saree/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-black-velvet-saree",
       "summary": "Some colours don't need company. Kiara Advani proved exactly that at the Toxic promotions in Hyderabad, stepping out in an all-black velvet saree by Manish Malhotra that skipped embellishment-heavy drama&#8230; The post Kiara Advani’s Black Saree Moment Is Quiet Luxury With a Bollywood Twist &#8211; Here&#8217;s How to",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2865,9 +2921,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc3b99117186",
+      "id": "ddd6ae295441",
       "title": "Skip the Heavy Silk: Lightweight Sarees to Wear This Ganesh Chaturthi",
-      "link": "https://www.azafashions.com/blog/lightweight-sarees-ganesh-chaturthi/?utm_source=rss&utm_medium=rss&utm_campaign=lightweight-sarees-ganesh-chaturthi",
+      "link": "https://blog.azafashions.com/2026/08/24/lightweight-sarees-ganesh-chaturthi/?utm_source=rss&utm_medium=rss&utm_campaign=lightweight-sarees-ganesh-chaturthi",
       "summary": "Ganesh Chaturthi calls for colour, festivity, and a saree that feels as good as it looks. But there's a common assumption that dressing up for a festive&#160;occasion often&#160;means reaching for&#8230; The post Skip the Heavy Silk: Lightweight Sarees to Wear This Ganesh Chaturthi appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2879,9 +2935,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6d1d0f5c7758",
+      "id": "b9e66d346ce2",
       "title": "Aza Fashions Opens Its 13th Store in Santacruz, Bringing Fashion and Fine Jewellery Together",
-      "link": "https://www.azafashions.com/blog/aza-fashions-13th-store-in-santacruz/?utm_source=rss&utm_medium=rss&utm_campaign=aza-fashions-13th-store-in-santacruz",
+      "link": "https://blog.azafashions.com/2026/08/24/aza-fashions-13th-store-in-santacruz/?utm_source=rss&utm_medium=rss&utm_campaign=aza-fashions-13th-store-in-santacruz",
       "summary": "Some store openings feel like events. This one felt like a moment. Aza Fashions, one of India's most respected multi-designer fashion destinations, has officially opened its 13th store—and its newest&#8230; The post Aza Fashions Opens Its 13th Store in Santacruz, Bringing Fashion and Fine Jewellery Together appeared fi",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2893,9 +2949,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1984a35d7c2c",
+      "id": "f96e8f6ec2f7",
       "title": "9 Designers to Know If You Love Indian Prints, Patterns & Craft",
-      "link": "https://www.azafashions.com/blog/indian-craft-designers/?utm_source=rss&utm_medium=rss&utm_campaign=indian-craft-designers",
+      "link": "https://blog.azafashions.com/2026/08/23/indian-craft-designers/?utm_source=rss&utm_medium=rss&utm_campaign=indian-craft-designers",
       "summary": "Indian fashion has always spoken in pattern first, silhouette second. Long before \"maximalism\" became a runway buzzword, our textile traditions were layering motif on motif, weave on weave, colour on&#8230; The post 9 Designers to Know If You Love Indian Prints, Patterns &amp; Craft appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2907,9 +2963,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ae5098315f79",
+      "id": "11df1e2d7bbb",
       "title": "The Essential Jewellery Colour Palette for Red Bridal Wear",
-      "link": "https://www.azafashions.com/blog/jewellery-colour-red-bridal-wear/?utm_source=rss&utm_medium=rss&utm_campaign=jewellery-colour-red-bridal-wear",
+      "link": "https://blog.azafashions.com/2026/08/22/jewellery-colour-red-bridal-wear/?utm_source=rss&utm_medium=rss&utm_campaign=jewellery-colour-red-bridal-wear",
       "summary": "While a red bridal outfit remains the ultimate classic, choosing the right jewellery palette is what brings the entire look together. The key lies in understanding colour harmony, whether you prefer a&#8230; The post The Essential Jewellery Colour Palette for Red Bridal Wear appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2921,9 +2977,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7de30458571c",
+      "id": "d75a0a58e8cb",
       "title": "Geometric Menswear Is Giving Traditional Dressing a Sharper Edge",
-      "link": "https://www.azafashions.com/blog/geometric-menswear-trend/?utm_source=rss&utm_medium=rss&utm_campaign=geometric-menswear-trend",
+      "link": "https://blog.azafashions.com/2026/08/22/geometric-menswear-trend/?utm_source=rss&utm_medium=rss&utm_campaign=geometric-menswear-trend",
       "summary": "Menswear has always had its classics: the straight kurta, the structured sherwani, the dependable Nehru jacket. But lately, designers are drawing outside those familiar lines. Geometric menswear is bringing angles,&#8230; The post Geometric Menswear Is Giving Traditional Dressing a Sharper Edge appeared first on Aza Ed",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2935,9 +2991,9 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e1a19b273694",
+      "id": "7bde72fe8eb0",
       "title": "Old Zari Is Back and It’s Making Indianwear Look Richer",
-      "link": "https://www.azafashions.com/blog/old-zari-comeback/?utm_source=rss&utm_medium=rss&utm_campaign=old-zari-comeback",
+      "link": "https://blog.azafashions.com/2026/08/21/old-zari-comeback/?utm_source=rss&utm_medium=rss&utm_campaign=old-zari-comeback",
       "summary": "There's a thread running through Indian fashion right now, quite literally. Not the neon sequin, not the pastel organza but&#160;the metallic gold-and-silver filament that's been embroidered into our clothes since&#8230; The post Old Zari Is Back and It’s Making Indianwear Look Richer appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
@@ -2951,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "চন্দ্রগ্রহণ",
+      "term": "இலங்கை தேசிய கிரிக்கெட் அணி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "હવામાન આગાહી",
+      "term": "ಮಲ್ಲಿಕಾರ್ಜುನ್ ಖರ್ಗೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दृश्यम",
+      "term": "সিভিক ভলান্টিয়ার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "బిగ్ బాస్",
+      "term": "gurugram",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "emilio gay",
+      "term": "आग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "khurram shahzad",
+      "term": "फसल बीमा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "చిరంజీవి",
+      "term": "मुकेश खन्ना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "test ranking",
+      "term": "northern command",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सैमसंग गैलेक्सी",
+      "term": "uefa",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ben duckett",
+      "term": "मराठी",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
