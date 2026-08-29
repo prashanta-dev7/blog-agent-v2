@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T08:34:57.595034+00:00",
+  "generated_at": "2026-08-29T11:29:50.744016+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 181,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tamme Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-29T08:34:32+00:00",
+      "published": "2026-08-29T11:27:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,119 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ancellm Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-29T08:34:32+00:00",
+      "published": "2026-08-29T11:27:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "02d607c17ecf",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-29",
+      "summary": "From Nicole Kidman to Zara Larsson, the best beauty looks celebrated the last days of summer: pastel shades, light-catching highlight, summer garden pink blush.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-08-29T11:27:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87e48a154a9d",
+      "title": "20 Chic On-Sale Madewell Items I Can't Wait to Wear This Fall",
+      "link": "https://www.whowhatwear.com/fashion/shopping/madewell-labor-day-sale",
+      "summary": "Hurry before they sell out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20 Chic On-Sale Madewell Items I Can't Wait to Wear This Fall...",
+      "score": 1,
+      "published": "2026-08-29T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "36894176493f",
+      "title": "A Swiftie and a Sneakerhead? Caitlin Clark’s Taylor Swift-Inspired Nikes Are Your Wildest Dreams",
+      "link": "https://www.vogue.com/article/caitlin-clark-taylor-swift-friendship-bracelet-nikes",
+      "summary": "The WNBA star and longtime Taylor Swift fan has debuted a new Nike Caitlin 1s colorway with friendship bracelet-details.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: A Swiftie and a Sneakerhead? Caitlin Clark’s Taylor Swift-Inspired Nik...",
+      "score": 0,
+      "published": "2026-08-29T10:43:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f87bafce2679",
+      "title": "Swing into the US Open With a Dose of Lime Green",
+      "link": "https://www.vogue.com/article/street-style-fashion-week-lime-green-color-trend-copenhagen-street-style",
+      "summary": "A lime green ’fit is the best way to stand out at the US Open.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Swing into the US Open With a Dose of Lime Green...",
+      "score": 0,
+      "published": "2026-08-29T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "92fd69539c16",
+      "title": "What Would a ‘How to Lose a Guy in 10 Days’ Sequel Even Be About? 5 Predictions",
+      "link": "https://www.vogue.com/article/how-to-lose-a-guy-in-10-days-sequel-plot-predictions",
+      "summary": "“I want dating apps, I want ghosting, I want breadcrumbing, I want that thing where you arrange a drink with someone even though you really can’t be bothered and would rather be at home eating a posh lasagna for one.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What Would a ‘How to Lose a Guy in 10 Days’ Sequel Even Be About? 5 Pr...",
+      "score": 0,
+      "published": "2026-08-29T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c0ab45203cf2",
+      "title": "I Work in Fashion in NYC—8 Brands I'm Investing In Before Summer Is Over",
+      "link": "https://www.whowhatwear.com/fashion/shopping/tops-dresses-summer-2026",
+      "summary": "Ciao Lucia, Rixo, Zara, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Work in Fashion in NYC—8 Brands I'm Investing In Before Summer Is Ov...",
+      "score": 2,
+      "published": "2026-08-29T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ee08d36488f9",
+      "title": "Mark My Words: This Breakthrough Shoe Colour Trend Will Be Everywhere This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/purple-shoe-trend-elsa-hosk-2026",
+      "summary": "I'm placing bets.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-29T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98ee0f27daf6",
+      "title": "I Don't Have US Open Tickets, But If I Did, I'd Bring *These* Summer-to-Fall Beauty Products to NYC",
+      "link": "https://www.whowhatwear.com/beauty/makeup/us-open-beauty-products",
+      "summary": "The category is \"courtside chic.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Don't Have US Open Tickets, But If I Did, I'd Bring *These* Summer-t...",
+      "score": 1,
+      "published": "2026-08-29T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -289,15 +401,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b184bcf3ffbf",
-      "title": "The Elevated Basic Fashion People Are Wearing With Skirts Instead of T-Shirts",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/button-down-shirts-with-skirts-outfits",
-      "summary": "Trust me. It's much more elegant.",
+      "id": "4fa16af2a476",
+      "title": "The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Leggings and Sneakers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leggings-sneakers-slouchy-socks-trend-jennifer-lopez-2026",
+      "summary": "It's less than $20.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "angle": "Fashion Intelligence: The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Legg...",
       "score": 2,
       "published": "2026-08-28T20:00:00+00:00",
       "discovered_via": "feed"
@@ -317,15 +429,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4fa16af2a476",
-      "title": "The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Leggings and Sneakers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leggings-sneakers-slouchy-socks-trend-jennifer-lopez-2026",
-      "summary": "It's less than $20.",
+      "id": "b184bcf3ffbf",
+      "title": "The Elevated Basic Fashion People Are Wearing With Skirts Instead of T-Shirts",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/button-down-shirts-with-skirts-outfits",
+      "summary": "Trust me. It's much more elegant.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Legg...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-28T20:00:00+00:00",
       "discovered_via": "feed"
@@ -625,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5db85e6a9252",
-      "title": "I'm a Fashion Editor Who Plays Tennis Weekly—These Are the Items I Love On and Off the Court",
-      "link": "https://www.whowhatwear.com/fashion/shopping/chic-womens-tennis-gear",
-      "summary": "Looks that serve.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor Who Plays Tennis Weekly—These Are the Items I Lov...",
-      "score": 1,
-      "published": "2026-08-28T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3412762c7033",
       "title": "If I Were Going Back to School This Month, I'd Show These 13 Nail Ideas to My Manicurist",
       "link": "https://www.whowhatwear.com/beauty/nails/back-to-school-nail-ideas",
@@ -648,6 +746,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: If I Were Going Back to School This Month, I'd Show These 13 Nail Idea...",
+      "score": 1,
+      "published": "2026-08-28T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5db85e6a9252",
+      "title": "I'm a Fashion Editor Who Plays Tennis Weekly—These Are the Items I Love On and Off the Court",
+      "link": "https://www.whowhatwear.com/fashion/shopping/chic-womens-tennis-gear",
+      "summary": "Looks that serve.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor Who Plays Tennis Weekly—These Are the Items I Lov...",
       "score": 1,
       "published": "2026-08-28T14:00:00+00:00",
       "discovered_via": "feed"
@@ -1017,20 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9525d54692df",
-      "title": "I'm a Fashion Expert—Looking Chic in 2026 Means Wearing This One Denim Brand",
-      "link": "https://www.whowhatwear.com/fashion/denim/calvin-klein-jeans-2026",
-      "summary": "I'll never abandon the label's denim.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-08-28T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "af2e38cd29f8",
       "title": "We Asked, You Answered: 2026 Summer Trends, Summarized",
       "link": "https://www.vogue.com/article/summer-trends-summarized",
@@ -1045,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "425f2b31725c",
-      "title": "Everywhere I Look in 2026, Cool Girls Are Wearing This Bra-Top Trend With Leggings",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/layered-bra-top-trend-vittoria-ceretti",
-      "summary": "No tees, no tanks, no hoodies.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-08-28T00:22:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "aa2c21e76ef3",
       "title": "The Bazaar Guide to Fall 2026 Movies",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a73234956/bazaar-guide-fall-2026-movies/",
@@ -1070,20 +1154,6 @@
       "angle": "Fashion Intelligence: The Bazaar Guide to Fall 2026 Movies...",
       "score": 0,
       "published": "2026-08-27T23:41:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d9d6b4a0607c",
-      "title": "Hold the Sneakers—This Is the Fall Flat-Shoe Trend to Wear With Shorts Starting Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/boat-shoe-trend-harry-styles",
-      "summary": "It's the perfect transitional pair.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-27T22:33:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1129,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e24654ebcef8",
-      "title": "Not Cummerbunds, Not Balloon Pants—These Are the 5 It-Girl Trends I Spotted at Zara",
-      "link": "https://www.whowhatwear.com/fashion/shopping/it-girl-trends-zara-fall-2026",
-      "summary": "Yes to it all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-27T21:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2aa2b9fd333c",
       "title": "Kendall Jenner’s Silky, Lacy Date-Night Look Is Full of It Girl Brands",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73543984/kendall-jenner-minimalist-date-night-look-khaite-jeans-the-row-mules-jacob-elordi-photos/",
@@ -1182,20 +1238,6 @@
       "angle": "Fashion Intelligence: Are Sulfate-Free Shampoos Actually Better? Vogue Investigates...",
       "score": 0,
       "published": "2026-08-27T20:02:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e840f6111e8d",
-      "title": "These Are the 6 Brands the Gen Z Fashion Crowd Is Buying Their Sweaters From This Fall",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/gen-z-sweater-brands-2026",
-      "summary": "It's impossible to look frumpy in these knits.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These Are the 6 Brands the Gen Z Fashion Crowd Is Buying Their Sweater...",
-      "score": 2,
-      "published": "2026-08-27T20:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1241,20 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "90bdcca4bd62",
-      "title": "The Specific Dôen Blouse It Girls Always Wear With Jeans",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/doen-ruffled-blouse-joey-king",
-      "summary": "It's boho chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Specific Dôen Blouse It Girls Always Wear With Jeans...",
-      "score": 1,
-      "published": "2026-08-27T19:23:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "93ea502b6189",
       "title": "All of Dolly Parton and Miley Cyrus’s Sweetest Moments Together",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a73543373/dolly-parton-miley-cyrus-moments/",
@@ -1294,20 +1322,6 @@
       "angle": "Fashion Intelligence: Yayoi Kusama’s Style Was Larger Than Life...",
       "score": 2,
       "published": "2026-08-27T18:26:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "276a49d20135",
-      "title": "Petite Fashion People Know the Chicest Shoe Trend to Wear With Shorts Isn't Sneakers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/shorts-kitten-heel-slides-trend-zoe-kravitz-2026",
-      "summary": "Spotted on Zoë Kravitz.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-27T18:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d02287f1c320",
-      "title": "Who Will Be the Next James Bond? 25 Possible Contenders",
-      "link": "https://www.vogue.com/slideshow/who-will-be-the-next-james-bond",
-      "summary": "Here, Vogue charts the actors favored to be the next James Bond, from Callum Turner and Aaron Taylor-Johnson to Jack Barton and Dev Patel.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Who Will Be the Next James Bond? 25 Possible Contenders...",
-      "score": 0,
-      "published": "2026-08-27T16:03:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "871cce3c2e3f",
       "title": "The It Items that Fashion Insiders Are Shopping for Fall 2026",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73498051/fall-fashion-it-items-2026/",
@@ -1392,20 +1392,6 @@
       "angle": "Fashion Intelligence: Rooms Showroom Is Hiring A Sales Representative - Boutiques In New Yor...",
       "score": 5,
       "published": "2026-08-27T15:40:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f3a66d263d64",
-      "title": "Kaia Gerber Steps Out in a IYKYK Fashion Tee",
-      "link": "https://www.vogue.com/article/kaia-gerber-emily-dawn-long-graphic-tee",
-      "summary": "The model wore a cheeky graphic tee that has been also worn by celebrities like Pedro Pascal, Tommy Dorfman, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Kaia Gerber Steps Out in a IYKYK Fashion Tee...",
-      "score": 2,
-      "published": "2026-08-27T15:29:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1476,20 +1462,6 @@
       "angle": "Fashion Intelligence: Soul-A: A Sun-Protective Clothing Brand Designed for Everyday Wear...",
       "score": 2,
       "published": "2026-08-27T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "926feb4a9e59",
-      "title": "All I Want This Fall Is a Saucy Little Windbreaker",
-      "link": "https://www.vogue.com/article/fall-colorful-windbreakers-trend",
-      "summary": "A neon-bright windbreaker is the perfect thing to trick people into thinking I am outdoorsy (nope) and adventurous (definitely not).",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: All I Want This Fall Is a Saucy Little Windbreaker...",
-      "score": 0,
-      "published": "2026-08-27T13:51:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2263,20 +2235,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f6faf316f69a",
-      "title": "How To Pick The Best Hairstyle For Your Hair Type",
-      "link": "https://www.fashionbeans.com/article/best-haircuts-for-your-hair-type/",
-      "summary": "There are many things that affect whether or not a certain hairstyle suits you. Your face shape is one. How you style it is another. If you&#8217;re considering a top knot, whether you&#8217;re actually a practicing samurai warrior should be a third. But the main one is the hair itself. Men&#8217;s hair type determines",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Pick The Best Hairstyle For Your Hair Type...",
-      "score": 1,
-      "published": "2026-08-22T09:10:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bf3cfac737f5",
       "title": "Ahyun: An Acne-Safe Beauty Brand Inspired by the Founder's Chinese and Korean Heritage",
       "link": "https://fashionista.com/2026/08/ahyun-cosmetics-skin-care-brand",
@@ -2823,6 +2781,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c51d7aca8d11",
+      "title": "Kundan Mehendi Is the New Bridal Trend. Here’s How to Wear It",
+      "link": "https://www.azafashions.com/blog/2026/08/29/kundan-mehendi-is-the-new-bridal-trend/?utm_source=rss&utm_medium=rss&utm_campaign=kundan-mehendi-is-the-new-bridal-trend",
+      "summary": "A quiet rebellion is happening at the mehendi table. Brides are looking at hours of dense henna, the smudge risk, the wait for stain to deepen—and asking if there's a&#8230; The post Kundan Mehendi Is the New Bridal Trend. Here&#8217;s How to Wear It appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Kundan Mehendi Is the New Bridal Trend. Here’s How to Wear It — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-08-29T10:04:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3c3e48426dd",
+      "title": "9 Unique Blouse Designs That Make Every Saree a Statement",
+      "link": "https://www.azafashions.com/blog/2026/08/28/unique-blouse-designs/?utm_source=rss&utm_medium=rss&utm_campaign=unique-blouse-designs",
+      "summary": "There was a time the blouse quietly waited its turn,&#160;tucked behind six yards of drama, doing its job and staying out of the conversation. That era is over. This wedding&#8230; The post 9 Unique Blouse Designs That Make Every Saree a Statement appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: 9 Unique Blouse Designs That Make Every Saree a Statement...",
+      "score": 2,
+      "published": "2026-08-28T08:42:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "da44e30e5b7d",
       "title": "How the 800-Year-Old Kamarbandh Became 2026’s Favourite Bridal Accessory",
       "link": "https://www.azafashions.com/blog/2026/08/27/kamarbandh-is-back/?utm_source=rss&utm_medium=rss&utm_campaign=kamarbandh-is-back",
@@ -2879,6 +2865,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "63b132a63ab0",
+      "title": "Chic Holiday Party Looks to Try in Singapore This Season",
+      "link": "https://www.azafashions.com/blog/2026/08/25/chic-holiday-looks-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=chic-holiday-looks-in-singapore",
+      "summary": "The rooftop bars are booked. The dinner reservations are made. The group chats are buzzing. Singapore's holiday party calendar moves fast, and your wardrobe needs to keep up. From Christmas&#8230; The post Chic Holiday Party Looks to Try in Singapore This Season appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-08-25T09:29:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "32301d24153f",
       "title": "Skip the Heavy Silk: Lightweight Sarees to Wear This Ganesh Chaturthi",
       "link": "https://www.azafashions.com/blog/2026/08/24/lightweight-sarees-ganesh-chaturthi/?utm_source=rss&utm_medium=rss&utm_campaign=lightweight-sarees-ganesh-chaturthi",
@@ -2919,98 +2919,56 @@
       "score": 4,
       "published": "2026-08-23T01:53:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "9b6d7104a60c",
-      "title": "The Essential Jewellery Colour Palette for Red Bridal Wear",
-      "link": "https://www.azafashions.com/blog/2026/08/22/jewellery-colour-red-bridal-wear/?utm_source=rss&utm_medium=rss&utm_campaign=jewellery-colour-red-bridal-wear",
-      "summary": "While a red bridal outfit remains the ultimate classic, choosing the right jewellery palette is what brings the entire look together. The key lies in understanding colour harmony, whether you prefer a&#8230; The post The Essential Jewellery Colour Palette for Red Bridal Wear appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Essential Jewellery Colour Palette for Red Bridal Wear — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-08-22T09:47:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fe8a25b7c634",
-      "title": "Geometric Menswear Is Giving Traditional Dressing a Sharper Edge",
-      "link": "https://www.azafashions.com/blog/2026/08/22/geometric-menswear-trend/?utm_source=rss&utm_medium=rss&utm_campaign=geometric-menswear-trend",
-      "summary": "Menswear has always had its classics: the straight kurta, the structured sherwani, the dependable Nehru jacket. But lately, designers are drawing outside those familiar lines. Geometric menswear is bringing angles,&#8230; The post Geometric Menswear Is Giving Traditional Dressing a Sharper Edge appeared first on Aza Ed",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Geometric Menswear Is Giving Traditional Dressing a Sharper Edge...",
-      "score": 6,
-      "published": "2026-08-22T07:46:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4bc79abfcd50",
-      "title": "Old Zari Is Back and It’s Making Indianwear Look Richer",
-      "link": "https://www.azafashions.com/blog/2026/08/21/old-zari-comeback/?utm_source=rss&utm_medium=rss&utm_campaign=old-zari-comeback",
-      "summary": "There's a thread running through Indian fashion right now, quite literally. Not the neon sequin, not the pastel organza but&#160;the metallic gold-and-silver filament that's been embroidered into our clothes since&#8230; The post Old Zari Is Back and It’s Making Indianwear Look Richer appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Old Zari Is Back and It’s Making Indianwear Look Richer...",
-      "score": 3,
-      "published": "2026-08-21T13:37:17+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ക്രിക്കറ്റ് ലോകകപ്പ്",
+      "term": "iphone",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पत्नी",
+      "term": "toxic movies",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ather konarc launch",
-      "summary": "",
-      "aza_category": "Designer Spotlight"
-    },
-    {
-      "term": "lottery sambad result",
+      "term": "arrest",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "തിരഞ്ഞെടുപ്പ്",
+      "term": "রেল পরিবহন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aga ruhullah mehdi",
+      "term": "wolves vs stoke city",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অভিষেক ব্যানার্জি",
+      "term": "víctor muñoz",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "কৃষক",
+      "term": "spacex cursor",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వేప",
+      "term": "the traitors s2",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അഫ്ഗാനിസ്ഥാന്",
+      "term": "క్రికెట్",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "टैरो",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
