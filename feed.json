@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:48:29.360315+00:00",
+  "generated_at": "2026-08-30T10:17:16.265039+00:00",
   "owned_count": 10,
   "competitor_count": 20,
   "industry_count": 185,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tamme Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-30T07:45:40+00:00",
+      "published": "2026-08-30T10:13:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,21 +33,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ancellm Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-08-30T07:45:40+00:00",
+      "published": "2026-08-30T10:13:48+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "3b0e781fbf9f",
-      "title": "Make India drug-free, build stronger future for youth: PM in Mann ki Baat address",
-      "link": "https://www.indiatoday.in/india/story/modi-urges-drug-free-india-highlights-women-beneficiaries-under-pm-svanidhi-ptag-2982846-2026-08-30?utm_source=rss",
-      "summary": "Make India drug-free, build stronger future for youth: PM in Mann ki Baat address",
-      "source": "India Today Fashion",
+      "id": "1dd371fcae2f",
+      "title": "6 of the Best Rom-Coms That Borrow From Shakespeare",
+      "link": "https://www.vogue.com/article/best-rom-coms-that-borrow-from-shakespeare",
+      "summary": "Millennials, wake up! Lena Dunham and Carly Rae Jepson’s musical adaptation of “10 Things I Hate About You” lands next year! Here are the best Shakespearean rom-coms to watch while you wait.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Make India drug-free, build stronger future for youth: PM in Mann ki B...",
+      "angle": "Fashion Intelligence: 6 of the Best Rom-Coms That Borrow From Shakespeare...",
+      "score": 0,
+      "published": "2026-08-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "15c55bd0039a",
+      "title": "The Best Pilates Clothes & Gear to Wear for a Mat or Reformer Class",
+      "link": "https://www.vogue.com/article/what-to-wear-to-pilates",
+      "summary": "Kickstart your workout with the best pilates clothes and gear, as recommended by experts themselves, from Alo, Free People, Lululemon, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Pilates Clothes & Gear to Wear for a Mat or Reformer Class...",
       "score": 1,
-      "published": "2026-08-30T07:43:49+00:00",
+      "published": "2026-08-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aebcadbdeebe",
+      "title": "I'm Making 5 Strategic Fall Beauty Swaps—Here's Every Single One (Some Are Even On Sale)",
+      "link": "https://www.whowhatwear.com/beauty/skin/dermstore-fall-beauty-products",
+      "summary": "Lucky me.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Making 5 Strategic Fall Beauty Swaps—Here's Every Single One (Some...",
+      "score": 1,
+      "published": "2026-08-30T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3f1eae4ebf5",
+      "title": "It’s Back: To Make the Bohemian Fashion Trend Look Chic This Autumn, Wear These 8 Pieces",
+      "link": "https://www.whowhatwear.com/fashion/fall/bohemian-autumn-dressing-2026",
+      "summary": "Long live boho.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-30T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b36ae6fe4761",
+      "title": "Forget Shopping at The Row—The Secret to Dressing Like an Olsen Twin Is Wearing These Autumn Trends",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/mary-kate-ashley-olsen-autumn-fashion-trends",
+      "summary": "You won't find these in store.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-08-30T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3eec76c119b9",
+      "title": "Elegant It Girls are Swapping These 5 “Dated” Autumn Fashion Trends for These Chicer Alternatives",
+      "link": "https://www.whowhatwear.com/fashion/fall/dated-fashion-trends-autumn-2026",
+      "summary": "The seasonal shift begins.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-08-30T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -583,16 +653,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1d84a04be495",
-      "title": "Barrel-Leg Jeans Are Back for Autumn—5 Ways Fashion People Will Be Styling Them This Atumn",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-barrel-leg-jeans-autumn-2026",
-      "summary": "Denim with a little drama.",
+      "id": "645c3b061b35",
+      "title": "I Asked an Expert Which Nail Trends Everyone Will Be Wearing This Autumn—They Said These 6",
+      "link": "https://www.whowhatwear.com/beauty/nails/autumn-nail-trends-2026",
+      "summary": "BRB, off to the salon.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Barrel-Leg Jeans Are Back for Autumn—5 Ways Fashion People Will Be Sty...",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-08-29T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -611,16 +681,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "645c3b061b35",
-      "title": "I Asked an Expert Which Nail Trends Everyone Will Be Wearing This Autumn—They Said These 6",
-      "link": "https://www.whowhatwear.com/beauty/nails/autumn-nail-trends-2026",
-      "summary": "BRB, off to the salon.",
+      "id": "1d84a04be495",
+      "title": "Barrel-Leg Jeans Are Back for Autumn—5 Ways Fashion People Will Be Styling Them This Atumn",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-barrel-leg-jeans-autumn-2026",
+      "summary": "Denim with a little drama.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Barrel-Leg Jeans Are Back for Autumn—5 Ways Fashion People Will Be Sty...",
+      "score": 1,
       "published": "2026-08-29T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -779,15 +849,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b184bcf3ffbf",
-      "title": "The Elevated Basic Fashion People Are Wearing With Skirts Instead of T-Shirts",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/button-down-shirts-with-skirts-outfits",
-      "summary": "Trust me. It's much more elegant.",
+      "id": "4fa16af2a476",
+      "title": "The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Leggings and Sneakers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leggings-sneakers-slouchy-socks-trend-jennifer-lopez-2026",
+      "summary": "It's less than $20.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "angle": "Fashion Intelligence: The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Legg...",
       "score": 2,
       "published": "2026-08-28T20:00:00+00:00",
       "discovered_via": "feed"
@@ -807,15 +877,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4fa16af2a476",
-      "title": "The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Leggings and Sneakers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leggings-sneakers-slouchy-socks-trend-jennifer-lopez-2026",
-      "summary": "It's less than $20.",
+      "id": "b184bcf3ffbf",
+      "title": "The Elevated Basic Fashion People Are Wearing With Skirts Instead of T-Shirts",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/button-down-shirts-with-skirts-outfits",
+      "summary": "Trust me. It's much more elegant.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Legg...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-08-28T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1115,20 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "14631a4d5600",
-      "title": "These 13 Nordstrom New Arrivals Will 100% Elevate Your Fall Beauty Routine",
-      "link": "https://www.whowhatwear.com/beauty/nordstrom-fall-beauty-products-2026",
-      "summary": "Trust me on this.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These 13 Nordstrom New Arrivals Will 100% Elevate Your Fall Beauty Rou...",
-      "score": 1,
-      "published": "2026-08-28T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3412762c7033",
       "title": "If I Were Going Back to School This Month, I'd Show These 13 Nail Ideas to My Manicurist",
       "link": "https://www.whowhatwear.com/beauty/nails/back-to-school-nail-ideas",
@@ -1152,6 +1208,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I'm a Fashion Editor Who Plays Tennis Weekly—These Are the Items I Lov...",
+      "score": 1,
+      "published": "2026-08-28T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "14631a4d5600",
+      "title": "These 13 Nordstrom New Arrivals Will 100% Elevate Your Fall Beauty Routine",
+      "link": "https://www.whowhatwear.com/beauty/nordstrom-fall-beauty-products-2026",
+      "summary": "Trust me on this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: These 13 Nordstrom New Arrivals Will 100% Elevate Your Fall Beauty Rou...",
       "score": 1,
       "published": "2026-08-28T14:00:00+00:00",
       "discovered_via": "feed"
@@ -1255,34 +1325,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-08-28T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a15efe560019",
-      "title": "Suede Sneakers, You're Done—Under-30 Fashion People Are Reviving This \"Plain\" Sneaker Trend for Fall",
-      "link": "https://www.whowhatwear.com/fashion/shoes/gen-z-canvas-shoe-trend-2026",
-      "summary": "Take note.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-28T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dee4562b96cf",
       "title": "5 Best Coach Colognes for Collecting Compliments in 2026",
       "link": "https://www.fashionbeans.com/article/best-coach-colognes/",
@@ -1294,48 +1336,6 @@
       "angle": "Fashion Intelligence: 5 Best Coach Colognes for Collecting Compliments in 2026...",
       "score": 1,
       "published": "2026-08-28T09:49:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "087977edc0fa",
-      "title": "How Endometriosis Symptoms Changed My Beauty Routine",
-      "link": "https://www.vogue.com/article/how-endometriosis-changed-my-beauty-routine",
-      "summary": "More women than ever are being diagnosed with endometriosis. Easing symptoms means overhauling your lifestyle and adopting a broader view of beauty.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Endometriosis Symptoms Changed My Beauty Routine...",
-      "score": 2,
-      "published": "2026-08-28T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dec6527c8144",
-      "title": "Confirmed: This Is the French Fragrance to Wear If You Want to Smell Rich This Fall",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/guerlain-lhueure-bleue-fragrance-review",
-      "summary": "Airy, elegant, and destined for compliments.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Confirmed: This Is the French Fragrance to Wear If You Want to Smell R...",
-      "score": 1,
-      "published": "2026-08-28T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1aa4ccb37e5",
-      "title": "I Spent 2 Weeks Creating a Fall Beauty Curriculum—9 Expert-Approved Steps to Repair Your Skin, Hair, and Nails",
-      "link": "https://www.whowhatwear.com/beauty/fall-beauty-curriculum",
-      "summary": "My personal fall glow-up guide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Spent 2 Weeks Creating a Fall Beauty Curriculum—9 Expert-Approved St...",
-      "score": 1,
-      "published": "2026-08-28T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "neet pg",
+      "term": "संजय राऊत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "emergency evacuation",
+      "term": "gurnoor brar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಜೋ ರೂಟ್",
+      "term": "టాక్సిక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "csir net 2026",
+      "term": "anthropic",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "manjeet kaur",
+      "term": "sm70",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వరద",
+      "term": "arshdeep singh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एशिया कप",
+      "term": "samantha",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दिल्ली सरकार",
+      "term": "scotland vs netherlands",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कियारा आडवाणी",
+      "term": "सोनम वांगचुक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bribery",
+      "term": "ചിരാഗ് പസ്വാന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
