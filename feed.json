@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:11:25.046917+00:00",
+  "generated_at": "2026-08-31T08:02:36.508517+00:00",
   "owned_count": 10,
   "competitor_count": 20,
   "industry_count": 185,
@@ -9,31 +9,241 @@
   },
   "articles": [
     {
-      "id": "94d2b5d69fcb",
-      "title": "Tamme Tokyo Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/tamme",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "30b159ef8158",
+      "title": "Not Kendall, Not Hailey—I’m Taking My Autumn Wardrobe Cues From This Unsung Style Icon",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/margaret-qualley-outfits",
+      "summary": "Chic every time.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Tamme Tokyo Spring 2027...",
-      "score": 0,
-      "published": "2026-08-30T15:10:33+00:00",
+      "angle": "Fashion Intelligence: Not Kendall, Not Hailey—I’m Taking My Autumn Wardrobe Cues From This U...",
+      "score": 1,
+      "published": "2026-08-31T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "1824c6144398",
-      "title": "Ancellm Tokyo Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/ancellm",
-      "summary": "",
+      "id": "fa76d23106a9",
+      "title": "This Stylish New Scottish Highlands Retreat Is a Love Letter to Its Natural Surroundings",
+      "link": "https://www.vogue.com/article/wildland-hope-scotland-hotel",
+      "summary": "As Europe’s largest private conservation project, WildLand is as much about impeccable design as it is about protecting the local flora and fauna.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ancellm Tokyo Spring 2027...",
+      "angle": "Fashion Intelligence: This Stylish New Scottish Highlands Retreat Is a Love Letter to Its Na...",
       "score": 0,
-      "published": "2026-08-30T15:10:33+00:00",
+      "published": "2026-08-31T07:37:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "72100a349db1",
+      "title": "5 Elegant Ways To Wear Autumns Favourite Jeans and Loafers Combo",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/jeans-and-loafer-outfits-autumn-2026",
+      "summary": "An autumnal failsafe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Elegant Ways To Wear Autumns Favourite Jeans and Loafers Combo...",
+      "score": 1,
+      "published": "2026-08-31T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c2b45b7cc5fe",
+      "title": "Cut Through All The Retail Noise: These Nordstrom Shoes Picks Will Turn Heads This Fall",
+      "link": "https://www.whowhatwear.com/fashion/shoes/best-nordstrom-shoes-fall-september-2026",
+      "summary": "The only fall footwear guide you need.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Cut Through All The Retail Noise: These Nordstrom Shoes Picks Will Tur...",
+      "score": 1,
+      "published": "2026-08-31T06:56:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "942ce4825093",
+      "title": "Ankit Baliyan Murder: Exclusive Hotel CCTV Shows Shooters' Recce; 2 Suspects Killed In Encounter",
+      "link": "https://www.indiatoday.in/india/video/ankit-baliyan-murder-exclusive-hotel-cctv-shows-shooters-recce-2-suspects-killed-in-encounter-ytvd-2983505-2026-08-31?utm_source=rss",
+      "summary": "Ankit Baliyan Murder: Exclusive Hotel CCTV Shows Shooters' Recce; 2 Suspects Killed In Encounter",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Ankit Baliyan Murder: Exclusive Hotel CCTV Shows Shooters' Recce; 2 Su...",
+      "score": 1,
+      "published": "2026-08-31T06:52:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d77febfec8af",
+      "title": "Princess Diana’s Fashion Evolution Epitomized Royal Glamour",
+      "link": "https://www.vogue.com/slideshow/diana-princess-of-wales-style-evolution",
+      "summary": "Princess Diana’s fashion looks are some of the most talked-about outfits of all time: The revenge dress, the Travolta dress, the wedding dress. On the 29th anniversary of Princess Diana’s death, a look back at some of her most influential outfits.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Princess Diana’s Fashion Evolution Epitomized Royal Glamour...",
+      "score": 4,
+      "published": "2026-08-31T06:16:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8bfdd257328b",
+      "title": "Jasmine Tookes on '90s Supermodel Makeup and the One Trick That Makes Her Eyelashes Look Thicker",
+      "link": "https://www.whowhatwear.com/beauty/makeup/jasmine-tookes-makeup-interview-2026-uk",
+      "summary": "\"Polished but easy.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jasmine Tookes on '90s Supermodel Makeup and the One Trick That Makes ...",
+      "score": 1,
+      "published": "2026-08-31T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7b9fc1b5ae89",
+      "title": "Brooches, Open Bags and Boho Jewellery—7 Accessory Trends It Girls Will Be Wearing This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-accessory-trends-2026",
+      "summary": "Prepare to see them everywhere.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-08-31T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed59a7af0108",
+      "title": "COS Pre-Fall 2026 Takes on Classic Style",
+      "link": "https://www.fashiongonerogue.com/story/cos-pre-fall-2026/",
+      "summary": "COS pre-fall 2026 puts a new spin on transitional dressing as it blends sculpted tailoring with a city-ready attitude. The ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: COS Pre-Fall 2026 Takes on Classic Style...",
+      "score": 2,
+      "published": "2026-08-31T01:58:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b3f73a2a7d8b",
+      "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Made Me Cry at Least 11 Times",
+      "link": "https://www.harpersbazaar.com/culture/art-books-music/a73564358/olivia-rodrigo-daisy-chain-fields-music-festival-review/",
+      "summary": "The festival updated the Lilith Fair concept for 2026—and raised $20 million for charity",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Olivia Rodrigo’s Daisy Chain Fields Festival Made Me Cry at Least 11 T...",
+      "score": 0,
+      "published": "2026-08-31T00:42:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a58afe799a09",
+      "title": "Jennie Gives adidas Originals a Balletcore Twist",
+      "link": "https://www.fashiongonerogue.com/story/jennie-adidas-originals-collaboration/",
+      "summary": "Jennie debuts as co-designer of the adidas Originals by Jennie fall-winter 2026 campaign. It&#8217;s taking her adidas era somewhere seriously ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Jennie Gives adidas Originals a Balletcore Twist...",
+      "score": 1,
+      "published": "2026-08-30T22:45:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1822ebd5babc",
+      "title": "Why Today’s Luxury Statement Jewelry Is Sculptural, Sustainable Gold",
+      "link": "https://www.fashiongonerogue.com/story/sculptural-sustainable-gold-statement-jewelry/",
+      "summary": "Buyers increasingly weigh where a piece’s gold came from as closely as they weigh its design, treating sourcing and craftsmanship ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Why Today’s Luxury Statement Jewelry Is Sculptural, Sustainable Gold...",
+      "score": 3,
+      "published": "2026-08-30T22:41:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d55f2edce430",
+      "title": "Girlhood Was in Full Flower at Olivia Rodrigo’s Daisy Chain Festival",
+      "link": "https://www.vogue.com/article/olivia-rodrigo-daisy-chain-festival-style-report",
+      "summary": "Biz Sherbert surveys the style scene at Olivia Rodrigo’s inaugural Daisy Chain Festival, where women and girls turned out in full force—and full festival regalia.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Girlhood Was in Full Flower at Olivia Rodrigo’s Daisy Chain Festival...",
+      "score": 1,
+      "published": "2026-08-30T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f7aa2f962c76",
+      "title": "Finneas and Claudia Sulewski Marry in a Coastal California Ceremony",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73562919/finneas-claudia-sulewski-marry/",
+      "summary": "And Finneas’s sister, Billie Eilish, officiated!",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Finneas and Claudia Sulewski Marry in a Coastal California Ceremony...",
+      "score": 0,
+      "published": "2026-08-30T16:26:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c5b3274ed8ab",
+      "title": "Harry Styles Just Acknowledged Taylor Swift’s Wedding in the Most Unexpected Way",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73562715/harry-styles-acknowledged-taylor-swift-wedding/",
+      "summary": "The two previously dated in 2012",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Harry Styles Just Acknowledged Taylor Swift’s Wedding in the Most Unexpected Way — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-08-30T15:59:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ee9c14a34326",
+      "title": "The Best Dressed Stars of the Week Did Minimalism-Versus-Maximalism",
+      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-nicole-kidman-celine-dion-yara-shahidi",
+      "summary": "From Celine Dion to Nicole Kidman: simple and sleek looks sat alongside over-the-top finishes this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Did Minimalism-Versus-Maximalism...",
+      "score": 1,
+      "published": "2026-08-30T15:55:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3aeaabe83364",
+      "title": "H&M Just Dropped a $40 Version of the Flat Shoe Trend That Every Celeb Is Already Wearing For Fall",
+      "link": "https://www.whowhatwear.com/fashion/shoes/hm-jazz-shoe-trend-2026",
+      "summary": "Gracie! Charlize! Lily!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-08-30T15:52:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -107,20 +317,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "579edfe66433",
-      "title": "Before Kanpur crash, DGCA warned flying schools over Tecnam aircraft safety",
-      "link": "https://www.indiatoday.in/india/story/tecnam-crash-dgca-warnings-kanpur-training-aircraft-safety-ptag-2982849-2026-08-30?utm_source=rss",
-      "summary": "Before Kanpur crash, DGCA warned flying schools over Tecnam aircraft safety",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 1,
-      "published": "2026-08-30T11:42:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "33b102524cb4",
       "title": "Game, Set, Manicure: The Best Tennis-Themed Nails To Try For The US Open",
       "link": "https://www.vogue.com/article/tennis-themed-nails",
@@ -149,20 +345,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "296f7b5c1ebb",
-      "title": "Everything to Know About the 2026 US Open",
-      "link": "https://www.whowhatwear.com/fashion/us-open-2026-fashion-fan-guide",
-      "summary": "From fashion collaborations to must-watch matches.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Everything to Know About the 2026 US Open...",
-      "score": 1,
-      "published": "2026-08-30T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f3198d8fbc46",
       "title": "Tracing Roger Federer's Fashion Legacy",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/history-of-roger-federer-fashion-on-off-court",
@@ -172,6 +354,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tracing Roger Federer's Fashion Legacy...",
+      "score": 1,
+      "published": "2026-08-30T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "296f7b5c1ebb",
+      "title": "Everything to Know About the 2026 US Open",
+      "link": "https://www.whowhatwear.com/fashion/us-open-2026-fashion-fan-guide",
+      "summary": "From fashion collaborations to must-watch matches.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Everything to Know About the 2026 US Open...",
       "score": 1,
       "published": "2026-08-30T11:00:00+00:00",
       "discovered_via": "feed"
@@ -191,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "15c55bd0039a",
-      "title": "The Best Pilates Clothes & Gear to Wear for a Mat or Reformer Class",
-      "link": "https://www.vogue.com/article/what-to-wear-to-pilates",
-      "summary": "Kickstart your workout with the best pilates clothes and gear, as recommended by experts themselves, from Alo, Free People, Lululemon, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Pilates Clothes & Gear to Wear for a Mat or Reformer Class...",
-      "score": 1,
-      "published": "2026-08-30T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1dd371fcae2f",
       "title": "6 of the Best Rom-Coms That Borrow From Shakespeare",
       "link": "https://www.vogue.com/article/best-rom-coms-that-borrow-from-shakespeare",
@@ -215,6 +397,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 6 of the Best Rom-Coms That Borrow From Shakespeare...",
       "score": 0,
+      "published": "2026-08-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "15c55bd0039a",
+      "title": "The Best Pilates Clothes & Gear to Wear for a Mat or Reformer Class",
+      "link": "https://www.vogue.com/article/what-to-wear-to-pilates",
+      "summary": "Kickstart your workout with the best pilates clothes and gear, as recommended by experts themselves, from Alo, Free People, Lululemon, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Pilates Clothes & Gear to Wear for a Mat or Reformer Class...",
+      "score": 1,
       "published": "2026-08-30T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -233,10 +429,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3eec76c119b9",
-      "title": "Elegant It Girls are Swapping These 5 “Dated” Autumn Fashion Trends for These Chicer Alternatives",
-      "link": "https://www.whowhatwear.com/fashion/fall/dated-fashion-trends-autumn-2026",
-      "summary": "The seasonal shift begins.",
+      "id": "f3f1eae4ebf5",
+      "title": "It’s Back: To Make the Bohemian Fashion Trend Look Chic This Autumn, Wear These 8 Pieces",
+      "link": "https://www.whowhatwear.com/fashion/fall/bohemian-autumn-dressing-2026",
+      "summary": "Long live boho.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -247,10 +443,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f3f1eae4ebf5",
-      "title": "It’s Back: To Make the Bohemian Fashion Trend Look Chic This Autumn, Wear These 8 Pieces",
-      "link": "https://www.whowhatwear.com/fashion/fall/bohemian-autumn-dressing-2026",
-      "summary": "Long live boho.",
+      "id": "3eec76c119b9",
+      "title": "Elegant It Girls are Swapping These 5 “Dated” Autumn Fashion Trends for These Chicer Alternatives",
+      "link": "https://www.whowhatwear.com/fashion/fall/dated-fashion-trends-autumn-2026",
+      "summary": "The seasonal shift begins.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -416,14 +612,14 @@
     },
     {
       "id": "ea97f706fb0d",
-      "title": "Kendall Jenner’s Latest Accessory: Finn Jenner (-Elordi?)",
+      "title": "Kendall Jenner’s Latest Accessory: Finn Jenner(-Elordi?)",
       "link": "https://www.vogue.com/article/kendall-jenner-latest-accessory-finn-the-dog",
       "summary": "Stepping out in LA after a jaunt to London, the model dressed mostly in The Row, with a miniature wire-haired dachshund peeking out from the Tori tote.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kendall Jenner’s Latest Accessory: Finn Jenner (-Elordi?)...",
+      "angle": "Fashion Intelligence: Kendall Jenner’s Latest Accessory: Finn Jenner(-Elordi?)...",
       "score": 3,
       "published": "2026-08-29T17:20:27+00:00",
       "discovered_via": "feed"
@@ -723,20 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ee08d36488f9",
-      "title": "Mark My Words: This Breakthrough Shoe Colour Trend Will Be Everywhere This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/purple-shoe-trend-elsa-hosk-2026",
-      "summary": "I'm placing bets.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-08-29T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "98ee0f27daf6",
       "title": "I Don't Have US Open Tickets, But If I Did, I'd Bring *These* Summer-to-Fall Beauty Products to NYC",
       "link": "https://www.whowhatwear.com/beauty/makeup/us-open-beauty-products",
@@ -746,6 +928,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Don't Have US Open Tickets, But If I Did, I'd Bring *These* Summer-t...",
+      "score": 1,
+      "published": "2026-08-29T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ee08d36488f9",
+      "title": "Mark My Words: This Breakthrough Shoe Colour Trend Will Be Everywhere This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/purple-shoe-trend-elsa-hosk-2026",
+      "summary": "I'm placing bets.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-08-29T09:00:00+00:00",
       "discovered_via": "feed"
@@ -863,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e042e4c01b27",
-      "title": "It's Officially Fall at Banana Republic—The Coolest Fashion People Will Be Looking at These Specific Items",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-banana-republic-new-arrivals-august-2026",
-      "summary": "Chic finds to refresh your fall wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Officially Fall at Banana Republic—The Coolest Fashion People Wil...",
-      "score": 1,
-      "published": "2026-08-29T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dde5a913aa8b",
       "title": "Victoria Beckham's Nostalgic “Deep French Manicure” Is Back and Better Than Ever",
       "link": "https://www.harpersbazaar.com/beauty/nails/a73535564/victoria-beckham-deep-french-manicure/",
@@ -902,34 +1084,6 @@
       "angle": "Fashion Intelligence: The 11 Best Hair Growth Serums for Thicker Hair, According to Hair Exp...",
       "score": 0,
       "published": "2026-08-28T23:22:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d8031a295b53",
-      "title": "Ask Kendall Jenner—Fall 2026 Date-Night Outfits Should Include This, This, and This",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kendall-jenner-jacob-elordi-jeans-date-night-outfit",
-      "summary": "Kendall and Jacob dinner dates are a very chic affair.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ask Kendall Jenner—Fall 2026 Date-Night Outfits Should Include This, T...",
-      "score": 1,
-      "published": "2026-08-28T22:44:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a6405ea28321",
-      "title": "Sandy Liang's Book Feels Like Everyone's First Fashion Memory",
-      "link": "https://www.whowhatwear.com/fashion/sandy-liang-book-review",
-      "summary": "The downtown designer chronicles her brand's evolution from 2014 to now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Sandy Liang's Book Feels Like Everyone's First Fashion Memory...",
-      "score": 3,
-      "published": "2026-08-28T22:35:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -999,48 +1153,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 57 Thoughts I Had While Watching 'Spa Weekend'...",
       "score": 0,
-      "published": "2026-08-28T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4fa16af2a476",
-      "title": "The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Leggings and Sneakers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leggings-sneakers-slouchy-socks-trend-jennifer-lopez-2026",
-      "summary": "It's less than $20.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Dated Accessory Celebs in Their 20s and 50s Quietly Wear With Legg...",
-      "score": 2,
-      "published": "2026-08-28T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5709a5a02ea4",
-      "title": "5 Outfits That Prove These Are the Ultimate Fashion-Insider Jeans",
-      "link": "https://www.whowhatwear.com/fashion/best-straight-leg-jeans",
-      "summary": "Shop the denim style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Outfits That Prove These Are the Ultimate Fashion-Insider Jeans...",
-      "score": 3,
-      "published": "2026-08-28T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b184bcf3ffbf",
-      "title": "The Elevated Basic Fashion People Are Wearing With Skirts Instead of T-Shirts",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/button-down-shirts-with-skirts-outfits",
-      "summary": "Trust me. It's much more elegant.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-08-28T20:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1129,20 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ad156ba1eb0e",
-      "title": "The Reformation Sale Just Got Even Better—These 17 Pretty Styles Are All Up to 70% Off",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-reformation-sale-items-august-2026",
-      "summary": "Shop deeply discounted, chic buys.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Reformation Sale Just Got Even Better—These 17 Pretty Styles Are A...",
-      "score": 1,
-      "published": "2026-08-28T16:53:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c891ef8a20b9",
       "title": "Retinol vs Hyaluronic Acid: Which Is Better For Fine Lines and Hydration?",
       "link": "https://www.vogue.com/article/retinol-vs-hyaluronic-acid",
@@ -1171,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "493123fa0eec",
-      "title": "Happy Birthday, Jennifer Coolidge! 12 Iconic Pictures of the Star Over the Years",
-      "link": "https://www.vogue.com/slideshow/vintage-pictures-jennifer-coolidge",
-      "summary": "The actor, known for her memorable turns in “American Pie,” “Legally Blonde,” “Best in Show,” and, more recently, Mike White’s “The White Lotus,” turned 65 today.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Happy Birthday, Jennifer Coolidge! 12 Iconic Pictures of the Star Over...",
-      "score": 1,
-      "published": "2026-08-28T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d256d37e99cc",
       "title": "Must Read: CFDA Reveals 2026 Scholarship Fund Winners, Gap Inc. Sees Sales Decline Amid Old Navy Leadership Change",
       "link": "https://fashionista.com/news/cfda-2026-scholarship-fund-winners",
@@ -1210,20 +1294,6 @@
       "angle": "Fashion Intelligence: Confessions of an Avant-Garde Girl With a Soft Spot for J.Crew...",
       "score": 2,
       "published": "2026-08-28T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "76263b03852b",
-      "title": "Unexpected and Somehow Sexy, the Bermuda Short Won the Summer",
-      "link": "https://www.vogue.com/article/unexpected-and-somehow-sexy-the-bermuda-short-won-the-summer",
-      "summary": "At first glance, these knee-length shorts might feel like a casual cousin to the flirty capri, but they might just be the perfect pairing with your favorite teeny-tiny tank.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Unexpected and Somehow Sexy, the Bermuda Short Won the Summer...",
-      "score": 0,
-      "published": "2026-08-28T15:52:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1913,48 +1983,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "291c9fc1109c",
-      "title": "Daisy Chain Fields’s Mission Goes Way Beyond the Music",
-      "link": "https://www.harpersbazaar.com/culture/art-books-music/a73453893/daisy-chain-fields-music-festival-charities/",
-      "summary": "With its star-studded lineup, Olivia Rodrigo’s new music festival will raise money for Black mothers, reproductive rights, and domestic worker protections—and revive a feminist legacy of organizing through music",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Daisy Chain Fields’s Mission Goes Way Beyond the Music...",
-      "score": 0,
-      "published": "2026-08-26T19:12:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4b686d917c3e",
-      "title": "Harry Styles and His “Techno Is My Boyfriend” Cap Are All Over NYC",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73533984/harry-styles-techno-is-my-boyfriend-cap-prada-loafers-nyc-street-style-photos/",
-      "summary": "The artist has been running around NYC all week ahead of his MSG residency",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Harry Styles and His “Techno Is My Boyfriend” Cap Are All Over NYC...",
-      "score": 1,
-      "published": "2026-08-26T18:47:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2cad88d188d3",
-      "title": "Hailey Bieber Makes a Woodsy Swimwear Statement in a Camouflage Bikini",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73532436/hailey-bieber-camouflage-bikini-top-swim-shorts-khy-justin-photos/",
-      "summary": "It came courtesy of her friend Kylie Jenner’s brand",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hailey Bieber Makes a Woodsy Swimwear Statement in a Camouflage Bikini...",
-      "score": 2,
-      "published": "2026-08-26T17:47:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "05b212e00afd",
       "title": "Must Read: Remembering Dolly Parton's Style, How Gen Alpha Shapes Back-to-School Shopping",
       "link": "https://fashionista.com/2026/08/remembering-dolly-partons-style",
@@ -2008,20 +2036,6 @@
       "angle": "Fashion Intelligence: Emma Chamberlain Gives J. Crew’s Rollneck a Modern Makeover...",
       "score": 1,
       "published": "2026-08-26T12:08:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "736e52bca702",
-      "title": "Why Print Still Helps Fashion Creatives Stand Out",
-      "link": "https://www.fashiongonerogue.com/story/print-fashion-creatives/",
-      "summary": "When was the last time you actually held onto someone&#8217;s Instagram profile after a meeting? In an industry built on ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why Print Still Helps Fashion Creatives Stand Out...",
-      "score": 1,
-      "published": "2026-08-26T11:44:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2333,20 +2347,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "500e1184d288",
-      "title": "11 Best Shoes For Wide Feet Men: Stay In-Style All Of 2026",
-      "link": "https://www.fashionbeans.com/article/best-shoes-for-wide-feet-men/",
-      "summary": "Shopping for wide feet is about as horrible as forgetting bug spray on a camping trip. It can quickly ruin a whole weekend if you let it. However, we can promise you that having wide feet doesn&#8217;t limit you to only a select few shoe styles. And that&#8217;s personal experience talking. You can still get &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 11 Best Shoes For Wide Feet Men: Stay In-Style All Of 2026...",
-      "score": 1,
-      "published": "2026-08-23T10:10:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bf3cfac737f5",
       "title": "Ahyun: An Acne-Safe Beauty Brand Inspired by the Founder's Chinese and Korean Heritage",
       "link": "https://fashionista.com/2026/08/ahyun-cosmetics-skin-care-brand",
@@ -2596,6 +2596,20 @@
       "angle": "Fashion Intelligence: Must Read: Why Emerging Fashion Brands Are Betting on L.A. Manufacturi...",
       "score": 2,
       "published": "2026-08-14T16:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "70029b14daab",
+      "title": "How Did a Childhood Meeting Lead Sanjana Tiwari to Her Dream Wedding in Chhindwara?",
+      "link": "https://blog.kalkifashion.com/sanjana-childhood-story-red-lehenga/",
+      "summary": "Some love stories begin with a grand romantic gesture. Others start with a chance meeting, a perfectly timed conversation or two strangers crossing paths unexpectedly. Sanjana Tiwari’s story, however, began when she was only 12 years old—long before she could have imagined that a simple visit to a family home would one",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: How Did a Childhood Meeting Lead Sanjana Tiwari to Her Dream Wedding in Chhindwara? — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-08-31T06:39:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2865,20 +2879,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "65f6a0854c19",
-      "title": "Before You Buy Your Independence Day Outfit, Read This",
-      "link": "https://blog.kalkifashion.com/before-you-buy-your-independence-day-outfit-read-this/",
-      "summary": "Style, colour, print, accessories and your combinations of Independence Day outfits make an impact and allow you to enjoy proud moments in style. The theme or the dress code is usually centered around the tri-colour and aligns with the national day celebration and the freedom movement. However, the choices might vary d",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Before You Buy Your Independence Day Outfit, Read This...",
-      "score": 3,
-      "published": "2026-08-06T08:43:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9a3c40c3a51b",
       "title": "Kiara Advani’s 100-Hour Gold Corset Is the New Way to Wear Banarasi",
       "link": "https://www.azafashions.com/blog/2026/08/29/kiara-advani-gold-banarasi-corset-look/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-gold-banarasi-corset-look",
@@ -3021,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "augsburg vs schalke",
+      "term": "बाबर आजम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "valentín barco",
+      "term": "बारिश मौसम विभाग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मंदाकिनी",
+      "term": "gift nifty",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अंगदान",
+      "term": "बैंक के नोट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इमाम-उल-हक",
+      "term": "इंडियन प्रीमियर लीग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ശ്രീറാം വെങ്കിട്ടരാമന്",
+      "term": "nepal flood cost",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "brahim díaz",
+      "term": "बांग्लादेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "வெப்பநிலை",
+      "term": "नंदकिशोर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "women's asia cup schedule",
+      "term": "தலைமை நீதிபதி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಜಾಮೀನು",
+      "term": "బంగ్లాదేశ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
