@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-09-01T07:10:11.104136+00:00",
+  "generated_at": "2026-09-01T09:46:43.975182+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 178,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "271689a0884f",
+      "title": "Emilio Pucci Fall 2026 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/emilio-pucci",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Emilio Pucci Fall 2026 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-01T09:46:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cec99ebc1561",
+      "title": "What Dyson’s First Toothbrush Says About Oral Care’s Beauty Era",
+      "link": "https://www.vogue.com/article/what-dysons-first-toothbrush-says-about-oral-cares-beauty-era",
+      "summary": "The CameraJet toothbrush marks Dyson’s first step into the oral care category, which is undergoing a broader makeover.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Dyson’s First Toothbrush Says About Oral Care’s Beauty Era...",
+      "score": 1,
+      "published": "2026-09-01T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1ec2dd52e7a4",
+      "title": "With His New Shirts-Only Collection, Phillip Lim Wants to PlayLoveWin",
+      "link": "https://www.vogue.com/article/with-his-new-shirts-only-collection-phillip-lim-wants-to-playlovewin",
+      "summary": "Phillip Lim, the founder and former designer of 3.1 Phillip Lim, has imaged his new project PlayLoveWin as a singular destination for shirts.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-09-01T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5acedd38d842",
+      "title": "10 Things to Buy in September If You Hate Trends But Don't Want to Look Dated",
+      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-in-september-2026",
+      "summary": "Trust me—you won't regret these purchases.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-01T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f94db865018",
+      "title": "Cloudy, Buildable, and Painfully Chic—Dior's New Lip Blurs Are the Definition of Soft Fall Makeup",
+      "link": "https://www.whowhatwear.com/beauty/makeup/rouge-dior-on-stage-ink-blur-matte-launch",
+      "summary": "Believe me, every fashion person will own one.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Cloudy, Buildable, and Painfully Chic—Dior's New Lip Blurs Are the Def...",
+      "score": 1,
+      "published": "2026-09-01T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "203b20a24c08",
+      "title": "Mark My Words: These Are the Fragrances That Will Define Fall 2026",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-new-fragrances-for-fall",
+      "summary": "This season's rising stars.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Mark My Words: These Are the Fragrances That Will Define Fall 2026...",
+      "score": 1,
+      "published": "2026-09-01T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "7295ebdf5522",
       "title": "From the Archives: Brad Johns, the Color Czar",
@@ -79,20 +163,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cec99ebc1561",
-      "title": "What Dyson’s First Toothbrush Says About Oral Care’s Beauty Era",
-      "link": "https://www.vogue.com/article/what-dysons-first-toothbrush-says-about-oral-cares-beauty-era",
-      "summary": "The CameraJet toothbrush marks Dyson’s first step into the oral care category, which is undergoing a broader makeover.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What Dyson’s First Toothbrush Says About Oral Care’s Beauty Era...",
-      "score": 1,
-      "published": "2026-09-01T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "464eeba3eb56",
       "title": "Why Diptyque Is Making a Bigger Bet on Bodycare",
       "link": "https://www.vogue.com/article/why-diptyque-is-making-a-bigger-bet-on-bodycare",
@@ -132,20 +202,6 @@
       "angle": "Fashion Intelligence: Meet the Aussie Athleisure Brand Coming for Your Favorite Labels...",
       "score": 3,
       "published": "2026-09-01T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "169fb2f4b60a",
-      "title": "Milk Prices in Mumbai Hiked by ₹9 Per Litre Ahead of Festive Season",
-      "link": "https://www.indiatoday.in/india/video/milk-prices-in-mumbai-hiked-by-rs9-per-litre-ahead-of-festive-season-ytvd-2984227-2026-09-01?utm_source=rss",
-      "summary": "Milk Prices in Mumbai Hiked by ₹9 Per Litre Ahead of Festive Season",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-01T04:26:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,20 +793,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1455774821ba",
-      "title": "Philippine Leroy-Beaulieu Is Letting Go of Perfection",
-      "link": "https://www.vogue.com/article/philippine-leroy-beaulieu-haus-labs-campaign-interview",
-      "summary": "The “Emily in Paris” star reflects on aging, the myth of “effortless” French beauty, and her playful, paint-splattered Haus Labs campaign.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Philippine Leroy-Beaulieu Is Letting Go of Perfection...",
-      "score": 1,
-      "published": "2026-08-31T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "549059c41527",
       "title": "At This Baja California Wedding, There Were Colorful Outfits, Desert Flowers, and Mezcal Old Fashioneds",
       "link": "https://www.vogue.com/slideshow/ana-starkel-and-nicholas-starkel-wedding",
@@ -765,31 +807,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d023e6b0e886",
-      "title": "The Met’s Spring 2027 Costume Institute Exhibition Will Not Proceed as Planned",
-      "link": "https://www.vogue.com/article/john-galliano-horizons-the-mets-spring-2027-costume-institute-exhibition-will-not-proceed-as-planned",
-      "summary": "After much reflection, John Galliano has decided that it is best for the exhibition not to take place at this time.",
+      "id": "1455774821ba",
+      "title": "Philippine Leroy-Beaulieu Is Letting Go of Perfection",
+      "link": "https://www.vogue.com/article/philippine-leroy-beaulieu-haus-labs-campaign-interview",
+      "summary": "The “Emily in Paris” star reflects on aging, the myth of “effortless” French beauty, and her playful, paint-splattered Haus Labs campaign.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Met’s Spring 2027 Costume Institute Exhibition Will Not Proceed as...",
-      "score": 0,
-      "published": "2026-08-31T12:49:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7836af863a2e",
-      "title": "Can Aryna Sabalenka Three-Peat? Can Carlos Repeat? And Where Do Serena And Venus Stand? Your 2026 US Open Preview",
-      "link": "https://www.vogue.com/article/us-open-preview-2026",
-      "summary": "With no Jannik Sinner, Carlos Alcaraz is the favorite to repeat, but there are a host of eager Americans in his way—as well as a long line of women eager to take away Sabalenka’s number one ranking.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Can Aryna Sabalenka Three-Peat? Can Carlos Repeat? And Where Do Serena...",
-      "score": 0,
-      "published": "2026-08-31T12:09:29+00:00",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Philippine Leroy-Beaulieu Is Letting Go of Perfection...",
+      "score": 1,
+      "published": "2026-08-31T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,15 +1087,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a70a1934b6cd",
-      "title": "Then and Now: Making an Entrance in Tennis",
-      "link": "https://www.whowhatwear.com/fashion/us-open-tennis-player-outfits-sunita-kumar-nair-interview",
-      "summary": "We spoke with Sunita Kumar Nair, the author of Ace: The Times & Style of Tennis, about the most iconic walkout looks in the sport's history.",
+      "id": "296f7b5c1ebb",
+      "title": "Everything to Know About the 2026 US Open",
+      "link": "https://www.whowhatwear.com/fashion/us-open-2026-fashion-fan-guide",
+      "summary": "From fashion collaborations to must-watch matches.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Then and Now: Making an Entrance in Tennis...",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Everything to Know About the 2026 US Open...",
       "score": 1,
       "published": "2026-08-30T11:00:00+00:00",
       "discovered_via": "feed"
@@ -1087,15 +1115,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "296f7b5c1ebb",
-      "title": "Everything to Know About the 2026 US Open",
-      "link": "https://www.whowhatwear.com/fashion/us-open-2026-fashion-fan-guide",
-      "summary": "From fashion collaborations to must-watch matches.",
+      "id": "a70a1934b6cd",
+      "title": "Then and Now: Making an Entrance in Tennis",
+      "link": "https://www.whowhatwear.com/fashion/us-open-tennis-player-outfits-sunita-kumar-nair-interview",
+      "summary": "We spoke with Sunita Kumar Nair, the author of Ace: The Times & Style of Tennis, about the most iconic walkout looks in the sport's history.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Everything to Know About the 2026 US Open...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Then and Now: Making an Entrance in Tennis...",
       "score": 1,
       "published": "2026-08-30T11:00:00+00:00",
       "discovered_via": "feed"
@@ -1168,76 +1196,6 @@
       "angle": "Fashion Intelligence: 20 Best Jean Brands for Men in 2026...",
       "score": 1,
       "published": "2026-08-30T07:00:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8fd1401d6b2e",
-      "title": "I've Done the Research— 6 Major Autumn Trends I Saved With Petite Dressers in Mind",
-      "link": "https://www.whowhatwear.com/fashion/trends/autumn-2026-fashion-trends-for-petites",
-      "summary": "Short and sweet.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "01f6874eff1a",
-      "title": "5 Fall Trends I’m Already Spotting All Over L.A.",
-      "link": "https://www.whowhatwear.com/fashion/trends/fall-2026-fashion-trends-los-angeles",
-      "summary": "Make some room in your new-season wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-08-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25c85e180922",
-      "title": "17 Autumn/Winter 2026 Trends That Will Define Style This Season",
-      "link": "https://www.whowhatwear.com/fashion/trends/autumn-winter-2026-trends",
-      "summary": "Trust me, I’ve done the research.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-08-30T06:20:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ba7209e9fa33",
-      "title": "I Just Spotted 5 Trends at H&M That Will Make Your Autumn Wardrobe Instantly More Elegant",
-      "link": "https://www.whowhatwear.com/fashion/affordable/hm-autumn-trends-2026",
-      "summary": "High-end trends, high-street price.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-08-30T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5d0ec9aa2797",
-      "title": "I Exclusively Wear Brown Lip Gloss—These 7 Formulas Are Always in My Makeup Bag",
-      "link": "https://www.whowhatwear.com/best-brown-lip-glosses-uk",
-      "summary": "From Rhode to Dior.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Exclusively Wear Brown Lip Gloss—These 7 Formulas Are Always in My M...",
-      "score": 1,
-      "published": "2026-08-30T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2501,6 +2459,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c6d3a2cac426",
+      "title": "Nakshu’s Bridal Lehenga Was a Beautiful Reflection of Her Love Story",
+      "link": "https://blog.kalkifashion.com/nakshus-bridal-lehenga-was-a-beautiful-reflection-of-her-love-story/",
+      "summary": "From the very beginning of her bridal journey, Nakshu knew she wanted a wedding look that felt completely like her—timeless, elegant and filled with emotion. She was not searching for an outfit simply because it was trending or looked beautiful in photographs. She wanted a bridal lehenga that reflected her personality,",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Nakshu’s Bridal Lehenga Was a Beautiful Reflection of Her Love Story — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-09-01T08:52:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "70029b14daab",
       "title": "How Did a Childhood Meeting Lead Sanjana Tiwari to Her Dream Wedding in Chhindwara?",
       "link": "https://blog.kalkifashion.com/sanjana-childhood-story-red-lehenga/",
@@ -2767,20 +2739,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fb2d443485ce",
-      "title": "Kurta Sets for Raksha Bandhan: A Thoughtful Gift Guide for Every Type of Sister",
-      "link": "https://blog.kalkifashion.com/kurta-sets-for-raksha-bandhan-a-thoughtful-gift-guide-for-every-type-of-sister/",
-      "summary": "Some bonds are woven in laughter, some in teasing, and some in quiet moments of mutual support. Raksha Bandhan is symbolic of all these moments. It goes beyond tying the sacred thread and making heartfelt promises. There is another beautiful hidden tradition, which is choosing the best gift for your sister that speaks ",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Kurta Sets for Raksha Bandhan: A Thoughtful Gift Guide for Every Type ...",
-      "score": 1,
-      "published": "2026-08-07T04:29:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "69dced4f223d",
       "title": "Kiara Advani’s 100-Hour Gold Corset Is the New Way to Wear Banarasi",
       "link": "https://www.azafashions.com/blog/kiara-advani-gold-banarasi-corset-look/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-gold-banarasi-corset-look",
@@ -2923,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "taliban",
+      "term": "वेतन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अजय राय",
+      "term": "करीना कपूर खान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "crypto exchange binance",
+      "term": "east zone vs central zone",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സ്ത്രീ",
+      "term": "sukesh chandrasekhar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cz vs ez",
+      "term": "പൃഥ്വിരാജ് സുകുമാരന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऐश्वर्या राय बच्चन",
+      "term": "चेतेश्वर पुजारा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "north zone vs south zone",
+      "term": "అన్నదాత సుఖీభవ పథకం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lumino industries ipo allotment status",
+      "term": "कप्तान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सेना",
+      "term": "গাড়ি",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ghee",
+      "term": "ബിനോയ് വിശ്വം",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
