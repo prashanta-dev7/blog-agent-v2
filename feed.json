@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T06:48:34.417826+00:00",
+  "generated_at": "2026-09-03T09:29:02.536427+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 178,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Yushokobayashi Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-09-03T06:45:21+00:00",
+      "published": "2026-09-03T09:24:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d6650842484",
+      "title": "The Most Stylish People Are Wearing These 11 Expert-Approved Nail Colors in September",
+      "link": "https://www.whowhatwear.com/beauty/nails/september-nail-colors-2026",
+      "summary": "A guide to the most relevant shades of the month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-03T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5bd90d511440",
+      "title": "The Story Behind Kelly Wearstler’s “Timeless” H&M Home Collaboration",
+      "link": "https://www.vogue.com/article/kelly-wearstler-hm-collection-interview",
+      "summary": "“It’s affordable, but the quality is still there,” Kelly Wearstler tells Vogue of the collection, which spans homewares and fashion—and is available to shop.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Story Behind Kelly Wearstler’s “Timeless” H&M Home Collaboration...",
+      "score": 3,
+      "published": "2026-09-03T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "70af2115ab23",
+      "title": "From Nightgowns to Perfumes—These Are the Random (But Incredible) Items I'm Loving Right Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/random-favorites-september-2026",
+      "summary": "Celisse, D.S. & Durga, Flamingo Estate, Rue Sophie, Silk Laundry, Vagabond, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Nightgowns to Perfumes—These Are the Random (But Incredible) Item...",
+      "score": 2,
+      "published": "2026-09-03T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c6a8092058bd",
+      "title": "Suddenly, Every Chic Woman Is Wearing This Viral High-Street Jumper—but It Won’t Stay in Stock for Long",
+      "link": "https://www.whowhatwear.com/fashion/shopping/j-crew-tiny-roll-neck",
+      "summary": "Autumn's first cult buy is here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-03T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -76,20 +132,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-03T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "32f8a20cfd73",
-      "title": "TMC Kolkata Office Vandalised, Abhishek Banerjee Slams Police Inaction As CCTV Shows Chaos",
-      "link": "https://www.indiatoday.in/india/video/tmc-kolkata-office-vandalised-abhishek-banerjee-slams-police-inaction-as-cctv-shows-chaos-ytvd-2985959-2026-09-03?utm_source=rss",
-      "summary": "TMC Kolkata Office Vandalised, Abhishek Banerjee Slams Police Inaction As CCTV Shows Chaos",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: TMC Kolkata Office Vandalised, Abhishek Banerjee Slams Police Inaction...",
-      "score": 1,
-      "published": "2026-09-03T05:07:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -821,20 +863,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "75b012a66fd0",
-      "title": "16 Hair Trends You’re About to See Everywhere in 2026",
-      "link": "https://www.vogue.com/article/hair-trends-2026",
-      "summary": "From hair jewelery to sculptural curls and graduated bobs, Vogue talks to the experts to find out the key hair trends you can expect to see everywhere in 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-02T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1e5a4b369b49",
       "title": "Forget the Flannel and Meet the New Grunge Look: Gauzy, Undone, and Easy",
       "link": "https://www.vogue.com/article/the-new-grunge-minimalism",
@@ -845,6 +873,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Forget the Flannel and Meet the New Grunge Look: Gauzy, Undone, and Ea...",
       "score": 0,
+      "published": "2026-09-02T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "75b012a66fd0",
+      "title": "16 Hair Trends You’re About to See Everywhere in 2026",
+      "link": "https://www.vogue.com/article/hair-trends-2026",
+      "summary": "From hair jewelery to sculptural curls and graduated bobs, Vogue talks to the experts to find out the key hair trends you can expect to see everywhere in 2026.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-09-02T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -972,20 +1014,6 @@
       "angle": "Bridal Edit: 15 Vogue Brides on the Best Thing They Bought for Their Wedding — A Complete Style Guide",
       "score": 1,
       "published": "2026-09-02T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1b3cde58fedb",
-      "title": "Jennifer Lopez’s Makeup Touch-up Essentials Are Cult Favorites",
-      "link": "https://www.vogue.com/article/jennifer-lopez-makeup-touch-up-essentials",
-      "summary": "You’ll never see Jennifer Lopez looking anything other than glowy. Photographed out and about in New York, she touched up her signature glam.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jennifer Lopez’s Makeup Touch-up Essentials Are Cult Favorites...",
-      "score": 0,
-      "published": "2026-09-02T09:51:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1171,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "782f17c9ba36",
-      "title": "6 Cool Layered Early-Fall Outfits That Aren't Overly Complicated",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/layered-fall-outfit-ideas",
-      "summary": "Trust me—you'll never overthink your looks again.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Cool Layered Early-Fall Outfits That Aren't Overly Complicated...",
-      "score": 1,
-      "published": "2026-09-01T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e2d2e87d6c82",
       "title": "6 Fall Outfits to Wear When You're Over Brown, Burgundy, and Black",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/colorful-fall-outfit-ideas",
@@ -1195,6 +1209,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 6 Fall Outfits to Wear When You're Over Brown, Burgundy, and Black...",
       "score": 2,
+      "published": "2026-09-01T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "782f17c9ba36",
+      "title": "6 Cool Layered Early-Fall Outfits That Aren't Overly Complicated",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/layered-fall-outfit-ideas",
+      "summary": "Trust me—you'll never overthink your looks again.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Cool Layered Early-Fall Outfits That Aren't Overly Complicated...",
+      "score": 1,
       "published": "2026-09-01T20:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1647,20 +1675,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5acedd38d842",
-      "title": "10 Things to Buy in September If You Hate Trends But Don't Want to Look Dated",
-      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-in-september-2026",
-      "summary": "Trust me—you won't regret these purchases.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-01T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3f94db865018",
       "title": "Cloudy, Buildable, and Painfully Chic—Dior's New Lip Blurs Are the Definition of Soft Fall Makeup",
       "link": "https://www.whowhatwear.com/beauty/makeup/rouge-dior-on-stage-ink-blur-matte-launch",
@@ -1670,6 +1684,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Cloudy, Buildable, and Painfully Chic—Dior's New Lip Blurs Are the Def...",
+      "score": 1,
+      "published": "2026-09-01T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5acedd38d842",
+      "title": "10 Things to Buy in September If You Hate Trends But Don't Want to Look Dated",
+      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-in-september-2026",
+      "summary": "Trust me—you won't regret these purchases.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-09-01T09:00:00+00:00",
       "discovered_via": "feed"
@@ -1728,20 +1756,6 @@
       "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
       "score": 3,
       "published": "2026-09-01T06:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "36a3b5472b89",
-      "title": "I Rely on This One Brand for Expensive-Looking Autumn Staples—9 Elegant Basics Worth Investing In",
-      "link": "https://www.whowhatwear.com/fashion/shopping/reformation-capsule-wardrobe-staples-2026",
-      "summary": "Straight from an editor's wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Rely on This One Brand for Expensive-Looking Autumn Staples—9 Elegan...",
-      "score": 1,
-      "published": "2026-09-01T05:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2923,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "junior engineer",
+      "term": "பிரேமலதா விஜயகாந்த்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारत",
+      "term": "brics summit 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सहारनपुर",
+      "term": "होलकर स्टेडियम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அபிநந்தன்",
+      "term": "भारतीय रिज़र्व बैंक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "బ్యాంకు",
+      "term": "stalin case",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "amit shah",
+      "term": "scholarship up",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "श्री कृष्ण जन्माष्टमी कब है",
+      "term": "উত্তম কুমার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gold rate today near india",
+      "term": "રોહિત શર્મા",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राघव चड्ढा",
+      "term": "కృష్ణాష్టమి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "న్యాయమూర్తి",
+      "term": "মদন মিত্র",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
