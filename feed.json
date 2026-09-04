@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-09-04T06:53:37.607223+00:00",
+  "generated_at": "2026-09-04T09:20:43.948874+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 185,
+  "industry_count": 188,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "139e572f83db",
+      "title": "I've Cracked the Code—These 7 Pieces Are Key For An Elegant Autumn Workwear Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/office/autumn-work-capsule-wardrobe-2026",
+      "summary": "Bring on the commute.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Cracked the Code—These 7 Pieces Are Key For An Elegant Autumn Wor...",
+      "score": 1,
+      "published": "2026-09-04T09:07:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0fa5a9fae7fd",
+      "title": "Sorry, Ballet Flats—Zoe Just Wore the Flat Shoe Trend I Honestly Never Expected to See Her In",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/slide-sandals-shoe-trend-zoe-kravitz-2026",
+      "summary": "Shockingly chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-04T09:04:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5d2559a3bc8b",
+      "title": "Venice Hit ‘Wild Horse Nine’ Is Galloping Into the Awards Race",
+      "link": "https://www.vogue.com/article/wild-horse-nine-venice-review",
+      "summary": "Martin McDonagh’s latest romp, starring John Malkovich, Sam Rockwell, and Parker Posey, just premiered at the Venice Film Festival—and is heading straight for the Oscars.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Venice Hit ‘Wild Horse Nine’ Is Galloping Into the Awards Race...",
+      "score": 0,
+      "published": "2026-09-04T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8a2b6aa08670",
+      "title": "Everything You Need to Know About New York Fashion Week, Spring 2027 Edition",
+      "link": "https://www.vogue.com/article/new-york-fashion-week-spring-2027-preview",
+      "summary": "A list of restaurant openings, anniversaries, debuts and other happenings beyond the runway at New York Fashion Week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Everything You Need to Know About New York Fashion Week, Spring 2027 E...",
+      "score": 3,
+      "published": "2026-09-04T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db6c76761e00",
+      "title": "Forget the \"French Tuck\"—This is How The Fashion Crowd Are Wearing Shirts This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-a-shirt-autumn-2026",
+      "summary": "Simple but effective.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-04T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d03bb983c8aa",
       "title": "IndiGo Aircraft Hits Pole During Parking At Srinagar Airport; All Passengers And Crew Safe",
@@ -23,20 +93,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a7a256ecca09",
-      "title": "This '90s Rom-Com Is My Ultimate Autumn Style Inspiration, Here's Why It Should Be Yours, Too",
-      "link": "https://www.whowhatwear.com/youve-got-mail-wardrobe",
-      "summary": "In Nora, we trust.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This '90s Rom-Com Is My Ultimate Autumn Style Inspiration, Here's Why ...",
-      "score": 1,
-      "published": "2026-09-04T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e5ff12258bf",
       "title": "It's Here: The Ultimate Summer-to-Autumn Beauty Reset, Straight From the Experts",
       "link": "https://www.whowhatwear.com/beauty/skin/post-summer-beauty-routine",
@@ -46,6 +102,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: It's Here: The Ultimate Summer-to-Autumn Beauty Reset, Straight From t...",
+      "score": 1,
+      "published": "2026-09-04T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a7a256ecca09",
+      "title": "This '90s Rom-Com Is My Ultimate Autumn Style Inspiration, Here's Why It Should Be Yours, Too",
+      "link": "https://www.whowhatwear.com/youve-got-mail-wardrobe",
+      "summary": "In Nora, we trust.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This '90s Rom-Com Is My Ultimate Autumn Style Inspiration, Here's Why ...",
       "score": 1,
       "published": "2026-09-04T06:00:00+00:00",
       "discovered_via": "feed"
@@ -989,34 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "27eb6feb5664",
-      "title": "At Last, Victoria Beckham Has a New York Store to Call Her Own",
-      "link": "https://www.vogue.com/article/at-last-victoria-beckham-has-a-new-york-store-to-call-her-own",
-      "summary": "Victoria Beckham’s new store at 150 Mercer Store is a full-circle moment, after she showed her first collection in the city in 2008.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: At Last, Victoria Beckham Has a New York Store to Call Her Own...",
-      "score": 2,
-      "published": "2026-09-03T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "baf3420de6af",
-      "title": "There Really Was Nothing Like Oasis’s Knebworth Gigs",
-      "link": "https://www.vogue.com/article/how-it-felt-to-actually-be-at-oasiss-era-defining-knebworth-gigs",
-      "summary": "“Our coach was one of the earliest to arrive and park up, meaning we were among the first fans on site,” remembers Devinder Bains. “We ran, hearts racing, to the front barriers that would divide VIPs from the general public—it was as close to the stage as we could get.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: There Really Was Nothing Like Oasis’s Knebworth Gigs...",
-      "score": 0,
-      "published": "2026-09-03T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3d6650842484",
       "title": "The Most Stylish People Are Wearing These 11 Expert-Approved Nail Colors in September",
       "link": "https://www.whowhatwear.com/beauty/nails/september-nail-colors-2026",
@@ -1028,6 +1070,34 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-09-03T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc7beb8f1e05",
+      "title": "Grunge Fashion For Men: Outfits And Style Guide",
+      "link": "https://www.fashionbeans.com/article/grunge-fashion-guide/",
+      "summary": "In the beginning, it meant nothing. “It could have been sludge, grime, crud, any word like that,” according to Jonathan Poneman, the founder of Seattle-based record label Sub Pop, some time later. But in his description of the scene, sent out to journalists in the late 1980s when its soon-to-be-stars were still dossing",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-09-03T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c845e67dd3ad",
+      "title": "5 Classic Ways To Wear A Short Back And Sides",
+      "link": "https://www.fashionbeans.com/article/best-mens-short-back-sides-hairstyles/",
+      "summary": "Staying well-groomed is not nearly as effortless as it should look. From mastering tie knots to keeping your toenails from sprouting their own toenails, the official list of requirements for looking good seems to grow longer by the day. You can make the task of looking constantly vaguely presentable easier with four si",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Classic Ways To Wear A Short Back And Sides...",
+      "score": 1,
+      "published": "2026-09-03T08:30:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1423,10 +1493,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "79c4df4d5599",
-      "title": "Not Polos: The Anti-Trend Top Cool Girls Will Wear This Fall",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-womens-henley-tops",
-      "summary": "This will make your jeans, skirts, and pants feel chicer.",
+      "id": "044ade822949",
+      "title": "It's Already Fall at Zara—These New-Season Styles Are Destined to Sell Out First",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-fall-trends-2026",
+      "summary": "Cozy sweaters, cool jackets, suede bags, and more.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1437,10 +1507,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "044ade822949",
-      "title": "It's Already Fall at Zara—These New-Season Styles Are Destined to Sell Out First",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-fall-trends-2026",
-      "summary": "Cozy sweaters, cool jackets, suede bags, and more.",
+      "id": "79c4df4d5599",
+      "title": "Not Polos: The Anti-Trend Top Cool Girls Will Wear This Fall",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-womens-henley-tops",
+      "summary": "This will make your jeans, skirts, and pants feel chicer.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -2319,20 +2389,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c845e67dd3ad",
-      "title": "5 Classic Ways To Wear A Short Back And Sides",
-      "link": "https://www.fashionbeans.com/article/best-mens-short-back-sides-hairstyles/",
-      "summary": "Staying well-groomed is not nearly as effortless as it should look. From mastering tie knots to keeping your toenails from sprouting their own toenails, the official list of requirements for looking good seems to grow longer by the day. You can make the task of looking constantly vaguely presentable easier with four si",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Classic Ways To Wear A Short Back And Sides...",
-      "score": 1,
-      "published": "2026-08-28T08:30:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bbbd7f8d0376",
       "title": "8 Best Perfume Organizers – Storage and Style For 2026",
       "link": "https://www.fashionbeans.com/article/best-perfume-organizers/",
@@ -2442,20 +2498,6 @@
       "angle": "Fashion Intelligence: Meet the Meta Alums (and Sisters) Rewriting Brands' Community Manageme...",
       "score": 3,
       "published": "2026-08-27T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dba931420646",
-      "title": "17 Best Luxury Wallets For Men: Top Designer Picks in 2026",
-      "link": "https://www.fashionbeans.com/article/best-luxury-wallets-for-men/",
-      "summary": "There’s nothing quite as embarrassing as whipping out a tattered wallet to pay for a date or a posh business dinner. Yes, duct tape wallets were cool once, but middle school is over. In today’s modern society, any of the best wallets reflect the man who carries them, so use it to make a good &#8230; Continue reading 17",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 17 Best Luxury Wallets For Men: Top Designer Picks in 2026...",
-      "score": 2,
-      "published": "2026-08-27T10:13:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2865,6 +2907,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e5fd50719557",
+      "title": "Peekaboo Bras Are the New Cool-Girl Styling Trick",
+      "link": "https://www.azafashions.com/blog/peekaboo-bras/?utm_source=rss&utm_medium=rss&utm_campaign=peekaboo-bras",
+      "summary": "There's a certain confidence in letting the world see what used to stay hidden. The peekaboo bra - a deliberately visible slip of lace, satin, or mesh, has moved from&#8230; The post Peekaboo Bras Are the New Cool-Girl Styling Trick appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Peekaboo Bras Are the New Cool-Girl Styling Trick...",
+      "score": 0,
+      "published": "2026-08-31T07:45:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "51f67d4625f3",
       "title": "Jumpsuit vs Dress for Party Wear: Which One Is Better?",
       "link": "https://www.azafashions.com/blog/jumpsuit-vs-dress-party-wear-which-is-better/?utm_source=rss&utm_medium=rss&utm_campaign=jumpsuit-vs-dress-party-wear-which-is-better",
@@ -2947,70 +3003,56 @@
       "score": 2,
       "published": "2026-08-28T08:42:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "c888a4e30b1a",
-      "title": "Floral Saree Styling Tips: Day vs Night Look Explained",
-      "link": "https://www.azafashions.com/blog/floral-saree-styling-tips-day-vs-night-look-explained/?utm_source=rss&utm_medium=rss&utm_campaign=floral-saree-styling-tips-day-vs-night-look-explained",
-      "summary": "A beautifully draped floral pattern instantly breathes life into your ethnic wardrobe. Flowers have inspired textile artisans for centuries, offering an aesthetic that feels both fiercely feminine and incredibly elegant.&#8230; The post Floral Saree Styling Tips: Day vs Night Look Explained appeared first on Aza Editor",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Floral Saree Styling Tips: Day vs Night Look Explained...",
-      "score": 2,
-      "published": "2026-08-28T05:52:10+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "तहसीलदार",
+      "term": "आयात",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கன்னியாகுமரி",
+      "term": "subhash garg",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kia sorento",
+      "term": "silver",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రైలు",
+      "term": "मिर्ज़ापुर फिल्म समीक्षा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फास्टैग",
+      "term": "ജസ്പ്രീത് ബുംറ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iphone",
+      "term": "ਮੌਤ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "భువనేశ్వర్ కుమార్",
+      "term": "ഇന്ത്യ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "himalayan 440",
+      "term": "ബസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारतीय रुपया",
+      "term": "अनंत कुमार सिंह",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bhagirath bhatt denies bigg boss 20",
+      "term": "ബാങ്ക്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
