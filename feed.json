@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:50:19.226847+00:00",
+  "generated_at": "2026-09-05T13:42:04.473780+00:00",
   "owned_count": 10,
   "competitor_count": 16,
   "industry_count": 179,
@@ -19,21 +19,189 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Isaac Mizrahi Fall 1994 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-05T08:47:07+00:00",
+      "published": "2026-09-05T13:41:35+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "0d7ab5040a74",
-      "title": "Khoki Tokyo Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/khoki",
-      "summary": "",
+      "id": "614c4fb6e4fb",
+      "title": "The Best On-Court Style Moments Served at the 2026 U.S. Open",
+      "link": "https://www.vogue.com/slideshow/best-on-court-style-moments-2026-us-open",
+      "summary": "The 2026 U.S. Open is in full swing! With Naomi Osaka, Coco Gauff, and Venus Williams in play, don’t expect traditional tennis whites on the hard court.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Khoki Tokyo Spring 2027...",
+      "angle": "Fashion Intelligence: The Best On-Court Style Moments Served at the 2026 U.S. Open...",
+      "score": 2,
+      "published": "2026-09-05T13:18:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f1f0eccffdd2",
+      "title": "This Artist Bride’s Hand-Painted Danielle Frankel Dress Shaped the Aesthetic of Her Carmel Valley Wedding",
+      "link": "https://www.vogue.com/slideshow/mackenzie-cantor-and-benjamin-taft-wedding",
+      "summary": "Artist Mackenzie Cantor married entrepreneur Benjamin Taft in a garden wedding at the Carmel Valley Ranch, with the cream and pastel blue hues of the bride’s gown defining the palette of the wedding.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: This Artist Bride’s Hand-Painted Danielle Frankel Dress Shaped the Aesthetic of Her Carmel Valley Wedding — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-09-05T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0952d9e060e4",
+      "title": "Kim Gordon and Suzanne Lindon on Film, Friendship, and Collaborating With Claire Denis for Miu Miu Women’s Tales",
+      "link": "https://www.vogue.com/article/kim-gordon-suzanne-lindon-miu-miu-womens-tales-claire-denis-interview",
+      "summary": "The actor and musician are premiering the latest chapter in Miu Miu’s ongoing short film series at Venice Film Festival—and shared the story behind the film with Vogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Kim Gordon and Suzanne Lindon on Film, Friendship, and Collaborating W...",
       "score": 0,
-      "published": "2026-09-05T08:47:07+00:00",
+      "published": "2026-09-05T12:55:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d8d623e4d1e6",
+      "title": "Jennifer Lawrence Debuts Butterfly Bangs Just in Time for Fall",
+      "link": "https://www.vogue.com/article/jennifer-lawrence-debuts-butterfly-bangs-for-fall",
+      "summary": "Presenting at the LVMH Prize ceremony in Paris yesterday, Jennifer Lawrence proved once again the power of a seasonal hair switch-up.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-09-05T12:52:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8b8e228e1e1e",
+      "title": "From Knee-High Boots to Pencil Skirts—Everything I Want From Miu Miu's Fall/Winter 2026 Collection",
+      "link": "https://www.whowhatwear.com/fashion/luxury/miu-miu-fall-2026",
+      "summary": "The latest from Miuccia Prada.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-09-05T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "92c5efa91591",
+      "title": "Mariacarla Boscono on Wearing Chanel to Venice Film Festival: “I Feel Like Matthieu’s Princess”",
+      "link": "https://www.vogue.com/article/mariacarla-boscono-chanel-venice-film-festival-2026",
+      "summary": "Supermodel Mariacarla Boscono marked her fifth time on the lido wearing the newspaper print gown from the Chanel resort 2027 collection.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-09-05T10:39:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "301d1a373ef0",
+      "title": "On Hulu’s ‘Furious’ and the Potent Fantasy of Revenge",
+      "link": "https://www.vogue.com/article/furious-and-the-potent-fantasy-of-female-revenge",
+      "summary": "“Furious” imagines a world in which the powerful can be made physically afraid of someone they once regarded as disposable. Its popularity may tell us less about women’s appetite for brutality than about our collapsing faith in systems of justice.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On Hulu’s ‘Furious’ and the Potent Fantasy of Revenge...",
+      "score": 0,
+      "published": "2026-09-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a6d0869e603f",
+      "title": "The Best Skinny Jeans to Wear in 2026",
+      "link": "https://www.vogue.com/article/best-skinny-jeans",
+      "summary": "The Y2K-era denim favorite is back in the game, but these aren’t the same skinnies you’ve seen before. Shop the best skinny jeans here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Skinny Jeans to Wear in 2026...",
+      "score": 1,
+      "published": "2026-09-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "574a159f7d9c",
+      "title": "Street Style Rewind: What the Fashion Set Wore to the Shows in 2017",
+      "link": "https://www.vogue.com/article/street-style-rewind-what-the-fashion-set-wore-to-the-shows-in-2017",
+      "summary": "Ahead of the spring 2027 season, we’re throwing it back a decade to see what was all the rage in the streets.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-09-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7139e7fd343b",
+      "title": "I Hate Summer—7 Pieces I Can't Wait to Wear Again This Fall",
+      "link": "https://www.whowhatwear.com/fashion/fall/best-fall-essentials-kristina-ang",
+      "summary": "I'm counting down the days until I can unpack my fall wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Hate Summer—7 Pieces I Can't Wait to Wear Again This Fall...",
+      "score": 1,
+      "published": "2026-09-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "93c219b00e7c",
+      "title": "What to Wear (and Not Wear) to Every Tennis Match This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-to-a-tennis-match",
+      "summary": "Save this guide for forever reference.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear (and Not Wear) to Every Tennis Match This Summer...",
+      "score": 1,
+      "published": "2026-09-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "10977689e8c1",
+      "title": "Power Dressing Gets Dark for A/W 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/power-dressing-gets-dark-w-2026/",
+      "summary": "Tailoring is a fixture of every autumn season, but the mood driving it into A/W 2026 has shifted register. Where last season&#8217;s &#8220;high society&#8221; trend leaned into a softer, ladylike take on suiting skirt suits at Ralph Lauren and Jacquemus, Jonathan Anderson&#8217;s loosened styling of Dior&#8217;s Bar j",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Power Dressing Gets Dark for A/W 2026...",
+      "score": 3,
+      "published": "2026-09-05T09:50:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9fedc66449d3",
+      "title": "‘Heated Rivalry’ Season 2 Is on Its Way. Here’s Everything We Know So Far",
+      "link": "https://www.vogue.com/article/everything-we-know-so-far-heated-rivalry-season-2",
+      "summary": "Here’s everything we know so far about the second outing of everyone’s favorite gay hockey show—including its expected air date.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-05T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -76,20 +244,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-09-05T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b0801faa1cdc",
-      "title": "Court flags misleading label on Old Monk bottles, ban on Maharashtra sale continues",
-      "link": "https://www.indiatoday.in/india/story/old-monk-maharashtra-sales-ban-bombay-high-court-label-flavouring-dispute-2987593-2026-09-05?utm_source=rss",
-      "summary": "Court flags misleading label on Old Monk bottles, ban on Maharashtra sale continues",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Court flags misleading label on Old Monk bottles, ban on Maharashtra s...",
-      "score": 1,
-      "published": "2026-09-05T07:53:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -667,48 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ba872f238a57",
-      "title": "How to Behave Yourself at the US Open",
-      "link": "https://www.vogue.com/article/how-to-behave-at-the-us-open",
-      "summary": "Like it or not, there are a few stringent matters of etiquette unique to the game that, as Naomi Osaka noted this week, need to be respected. So, herewith, our nonnegotiable, no-nonsense rules for behavior at the US Open.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Behave Yourself at the US Open...",
-      "score": 0,
-      "published": "2026-09-04T12:58:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c4b0b6299c32",
-      "title": "Spots! Sparkles! Amal Clooney’s Venice Film Festival Fashion Is Party-Ready",
-      "link": "https://www.vogue.com/article/amal-clooney-venice-film-festival-fashion",
-      "summary": "Joining husband George—who picked up a lifetime achievement award at the festival earlier this week—Amal Clooney is making the most of her late summer wardrobe.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Spots! Sparkles! Amal Clooney’s Venice Film Festival Fashion Is Party-...",
-      "score": 1,
-      "published": "2026-09-04T12:56:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-09-04T12:38:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "88d04d14b6c2",
       "title": "The Emerging Knitwear Designer Quietly Dressing Zara Larsson and Hilary Duff",
       "link": "https://fashionista.com/2026/09/paul-aaron-knitwear-celebrity-designer-interview",
@@ -765,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d997de9ab2e4",
-      "title": "The 8 Best Lunches for a Healthy Gut",
-      "link": "https://www.vogue.com/article/best-lunches-for-gut-health",
-      "summary": "Breakfast provides a strong base for keeping your gut health in check, but lunch is just as important. Here, experts break down the best lunch options for a healthy gut.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 8 Best Lunches for a Healthy Gut...",
-      "score": 0,
-      "published": "2026-09-04T11:58:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f754ed58486e",
       "title": "Elegant, Modern, and Chic Fall Staples—Everything I Love From the Brand Stylish People Wear",
       "link": "https://www.whowhatwear.com/fashion/shopping/rue-sophie-fall-2026",
@@ -790,34 +888,6 @@
       "angle": "Fashion Intelligence: Elegant, Modern, and Chic Fall Staples—Everything I Love From the Bran...",
       "score": 2,
       "published": "2026-09-04T11:57:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3cd9e9082911",
-      "title": "Whatever the Season, Zoë Kravitz Backs These It-Girl Staples",
-      "link": "https://www.vogue.com/article/whatever-the-season-zoe-kravitz-backs-these-it-girl-staples",
-      "summary": "Whether it’s Cou Cou Intimates or Saint Laurent, Zoë Kravitz has her transeasonal outfit formula down.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-04T11:56:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c9d7df206d85",
-      "title": "6 Reasons to Eat Sunflower Seeds Daily",
-      "link": "https://www.vogue.com/article/6-reasons-to-eat-sunflower-seeds-daily",
-      "summary": "Experts explain how the small-but-mighty sunflower seed makes a great addition to your diet by supporting immune health and helping combat oxidative stress.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Reasons to Eat Sunflower Seeds Daily...",
-      "score": 0,
-      "published": "2026-09-04T11:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -835,17 +905,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0d6602474aa9",
-      "title": "“I Don’t Have the Regrets that Are Sometimes Assumed”: An Excerpt from Gloria Steinem’s New Memoir",
-      "link": "https://www.vogue.com/article/gloria-steinems-forthcoming-memoir",
-      "summary": "In this exclusive excerpt from her landmark, forthcoming memoir, Steinem discussed the trajectory of her life and what she hoped to leave behind.",
-      "source": "Vogue US",
+      "id": "a5f9dbb256ed",
+      "title": "15 Best Minimalist Watches For Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-minimalist-watches/",
+      "summary": "The best minimalist watches are a key accessory for any guy who prefers a pared-back existence. Understated, classy, and super easy to wear, they strip back all the unnecessary components and leave you with a fuss-free timepiece that’ll look just as good now as it will in many years to come. In order to find &#8230; Co",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: “I Don’t Have the Regrets that Are Sometimes Assumed”: An Excerpt from...",
-      "score": 0,
-      "published": "2026-09-04T11:00:00+00:00",
+      "angle": "Fashion Intelligence: 15 Best Minimalist Watches For Men in 2026...",
+      "score": 2,
+      "published": "2026-09-04T10:38:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -919,6 +989,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "48dbef95e0d8",
+      "title": "24 Best Men’s Shorts – Top Tier Guide for 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-shorts-guide/",
+      "summary": "When things start to heat up and your afternoon walks result in glistening beads of sweat on your brow, it can only mean one thing—shorts season is around the corner. It&#8217;s easy to remove layers if you&#8217;ve overcommitted; less so to add ones you&#8217;ve not brought. &#8220;Don&#8217;t dive in too early,&#8221",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 24 Best Men’s Shorts – Top Tier Guide for 2026...",
+      "score": 1,
+      "published": "2026-09-04T09:30:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "139e572f83db",
       "title": "I've Cracked the Code: These 7 Pieces Are Key for an Elegant Autumn Workwear Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/office/autumn-work-capsule-wardrobe-2026",
@@ -986,6 +1070,20 @@
       "angle": "Fashion Intelligence: Beach Wear For Men – Ultimate Guide in 2026...",
       "score": 2,
       "published": "2026-09-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be07f5ba80d2",
+      "title": "10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-baggy-jeans/",
+      "summary": "High on the list of garments we must once again reckon with, for better or worse, are baggy jeans. They’re back. They’ve been back. You know this, and you’re likely okay with this considering the fact that you clicked on a link about the 10 best men’s baggy jeans. Sure, we’re going to talk about &#8230; Continue readin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026...",
+      "score": 1,
+      "published": "2026-09-04T06:47:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1070,6 +1168,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-09-04T01:49:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8acb1c84c8c7",
+      "title": "18 Types of Jackets for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/types-of-jackets-for-men/",
+      "summary": "What’s the first piece of clothing you notice on someone? Their shoes? Nah, too far down. Their shirt? Often not visible at first glance. The pants? Likely obscured by a piece of outerwear. No matter which way you spin it, your jacket is getting spotted first. The types of jackets for men span the seasons &#8230; Conti",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 18 Types of Jackets for Men In 2026...",
+      "score": 2,
+      "published": "2026-09-04T01:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1395,20 +1507,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4542eae36dfc",
-      "title": "Goodbye, Sambas—5 Sneaker Trends I'm Buying This Fall and 5 I'm Retiring",
-      "link": "https://www.whowhatwear.com/fashion/shoes/sneaker-trends-fall-2026",
-      "summary": "Cool kicks ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-03T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7759f6c48f99",
       "title": "I'm a Fashion Editor and Just Got Back From Oaxaca—Here's Everything I Packed",
       "link": "https://www.whowhatwear.com/living/travel/what-to-pack-for-oaxaca-mexico",
@@ -1433,6 +1531,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: They're Here: The 7 Designer Bags That Will Define Fall 2026...",
       "score": 3,
+      "published": "2026-09-03T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4542eae36dfc",
+      "title": "Goodbye, Sambas—5 Sneaker Trends I'm Buying This Fall and 5 I'm Retiring",
+      "link": "https://www.whowhatwear.com/fashion/shoes/sneaker-trends-fall-2026",
+      "summary": "Cool kicks ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-09-03T14:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1521,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c846dd51b4f0",
-      "title": "Bold Brights Are The Fall Season’s Loudest Statement",
-      "link": "https://in.apparelresources.com/fashion-news/trends/bold-brights-fall-seasons-loudest-statement/",
-      "summary": "Fall&#8217;s typical playbook of muted neutrals and deep tonal shades has been challenged this season by a wave of saturated, high-impact colour on the runway. Bright red, sapphire blue, deep green and saffron orange have all pushed through as standout hues, arriving primarily on maxi and midi silhouettes designed to w",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-03T12:29:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f38b641ae124",
       "title": "12 Best Tracksuits for Men – Ultimate Style Guide in 2026",
       "link": "https://www.fashionbeans.com/article/best-tracksuits-for-men/",
@@ -1574,20 +1672,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-09-03T11:23:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3e9c4acecf01",
-      "title": "Comet Raises Rs 98.75 Crore in Series B Funding",
-      "link": "https://in.apparelresources.com/business-news/retail/comet-raises-rs-98-75-crore-series-b-funding/",
-      "summary": "Bengaluru-based footwear startup Comet has raised Rs 98.75 crore (around US $10.46 million) in a Series B funding round, with Belgian investment firm Verlinvest investing in the company for the first time. Existing investors Elevation Capital and Nexus Venture Partners also participated in the round, according to repor",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Comet Raises Rs 98.75 Crore in Series B Funding...",
-      "score": 1,
-      "published": "2026-09-03T10:52:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1633,20 +1717,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3d6650842484",
-      "title": "The Most Stylish People Are Wearing These 11 Expert-Approved Nail Colors in September",
-      "link": "https://www.whowhatwear.com/beauty/nails/september-nail-colors-2026",
-      "summary": "A guide to the most relevant shades of the month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-03T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dc7beb8f1e05",
       "title": "Grunge Fashion For Men: Outfits And Style Guide",
       "link": "https://www.fashionbeans.com/article/grunge-fashion-guide/",
@@ -1686,20 +1756,6 @@
       "angle": "Fashion Intelligence: 16 Best Dress Sneakers for Men In 2026...",
       "score": 2,
       "published": "2026-09-03T08:20:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "70af2115ab23",
-      "title": "From Nightgowns to Perfumes—These Are the Random (But Incredible) Items I'm Loving Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/random-favorites-september-2026",
-      "summary": "Celisse, D.S. & Durga, Flamingo Estate, Rue Sophie, Silk Laundry, Vagabond, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Nightgowns to Perfumes—These Are the Random (But Incredible) Item...",
-      "score": 2,
-      "published": "2026-09-03T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2039,20 +2095,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "63424400b886",
-      "title": "10 Best Untucked Shirts For Men – All Styles For 2026",
-      "link": "https://www.fashionbeans.com/article/best-untucked-shirts/",
-      "summary": "Spoiler alert: shirts can be left untucked. Some are designed to hang free, while others just look better that way. Your dad may not have received the memo, but since when did you start listening to anything he said? If you’re the kind of guy that likes a little fabric around his tooshie, then the &#8230; Continue read",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 10 Best Untucked Shirts For Men – All Styles For 2026...",
-      "score": 1,
-      "published": "2026-09-02T12:27:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e9cc7ad1d9a5",
       "title": "Sephora Is Entering the Live-Shopping Game",
       "link": "https://fashionista.com/2026/09/sephora-tiktok-shop-launch",
@@ -2078,48 +2120,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-02T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a476ab23b044",
-      "title": "David Beckham’s Best Hairstyles (And How To Get The Look)",
-      "link": "https://www.fashionbeans.com/article/david-beckham-hair-styles/",
-      "summary": "David Beckham’s dress sense is something that, frankly, we spend too much time analysing, but the man&#8217;s frequently-changing hairstyles are just as worthy of our scrutiny. Yes, there have been some questionable choices along the way (shout out to the Alice bands and toe-curling cornrows) but on balance, Mr Beckham",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: David Beckham’s Best Hairstyles (And How To Get The Look)...",
-      "score": 2,
-      "published": "2026-09-02T11:40:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "16b3ed624ec2",
-      "title": "What to Wear With Jeans – Denim Color Guide",
-      "link": "https://www.fashionbeans.com/article/what-to-wear-with-denim/",
-      "summary": "Denim: so easy to put on, and yet, so easy to get wrong. Unlike corduroy and velvet, which appear difficult (and indeed are), denim seems simple enough on the surface, but can be perilous to a man’s sartorial reputation. Take poor Justin Timberlake, for example, who still hasn’t lived down that double denim disaster so",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear With Jeans – Denim Color Guide...",
-      "score": 1,
-      "published": "2026-09-02T10:12:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "81f21ce16854",
-      "title": "23 Best Affordable Watch Brands: Cheap Budget Options 2026",
-      "link": "https://www.fashionbeans.com/best-cheap-watches-men/",
-      "summary": "Stauer Watch Reviews: Are They Any Good? It used to be a case of “you get what you pay for” when it came to affordable watch brands, both in terms of quality and kudos. Dropping a few thousand not only meant you&#8217;d get decent mechanics but also boardroom brownie points for sporting a reputable name &#8230; Continu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Best Affordable Watch Brands: Cheap Budget Options 2026...",
-      "score": 1,
-      "published": "2026-09-02T09:30:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2881,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "चाँदी",
+      "term": "athletic vs atlético madrid",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chief of defence forces of pakistan",
+      "term": "తాప్సీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "flood situation near ganges",
+      "term": "brentford vs sunderland",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "નેપાળ",
+      "term": "xiaomi poco x8 power",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "libra horoscope today",
+      "term": "ట్రక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आकस्मिक बाढ़",
+      "term": "nottm forest vs spurs",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mikel arteta",
+      "term": "brighton vs leeds",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇరుముడి",
+      "term": "fulham vs palace",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സ്വര്ണം",
+      "term": "investment",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rwa binance",
+      "term": "leverkusen vs union berlin",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
