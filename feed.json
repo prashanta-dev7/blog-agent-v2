@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-09-05T06:38:26.140470+00:00",
+  "generated_at": "2026-09-05T08:50:19.226847+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 181,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
-    {
-      "id": "0d7ab5040a74",
-      "title": "Khoki Tokyo Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/khoki",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Khoki Tokyo Spring 2027...",
-      "score": 0,
-      "published": "2026-09-05T06:34:11+00:00",
-      "discovered_via": "feed"
-    },
     {
       "id": "d6f2496e32d9",
       "title": "Isaac Mizrahi Fall 1994 Ready-to-Wear",
@@ -33,21 +19,119 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Isaac Mizrahi Fall 1994 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-05T06:34:10+00:00",
+      "published": "2026-09-05T08:47:07+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "12f8e0cd5c8d",
-      "title": "Heavy Rains Lash Delhi NCR, IMD Issues Weather Alert as Showers Disrupt Normal Life",
-      "link": "https://www.indiatoday.in/india/video/heavy-rains-lash-delhi-ncr-imd-issues-weather-alert-as-showers-disrupt-normal-life-ytvd-2987562-2026-09-05?utm_source=rss",
-      "summary": "Heavy Rains Lash Delhi NCR, IMD Issues Weather Alert as Showers Disrupt Normal Life",
+      "id": "0d7ab5040a74",
+      "title": "Khoki Tokyo Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/khoki",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Khoki Tokyo Spring 2027...",
+      "score": 0,
+      "published": "2026-09-05T08:47:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a50e2602589",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-september-5",
+      "summary": "From Mary Beth Barone at Venice Film Festival to Doechii at Daisy Chain Fields Festival, these are the best beauty looks of the week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-09-05T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f965f3a404b5",
+      "title": "Cool, Chic and Celebrity-Approved, I’ll Be Wearing This Elegant Skirt Trend All Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/maxi-pencil-skirt-trend-lily-allen-2026",
+      "summary": "The chicest swap.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-09-05T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "60473feec104",
+      "title": "The Secret to a First-Class Airport Outfit Is One of These Chic Autumn Trends",
+      "link": "https://www.whowhatwear.com/fashion/fall/autumn-airport-outfit-trends-2026",
+      "summary": "Travelling in style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-09-05T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b0801faa1cdc",
+      "title": "Court flags misleading label on Old Monk bottles, ban on Maharashtra sale continues",
+      "link": "https://www.indiatoday.in/india/story/old-monk-maharashtra-sales-ban-bombay-high-court-label-flavouring-dispute-2987593-2026-09-05?utm_source=rss",
+      "summary": "Court flags misleading label on Old Monk bottles, ban on Maharashtra sale continues",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Heavy Rains Lash Delhi NCR, IMD Issues Weather Alert as Showers Disrup...",
+      "angle": "Fashion Intelligence: Court flags misleading label on Old Monk bottles, ban on Maharashtra s...",
       "score": 1,
-      "published": "2026-09-05T06:04:22+00:00",
+      "published": "2026-09-05T07:53:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dcf7565febdb",
+      "title": "We Try Before You Buy: The Best Dresses in Réalisation Right Now",
+      "link": "https://www.whowhatwear.com/fashion/realisation-par-dress-review-2026",
+      "summary": "Tried and tested by fashion editors.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: We Try Before You Buy: The Best Dresses in Réalisation Right Now...",
+      "score": 2,
+      "published": "2026-09-05T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "89e19c5f6e20",
+      "title": "Want to Dress Like French Women This Autumn? Your Wardrobe Needs This, This and This",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-autumn-outfits-2026",
+      "summary": "L'automne is here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Want to Dress Like French Women This Autumn? Your Wardrobe Needs This,...",
+      "score": 1,
+      "published": "2026-09-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6afac801c3dd",
+      "title": "The Chicest Women in Paris Always Reach For These Outfit Formulas When Fall Arrives",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/paris-fall-transition-outfit-formulas",
+      "summary": "No wardrobe overhaul required.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Chicest Women in Paris Always Reach For These Outfit Formulas When...",
+      "score": 1,
+      "published": "2026-09-05T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -793,17 +877,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb5c60592980",
-      "title": "Beyoncé’s Greatest Fashion Moments, From Destiny’s Child Boy Scout to ‘Cowboy Carter’ Vuitton",
-      "link": "https://www.vogue.com/slideshow/beyonce-iconic-fashion-moments",
-      "summary": "In honor of Beyoncé's birthday, take a look back at some of our favorite looks from her storied career.",
-      "source": "Vogue US",
+      "id": "4c4791dd95ce",
+      "title": "5 Celebrity Hairstyles That Shouldn’t Have Worked But Did",
+      "link": "https://www.fashionbeans.com/article/celebrity-hairstyles-shouldnt-work-but-did/",
+      "summary": "Full catwalk looks, skipping check-in queues at airports, tax evasion: famous people can get away with a lot that us mere mortals can’t, and edgy haircuts are no exception. Except that you can pull off an unconventional coif with the aid of the right advice and products, and without attracting the opprobrium of the fas",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Beyoncé’s Greatest Fashion Moments, From Destiny’s Child Boy Scout to ...",
-      "score": 1,
-      "published": "2026-09-04T10:00:00+00:00",
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-04T10:01:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -863,6 +947,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8bed7b400b37",
+      "title": "How To Wear Sandals With Everything Already In Your Wardrobe",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-sandals-men/",
+      "summary": "Sandals are enjoying a renaissance of late. Time was when you might only wear them on holiday or at the gym, but these days they are fair game in the city as much as on the sand. Open-toed footwear comes in many forms, so deciding how to wear sandals really depends on your personal style and &#8230; Continue reading Ho",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Sandals With Everything Already In Your Wardrobe...",
+      "score": 2,
+      "published": "2026-09-04T09:02:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "db6c76761e00",
       "title": "Forget the \"French Tuck\"—This is How The Fashion Crowd Are Wearing Shirts This Autumn",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-a-shirt-autumn-2026",
@@ -874,6 +972,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-09-04T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4df7c7b7f730",
+      "title": "Beach Wear For Men – Ultimate Guide in 2026",
+      "link": "https://www.fashionbeans.com/article/complete-guide-to-beachwear/",
+      "summary": "A trip to the beach used to be a simple case of sticking an old, sloppy stained tee on with some loose baggy swim shorts and flip-flopping your way to that stripey deckchair. But beach wear, or resort wear as marketeers like to call it, has seriously upped its game in the past decade. Luxury &#8230; Continue reading Be",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Beach Wear For Men – Ultimate Guide in 2026...",
+      "score": 2,
+      "published": "2026-09-04T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1283,6 +1395,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4542eae36dfc",
+      "title": "Goodbye, Sambas—5 Sneaker Trends I'm Buying This Fall and 5 I'm Retiring",
+      "link": "https://www.whowhatwear.com/fashion/shoes/sneaker-trends-fall-2026",
+      "summary": "Cool kicks ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-03T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7759f6c48f99",
       "title": "I'm a Fashion Editor and Just Got Back From Oaxaca—Here's Everything I Packed",
       "link": "https://www.whowhatwear.com/living/travel/what-to-pack-for-oaxaca-mexico",
@@ -1307,20 +1433,6 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: They're Here: The 7 Designer Bags That Will Define Fall 2026...",
       "score": 3,
-      "published": "2026-09-03T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4542eae36dfc",
-      "title": "Goodbye, Sambas—5 Sneaker Trends I'm Buying This Fall and 5 I'm Retiring",
-      "link": "https://www.whowhatwear.com/fashion/shoes/sneaker-trends-fall-2026",
-      "summary": "Cool kicks ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
       "published": "2026-09-03T14:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1591,20 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c6a8092058bd",
-      "title": "Suddenly, Every Chic Woman Is Wearing This Viral High-Street Jumper—but It Won’t Stay in Stock for Long",
-      "link": "https://www.whowhatwear.com/fashion/shopping/j-crew-tiny-roll-neck",
-      "summary": "Autumn's first cult buy is here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-03T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fd632129432b",
       "title": "The Best Retro Running Shoes To Buy In 2026",
       "link": "https://www.fashionbeans.com/article/best-retro-running-shoes/",
@@ -1633,20 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0307265ee9b",
-      "title": "Fringes! Layers! '90s Updos! 6 Autumn Hair Trends Leading Hairstylists Are Already Prepping For",
-      "link": "https://www.whowhatwear.com/beauty/hair/autumn-hair-trends-2026",
-      "summary": "Chop-chop.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-03T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e5e387e70a72",
       "title": "20 Best Accessories for Men That You Should Own in 2026",
       "link": "https://www.fashionbeans.com/article/best-accessories-for-men/",
@@ -1658,48 +1742,6 @@
       "angle": "Fashion Intelligence: 20 Best Accessories for Men That You Should Own in 2026...",
       "score": 1,
       "published": "2026-09-03T05:56:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a1109271265d",
-      "title": "Every Stylish Person I Know Is Already Carrying This Designer-Passing Autumn It Bag, But It's Selling Fast",
-      "link": "https://www.whowhatwear.com/fashion/handbags/demellier-brooklyn-tote-bag",
-      "summary": "On every editor's wish list.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Every Stylish Person I Know Is Already Carrying This Designer-Passing ...",
-      "score": 1,
-      "published": "2026-09-03T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5e86b7f1ba4f",
-      "title": "No, Not a Trench Coat—The Chicest Dressers Will Rely On These 5 Jacket Trends Instead This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/autumn-jacket-trends-2026",
-      "summary": "From animal print to cinched-in silhouettes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-03T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2bbda9aed5b7",
-      "title": "I Can Tell You're a Fashion Person If You're Wearing One of These Outfits This September",
-      "link": "https://www.whowhatwear.com/fashion/fall/what-to-wear-september-2026",
-      "summary": "So simple, yet so chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-09-03T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1756,20 +1798,6 @@
       "angle": "Fashion Intelligence: The Unstructured Blazer: A Complete Guide 2026...",
       "score": 3,
       "published": "2026-09-03T01:00:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ef37a291bfc",
-      "title": "If Parisians Wore Leggings Like It Girls in L.A. Do, They'd Choose This Expensive-Looking Color Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/burgundy-leggings-trend-jennifer-lopez",
-      "summary": "Just as versatile as black leggings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-02T23:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2095,48 +2123,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "984da283e7d0",
-      "title": "21 Best Chelsea Boots For Men That Go With Everything 2026",
-      "link": "https://www.fashionbeans.com/article/best-chelsea-boots-men/",
-      "summary": "Few things in the male wardrobe are likely to link reigning monarchs and rockstars. Nonetheless, the best Chelsea boots for men have managed to attract wearers as diverse as this, a most notable achievement. Of course, it’s not as simple as just slipping on any old pair. You need to look out for the hallmarks &#8230; C",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 21 Best Chelsea Boots For Men That Go With Everything 2026...",
-      "score": 1,
-      "published": "2026-09-02T09:00:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c9cf9e0da3b",
-      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
-      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
-      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
-      "score": 1,
-      "published": "2026-09-02T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d45c36e2829f",
-      "title": "How To Build The Ultimate Minimalist Wardrobe For Men 2026",
-      "link": "https://www.fashionbeans.com/article/minimalist-wardrobe-men/",
-      "summary": "All the best things come in capsules. Medicine. Space food. Time. And, naturally, clothes. Not in a download-your-outfit-from-the-internet way, the minimalist wardrobe is far simpler than that. It&#8217;s the answer to every instance when you looked at your wardrobe and wondered, “What shall I wear today?” Ostensibly i",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Build The Ultimate Minimalist Wardrobe For Men 2026...",
-      "score": 2,
-      "published": "2026-09-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3c6390ce9e13",
       "title": "Gigi Hadid Owns the Skyline in Stuart Weitzman Fall 2026",
       "link": "https://www.fashiongonerogue.com/story/gigi-hadid-stuart-weitzman-campaign/",
@@ -2162,20 +2148,6 @@
       "angle": "Bridal Edit: How To Choose Maxi Dresses For Bridesmaids & the Bridal Party — A Complete Style Guide",
       "score": 4,
       "published": "2026-09-02T02:54:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "670c5c534b0b",
-      "title": "Why Are Vibram Soles on Every Good Boot?",
-      "link": "https://www.fashionbeans.com/article/why-are-vibram-soles-on-every-good-boot/",
-      "summary": "Riddle me this, why is this little yellow symbol on every single good boot? Because that otwear history. The original version of this design is what conquered K2 for the first time. Jim Whittaker, the first American to summit Mount Everest, wearing this sole. Suddenly, the elite mountain climbers at the time were flyin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why Are Vibram Soles on Every Good Boot?...",
-      "score": 1,
-      "published": "2026-09-01T19:14:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "सिंधु जल समझौता",
+      "term": "चाँदी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "crypto exchange binance",
+      "term": "chief of defence forces of pakistan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சபாநாயகர்",
+      "term": "flood situation near ganges",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वर्षा",
+      "term": "નેપાળ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nepal hydropower climate change risks",
+      "term": "libra horoscope today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "poco x8 power 5g",
+      "term": "आकस्मिक बाढ़",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pension",
+      "term": "mikel arteta",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "goldman sachs gold price forecast",
-      "summary": "",
-      "aza_category": "Trend Alert"
-    },
-    {
-      "term": "delhi police",
+      "term": "ఇరుముడి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ब्लैडर कैंसर",
+      "term": "സ്വര്ണം",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "rwa binance",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
