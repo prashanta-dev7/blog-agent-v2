@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T06:48:31.151030+00:00",
+  "generated_at": "2026-09-06T09:10:21.850721+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 183,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Isaac Mizrahi Fall 1994 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-06T06:46:18+00:00",
+      "published": "2026-09-06T09:05:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "32419d1af4a9",
+      "title": "In ‘Primetime,’ the True-Crime Thriller About ‘To Catch a Predator,’ Robert Pattinson Lets Rip",
+      "link": "https://www.vogue.com/article/primetime-review-venice-film-festival",
+      "summary": "The actor transforms into Chris Hansen, the host of the 2000s TV phenomenon, in Lance Oppenheim’s Venice Film Festival drama.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: In ‘Primetime,’ the True-Crime Thriller About ‘To Catch a Predator,’ R...",
+      "score": 0,
+      "published": "2026-09-06T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f63d4748142",
+      "title": "Amanda Seyfried, Susan Sarandon, Pamela Anderson, and More Joined Miu Miu for Venice Film Festival’s Most Glamorous Dinner",
+      "link": "https://www.vogue.com/slideshow/miu-miu-fondazione-prada-dinner-venice-film-festival-2026",
+      "summary": "There are plenty of glitzy parties at Venice Film Festival, but none with quite the same sparkle as Miu Miu’s annual dinner at Fondazione Prada",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Amanda Seyfried, Susan Sarandon, Pamela Anderson, and More Joined Miu ...",
+      "score": 0,
+      "published": "2026-09-06T07:40:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b8fa95f99e06",
+      "title": "I Can Tell You're a Fashion Person If You're Wearing One of These Shoe Colour Trends This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/shoes/autumn-shoe-colour-trends-2026",
+      "summary": "Best foot forward.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-09-06T07:10:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3089938db7b4",
+      "title": "PM Modi Addresses SRCC Centenary, Targets Opposition as Congress Hits Back Over Student Protests",
+      "link": "https://www.indiatoday.in/india/video/pm-modi-addresses-srcc-centenary-targets-opposition-as-congress-hits-back-over-student-protests-ytvd-2988132-2026-09-06?utm_source=rss",
+      "summary": "PM Modi Addresses SRCC Centenary, Targets Opposition as Congress Hits Back Over Student Protests",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: PM Modi Addresses SRCC Centenary, Targets Opposition as Congress Hits ...",
+      "score": 1,
+      "published": "2026-09-06T07:04:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2e91e66733bd",
+      "title": "I'm Tired of These \"Dated\" Autumn Colours, in 2026 I'm Wearing These 6 Trending Shades Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/dated-autumn-colour-trends-2026",
+      "summary": "Did beige just get boring?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63c086a95f90",
+      "title": "Stylish Women are Switching Black Jumpers for This Expensive-Looking Colour This Season",
+      "link": "https://www.whowhatwear.com/brown-jumper-with-jeans-outfits-2026",
+      "summary": "It always looks so polished.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "604aa05ff54b",
+      "title": "Alexa Just Brought Back the Denim Trend I've Been Waiting to See Return",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-jeans-trend-alexa-chung-2026",
+      "summary": "Suddenly chic!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -48,48 +146,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-06T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "421b4f730795",
-      "title": "Man Beaten to Death with Wooden Logs in East Delhi, Police Launch Probe to Nab Accused",
-      "link": "https://www.indiatoday.in/india/video/man-beaten-to-death-with-wooden-logs-in-east-delhi-police-launch-probe-to-nab-accused-ytvd-2988075-2026-09-06?utm_source=rss",
-      "summary": "Man Beaten to Death with Wooden Logs in East Delhi, Police Launch Probe to Nab Accused",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-06T04:47:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f39cb826809f",
-      "title": "Telangana Political Showdown: Chief Minister Challenges Opposition Ahead Of 2029 Assembly Polls",
-      "link": "https://www.indiatoday.in/india/video/telangana-political-showdown-chief-minister-challenges-opposition-ahead-of-2029-assembly-polls-ytvd-2988058-2026-09-06?utm_source=rss",
-      "summary": "Telangana Political Showdown: Chief Minister Challenges Opposition Ahead Of 2029 Assembly Polls",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Telangana Political Showdown: Chief Minister Challenges Opposition Ahe...",
-      "score": 1,
-      "published": "2026-09-06T03:42:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b9de6bfc59f8",
-      "title": "PM Modi Adopts Gen Z Slang And Instagram Trends To Connect With Youth | Special Report",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-adopts-gen-z-slang-and-instagram-trends-to-connect-with-youth-special-report-ytvd-2988052-2026-09-06?utm_source=rss",
-      "summary": "PM Modi Adopts Gen Z Slang And Instagram Trends To Connect With Youth | Special Report",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-06T03:28:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -471,6 +527,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "76b2b2554bf1",
+      "title": "5 Best Spicebomb Colognes: Explosive Scents to Style in 2026",
+      "link": "https://www.fashionbeans.com/article/best-spicebomb-colognes/",
+      "summary": "Some men wear subtle, light fragrances to smell casual, clean, and fresh—however, it can be hard to grab attention wearing those perfumes. Other men opt for bold, lively scents that turn heads. That’s what Viktor&#38;Rolf’s Spicebomb is all about. It’s a manly cologne that captures the explosion of sensual, fiery spice",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Best Spicebomb Colognes: Explosive Scents to Style in 2026...",
+      "score": 2,
+      "published": "2026-09-05T09:39:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c121a9610f5c",
       "title": "7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026",
       "link": "https://www.fashionbeans.com/article/best-5-pocket-pants/",
@@ -482,6 +552,20 @@
       "angle": "Fashion Intelligence: 7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026...",
       "score": 1,
       "published": "2026-09-05T09:04:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "987969ed2c51",
+      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
+      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
+      "score": 4,
+      "published": "2026-09-05T09:00:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,34 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7613454bce37",
-      "title": "Unzipped: The Oral History",
-      "link": "https://www.vogue.com/article/unzipped-25-year-anniversary-isaac-mizrahi-douglas-keeve-interviews",
-      "summary": "As this beloved documentary heads back to cinemas, Isaac Mizrahi, Douglas Keeve, and Nina Santisi—the film’s star, director, and producer, respectively, tell Vogue how it all came together back in 1995.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Unzipped: The Oral History...",
-      "score": 0,
-      "published": "2026-09-04T14:00:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ceee4eb976a7",
-      "title": "Vogue’s Guide to Palm Beach: Where to Sleep, Eat, and Shop",
-      "link": "https://www.vogue.com/article/vogue-editors-guide-to-palm-beach",
-      "summary": "All about Palm Beach, where glossy green lawns sit adjacent to sandy beaches and no one waits till cocktail hour to get things shaking.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Vogue’s Guide to Palm Beach: Where to Sleep, Eat, and Shop...",
-      "score": 0,
-      "published": "2026-09-04T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ac5735b78545",
       "title": "39 Zara, Shopbop, and J.Crew Items That Will Make Your Outfits 10 Times Chicer This Fall",
       "link": "https://www.whowhatwear.com/fashion/shopping/zara-reformation-jcrew-fall-fashion",
@@ -1171,20 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "279f362c1c39",
-      "title": "I'm Giving the Fashion People What They Want—Stylish Fall Finds From COS, Zara, J.Crew, and Reformation",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-fashion-cos-reformation-zara-j-crew",
-      "summary": "From compliment-worthy sweaters to cool jackets.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm Giving the Fashion People What They Want—Stylish Fall Finds From C...",
-      "score": 1,
-      "published": "2026-09-04T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f57f21c4610e",
       "title": "If You Know, You Know: The One Fashion Category Katie, RHW, and Demi All Swear By",
       "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/katie-holmes-rosie-huntington-whiteley-demi-moore-falconeri-sweaters",
@@ -1195,6 +1237,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Know, You Know: The One Fashion Category Katie, RHW, and Demi A...",
       "score": 2,
+      "published": "2026-09-04T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "279f362c1c39",
+      "title": "I'm Giving the Fashion People What They Want—Stylish Fall Finds From COS, Zara, J.Crew, and Reformation",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-fashion-cos-reformation-zara-j-crew",
+      "summary": "From compliment-worthy sweaters to cool jackets.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Giving the Fashion People What They Want—Stylish Fall Finds From C...",
+      "score": 1,
       "published": "2026-09-04T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1325,34 +1381,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a7a256ecca09",
-      "title": "This '90s Rom-Com Is My Ultimate Autumn Style Inspiration, Here's Why It Should Be Yours, Too",
-      "link": "https://www.whowhatwear.com/youve-got-mail-wardrobe",
-      "summary": "In Nora, we trust.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This '90s Rom-Com Is My Ultimate Autumn Style Inspiration, Here's Why ...",
-      "score": 1,
-      "published": "2026-09-04T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "adedb92f6d03",
-      "title": "I Know You Have Excellent Taste if You Wear One of These Trending Autumn Colour Combinations",
-      "link": "https://www.whowhatwear.com/fashion/fall/autumn-fashion-colour-combinations-2026",
-      "summary": "Trust me.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-04T04:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b6503a156e7c",
       "title": "Jimmy Choo’s Wardrobe Collection Is Made for Repeat Wear",
       "link": "https://www.fashiongonerogue.com/story/jimmy-choo-wardrobe-collection/",
@@ -1392,48 +1420,6 @@
       "angle": "Fashion Intelligence: 18 Types of Jackets for Men In 2026...",
       "score": 2,
       "published": "2026-09-04T01:30:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b0e54900c32b",
-      "title": "Slim Bootcut Jeans Are So Back—This Is the Flat-Shoe Trend They Look Best With",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/slim-bootcut-jeans-ballet-flats-outfit-kate-moss",
-      "summary": "Spotted in London.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-03T22:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "498c8fb1b6de",
-      "title": "No Leggings, No Sneakers: First-Class Flyers Swear By Pamela Anderson's Anti-Trend Airport Outfit",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pamela-anderson-fall-2026-airport-outfit-idea",
-      "summary": "Including these cute shoes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-09-03T21:08:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c408a271a7f",
-      "title": "Elegant It Girls Agree: These Pants With This Flat-Shoe Trend Define Cool in Fall 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/baggy-chinos-with-soft-loafers-trend-elle-fanning",
-      "summary": "Elle Fanning just wordlessly confirmed it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-03T20:31:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1868,20 +1854,6 @@
       "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
       "score": 2,
       "published": "2026-09-03T06:45:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e5e387e70a72",
-      "title": "20 Best Accessories for Men That You Should Own in 2026",
-      "link": "https://www.fashionbeans.com/article/best-accessories-for-men/",
-      "summary": "It’s a well-known and established fact that the best accessories for men elevate any outfit. In fact, the more minimal the outfit, the greater the role accessories play. How much do a cool bracelet, watch, and shades elevate a basic summertime t-shirt and shorts, for example? How much do a cool bucket hat and scarf &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 20 Best Accessories for Men That You Should Own in 2026...",
-      "score": 1,
-      "published": "2026-09-03T05:56:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "மழை",
+      "term": "satya niketan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सोनाली कुलकर्णी",
+      "term": "হুমায়ুন কবীর",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "செய்யூர்",
+      "term": "en-w vs irew",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ராஷ்மிகா மந்தனா",
+      "term": "england vs ireland",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "उच्च न्यायालय",
+      "term": "கே. என். நேரு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఎల్ నినో",
+      "term": "ദുല്ഖര് സല്മാന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "scorpio horoscope today",
+      "term": "শ্রেয়া ঘোষাল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कहानी",
+      "term": "high court judge",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ishan kishan",
+      "term": "ಸಿದ್ದರಾಮಯ್ಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rajat patidar",
+      "term": "उत्तर प्रदेश विधान सभा",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
