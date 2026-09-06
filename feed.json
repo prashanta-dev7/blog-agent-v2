@@ -1,25 +1,123 @@
 {
-  "generated_at": "2026-09-06T09:10:21.850721+00:00",
+  "generated_at": "2026-09-06T13:57:15.287978+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 181,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "d6f2496e32d9",
-      "title": "Isaac Mizrahi Fall 1994 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/fall-1994-ready-to-wear/isaac-mizrahi",
-      "summary": "",
+      "id": "c25f9a04aecd",
+      "title": "17 Unique Wedding Traditions From Around the World",
+      "link": "https://www.vogue.com/article/wedding-traditions-from-around-the-world",
+      "summary": "Whether you decide to jet off for your wedding or spice up your hometown nuptial, say “I do” with the most unique wedding traditions from around the world.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 17 Unique Wedding Traditions From Around the World — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-09-06T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "412576d95abf",
+      "title": "adidas Originals & Simone Rocha Deliver Sporty Romance",
+      "link": "https://www.fashiongonerogue.com/story/adidas-originals-simone-rocha-collaboration/",
+      "summary": "adidas Originals and Simone Rocha are making sportswear feel romantic and very fashionable. Their fall-winter 2026 collection marks the start ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: adidas Originals & Simone Rocha Deliver Sporty Romance...",
+      "score": 3,
+      "published": "2026-09-06T12:09:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c21eb8ab0fec",
+      "title": "Building a Wardrobe That Lasts Without Overspending",
+      "link": "https://www.fashiongonerogue.com/story/building-wardrobe-that-lasts/",
+      "summary": "Dressing well and avoiding expensive clothing can seem like a contradiction. Most garments that cost a few dollars are torn ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Building a Wardrobe That Lasts Without Overspending...",
+      "score": 1,
+      "published": "2026-09-06T12:04:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "34250cd3255b",
+      "title": "From the Archives: The Hope-Affirming Power of Fashion",
+      "link": "https://www.vogue.com/article/from-the-archives-amazing-grace",
+      "summary": "Forgoing the usual pomp and ceremony of runway presentations, American designers showed their stripes for spring with unquestionably strong, straightforwardly beautiful collections. Here, Vogue salutes the hope-affirming power of fashion.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: From the Archives: The Hope-Affirming Power of Fashion...",
+      "score": 5,
+      "published": "2026-09-06T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "826fe5925e1a",
+      "title": "Robert Pattinson and Suki Waterhouse Get Romantic in Contrasting Couple Style at Venice Film Festival",
+      "link": "https://www.vogue.com/article/robert-pattinson-suki-waterhouse-contrasting-couple-style-venice-film-festival",
+      "summary": "Arriving on the Lido for the “Primetime” premiere, a Dior Homme-suited Robert Pattinson was joined by Suki Waterhouse in glittery Saint Laurent.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Isaac Mizrahi Fall 1994 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Robert Pattinson and Suki Waterhouse Get Romantic in Contrasting Coupl...",
       "score": 1,
-      "published": "2026-09-06T09:05:33+00:00",
+      "published": "2026-09-06T11:28:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c831f5b98836",
+      "title": "Natalie Portman Gives Birth to Her Third Child",
+      "link": "https://www.vogue.com/article/natalie-portman-gives-birth-to-her-third-child",
+      "summary": "Congratulations are in order for Natalie Portman, who has welcomed her third child and first baby with partner Tanguy Destable.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Natalie Portman Gives Birth to Her Third Child...",
+      "score": 0,
+      "published": "2026-09-06T10:38:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42adb789e8f3",
+      "title": "The Best Black Flats Outfits Inspired by Celebrities in 2026",
+      "link": "https://www.vogue.com/article/celebrities-black-flats-outfits",
+      "summary": "From the ballerinas loved by Kaia Gerber to the glove flats Kendall Jenner relies on, shop outfit ideas on how to wear black flats.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Black Flats Outfits Inspired by Celebrities in 2026...",
+      "score": 2,
+      "published": "2026-09-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "50ef68863408",
+      "title": "8 Fall Shoe Micro-Trends the Cool Girls Are Already Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shoes/fall-shoe-micro-trends-2026",
+      "summary": "Let's get specific.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-06T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -40,7 +138,7 @@
       "id": "0f63d4748142",
       "title": "Amanda Seyfried, Susan Sarandon, Pamela Anderson, and More Joined Miu Miu for Venice Film Festival’s Most Glamorous Dinner",
       "link": "https://www.vogue.com/slideshow/miu-miu-fondazione-prada-dinner-venice-film-festival-2026",
-      "summary": "There are plenty of glitzy parties at Venice Film Festival, but none with quite the same sparkle as Miu Miu’s annual dinner at Fondazione Prada",
+      "summary": "There are plenty of glitzy parties at Venice Film Festival, but none with quite the same sparkle as Miu Miu’s annual dinner at Ca' Corner della Regina.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
@@ -65,20 +163,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3089938db7b4",
-      "title": "PM Modi Addresses SRCC Centenary, Targets Opposition as Congress Hits Back Over Student Protests",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-addresses-srcc-centenary-targets-opposition-as-congress-hits-back-over-student-protests-ytvd-2988132-2026-09-06?utm_source=rss",
-      "summary": "PM Modi Addresses SRCC Centenary, Targets Opposition as Congress Hits Back Over Student Protests",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: PM Modi Addresses SRCC Centenary, Targets Opposition as Congress Hits ...",
-      "score": 1,
-      "published": "2026-09-06T07:04:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2e91e66733bd",
       "title": "I'm Tired of These \"Dated\" Autumn Colours, in 2026 I'm Wearing These 6 Trending Shades Instead",
       "link": "https://www.whowhatwear.com/fashion/trends/dated-autumn-colour-trends-2026",
@@ -93,10 +177,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "63c086a95f90",
-      "title": "Stylish Women are Switching Black Jumpers for This Expensive-Looking Colour This Season",
-      "link": "https://www.whowhatwear.com/brown-jumper-with-jeans-outfits-2026",
-      "summary": "It always looks so polished.",
+      "id": "604aa05ff54b",
+      "title": "Alexa Just Brought Back the Denim Trend I've Been Waiting to See Return",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-jeans-trend-alexa-chung-2026",
+      "summary": "Suddenly chic!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -107,10 +191,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "604aa05ff54b",
-      "title": "Alexa Just Brought Back the Denim Trend I've Been Waiting to See Return",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-jeans-trend-alexa-chung-2026",
-      "summary": "Suddenly chic!",
+      "id": "63c086a95f90",
+      "title": "Stylish Women are Switching Black Jumpers for This Expensive-Looking Colour This Season",
+      "link": "https://www.whowhatwear.com/brown-jumper-with-jeans-outfits-2026",
+      "summary": "It always looks so polished.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -429,6 +513,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0708affb9255",
+      "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
+      "summary": "It’s not hard to remember a time when wide-leg trousers were considered one of those beyond-the-pale pieces that fashion designers periodically tried to foist on sceptical menfolk, perhaps out of boredom, or “for banter”. Sure, wide-leg trousers made an impact on the runway. Okay, so they created a striking silhouette.",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
+      "score": 4,
+      "published": "2026-09-05T11:03:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "92c5efa91591",
       "title": "Mariacarla Boscono on Wearing Chanel to Venice Film Festival: “I Feel Like Matthieu’s Princess”",
       "link": "https://www.vogue.com/article/mariacarla-boscono-chanel-venice-film-festival-2026",
@@ -597,10 +695,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "60473feec104",
-      "title": "The Secret to a First-Class Airport Outfit Is One of These Chic Autumn Trends",
-      "link": "https://www.whowhatwear.com/fashion/fall/autumn-airport-outfit-trends-2026",
-      "summary": "Travelling in style.",
+      "id": "f965f3a404b5",
+      "title": "Cool, Chic and Celebrity-Approved, I’ll Be Wearing This Elegant Skirt Trend All Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/maxi-pencil-skirt-trend-lily-allen-2026",
+      "summary": "The chicest swap.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -611,10 +709,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f965f3a404b5",
-      "title": "Cool, Chic and Celebrity-Approved, I’ll Be Wearing This Elegant Skirt Trend All Autumn",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/maxi-pencil-skirt-trend-lily-allen-2026",
-      "summary": "The chicest swap.",
+      "id": "60473feec104",
+      "title": "The Secret to a First-Class Airport Outfit Is One of These Chic Autumn Trends",
+      "link": "https://www.whowhatwear.com/fashion/fall/autumn-airport-outfit-trends-2026",
+      "summary": "Travelling in style.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -807,34 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ad99eef83a66",
-      "title": "Inside Finneas and Claudia Sulewski’s Romantic Garden Wedding in Montecito",
-      "link": "https://www.vogue.com/slideshow/finneas-and-claudia-sulewski-wedding",
-      "summary": "The musician married the beauty founder at a star-studded wedding on a California estate—in a ceremony officiated by the groom’s sister, Billie Eilish.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Inside Finneas and Claudia Sulewski’s Romantic Garden Wedding in Montecito — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-09-04T17:34:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c1663be7b07e",
-      "title": "Vittoria Ceretti Has a Bedazzled New Take on Naked Dressing",
-      "link": "https://www.vogue.com/article/vittoria-ceretti-venice-film-festival-armani-dress",
-      "summary": "Stepping out for the “Wild Horse Nine” premiere at the Venice Film Festival, Vittoria Ceretti wore a sheer, delicately embellished Armani gown.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Vittoria Ceretti Has a Bedazzled New Take on Naked Dressing...",
-      "score": 2,
-      "published": "2026-09-04T17:14:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec9f511b1d6a",
       "title": "Nordstrom’s Designer Sale Section Is Almost Too Good To Be True—These 27 Items Are the Best",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-designer-clearance-items-september-2026",
@@ -888,34 +958,6 @@
       "angle": "Fashion Intelligence: 13 Stylish Work Bags to Elevate Your Commute...",
       "score": 0,
       "published": "2026-09-04T16:50:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "79dac797eff9",
-      "title": "Shine Bright: One New York Museum Exhibit Is Exploring Queer Identity Through Blingy, Beautiful Baubles",
-      "link": "https://www.vogue.com/article/museum-of-arts-design-queer-jewelry-exhibit",
-      "summary": "At New York’s Museum of Arts and Design, OUT of the Jewelry Box brings together 78 works spanning seven decades to explore queer identity, desire, loss, and community through the intimate art of adornment.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Shine Bright: One New York Museum Exhibit Is Exploring Queer Identity ...",
-      "score": 0,
-      "published": "2026-09-04T16:04:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2638205cb26a",
-      "title": "‘Sterling Point’ Star Ella Rubin Has Some Family Beauty Secrets—and a Pair of Scissors",
-      "link": "https://www.vogue.com/article/beauty-secrets-ella-rubin",
-      "summary": "From overcoming cystic acne to cutting her own split ends, Ella Rubin shares her everyday beauty routine with Vogue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: ‘Sterling Point’ Star Ella Rubin Has Some Family Beauty Secrets—and a ...",
-      "score": 1,
-      "published": "2026-09-04T16:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1364,20 +1406,6 @@
       "angle": "Fashion Intelligence: 10 Best Plain T-Shirts For Men In 2026...",
       "score": 3,
       "published": "2026-09-04T06:44:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4e5ff12258bf",
-      "title": "It's Here: The Ultimate Summer-to-Autumn Beauty Reset, Straight From the Experts",
-      "link": "https://www.whowhatwear.com/beauty/skin/post-summer-beauty-routine",
-      "summary": "It's finally time.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Here: The Ultimate Summer-to-Autumn Beauty Reset, Straight From t...",
-      "score": 1,
-      "published": "2026-09-04T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1843,20 +1871,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f8a80ed62216",
-      "title": "The Best Sneaker Brands You’ve Never Heard Of",
-      "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
-      "summary": "Wherever you are right now, take a quick look around at people’s footwear. What brands are they wearing? Chances are, the results of your visual sneaker survey will look a little something like this: Adidas, Nike, Converse, New Balance, Nike, maybe a bit of Reebok if you’re lucky, Adidas, Nike, Nike. No matter how clas",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
-      "score": 2,
-      "published": "2026-09-03T06:45:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5da126cd10ce",
       "title": "Tod’s Fall 2026 Campaign Offers Relaxed Luxury",
       "link": "https://www.fashiongonerogue.com/story/tods-fall-2026-campaign/",
@@ -2148,34 +2162,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-02T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c6390ce9e13",
-      "title": "Gigi Hadid Owns the Skyline in Stuart Weitzman Fall 2026",
-      "link": "https://www.fashiongonerogue.com/story/gigi-hadid-stuart-weitzman-campaign/",
-      "summary": "Gigi Hadid returns to Stuart Weitzman for the brand&#8217;s fall 2026 campaign, marking the label&#8217;s 40th anniversary and her first ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Gigi Hadid Owns the Skyline in Stuart Weitzman Fall 2026...",
-      "score": 2,
-      "published": "2026-09-02T02:59:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5a2d8ae5e4d7",
-      "title": "How To Choose Maxi Dresses For Bridesmaids & the Bridal Party",
-      "link": "https://www.fashiongonerogue.com/story/maxi-dresses-bridesmaids-bridal-party/",
-      "summary": "Picking the right maxi dresses for a bridal party means taking a look at style, comfort and wearability all at ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How To Choose Maxi Dresses For Bridesmaids & the Bridal Party — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-09-02T02:54:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,54 +2895,54 @@
   ],
   "trends": [
     {
-      "term": "satya niketan",
+      "term": "upt20",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "হুমায়ুন কবীর",
+      "term": "ഇറാന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "en-w vs irew",
+      "term": "fazilka falcons vs ludhiana lions",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "england vs ireland",
+      "term": "bigg boss kannada",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கே. என். நேரு",
+      "term": "jio tv",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ദുല്ഖര് സല്മാന്",
+      "term": "jio hotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "satwik chirag china masters final",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "শ্রেয়া ঘোষাল",
+      "term": "bigg boss malayalam season 8",
+      "summary": "",
+      "aza_category": "Trend Alert"
+    },
+    {
+      "term": "fancode",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "high court judge",
+      "term": "hotstar",
       "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ಸಿದ್ದರಾಮಯ್ಯ",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "उत्तर प्रदेश विधान सभा",
-      "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Celebrity Style"
     }
   ],
   "tracked_keywords": [
