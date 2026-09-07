@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T06:57:22.435263+00:00",
+  "generated_at": "2026-09-07T09:58:06.341563+00:00",
   "owned_count": 10,
   "competitor_count": 16,
   "industry_count": 181,
@@ -9,17 +9,17 @@
   },
   "articles": [
     {
-      "id": "9fd125b98401",
-      "title": "Assembly Ruckus During CM Address, Speaker Warns MLAs, Forest Dept Schemes Announced",
-      "link": "https://www.indiatoday.in/india/video/assembly-ruckus-during-cm-address-speaker-warns-mlas-forest-dept-schemes-announced-ytvd-2988712-2026-09-07?utm_source=rss",
-      "summary": "Assembly Ruckus During CM Address, Speaker Warns MLAs, Forest Dept Schemes Announced",
-      "source": "India Today Fashion",
+      "id": "f48cffd18626",
+      "title": "Retailers Are No Longer Betting It All on Discounts",
+      "link": "https://in.apparelresources.com/business-news/retail/retailers-no-longer-betting-discounts/",
+      "summary": "With the festive season approaching, discounts are once again set to play a major role in stimulating demand. These markdowns are deeply embedded in Indian consumer expectations, helping brands attract customers and move inventory. However, the role of discounting is changing. Industry leaders say it is no longer the p",
+      "source": "Apparel Resources India",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Assembly Ruckus During CM Address, Speaker Warns MLAs, Forest Dept Sch...",
-      "score": 1,
-      "published": "2026-09-07T06:39:52+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Retailers Are No Longer Betting It All on Discounts...",
+      "score": 3,
+      "published": "2026-09-07T07:19:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -443,6 +443,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f1c4379c72b9",
+      "title": "Best Sweatshirts For Men: A Cozy Deep-Dive Into The Internet’s Favorites",
+      "link": "https://www.fashionbeans.com/article/best-sweatshirts-for-men/",
+      "summary": "Let&#8217;s Compare a $391 Japanese Sweatshirt to a $17 Amazon One! One of the best sweatshirts for men on this list is from a brand I had never heard of before &#8211; it’s a brand called American Giant. When I opened this massive tank of a monster from the box, I just was like, &#8220;Oh!&#8221; &#8230; Continue read",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Best Sweatshirts For Men: A Cozy Deep-Dive Into The Internet’s Favorit...",
+      "score": 1,
+      "published": "2026-09-06T08:40:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0f63d4748142",
       "title": "Amanda Seyfried, Susan Sarandon, Pamela Anderson, and More Joined Miu Miu for Venice Film Festival’s Most Glamorous Dinner",
       "link": "https://www.vogue.com/slideshow/miu-miu-fondazione-prada-dinner-venice-film-festival-2026",
@@ -485,20 +499,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "604aa05ff54b",
-      "title": "Alexa Just Brought Back the Denim Trend I've Been Waiting to See Return",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-jeans-trend-alexa-chung-2026",
-      "summary": "Suddenly chic!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "63c086a95f90",
       "title": "Stylish Women are Switching Black Jumpers for This Expensive-Looking Colour This Season",
       "link": "https://www.whowhatwear.com/brown-jumper-with-jeans-outfits-2026",
@@ -513,17 +513,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "140061b6333d",
-      "title": "If CBK Is All Over Your Autumn Mood Board—This Is the New-Season Jacket Trend I Need You to Know About Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/single-breasted-blazer-trend-jennifer-lawrence-2026",
-      "summary": "A wardrobe-altering buy.",
+      "id": "604aa05ff54b",
+      "title": "Alexa Just Brought Back the Denim Trend I've Been Waiting to See Return",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-jeans-trend-alexa-chung-2026",
+      "summary": "Suddenly chic!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-06T06:00:00+00:00",
+      "score": 1,
+      "published": "2026-09-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -537,6 +537,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
+      "published": "2026-09-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "140061b6333d",
+      "title": "If CBK Is All Over Your Autumn Mood Board—This Is the New-Season Jacket Trend I Need You to Know About Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/single-breasted-blazer-trend-jennifer-lawrence-2026",
+      "summary": "A wardrobe-altering buy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-09-06T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -709,20 +723,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a38866a1f880",
-      "title": "The 6 Biggest Denim Trends of Fall 2026, Period",
-      "link": "https://www.whowhatwear.com/fashion/denim/fall-denim-trends-2026",
-      "summary": "No skinnies in sight.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-05T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5b7c58870419",
       "title": "First Dibs on Fall Dresses—33 Trend-Forward Finds I'm Shopping Before Everyone Else",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-dresses-fall-2026",
@@ -747,6 +747,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-09-05T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a38866a1f880",
+      "title": "The 6 Biggest Denim Trends of Fall 2026, Period",
+      "link": "https://www.whowhatwear.com/fashion/denim/fall-denim-trends-2026",
+      "summary": "No skinnies in sight.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-09-05T14:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -919,20 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "93c219b00e7c",
-      "title": "What to Wear (and Not Wear) to Every Tennis Match This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-to-a-tennis-match",
-      "summary": "Save this guide for forever reference.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear (and Not Wear) to Every Tennis Match This Summer...",
-      "score": 1,
-      "published": "2026-09-05T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7139e7fd343b",
       "title": "I Hate Summer—7 Pieces I Can't Wait to Wear Again This Fall",
       "link": "https://www.whowhatwear.com/fashion/fall/best-fall-essentials-kristina-ang",
@@ -942,6 +942,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Hate Summer—7 Pieces I Can't Wait to Wear Again This Fall...",
+      "score": 1,
+      "published": "2026-09-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "93c219b00e7c",
+      "title": "What to Wear (and Not Wear) to Every Tennis Match This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-to-a-tennis-match",
+      "summary": "Save this guide for forever reference.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear (and Not Wear) to Every Tennis Match This Summer...",
       "score": 1,
       "published": "2026-09-05T10:00:00+00:00",
       "discovered_via": "feed"
@@ -1392,20 +1406,6 @@
       "angle": "Fashion Intelligence: The Elevated Cardigan Signals a Return to Ladylike Dressing...",
       "score": 5,
       "published": "2026-09-04T12:21:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "242a3160ba1e",
-      "title": "The “Granny Blouse” Is Fashion’s Newest Contradiction",
-      "link": "https://in.apparelresources.com/fashion-news/trends/granny-blouse-fashions-newest-contradiction/",
-      "summary": "Dubbed the &#8220;granny blouse,&#8221; the trend spans peasant-style prints, bow-collar tops with voluminous sleeves, and Peter Pan-collared pieces finished with lace trims — all reimagined for a contemporary wardrobe. Actor Dakota Johnson&#8217;s recent styling of the look has accelerated its visibility, signalling a",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The “Granny Blouse” Is Fashion’s Newest Contradiction...",
-      "score": 3,
-      "published": "2026-09-04T12:15:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2767,6 +2767,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5272ee76295e",
+      "title": "Going to Mauritius for Your Honeymoon? Pack These Chic Looks",
+      "link": "https://www.azafashions.com/blog/mauritius-for-honeymoon/?utm_source=rss&utm_medium=rss&utm_campaign=mauritius-for-honeymoon",
+      "summary": "There's a reason Mauritius tops so many honeymoon lists. Think turquoise lagoons, powder-soft white sand, candlelit resort dinners, and sunset cruises that feel like they were made for two. It's&#8230; The post Going to Mauritius for Your Honeymoon? Pack These Chic Looks appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Going to Mauritius for Your Honeymoon? Pack These Chic Looks...",
+      "score": 0,
+      "published": "2026-09-06T08:25:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c2bb9373b90",
+      "title": "The Future of Groomwear: Wedding Trends to Expect in 2027",
+      "link": "https://www.azafashions.com/blog/the-future-of-groomwear-wedding-trends-to-expect-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-groomwear-wedding-trends-to-expect-in-2027",
+      "summary": "For years, the Indian groom followed a familiar script: heavy sherwani, safe cream palette, a photo op, done. That script is being rewritten. Grooms are now treating their wedding wardrobe&#8230; The post The Future of Groomwear: Wedding Trends to Expect in 2027 appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: The Future of Groomwear — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-09-05T07:59:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cdedea9ef535",
       "title": "Statement Brocade Silhouettes Crafted for Opulent Celebrations",
       "link": "https://www.azafashions.com/blog/statement-brocade-silhouettes/?utm_source=rss&utm_medium=rss&utm_campaign=statement-brocade-silhouettes",
@@ -2851,6 +2879,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "04b8fe8d1485",
+      "title": "Celebrating Ganesh Chaturthi in the USA? These 9 Indian Looks Are Perfect",
+      "link": "https://www.azafashions.com/blog/ganesh-chaturthi-in-the-usa/?utm_source=rss&utm_medium=rss&utm_campaign=ganesh-chaturthi-in-the-usa",
+      "summary": "There's something wonderfully grounding about Ganesh Chaturthi, the beat of the dhol, the fragrance of fresh modaks, and the joy of gathering with people who feel like home. For the&#8230; The post Celebrating Ganesh Chaturthi in the USA? These 9 Indian Looks Are Perfect appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Celebrating Ganesh Chaturthi in the USA? These 9 Indian Looks Are Perf...",
+      "score": 0,
+      "published": "2026-09-01T08:59:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e5fd50719557",
       "title": "Peekaboo Bras Are the New Cool-Girl Styling Trick",
       "link": "https://www.azafashions.com/blog/peekaboo-bras/?utm_source=rss&utm_medium=rss&utm_campaign=peekaboo-bras",
@@ -2863,98 +2905,56 @@
       "score": 0,
       "published": "2026-08-31T07:45:21+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "51f67d4625f3",
-      "title": "Jumpsuit vs Dress for Party Wear: Which One Is Better?",
-      "link": "https://www.azafashions.com/blog/jumpsuit-vs-dress-party-wear-which-is-better/?utm_source=rss&utm_medium=rss&utm_campaign=jumpsuit-vs-dress-party-wear-which-is-better",
-      "summary": "Standing in front of an open closet just hours before a big event brings a familiar wave of panic. You want to look stunning, feel comfortable, and turn heads the&#8230; The post Jumpsuit vs Dress for Party Wear: Which One Is Better? appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Jumpsuit vs Dress for Party Wear: Which One Is Better?...",
-      "score": 2,
-      "published": "2026-08-30T06:27:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "69dced4f223d",
-      "title": "Kiara Advani’s 100-Hour Gold Corset Is the New Way to Wear Banarasi",
-      "link": "https://www.azafashions.com/blog/kiara-advani-gold-banarasi-corset-look/?utm_source=rss&utm_medium=rss&utm_campaign=kiara-advani-gold-banarasi-corset-look",
-      "summary": "Kiara Advani's break from the spotlight just ended with two outfit changes, not one. After a gothic moment in a black velvet-and-lace Manish Malhotra saree for her Toxic promotions in&#8230; The post Kiara Advani’s 100-Hour Gold Corset Is the New Way to Wear Banarasi appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Kiara Advani’s 100-Hour Gold Corset Is the New Way to Wear Banarasi...",
-      "score": 4,
-      "published": "2026-08-29T12:39:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "90d06441d326",
-      "title": "Kundan Mehendi Is the New Bridal Trend. Here’s How to Wear It",
-      "link": "https://www.azafashions.com/blog/kundan-mehendi-is-the-new-bridal-trend/?utm_source=rss&utm_medium=rss&utm_campaign=kundan-mehendi-is-the-new-bridal-trend",
-      "summary": "A quiet rebellion is happening at the mehendi table. Brides are looking at hours of dense henna, the smudge risk, the wait for stain to deepen—and asking if there's a&#8230; The post Kundan Mehendi Is the New Bridal Trend. Here&#8217;s How to Wear It appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Kundan Mehendi Is the New Bridal Trend. Here’s How to Wear It — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-08-29T10:04:46+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ರಜೆ",
+      "term": "விலை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रेलवे स्टेशन",
+      "term": "എം.എ. ബേബി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hindi movie hanuman ansh",
+      "term": "రంభ ఊర్వశి మేనక",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "food safety and standards authority of india",
+      "term": "శుభ్మన్ గిల్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സിന്ധു നദി",
+      "term": "तस्करी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cancer horoscope today",
+      "term": "మహిళల ఆసియా కప్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नीता अंबानी",
+      "term": "वित्तीय संकट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बीवाईडी",
+      "term": "hardik pandya",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "শুভেন্দু অধিকারী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "labor day",
+      "term": "bribery",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
