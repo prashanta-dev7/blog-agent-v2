@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-09-08T06:52:30.000822+00:00",
+  "generated_at": "2026-09-08T09:23:23.927559+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 188,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b3ceef7d346c",
+      "title": "Why Elf Beauty Is Building Avatars With AI Platform Alta",
+      "link": "https://www.vogue.com/article/why-elf-beauty-is-building-avatars-with-ai-platform-alta",
+      "summary": "After earlier strides with AR, beauty has been sidelined from the AI try-on conversation. Elf Beauty wants to change that.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Elf Beauty Is Building Avatars With AI Platform Alta...",
+      "score": 1,
+      "published": "2026-09-08T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3bce53ac1f5",
+      "title": "My Friend Asked Me Which Knitwear Trends Will Peak This Autumn—These 6 Will Define the Season",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/autumn-knitwear-trends-2026",
+      "summary": "Finally, it's sweater weather.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-08T08:30:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a7d5f07fed89",
+      "title": "Fashion’s New Instagram Playbook, According to Eva Chen",
+      "link": "https://www.vogue.com/article/fashions-new-instagram-playbook-according-to-eva-chen",
+      "summary": "Instagram’s fashion whisperer shares the new rules of engagement, as shifting consumer expectations reshape how brands must show up both on and offline.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Fashion’s New Instagram Playbook, According to Eva Chen...",
+      "score": 3,
+      "published": "2026-09-08T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8baa9b3357fb",
+      "title": "I Have Expensive Taste on a Zara Budget—9 Rich-Looking Autumn Buys That Could Pass for Designer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-autumn-zara-pieces-2026",
+      "summary": "Expensive-looking buys ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Have Expensive Taste on a Zara Budget—9 Rich-Looking Autumn Buys Tha...",
+      "score": 1,
+      "published": "2026-09-08T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c23e84a460e",
+      "title": "Youth Outreach in Gujarat, Gen Z Engagement and Development Showcase",
+      "link": "https://www.indiatoday.in/india/video/youth-outreach-in-gujarat-gen-z-engagement-and-development-showcase-ytvd-2989658-2026-09-08?utm_source=rss",
+      "summary": "Youth Outreach in Gujarat, Gen Z Engagement and Development Showcase",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Youth Outreach in Gujarat, Gen Z Engagement and Development Showcase...",
+      "score": 1,
+      "published": "2026-09-08T07:57:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3c5f7ecdab0",
+      "title": "I'm a Former Nordstrom Buyer—I Put These 6 Fall Items on Pause, and I'm Wearing These 6 Trends Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-buyer-outdated-fall-trends-2026",
+      "summary": "Sorry, this jacket style needs a break.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-09-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ae2c8592573",
+      "title": "Hold the White Sneakers—These Styles Will Dominate Fall Instead",
+      "link": "https://www.whowhatwear.com/fashion/shoes/fall-sneaker-trends-2026",
+      "summary": "It’s the perfect time of year for a little sneaker update.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hold the White Sneakers—These Styles Will Dominate Fall Instead...",
+      "score": 1,
+      "published": "2026-09-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ccee413cc7c8",
       "title": "I’ve Done The Research— These Are The 6 Biggest Micro Trends of Autumn 2026",
@@ -65,48 +163,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b19f468bcfcf",
-      "title": "Under Her Spell: Maisie Williams Is Fashion's Favourite Witch",
-      "link": "https://www.whowhatwear.com/fashion/cover-features/maisie-williams",
-      "summary": "Our September Issue cover star.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Under Her Spell: Maisie Williams Is Fashion's Favourite Witch...",
-      "score": 1,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a824c5d09efb",
-      "title": "From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your Fashion IQ?",
-      "link": "https://www.whowhatwear.com/fashion/what-is-your-fashion-iq",
-      "summary": "Test your fashion credentials.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your ...",
-      "score": 1,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b12e373000f7",
-      "title": "We're Taking Beauty Back to School—These Are the A+ Trends You'll Want to Try",
-      "link": "https://www.whowhatwear.com/beauty/makeup/back-to-school-beauty-trends-2026",
-      "summary": "Class is in session.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7d0b3fddc5a2",
       "title": "London Calling: The It Girls Defining Style in the City in 2026",
       "link": "https://www.whowhatwear.com/fashion/london-fashion-trends-autumn-winter-2026",
@@ -135,6 +191,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b19f468bcfcf",
+      "title": "Under Her Spell: Maisie Williams Is Fashion's Favourite Witch",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/maisie-williams",
+      "summary": "Our September Issue cover star.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Under Her Spell: Maisie Williams Is Fashion's Favourite Witch...",
+      "score": 1,
+      "published": "2026-09-08T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b12e373000f7",
+      "title": "We're Taking Beauty Back to School—These Are the A+ Trends You'll Want to Try",
+      "link": "https://www.whowhatwear.com/beauty/makeup/back-to-school-beauty-trends-2026",
+      "summary": "Class is in session.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-08T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "18c0e60065cf",
       "title": "The Secret's Out: Fashion Has a Freaky Foot Fetish, and This Autumn, so Will You",
       "link": "https://www.whowhatwear.com/fashion/trends/freaky-footwear-trends-autumn-2026",
@@ -144,6 +228,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Secret's Out: Fashion Has a Freaky Foot Fetish, and This Autumn, s...",
+      "score": 1,
+      "published": "2026-09-08T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a824c5d09efb",
+      "title": "From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your Fashion IQ?",
+      "link": "https://www.whowhatwear.com/fashion/what-is-your-fashion-iq",
+      "summary": "Test your fashion credentials.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your ...",
       "score": 1,
       "published": "2026-09-08T05:05:00+00:00",
       "discovered_via": "feed"
@@ -160,20 +258,6 @@
       "angle": "Fashion Intelligence: The Autumn 2026 Style Syllabus...",
       "score": 1,
       "published": "2026-09-08T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "050ffb895bc0",
-      "title": "Festive Market Outlook, Defence PSU Stocks Buzz, Swiggy Instamart Bengaluru Raids",
-      "link": "https://www.indiatoday.in/india/video/festive-market-outlook-defence-psu-stocks-buzz-swiggy-instamart-bengaluru-raids-ytvd-2989518-2026-09-08?utm_source=rss",
-      "summary": "Festive Market Outlook, Defence PSU Stocks Buzz, Swiggy Instamart Bengaluru Raids",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-09-08T04:54:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -415,6 +499,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "17abf55b698d",
+      "title": "15 Best Men’s T-Shirt Brands For Every Guy in 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-t-shirt-brands/",
+      "summary": "Navy suit and blue jeans aside, the trusty T-shirt is the ultimate wardrobe staple. The foundation of any successful smart-casual outfit, it’s not only comfortable but reliable, versatile, and undeniably stylish. Which is something the best men’s T-shirt brands fully understand. But who are they? I’m glad you asked. I’",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Best Men’s T-Shirt Brands For Every Guy in 2026...",
+      "score": 2,
+      "published": "2026-09-07T11:39:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0548a67862ce",
       "title": "How Brooklyn and Nicola Peltz Beckham Stepped Back Into the Spotlight in Venice",
       "link": "https://www.vogue.com/article/brooklyn-and-nicola-peltz-beckham-venice",
@@ -611,6 +709,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "eb9e153f9cee",
+      "title": "Number 1 Haircut For Men: Versatile Guide for 2026",
+      "link": "https://www.fashionbeans.com/article/number-1-haircut/",
+      "summary": "The number 1 haircut is a fascinating topic in the world of men&#8217;s hairstyles. This stylish and bold cut has garnered immense popularity among those seeking a sleek and edgy look. In this blog post, we&#8217;ll dive deep into all aspects of this haircut, examining its length, how it fits various face shapes, diffe",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Number 1 Haircut For Men: Versatile Guide for 2026...",
+      "score": 1,
+      "published": "2026-09-07T06:37:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "65432532900f",
       "title": "Cardigans Are Chicer This Way: 29 Crew-Neck Styles to Prepare You for Autumn",
       "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/best-crew-neck-cardigans",
@@ -625,16 +737,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0f6038438d6c",
-      "title": "I’ve Done the Research: 7 Skirt Trends People With Taste Will Be Wearing Instead of Jeans This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/autumn-skirt-trends-2026",
-      "summary": "The runways confirmed it.",
+      "id": "f63c5ecdadb0",
+      "title": "Confirmed: This Is the French Fragrance to Wear If You Want to Smell Rich This Autumn",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/guerlain-lhueure-bleue-fragrance-review-uk",
+      "summary": "Airy, elegant and destined for compliments.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Confirmed: This Is the French Fragrance to Wear If You Want to Smell R...",
+      "score": 1,
       "published": "2026-09-07T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -653,16 +765,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f63c5ecdadb0",
-      "title": "Confirmed: This Is the French Fragrance to Wear If You Want to Smell Rich This Autumn",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/guerlain-lhueure-bleue-fragrance-review-uk",
-      "summary": "Airy, elegant and destined for compliments.",
+      "id": "0f6038438d6c",
+      "title": "I’ve Done the Research: 7 Skirt Trends People With Taste Will Be Wearing Instead of Jeans This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-skirt-trends-2026",
+      "summary": "The runways confirmed it.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Confirmed: This Is the French Fragrance to Wear If You Want to Smell R...",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-09-07T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c831f5b98836",
-      "title": "Natalie Portman Gives Birth to Her Third Child",
-      "link": "https://www.vogue.com/article/natalie-portman-gives-birth-to-her-third-child",
-      "summary": "Congratulations are in order for Natalie Portman, who has welcomed her third child and first baby with partner Tanguy Destable.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Natalie Portman Gives Birth to Her Third Child...",
-      "score": 0,
-      "published": "2026-09-06T10:38:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "35b4d9df9a67",
       "title": "What Are Driving Shoes And How To Wear Them in Style",
       "link": "https://www.fashionbeans.com/article/how-to-wear-driving-shoes/",
@@ -944,20 +1042,6 @@
       "angle": "Fashion Intelligence: The Best Baseball Caps You Can Buy In 2026...",
       "score": 1,
       "published": "2026-09-06T10:00:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "42adb789e8f3",
-      "title": "The Best Black Flats Outfits Inspired by Celebrities in 2026",
-      "link": "https://www.vogue.com/article/celebrities-black-flats-outfits",
-      "summary": "From the ballerinas loved by Kaia Gerber to the glove flats Kendall Jenner relies on, shop outfit ideas on how to wear black flats.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Black Flats Outfits Inspired by Celebrities in 2026...",
-      "score": 2,
-      "published": "2026-09-06T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1129,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "140061b6333d",
-      "title": "If CBK Is All Over Your Autumn Mood Board—This Is the New-Season Jacket Trend I Need You to Know About Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/single-breasted-blazer-trend-jennifer-lawrence-2026",
-      "summary": "A wardrobe-altering buy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-06T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2f182ffdb0ae",
       "title": "Not to Be Dramatic, But This Is the Most Impressive Concealer Launch of the Year",
       "link": "https://www.whowhatwear.com/beauty/makeup/vieve-skin-nova-concealer-review",
@@ -1153,6 +1223,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
+      "published": "2026-09-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "140061b6333d",
+      "title": "If CBK Is All Over Your Autumn Mood Board—This Is the New-Season Jacket Trend I Need You to Know About Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/single-breasted-blazer-trend-jennifer-lawrence-2026",
+      "summary": "A wardrobe-altering buy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-09-06T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1325,20 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8b8e228e1e1e",
-      "title": "From Knee-High Boots to Pencil Skirts—Everything I Want From Miu Miu's Fall/Winter 2026 Collection",
-      "link": "https://www.whowhatwear.com/fashion/luxury/miu-miu-fall-2026",
-      "summary": "The latest from Miuccia Prada.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-05T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0708affb9255",
       "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
       "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
@@ -1350,34 +1420,6 @@
       "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
       "score": 4,
       "published": "2026-09-05T11:03:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7139e7fd343b",
-      "title": "I Hate Summer—7 Pieces I Can't Wait to Wear Again This Fall",
-      "link": "https://www.whowhatwear.com/fashion/fall/best-fall-essentials-kristina-ang",
-      "summary": "I'm counting down the days until I can unpack my fall wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Hate Summer—7 Pieces I Can't Wait to Wear Again This Fall...",
-      "score": 1,
-      "published": "2026-09-05T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "93c219b00e7c",
-      "title": "What to Wear (and Not Wear) to Every Tennis Match This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-to-a-tennis-match",
-      "summary": "Save this guide for forever reference.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear (and Not Wear) to Every Tennis Match This Summer...",
-      "score": 1,
-      "published": "2026-09-05T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1406,62 +1448,6 @@
       "angle": "Fashion Intelligence: 5 Best Spicebomb Colognes: Explosive Scents to Style in 2026...",
       "score": 2,
       "published": "2026-09-05T09:39:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c121a9610f5c",
-      "title": "7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026",
-      "link": "https://www.fashionbeans.com/article/best-5-pocket-pants/",
-      "summary": "There are some items that should be present in every guy’s wardrobe—whether you’re a country bumpkin or a suit-obsessed city dweller. And when it comes to pants, the five-pocket style is one of the most versatile lower-half options you can own. A reliable yet seriously stylish staple, the best 5 pocket pants will be yo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026...",
-      "score": 1,
-      "published": "2026-09-05T09:04:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "987969ed2c51",
-      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
-      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
-      "score": 4,
-      "published": "2026-09-05T09:00:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f965f3a404b5",
-      "title": "Cool, Chic and Celebrity-Approved, I’ll Be Wearing This Elegant Skirt Trend All Autumn",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/maxi-pencil-skirt-trend-lily-allen-2026",
-      "summary": "The chicest swap.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-09-05T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d636ecc3eba7",
-      "title": "The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week",
-      "link": "https://www.fashionbeans.com/article/salomon-sneakers-fashion-week-2026/",
-      "summary": "Salomon Stopped Trying To Be Fashion And that’s exactly why fashion won’t stop wearing it. During Paris Men’s Fashion Week, new creative director Heikki Salonen said something disarmingly simple about Salomon: “Salomon is not a fashion house.” So the brand is doubling down on what it does best. Serious mountain footwea",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Salomon Sneakers Taking Over Streets, Cafés and Fashion Week...",
-      "score": 3,
-      "published": "2026-09-04T21:46:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1672,20 +1658,6 @@
       "angle": "Fashion Intelligence: Irina Shayk Smolders for Agent Provocateur Fall 2026...",
       "score": 1,
       "published": "2026-09-04T12:12:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5f9dbb256ed",
-      "title": "15 Best Minimalist Watches For Men in 2026",
-      "link": "https://www.fashionbeans.com/article/best-minimalist-watches/",
-      "summary": "The best minimalist watches are a key accessory for any guy who prefers a pared-back existence. Understated, classy, and super easy to wear, they strip back all the unnecessary components and leave you with a fuss-free timepiece that’ll look just as good now as it will in many years to come. In order to find &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 15 Best Minimalist Watches For Men in 2026...",
-      "score": 2,
-      "published": "2026-09-04T10:38:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3035,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "വാഹനം",
+      "term": "பாரதிராஜா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "எஸ். ஏ. சந்திரசேகரன்",
+      "term": "పొదరిల్లు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "is telegram down",
+      "term": "ಸಕ್ಕರೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iphone 18 launch date in india",
-      "summary": "",
-      "aza_category": "Designer Spotlight"
-    },
-    {
-      "term": "krishnavataram",
+      "term": "जंतर मंतर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "toyota fortuner",
+      "term": "രാഹുല് ഗാന്ധി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മോഹന്ലാല്",
+      "term": "नरेन्द्र मोदी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రాగి",
+      "term": "ચીન",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വി.ഡി. സതീശന്",
+      "term": "भारतीय थलसेना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सत्या निकेतन",
+      "term": "నష్రా సంధు",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "मतदाता",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
