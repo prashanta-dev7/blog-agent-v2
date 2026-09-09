@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T07:01:25.317995+00:00",
+  "generated_at": "2026-09-09T09:25:05.835530+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 187,
+  "industry_count": 186,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rag & Bone Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-09T07:01:11+00:00",
+      "published": "2026-09-09T09:24:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Donna Karan Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-09T07:01:11+00:00",
+      "published": "2026-09-09T09:24:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dbb5b87019d9",
+      "title": "Florence Pugh Makes a Convincing Case for Not Cutting a Bob This Fall",
+      "link": "https://www.vogue.com/article/florence-pugh-hair-venice-film-festival",
+      "summary": "With her ponytail whipping in the Venice breeze, a quiff to high heaven, and mermaid-like lengths, Florence Pugh shows us why she’ll always be a beauty rebel.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Florence Pugh Makes a Convincing Case for Not Cutting a Bob This Fall...",
+      "score": 2,
+      "published": "2026-09-09T09:15:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5e52bc13126b",
+      "title": "This Trend-Proof Fall Skirt Hasn't Gone Out of Style Since Princess Diana Wore It in 1995",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/michelle-monaghan-ann-taylor-red-skirt",
+      "summary": "Classic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-09T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fe712c3d0b05",
+      "title": "Nicole Kidman Just Flew 18 Hours in the Jeans and Ballet Flat Trend French Girls Always Rely On",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flared-jeans-beige-ballet-flats-airport-outfit-nicole-kidman-2026",
+      "summary": "And her go-to Chanel.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-09T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,17 +93,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d5c068654fb0",
-      "title": "TVK Postpones Gold Ring Scheme Launch; Crucial Alliance Meet Ahead Of CM Vijay's UK Tour",
-      "link": "https://www.indiatoday.in/india/video/tvk-postpones-gold-ring-scheme-launch-crucial-alliance-meet-ahead-of-cm-vijays-uk-tour-ytvd-2990519-2026-09-09?utm_source=rss",
-      "summary": "TVK Postpones Gold Ring Scheme Launch; Crucial Alliance Meet Ahead Of CM Vijay's UK Tour",
-      "source": "India Today Fashion",
+      "id": "2041847d923d",
+      "title": "The Best-Smelling People Are Wearing One of These 5 Perfumes for Autumn",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/autumn-perfume-trends-2026",
+      "summary": "Compliments await.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-09-09T06:19:29+00:00",
+      "published": "2026-09-09T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,20 +117,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: I Swear By Autumn Pedicures—These Are the 6 Stylish Shades Everyone Sh...",
       "score": 2,
-      "published": "2026-09-09T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2041847d923d",
-      "title": "The Best-Smelling People I Know Are Wearing One of These 5 Perfumes for Autumn",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/autumn-perfume-trends-2026",
-      "summary": "Compliments await.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
       "published": "2026-09-09T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,20 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8d9493130c60",
-      "title": "Bravo! The Free-Spirited, Freewheeling Gustavo Dudamel Arrives at the New York Philharmonic",
-      "link": "https://www.vogue.com/article/gustavo-dudamel-arrives-at-the-ny-phil",
-      "summary": "The onetime wunderkind conductor—​now a respectable 45—​has been making an ecstatic first impression on his new metropolis.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bravo! The Free-Spirited, Freewheeling Gustavo Dudamel Arrives at the ...",
-      "score": 0,
-      "published": "2026-09-08T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f6fd78f7f7f3",
       "title": "How Kahlana Barfield Brown Is Creating Trend-Forward Clothes That Are Affordable and Size Inclusive",
       "link": "https://fashionista.com/2026/09/kahlana-barfield-brown-designer-interview",
@@ -1101,6 +1115,62 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a824c5d09efb",
+      "title": "From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your Fashion IQ?",
+      "link": "https://www.whowhatwear.com/fashion/what-is-your-fashion-iq",
+      "summary": "Test your fashion credentials.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your ...",
+      "score": 1,
+      "published": "2026-09-08T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "18c0e60065cf",
+      "title": "The Secret's Out: Fashion Has a Freaky Foot Fetish, and This Autumn, so Will You",
+      "link": "https://www.whowhatwear.com/fashion/trends/freaky-footwear-trends-autumn-2026",
+      "summary": "Move over, Tabis—there are freakier shoes in town.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Secret's Out: Fashion Has a Freaky Foot Fetish, and This Autumn, s...",
+      "score": 1,
+      "published": "2026-09-08T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b19f468bcfcf",
+      "title": "Under Her Spell: Maisie Williams Is Fashion's Favourite Witch",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/maisie-williams",
+      "summary": "Our September Issue cover star.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Under Her Spell: Maisie Williams Is Fashion's Favourite Witch...",
+      "score": 1,
+      "published": "2026-09-08T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b4f173c23f96",
+      "title": "Well-Suited: The New Season Collections That Meet the Smartest Dress Code",
+      "link": "https://www.whowhatwear.com/fashion/autumn-winter-fashion-2026",
+      "summary": "New season, smarter style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 4,
+      "published": "2026-09-08T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7d0b3fddc5a2",
       "title": "London Calling: The It Girls Defining Style in the City in 2026",
       "link": "https://www.whowhatwear.com/fashion/london-fashion-trends-autumn-winter-2026",
@@ -1125,62 +1195,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "18c0e60065cf",
-      "title": "The Secret's Out: Fashion Has a Freaky Foot Fetish, and This Autumn, so Will You",
-      "link": "https://www.whowhatwear.com/fashion/trends/freaky-footwear-trends-autumn-2026",
-      "summary": "Move over, Tabis—there are freakier shoes in town.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Secret's Out: Fashion Has a Freaky Foot Fetish, and This Autumn, s...",
-      "score": 1,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b4f173c23f96",
-      "title": "Well-Suited: The New Season Collections That Meet the Smartest Dress Code",
-      "link": "https://www.whowhatwear.com/fashion/autumn-winter-fashion-2026",
-      "summary": "New season, smarter style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 4,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b19f468bcfcf",
-      "title": "Under Her Spell: Maisie Williams Is Fashion's Favourite Witch",
-      "link": "https://www.whowhatwear.com/fashion/cover-features/maisie-williams",
-      "summary": "Our September Issue cover star.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Under Her Spell: Maisie Williams Is Fashion's Favourite Witch...",
-      "score": 1,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a824c5d09efb",
-      "title": "From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your Fashion IQ?",
-      "link": "https://www.whowhatwear.com/fashion/what-is-your-fashion-iq",
-      "summary": "Test your fashion credentials.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your ...",
-      "score": 1,
       "published": "2026-09-08T05:05:00+00:00",
       "discovered_via": "feed"
     },
@@ -1479,20 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3bf869118a7d",
-      "title": "The Anti-Trend Jewelry Item That's Quietly Taking Over 2026",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/diamond-drop-earrings-trend",
-      "summary": "Kendall! Hailey! Vittoria!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-07T00:48:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "933a66eec122",
       "title": "6 Best Hollister Colognes To Put Zest in Your Scent in 2026",
       "link": "https://www.fashionbeans.com/article/best-hollister-colognes/",
@@ -1602,20 +1602,6 @@
       "angle": "Fashion Intelligence: The Best Baseball Caps You Can Buy In 2026...",
       "score": 1,
       "published": "2026-09-06T10:00:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "50ef68863408",
-      "title": "8 Fall Shoe Micro-Trends the Cool Girls Are Already Wearing",
-      "link": "https://www.whowhatwear.com/fashion/shoes/fall-shoe-micro-trends-2026",
-      "summary": "Let's get specific.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-09-06T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2950,14 +2936,14 @@
     },
     {
       "id": "ac3fae934249",
-      "title": "World Wildlife Day 2026: 8 Animal-Inspired Jewellery Pieces That Bring the Wild to Your Wardrobe",
+      "title": "National Wildlife Day 2026: 8 Animal-Inspired Jewellery Pieces That Bring the Wild to Your Wardrobe",
       "link": "https://www.azafashions.com/blog/world-wildlife-day-animal-inspired-jewellery/?utm_source=rss&utm_medium=rss&utm_campaign=world-wildlife-day-animal-inspired-jewellery",
-      "summary": "There’s something wonderfully untamed about the animal kingdom, the way a leopard commands attention, a butterfly catches the light, or an elephant carries an air of quiet grandeur. World Wildlife&#8230; The post World Wildlife Day 2026: 8 Animal-Inspired Jewellery Pieces That Bring the Wild to Your Wardrobe appeared f",
+      "summary": "There’s something wonderfully untamed about the animal kingdom, the way a leopard commands attention, a butterfly catches the light, or an elephant carries an air of quiet grandeur. National Wildlife&#8230; The post National Wildlife Day 2026: 8 Animal-Inspired Jewellery Pieces That Bring the Wild to Your Wardrobe appe",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: World Wildlife Day 2026: 8 Animal-Inspired Jewellery Pieces That Bring...",
+      "angle": "Fashion Intelligence: National Wildlife Day 2026: 8 Animal-Inspired Jewellery Pieces That Br...",
       "score": 1,
       "published": "2026-09-04T00:30:00+00:00",
       "discovered_via": "feed"
@@ -3021,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "nam vs sa",
+      "term": "eng vs pak",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फ़िलिपींस",
+      "term": "राशियाँ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "earthquake guwahati",
+      "term": "कर्मचारी भविष्य निधि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "നിയമോപദേശം",
+      "term": "విగ్రహం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अमृता फडणवीस",
+      "term": "श्रीनगर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಪಡಿತರ",
+      "term": "आईफोन 18",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कॉकरोच जनता पार्टी",
+      "term": "পেনশন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "బంగాళాఖాతము",
+      "term": "jason gillespie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रधानमंत्री आवास योजना",
+      "term": "കുവൈറ്റ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "मनोज जरांगे पाटील",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
