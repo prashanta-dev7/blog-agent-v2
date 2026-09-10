@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T06:57:56.109274+00:00",
+  "generated_at": "2026-09-10T09:24:35.598458+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 186,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Monique Lhuillier Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 3.1 Phillip Lim Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ralph Lauren Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: LaPointe Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Coach Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hyke Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Viviano Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Veronica Beard Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Libertine Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sea Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,7 +159,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bevza Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -173,35 +173,161 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Adam Lippes Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T09:22:07+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "2f76edcbd04f",
-      "title": "Rachel Comey Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rachel-comey",
-      "summary": "",
+      "id": "a75207309fbb",
+      "title": "Princess Diana’s Iconic “Revenge Dress” Is Going Up for Auction",
+      "link": "https://www.vogue.com/article/princess-diana-revenge-dress-auction",
+      "summary": "The Christina Stambolian dress behind one of the most enduring fashion images of the 20th century will go under the hammer at Sotheby’s this December.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rachel Comey Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "angle": "Fashion Intelligence: Princess Diana’s Iconic “Revenge Dress” Is Going Up for Auction...",
+      "score": 2,
+      "published": "2026-09-10T09:15:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "95b81d98337a",
-      "title": "Cult Gaia Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cult-gaia",
-      "summary": "",
+      "id": "99fc59d5eba1",
+      "title": "Not Simple, Not Minimalist—In Fall 2026, It's About This Lavish-Looking Fashion Trend",
+      "link": "https://www.whowhatwear.com/fashion/shopping/opulent-eveningwear-trend-fall-2026",
+      "summary": "Brocade, embroidery, rich color, tapestry, fringe, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-10T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3422f9830526",
+      "title": "Dua Lipa and Callum Turner Bring Their Newlywed Energy to New York Fashion Week",
+      "link": "https://www.vogue.com/article/dua-lipa-and-callum-turner-bring-their-newlywed-energy-to-new-york-fashion-week",
+      "summary": "After a summer spent honeymooning around Europe, Dua Lipa and Callum Turner are back on the fashion circuit—and bringing the vacation glow with them.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Cult Gaia Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Dua Lipa and Callum Turner Bring Their Newlywed Energy to New York Fas...",
       "score": 1,
-      "published": "2026-09-10T06:57:16+00:00",
+      "published": "2026-09-10T08:30:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3ece6fb70a4",
+      "title": "For Brooklyn and Nicola Peltz Beckham, Every Red Carpet Is a Wedding Aisle",
+      "link": "https://www.vogue.com/article/brooklyn-and-nicola-peltz-beckham-deauville-american-film-festival",
+      "summary": "With “Prima” on the horizon, Nicola Peltz Beckham is stepping back into the spotlight—with Brooklyn by her side and a distinctly bridal dress code in tow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: For Brooklyn and Nicola Peltz Beckham, Every Red Carpet Is a Wedding Aisle — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-09-10T08:14:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b21987342c00",
+      "title": "Kylie Jenner's Cover Shoot Will Live Rent-Free in My Head Forever—Here Are the BTS Beauty Secrets",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/kylie-jenner-beauty-cover",
+      "summary": "Straight from her makeup artist and hairstylist.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kylie Jenner's Cover Shoot Will Live Rent-Free in My Head Forever—Here...",
+      "score": 1,
+      "published": "2026-09-10T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eece5b5612f9",
+      "title": "It's Officially Jacket Season—15 Zara, H&M and COS Jackets I Predict Will Sell Out Before October",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-hm-zara-cos-autumn-jackets-2026",
+      "summary": "Hello, autumn.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-10T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a1ab7369648",
+      "title": "Harry and Jacob Can’t Stop Wearing The Same Viral Trainers—They’ll Be Everywhere This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/harry-styles-jacob-elordi-celine-flat-sneaker",
+      "summary": "Celine strikes again.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-10T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eff8b957651e",
+      "title": "Hold the Jeans—Fashion’s Coolest Dressers Are Opting for These Playful Skirt Trends",
+      "link": "https://www.whowhatwear.com/fashion/skirts/printed-skirt-trends-autumn-2026",
+      "summary": "Denim can only dream.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-10T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "38977068f0da",
+      "title": "Every Spellbinding Beauty Detail in Practical Magic 2, Straight From the Hair and Makeup Trailer",
+      "link": "https://www.whowhatwear.com/beauty/practical-magic-2-beauty-interview",
+      "summary": "Midnight margaritas included.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Every Spellbinding Beauty Detail in Practical Magic 2, Straight From t...",
+      "score": 1,
+      "published": "2026-09-10T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e7e1e330f6f",
+      "title": "I Thought I'd Seen All of the Y2K Trends, Then This “Dated” Jeans Trend Started Appearing Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/trends/lace-up-jeans-trend-2026",
+      "summary": "Apparently, 2001 is back.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-10T07:40:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9704d8009d73",
+      "title": "Nobody Knows It Yet, But These 6 Dress Trends are About to Change Your Entire Wardrobe This Autumn",
+      "link": "https://www.whowhatwear.com/fashion/trends/autumn-dress-trends-2026",
+      "summary": "Dresses to impress.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-10T07:05:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -303,20 +429,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9f66768666aa",
-      "title": "How Rage Bait Became All the Rage",
-      "link": "https://www.vogue.com/article/how-rage-bait-became-all-the-rage",
-      "summary": "From divisive shoes to provocative casting, fashion is pushing boundaries to get a response out of mass audiences.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Rage Bait Became All the Rage...",
-      "score": 1,
-      "published": "2026-09-10T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c48b1e2bdffb",
       "title": "Arab Fashion Council’s Amina Taher on Where Dubai Fashion Week Stands Today",
       "link": "https://www.vogue.com/article/arab-fashion-councils-amina-taher-on-where-dubai-fashion-week-stands-today",
@@ -341,6 +453,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: CEO Graziano de Boni on Building DVF for the Next Generation...",
       "score": 2,
+      "published": "2026-09-10T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9f66768666aa",
+      "title": "How Rage Bait Became All the Rage",
+      "link": "https://www.vogue.com/article/how-rage-bait-became-all-the-rage",
+      "summary": "From divisive shoes to provocative casting, fashion is pushing boundaries to get a response out of mass audiences.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Rage Bait Became All the Rage...",
+      "score": 1,
       "published": "2026-09-10T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -566,20 +692,6 @@
       "angle": "Fashion Intelligence: At Reracked Vintage, Roberto Cavalli Like You’ve Never Seen Him Before...",
       "score": 2,
       "published": "2026-09-09T18:53:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aa75e0eb156a",
-      "title": "Ashley and Mary-Kate Olsen Have Different Takes on Transeasonal Style",
-      "link": "https://www.vogue.com/article/ashley-mary-kate-olsen-transeasonal-style-new-york",
-      "summary": "The Olsen sisters and designers made a rare appearance on the streets of New York, wearing—and carrying—multiple options for the uncertain September climate.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-09-09T18:33:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1003,20 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c217fef441f1",
-      "title": "I Swear By Autumn Pedicures—These Are the 6 Stylish Shades Everyone Should Consider",
-      "link": "https://www.whowhatwear.com/beauty/nails/autumn-pedicure-trends-2026",
-      "summary": "As spotted on fashion insiders.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: I Swear By Autumn Pedicures—These Are the 6 Stylish Shades Everyone Sh...",
-      "score": 2,
-      "published": "2026-09-09T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2041847d923d",
       "title": "The Best-Smelling People Are Wearing One of These 5 Perfumes for Autumn",
       "link": "https://www.whowhatwear.com/beauty/fragrance/autumn-perfume-trends-2026",
@@ -1027,6 +1125,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-09-09T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c217fef441f1",
+      "title": "I Swear By Autumn Pedicures—These Are the 6 Stylish Shades Everyone Should Consider",
+      "link": "https://www.whowhatwear.com/beauty/nails/autumn-pedicure-trends-2026",
+      "summary": "As spotted on fashion insiders.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: I Swear By Autumn Pedicures—These Are the 6 Stylish Shades Everyone Sh...",
+      "score": 2,
       "published": "2026-09-09T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1630,118 +1742,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-08T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c5fe35022fae",
-      "title": "An Expert Has Spoken: These 5 Makeup Trends Will Dominate Autumn 2026",
-      "link": "https://www.whowhatwear.com/beauty/makeup/autumn-makeup-trends-2026",
-      "summary": "From cool-toned lips to bold lashes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-08T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a824c5d09efb",
-      "title": "From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your Fashion IQ?",
-      "link": "https://www.whowhatwear.com/fashion/what-is-your-fashion-iq",
-      "summary": "Test your fashion credentials.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From IYKYK Substacks to Elite Fashion Subscriptions, How High Is Your ...",
-      "score": 1,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b19f468bcfcf",
-      "title": "Under Her Spell: Maisie Williams Is Fashion's Favourite Witch",
-      "link": "https://www.whowhatwear.com/fashion/cover-features/maisie-williams",
-      "summary": "Our September Issue cover star.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Under Her Spell: Maisie Williams Is Fashion's Favourite Witch...",
-      "score": 1,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b4f173c23f96",
-      "title": "Well-Suited: The New Season Collections That Meet the Smartest Dress Code",
-      "link": "https://www.whowhatwear.com/fashion/autumn-winter-fashion-2026",
-      "summary": "New season, smarter style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 4,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7d0b3fddc5a2",
-      "title": "London Calling: The It Girls Defining Style in the City in 2026",
-      "link": "https://www.whowhatwear.com/fashion/london-fashion-trends-autumn-winter-2026",
-      "summary": "Cool Britannia.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: London Calling: The It Girls Defining Style in the City in 2026...",
-      "score": 1,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b12e373000f7",
-      "title": "We're Taking Beauty Back to School—These Are the A+ Trends You'll Want to Try",
-      "link": "https://www.whowhatwear.com/beauty/makeup/back-to-school-beauty-trends-2026",
-      "summary": "Class is in session.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "18c0e60065cf",
-      "title": "The Secret's Out: Fashion Has a Freaky Foot Fetish, and This Autumn, so Will You",
-      "link": "https://www.whowhatwear.com/fashion/trends/freaky-footwear-trends-autumn-2026",
-      "summary": "Move over, Tabis—there are freakier shoes in town.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Secret's Out: Fashion Has a Freaky Foot Fetish, and This Autumn, s...",
-      "score": 1,
-      "published": "2026-09-08T05:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "098bf7399636",
-      "title": "The Autumn 2026 Style Syllabus",
-      "link": "https://www.whowhatwear.com/fashion/style-syllabus-autumn-2026",
-      "summary": "In the know.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Autumn 2026 Style Syllabus...",
-      "score": 1,
-      "published": "2026-09-08T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2879,6 +2879,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "77011e63fdbb",
+      "title": "The Corset Dress Just Became the Ultimate Going-Out Look",
+      "link": "https://www.azafashions.com/blog/corset-dress-going-out-look/?utm_source=rss&utm_medium=rss&utm_campaign=corset-dress-going-out-look",
+      "summary": "Ask any stylist what is dominating the front row to the after party right now and you will hear one word on repeat. Corsetry. Not the whalebone, cannot breathe kind&#8230; The post The Corset Dress Just Became the Ultimate Going-Out Look appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Corset Dress Just Became the Ultimate Going-Out Look...",
+      "score": 1,
+      "published": "2026-09-08T07:59:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f40996b488d5",
       "title": "40 Years of Abu Jani Sandeep Khosla, One Epic Night & All the Celebrity Looks You Need to See",
       "link": "https://www.azafashions.com/blog/abu-jani-sandeep-khosla-40th-anniversary-celebrity-looks/?utm_source=rss&utm_medium=rss&utm_campaign=abu-jani-sandeep-khosla-40th-anniversary-celebrity-looks",
@@ -2989,70 +3003,56 @@
       "score": 4,
       "published": "2026-09-03T11:03:45+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "ca08c860d142",
-      "title": "9 Indian Designers to Follow for Modern Festive Wear",
-      "link": "https://www.azafashions.com/blog/9-indian-designers-for-modern-festive-wear/?utm_source=rss&utm_medium=rss&utm_campaign=9-indian-designers-for-modern-festive-wear",
-      "summary": "Festive dressing has changed. The old formula - heavier is better; more sequins equal more celebration- now feels tired. The most exciting festive outfits right now are about proportion, movement, and personality.&#8230; The post 9 Indian Designers to Follow for Modern Festive Wear appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 5,
-      "published": "2026-09-02T09:08:48+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "mandaadi movie review",
+      "term": "हर्षित राणा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "political party",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "जॉर्डन",
+      "term": "ಬೆಳೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शी जिनपिंग",
+      "term": "ममता बनर्जी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ksrtc",
+      "term": "വൈദ്യുതി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കേരള",
+      "term": "इमरान ताहिर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "కోతి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "argentina sea",
+      "term": "anukul roy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పాఠశాల",
+      "term": "nepal hydropower climate change risks",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अमावस्या तिथि",
+      "term": "hang seng share bazar",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "જામનગર",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
