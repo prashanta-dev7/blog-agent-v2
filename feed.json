@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-12T09:02:24.432449+00:00",
+  "generated_at": "2026-09-12T13:53:48.177827+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 185,
+  "industry_count": 188,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "e98b46d28110",
+      "title": "Jamie Haller Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jamiehaller",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jamie Haller Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-12T13:49:58+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "aec3b2135b94",
       "title": "Simkhai Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Simkhai Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rio Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Eckhaus Latta Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Nomia Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Yigal Azrouël Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kim Shui Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Monse Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Attersee Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Christian Cowan Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,77 +159,189 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Lafayette 148 New York Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T13:49:58+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "f98d34e4c924",
-      "title": "Calvin Klein Collection Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/calvin-klein-collection",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "91b1d1bc4b0e",
+      "title": "Zudio Crosses 1,000-Store Milestone in India",
+      "link": "https://in.apparelresources.com/business-news/retail/zudio-crosses-1000-store-milestone-india/",
+      "summary": "Trent Ltd.’s value-fashion retail brand Zudio has crossed the milestone of 1,000 stores in India across more than 300 cities and has served over 100 million customers since its inception. The brand’s store network increased from 766 stores in Q1 FY26 to 982 stores in Q1 FY27, before crossing the 1,000-store mark in Sep",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Zudio Crosses 1,000-Store Milestone in India...",
+      "score": 2,
+      "published": "2026-09-12T12:34:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "909a42e89a74",
+      "title": "ANTA Enters India Through Brandman Retail Partnership",
+      "link": "https://in.apparelresources.com/business-news/retail/anta-enters-india-brandman-retail-partnership/",
+      "summary": "Chinese sportswear company ANTA has entered the Indian market through a partnership with Brandman Retail, expanding its presence into sportswear and athleisure markets. The brand has opened its first exclusive store in Gurugram, marking the beginning of its planned retail expansion in India. Its partnership with Brandm",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ANTA Enters India Through Brandman Retail Partnership...",
+      "score": 2,
+      "published": "2026-09-12T12:29:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ac7baf812643",
+      "title": "BRICS 2026: PM Modi Launches 2 New India Post Stamps Commemorating 20 Years Of BRICS",
+      "link": "https://www.indiatoday.in/india/video/narendra-modi-representation-responsiveness-aura-rule-making-tainaon-maen-saudhaara-avasayaka-haai-ytvd-2993188-2026-09-12?utm_source=rss",
+      "summary": "BRICS 2026: PM Modi Launches 2 New India Post Stamps Commemorating 20 Years Of BRICS",
+      "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-09-12T12:14:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2fbada6af81a",
+      "title": "Chloë Sevigny on Skinny Jeans, Embracing a Little Mess, and Why Fashion Can’t Quit Y2K",
+      "link": "https://www.harpersbazaar.com/fashion/a73694704/chloe-sevigny-7-for-all-mankind-y2k-trend/",
+      "summary": "The 7 For All Mankind ambassador never really did the quintessential early-aughts look—until now",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Chloë Sevigny on Skinny Jeans, Embracing a Little Mess, and Why Fashio...",
+      "score": 1,
+      "published": "2026-09-12T11:49:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3136f2a77e7a",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-september-12",
+      "summary": "From pop world tours to the Venice Film Festival and the start of New York Fashion Week: the best beauty looks of the week are going for glitz.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
       "score": 2,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T11:35:51+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9a1098d56c33",
-      "title": "Jane Wade Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jane-wade",
-      "summary": "",
+      "id": "d2adaf21d582",
+      "title": "From Melania to Michelle: The 9/11 Memorial Ceremonies and Somber FLOTUS Fashion",
+      "link": "https://www.vogue.com/article/melania-trump-michelle-obama-9-11-memorial-ceremonies-flotus-fashion",
+      "summary": "Current and former first ladies of the United States gathered at ceremonies in Virginia and New York to commemorate the 25th anniversary of the terrorist attacks.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jane Wade Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: From Melania to Michelle: The 9/11 Memorial Ceremonies and Somber FLOT...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T11:15:55+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "bcc0b2c6a28f",
-      "title": "Romeo Hunte Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/romeo-hunte",
-      "summary": "",
+      "id": "3b86890f3c7f",
+      "title": "Nicole Kidman and Faith Margaret Make the U.S. Open a Mother-Daughter Moment",
+      "link": "https://www.vogue.com/article/nicole-kidman-and-faith-margaret-us-open",
+      "summary": "From Sydney to the U.S. Open, the mother-daughter duo have been making increasingly frequent appearances together with distinctly individual wardrobes.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Romeo Hunte Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "angle": "Fashion Intelligence: Nicole Kidman and Faith Margaret Make the U.S. Open a Mother-Daughter ...",
+      "score": 0,
+      "published": "2026-09-12T10:40:52+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "34eab27a2f8c",
-      "title": "Wiederhoeft Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/wiederhoeft",
-      "summary": "",
+      "id": "ab909da3a726",
+      "title": "Small Bag? No Worries, Says Liana Satenstein",
+      "link": "https://www.vogue.com/article/liana-satenstein-small-bags",
+      "summary": "Liana Satenstein on the freedom of carrying little to nothing.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Wiederhoeft Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "angle": "Fashion Intelligence: Small Bag? No Worries, Says Liana Satenstein...",
+      "score": 0,
+      "published": "2026-09-12T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "97ee89e0afb2",
-      "title": "Hervé Léger Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/herve-leger",
-      "summary": "",
+      "id": "13e41091601c",
+      "title": "What to Pack for Hawaii, According to a Vogue Staffer",
+      "link": "https://www.vogue.com/article/what-to-pack-for-hawaii",
+      "summary": "Heading to Hawaii? Here’s how to pack for the sun, according to one Vogue staffer—whether you have a destination wedding or a relaxing beach vacation in the works.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: What to Pack for Hawaii, According to a Vogue Staffer...",
+      "score": 1,
+      "published": "2026-09-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7839765e7764",
+      "title": "You Don’t Have to Be a Lady to Dress ‘Ladylike’",
+      "link": "https://www.vogue.com/article/jalil-johnson-updated-lady",
+      "summary": "Jalil Johnson offers his modern interpretation of an outdated term.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hervé Léger Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: You Don’t Have to Be a Lady to Dress ‘Ladylike’...",
       "score": 1,
-      "published": "2026-09-12T09:00:18+00:00",
+      "published": "2026-09-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "32b6ad2883c9",
+      "title": "The Tied Sweater Is Fashion’s New Favourite Layering Trick",
+      "link": "https://in.apparelresources.com/fashion-news/trends/tied-sweater-fashions-new-favourite-layering-trick/",
+      "summary": "Outerwear tied around the waist or hips has emerged as one of the more functional-turned-fashion moves of the season, with designers pushing what was once an off-duty gesture into considered runway styling. At Coach&#8217;s spring show, knitwear and outerwear were repeatedly wrapped at the waist and hip rather than wor",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Tied Sweater Is Fashion’s New Favourite Layering Trick...",
+      "score": 6,
+      "published": "2026-09-12T09:28:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8fa3d062868b",
+      "title": "The Skirt-Over-Pants Layer Gets a Runway Rework",
+      "link": "https://in.apparelresources.com/fashion-news/trends/skirt-pants-layer-gets-runway-rework/",
+      "summary": "The skirt-over-pants trend, one of the most polarising throwbacks of 2005, is having a considered comeback on the runways this season, this time trading maximalism for restraint. At TWP&#8217;s spring show during New York Fashion Week, fitted mini skirts were layered over tailored trousers, turning what was once a stre",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Skirt-Over-Pants Layer Gets a Runway Rework...",
+      "score": 5,
+      "published": "2026-09-12T09:21:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "080f576ef730",
+      "title": "57 Thoughts I Had While Watching ‘Practical Magic 2’",
+      "link": "https://www.vogue.com/article/57-thoughts-i-had-while-watching-practical-magic-2",
+      "summary": "I feel like Nicole and Sandra were lesbian lovers, not sisters, in the original script for this film franchise.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 57 Thoughts I Had While Watching ‘Practical Magic 2’...",
+      "score": 0,
+      "published": "2026-09-12T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,20 +863,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9a49057ac725",
-      "title": "See Phil Oh’s Best Street Style Photos From the Spring 2027 Shows in New York",
-      "link": "https://www.vogue.com/slideshow/see-phil-ohs-best-street-style-photos-from-the-spring-2027-shows-in-new-york",
-      "summary": "Phil Oh documents New York’s best-dressed dressed fashion show-goers at the spring 2027 shows.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: See Phil Oh’s Best Street Style Photos From the Spring 2027 Shows in N...",
-      "score": 4,
-      "published": "2026-09-11T19:33:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "05ffc9c292f5",
       "title": "Wiederhoeft Imagines a Beautifully Dressed Apocalypse for Spring 2027",
       "link": "https://fashionista.com/2026/09/wiederhoeft-spring-2027-review",
@@ -790,34 +902,6 @@
       "angle": "Fashion Intelligence: For Kate Barton Spring 2027, Optimism Looks Like Dog-Printed Tank Tops...",
       "score": 2,
       "published": "2026-09-11T18:44:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bd23db9c04be",
-      "title": "A Mega Guest List Came Together For a Major Cause at Kering’s Caring for Women Dinner",
-      "link": "https://www.vogue.com/slideshow/caring-for-women-dinner-september-2026",
-      "summary": "This year, Kering Foundation co-founders Salma Hayek Pinault and François-Henri Pinault co-hosted the evening alongside Pamela Anderson, Simone Biles, Benicio Del Toro, Nacho Figueras, Dakota Johnson, and Lorna Simpson.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Mega Guest List Came Together For a Major Cause at Kering’s Caring f...",
-      "score": 0,
-      "published": "2026-09-11T18:41:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8a0ed0aa69e1",
-      "title": "What Does Your New York Fashion Week Show Location Say About You?",
-      "link": "https://www.vogue.com/article/what-does-your-new-york-fashion-week-show-location-say-about-you",
-      "summary": "From New Jersey to Midtown to Queens, New York Fashion Week has become quite the sprint—but it only makes things all the more interesting.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: What Does Your New York Fashion Week Show Location Say About You?...",
-      "score": 2,
-      "published": "2026-09-11T18:13:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1154,20 +1238,6 @@
       "angle": "Fashion Intelligence: I'm a Celeb Colorist at a High-End Salon in L.A.—10 Drugstore Beauty P...",
       "score": 1,
       "published": "2026-09-11T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5e030eb7dc3",
-      "title": "Why Fall/Winter 2026’s Biggest Silhouette Story Is Happening at the Sleeve",
-      "link": "https://in.apparelresources.com/fashion-news/trends/fall-winter-2026s-biggest-silhouette-story-happening-sleeve/",
-      "summary": "If Fall/Winter 2026 has a signature body part, it is the shoulder. Two seasons after the &#8220;nap dress&#8221; turned comfort into a genre of its own, that same fascination with nightgowns and slip-on ease has evolved into something more considered: dresses built around bigger, puffier, more sculptural sleeves. Ballo",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Why Fall/Winter 2026’s Biggest Silhouette Story Is Happening at the Sl...",
-      "score": 3,
-      "published": "2026-09-11T10:55:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1829,20 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ceff71a4ae14",
-      "title": "Sonaselection India Launches IPO; Issue Opens September 17",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/sonaselection-india-launches-ipo-issue-opens-september-17/",
-      "summary": "Sonaselection India Ltd., an integrated fabric manufacturing and processing company, will launch its Initial Public Offering (IPO) on September 17, 2026. The issue will close on September 21, while the Anchor Investor bidding will open on September 16. The IPO comprises a fresh issue of up to 14.3 million equity shares",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-10T13:15:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2d2c49074b4a",
       "title": "8 Street Style 'It' Items We Expect to See at New York Fashion Week",
       "link": "https://fashionista.com/2026/09/street-style-trends-september-2026-fashion-week-it-items",
@@ -1952,20 +2008,6 @@
       "angle": "Fashion Intelligence: Two-Tone Shoes Will Always Be Elegant...",
       "score": 1,
       "published": "2026-09-09T18:28:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8262231750a1",
-      "title": "Victoria Beckham on Polarizing Perfumes, Peptides, and “Staying in Love”",
-      "link": "https://www.harpersbazaar.com/beauty/health/a73643090/victoria-beckham-fragrance-interview-2026/",
-      "summary": "Bazaar sits down with the fashion designer and beauty mogul to chat about her newest scent, Hotel Portofino, and why it’s a staple in the Beckham household",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Victoria Beckham on Polarizing Perfumes, Peptides, and “Staying in Lov...",
-      "score": 3,
-      "published": "2026-09-09T17:40:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2851,6 +2893,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4553e073d3fc",
+      "title": "The Spring Trends Australian Girls Are Wearing Now",
+      "link": "https://www.azafashions.com/blog/the-spring-trends-australia/?utm_source=rss&utm_medium=rss&utm_campaign=the-spring-trends-australia",
+      "summary": "The moment the temperature creeps up and the jacaranda trees start blooming, something shifts in every Australian wardrobe. Out go the heavy knits, in comes the urge to actually see&#8230; The post The Spring Trends Australian Girls Are Wearing Now appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-12T12:30:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "379ca3399404",
+      "title": "The Durga Puja Looks You’ll Want to Copy This Year",
+      "link": "https://www.azafashions.com/blog/durga-puja-looks/?utm_source=rss&utm_medium=rss&utm_campaign=durga-puja-looks",
+      "summary": "Durga Puja isn't just five days of pandal hopping and dhak beats. It's an entire wardrobe moment. Every day has its own energy, and your outfit should move with it.&#8230; The post The Durga Puja Looks You’ll Want to Copy This Year appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Durga Puja Looks You’ll Want to Copy This Year...",
+      "score": 1,
+      "published": "2026-09-12T10:06:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f1c8e18be8b7",
       "title": "9 Bridal Footwear Designers Every Modern Bride Should Know",
       "link": "https://www.azafashions.com/blog/modern-bridal-footwear-designers/?utm_source=rss&utm_medium=rss&utm_campaign=modern-bridal-footwear-designers",
@@ -2862,6 +2932,20 @@
       "angle": "Bridal Edit: 9 Bridal Footwear Designers Every Modern Bride Should Know — A Complete Style Guide",
       "score": 5,
       "published": "2026-09-12T01:13:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1ba505a74521",
+      "title": "Your Navratri Outfit Guide for NYC Garba Nights",
+      "link": "https://www.azafashions.com/blog/navratri-outfit-guide-nyc/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-outfit-guide-nyc",
+      "summary": "Navratri looks different in New York than it does back home. The crowds are more diverse, and the energy carries a certain electricity that comes from celebrating something deeply personal&#8230; The post Your Navratri Outfit Guide for NYC Garba Nights appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-09-11T10:21:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2947,98 +3031,56 @@
       "score": 2,
       "published": "2026-09-09T11:39:22+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "09b74c46c324",
-      "title": "Ananya Panday’s Bronze Gown Is What Happens When Fashion Becomes Art",
-      "link": "https://www.azafashions.com/blog/ananya-panday-bronze-gown-rahul-mishra/?utm_source=rss&utm_medium=rss&utm_campaign=ananya-panday-bronze-gown-rahul-mishra",
-      "summary": "Some outfits get styled. Ananya Panday’s recent gown&#160;got engineered. Outfit in question, her latest red carpet appearance, a deep bronze gown from Rahul Mishra's Fall 2026 couture line, \"Devi: The&#8230; The post Ananya Panday&#8217;s Bronze Gown Is What Happens When Fashion Becomes Art appeared first on Aza Edito",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Ananya Panday’s Bronze Gown Is What Happens When Fashion Becomes Art...",
-      "score": 5,
-      "published": "2026-09-09T05:11:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "77011e63fdbb",
-      "title": "The Corset Dress Just Became the Ultimate Going-Out Look",
-      "link": "https://www.azafashions.com/blog/corset-dress-going-out-look/?utm_source=rss&utm_medium=rss&utm_campaign=corset-dress-going-out-look",
-      "summary": "Ask any stylist what is dominating the front row to the after party right now and you will hear one word on repeat. Corsetry. Not the whalebone, cannot breathe kind&#8230; The post The Corset Dress Just Became the Ultimate Going-Out Look appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Corset Dress Just Became the Ultimate Going-Out Look...",
-      "score": 1,
-      "published": "2026-09-08T07:59:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f40996b488d5",
-      "title": "40 Years of Abu Jani Sandeep Khosla, One Epic Night & All the Celebrity Looks You Need to See",
-      "link": "https://www.azafashions.com/blog/abu-jani-sandeep-khosla-40th-anniversary-celebrity-looks/?utm_source=rss&utm_medium=rss&utm_campaign=abu-jani-sandeep-khosla-40th-anniversary-celebrity-looks",
-      "summary": "Forty years in, Abu Jani and Sandeep Khosla don't do subtlety — and their anniversary night at Mubarak Baug proved it. Four decades of reviving Chikankari, layering Zardozi and treating&#8230; The post 40 Years of Abu Jani Sandeep Khosla, One Epic Night &amp; All the Celebrity Looks You Need to See appeared first on Az",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-07T05:56:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "शी जिनपिंग",
+      "term": "osasuna vs espanyol",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रिकी पोंटिंग",
+      "term": "aston villa vs nottm forest",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मोबाइल फ़ोन",
+      "term": "bournemouth vs brentford",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रधानमंत्री किसान मानधन योजना",
+      "term": "palace vs ipswich town",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नकली नोट",
+      "term": "બુધ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ચાંદી",
+      "term": "chelsea vs hull",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्राजक्ता माळी",
+      "term": "liverpool vs fulham",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கீர்த்தி சுரேஷ்",
+      "term": "gold price in india september 12",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ప్రమాదము",
+      "term": "augsburg vs leverkusen",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पंजाब",
+      "term": "ओरंगउटान",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
