@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13T07:07:34.481247+00:00",
+  "generated_at": "2026-09-13T10:00:32.284753+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 186,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Elena Velez Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Threeasfour Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Prabal Gurung Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ashlyn Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: John Elliott Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tibi Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Anna Sui Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 7 For All Mankind Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Conner Ives Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Altuzarra Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,7 +159,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Todd Snyder Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -173,21 +173,77 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Jamie Haller Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:59:49+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "aec3b2135b94",
-      "title": "Simkhai Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jonathan-simkhai",
-      "summary": "",
+      "id": "c399b4e3a8ee",
+      "title": "Zendaya Makes a Dramatic Return to the Pixie Cut",
+      "link": "https://www.vogue.com/article/zendaya-makes-a-dramatic-return-to-the-pixie-cut",
+      "summary": "After months of goddess-like lengths, Zendaya has graduated from the bixie to a fully fledged, romantic and curly pixie cut.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Simkhai Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Zendaya Makes a Dramatic Return to the Pixie Cut...",
+      "score": 0,
+      "published": "2026-09-13T09:58:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4542ff3c4e99",
+      "title": "Jennifer Lawrence Nails the Transeasonal Style Formula",
+      "link": "https://www.vogue.com/article/jennifer-lawrence-nails-the-transeasonal-style-formula",
+      "summary": "With a teal knit, pearl slip, and boat shoes, Jennifer Lawrence offers a masterclass in dressing for that tricky stretch between summer and fall.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-13T09:51:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5e75cbf3401",
+      "title": "PM Modi Addresses Day 2 Of BRICS Summit In Delhi, Calls For Supply Chains And Conflict Resolution",
+      "link": "https://www.indiatoday.in/india/video/pm-modi-addresses-day-2-of-brics-summit-in-delhi-calls-for-supply-chains-and-conflict-resolution-ytvd-2993643-2026-09-13?utm_source=rss",
+      "summary": "PM Modi Addresses Day 2 Of BRICS Summit In Delhi, Calls For Supply Chains And Conflict Resolution",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: PM Modi Addresses Day 2 Of BRICS Summit In Delhi, Calls For Supply Cha...",
       "score": 1,
-      "published": "2026-09-13T07:05:56+00:00",
+      "published": "2026-09-13T09:19:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ac547650fd5",
+      "title": "15 Dashing Pictures of a Young Hugh Grant",
+      "link": "https://www.vogue.com/slideshow/vintage-pictures-of-hugh-grant",
+      "summary": "In the wake of his 66th birthday, we revisit some dapper vintage pictures of the one and only Mr. Hugh Grant.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Dashing Pictures of a Young Hugh Grant...",
+      "score": 0,
+      "published": "2026-09-13T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9af729e27c6f",
+      "title": "This Elegant Closed-Toe Shoe Colour Trend Makes Blue Jeans Look Chicest",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/brown-loafers-trend-elsa-hosk",
+      "summary": "Confirmed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-13T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -247,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2711563336a3",
-      "title": "Neutral, '90s and Incredibly Chic: These Are the Best Dressed Nancy Meyers Movie Characters",
-      "link": "https://www.whowhatwear.com/fashion/nancy-meyers-fashion-trends",
-      "summary": "Because, justice for Meredith Blake!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Neutral, '90s and Incredibly Chic: These Are the Best Dressed Nancy Me...",
-      "score": 1,
-      "published": "2026-09-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b2e76851ceb3",
       "title": "6 Elegant, Easy Fashion Editor Styling Tricks I'm Recommending For This Season",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/autumn-outfit-styling-tips-2026",
@@ -271,6 +313,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-09-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2711563336a3",
+      "title": "Neutral, '90s and Incredibly Chic: These Are the Best Dressed Nancy Meyers Movie Characters",
+      "link": "https://www.whowhatwear.com/fashion/nancy-meyers-fashion-trends",
+      "summary": "Because, justice for Meredith Blake!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Neutral, '90s and Incredibly Chic: These Are the Best Dressed Nancy Me...",
+      "score": 1,
       "published": "2026-09-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -737,20 +793,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "13e41091601c",
-      "title": "What to Pack for Hawaii, According to a Vogue Staffer",
-      "link": "https://www.vogue.com/article/what-to-pack-for-hawaii",
-      "summary": "Heading to Hawaii? Here’s how to pack for the sun, according to one Vogue staffer—whether you have a destination wedding or a relaxing beach vacation in the works.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: What to Pack for Hawaii, According to a Vogue Staffer...",
-      "score": 1,
-      "published": "2026-09-12T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "32b6ad2883c9",
       "title": "The Tied Sweater Is Fashion’s New Favourite Layering Trick",
       "link": "https://in.apparelresources.com/fashion-news/trends/tied-sweater-fashions-new-favourite-layering-trick/",
@@ -776,20 +818,6 @@
       "angle": "Fashion Intelligence: The Skirt-Over-Pants Layer Gets a Runway Rework...",
       "score": 5,
       "published": "2026-09-12T09:21:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "080f576ef730",
-      "title": "57 Thoughts I Had While Watching ‘Practical Magic 2’",
-      "link": "https://www.vogue.com/article/57-thoughts-i-had-while-watching-practical-magic-2",
-      "summary": "I feel like Nicole and Sandra were lesbian lovers, not sisters, in the original script for this film franchise.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 57 Thoughts I Had While Watching ‘Practical Magic 2’...",
-      "score": 0,
-      "published": "2026-09-12T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1586,20 +1614,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Asked My Most Stylish Friends Where They Buy Sweaters—These 33 Style...",
-      "score": 1,
-      "published": "2026-09-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ce6897ac619c",
-      "title": "I’ve Found It—6 Shirt Trends That Pair Perfectly With Jeans and Boots This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/trends/shirt-trends-2026",
-      "summary": "The ultimate foundational pieces.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-09-11T07:00:00+00:00",
       "discovered_via": "feed"
@@ -3007,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "nam vs sa",
+      "term": "ચોમાસું",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दैनिक भास्कर",
+      "term": "நடிகர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "namibia vs south africa",
+      "term": "medha roopam",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तमिलनाडु सरकार",
+      "term": "एअर इंडिया",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విజయ్",
+      "term": "नेटफ्लिक्स",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neet pg 2026 response sheet release",
+      "term": "পশ্চিমবঙ্গ সরকার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ramdev",
+      "term": "एकनाथ शिंदे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संजय गायकवाड",
+      "term": "initial public offering",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "grand prix",
+      "term": "നിവിന് പോളി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "చైనా",
+      "term": "సౌరవ్ గంగూలీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
