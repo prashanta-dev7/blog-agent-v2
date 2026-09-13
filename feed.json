@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13T10:00:32.284753+00:00",
+  "generated_at": "2026-09-13T14:49:24.782265+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 187,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Elena Velez Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Threeasfour Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Prabal Gurung Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ashlyn Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: John Elliott Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tibi Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Anna Sui Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 7 For All Mankind Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Conner Ives Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Altuzarra Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,21 +159,119 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Todd Snyder Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T14:44:09+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "e98b46d28110",
-      "title": "Jamie Haller Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jamiehaller",
-      "summary": "",
+      "id": "eee237aafc6e",
+      "title": "Powered by Matcha and Hometown Spirit, Hayes Warner Hypes up Kaia Gerber at Khaite",
+      "link": "https://www.vogue.com/slideshow/hayes-warner-khaite-new-york-fashion-week-diary",
+      "summary": "It was a homecoming twice-over for New York-raised Hayes Warner, who sat front row of Khaite’s spring 2027 show, which was opened by her “The Shards” co-star.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Powered by Matcha and Hometown Spirit, Hayes Warner Hypes up Kaia Gerb...",
+      "score": 1,
+      "published": "2026-09-13T13:59:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "56e552ffb912",
+      "title": "The Best Dressed Stars of the Week Perfected Texture and Silhouette",
+      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-alex-consani-chase-infiniti-anne-hathaway",
+      "summary": "Between New York Fashion Week and international film festivals, there were no shortage of great red carpet looks this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Perfected Texture and Silhouette...",
+      "score": 2,
+      "published": "2026-09-13T13:27:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7b692464a95",
+      "title": "James Veloria Has a New Downtown Location but the Same Heart (And Heart Wall)",
+      "link": "https://www.vogue.com/article/james-veloria-has-a-new-downtown-location-but-the-same-heart",
+      "summary": "Goodbye, East Broadway mall; hello, Henry Street! James Veloria 2.0 marks a new chapter for the NYC's vintage hotspot, one of which founders Collin James Weber and Brandon Veloria Giordano have always dreamed.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jamie Haller Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: James Veloria Has a New Downtown Location but the Same Heart (And Hear...",
       "score": 1,
-      "published": "2026-09-13T09:59:49+00:00",
+      "published": "2026-09-13T12:40:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6dc0d8620f1f",
+      "title": "From the Archives: Catch George Clooney if You Can",
+      "link": "https://www.vogue.com/article/from-the-archives-catch-him-if-you-can",
+      "summary": "In “The Perfect Storm,” George Clooney is the perfect leading man, but Lisa DePaulo goes in pursuit of the real thing.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: Catch George Clooney if You Can...",
+      "score": 0,
+      "published": "2026-09-13T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d795e29e46a7",
+      "title": "Bootcut Jeans Are Trending—This Timeless Autumn Flat Shoe Trend Makes Them Look Best",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bootcut-jeans-loafers-outfit-trend-gigi-hadid-2026",
+      "summary": "Wear this on repeat.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-13T11:31:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0473174c1b68",
+      "title": "I Asked 3 Tastemakers—These Fall Hair Accessories Will Make Any Outfit Look More Expensive",
+      "link": "https://www.whowhatwear.com/beauty/hair/fall-hair-accessories-trends-2026",
+      "summary": "The finishing touch you didn't know you needed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Asked 3 Tastemakers—These Fall Hair Accessories Will Make Any Outfit...",
+      "score": 1,
+      "published": "2026-09-13T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f09bbdbf6d32",
+      "title": "What’s a Fall Must-Have? Fashion’s Top Retail Buyers Share Their Predictions",
+      "link": "https://www.vogue.com/article/fall-retailer-predictions-2026",
+      "summary": "Fashion’s top retail buyers, from Nordstrom, Net-a-Porter, and more, predict the season’s bestsellers. Shop them here first.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What’s a Fall Must-Have? Fashion’s Top Retail Buyers Share Their Predi...",
+      "score": 2,
+      "published": "2026-09-13T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e2734241f1d9",
+      "title": "10 New York Fashion Week Outfits to Recreate Now",
+      "link": "https://www.vogue.com/article/fashion-week-trends",
+      "summary": "From cool everyday looks to statement ensembles, recreate the season’s top fashion week outfits, inspired by the street style scene at New York Week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 10 New York Fashion Week Outfits to Recreate Now...",
+      "score": 4,
+      "published": "2026-09-13T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -202,20 +300,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-09-13T09:51:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5e75cbf3401",
-      "title": "PM Modi Addresses Day 2 Of BRICS Summit In Delhi, Calls For Supply Chains And Conflict Resolution",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-addresses-day-2-of-brics-summit-in-delhi-calls-for-supply-chains-and-conflict-resolution-ytvd-2993643-2026-09-13?utm_source=rss",
-      "summary": "PM Modi Addresses Day 2 Of BRICS Summit In Delhi, Calls For Supply Chains And Conflict Resolution",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: PM Modi Addresses Day 2 Of BRICS Summit In Delhi, Calls For Supply Cha...",
-      "score": 1,
-      "published": "2026-09-13T09:19:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -303,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b2e76851ceb3",
-      "title": "6 Elegant, Easy Fashion Editor Styling Tricks I'm Recommending For This Season",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/autumn-outfit-styling-tips-2026",
-      "summary": "Minimum effort, maximum impact.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2711563336a3",
       "title": "Neutral, '90s and Incredibly Chic: These Are the Best Dressed Nancy Meyers Movie Characters",
       "link": "https://www.whowhatwear.com/fashion/nancy-meyers-fashion-trends",
@@ -327,6 +397,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Neutral, '90s and Incredibly Chic: These Are the Best Dressed Nancy Me...",
       "score": 1,
+      "published": "2026-09-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2e76851ceb3",
+      "title": "6 Elegant, Easy Fashion Editor Styling Tricks I'm Recommending For This Season",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/autumn-outfit-styling-tips-2026",
+      "summary": "Minimum effort, maximum impact.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-09-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -416,7 +500,7 @@
     },
     {
       "id": "9840ca17b0ff",
-      "title": "See the 1972 Vogue Story That Inspired Anna Sui’s Dreamy Spring 2027 Collection",
+      "title": "See the 1972 ‘Vogue’ Story That Inspired Anna Sui’s Dreamy Spring 2027 Collection",
       "link": "https://www.vogue.com/slideshow/see-the-1972-vogue-story-that-inspired-anna-sui-s-dreamy-spring-2027-collection",
       "summary": "Enchanted by Howard Gardiner Cushing’s paintings, the designer went down a reseach rabbit hole.",
       "source": "Vogue US",
@@ -720,76 +804,6 @@
       "angle": "Fashion Intelligence: Chloë Sevigny on Skinny Jeans, Embracing a Little Mess, and Why Fashio...",
       "score": 1,
       "published": "2026-09-12T11:49:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3136f2a77e7a",
-      "title": "Beauty Marks: The Best Beauty Looks of the Week",
-      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-september-12",
-      "summary": "From pop world tours to the Venice Film Festival and the start of New York Fashion Week: the best beauty looks of the week are going for glitz.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
-      "score": 2,
-      "published": "2026-09-12T11:35:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2adaf21d582",
-      "title": "From Melania to Michelle: The 9/11 Memorial Ceremonies and Somber FLOTUS Fashion",
-      "link": "https://www.vogue.com/article/melania-trump-michelle-obama-9-11-memorial-ceremonies-flotus-fashion",
-      "summary": "Current and former first ladies of the United States gathered at ceremonies in Virginia and New York to commemorate the 25th anniversary of the terrorist attacks.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Melania to Michelle: The 9/11 Memorial Ceremonies and Somber FLOT...",
-      "score": 1,
-      "published": "2026-09-12T11:15:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3b86890f3c7f",
-      "title": "Nicole Kidman and Faith Margaret Make the U.S. Open a Mother-Daughter Moment",
-      "link": "https://www.vogue.com/article/nicole-kidman-and-faith-margaret-us-open",
-      "summary": "From Sydney to the U.S. Open, the mother-daughter duo have been making increasingly frequent appearances together with distinctly individual wardrobes.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Nicole Kidman and Faith Margaret Make the U.S. Open a Mother-Daughter ...",
-      "score": 0,
-      "published": "2026-09-12T10:40:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ab909da3a726",
-      "title": "Small Bag? No Worries, Says Liana Satenstein",
-      "link": "https://www.vogue.com/article/liana-satenstein-small-bags",
-      "summary": "Liana Satenstein on the freedom of carrying little to nothing.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Small Bag? No Worries, Says Liana Satenstein...",
-      "score": 0,
-      "published": "2026-09-12T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7839765e7764",
-      "title": "You Don’t Have to Be a Lady to Dress ‘Ladylike’",
-      "link": "https://www.vogue.com/article/jalil-johnson-updated-lady",
-      "summary": "Jalil Johnson offers his modern interpretation of an outdated term.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: You Don’t Have to Be a Lady to Dress ‘Ladylike’...",
-      "score": 1,
-      "published": "2026-09-12T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1574,48 +1588,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-09-11T08:35:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85cc217d8be7",
-      "title": "Sandra Bullock Just Wore the One Summer Shoe Trend That's Guaranteed to Continue Into Fall",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sandra-bullock-summer-shoe-trend",
-      "summary": "It's practical, not magic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-11T08:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ed84ac160961",
-      "title": "I Never Thought I’d See Mary-Kate in Trainers—Let Alone This High-Street Brand",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/trainers-long-shorts-white-tshirt-outfit-mary-kate-olsen-2026",
-      "summary": "The Row would never.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Never Thought I’d See Mary-Kate in Trainers—Let Alone This High-Stre...",
-      "score": 1,
-      "published": "2026-09-11T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8a57b3ad795d",
-      "title": "I Asked My Most Stylish Friends Where They Buy Sweaters—These 33 Styles Are Now In My Cart",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/fashion-insider-sweaters-for-fall",
-      "summary": "Let the fall shopping begin.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Asked My Most Stylish Friends Where They Buy Sweaters—These 33 Style...",
-      "score": 1,
-      "published": "2026-09-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +2993,52 @@
   ],
   "trends": [
     {
-      "term": "ચોમાસું",
+      "term": "भारतीय महिला बनाम श्रीलंका महिला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "நடிகர்",
+      "term": "f1 standings",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "medha roopam",
+      "term": "हॉकी इंडिया",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एअर इंडिया",
+      "term": "आज की बारिश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नेटफ्लिक्स",
+      "term": "levante ud vs fc barcelona lineups",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "পশ্চিমবঙ্গ সরকার",
+      "term": "ind vs zim",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एकनाथ शिंदे",
+      "term": "max verstappen",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "initial public offering",
+      "term": "ஆப்கானிஸ்தான் - இந்தியா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "നിവിന് പോളി",
+      "term": "cri",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సౌరవ్ గంగూలీ",
+      "term": "t20 world cup 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
