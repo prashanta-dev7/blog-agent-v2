@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:08:10.892490+00:00",
+  "generated_at": "2026-09-15T09:47:56.596518+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 184,
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Maria McManus Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-15T07:06:36+00:00",
+      "published": "2026-09-15T09:45:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Snow Xue Gao Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-15T07:06:36+00:00",
+      "published": "2026-09-15T09:45:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: LaQuan Smith Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-15T07:06:36+00:00",
+      "published": "2026-09-15T09:45:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Luar Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-15T07:06:36+00:00",
+      "published": "2026-09-15T09:45:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Carolina Herrera Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-15T07:06:36+00:00",
+      "published": "2026-09-15T09:45:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-09-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1c80a032d452",
+      "title": "I’m a Beauty Editor, and I Wouldn’t Survive a NYFW Without These 8 Items in Tow",
+      "link": "https://www.whowhatwear.com/beauty/nyfw-beauty-editor-essentials",
+      "summary": "Fit for any jam-packed schedule.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I’m a Beauty Editor, and I Wouldn’t Survive a NYFW Without These 8 Ite...",
+      "score": 1,
+      "published": "2026-09-15T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f7d6166ecee4",
-      "title": "This Season’s LFW It Piece? The British Museum’s Bayeux Tapestry Merch",
-      "link": "https://www.vogue.com/article/british-museum-bayeux-tapestry-merch",
-      "summary": "No, I haven’t yet secured a ticket to the British Museum’s wildly popular Bayeux Tapestry exhibition—but have I have added some of its merch to my cart? Yes!",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-14T22:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bddeea82a592",
       "title": "IMO, Only the Chicest Individuals Will Be Wearing This New Designer Bag This Fall",
       "link": "https://www.whowhatwear.com/fashion/luxury/balenciaga-hourglass-avenue-bag",
@@ -1339,6 +1353,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "66c4234276e1",
+      "title": "Smart Casual Dress Code For Men: Attire and Style Guide 2026",
+      "link": "https://www.fashionbeans.com/article/mens-smart-casual-dress-guide/",
+      "summary": "Trying to find the true meaning of the phrase smart casual can quickly turn into a nightmare. The Oxford Dictionary defines it as “neat, conventional, yet relatively informal in style, especially as worn to conform to a particular dress code”. But these days it&#8217;s quite common for smart casual to be the dress code",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-14T10:02:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "83b571351773",
       "title": "These 7 Fall Trends Make Even the Most Basic Outfits Look Expensive",
       "link": "https://www.whowhatwear.com/fashion/trends/expensive-looking-fall-trends-2026",
@@ -1364,6 +1392,34 @@
       "angle": "Fashion Intelligence: A Fashionable Closet Isn't Well-Curated Without Basics—These Fall Styl...",
       "score": 2,
       "published": "2026-09-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0472a077e2af",
+      "title": "The Quiff Hairstyle: What It Is & How To Style It",
+      "link": "https://www.fashionbeans.com/article/mens-quiff-hairstyle-guide/",
+      "summary": "One of the most iconic haircuts to have ever graced men’s heads, the quiff has been big (and big news) since the 1950s, earning it a place in the follicular hall of fame alongside other icons of the barber’s chair including the French crop, buzz cut and short back and sides. Splicing together elements of the pompadour,",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Quiff Hairstyle: What It Is & How To Style It...",
+      "score": 1,
+      "published": "2026-09-14T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "22988e1fe2d8",
+      "title": "12 Types of Pants for Men – Different Trouser Styles 2026",
+      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
+      "summary": "Statement jackets and the latest sneakers are always going to be top of men&#8217;s lust lists, but don&#8217;t let high-wattage clobber blind you to the essentials. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
+      "score": 3,
+      "published": "2026-09-14T06:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1866,20 +1922,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Mark My Words—This High Street Jumper Will Be Autumn's First Cult Buy...",
-      "score": 1,
-      "published": "2026-09-12T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "462c14d7d93e",
-      "title": "My 5’4” Friend Asked Me For Shoe Recommendations—This Is the Trending Pick I Put Her On To",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/platform-wedge-heels-trend-florence-pugh-2026",
-      "summary": "I want a pair, too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-09-12T08:00:00+00:00",
       "discovered_via": "feed"
@@ -2543,48 +2585,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "79e8f85b3454",
-      "title": "14 Best Seiko Watches For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-seiko-watches/",
-      "summary": "Seiko is one of the most prolific watch brands in the world. Its quality materials, best-in-class movements, and largely approachable prices are some of the key factors contributing to the success of Japan’s oldest watchmaker. Though my list of the best Seiko watches from its many collections barely scratches the surfa",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 14 Best Seiko Watches For Men In 2026...",
-      "score": 2,
-      "published": "2026-09-06T08:56:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f1c4379c72b9",
-      "title": "Best Sweatshirts For Men: A Cozy Deep-Dive Into The Internet’s Favorites",
-      "link": "https://www.fashionbeans.com/article/best-sweatshirts-for-men/",
-      "summary": "Let&#8217;s Compare a $391 Japanese Sweatshirt to a $17 Amazon One! One of the best sweatshirts for men on this list is from a brand I had never heard of before &#8211; it’s a brand called American Giant. When I opened this massive tank of a monster from the box, I just was like, &#8220;Oh!&#8221; &#8230; Continue read",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Best Sweatshirts For Men: A Cozy Deep-Dive Into The Internet’s Favorit...",
-      "score": 1,
-      "published": "2026-09-06T08:40:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3cc630394e1f",
-      "title": "Behind the Gloss: Achieve the Wet Hair Look with 2026’s Trendsetting Products",
-      "link": "https://www.fashionbeans.com/article/best-wet-hair-look-products/",
-      "summary": "It’s hard to put a finger on why the wet look is so appealing. Perhaps it’s because it makes us think of emerging from a cool body of water or that it generally evokes moisture, which inevitably makes us think of youth. Needless to say, the wet look is hot. Both sultry and sleek with &#8230; Continue reading Behind the",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-06T05:51:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e08665fd231d",
       "title": "Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United",
       "link": "https://blog.kalkifashion.com/shivika-and-mihirs-sydney-love-story-a-bangkok-wedding-two-cultures-united/",
@@ -2965,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "बुलडोज़र",
+      "term": "पोलीस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പി.എ. മുഹമ്മദ് റിയാസ്",
+      "term": "భారత జాతీయ క్రికెట్ జట్టు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अमर उजाला",
+      "term": "bicycle accident",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bail",
+      "term": "ஏற்றுமதி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "zverev tennis",
+      "term": "marvel wolverine game",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पत्रकार",
+      "term": "బాబర్ ఆజం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mohammad rizwan",
+      "term": "why market is down today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சம்பவம்",
+      "term": "kerala",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "நாளிதழ்",
+      "term": "টিকিট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सारा तेंदुलकर",
+      "term": "asian games women",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
