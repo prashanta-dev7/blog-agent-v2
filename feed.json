@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T07:07:15.530547+00:00",
+  "generated_at": "2026-09-17T09:50:40.507781+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 192,
+  "industry_count": 190,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mel Usine Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-17T07:03:21+00:00",
+      "published": "2026-09-17T09:48:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Reem Acra Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-17T07:03:21+00:00",
+      "published": "2026-09-17T09:48:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Theory Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-17T07:03:21+00:00",
+      "published": "2026-09-17T09:48:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,21 +61,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Palomo Spain Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-17T07:03:21+00:00",
+      "published": "2026-09-17T09:48:56+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "5d7965889489",
-      "title": "Stella Jean Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/stella-jean",
-      "summary": "",
+      "id": "84e81c9fbf24",
+      "title": "Bella Hadid Isn’t Ready To Let Go of Her Summer Staples",
+      "link": "https://www.vogue.com/article/bella-hadid-isnt-ready-to-let-go-of-her-summer-staples",
+      "summary": "Bella Hadid might be back in New York, but she isn’t quite ready to surrender the last vestiges of summer dressing.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Stella Jean Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Bella Hadid Isn’t Ready To Let Go of Her Summer Staples...",
       "score": 1,
-      "published": "2026-09-17T07:03:21+00:00",
+      "published": "2026-09-17T09:40:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d70ed436814a",
+      "title": "The Vogue Business Funding Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
+      "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
+      "score": 2,
+      "published": "2026-09-17T09:37:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "95f0d7098630",
+      "title": "I Was Convinced My Friend's H&M Jumper Was Designer—So I Found 15 More That Look Just As Expensive",
+      "link": "https://www.whowhatwear.com/fashion/shopping/hm-premium-knitwear-2026",
+      "summary": "Sumptuous knits await.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Was Convinced My Friend's H&M Jumper Was Designer—So I Found 15 More...",
+      "score": 1,
+      "published": "2026-09-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e58067d1084",
+      "title": "I Took a Deep Dive into the Chicest Celebrity Wardrobes—9 Pieces I Found That You Can Shop Right Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/viral-celebrity-items-2026",
+      "summary": "A-List-approved buys.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-17T07:58:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ca50d3d5bd98",
+      "title": "Military-Inspired Pieces Anchor the AW26 Trend Conversation",
+      "link": "https://in.apparelresources.com/fashion-news/trends/military-inspired-pieces-anchor-aw26-trend-conversation/",
+      "summary": "Utilitarian detailing is having its most refined moment yet on fall runways. At Khaite, Catherine Holstein sent military jackets in leather and wool down the runway with corded, ropey trims, while Ann Demeulemeester&#8217;s Stefano Gallici followed a Spring/Summer showing of military jackets with an even heavier Fall/W",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-17T07:49:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba8a5c4f2834",
+      "title": "’90s Office Minimalism Anchors the AW26 Trend Conversation",
+      "link": "https://in.apparelresources.com/fashion-news/trends/90s-office-minimalism-anchors-aw26-trend-conversation/",
+      "summary": "Fall 2026 runways have converged unusually decisively on late-&#8217;90s minimalism. Calvin Klein, Miu Miu, Celine, Toteme and Ashlyn all showed black column dresses, pencil skirts and restrained tailoring, a shift trade outlets read as a deliberate break from the early-2000s references of recent seasons. At Calvin Kle",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 5,
+      "published": "2026-09-17T07:45:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -118,20 +188,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-09-17T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f1300f3e6e8d",
-      "title": "Adoption of BRICS New Delhi Declaration shows world's trust in India: PM Modi",
-      "link": "https://www.indiatoday.in/india/story/unanimous-adoption-of-brics-new-delhi-declaration-sign-of-worlds-trust-in-india-pm-modi-2996573-2026-09-17?utm_source=rss",
-      "summary": "Adoption of BRICS New Delhi Declaration shows world's trust in India: PM Modi",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Adoption of BRICS New Delhi Declaration shows world's trust in India: ...",
-      "score": 1,
-      "published": "2026-09-17T06:14:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -202,34 +258,6 @@
       "angle": "Fashion Intelligence: The Fashion Exec’s Guide to New York Climate Week...",
       "score": 1,
       "published": "2026-09-17T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "231105366c4f",
-      "title": "Actor's Leadership Remark on Reality Show Sparks Political Row as Regional Party Objects",
-      "link": "https://www.indiatoday.in/india/video/actors-leadership-remark-on-reality-show-sparks-political-row-as-regional-party-objects-ytvd-2996503-2026-09-17?utm_source=rss",
-      "summary": "Actor's Leadership Remark on Reality Show Sparks Political Row as Regional Party Objects",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Actor's Leadership Remark on Reality Show Sparks Political Row as Regi...",
-      "score": 1,
-      "published": "2026-09-17T04:27:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8cc0438d1009",
-      "title": "PM Modi's 76th Birthday: Month-Long Seva Abhiyan, SemiCon India Launch & Mega Events",
-      "link": "https://www.indiatoday.in/india/video/pm-modis-76th-birthday-month-long-seva-abhiyan-semicon-india-launch-mega-events-ytvd-2996498-2026-09-17?utm_source=rss",
-      "summary": "PM Modi's 76th Birthday: Month-Long Seva Abhiyan, SemiCon India Launch & Mega Events",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-17T04:22:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -681,6 +709,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "af4a8e11eb96",
+      "title": "How To Wear Pinstripe Trousers The Modern Way",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-pinstripe-trousers/",
+      "summary": "If, like everyone else, you have long been confused and frustrated by the smart-casual dress code, base a pair of pinstripe trousers at the core of your wardrobe and you’ll make the job a whole lot easier. The fine-line print hasn’t always been seen as a key piece in a man’s everyday arsenal. For a &#8230; Continue rea",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Pinstripe Trousers The Modern Way...",
+      "score": 2,
+      "published": "2026-09-16T15:01:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0685dbc7e0be",
       "title": "113 Bride-Worthy Looks From the NYFW Spring 2027 Runways",
       "link": "https://www.vogue.com/slideshow/spring-2027-fashion-month-bridal-inspiration",
@@ -793,20 +835,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "24376d33d4bb",
-      "title": "Exclusive: Lena Dunham Is a Mother! The Sweet, Singular Story of How She Prepared",
-      "link": "https://www.vogue.com/article/lena-dunham-shopping-for-baby-october-2026",
-      "summary": "Anxiously awaiting the birth of her child via surrogate, Lena Dunham turned to one thing she could control: building the infant wardrobe of her dreams.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Exclusive: Lena Dunham Is a Mother! The Sweet, Singular Story of How S...",
-      "score": 0,
-      "published": "2026-09-16T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b83488a2a770",
       "title": "Kim Kardashian and Lewis Hamilton Give Us a Sporty Take on Gondola Style",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73758635/kim-kardashian-lewis-hamilton-sporty-gondola-style-lake-como-photos/",
@@ -891,6 +919,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f38b641ae124",
+      "title": "12 Best Tracksuits for Men – Ultimate Style Guide in 2026",
+      "link": "https://www.fashionbeans.com/article/best-tracksuits-for-men/",
+      "summary": "The best tracksuits for men have been all the rage since long before Squid Games aired. Think Run-DMC making tracksuits central to hip-hop culture. Or the varied men of The Sopranos sporting matching zip-up jackets and pants as they catch rays outside of Satriale’s. Don’t even get me started about Juicy Couture&#8217;s",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-16T12:26:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "68da03c71545",
       "title": "The 8 Most Iconic Body Products of 2026",
       "link": "https://www.harpersbazaar.com/beauty/health/a73746626/best-body-care-products-2026/",
@@ -972,6 +1014,20 @@
       "angle": "Fashion Intelligence: Out Loud...",
       "score": 0,
       "published": "2026-09-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e03e89489c41",
+      "title": "The Man Bun Guide: What Is It & How Do You Wear It?",
+      "link": "https://www.fashionbeans.com/article/man-bun-guide/",
+      "summary": "We know what you&#8217;re thinking. Man buns are bad. Terrible. A hairstyle crime that carries a minimum sentence of five years&#8217; ridicule. We can&#8217;t blame you, especially when they&#8217;re co-opted by footballers who wield about as much taste as Liberace in Poundland (hey, Andy Carroll). Don&#8217;t let naf",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Man Bun Guide: What Is It & How Do You Wear It?...",
+      "score": 2,
+      "published": "2026-09-16T11:57:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1073,6 +1129,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "712356e6ceb5",
+      "title": "Cocktail Attire For Men: Dress Code Style Guide 2026",
+      "link": "https://www.fashionbeans.com/article/mens-cocktail-attire-dress-code/",
+      "summary": "How do you define cocktail attire? Like many of the puzzling dress codes that crop up on fancy invitations now and again, the barometers are not immediately clear – at least, that is, for men. This is one of the (very) few occasions in life when women have it easier. There&#8217;s even a book on &#8230; Continue readin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-16T09:00:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1e9aae32f5f0",
       "title": "10+ Years of Being a Beauty Editor Qualifies Me to Say That This Is the Best Face Tan Ever Made",
       "link": "https://www.whowhatwear.com/beauty/skin/three-warriors-hydrabronze-face-tan-drops",
@@ -1140,6 +1210,20 @@
       "angle": "Fashion Intelligence: Chanel Fall 2026 Has a Dream of Tweed...",
       "score": 1,
       "published": "2026-09-16T02:54:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "06836f395a6a",
+      "title": "19 Best Work Bags for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-work-bags-for-men/",
+      "summary": "The best work bags for men aren’t just for the everyday commuter. Perfectly marrying style with substance, they’re a must-have for guys of all occupations—whether you’re a banker, bookkeeper, or building site manager. Equipped with a suitable bag, you’ll not only be able to carry the right tools for the job but cement ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 19 Best Work Bags for Men In 2026...",
+      "score": 1,
+      "published": "2026-09-16T01:10:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1787,20 +1871,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc86578a887e",
-      "title": "India-MERCOSUR Trade Talks Begin as Bilateral Trade Hits US$17.48 Bn",
-      "link": "https://in.apparelresources.com/business-news/trade-business-news/india-mercosur-trade-talks-begin-as-bilateral-trade-hits-us17-48-bn/",
-      "summary": "Commerce and Industry Minister Piyush Goyal and Uruguay’s Foreign Affairs Minister Mario Lubetkin announced the launch of negotiations to expand the preferential trade agreement (PTA) between India and the South American trade bloc MERCOSUR. The two sides have agreed to expand the existing agreement to cover areas of m",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: India-MERCOSUR Trade Talks Begin as Bilateral Trade Hits US$17.48 Bn...",
-      "score": 1,
-      "published": "2026-09-15T11:43:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "62f4110e7951",
       "title": "If You Want to Make Leggings Look Especially Chic, Skip Trainers and Ballet Flats and Wear This Shoe Trend Instead",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/leggings-pointed-toe-heels-outfit-iris-law-2026",
@@ -2067,34 +2137,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0c852b3a9086",
-      "title": "6 French Manicure Trends That Will Be on the Most Elegant of Hands This Autumn",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/autumn-french-manicure-trends-2026",
-      "summary": "Screenshot-worthy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a02708ee64e9",
-      "title": "Hailey, Sadie and Kaia All Agree That This Is the Coolest Way to Wear Your Lipstick Right Now",
-      "link": "https://www.whowhatwear.com/beauty/makeup/autumn-lip-trends-2026",
-      "summary": "Let your lips do the talking.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hailey, Sadie and Kaia All Agree That This Is the Coolest Way to Wear ...",
-      "score": 1,
-      "published": "2026-09-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9c0548969149",
       "title": "Harvey Specter: How To Dress Like The Sharpest Man On TV",
       "link": "https://www.fashionbeans.com/article/harvey-specter-suits-style/",
@@ -2316,76 +2358,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-09-14T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "81f21ce16854",
-      "title": "23 Best Affordable Watch Brands: Cheap Budget Options 2026",
-      "link": "https://www.fashionbeans.com/best-cheap-watches-men/",
-      "summary": "Stauer Watch Reviews: Are They Any Good? It used to be a case of “you get what you pay for” when it came to affordable watch brands, both in terms of quality and kudos. Dropping a few thousand not only meant you&#8217;d get decent mechanics but also boardroom brownie points for sporting a reputable name &#8230; Continu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Best Affordable Watch Brands: Cheap Budget Options 2026...",
-      "score": 1,
-      "published": "2026-09-14T09:30:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3ea33ff5eb1",
-      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
-      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
-      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
-      "score": 2,
-      "published": "2026-09-14T09:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9128e41804cb",
-      "title": "The Best British Shoe Brands: UK’s Finest 2026",
-      "link": "https://www.fashionbeans.com/article/best-british-shoe-brands/",
-      "summary": "We Brits have plenty to complain about – our weather sucks, we’re crap at almost every sport we invent and the last time we won Eurovision Nintendo had just launched the N64. But one arena in which we can hold our heads high is British-made footwear. With a dedication to premium materials and time-tested production &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best British Shoe Brands: UK’s Finest 2026...",
-      "score": 3,
-      "published": "2026-09-14T09:00:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9163559cb43e",
-      "title": "The 16 Best Minimalist Trainer Brands",
-      "link": "https://www.fashionbeans.com/article/the-best-minimalist-trainer-brands/",
-      "summary": "Unless you&#8217;ve been living under a soundproof rock, you&#8217;ll have noticed that some of the most lustworthy trainers of late are bulky, acid-tinged objects that could be probably be seen from space. But whatever the latest trainer trends, there will always be room in the male wardrobe for a pair of minimalist s",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The 16 Best Minimalist Trainer Brands...",
-      "score": 2,
-      "published": "2026-09-14T09:00:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0472a077e2af",
-      "title": "The Quiff Hairstyle: What It Is & How To Style It",
-      "link": "https://www.fashionbeans.com/article/mens-quiff-hairstyle-guide/",
-      "summary": "One of the most iconic haircuts to have ever graced men’s heads, the quiff has been big (and big news) since the 1950s, earning it a place in the follicular hall of fame alongside other icons of the barber’s chair including the French crop, buzz cut and short back and sides. Splicing together elements of the pompadour,",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Quiff Hairstyle: What It Is & How To Style It...",
-      "score": 1,
-      "published": "2026-09-14T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3077,52 +3049,52 @@
   ],
   "trends": [
     {
-      "term": "राशिफल",
+      "term": "rentomojo stock price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "श्वेता तिवारी",
+      "term": "n chandrasekaran",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नीति आयोग",
+      "term": "ips officer bushra bano news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "natthakan chantham",
+      "term": "നിരക്ക്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi index",
+      "term": "australia",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्ट्राइक एक्शन",
+      "term": "aaditya thackeray anil deshmukh legal notice",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taurus horoscope today",
+      "term": "இந்தியா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तबादला",
+      "term": "మహేశ్ బాబు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అల్లు అర్జున్",
+      "term": "oracle workforce reduction ai spending",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नरेन्द्र मोदी",
+      "term": "ಲೋಕಾಯುಕ್ತ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
