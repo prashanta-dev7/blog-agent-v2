@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T06:59:59.379450+00:00",
+  "generated_at": "2026-09-18T09:24:16.106772+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 187,
+  "industry_count": 188,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: H&M Studio Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-18T06:57:15+00:00",
+      "published": "2026-09-18T09:20:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Harris Reed Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-18T06:57:15+00:00",
+      "published": "2026-09-18T09:20:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Lauren Manoogian Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-18T06:57:15+00:00",
+      "published": "2026-09-18T09:20:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dagmar Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-18T06:57:15+00:00",
+      "published": "2026-09-18T09:20:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Batsheva Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-18T06:57:15+00:00",
+      "published": "2026-09-18T09:20:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mark Fast Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-18T06:57:15+00:00",
+      "published": "2026-09-18T09:20:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7714d00301c9",
+      "title": "6 Trends to Make Your Basic Jeans Look *Very* Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fall-2026-trends-to-wear-with-jeans",
+      "summary": "Amp up your denim with these fashion-forward styles.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-18T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9077f3807812",
+      "title": "Colored Jeans Are Trending—Kate Middleton Just Wore the Hue That's Cooler Than Blue and Black",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-middleton-skinny-jeans-burberry-coat",
+      "summary": "See what she wore in Scotland today.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-18T08:20:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ba17d33bf2a",
+      "title": "I Know You Have Exceptional Taste If You Own This Minimalist, Quiet Luxury Tote Bag",
+      "link": "https://www.whowhatwear.com/fashion/shopping/bottega-veneta-barbara-tote-bag",
+      "summary": "An instant classic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know You Have Exceptional Taste If You Own This Minimalist, Quiet Lu...",
+      "score": 1,
+      "published": "2026-09-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0e3e8b7294a0",
+      "title": "It Girls Agree: These 5 Colors Look Incredibly Chic With Royal Purple",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/colors-to-wear-with-purple",
+      "summary": "Stand out this season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: It Girls Agree: These 5 Colors Look Incredibly Chic With Royal Purple...",
+      "score": 1,
+      "published": "2026-09-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "691bce025e6e",
+      "title": "Chirag Paswan says food processing can take India from farms to global brands",
+      "link": "https://www.indiatoday.in/india/story/food-processing-sector-growth-chirag-paswan-says-maharashtra-leads-pmfme-rollout-farms-global-brands-ptag-2997340-2026-09-18?utm_source=rss",
+      "summary": "Chirag Paswan says food processing can take India from farms to global brands",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Chirag Paswan says food processing can take India from farms to global...",
+      "score": 1,
+      "published": "2026-09-18T07:20:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f252d762e750",
+      "title": "My French Friend Swears By This Polished Outfit for Autumn, Now Stylish Londoners are Adopting it Too",
+      "link": "https://www.whowhatwear.com/fashion/best-trouser-suits-for-women",
+      "summary": "Instant elegance.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My French Friend Swears By This Polished Outfit for Autumn, Now Stylis...",
+      "score": 2,
+      "published": "2026-09-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -149,20 +233,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1a956c59330f",
-      "title": "Why Nick Knight Used AI to Create H&M’s Interactive Show",
-      "link": "https://www.vogue.com/article/why-nick-knight-used-ai-to-create-handms-interactive-show",
-      "summary": "The photographer turned studio stills into AI-generated fashion films for H&amp;M’s latest London Fashion Week show. Here, he and H&amp;M’s creative director explain why they’re experimenting with a technology that still divides fashion.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Why Nick Knight Used AI to Create H&M’s Interactive Show...",
-      "score": 2,
-      "published": "2026-09-18T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "27777a163603",
       "title": "CEO Gianfranco D’Attis Is Resetting McQueen. Here’s How",
       "link": "https://www.vogue.com/article/ceo-gianfranco-dattis-is-resetting-mcqueen-heres-how",
@@ -173,6 +243,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: CEO Gianfranco D’Attis Is Resetting McQueen. Here’s How...",
       "score": 1,
+      "published": "2026-09-18T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a956c59330f",
+      "title": "Why Nick Knight Used AI to Create H&M’s Interactive Show",
+      "link": "https://www.vogue.com/article/why-nick-knight-used-ai-to-create-handms-interactive-show",
+      "summary": "The photographer turned studio stills into AI-generated fashion films for H&amp;M’s latest London Fashion Week show. Here, he and H&amp;M’s creative director explain why they’re experimenting with a technology that still divides fashion.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Why Nick Knight Used AI to Create H&M’s Interactive Show...",
+      "score": 2,
       "published": "2026-09-18T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -975,6 +1059,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3856b92612dd",
+      "title": "The Best Hair Mousse for Men for Better Styling In 2026",
+      "link": "https://www.fashionbeans.com/article/best-hair-mousse/",
+      "summary": "The best hair mousse is an unsung hero of men’s hairstyles. It’s an easy-to-apply styling product that leaves your hair touchably smooth, while still giving it shape and volume, the best is that works with will all hair types. The best hair mousse for men will help you achieve that healthy shine that doesn’t look &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Hair Mousse for Men for Better Styling In 2026...",
+      "score": 1,
+      "published": "2026-09-17T09:00:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8b1fc056d378",
+      "title": "Casual Dress for Men – Outfits And Style Guide 2026",
+      "link": "https://www.fashionbeans.com/article/casual-dress-for-men/",
+      "summary": "It’s not difficult to look good in a suit. If you’ve got the money and an experienced tailor who knows what he or she is doing, then you can’t really fail. Simply hand over your cash, listen to their sartorial know-how, and allow them to stitch you something that’s made to flatter the contours of &#8230; Continue readi",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-17T09:00:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "95f0d7098630",
       "title": "I Was Convinced My Friend's H&M Jumper Was Designer—So I Found 15 More That Look Just as Expensive",
       "link": "https://www.whowhatwear.com/fashion/shopping/hm-premium-knitwear-2026",
@@ -1042,6 +1154,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-09-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be07f5ba80d2",
+      "title": "10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-baggy-jeans/",
+      "summary": "High on the list of garments we must once again reckon with, for better or worse, are baggy jeans. They’re back. They’ve been back. You know this, and you’re likely okay with this considering the fact that you clicked on a link about the 10 best men’s baggy jeans. Sure, we’re going to talk about &#8230; Continue readin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026...",
+      "score": 1,
+      "published": "2026-09-17T06:47:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1913,20 +2039,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3b2e4ee0a557",
-      "title": "The Fashion Time Capsule: Moments That Defined the Last 20 Years",
-      "link": "https://www.whowhatwear.com/fashion/the-fashion-time-capsule-2026",
-      "summary": "We're looking back at the tastemakers, iconic pieces, and style moments that changed our wardrobes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Fashion Time Capsule: Moments That Defined the Last 20 Years...",
-      "score": 2,
-      "published": "2026-09-15T21:30:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4f0e72cf6e08",
       "title": "Taylor Swift Is the Coolest Detective in This McQueen Suit",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73747239/taylor-swift-2026-emmys-cameo-outfit-alexander-mcqueen-suit-details/",
@@ -1955,20 +2067,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "82adb69cc2aa",
-      "title": "20 Fashion Aesthetics Over 20 Years: All the Vibe Shifts That Mattered",
-      "link": "https://www.whowhatwear.com/fashion/20-iconic-fashion-aesthetics",
-      "summary": "The evolution from \"That's hot\" to office siren.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 20 Fashion Aesthetics Over 20 Years: All the Vibe Shifts That Mattered...",
-      "score": 1,
-      "published": "2026-09-15T21:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f15e3f77db4a",
       "title": "Rachel Scott's Sea-Inspired Diotima Collection Plays With Our Expectations of the Brand",
       "link": "https://fashionista.com/2026/09/diotima-spring-2027-review",
@@ -1980,20 +2078,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 3,
       "published": "2026-09-15T20:07:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1dc7ae268e95",
-      "title": "Paige DeSorbo's Brand Daphne Just Launched Its Fall 2026 Collection",
-      "link": "https://www.whowhatwear.com/fashion/shopping/paige-desorbo-daphne-fall-2026",
-      "summary": "\"For leaving home, only when you must.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 3,
-      "published": "2026-09-15T20:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2011,20 +2095,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2c9219652439",
-      "title": "Lavender Haze: Jessica Williams Stuns in Custom Honor Gown for Emmys Red Carpet",
-      "link": "https://www.whowhatwear.com/fashion/celebrity/jessica-williams-honor-dress-emmy-awards-2026",
-      "summary": "The Outstanding Supporting Actress in a Comedy Series nominee takes us inside her getting-ready suite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-15T19:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c235a4d037ba",
       "title": "Verstolo Is Hiring A Marketing, Social Media & Content Coordinator In NYC",
       "link": "https://fashionista.com/2026/09/verstolo-is-hiring-a-marketing-social-media-content-coordinator-in-nyc",
@@ -2036,20 +2106,6 @@
       "angle": "Fashion Intelligence: Verstolo Is Hiring A Marketing, Social Media & Content Coordinator In ...",
       "score": 1,
       "published": "2026-09-15T18:16:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ed3fd6cb6ae9",
-      "title": "Not Leopard, Not Zebra: Adidas Just Launched New Sneakers in This Unexpected Animal Print",
-      "link": "https://www.whowhatwear.com/fashion/shopping/doe-print-sneakers-adidas",
-      "summary": "This micro trend is gaining traction.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-09-15T17:02:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2246,48 +2302,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-09-15T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c9cf9e0da3b",
-      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
-      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
-      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
-      "score": 1,
-      "published": "2026-09-15T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c237c961987f",
-      "title": "16 Best Dress Sneakers for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-dress-sneakers-for-men/",
-      "summary": "For as long as I can remember, men have been programmed to believe that wearing shoes is pretty much the only way one can look truly presentable. Through the years, I would often question whether dress sneakers could be a suitable alternative. Ha, forget it pal. As a student of a British high school, I &#8230; Continue",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 16 Best Dress Sneakers for Men In 2026...",
-      "score": 2,
-      "published": "2026-09-15T08:20:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "814fa14009f3",
-      "title": "8 Best Colognes For Older Men That Cater To Any Age in 2026",
-      "link": "https://www.fashionbeans.com/article/best-colognes-for-older-men/",
-      "summary": "FYI After our latest round of research, we’ve enhanced this guide with a new comparison table to make finding the perfect cologne easier for readers. This table includes everything from scent notes to seasonal recommendations, helping you zero in on the ideal choice. We also revisited our product lineup, confirming tha",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 8 Best Colognes For Older Men That Cater To Any Age in 2026...",
-      "score": 1,
-      "published": "2026-09-15T07:58:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2993,52 +3007,52 @@
   ],
   "trends": [
     {
-      "term": "zim vs aus",
+      "term": "you me against the world",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कैबिनेट",
+      "term": "su 57 india",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వధువు",
+      "term": "दिल्ली परिवहन निगम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "openai",
+      "term": "ജി. സുകുമാരന് നായര്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi index",
+      "term": "ജയില്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एकनाथ शिंदे",
+      "term": "re exam result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "western australia vs south australia",
+      "term": "వ్యాపారం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ജ്യോതിക",
+      "term": "రైతు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অভিনয়শিল্পী",
+      "term": "సల్మాన్ ఖాన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వివాహం",
+      "term": "उमर खालिद",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
