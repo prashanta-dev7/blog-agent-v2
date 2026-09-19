@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-09-19T09:12:47.593186+00:00",
+  "generated_at": "2026-09-19T14:12:05.524890+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 182,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "6c670d405691",
+      "title": "Pauline Dujancourt Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/pauline-dujancourt",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Pauline Dujancourt Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-19T14:10:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5bc23edff56c",
+      "title": "Ahluwalia Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ahluwalia-studio",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ahluwalia Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-19T14:10:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "700b1daf1088",
+      "title": "Patrick McDowell Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/patrick-mcdowell",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Patrick McDowell Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-19T14:10:09+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "e0f6cb14732d",
       "title": "Sharon Wauchob Spring 2027 Ready-to-Wear",
@@ -19,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sharon Wauchob Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Paolo Carzana Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mowalola Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hope For Flowers Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Natasha Zinko Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Masha Popova Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: A Letter Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +159,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Aaron Esh Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +173,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kozaburo Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,7 +187,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rentrayage Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,7 +201,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Joseph Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -173,35 +215,203 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Commission Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T14:10:09+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9f5f6de93f22",
-      "title": "Jason Wu Collection Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jason-wu",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "d2151ac1ea97",
+      "title": "ICYMI: CFDA CEO Steven Kolb Gets Physical With PETA Activists, Bob Mackie Dies at 87 &amp; Fashionista's Spring 2027 NYFW Coverage",
+      "link": "https://fashionista.com/2026/09/fashion-news-you-need-to-know-september-19",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-09-19T09:09:05+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ICYMI: CFDA CEO Steven Kolb Gets Physical With PETA Activists, Bob Mac...",
+      "score": 1,
+      "published": "2026-09-19T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "222bd8f2d533",
-      "title": "Fashion East Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/fashion-east",
-      "summary": "",
+      "id": "422adb97dbd2",
+      "title": "Row Over Hamid Ansari Invoking Jawaharlal Nehru's Warning on Right-Wing Communalism",
+      "link": "https://www.indiatoday.in/india/video/row-over-hamid-ansari-invoking-jawaharlal-nehrus-warning-on-right-wing-communalism-ytvd-2998374-2026-09-19?utm_source=rss",
+      "summary": "Row Over Hamid Ansari Invoking Jawaharlal Nehru's Warning on Right-Wing Communalism",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Row Over Hamid Ansari Invoking Jawaharlal Nehru's Warning on Right-Win...",
+      "score": 1,
+      "published": "2026-09-19T11:37:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "258fc848e118",
+      "title": "Turmeric’s Unexpected Benefits",
+      "link": "https://www.vogue.com/article/turmeric-benefits",
+      "summary": "Turmeric is proving to be more than a kitchen staple, with growing evidence highlighting its remarkable health benefits",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion East Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Turmeric’s Unexpected Benefits...",
+      "score": 0,
+      "published": "2026-09-19T11:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "abd813da20c3",
+      "title": "Quarter-Zips Are Redefining the Fall 2026 Sweater",
+      "link": "https://in.apparelresources.com/fashion-news/trends/quarter-zips-redefining-fall-2026-sweater/",
+      "summary": "Quarter-zip sweaters are moving beyond their long-standing association with golf, corporate wardrobes and performance wear to emerge as a notable knitwear silhouette for Fall 2026. Once primarily functional, the zip-neck sweater is being reworked through softer knits, relaxed proportions, richer colours and more fashio",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Quarter-Zips Are Redefining the Fall 2026 Sweater...",
+      "score": 1,
+      "published": "2026-09-19T11:29:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a9b1cf396476",
+      "title": "Contrast Takes Centre Stage As Colour Blocking Enters The A/W 2026 Wardrobe",
+      "link": "https://in.apparelresources.com/fashion-news/trends/contrast-takes-centre-stage-colour-blocking-enters-w-2026-wardrobe/",
+      "summary": "The beige era is losing ground. Fall 2026 is a season of saturated colour, and colour blocking is the device carrying it. In India the technique is arriving less on the ready-to-wear ramp and more in couture, festive wear and the designer catalogues that dress the wedding season. At New York Fashion Week Fall/Winter 20",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Contrast Takes Centre Stage As Colour Blocking Enters The A/W 2026 War...",
+      "score": 8,
+      "published": "2026-09-19T11:23:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "83d2afbc0829",
+      "title": "Not a Blazer—This Jacket Trend Is Making Fall Outfits Look So Much Cooler",
+      "link": "https://www.whowhatwear.com/fashion/trends/best-fitted-fall-jackets-2026",
+      "summary": "Discover the style inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-19T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "54fe7aa055b1",
+      "title": "Experts Agree–These Are the Fall Beauty Trends to Try If You Want to Stay Ahead of the Curve",
+      "link": "https://www.whowhatwear.com/beauty/fall-2026-beauty-trends",
+      "summary": "Inspired by fine art and runway moments.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-19T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8abb39960636",
+      "title": "Kim Kardashian’s Take on Neutrals Is as Kim Kardashian as You Would Expect",
+      "link": "https://www.vogue.com/article/kim-kardashian-neutrals-nude-dressing",
+      "summary": "Out and about in London, hanging with boyfriend Lewis Hamilton and attending her Skims store party, Kim Kardashian opted for shimmering, skin-tight nudes.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Kim Kardashian’s Take on Neutrals Is as Kim Kardashian as You Would Ex...",
+      "score": 0,
+      "published": "2026-09-19T10:52:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6b2781c1d222",
+      "title": "Global Standards Launches GRTS Textile Processing Standard",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/global-standards-launches-grts-textile-processing-standard/",
+      "summary": "Global Standards has launched the Global Responsible Textile Standard (GRTS), a new textile processing standard covering products made from a wider range of plant, animal, synthetic, man-made cellulosic and recycled fibres. Developed from decades of experience with the Global Organic Textile Standard (GOTS), GRTS provi",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-09-19T10:49:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5fd7ad7042a5",
+      "title": "ABFRL Acquires Remaining Stake in Imperial Online Services",
+      "link": "https://in.apparelresources.com/business-news/retail/abfrl-acquires-remaining-stake-imperial-online-services/",
+      "summary": "Aditya Birla Fashion and Retail Limited (ABFRL) has acquired the remaining 15.62% stake in Imperial Online Services Private Limited, taking its ownership in the fashion and apparel company to 100%. The acquisition was completed through ABFRL’s wholly owned subsidiary, Aditya Birla Digital Fashion Ventures Limited (ABDF",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ABFRL Acquires Remaining Stake in Imperial Online Services...",
+      "score": 1,
+      "published": "2026-09-19T10:41:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9303f2127349",
+      "title": "Myntra Launches Italian Fashion Brand Sisley in India",
+      "link": "https://in.apparelresources.com/business-news/retail/myntra-launches-italian-fashion-brand-sisley-india/",
+      "summary": "Myntra has launched Italian fashion brand Sisley, part of the Benetton Group, on its platform as the brand expands its presence in the Indian market. The offering includes Sisley’s latest collection for men and women, featuring T-shirts, shirts, tops, knitwear, trousers, jeans, skirts, coats, blazers and jackets. The l",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 5,
+      "published": "2026-09-19T10:34:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6b505fa2621",
+      "title": "Suki Waterhouse Gives Her Hair a Disco Update",
+      "link": "https://www.vogue.com/article/suki-waterhouse-hair-tinsel-trend",
+      "summary": "Performing her track “Weirdo,” Suki Waterhouse tested out the hair tinsel trend from decades gone by.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Suki Waterhouse Gives Her Hair a Disco Update...",
+      "score": 1,
+      "published": "2026-09-19T10:29:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "51bf4dc57d41",
+      "title": "*This* Is How Fashion People Are Wearing Their Jackets for Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shrunken-jacket-trend-fall-2026",
+      "summary": "Buh-bye, oversize silhouettes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-09-19T09:09:05+00:00",
+      "published": "2026-09-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "61e00ca3d97d",
+      "title": "72 Hours in New York During Fashion Week",
+      "link": "https://www.whowhatwear.com/living/travel/new-york-fashion-week-spring-summer-2027-travel-diary-eliza-huber",
+      "summary": "Home base? The Edition hotels.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 72 Hours in New York During Fashion Week...",
+      "score": 1,
+      "published": "2026-09-19T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -597,34 +807,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b4f2b504d738",
-      "title": "Ahead of Their Wedding, Dove Cameron and Damiano David Open Up About Love, and Life Away From the Spotlight",
-      "link": "https://www.vogue.com/article/ahead-of-their-wedding-dove-cameron-and-damiano-david-open-up-about-love-interview",
-      "summary": "The couple have been busy exploring David’s home city of Rome.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Ahead of Their Wedding, Dove Cameron and Damiano David Open Up About Love, and Life Away From the Spotlight — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-09-18T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-09-18T16:43:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b006604d3769",
       "title": "How to Style the Lace-Trim Trend for Fall",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73572685/how-to-style-lace-trim-trend/",
@@ -650,34 +832,6 @@
       "angle": "Fashion Intelligence: Here Are Our Editors' Favorite Spots From New York Fashion Week...",
       "score": 3,
       "published": "2026-09-18T16:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eac4c2fe00c6",
-      "title": "Sienna Miller’s Daughter Marlowe Sturridge Borrows Her Best Noughties Accessory",
-      "link": "https://www.vogue.com/article/sienna-miller-daughter-marlowe-sturridge-borrows-her-best-noughties-accessory",
-      "summary": "Sienna’s teenage daughter Marlowe joined her on the red carpet, toting a classic boho accessory that might have come straight from her mom’s wardrobe.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Sienna Miller’s Daughter Marlowe Sturridge Borrows Her Best Noughties ...",
-      "score": 1,
-      "published": "2026-09-18T16:18:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e10c1d81d052",
-      "title": "Glenn Martens Is Leaving Diesel",
-      "link": "https://www.vogue.com/article/glenn-martens-is-leaving-diesel",
-      "summary": "After six years at the Italian denim brand, next week’s Diesel show in Milan will be his last.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Glenn Martens Is Leaving Diesel...",
-      "score": 2,
-      "published": "2026-09-18T16:02:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -888,6 +1042,20 @@
       "angle": "Fashion Intelligence: 18 Best Black Sneakers For Men To Wear In 2026...",
       "score": 1,
       "published": "2026-09-18T13:00:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "412036801c14",
+      "title": "The Fashion Conversation Finally Moves Beyond ‘Good Taste’",
+      "link": "https://www.harpersbazaar.com/fashion/a73777864/new-york-fashion-week-spring-summer-2026-review/",
+      "summary": "At New York Fashion Week, grit and glamour converged in a singular, only-in-New-York style",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Fashion Conversation Finally Moves Beyond ‘Good Taste’...",
+      "score": 2,
+      "published": "2026-09-18T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1196,6 +1364,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-09-18T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9ca8b583d757",
+      "title": "Dress Code: Drift",
+      "link": "https://www.fashionbeans.com/article/drift/",
+      "summary": "",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dress Code: Drift...",
+      "score": 1,
+      "published": "2026-09-18T03:06:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1521,20 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a3c758e91fe2",
-      "title": "10 Chic Fall Accessories Trends Fashion People Are Stocking Up On",
-      "link": "https://www.whowhatwear.com/fashion/trends/accessory-trends-fall-2026",
-      "summary": "These will be everywhere.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-17T14:54:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ba1ad715e3ef",
       "title": "Phoebe Dynevor Is Married! Here’s Everything We Know About the Secret Provençal Ceremony",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73773137/phoebe-dynevor-cameron-fuller-married-wedding-details-photos-guests-dress/",
@@ -1577,20 +1745,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6788149b4197",
-      "title": "Live From London Fashion Week: Everything You Need to Know About the Shows, Trends and Celebrity Moments of S/S '27",
-      "link": "https://www.whowhatwear.com/fashion/live/london-fashion-week-spring-summer-2027",
-      "summary": "All in one place.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-09-17T13:08:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "240536fdf0ef",
       "title": "Taryn Simon’s Epic Ambition",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a73667853/taryn-simon-guggenheim-exhibition-interview-2026/",
@@ -1630,20 +1784,6 @@
       "angle": "Fashion Intelligence: Adidas Confirms Layoffs at India Tech Hub, Around 20% Employees Affect...",
       "score": 1,
       "published": "2026-09-17T12:57:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0870f9421f75",
-      "title": "BIS to Modernise 21 Cotton Fibre Testing Labs Across India",
-      "link": "https://in.apparelresources.com/business-news/trade-business-news/bis-modernise-21-cotton-fibre-testing-labs-across-india/",
-      "summary": "The Bureau of Indian Standards (BIS) has launched a Rs 38.72-crore project to modernise and upgrade 21 cotton fibre testing laboratories across major cotton-producing states in India. BIS is providing direct financial support to establish high-precision testing facilities in critical regional nodes, according to an off",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: BIS to Modernise 21 Cotton Fibre Testing Labs Across India...",
-      "score": 1,
-      "published": "2026-09-17T12:44:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1731,20 +1871,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "693bb1a59b3a",
-      "title": "If You Know, You Know—These 6 Fragrance Trends Are Already Defining Fall 2026",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/fall-perfume-trends-2026",
-      "summary": "Cosigned by expert perfumers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-17T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a5f9dbb256ed",
       "title": "15 Best Minimalist Watches For Men in 2026",
       "link": "https://www.fashionbeans.com/article/best-minimalist-watches/",
@@ -1784,34 +1910,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-09-17T09:00:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ca50d3d5bd98",
-      "title": "Military-Inspired Pieces Anchor the AW26 Trend Conversation",
-      "link": "https://in.apparelresources.com/fashion-news/trends/military-inspired-pieces-anchor-aw26-trend-conversation/",
-      "summary": "Utilitarian detailing is having its most refined moment yet on fall runways. At Khaite, Catherine Holstein sent military jackets in leather and wool down the runway with corded, ropey trims, while Ann Demeulemeester&#8217;s Stefano Gallici followed a Spring/Summer showing of military jackets with an even heavier Fall/W",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-17T07:49:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ba8a5c4f2834",
-      "title": "’90s Office Minimalism Anchors the AW26 Trend Conversation",
-      "link": "https://in.apparelresources.com/fashion-news/trends/90s-office-minimalism-anchors-aw26-trend-conversation/",
-      "summary": "Fall 2026 runways have converged unusually decisively on late-&#8217;90s minimalism. Calvin Klein, Miu Miu, Celine, Toteme and Ashlyn all showed black column dresses, pencil skirts and restrained tailoring, a shift trade outlets read as a deliberate break from the early-2000s references of recent seasons. At Calvin Kle",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 5,
-      "published": "2026-09-17T07:45:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2011,20 +2109,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0b2dd6811c46",
-      "title": "Lena Dunham Has Welcomed Her First Child",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71856219/lena-dunham-welcomes-first-child-daughter-details/",
-      "summary": "The Girls star is a girl mom! Here’s everything to know",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Lena Dunham Has Welcomed Her First Child...",
-      "score": 0,
-      "published": "2026-09-16T14:17:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "50158b4251c1",
       "title": "Barefoot Trend or Shoe Mishaps? At New York Fashion Week, It's a Bit of Both",
       "link": "https://fashionista.com/2026/09/nyfw-spring-2027-trend-accidental-barefoot",
@@ -2050,34 +2134,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-16T12:26:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "abfbd4a7f73d",
-      "title": "The Raglan Overcoat, Fall/Winter’s Coat That MakesThe Whole Outfit",
-      "link": "https://in.apparelresources.com/fashion-news/trends/raglan-overcoat-fall-winters-coat-makesthe-whole-outfit/",
-      "summary": "There are coats that complete an outfit, and there are coats that are the outfit. A long raglan overcoat falls firmly into the latter camp. Unlike a traditionally tailored coat with a structured shoulder, a raglan sleeve extends in one piece to the collar, creating a softer, more rounded silhouette, go roomy and knee-l",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Raglan Overcoat, Fall/Winter’s Coat That MakesThe Whole Outfit...",
-      "score": 2,
-      "published": "2026-09-16T12:16:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "37d9a24a2d48",
-      "title": "Chocolate is The Neutral Menswear Didn’t Know It Needed",
-      "link": "https://in.apparelresources.com/fashion-news/trends/chocolate-neutral-menswear-didnt-know-needed/",
-      "summary": "If there&#8217;s one colour to invest in this autumn/winter, make it brown, specifically, the deep, matte richness of chocolate. The shade has been building momentum across several seasons, and for A/W26 it has moved from accent to essential: Pantone, confirmed by WGSN/Coloro, has named chocolate brown &#8220;Toffee&#8",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Chocolate is The Neutral Menswear Didn’t Know It Needed...",
-      "score": 3,
-      "published": "2026-09-16T12:12:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2543,20 +2599,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "677a144ab6e4",
-      "title": "At Tibi's Spring 2027 Show, Dolly Parton's Spirit Lives On",
-      "link": "https://fashionista.com/2026/09/tibi-spring-2027-review",
-      "summary": "Minus the rhinestones.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: At Tibi's Spring 2027 Show, Dolly Parton's Spirit Lives On...",
-      "score": 1,
-      "published": "2026-09-13T02:07:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e08665fd231d",
       "title": "Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United",
       "link": "https://blog.kalkifashion.com/shivika-and-mihirs-sydney-love-story-a-bangkok-wedding-two-cultures-united/",
@@ -2781,6 +2823,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a9ecd33cabb4",
+      "title": "From Bhog Lunch to Dhunuchi Night: 14 Trending Durga Pujo Looks for Canada",
+      "link": "https://www.azafashions.com/blog/durga-puja-outfits-canada-occasion-guide/?utm_source=rss&utm_medium=rss&utm_campaign=durga-puja-outfits-canada-occasion-guide",
+      "summary": "Durga Puja goes beyond&#160;just four days on the calendar. It is the rhythm&#160;of dhaak from the next lane, the smell of dhunuchi, endless rounds of adda, the delicious bhog khichdi,&#8230; The post From Bhog Lunch to Dhunuchi Night: 14 Trending Durga Pujo Looks for Canada appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-19T09:40:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "216fda0a967a",
       "title": "Fawncore Is the Softest Fashion Trend Taking Over This Season",
       "link": "https://www.azafashions.com/blog/fawncore-fashion-trend/?utm_source=rss&utm_medium=rss&utm_campaign=fawncore-fashion-trend",
@@ -2905,70 +2961,56 @@
       "score": 2,
       "published": "2026-09-16T13:57:12+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "b561c3da5b27",
-      "title": "Contemporary Sarees to Wear for Durga Puja in London",
-      "link": "https://www.azafashions.com/blog/contemporary-sarees-durga-puja-london/?utm_source=rss&utm_medium=rss&utm_campaign=contemporary-sarees-durga-puja-london",
-      "summary": "Durga Puja in London has grown into one of the diaspora's most anticipated events of the year. Community pandals spring up across boroughs from Camden to Redbridge, drawing thousands of&#8230; The post Contemporary Sarees to Wear for Durga Puja in London appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Contemporary Sarees to Wear for Durga Puja in London...",
-      "score": 2,
-      "published": "2026-09-16T09:59:59+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "netflix",
+      "term": "zakir khan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mitb",
+      "term": "tottenham",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "saudi arabia",
+      "term": "deepika padukone",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "horror movies",
+      "term": "jio",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nikki bella",
+      "term": "cat",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "app",
+      "term": "book",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "movies",
+      "term": "song hindi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "zee5",
+      "term": "truecaller",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cars",
+      "term": "adhar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aaj tak live",
+      "term": "paul skenes",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
