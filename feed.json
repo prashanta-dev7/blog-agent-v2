@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:23:57.534436+00:00",
+  "generated_at": "2026-09-20T09:37:15.099215+00:00",
   "owned_count": 10,
   "competitor_count": 16,
   "industry_count": 188,
@@ -8,6 +8,20 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "9ac6a8508dee",
+      "title": "Simone Rocha Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/simone-rocha",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Simone Rocha Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-20T09:36:50+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "bcc39edff512",
       "title": "Steve O Smith Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Steve O Smith Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Chopova Lowena Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Yuhan Wang Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Richard Quinn Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Talia Byre Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Knwls Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Toga Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Pauline Dujancourt Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ahluwalia Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,7 +159,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Patrick McDowell Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,7 +173,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sharon Wauchob Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -173,7 +187,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Paolo Carzana Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -187,7 +201,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mowalola Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -201,21 +215,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hope For Flowers Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:36:50+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "d87fb4cfca5c",
-      "title": "Natasha Zinko Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/natasha-zinko",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "c23fe511d320",
+      "title": "M&S Just Joined the London Fashion Week Line-Up—Here's Everything You Need to Know About Their Debut",
+      "link": "https://www.whowhatwear.com/fashion/runway/marks-spencer-autumn-winter-26-review",
+      "summary": "A welcome addition.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Natasha Zinko Spring 2027 Ready-to-Wear...",
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
-      "published": "2026-09-20T07:21:07+00:00",
+      "published": "2026-09-20T09:30:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "84e9054a10ce",
+      "title": "Kodagu Man Found Dead Inside Luxury Car in Bengaluru's Koramangala, Police Probe Underway",
+      "link": "https://www.indiatoday.in/india/video/kodagu-man-found-dead-inside-luxury-car-in-bengalurus-koramangala-police-probe-underway-ytvd-2998806-2026-09-20?utm_source=rss",
+      "summary": "Kodagu Man Found Dead Inside Luxury Car in Bengaluru's Koramangala, Police Probe Underway",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Kodagu Man Found Dead Inside Luxury Car in Bengaluru's Koramangala, Po...",
+      "score": 1,
+      "published": "2026-09-20T09:23:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -230,6 +258,20 @@
       "angle": "Fashion Intelligence: Delhi Hit-and-Run: 3 Killed, 3 Injured as Dumper Rams Crane and Ricksh...",
       "score": 1,
       "published": "2026-09-20T07:07:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2d001922a2db",
+      "title": "From Skater Boy Staples to The Hot New Hue—8 Autumn 2026 Trends That Are Already It-Girl Approved",
+      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-autumn-trends-2026",
+      "summary": "The autumn mood board is complete.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-20T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -256,20 +298,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Out of all of the Elegant Boot Styles for Autumn, These 5 Pairs Look B...",
-      "score": 1,
-      "published": "2026-09-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2d001922a2db",
-      "title": "From Skater Boy Staples to The Hot New Hue—8 Autumn 2026 Trends That Are Already It-Girl Approved",
-      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-autumn-trends-2026",
-      "summary": "The autumn mood board is complete.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-09-20T07:00:00+00:00",
       "discovered_via": "feed"
@@ -356,20 +384,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 3,
       "published": "2026-09-20T04:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db9861113bc7",
-      "title": "Hyderabad Hit-And-Run: Speeding Vehicle Hits 3-Year-Old Boy, Police Launch Search",
-      "link": "https://www.indiatoday.in/india/video/hyderabad-hit-and-run-speeding-vehicle-hits-3-year-old-boy-police-launch-search-ytvd-2998674-2026-09-20?utm_source=rss",
-      "summary": "Hyderabad Hit-And-Run: Speeding Vehicle Hits 3-Year-Old Boy, Police Launch Search",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-20T04:22:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1297,6 +1311,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "938e5d0a3d07",
+      "title": "17 Best Microbrand Watches in 2026",
+      "link": "https://www.fashionbeans.com/article/best-microbrand-watches/",
+      "summary": "The microbrand watch scene is as exciting, turbulent, and novel as its ever been. But this brings breadth between the best microbrand watches and the worst microbrand watches. So, without pointing out the obvious, you are reading this article. That means you’re at least considering eschewing traditional luxury watches ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 17 Best Microbrand Watches in 2026...",
+      "score": 3,
+      "published": "2026-09-18T13:11:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f7b29cfcadc3",
       "title": "18 Best Black Sneakers For Men To Wear In 2026",
       "link": "https://www.fashionbeans.com/article/black-sneakers/",
@@ -1322,6 +1350,20 @@
       "angle": "Fashion Intelligence: The Fashion Conversation Finally Moves Beyond ‘Good Taste’...",
       "score": 2,
       "published": "2026-09-18T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e98cfec886bc",
+      "title": "The Best Duffle Coats For Men – Top Brands In 2026",
+      "link": "https://www.fashionbeans.com/article/best-duffle-coats-men/",
+      "summary": "Well over a century old and practically lined with menswear heritage, the duffle coat is fashion at its most historic and most practical. Forget Paddington Bear (who admittedly wore it well). The duffle is synonymous with sailors and protesting students and, this year, it&#8217;s the coat that designers are returning t",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Duffle Coats For Men – Top Brands In 2026...",
+      "score": 5,
+      "published": "2026-09-18T12:51:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1518,6 +1560,20 @@
       "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
       "score": 1,
       "published": "2026-09-18T09:00:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a72e30125e79",
+      "title": "6 Key Men’s Swimwear Trends For Spring/Summer 2026",
+      "link": "https://www.fashionbeans.com/article/mens-swimwear-trends/",
+      "summary": "Mastering fashion trends in everyday clothes can be difficult enough, but when you consider that it’s just one square foot of fabric covering your modesty, swimwear has to say more about you per inch than any other garment. To make matters worse, upgrading your trunks from duty-free afterthought to a first-class fit is",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-18T09:00:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2249,62 +2305,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "702c8705830e",
-      "title": "Military Style Tips All Men Should Know",
-      "link": "https://www.fashionbeans.com/article/military-style-lessons/",
-      "summary": "War, huh, yeah. What&#8217;s it been good for? Absolutely nothing. Apart from, perhaps, shaping practically everything hanging in the male wardrobe today. The 20th century’s conflicts may have been entirely undesirable, but it’s possible that without them, men would still be trapped in a sartorial straitjacket. Crew ne",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Military Style Tips All Men Should Know...",
-      "score": 1,
-      "published": "2026-09-16T10:23:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "260735fa0246",
-      "title": "Why Riviera Style Should Be Your Go-To Summer Look",
-      "link": "https://www.fashionbeans.com/article/riviera-style-guide/",
-      "summary": "Most holiday style guides stop at suggesting a few T-shirts, a pair of swim shorts and some sunglasses for your travels. And we get it, all three are essentials when hopping across borders. But what if you skipped arm day, have no desire to take a dip and actually enjoy forcibly squinting at the sun? &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Why Riviera Style Should Be Your Go-To Summer Look...",
-      "score": 1,
-      "published": "2026-09-16T10:21:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8bed7b400b37",
-      "title": "How To Wear Sandals With Everything Already In Your Wardrobe",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-sandals-men/",
-      "summary": "Sandals are enjoying a renaissance of late. Time was when you might only wear them on holiday or at the gym, but these days they are fair game in the city as much as on the sand. Open-toed footwear comes in many forms, so deciding how to wear sandals really depends on your personal style and &#8230; Continue reading Ho",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Sandals With Everything Already In Your Wardrobe...",
-      "score": 2,
-      "published": "2026-09-16T09:02:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "712356e6ceb5",
-      "title": "Cocktail Attire For Men: Dress Code Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/mens-cocktail-attire-dress-code/",
-      "summary": "How do you define cocktail attire? Like many of the puzzling dress codes that crop up on fancy invitations now and again, the barometers are not immediately clear – at least, that is, for men. This is one of the (very) few occasions in life when women have it easier. There&#8217;s even a book on &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-16T09:00:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "61a242d26738",
       "title": "Chanel Fall 2026 Has a Dream of Tweed",
       "link": "https://www.fashiongonerogue.com/story/chanel-fall-2026-campaign/",
@@ -3007,7 +3007,42 @@
   ],
   "trends": [
     {
+      "term": "fc bayern munich",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "gta vi",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "riyadh saudi arabia",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "svengoolie",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "luke reynolds",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "trump tariffs",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "clemson",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "oxford",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
@@ -3017,42 +3052,7 @@
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ed sheeran",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "फ्री फायर फ्री रिडीम कोड",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "calcutta football league",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "tiger cat",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "karunya lottery results",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "jimmy fallon",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "maharaja",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "asian games 2026 medal tally",
+      "term": "payal mehta",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
