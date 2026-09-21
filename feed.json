@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-21T07:35:04.169093+00:00",
+  "generated_at": "2026-09-21T10:25:32.441200+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 185,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "616d0e74bbbb",
+      "title": "Alessandra Rich Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alessandra-rich",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Alessandra Rich Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-21T10:24:57+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d9e7efcb836f",
       "title": "McQueen Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: McQueen Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Johanna Parv Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Emilia Wickstead Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Roksanda Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Charlie Constantinou Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mulberry Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Labrum London Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Blauer Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,49 +145,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Erdem Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:24:57+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "95c70ad0aad5",
-      "title": "Edeline Lee Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/edeline-lee",
-      "summary": "",
+      "id": "a24e686eff34",
+      "title": "Banana Republic’s New Arrivals Are Fall Wardrobe Perfection",
+      "link": "https://www.vogue.com/article/best-banana-republic-finds",
+      "summary": "Between its relaxed workwear and easy off-duty layers, the retailer’s latest drops feel just right for the weeks ahead.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Edeline Lee Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Banana Republic’s New Arrivals Are Fall Wardrobe Perfection...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "a459df3cdcff",
-      "title": "Yaku Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yaku",
-      "summary": "",
+      "id": "e9ea82de73ae",
+      "title": "30 Wedding Guest Sets and Suits That Are Perfectly Polished",
+      "link": "https://www.vogue.com/article/best-dressy-pant-suits-and-sets-for-wedding-guest",
+      "summary": "RSVP’d yes? Shop stylish wedding guest sets and suit separates for every kind of dress code and venue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 30 Wedding Guest Sets and Suits That Are Perfectly Polished — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-09-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5e19197f4e8d",
+      "title": "The 14 Best Airbnbs in Tokyo for an Authentic Japanese Experience",
+      "link": "https://www.vogue.com/article/best-airbnbs-tokyo",
+      "summary": "From traditional tea rooms and hinoki baths to private gardens and furnished balconies, the best Airbnbs in Tokyo offer a respite from city life.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Yaku Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: The 14 Best Airbnbs in Tokyo for an Authentic Japanese Experience...",
       "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "published": "2026-09-21T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9ac6a8508dee",
-      "title": "Simone Rocha Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/simone-rocha",
-      "summary": "",
+      "id": "23262aa5b203",
+      "title": "Vijay govt expands free bus scheme for Tamil Nadu women ahead of Oct 2 launch",
+      "link": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-free-bus-travel-women-vetri-payanam-october-2-launch-ptag-2999430-2026-09-21?utm_source=rss",
+      "summary": "Vijay govt expands free bus scheme for Tamil Nadu women ahead of Oct 2 launch",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-09-21T09:52:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "67aa0430a7bf",
+      "title": "It's Here: The #1 Trend Fashion People Will Wear With Jeans This Fall",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/evening-jacket-trend-jeans",
+      "summary": "Opulent.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-21T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ca824996ee3a",
+      "title": "How to Spend a Day Experiencing the Real Milan",
+      "link": "https://www.vogue.com/article/how-to-spend-a-day-experiencing-the-real-milan",
+      "summary": "A brief guide to some of Milan’s most timeless hidden gems, ahead of Vogue World 2026: Milano.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Simone Rocha Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-09-21T07:30:24+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Spend a Day Experiencing the Real Milan...",
+      "score": 0,
+      "published": "2026-09-21T07:48:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -191,48 +247,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "22aa96677a11",
-      "title": "Vande Mataram showdown in Karnataka Assembly as BJP MLAs sing full version",
-      "link": "https://www.indiatoday.in/india/karnataka/story/vande-mataram-karnataka-assembly-row-bjp-recites-full-song-after-two-stanza-playback-2999336-2026-09-21?utm_source=rss",
-      "summary": "Vande Mataram showdown in Karnataka Assembly as BJP MLAs sing full version",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Vande Mataram showdown in Karnataka Assembly as BJP MLAs sing full ver...",
-      "score": 1,
-      "published": "2026-09-21T07:08:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8c046be7c095",
-      "title": "Kya hua tera vada? Congress uses hit Bollywood song to target PM over inflation",
-      "link": "https://www.indiatoday.in/india/story/food-prices-inflation-congress-attacks-modi-government-over-rising-household-costs-ptag-2999258-2026-09-21?utm_source=rss",
-      "summary": "Kya hua tera vada? Congress uses hit Bollywood song to target PM over inflation",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Kya hua tera vada? Congress uses hit Bollywood song to target PM over ...",
-      "score": 1,
-      "published": "2026-09-21T07:07:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5dfc2c4a2af",
-      "title": "8 Easy-to-Replicate Looks From the Autumn/Winter Runways That Are An Elegant Minimalist's Dream",
-      "link": "https://www.whowhatwear.com/fashion/runway/minimalist-runway-looks-2026",
-      "summary": "Extroverts, look away now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Easy-to-Replicate Looks From the Autumn/Winter Runways That Are An E...",
-      "score": 1,
-      "published": "2026-09-21T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "afdaafdcaba1",
       "title": "Stylish Parisians Make Winter Dressing Look Easy—7 Chic Outfits We're Copying This Season",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/parisian-winter-outfits-2026",
@@ -247,17 +261,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "03edb4c6d938",
-      "title": "Hamid Ansari quotes Nehru on Hindu right-wing communalism, invites BJP fury",
-      "link": "https://www.indiatoday.in/india/story/hamid-ansari-jawaharlal-nehru-quote-triggers-bjp-row-over-hindu-right-wing-communalism-2999313-2026-09-21?utm_source=rss",
-      "summary": "Hamid Ansari quotes Nehru on Hindu right-wing communalism, invites BJP fury",
-      "source": "India Today Fashion",
+      "id": "a5dfc2c4a2af",
+      "title": "8 Easy-to-Replicate Looks From the Autumn/Winter Runways That Are An Elegant Minimalist's Dream",
+      "link": "https://www.whowhatwear.com/fashion/runway/minimalist-runway-looks-2026",
+      "summary": "Extroverts, look away now.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hamid Ansari quotes Nehru on Hindu right-wing communalism, invites BJP...",
+      "angle": "Fashion Intelligence: 8 Easy-to-Replicate Looks From the Autumn/Winter Runways That Are An E...",
       "score": 1,
-      "published": "2026-09-21T06:36:47+00:00",
+      "published": "2026-09-21T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -289,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b65fac4ed731",
-      "title": "Vogue World Milano: What Does Made in Italy Stand for Today?",
-      "link": "https://www.vogue.com/article/vogue-world-milano-what-does-made-in-italy-stand-for-today",
-      "summary": "Over the past two years, Made in Italy has been rocked by allegations of worker exploitation, an impending talent shortage and rising costs. But the history of craftsmanship and quality remains.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Vogue World Milano: What Does Made in Italy Stand for Today?...",
-      "score": 1,
-      "published": "2026-09-21T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "092219d8a180",
       "title": "Can Asics Make Walking Shoes Cool?",
       "link": "https://www.vogue.com/article/can-asics-make-walking-shoes-cool",
@@ -317,16 +317,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8386b447140c",
-      "title": "Made in Italy: Meet the Makers",
-      "link": "https://www.vogue.com/article/made-in-italy-meet-the-makers",
-      "summary": "Behind every Made in Italy product are artisans who have spent decades honing their craft. But artisanship isn’t limited to skills like embroidery or leatherwork; it’s in every step of the supply chain.",
+      "id": "b65fac4ed731",
+      "title": "Vogue World Milano: What Does Made in Italy Stand for Today?",
+      "link": "https://www.vogue.com/article/vogue-world-milano-what-does-made-in-italy-stand-for-today",
+      "summary": "Over the past two years, Made in Italy has been rocked by allegations of worker exploitation, an impending talent shortage and rising costs. But the history of craftsmanship and quality remains.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Made in Italy: Meet the Makers...",
-      "score": 2,
+      "angle": "Fashion Intelligence: Vogue World Milano: What Does Made in Italy Stand for Today?...",
+      "score": 1,
       "published": "2026-09-21T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -341,6 +341,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: ‘Rather Marvelous and Refreshing’: First Reactions to Christopher Kane...",
       "score": 0,
+      "published": "2026-09-21T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8386b447140c",
+      "title": "Made in Italy: Meet the Makers",
+      "link": "https://www.vogue.com/article/made-in-italy-meet-the-makers",
+      "summary": "Behind every Made in Italy product are artisans who have spent decades honing their craft. But artisanship isn’t limited to skills like embroidery or leatherwork; it’s in every step of the supply chain.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Made in Italy: Meet the Makers...",
+      "score": 2,
       "published": "2026-09-21T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -639,20 +653,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "162bc37c20cc",
-      "title": "The Healthiest Way to Drink Your Coffee, According to a Nutritionist",
-      "link": "https://www.vogue.com/article/healthiest-coffee",
-      "summary": "Coffee can spike cortisol, irritate your stomach and more—but it's also packed with antioxidants. So, is there the best way to drink it?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Healthiest Way to Drink Your Coffee, According to a Nutritionist...",
-      "score": 0,
-      "published": "2026-09-20T11:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "31f8ead2a6c6",
       "title": "The One-and-Done Fall Staple Fashion People Are Already Wearing on Repeat",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-long-sleeve-fall-dresses-2026",
@@ -664,20 +664,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-09-20T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "83b578b72789",
-      "title": "What to Pack for a Weekend Getaway, According to a Vogue Editor",
-      "link": "https://www.vogue.com/article/what-to-pack-for-a-weekend-getaway",
-      "summary": "Planning a weekend getaway? From cozy loungewear to easy layers, here's what to include in your duffel for a seamless trip.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Pack for a Weekend Getaway, According to a Vogue Editor...",
-      "score": 1,
-      "published": "2026-09-20T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -709,20 +695,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2d001922a2db",
-      "title": "From Skater Boy Staples to The Hot New Hue—8 Autumn 2026 Trends That Are Already It-Girl Approved",
-      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-autumn-trends-2026",
-      "summary": "The autumn mood board is complete.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fcc67dc413b7",
       "title": "I’m Never Wearing Jeans and Trainers to the Airport Again After Seeing Alexa Chung in These It Girl Basics",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/raglan-tshirt-gingham-skirt-black-ballet-flats-airport-outfit-alexa-chung-2026",
@@ -751,17 +723,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f3a9cbe45caa",
-      "title": "I Just Created 5 Autumn-Friendly Outfits Inspired By Iconic Celebrity Airport Looks",
-      "link": "https://www.whowhatwear.com/fashion/airport-style/autumn-airport-outfits-2026",
-      "summary": "Your airport style moodboard.",
+      "id": "2d001922a2db",
+      "title": "8 It-Girl Approved Autumn Trends You're About to See Everyone Wearing This Season",
+      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-autumn-trends-2026",
+      "summary": "The autumn mood board is complete.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
+      "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
-      "published": "2026-09-20T06:00:00+00:00",
+      "published": "2026-09-20T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -775,6 +747,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Confirmed: Professional Makeup Artists Swear By These Products for Mat...",
       "score": 1,
+      "published": "2026-09-20T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3a9cbe45caa",
+      "title": "I Just Created 5 Autumn-Friendly Outfits Inspired By Iconic Celebrity Airport Looks",
+      "link": "https://www.whowhatwear.com/fashion/airport-style/autumn-airport-outfits-2026",
+      "summary": "Your airport style moodboard.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-09-20T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1182,20 +1168,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 6,
       "published": "2026-09-19T05:26:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "54566a2876a8",
-      "title": "Barn Jackets Are Getting Replaced—Lili Reinhart Just Wore What’s Next",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/lili-reinhart-brown-jacket-flare-jeans-outfit",
-      "summary": "Currently trending.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-18T23:34:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "epfo",
+      "term": "stephen fleming",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "xiaomi 18 pro max",
+      "term": "lauren boebert",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cindy crawford",
+      "term": "tornado warning news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rbi",
+      "term": "sheikh ahmed bin rashid al maktoum",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "google ai",
+      "term": "gemini",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वीडियो",
+      "term": "email",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "caleb williams",
+      "term": "aaj ka tula rashifal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ss retail ipo gmp",
+      "term": "batman knightfall part 2",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "map",
+      "term": "sbi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "leo horoscope today",
+      "term": "giorgia meloni",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
