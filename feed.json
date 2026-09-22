@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T07:14:10.600550+00:00",
+  "generated_at": "2026-09-22T09:39:55.364195+00:00",
   "owned_count": 10,
-  "competitor_count": 17,
-  "industry_count": 182,
+  "competitor_count": 12,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Lela Rose Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T07:13:20+00:00",
+      "published": "2026-09-22T09:38:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Burberry Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T07:13:20+00:00",
+      "published": "2026-09-22T09:38:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Brooks Brothers Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T07:13:20+00:00",
+      "published": "2026-09-22T09:38:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Huishan Zhang Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T07:13:20+00:00",
+      "published": "2026-09-22T09:38:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bianca Saunders Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-22T07:13:20+00:00",
+      "published": "2026-09-22T09:38:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2cd2a55dcd7",
+      "title": "Do Fashion Brands Need a Clipping Strategy?",
+      "link": "https://www.vogue.com/article/do-fashion-brands-need-a-clipping-strategy",
+      "summary": "Chopping up long-form videos into short clips and spreading them far and wide across the internet has become a social media silver bullet for industries willing to partake.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Do Fashion Brands Need a Clipping Strategy?...",
+      "score": 2,
+      "published": "2026-09-22T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ca918213c649",
+      "title": "Moral policing can be done in decent, elegant fashion: Bihar Minister's shocker",
+      "link": "https://www.indiatoday.in/india/story/bihar-minister-shreyasi-singh-moral-policing-remark-jamui-harassment-case-row-3000194-2026-09-22?utm_source=rss",
+      "summary": "Moral policing can be done in decent, elegant fashion: Bihar Minister's shocker",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Moral policing can be done in decent, elegant fashion: Bihar Minister'...",
+      "score": 1,
+      "published": "2026-09-22T09:13:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -762,20 +790,6 @@
       "angle": "Fashion Intelligence: On Enters Football With Kylian Mbappé and Thierry Henry...",
       "score": 1,
       "published": "2026-09-21T13:26:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0688c9ed03f8",
-      "title": "Amal Clooney Brings Her Suiting and Summer Dresses to Malawi",
-      "link": "https://www.vogue.com/article/amal-clooney-malawi-clooney-foundation-for-justice",
-      "summary": "Proving once again that her style is as consistent and considered as her commitment to justice, Amal Clooney pairs impeccable tailoring with pops of color.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Amal Clooney Brings Her Suiting and Summer Dresses to Malawi...",
-      "score": 2,
-      "published": "2026-09-21T13:06:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2557,20 +2571,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a861615718fb",
-      "title": "How to Pick the Right Chaniya Choli for Navratri This Year",
-      "link": "https://www.indianclothstore.com/blog/how-to-choose-navratri-chaniya-choli-2026",
-      "summary": "Navratri 2026 runs from October 11 to October 20, and if you&#8217;ve ever tried shopping for a chaniya choli two weeks before the first garba night, you already know why that date matters. Good pieces sell out fast, and stitching takes time. We get the same three questions every year from customers planning their nine",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 0,
-      "published": "2026-09-21T11:38:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e08665fd231d",
       "title": "Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United",
       "link": "https://blog.kalkifashion.com/shivika-and-mihirs-sydney-love-story-a-bangkok-wedding-two-cultures-united/",
@@ -2711,20 +2711,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e82d5854a48a",
-      "title": "Ganesh Chaturthi Outfit Guide: What to Wear for Sthapana, Aarti and Visarjan",
-      "link": "https://www.indianclothstore.com/blog/ganesh-chaturthi-outfit-guide",
-      "summary": "Ganesh Chaturthi isn&#8217;t a single event. It&#8217;s a stretch of days that involves sitting through the idol installation, standing for aarti (sometimes twice a day), and eventually walking in a visarjan procession. Each of these calls for a slightly different outfit, and dressing the same way for all three often m",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Ganesh Chaturthi Outfit Guide: What to Wear for Sthapana, Aarti and Vi...",
-      "score": 3,
-      "published": "2026-08-21T08:51:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "915c5cf2e0c3",
       "title": "Trending Sharara Suits for Raksha Bandhan 2026",
       "link": "https://blog.kalkifashion.com/trending-sharara-suits-for-raksha-bandhan-2026/",
@@ -2736,34 +2722,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 5,
       "published": "2026-08-18T04:53:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a05c5d62e9cc",
-      "title": "What to Wear on Janmashtami: Outfit Ideas for Men and Women",
-      "link": "https://www.indianclothstore.com/blog/janmashtami-outfit-ideas",
-      "summary": "If you&#8217;re short on time, here&#8217;s the direct answer: our go-to Janmashtami outfit ideas are a yellow or peacock-blue dhoti kurta for men and a saree or lehenga in yellow and blue for women, both in breathable cotton or cotton-silk. That&#8217;s what to wear on Janmashtami if you want something that looks righ",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: What to Wear on Janmashtami: Outfit Ideas for Men and Women...",
-      "score": 6,
-      "published": "2026-08-17T09:00:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "75f6ee6d0efa",
-      "title": "Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Match",
-      "link": "https://www.indianclothstore.com/blog/saree-for-rakshabandhan-outfit-ideas",
-      "summary": "A good saree for rakshabandhan paired with a matching kurta for the brother is the easiest way to create a coordinated Raksha Bandhan look without shopping for separate color palettes. This guide covers saree picks, kurti options, salwar kameez styles, men&#8217;s kurta pajama pairings, and color combinations that phot",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Raksha Bandhan Outfit Ideas for Sisters and Brothers That Actually Mat...",
-      "score": 4,
-      "published": "2026-08-13T05:06:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2781,17 +2739,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9103f94dc229",
-      "title": "Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy",
-      "link": "https://www.indianclothstore.com/blog/punjabi-suit-design-guide-neck-styles-and-cuts",
-      "summary": "The right punjabi suit design starts with the neckline, since it decides both comfort and how the outfit sits on the shoulders. Round necks, boat necks, and keyhole cuts are the three most requested styles at Indian Cloth Store, each suited to a different body type and occasion. Knowing which cut works before placing a",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Punjabi Suit Design Guide: Neck Styles and Cuts to Know Before You Buy...",
-      "score": 3,
-      "published": "2026-07-28T05:32:48+00:00",
+      "id": "132063d19501",
+      "title": "Captivating Earring Trends Dominating this Festive Season",
+      "link": "https://www.azafashions.com/blog/earring-trends-festive-season/?utm_source=rss&utm_medium=rss&utm_campaign=earring-trends-festive-season",
+      "summary": "The festive season brings an excuse to indulge in rich textures, radiant hues, and exquisite artistry. While your choice of outfit sets the tone, your jewellery defines the final aesthetic,&#8230; The post Captivating Earring Trends Dominating this Festive Season appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 5,
+      "published": "2026-09-22T09:03:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2919,70 +2877,56 @@
       "score": 3,
       "published": "2026-09-17T13:51:56+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "1b3762321c55",
-      "title": "What to Wear for Navratri in Mauritius: A Garba Outfit Guide",
-      "link": "https://www.azafashions.com/blog/navratri-in-mauritius/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-in-mauritius",
-      "summary": "Nine nights of music, colour, and non-stop dancing. That's what Navratri looks like in Mauritius, where the island's Indian diaspora turns Garba and Dandiya nights into some of the most&#8230; The post What to Wear for Navratri in Mauritius: A Garba Outfit Guide appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-09-16T13:57:12+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "fancode",
+      "term": "chatgpt",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jev ai",
+      "term": "സ്വര്ണം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sonyliv",
+      "term": "సంజు శాంసన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricinfo",
+      "term": "ओडिशा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "email",
+      "term": "സൂര്യ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "moneycontrol",
+      "term": "ओप्पो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricbuzz",
+      "term": "తిరుమల",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "python",
+      "term": "రాశి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "icici direct",
+      "term": "राहुल गांधी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cat",
+      "term": "கூட்டுறவு வங்கி",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
