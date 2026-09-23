@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T07:15:24.198134+00:00",
+  "generated_at": "2026-09-23T09:45:34.336432+00:00",
   "owned_count": 10,
   "competitor_count": 17,
   "industry_count": 185,
@@ -8,6 +8,118 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "dca58821a3c0",
+      "title": "Jil Sander Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jil-sander",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jil Sander Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-23T09:43:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c27c08e005fa",
+      "title": "Luisa Beccaria Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/luisa-beccaria",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Luisa Beccaria Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-23T09:43:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b01d8eb14c9d",
+      "title": "Vogue World 2026: Milano: Watch the Livestream Here",
+      "link": "https://www.vogue.com/article/watch-the-vogue-world-2026-milan-livestream",
+      "summary": "Experience the magic of Vogue World 2026: Milano for yourself by rewatching the livestream video here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Vogue World 2026: Milano: Watch the Livestream Here...",
+      "score": 0,
+      "published": "2026-09-23T09:21:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "33aabfed2321",
+      "title": "Vogue World: Milano: Everything You Need to Know About the 2026 Event",
+      "link": "https://www.vogue.com/article/everything-you-need-to-know-about-vogue-world-milano",
+      "summary": "Vogue World’s goal in Milan? To celebrate Made in Italy, craftsmanship, and, above all, the human side of fashion. Here’s what went down at the 2026 event.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Vogue World: Milano: Everything You Need to Know About the 2026 Event...",
+      "score": 2,
+      "published": "2026-09-23T09:02:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1ed48b9e133d",
+      "title": "Differences normal, dissent report shows only part of picture: ECI amid SIR row",
+      "link": "https://www.indiatoday.in/india/story/election-commission-says-report-on-dissent-presents-only-one-part-of-picture-calls-differences-natural-3000999-2026-09-23?utm_source=rss",
+      "summary": "Differences normal, dissent report shows only part of picture: ECI amid SIR row",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Differences normal, dissent report shows only part of picture: ECI ami...",
+      "score": 1,
+      "published": "2026-09-23T08:43:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a5f508a24a5f",
+      "title": "Taylor Swift's VMAs Red Carpet Evolution, Explained by a Fashion Editor",
+      "link": "https://www.whowhatwear.com/fashion/red-carpet/taylor-swift-vmas-red-carpet-fashion-retrospective",
+      "summary": "Revisit every single outfit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-23T08:35:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a9925f1179be",
+      "title": "The VMAs Naked Dresses Everyone *Still* Talks About",
+      "link": "https://www.whowhatwear.com/fashion/red-carpet/vmas-best-naked-dresses-of-all-time",
+      "summary": "Worn by Megan Fox, Taylor Swift, Miley Cyrus, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The VMAs Naked Dresses Everyone *Still* Talks About...",
+      "score": 1,
+      "published": "2026-09-23T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb77cca2ab61",
+      "title": "Not Boring: The Statement Denim Trend Fashion People Are Wearing With Their Sweaters This Fall",
+      "link": "https://www.whowhatwear.com/fashion/trends/statement-jeans-fall-2026",
+      "summary": "Compliment-worthy pairs.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-09-23T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "0ae04ae6ca4d",
       "title": "Zara is An Expert in Expensive-Looking Autumn Colour Trends—6 Shades That Are Going to Sell Fast",
@@ -23,17 +135,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0a7168c07361",
-      "title": "EC Denies Internal Rift Over SIR, Opposition Attacks CEC, Mass Voter Deletion Row Sparks Showdown",
-      "link": "https://www.indiatoday.in/india/video/ec-denies-internal-rift-over-sir-opposition-attacks-cec-mass-voter-deletion-row-sparks-showdown-ytvd-3000906-2026-09-23?utm_source=rss",
-      "summary": "EC Denies Internal Rift Over SIR, Opposition Attacks CEC, Mass Voter Deletion Row Sparks Showdown",
-      "source": "India Today Fashion",
+      "id": "3cf9758011a4",
+      "title": "I’ve Just Spent the Last 5 Days at London Fashion Week—These Are the Street Style Trends I Noticed",
+      "link": "https://www.whowhatwear.com/fashion/street-style/london-fashion-week-street-style-trends-september-2026",
+      "summary": "Spotted.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: EC Denies Internal Rift Over SIR, Opposition Attacks CEC, Mass Voter D...",
-      "score": 1,
-      "published": "2026-09-23T07:00:21+00:00",
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-23T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,20 +159,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-09-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3cf9758011a4",
-      "title": "I’ve Just Spent The Last 5 Days At London Fashion Week—These Are The Street Style Trends I Noticed",
-      "link": "https://www.whowhatwear.com/fashion/street-style/london-fashion-week-street-style-trends-september-2026",
-      "summary": "Spotted.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
       "published": "2026-09-23T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -639,34 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "902be211b46a",
-      "title": "Roberto Bolle Danced Through the Galleria in Custom Ferrari for Vogue World 2026: Milano",
-      "link": "https://www.vogue.com/article/roberto-bolle-ferrari-vogue-world-2026-milano",
-      "summary": "Dance and design married in epic fashion at Vogue World: Milan. Here’s the story behind Ferrari’s custom looks.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Roberto Bolle Danced Through the Galleria in Custom Ferrari for Vogue ...",
-      "score": 1,
-      "published": "2026-09-22T19:12:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d2dd41806ff4",
-      "title": "Aryna Sabalenka Aced Italian Glamour at Vogue World 2026: Milano",
-      "link": "https://www.vogue.com/article/aryna-sabalenka-aced-italian-glamour-at-vogue-world-milano-2026-09-22",
-      "summary": "Vogue World 2026: Milano was full of celebrity athletes swapping their competition gear (and athleisure) for couture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Aryna Sabalenka Aced Italian Glamour at Vogue World 2026: Milano...",
-      "score": 2,
-      "published": "2026-09-22T18:59:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b0d8ce1eabe1",
       "title": "Rosalía Wears This One Perfume During a Full Moon",
       "link": "https://www.harpersbazaar.com/beauty/health/a73837384/rosalia-calvin-klein-fragrance-interview-2026/",
@@ -681,20 +751,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0674d940a122",
-      "title": "Gigi Hadid Is a Renaissance Princess in Valentino Haute Couture at Vogue World 2026: Milano",
-      "link": "https://www.vogue.com/article/gigi-hadid-vogue-world-milan-valentino-haute-couture",
-      "summary": "The dress is crafted from recycled Venetian quilts, and took 1,680 hours to be completed by hand.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Gigi Hadid Is a Renaissance Princess in Valentino Haute Couture at Vog...",
-      "score": 3,
-      "published": "2026-09-22T18:56:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fca14a69bae5",
       "title": "Prada Is All About the Skirt",
       "link": "https://www.harpersbazaar.com/fashion/a73838497/prada-spring-2027-review-skirt-uniform/",
@@ -706,20 +762,6 @@
       "angle": "Fashion Intelligence: Prada Is All About the Skirt...",
       "score": 1,
       "published": "2026-09-22T18:52:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7402136db49e",
-      "title": "Jennifer Lopez Goes Italian Diva in Dolce & Gabbana at Vogue World 2026: Milano",
-      "link": "https://www.vogue.com/article/jennifer-lopez-wears-dolce-and-gabbana-vogue-world-2026-milano",
-      "summary": "Sorpresa! J.Lo made a surprise appearance at Vogue World in Milan, posing up a storm in a sequined tulle gown that spoke to the evening’s theme.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jennifer Lopez Goes Italian Diva in Dolce & Gabbana at Vogue World 202...",
-      "score": 1,
-      "published": "2026-09-22T18:49:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1658,48 +1700,6 @@
       "angle": "Fashion Intelligence: Hailey Bieber Unveils a Major Hair Change Just in Time for Fall...",
       "score": 0,
       "published": "2026-09-20T20:08:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "767ac1f0292c",
-      "title": "Buying Expensive Sunglasses Is Low-Key Out—Everyone Cool in NY Is Wearing This $191 Pair",
-      "link": "https://www.whowhatwear.com/fashion/street-style/ray-ban-wayfarer-sunglasses-trend-2026",
-      "summary": "Buying Expensive Sunglasses Is Low-Key Out—Everyone Cool in NY Is Wearing This $191 Pair",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-20T19:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "41bc625770c0",
-      "title": "If You Want Your Fall Outfits to Look Relevant, Start With These 42 Chic Buys",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fall-2026-shopping-editor",
-      "summary": "Cummerbunds! Jazz shoes! Royal purple!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: If You Want Your Fall Outfits to Look Relevant, Start With These 42 Ch...",
-      "score": 1,
-      "published": "2026-09-20T19:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3731d15237f7",
-      "title": "Christopher Kane's Mulberry Debut Gives the Heritage Brand a Sharp New Direction",
-      "link": "https://www.whowhatwear.com/fashion/runway/mulberry-spring-summer-27-review",
-      "summary": "Christopher Kane takes the reins.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-20T18:11:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "ദുബായ്",
+      "term": "অন্নপূর্ণা যোজনা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అంబిక",
+      "term": "rakesh bedi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गोविंदा",
+      "term": "ఆంధ్రప్రభ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "प्रधानमंत्री किसान सम्मान निधि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hero motors share price",
+      "term": "nigeria vs sierra leone",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇరాన్",
+      "term": "ராதா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "flash flood risk",
+      "term": "pib",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather kanpur",
+      "term": "सितंबर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nse listing date",
+      "term": "സാവിത്രി ശ്രീധരന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "আবহাওয়া",
+      "term": "तुकाराम मुंढे",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
