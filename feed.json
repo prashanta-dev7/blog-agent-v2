@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:06:41.135617+00:00",
+  "generated_at": "2026-09-24T09:43:56.385757+00:00",
   "owned_count": 10,
   "competitor_count": 12,
   "industry_count": 187,
@@ -8,6 +8,34 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "17f2284fae97",
+      "title": "Genny Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/genny",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Genny Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-24T09:40:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3938920d5b86",
+      "title": "Max Mara Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/max-mara",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Max Mara Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-24T09:40:15+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6bf4626e1566",
       "title": "Rosie Assoulin Spring 2027 Ready-to-Wear",
@@ -19,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rosie Assoulin Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-24T07:06:15+00:00",
+      "published": "2026-09-24T09:40:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Onitsuka Tiger Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-24T07:06:15+00:00",
+      "published": "2026-09-24T09:40:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Durazzi Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-24T07:06:15+00:00",
+      "published": "2026-09-24T09:40:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Venerdì Pomeriggio Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-24T07:06:15+00:00",
+      "published": "2026-09-24T09:40:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,35 +103,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Brunello Cucinelli Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-24T07:06:15+00:00",
+      "published": "2026-09-24T09:40:15+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "eaed59fa07a2",
-      "title": "Etro Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/etro",
-      "summary": "",
+      "id": "cecb64e6a1e3",
+      "title": "What Do the EU’s New Greenwashing Rules Mean for Fashion?",
+      "link": "https://www.vogue.com/article/what-do-the-eus-new-greenwashing-rules-mean-for-fashion",
+      "summary": "Starting this month, generic terms like ‘sustainable’ or ‘conscious’ will be prohibited, unless backed up by technical claims and certifications. It could change the way fashion talks to customers.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: What Do the EU’s New Greenwashing Rules Mean for Fashion?...",
+      "score": 2,
+      "published": "2026-09-24T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5275680839f3",
+      "title": "On the Podcast: Miuccia Prada and Raf Simons Give Their First Joint Podcast Interview",
+      "link": "https://www.vogue.com/article/on-the-podcast-exclusive-mrs-prada-and-raf-simons-first-joint-podcast-interview",
+      "summary": "For today’s episode of “The Run-Through,” presented by Prada, Chloe sat down with Mrs. Miuccia Prada and Raf Simons for their first-ever joint podcast interview. Together, they covered everything from the Prada show earlier this week to their respective design philosophies and favorite soups.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: On the Podcast: Miuccia Prada and Raf Simons Give Their First Joint Po...",
+      "score": 1,
+      "published": "2026-09-24T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7985279157a6",
+      "title": "Rihanna Wears Her Diva Best to See Céline Dion—Again",
+      "link": "https://www.vogue.com/article/rihanna-celine-dion-paris-again",
+      "summary": "The singer has been enjoying Paris to the fullest, and that means going to see Céline Dion’s historic residency twice, this time in an even more outré look.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Etro Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Rihanna Wears Her Diva Best to See Céline Dion—Again...",
       "score": 1,
-      "published": "2026-09-24T07:06:15+00:00",
+      "published": "2026-09-24T09:22:24+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9c7d90f84228",
-      "title": "MM6 Maison Margiela Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mm6-maison-martin-margiela",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "67256c39cb24",
+      "title": "Okay, Kinda Chic to Spend Under $150 on Fall's Biggest Trends",
+      "link": "https://www.whowhatwear.com/fashion/shopping/affordable-fall-trends-2026",
+      "summary": "Indigo-wash jeans, sumptuous satin, bold plaid, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-24T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a36776159ce",
+      "title": "Amal Clooney and Her 78-Year-Old Mom Twinned in Fall's Most Elegant Pant Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/amal-clooney-fall-pant-trend-outfit",
+      "summary": "Spot-on.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-24T08:50:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9d22f7c3a978",
+      "title": "Florence Pugh Traveled in the One Shoe Trend That'd Make Flight Attendants Squirm",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/florence-pugh-airport-shoes",
+      "summary": "Safety first.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-24T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f03deef8d697",
+      "title": "Too Cold for Summer Clothes, Too Warm for Winter—These Are the Transitional, Autumn Pieces I'm Wearing Right Now",
+      "link": "https://www.whowhatwear.com/blanca-miro-autumn-outfits",
+      "summary": "Expert advice.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: MM6 Maison Margiela Spring 2027 Ready-to-Wear...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-09-24T07:06:15+00:00",
+      "published": "2026-09-24T07:05:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -639,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c7359d61ce72",
-      "title": "5 NYFW Trends From the Spring Runways That Work for Brides, Too",
-      "link": "https://www.vogue.com/article/bridal-trends-for-spring-2027-from-nyfw",
-      "summary": "Craving some fresh bridal inspiration? We spotted a few stand-out looks at the NYFW Spring 2027 shows that are definitely wedding-worthy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 5 NYFW Trends From the Spring Runways That Work for Brides, Too — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-09-23T17:23:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b22136a514df",
       "title": "All the Stars Sitting Front Row at Milan Fashion Week’s Spring 2027 Shows",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73852032/every-celebrity-look-milan-fashion-week-spring-2027-shows-front-row-photos/",
@@ -720,34 +804,6 @@
       "angle": "Fashion Intelligence: The J.Crew Barn Jacket Turns 40...",
       "score": 1,
       "published": "2026-09-23T16:39:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7893a6d19911",
-      "title": "Inside the Making of Dame Pat McGrath’s Vogue World Milano Makeup Vision",
-      "link": "https://www.vogue.com/article/pat-mcgrath-beauty-interview-vogue-world-milan",
-      "summary": "Fashion’s favorite makeup artist builds a dream within a dream at Vogue World 2026: Milano.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Inside the Making of Dame Pat McGrath’s Vogue World Milano Makeup Visi...",
-      "score": 1,
-      "published": "2026-09-23T16:13:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "93a4579bd38d",
-      "title": "10 Best Night Creams to Wake Up With Glowing Skin",
-      "link": "https://www.vogue.com/article/best-night-creams",
-      "summary": "From Skinceuticals to L’Oréal, Medik8, and more, these are the best night creams recommended by dermatologists, estheticians, and Vogue editors.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 10 Best Night Creams to Wake Up With Glowing Skin...",
-      "score": 0,
-      "published": "2026-09-23T16:02:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1129,6 +1185,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "2c10540672ef",
+      "title": "A Clear Comparison of Levi’s 502, 511 and 512 Fits",
+      "link": "https://www.fashionbeans.com/article/levis-502-vs-511-vs-512/",
+      "summary": "Levi’s 502, 511 and 512 sit next to each other on the product grid, but they’re drafted for different bodies and different outcomes. The changes look subtle on a model shot, yet the underlying patterns tell a more precise story. The rise shifts, the top block opens or narrows, the taper angle changes, and the &#8230; C",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Clear Comparison of Levi’s 502, 511 and 512 Fits...",
+      "score": 1,
+      "published": "2026-09-23T07:29:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0ae04ae6ca4d",
       "title": "Zara is An Expert in Expensive-Looking Autumn Colour Trends—6 Shades That Are Going to Sell Fast",
       "link": "https://www.whowhatwear.com/fashion/affordable/zara-autumn-colour-trends-2026",
@@ -1140,6 +1210,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-09-23T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "22988e1fe2d8",
+      "title": "12 Types of Pants for Men – Different Trouser Styles 2026",
+      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
+      "summary": "Statement jackets and the latest sneakers are always going to be top of men&#8217;s lust lists, but don&#8217;t let high-wattage clobber blind you to the essentials. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
+      "score": 3,
+      "published": "2026-09-23T06:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1185,6 +1269,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5a786bff8dee",
+      "title": "The Oblong Face Shape: Your Ultimate Guide to Stylish Grooming",
+      "link": "https://www.fashionbeans.com/article/oblong-face-shapes/",
+      "summary": "Ever caught yourself squinting at the mirror, wondering why that trendy haircut makes your oblong face shape look more like a loaf of artisanal bread than a chiseled masterpiece? You&#8217;re not alone. Understanding your face shape isn&#8217;t just a vanity exercise—it&#8217;s the secret sauce to nailing your personal",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Oblong Face Shape: Your Ultimate Guide to Stylish Grooming...",
+      "score": 1,
+      "published": "2026-09-23T05:25:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b6fbb12ce8b",
+      "title": "The Oval Face Shape – Essential Style Tips for Men",
+      "link": "https://www.fashionbeans.com/article/oval-face-shapes/",
+      "summary": "Ever caught yourself staring in the mirror, wondering why that haircut that looked amazing on your friend just doesn&#8217;t quite work for you? Welcome to the world of face shapes, in which your oval face is the golden ticket to style versatility. Like a chameleon of facial structures, the oval face shape opens up ton",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Oval Face Shape – Essential Style Tips for Men...",
+      "score": 1,
+      "published": "2026-09-23T05:18:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "85f9d501b412",
       "title": "Elle Fanning Takes Coach Fall 2026 to Festival Season",
       "link": "https://www.fashiongonerogue.com/story/elle-fanning-coach-fall-2026-campaign/",
@@ -1210,6 +1322,20 @@
       "angle": "Fashion Intelligence: In Prada World, Pants Are Dead and Skirts Sit Atop the Throne...",
       "score": 2,
       "published": "2026-09-23T01:50:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3bfe26c694e6",
+      "title": "7 Best Bleu de Chanel Alternatives For Men That Won’t Break The Bank in 2026",
+      "link": "https://www.fashionbeans.com/article/bleu-de-chanel-alternatives/",
+      "summary": "FYI: What’s New in This Guide? We’re all about keeping things fresh—just like a great cologne. That’s why we’ve updated this guide with new insights, a helpful comparison chart, and a look at this year&#8217;s biggest fragrance trends. Here’s what’s changed: Dior Sauvage is still the best Bleu de Chanel alternative. It",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 7 Best Bleu de Chanel Alternatives For Men That Won’t Break The Bank i...",
+      "score": 1,
+      "published": "2026-09-23T01:19:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1801,34 +1927,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "af1b2c3eb374",
-      "title": "COS Just Quietly Dropped All of Autumn 2026’s Major Knitwear Trends—These 5 Will Sell Out First",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/cos-knitwear-trends-2026",
-      "summary": "It's time to get cosy",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-22T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4536b0f3ee65",
-      "title": "Move Over, \"Clean Girls\"—These Are the Enduring Icons Behind Every Great Autumn Fashion Trend",
-      "link": "https://www.whowhatwear.com/fashion/fall/autumn-style-icons",
-      "summary": "'Tis the season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-22T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8871cf54f11c",
       "title": "Building a Resume for Today’s Fashion Industry",
       "link": "https://www.fashiongonerogue.com/story/resume-fashion-industry/",
@@ -1843,20 +1941,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "029127c6dc4f",
-      "title": "Yes, Pedal Pushers Are Still In, But There's Really Only One Way It Girls Are Wearing Them",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pedal-pushers-with-slingbacks-outfit-selena-gomez",
-      "summary": "Take note for fall 2026.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-21T21:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e02666be0dd6",
       "title": "The Buzziest Movies That Premiered at TIFF 2026",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a73825576/toronto-international-film-festival-2026-best-movies/",
@@ -1868,20 +1952,6 @@
       "angle": "Fashion Intelligence: The Buzziest Movies That Premiered at TIFF 2026...",
       "score": 0,
       "published": "2026-09-21T20:46:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "27ce79630b94",
-      "title": "The Heel Trend French Girls Love Looks Much More NYC If You Wear It With These Two Items",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/ballet-pumps-outfit-zoe-kraviz",
-      "summary": "If anyone can prove my point, it's Zoë Kravitz.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-21T20:04:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2431,76 +2501,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a5f9dbb256ed",
-      "title": "15 Best Minimalist Watches For Men in 2026",
-      "link": "https://www.fashionbeans.com/article/best-minimalist-watches/",
-      "summary": "The best minimalist watches are a key accessory for any guy who prefers a pared-back existence. Understated, classy, and super easy to wear, they strip back all the unnecessary components and leave you with a fuss-free timepiece that’ll look just as good now as it will in many years to come. In order to find &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 15 Best Minimalist Watches For Men in 2026...",
-      "score": 2,
-      "published": "2026-09-17T10:38:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3856b92612dd",
-      "title": "The Best Hair Mousse for Men for Better Styling In 2026",
-      "link": "https://www.fashionbeans.com/article/best-hair-mousse/",
-      "summary": "The best hair mousse is an unsung hero of men’s hairstyles. It’s an easy-to-apply styling product that leaves your hair touchably smooth, while still giving it shape and volume, the best is that works with will all hair types. The best hair mousse for men will help you achieve that healthy shine that doesn’t look &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Hair Mousse for Men for Better Styling In 2026...",
-      "score": 1,
-      "published": "2026-09-17T09:00:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8b1fc056d378",
-      "title": "Casual Dress for Men – Outfits And Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/casual-dress-for-men/",
-      "summary": "It’s not difficult to look good in a suit. If you’ve got the money and an experienced tailor who knows what he or she is doing, then you can’t really fail. Simply hand over your cash, listen to their sartorial know-how, and allow them to stitch you something that’s made to flatter the contours of &#8230; Continue readi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-17T09:00:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "df6ffbcda5e6",
-      "title": "Rock Clothing: How Rock Stars Changed Fashion Forever",
-      "link": "https://www.fashionbeans.com/article/rock-clothing-guide/",
-      "summary": "It starts, like everything else, with Elvis Presley. Before the boy from Memphis first shimmied his way onstage, fashion and music were only connected in as much as artists had to wear something when they performed. After him, rock stars would be the biggest influence on what young people wore for the next half a &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Rock Clothing: How Rock Stars Changed Fashion Forever...",
-      "score": 2,
-      "published": "2026-09-17T07:00:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "be07f5ba80d2",
-      "title": "10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-baggy-jeans/",
-      "summary": "High on the list of garments we must once again reckon with, for better or worse, are baggy jeans. They’re back. They’ve been back. You know this, and you’re likely okay with this considering the fact that you clicked on a link about the 10 best men’s baggy jeans. Sure, we’re going to talk about &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026...",
-      "score": 1,
-      "published": "2026-09-17T06:47:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "31ac1e9c9ab9",
       "title": "These Are the Accessories That Got Us Through New York Fashion Week",
       "link": "https://fashionista.com/2026/09/shop-best-bags-shoes-coach-new-york-fashion-week",
@@ -2937,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "irdai",
+      "term": "why market is down today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "varmora granito ipo gmp",
+      "term": "hang seng index",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "marco jansen",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vr glasses",
+      "term": "lottery sambad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "asian games cricket",
+      "term": "mitchell starc",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "david miller",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hong kong vs malaysia",
+      "term": "சம்பளம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಅಮಿತ್ ಶಾ",
+      "term": "neet pg result 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nse share price",
+      "term": "west indies vs zimbabwe",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "२४ सितम्बर",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "వాతావరణం",
+      "term": "वेतन",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
