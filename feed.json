@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-09-25T07:03:58.813817+00:00",
+  "generated_at": "2026-09-25T10:00:53.100300+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 191,
+  "industry_count": 189,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "a3923837c0df",
+      "title": "Institution By Galib Gassanoff Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/institution-by-galib-gassanoff",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Institution By Galib Gassanoff Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-25T09:58:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c2c752640722",
+      "title": "Tod's Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tod-s",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Tod's Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-25T09:58:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8436a3cb9fb6",
+      "title": "La DoubleJ Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/la-doublej",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: La DoubleJ Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-25T09:58:54+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "20fea2de31c5",
       "title": "Brioni Spring 2027 Ready-to-Wear",
@@ -19,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Brioni Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-25T07:02:08+00:00",
+      "published": "2026-09-25T09:58:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Emporio Armani Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-25T07:02:08+00:00",
+      "published": "2026-09-25T09:58:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Greta Constantine Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-25T07:02:08+00:00",
+      "published": "2026-09-25T09:58:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Gabe Gordon Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-25T07:02:08+00:00",
+      "published": "2026-09-25T09:58:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,21 +117,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Alberta Ferretti Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-25T07:02:08+00:00",
+      "published": "2026-09-25T09:58:54+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6a38f992077f",
-      "title": "Roberto Cavalli Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/roberto-cavalli",
-      "summary": "",
+      "id": "57f9485d249c",
+      "title": "How Vaseline Became Fluent in Internet Speak",
+      "link": "https://www.vogue.com/article/how-vaseline-became-fluent-in-internet-speak",
+      "summary": "Two programs, Vaseline Verified and Vaseline Originals, have used viral product hacks and consumer ideas for innovation to turn the humble household product into a viral one.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Roberto Cavalli Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-09-25T07:02:08+00:00",
+      "angle": "Fashion Intelligence: How Vaseline Became Fluent in Internet Speak...",
+      "score": 0,
+      "published": "2026-09-25T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-25T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fae5c7c0ed1d",
+      "title": "Chic Women Can’t Stop Wearing This £35 Top to Fashion Week—So I Bought It in Three Colours",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cos-purple-clean-cut-tee",
+      "summary": "Royally cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-25T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a590c06a2bab",
+      "title": "Suddenly, All the Cool Fashion People Are Wearing This Rich-Looking Jacket Trend",
+      "link": "https://www.whowhatwear.com/fashion/shopping/brocade-jacquard-jacket-trend-fall-2026",
+      "summary": "Make a major maximalist statement.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-09-25T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -583,20 +667,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "10ec4c3625b8",
-      "title": "Laura Harrier and Zoey Deutch Brought Black-Tie Glamour to Tiffany & Co.’s South Coast Plaza Unveiling",
-      "link": "https://www.vogue.com/slideshow/laura-harrier-zoey-deutch-tiffany-and-co-south-coast-plaza",
-      "summary": "Laura Harrier, Zoey Deutch, and Charles Melton gathered for a black-tie dinner and intimate performance by Ashe at the jeweler’s largest West Coast location.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Laura Harrier and Zoey Deutch Brought Black-Tie Glamour to Tiffany & C...",
-      "score": 0,
-      "published": "2026-09-24T16:30:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "724370694d73",
       "title": "Justin Bieber Shows His Support for the Los Angeles Homeless Community With a Surprise Low-Key Performance",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73870329/justin-bieber-surprise-secret-performance-los-angeles-macarthur-park/",
@@ -622,48 +692,6 @@
       "angle": "Fashion Intelligence: Lauren Graham and Melissa McCarthy’s Red-Carpet Reunion Went Just Like...",
       "score": 0,
       "published": "2026-09-24T16:15:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4435dad9e41d",
-      "title": "The Groom Had Tanner Fletcher Transform His Late Mother’s Wedding Dress Into a Bespoke Tuxedo",
-      "link": "https://www.vogue.com/article/cal-dijulius-something-bold-something-new",
-      "summary": "From the moment he got engaged, Cal DiJulius knew he wanted to incorporate his mother’s wedding dress into his own wedding look—and for his wedding in Sweden, he worked with Tanner Fletcher to do just that.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Groom Had Tanner Fletcher Transform His Late Mother’s Wedding Dress Into a Bespoke Tuxedo — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-09-24T16:02:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f043afa96697",
-      "title": "Sorry, But I Love Fashion Villains",
-      "link": "https://www.vogue.com/article/best-fashion-villains-movies",
-      "summary": "Lucy Wyman in ’13 Going on 30’ had drive, ambition, and way better style than Jenna Rink. . . Sue me!",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sorry, But I Love Fashion Villains...",
-      "score": 2,
-      "published": "2026-09-24T15:59:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b32b72575b37",
-      "title": "The Best Street Style from the Spring 2027 Ready-to-Wear Shows in Milan",
-      "link": "https://www.vogue.com/slideshow/phil-ohs-best-street-style-photos-from-the-spring-2027-shows-in-milan",
-      "summary": "Phil Oh captures the stylish scene outside the spring 2027 shows at Milan Fashion Week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Street Style from the Spring 2027 Ready-to-Wear Shows in Mila...",
-      "score": 4,
-      "published": "2026-09-24T15:55:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -849,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c00c9de46468",
-      "title": "Irina Shayk Talks Family, Minimalist Makeup, and \"Lacy, Sexy\" Italian Fragrance",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/irina-shayk-dolce-and-gabbana-your-devotion-interview",
-      "summary": "Meet the designer scent that bottles torrid summer romance.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Irina Shayk Talks Family, Minimalist Makeup, and \"Lacy, Sexy\" Italian ...",
-      "score": 1,
-      "published": "2026-09-24T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a6965520e2b3",
       "title": "They're Here: The 7 Makeup Trends That Will Define Fall 2026",
       "link": "https://www.whowhatwear.com/beauty/makeup/fall-makeup-trends-2026",
@@ -872,6 +886,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-24T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c00c9de46468",
+      "title": "Irina Shayk Talks Family, Minimalist Makeup, and \"Lacy, Sexy\" Italian Fragrance",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/irina-shayk-dolce-and-gabbana-your-devotion-interview",
+      "summary": "Meet the designer scent that bottles torrid summer romance.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Irina Shayk Talks Family, Minimalist Makeup, and \"Lacy, Sexy\" Italian ...",
       "score": 1,
       "published": "2026-09-24T11:00:00+00:00",
       "discovered_via": "feed"
@@ -961,6 +989,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9cea432fe226",
+      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
+      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
+      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
+      "score": 2,
+      "published": "2026-09-24T06:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "312e24f3476b",
       "title": "Straight From the Runway: 5 Trends From London Fashion Week I Want to Wear Now",
       "link": "https://www.whowhatwear.com/london-fashion-week-spring-summer-2027-trends",
@@ -986,6 +1028,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-09-24T05:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "916cb34fa48e",
+      "title": "The Best Jeans For Men With No Butt – 6 Styles That Add Shape",
+      "link": "https://www.fashionbeans.com/article/best-jeans-for-men-with-no-butt/",
+      "summary": "FYI After our latest round of research, we’ve refined our recommendations to ensure we’re only featuring the best jeans for men with a flatter posterior. These updates include swapping out older models for newer, high-quality styles that provide better structure, fit, and design enhancements—such as strategic back pock",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Jeans For Men With No Butt – 6 Styles That Add Shape...",
+      "score": 2,
+      "published": "2026-09-24T01:24:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1311,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f2a23261d9c8",
-      "title": "I'm a Fashion Editor—Here's My Fall 2026 Capsule Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/fall/fall-capsule-wardrobe-2026",
-      "summary": "Ten pieces, one fall capsule wardrobe, zero wasted closet space.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—Here's My Fall 2026 Capsule Wardrobe...",
-      "score": 1,
-      "published": "2026-09-23T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b6310cb463ef",
       "title": "The NYFW Spring 2027 Trends That Actually Work on a Midsize Body",
       "link": "https://www.whowhatwear.com/fashion/runway/midsize-new-york-fashion-week-trends-spring-summer-2027",
@@ -1349,6 +1391,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-09-23T15:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f2a23261d9c8",
+      "title": "I'm a Fashion Editor—Here's My Fall 2026 Capsule Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/fall/fall-capsule-wardrobe-2026",
+      "summary": "Ten pieces, one fall capsule wardrobe, zero wasted closet space.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor—Here's My Fall 2026 Capsule Wardrobe...",
+      "score": 1,
       "published": "2026-09-23T15:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1521,20 +1577,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d9aa76eec42a",
-      "title": "The Who What Wear 100",
-      "link": "https://www.whowhatwear.com/fashion/shopping/who-what-wear-100-fall-2026",
-      "summary": "Every fall 2026 item to shop this season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Who What Wear 100...",
-      "score": 2,
-      "published": "2026-09-23T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9e4c56ba8e45",
       "title": "From Cobalt to Wearable Navy, These Are the Best Blue Mascaras to Make Every Eye Color Glow",
       "link": "https://www.whowhatwear.com/beauty/makeup/best-blue-mascaras",
@@ -1545,6 +1587,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: From Cobalt to Wearable Navy, These Are the Best Blue Mascaras to Make...",
       "score": 1,
+      "published": "2026-09-23T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d9aa76eec42a",
+      "title": "The Who What Wear 100",
+      "link": "https://www.whowhatwear.com/fashion/shopping/who-what-wear-100-fall-2026",
+      "summary": "Every fall 2026 item to shop this season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Who What Wear 100...",
+      "score": 2,
       "published": "2026-09-23T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1588,6 +1644,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-23T10:02:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "90cbfbbdf8e4",
+      "title": "The Complete Guide To Mod Fashion",
+      "link": "https://www.fashionbeans.com/article/mod-fashion-guide/",
+      "summary": "Back in 1959, Colin MacInnes offered up the following description of a young gadabout-town in his novel Absolute Beginners: “College-boy smooth crop hair with burned-in side part, neat white Italian round-collared shirt, short Roman jacket, very tailored (two little vents, three buttons), no-turn-up narrow trousers wit",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Complete Guide To Mod Fashion...",
+      "score": 1,
+      "published": "2026-09-23T10:00:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1773,20 +1843,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "72f9b4fd7bf5",
-      "title": "This Elegant, Luxury-Coded Bag Is Suddenly Everywhere—But It Won't Stay In Stock For Long",
-      "link": "https://www.whowhatwear.com/fashion/handbags/the-horse-fin-drawstring-bag",
-      "summary": "An insider favourite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Elegant, Luxury-Coded Bag Is Suddenly Everywhere—But It Won't Sta...",
-      "score": 1,
-      "published": "2026-09-23T05:50:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c318e2377ec1",
       "title": "Heart Face Shape – How Men Can Find It And Style It For 2026",
       "link": "https://www.fashionbeans.com/article/heart-face-shapes/",
@@ -1843,20 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "360571b0cb12",
-      "title": "In Prada World, Pants Are Dead and Skirts Sit Atop the Throne",
-      "link": "https://www.whowhatwear.com/fashion/runway/prada-milan-fashion-week-spring-summer-2027",
-      "summary": "Plus, a new (to 2027) shoe trend that the fashion side of the internet can't stop talking about.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: In Prada World, Pants Are Dead and Skirts Sit Atop the Throne...",
-      "score": 2,
-      "published": "2026-09-23T01:50:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3bfe26c694e6",
       "title": "7 Best Bleu de Chanel Alternatives For Men That Won’t Break The Bank in 2026",
       "link": "https://www.fashionbeans.com/article/bleu-de-chanel-alternatives/",
@@ -1882,20 +1924,6 @@
       "angle": "Fashion Intelligence: Rooms Showroom Is Hiring A Sales Representative - Boutiques In New Yor...",
       "score": 5,
       "published": "2026-09-22T22:58:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e7814f2f7d95",
-      "title": "Olandria Carthen Is a Lesson in Manifestation—Here’s What It Takes to Enter the Fashion Space",
-      "link": "https://www.whowhatwear.com/fashion/olandria-carthen-fashion-rise",
-      "summary": "The style icon gets real about the fashion industry with Creative Society.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Olandria Carthen Is a Lesson in Manifestation—Here’s What It Takes to ...",
-      "score": 2,
-      "published": "2026-09-22T22:27:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2473,62 +2501,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7a2e7fd28277",
-      "title": "6 Best Chino Colors: Must Have Versatile Styles 2026",
-      "link": "https://www.fashionbeans.com/article/chino-colours-every-man-should-own/",
-      "summary": "Chinos. Hardly the life and soul of a man’s wardrobe, but integral nonetheless. But then, isn’t it precisely the former military staple’s inherent boringness that makes them so great anyway? Sure, a pair of slashed-knee skinny jeans may give a little more edge to your image and let everyone know in no uncertain terms t",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
-      "score": 1,
-      "published": "2026-09-18T09:00:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a72e30125e79",
-      "title": "6 Key Men’s Swimwear Trends For Spring/Summer 2026",
-      "link": "https://www.fashionbeans.com/article/mens-swimwear-trends/",
-      "summary": "Mastering fashion trends in everyday clothes can be difficult enough, but when you consider that it’s just one square foot of fabric covering your modesty, swimwear has to say more about you per inch than any other garment. To make matters worse, upgrading your trunks from duty-free afterthought to a first-class fit is",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-18T09:00:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "79e8f85b3454",
-      "title": "14 Best Seiko Watches For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-seiko-watches/",
-      "summary": "Seiko is one of the most prolific watch brands in the world. Its quality materials, best-in-class movements, and largely approachable prices are some of the key factors contributing to the success of Japan’s oldest watchmaker. Though my list of the best Seiko watches from its many collections barely scratches the surfa",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 14 Best Seiko Watches For Men In 2026...",
-      "score": 2,
-      "published": "2026-09-18T08:56:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9ca8b583d757",
-      "title": "Dress Code: Drift",
-      "link": "https://www.fashionbeans.com/article/drift/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dress Code: Drift...",
-      "score": 1,
-      "published": "2026-09-18T03:06:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b035f3670dc0",
       "title": "Must Read: British Fashion Council Announces Fashion Awards 2026 Nominees, Nike Appoints Alexandre Arnault to Board of Directors",
       "link": "https://fashionista.com/2026/09/british-fashion-council-the-fashion-awards-2026-nominees",
@@ -2993,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "aasif sheikh",
+      "term": "आरव कुमार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ದರ್ಶನ್ ತೂಗುದೀಪ",
+      "term": "tn seshan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సమీక్ష",
+      "term": "dorothy movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "காவல்துறை",
+      "term": "australia vs brazil",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "the paradise movie",
+      "term": "அமைச்சர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "asian games athletics",
+      "term": "tata aeris car",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "marvel avengers endgame encore",
+      "term": "2026 एशियन गेम्स",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vivo v80 5g",
+      "term": "कर्मचारी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hassan eisakhil",
+      "term": "নির্বাচন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పంట",
+      "term": "लखनऊ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
