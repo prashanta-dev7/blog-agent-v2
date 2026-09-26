@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-09-26T09:43:18.748062+00:00",
+  "generated_at": "2026-09-26T14:53:51.838208+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 193,
+  "industry_count": 195,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "e071ad3b1471",
+      "title": "Act No.1 Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/act-no-1",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Act No.1 Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-26T14:51:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2edb8f8d11e9",
+      "title": "MSGM Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/msgm",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: MSGM Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-26T14:51:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0e923919d91e",
+      "title": "Avavav Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/avavav",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Avavav Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-26T14:51:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1dcf111fe56a",
+      "title": "Dolce & Gabbana Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/dolce-gabbana",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dolce & Gabbana Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-26T14:51:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "62aff884c4f1",
+      "title": "Ferragamo Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/salvatore-ferragamo",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ferragamo Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-26T14:51:26+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "08362fc3f0e9",
       "title": "Ermanno Scervino Spring 2027 Ready-to-Wear",
@@ -19,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ermanno Scervino Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-26T09:37:16+00:00",
+      "published": "2026-09-26T14:51:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Loro Piana Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-26T09:37:16+00:00",
+      "published": "2026-09-26T14:51:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Loro Piana Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-09-26T09:37:16+00:00",
+      "published": "2026-09-26T14:51:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Luisa Spagnoli Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-26T09:37:16+00:00",
+      "published": "2026-09-26T14:51:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Arthur Arbesser Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-26T09:37:16+00:00",
+      "published": "2026-09-26T14:51:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +159,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Pepa Salazar Spain Spring 2027...",
       "score": 0,
-      "published": "2026-09-26T09:37:16+00:00",
+      "published": "2026-09-26T14:51:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,35 +173,203 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Attico Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-26T09:37:16+00:00",
+      "published": "2026-09-26T14:51:26+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6d5619aabd84",
-      "title": "Moschino Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/moschino",
-      "summary": "",
+      "id": "957c395a5cbd",
+      "title": "Princess Kate Debuts a New Plum Burberry Midi Dress at Windsor Castle",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73900342/kate-middleton-new-plum-burberry-dress-three-peaks-challenge-tea-party-photos/",
+      "summary": "The perfect tea party look",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-09-26T14:33:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "366ce5155937",
+      "title": "Investing in Hair Longevity: How Kérastase Is at the Center of the Movement",
+      "link": "https://www.harpersbazaar.com/beauty/hair/a73762582/investing-in-hair-longevity-how-kerastase-is-at-the-center-of-the-movement/",
+      "summary": "The luxury brand's Chronologiste collection promotes hair and scalp vitality.",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Investing in Hair Longevity: How Kérastase Is at the Center of the Mov...",
+      "score": 3,
+      "published": "2026-09-26T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1cd20fe0eed9",
+      "title": "Those wrongly deleted from Bihar rolls still living at addresses, says CPI(ML) survey",
+      "link": "https://www.indiatoday.in/india/bihar/story/bihar-voter-roll-revision-cpiml-survey-wrongful-deletions-aigaon-ziradei-ptag-3003651-2026-09-26?utm_source=rss",
+      "summary": "Those wrongly deleted from Bihar rolls still living at addresses, says CPI(ML) survey",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Those wrongly deleted from Bihar rolls still living at addresses, says...",
+      "score": 1,
+      "published": "2026-09-26T13:35:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3b86f25aedd3",
+      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in October",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-october-2026",
+      "summary": "From Gucci's new everyday bag to J.Crew's reinvented Barn Jacket.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-09-26T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9e33f3abd554",
+      "title": "Put Down the White and Black Tees—Fashion People Know This Anti-Trend Color Is More Advanced",
+      "link": "https://www.whowhatwear.com/fashion/tops/grey-t-shirt-trend",
+      "summary": "So wrong it's right.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-26T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "267c61ee54f7",
+      "title": "ICYMI: London Fashion Week's Coolest Trends, Inside Falconeri's Cashmere Factories &amp; The Museum at FIT's New Doll Exhibit",
+      "link": "https://fashionista.com/2026/09/fashion-news-you-need-to-know-september-26",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-26T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eb7b3a3814e6",
+      "title": "The Bomber Jacket Grows Up",
+      "link": "https://in.apparelresources.com/fashion-news/trends/bomber-jacket-grows/",
+      "summary": "There was a stretch, not too long ago, when the bomber jacket meant sporty, zip-up, ribbed at the cuffs, done. That version hasn&#8217;t disappeared, but it&#8217;s no longer the only version and that shift is the real story of the bomber&#8217;s Fall 2026 comeback. According to stylist and trend consultant Echko, the ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Bomber Jacket Grows Up...",
+      "score": 1,
+      "published": "2026-09-26T11:16:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1ad9fb748f98",
+      "title": "It's True—Every Fall Outfit Looks Better With Fringe: 5 Chic Bang Trends to Try This Season",
+      "link": "https://www.whowhatwear.com/beauty/hair/fall-bang-trends",
+      "summary": "Your hairstylist will be hearing from you.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-26T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eaf6b6d94862",
+      "title": "The Chicest Person You Know Probably Just Bought This New Designer Bag for Fall",
+      "link": "https://www.whowhatwear.com/fashion/luxury/celine-flair-bag",
+      "summary": "It's polished without feeling too precious.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Chicest Person You Know Probably Just Bought This New Designer Bag...",
+      "score": 1,
+      "published": "2026-09-26T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9bf7860f7f6a",
+      "title": "Denim Doesn’t Pick a Side This Autumn Season",
+      "link": "https://in.apparelresources.com/fashion-news/trends/denim-doesnt-pick-side-autumn-season/",
+      "summary": "If Fall 2026&#8217;s runways prove anything about denim, it&#8217;s that the fabric has stopped trying to have one story. For a category that spent the better part of a decade oscillating between skinny and wide, indigo and everything-but-indigo, this season&#8217;s collections suggest the pendulum has simply stopped s",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-09-26T10:14:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4cfe467a92c7",
+      "title": "7 Fall Outfit Ideas Where the Skirt Is the Look",
+      "link": "https://www.vogue.com/article/skirt-outfits",
+      "summary": "The spring 2027 runways—Prada’s, in particular—continue to champion the skirt in all its forms. Here’s how to style a skirt for right now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 7 Fall Outfit Ideas Where the Skirt Is the Look...",
+      "score": 3,
+      "published": "2026-09-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b4dbed2f3b86",
+      "title": "Not Sweaters (Yet)—Here's What L.A. Girls Are Wearing Instead This Fall",
+      "link": "https://www.whowhatwear.com/fashion/tops/best-long-sleeve-stripe-tees",
+      "summary": "This look never disappoints.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "667efb5a8aad",
+      "title": "I Just Got Back From a 3-Day Hiking Trip to Yosemite—Here's Everything I Packed",
+      "link": "https://www.whowhatwear.com/living/travel/what-to-pack-to-yosemite",
+      "summary": "Pieces that balance function and style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Got Back From a 3-Day Hiking Trip to Yosemite—Here's Everything...",
+      "score": 1,
+      "published": "2026-09-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9fc1d014f2af",
+      "title": "Demi Moore and Tallulah Willis Do Mother-Daughter Dressing in Summery Suiting",
+      "link": "https://www.vogue.com/article/demi-moore-and-tallulah-willis-mother-daughter-dressing",
+      "summary": "The pair coordinated in Thom Browne skirt suits, making a persuasive case for keeping summer dressing going a little longer.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Moschino Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Demi Moore and Tallulah Willis Do Mother-Daughter Dressing in Summery ...",
       "score": 1,
-      "published": "2026-09-26T09:37:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e3e75eb7f1a8",
-      "title": "Elisabetta Franchi Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/elisabetta-franchi",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Elisabetta Franchi Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-09-26T09:37:16+00:00",
+      "published": "2026-09-26T09:56:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -695,34 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "054d93cef6bc",
-      "title": "Melania Trump, Peng Liyuan, and Two Very Different Takes on First Lady Style",
-      "link": "https://www.vogue.com/article/melania-trump-peng-liyuan-first-lady-style",
-      "summary": "As the Chinese First Lady returned to Washington for the first time in more than a decade, two wardrobes offered very different ideas about fashion and diplomacy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Melania Trump, Peng Liyuan, and Two Very Different Takes on First Lady...",
-      "score": 2,
-      "published": "2026-09-25T16:27:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b4516bba7d68",
-      "title": "Everything Daisy Edgar-Jones Is Wearing to Promote ‘Sense And Sensibility’",
-      "link": "https://www.vogue.com/slideshow/daisy-edgar-jones-sense-and-sensibility-press-tour",
-      "summary": "From Vivienne Westwood corsetry to angelic Stella McCartney, see every look worn by Daisy Edgar-Jones on the ‘Sense And Sensibility’ press tour.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-25T16:27:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d5971c80f782",
       "title": "The Lyrics to Taylor Swift’s “Patient Zero,” Explained",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a73887094/taylor-swift-patient-zero-song-lyrics-meaning-explained/",
@@ -734,20 +944,6 @@
       "angle": "Fashion Intelligence: The Lyrics to Taylor Swift’s “Patient Zero,” Explained...",
       "score": 1,
       "published": "2026-09-25T16:25:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a606458cb01",
-      "title": "“I Think There’s a Lot of Future in History”: Inside German Artist Volker Hermes’s First Solo New York Show",
-      "link": "https://www.vogue.com/article/volker-hermes-hidden-portraits",
-      "summary": "“Hidden Portraits,” the German artist’s first solo exhibition in New York, places his photo collages in close proximity to some of the artworks at the Met and the Frick that inspired them.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: “I Think There’s a Lot of Future in History”: Inside German Artist Vol...",
-      "score": 1,
-      "published": "2026-09-25T16:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -860,20 +1056,6 @@
       "angle": "Fashion Intelligence: Princess Kate Brings Out Her Favorite Chunky Chain Necklace to Liven U...",
       "score": 0,
       "published": "2026-09-25T14:17:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b32b72575b37",
-      "title": "The Best Street Style from the Spring 2027 Ready-to-Wear Shows in Milan",
-      "link": "https://www.vogue.com/slideshow/phil-ohs-best-street-style-photos-from-the-spring-2027-shows-in-milan",
-      "summary": "Phil Oh captures the stylish scene outside the spring 2027 shows at Milan Fashion Week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Street Style from the Spring 2027 Ready-to-Wear Shows in Mila...",
-      "score": 4,
-      "published": "2026-09-25T14:11:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1437,20 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9962b37c8382",
-      "title": "Elegant, Opulent, and Romantic: The 6 Dress Trends of Fall 2026 Have Arrived",
-      "link": "https://www.whowhatwear.com/fashion/dresses/fall-dress-trends-2026",
-      "summary": "Endlessly pretty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-24T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "63a5b3ce55e6",
       "title": "Ayra Starr Is Our October 2026 Music Director",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a73849812/ayra-starr-october-2026-music-director/",
@@ -1563,34 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a6965520e2b3",
-      "title": "They're Here: The 7 Makeup Trends That Will Define Fall 2026",
-      "link": "https://www.whowhatwear.com/beauty/makeup/fall-makeup-trends-2026",
-      "summary": "Saving you a Pinterest scroll.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-24T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c00c9de46468",
-      "title": "Irina Shayk Talks Family, Minimalist Makeup, and \"Lacy, Sexy\" Italian Fragrance",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/irina-shayk-dolce-and-gabbana-your-devotion-interview",
-      "summary": "Meet the designer scent that bottles torrid summer romance.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Irina Shayk Talks Family, Minimalist Makeup, and \"Lacy, Sexy\" Italian ...",
-      "score": 1,
-      "published": "2026-09-24T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5caf3c787925",
       "title": "Teyana Taylor Smolders in Calvin Klein Underwear",
       "link": "https://www.fashiongonerogue.com/story/teyana-taylor-calvin-klein-underwear/",
@@ -1647,20 +1787,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67256c39cb24",
-      "title": "Okay, Kinda Chic to Spend Under $150 on Fall's Biggest Trends",
-      "link": "https://www.whowhatwear.com/fashion/shopping/affordable-fall-trends-2026",
-      "summary": "Indigo-wash jeans, sumptuous satin, bold plaid, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-24T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3b5698c191ba",
       "title": "What Color Shoes To Wear With Your Suit: A Definitive Guide",
       "link": "https://www.fashionbeans.com/article/what-colour-shoes-to-wear-with-a-suit/",
@@ -1672,34 +1798,6 @@
       "angle": "Fashion Intelligence: What Color Shoes To Wear With Your Suit: A Definitive Guide...",
       "score": 1,
       "published": "2026-09-24T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a36776159ce",
-      "title": "Amal Clooney and Her 78-Year-Old Mom Twinned in Fall's Most Elegant Pant Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/amal-clooney-fall-pant-trend-outfit",
-      "summary": "Spot-on.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-24T08:50:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9d22f7c3a978",
-      "title": "Florence Pugh Traveled in a Shoe Trend That Would Make Flight Attendants Squirm",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/florence-pugh-airport-shoes",
-      "summary": "Safety first.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-24T08:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1871,20 +1969,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "529b429bc87c",
-      "title": "Duchess Meghan Puts Her Stamp of Approval on This It-Girl Shoe of the Season",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73854179/meghan-markle-england-style-wardrobe-flip-flops-photos/",
-      "summary": "Her new U.K. wardrobe is taking cues from her relaxed California style",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-23T17:48:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ea1c191cbb75",
       "title": "Perfume Finder: Find Your Next Fragrance",
       "link": "https://www.fashionbeans.com/article/perfume-finder/",
@@ -1910,20 +1994,6 @@
       "angle": "Fashion Intelligence: Mary Kay's 'Beauty Is More Beautiful Shared' Campaign Invites Everyone...",
       "score": 1,
       "published": "2026-09-23T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "554289f16fa5",
-      "title": "All the Stars Who Attended the Opening Night Gala at the Metropolitan Opera House",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73851901/all-the-stars-metropolitan-opera-house-opening-night-gala-2026-27-season-red-carpet-photos/",
-      "summary": "Including Katie Holmes, Ariana DeBose, Maggie Gyllenhaal, and Sigourney Weaver",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: All the Stars Who Attended the Opening Night Gala at the Metropolitan ...",
-      "score": 0,
-      "published": "2026-09-23T16:41:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2431,34 +2501,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8ac3fa024ab8",
-      "title": "Turn-up Cuffs, the Detail That Makes a Jacket Work Harder",
-      "link": "https://in.apparelresources.com/fashion-news/trends/turn-cuffs-detail-makes-jacket-work-harder/",
-      "summary": "Not every seasonal trend calls for a head-to-toe look. Industry trend singles out the deep turn-up cuff as one of the simpler ideas: turn the sleeve back to show the inside. The one condition is that the lining must contrast with the outer fabric, which is why reversible coats suit the trend well. The global [&#8230;] ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Turn-up Cuffs, the Detail That Makes a Jacket Work Harder...",
-      "score": 3,
-      "published": "2026-09-21T12:12:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1197cbd740e6",
-      "title": "Knitted Polos Step into the Mid-season Wardrobe",
-      "link": "https://in.apparelresources.com/fashion-news/trends/knitted-polos-step-mid-season-wardrobe/",
-      "summary": "The knitted polo is emerging as a transitional piece for the weeks between summer dressing and full knitwear season. It is described it as a lightweight option for in-between weather, one that works with loosely tailored trousers or denim and adds softness to a look. Global references span Miu Miu, whose cashmere polo ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-21T12:01:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e2881904ffa7",
       "title": "8 Best Sandals For Men: Fabulous Low-key Footwear in 2026",
       "link": "https://www.fashionbeans.com/article/best-sandals-for-men/",
@@ -2697,20 +2739,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eaafa89ce522",
-      "title": "Must Read: LuxExperience Returns to Profit in Fourth Quarter, Authentic Brands Group Eyes IPO",
-      "link": "https://fashionista.com/2026/09/luxexperience-returns-to-profit-q4-2026",
-      "summary": "Plus, Jil Sander names Marco Viganò CEO.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Must Read: LuxExperience Returns to Profit in Fourth Quarter, Authenti...",
-      "score": 1,
-      "published": "2026-09-16T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e08665fd231d",
       "title": "Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United",
       "link": "https://blog.kalkifashion.com/shivika-and-mihirs-sydney-love-story-a-bangkok-wedding-two-cultures-united/",
@@ -2879,6 +2907,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "43aafbdb15fb",
+      "title": "Lab-Grown Diamond Necklaces in India: The Complete Buying Guide for 2026",
+      "link": "https://www.azafashions.com/blog/lab-grown-diamond-necklace-buying-guide/?utm_source=rss&utm_medium=rss&utm_campaign=lab-grown-diamond-necklace-buying-guide",
+      "summary": "Diamonds have always had a way of making an entrance. While you can trust delicate pendants&#160;to elevate your everyday wardrobe, a statement diamond necklace can turn a simple saree or&#8230; The post Lab-Grown Diamond Necklaces in India: The Complete Buying Guide for 2026 appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Lab-Grown Diamond Necklaces in India: The Complete Buying Guide for 20...",
+      "score": 1,
+      "published": "2026-09-26T12:46:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9e807b9700fb",
       "title": "No Bluffing, These 7 Taash Night Looks Are Giving Winning Energy",
       "link": "https://www.azafashions.com/blog/diwali-taash-party-outfit-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-taash-party-outfit-ideas",
@@ -2890,6 +2932,34 @@
       "angle": "Fashion Intelligence: No Bluffing, These 7 Taash Night Looks Are Giving Winning Energy...",
       "score": 0,
       "published": "2026-09-25T20:09:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "951b7ce2eca8",
+      "title": "Red, Radiant, Ready: Navratri Outfit Ideas for 2026",
+      "link": "https://www.azafashions.com/blog/red-navratri-outfit-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=red-navratri-outfit-ideas",
+      "summary": "There's a reason red keeps showing up on every Navratri mood board. It's bold without trying too hard, festive without feeling costume-y, and somehow works whether you're twirling through a&#8230; The post Red, Radiant, Ready: Navratri Outfit Ideas for 2026 appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-09-25T10:41:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "621aaee1f02a",
+      "title": "White Is the Mood: Navratri Outfit Ideas for 2026",
+      "link": "https://www.azafashions.com/blog/white-navratri-outfit-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=white-navratri-outfit-ideas",
+      "summary": "There's a reason white has always held a special place during Navratri. On the day dedicated to this color, it represents peace, purity, and a kind of spiritual clarity that&#8230; The post White Is the Mood: Navratri Outfit Ideas for 2026 appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-09-24T09:53:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2975,98 +3045,56 @@
       "score": 1,
       "published": "2026-09-22T08:08:05+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "15e033e1ae55",
-      "title": "Day 1 of Navratri 2026: Trending Yellow Looks for a Bright Festive Start",
-      "link": "https://www.azafashions.com/blog/navratri-day-1-yellow-outfits/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-day-1-yellow-outfits",
-      "summary": "Navratri begins with a little more energy than your usual festive morning. The dandiya playlists are ready, the jewellery is waiting to be layered, and the first outfit of nine&#8230; The post Day 1 of Navratri 2026: Trending Yellow Looks for a Bright Festive Start appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-09-22T04:03:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4da95815a4c4",
-      "title": "Red, Rituals & Chilly Nights: What to Wear for Karwa Chauth in New Zealand",
-      "link": "https://www.azafashions.com/blog/karwa-chauth-outfit-ideas-nz/?utm_source=rss&utm_medium=rss&utm_campaign=karwa-chauth-outfit-ideas-nz",
-      "summary": "There is something beautifully dramatic about Karwa Chauth: a whole day of fasting, followed by a dressed-up wait for one very important moonrise.&#160;In Delhi, the festival is usually about a&#8230; The post Red, Rituals &amp; Chilly Nights: What to Wear for Karwa Chauth in New Zealand appeared first on Aza Editorial",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Red, Rituals & Chilly Nights: What to Wear for Karwa Chauth in New Zea...",
-      "score": 2,
-      "published": "2026-09-22T03:13:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "955361e20888",
-      "title": "What to Wear to Every Navratri Celebration in the Netherlands",
-      "link": "https://www.azafashions.com/blog/navratri-celebration-netherlands/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-celebration-netherlands",
-      "summary": "Navratri in the Netherlands has grown into something the Indian and South Asian diaspora genuinely looks forward to. Community halls turn into dance floors, dhol beats echo through Dutch suburbs,&#8230; The post What to Wear to Every Navratri Celebration in the Netherlands appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-09-21T11:48:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ind vs iran kabaddi",
+      "term": "बेल्जियम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gate 2027",
+      "term": "dividend",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "messi argentina",
+      "term": "videos",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अभिजीत दीपके",
+      "term": "निवडणूक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఎల్ నినో",
+      "term": "pmjay",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rise and fall season 2",
-      "summary": "",
-      "aza_category": "Trend Alert"
-    },
-    {
-      "term": "kerala lottery results",
+      "term": "income tax audit date extension",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "insat-3ds",
+      "term": "you",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एशियाई खेल",
+      "term": "lottery sambad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "পুলিশ",
+      "term": "महंगाई भत्ता",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "खेसारी लाल यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
