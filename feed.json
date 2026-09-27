@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T10:23:10.097756+00:00",
+  "generated_at": "2026-09-27T15:32:05.456092+00:00",
   "owned_count": 10,
   "competitor_count": 12,
   "industry_count": 194,
@@ -8,6 +8,20 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "a46738aa30e2",
+      "title": "Marques'Almeida Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marques-almeida",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-09-27T15:30:45+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "5b842f17a76a",
       "title": "Giorgio Armani Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Giorgio Armani Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Philipp Plein Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bottega Veneta Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Marco Rambaldi Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Act No.1 Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: MSGM Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Avavav Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dolce & Gabbana Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ferragamo Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,35 +159,175 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ermanno Scervino Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:30:45+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "8e6792020b95",
-      "title": "Loro Piana Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/loro-piana",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "186b214a7688",
+      "title": "Anne Hathaway Wears Another Romantic Scarf Top From Rising Australian Label Alémais",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73910989/anne-hathaway-burgundy-scarf-top-alemais-verity-press-tour-photos/",
+      "summary": "Her second this month",
+      "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Loro Piana Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-09-27T10:21:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3296a64af235",
-      "title": "Loro Piana Spring 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/loro-piana",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Loro Piana Spring 2027 Menswear...",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Anne Hathaway Wears Another Romantic Scarf Top From Rising Australian ...",
       "score": 2,
-      "published": "2026-09-27T10:21:39+00:00",
+      "published": "2026-09-27T15:03:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b44044d3263a",
+      "title": "Rekha Gupta launches 53 Delhi projects worth Rs 214 crore in unauthorised colonies",
+      "link": "https://www.indiatoday.in/india/story/delhi-unauthorised-colonies-projects-rekha-gupta-rs-214-crore-civic-works-ptag-3004234-2026-09-27?utm_source=rss",
+      "summary": "Rekha Gupta launches 53 Delhi projects worth Rs 214 crore in unauthorised colonies",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-09-27T14:42:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e82ef6fa608f",
+      "title": "Gianvito Rossi Marked 20 Years of Fabulous Footwear and a New Rizzoli Tome",
+      "link": "https://www.vogue.com/slideshow/gianvito-rossi-20-anniversary-new-rizzoli-book",
+      "summary": "For the brand’s 20th anniversary celebration at Palazzo Serbelloni during Milan Fashion Week, both Naomi Watts and Paloma Elsesser turned up in the Jessica—and told Vogue they were more than happy to spend the evening on their feet.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Gianvito Rossi Marked 20 Years of Fabulous Footwear and a New Rizzoli ...",
+      "score": 3,
+      "published": "2026-09-27T14:03:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a23075f53fa0",
+      "title": "Cashmere Headphones and a Punk Rock Performance: Inside Thom Browne and Bose’s Bash at The Lotos Club",
+      "link": "https://www.vogue.com/slideshow/thom-brown-bose-headphones-collaboration-launch",
+      "summary": "Thom Browne celebrated his Bose launch with an experiential event in the Upper East Side gilded age mansion, featuring a performance by Danish group Iceage.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Cashmere Headphones and a Punk Rock Performance: Inside Thom Browne an...",
+      "score": 1,
+      "published": "2026-09-27T13:12:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "46d3a5f4e253",
+      "title": "Rosalía and Loli Bahia Turn a Paris PDA Into a Couples Style Moment",
+      "link": "https://www.vogue.com/article/rosalia-and-loli-bahia-paris-couple-style",
+      "summary": "The musician and model looked loved up on the streets of Paris, while very much sticking to their own codes of style.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rosalía and Loli Bahia Turn a Paris PDA Into a Couples Style Moment...",
+      "score": 2,
+      "published": "2026-09-27T12:19:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b8aa5cb9d52",
+      "title": "Birkenstock x Etro Is the Boho Shoe Collab to Know",
+      "link": "https://www.fashiongonerogue.com/story/etro-birkenstock-collaboration/",
+      "summary": "The Birkenstock by Etro collaboration brings Birkenstock&#8217;s famous comfort into Etro&#8217;s world of pattern and craft. This follows after making ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Birkenstock x Etro Is the Boho Shoe Collab to Know...",
+      "score": 1,
+      "published": "2026-09-27T12:17:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e36144c01c0e",
+      "title": "To Celebrate Their Collaboration, Old Navy x Altuzarra Brought Literary Romance to Life at McNally Jackson",
+      "link": "https://www.vogue.com/slideshow/old-navy-altuzarra-launch-party",
+      "summary": "Inside the Old Navy x Altuzarra launch party with Zac Posen, Joseph Altuzarra, and Alexa Chung at McNally Jackson Books Rockefeller Center.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: To Celebrate Their Collaboration, Old Navy x Altuzarra Brought Literar...",
+      "score": 1,
+      "published": "2026-09-27T12:09:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a43ccc7897ac",
+      "title": "From the Archives: Revisiting the Inception of Isaac Mizrahi’s Documentary, Unzipped",
+      "link": "https://www.vogue.com/article/from-the-archives-zippity-do-da",
+      "summary": "Unzipped, a delightful documentary about the life and times of Isaac Mizrahi, tells you everything you ever wanted to know about the fashion industry—and then some.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: Revisiting the Inception of Isaac Mizrahi’s Documen...",
+      "score": 1,
+      "published": "2026-09-27T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "46588c557e7e",
+      "title": "Row Over Election Commission: Decade-Old Allegation Sparks Showdown; Congress, BJP Trade Charges",
+      "link": "https://www.indiatoday.in/india/video/row-over-election-commission-decade-old-allegation-sparks-showdown-congress-bjp-trade-charges-ytvd-3004214-2026-09-27?utm_source=rss",
+      "summary": "Row Over Election Commission: Decade-Old Allegation Sparks Showdown; Congress, BJP Trade Charges",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Row Over Election Commission: Decade-Old Allegation Sparks Showdown; C...",
+      "score": 1,
+      "published": "2026-09-27T11:41:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e59e915313ea",
+      "title": "Massimo Dutti Goes Into the Wild for Fall",
+      "link": "https://www.fashiongonerogue.com/story/massimo-dutti-untamed-fall-2026/",
+      "summary": "Massimo Dutti&#8217;s fall 2026 editorial, &#8220;Raw &#38; Untamed,&#8221; takes the brand&#8217;s tailored wardrobe outdoors. Shifting skies, open fields, and a ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Massimo Dutti Goes Into the Wild for Fall...",
+      "score": 1,
+      "published": "2026-09-27T11:38:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5471b59fe596",
+      "title": "Exclusive: Gucci Got the Gang Together for a Late Night After-Party",
+      "link": "https://www.vogue.com/slideshow/gucci-after-show-dinner-milan-september-2026",
+      "summary": "Hours after presenting his Spring 2027 show, Demna gathered his crew from the front row and runway for an intimate dinner that began in the courtyard of Il Bolognese over Negronis.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Exclusive: Gucci Got the Gang Together for a Late Night After-Party...",
+      "score": 2,
+      "published": "2026-09-27T11:06:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8ef1bd20a256",
+      "title": "From LA to London: The Coolest People Wear This IYKYK Perfume Brand",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/iggywoo-perfume-review",
+      "summary": "They stand out amid a sea of internet-viral, smell-like-everyone scents.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From LA to London: The Coolest People Wear This IYKYK Perfume Brand...",
+      "score": 2,
+      "published": "2026-09-27T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -216,20 +370,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-27T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e4ed35e50e7a",
-      "title": "CEC Under Fire, Hindu Outfits Back SIR Drive, Oppn Demands Impeachment",
-      "link": "https://www.indiatoday.in/india/video/cec-under-fire-hindu-outfits-back-sir-drive-oppn-demands-impeachment-ytvd-3004108-2026-09-27?utm_source=rss",
-      "summary": "CEC Under Fire, Hindu Outfits Back SIR Drive, Oppn Demands Impeachment",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: CEC Under Fire, Hindu Outfits Back SIR Drive, Oppn Demands Impeachment...",
-      "score": 1,
-      "published": "2026-09-27T09:36:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -362,7 +502,7 @@
       "id": "2c9e49b3c636",
       "title": "Olivia Rodrigo’s Unraveled Tour Begins With a Dress That Disintegrates on Stage",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73904188/olivia-rodrigo-unraveled-tour-costumes-hussein-chalayan-disintegrating-dress-photos/",
-      "summary": "The pop princess is back on the road!",
+      "summary": "The pop princess just revived this Hussein Chalayan masterpiece",
       "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
@@ -947,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c0cfe4342e73",
-      "title": "The Best Korean Skin-Care Products People Actually Buy",
-      "link": "https://www.vogue.com/article/korean-skin-care-products",
-      "summary": "Achieve glass skin with the best Korean skincare products according to K-Beauty experts. Shop top brands like Laneige, Beauty of Joseon & CosRx.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Korean Skin-Care Products People Actually Buy...",
-      "score": 2,
-      "published": "2026-09-25T22:18:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e4ebc0105295",
       "title": "$110 Jeans, a Graphic Tee, and This Shoe Trend Are All You Need to Look Chic This Fall",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/sienna-miller-graphic-tee-levis-jeans-outfit",
@@ -1003,20 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6a66b388dfb3",
-      "title": "7 Best Hair Serums for Frizz-Free, Glassy Hair",
-      "link": "https://www.vogue.com/article/best-hair-serums-for-frizz",
-      "summary": "Frizz, where? Achieve glossy lengths with the best hair serums. We included picks from Rōz, Paul Mitchell, Olaplex, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best Hair Serums for Frizz-Free, Glassy Hair...",
-      "score": 0,
-      "published": "2026-09-25T21:04:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "414bef918c6c",
       "title": "Gucci Says Bourgeois Is An Attitude",
       "link": "https://www.harpersbazaar.com/fashion/fashion-week/a73891667/gucci-spring-2027-review/",
@@ -1028,34 +1140,6 @@
       "angle": "Fashion Intelligence: Gucci Says Bourgeois Is An Attitude...",
       "score": 1,
       "published": "2026-09-25T20:56:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0e5bf2217388",
-      "title": "Florence Pugh Brings Oversized Ruffles and Naked Dressing to the ‘East of Eden’ Premiere",
-      "link": "https://www.vogue.com/article/florence-pugh-oversized-ruffles-naked-dressing-east-of-eden-2026-09-25",
-      "summary": "Florence Pugh traversed all ends of the sartorial spectrum at the BAFTA screening of ‘East of Eden’ in London.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Florence Pugh Brings Oversized Ruffles and Naked Dressing to the ‘East...",
-      "score": 1,
-      "published": "2026-09-25T20:54:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0ffc75f92b4d",
-      "title": "At Gucci, Demna Wants You to Half-Wear a Jacket",
-      "link": "https://www.vogue.com/article/at-gucci-demna-wants-you-to-half-wear-a-jacket",
-      "summary": "In his latest collection, the designer showed us an in-between styling move for in-between times.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: At Gucci, Demna Wants You to Half-Wear a Jacket...",
-      "score": 4,
-      "published": "2026-09-25T20:10:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1084,20 +1168,6 @@
       "angle": "Fashion Intelligence: If You Want Chicer Fall Style, These 8 Outfit-Elevating Tweaks Are the...",
       "score": 2,
       "published": "2026-09-25T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "56691475786c",
-      "title": "26 Thoughts I Had About Season 13, Episode 3 of ‘American Horror Story’",
-      "link": "https://www.vogue.com/article/26-thoughts-i-had-about-season-13-episode-3-of-american-horror-story",
-      "summary": "The Black Dahlia (a.k.a. Elizabeth Short?) and the gimp-suit guy are back! Yay, all my close personal friends are here.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-25T19:37:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1518,20 +1588,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-09-25T10:36:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c2a9659fb49",
-      "title": "Here's a Preview of What Everyone Is Going to Wear With Fall's Biggest Pant Trend",
-      "link": "https://www.whowhatwear.com/fashion/trends/camo-pants-outfits-2026",
-      "summary": "See the outfit inspiration inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-25T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1983,20 +2039,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "25424facfc8d",
-      "title": "Taylor Swift Kills the Cat-Eye",
-      "link": "https://www.harpersbazaar.com/beauty/makeup/a73839524/taylor-swift-patient-zero-makeup/",
-      "summary": "With the announcement of her new single “Patient Zero,” Swift weighs in on millennial makeup discourse",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Taylor Swift Kills the Cat-Eye...",
-      "score": 0,
-      "published": "2026-09-23T20:28:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "620b81dd9297",
       "title": "The Official Uniform of Spring 2027 Is a Bra and a Skirt",
       "link": "https://fashionista.com/2026/09/bra-and-skirt-trend-spring-2027",
@@ -2134,34 +2176,6 @@
       "angle": "Fashion Intelligence: Beauty Expert Rio Viera-Newton on AI Content Creators and the Skin-Car...",
       "score": 1,
       "published": "2026-09-23T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db19a6adf78f",
-      "title": "Ralph Lauren Fall 2026 Finds Beauty in the Untamed",
-      "link": "https://www.fashiongonerogue.com/story/ralph-lauren-fall-2026-collection/",
-      "summary": "Ralph Lauren&#8217;s fall 2026 collection brings a renegade spirit to the house&#8217;s classic elegance. The season pairs heirloom romance with ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Ralph Lauren Fall 2026 Finds Beauty in the Untamed...",
-      "score": 3,
-      "published": "2026-09-23T11:38:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eaa5f345fb8c",
-      "title": "Why Minimalist Phone Cases Are the New Style Essential",
-      "link": "https://www.fashiongonerogue.com/story/minimalist-phone-cases/",
-      "summary": "A phone case has a practical job, though that doesn’t mean style takes a back seat. Phones travel with us ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why Minimalist Phone Cases Are the New Style Essential...",
-      "score": 1,
-      "published": "2026-09-23T11:35:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2344,20 +2358,6 @@
       "angle": "Fashion Intelligence: The Oval Face Shape – Essential Style Tips for Men...",
       "score": 1,
       "published": "2026-09-23T05:18:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85f9d501b412",
-      "title": "Elle Fanning Takes Coach Fall 2026 to Festival Season",
-      "link": "https://www.fashiongonerogue.com/story/elle-fanning-coach-fall-2026-campaign/",
-      "summary": "Elle Fanning stars in Coach&#8217;s fall 2026 campaign, &#8220;Live Your Story,&#8221; taking the wheel as a bus driver bound for ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-23T02:28:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3035,52 +3035,52 @@
   ],
   "trends": [
     {
-      "term": "વિદ્યાર્થી",
+      "term": "serbia vs netherlands",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ബസ്",
+      "term": "portugal vs norway",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "భారతదేశం",
+      "term": "lottery sambad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "२८ सितंबर",
+      "term": "cooper connolly",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कॉकरोच जनता पार्टी",
+      "term": "india cricket",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "england cricket team vs sri lanka national cricket team match scorecard",
+      "term": "alex carey",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इंग्लैंड क्रिकेट टीम बनाम श्रीलंका क्रिकेट टीम के मैच का स्कोरकार्ड",
+      "term": "mitchell marsh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nitish kumar reddy",
+      "term": "राघव चड्ढा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇరాన్",
+      "term": "live cricket score",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "icc",
+      "term": "ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
