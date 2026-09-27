@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-27T07:31:44.818849+00:00",
+  "generated_at": "2026-09-27T10:23:10.097756+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 195,
+  "industry_count": 194,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "5b842f17a76a",
+      "title": "Giorgio Armani Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/giorgio-armani",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Giorgio Armani Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-27T10:21:39+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6f35250ed221",
       "title": "Philipp Plein Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Philipp Plein Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Bottega Veneta Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Marco Rambaldi Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Act No.1 Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: MSGM Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Avavav Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dolce & Gabbana Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ferragamo Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -131,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ermanno Scervino Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,7 +159,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Loro Piana Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,7 +173,77 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Loro Piana Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-09-27T07:26:55+00:00",
+      "published": "2026-09-27T10:21:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8f67038511bd",
+      "title": "The 12 Best Airbnbs in Big Sur for Your West Coast Road Trip",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-big-sur",
+      "summary": "Book one of the best Airbnbs in Big Sur ahead of your trip to the California Coast, from cozy cottages to sprawling residences.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 12 Best Airbnbs in Big Sur for Your West Coast Road Trip...",
+      "score": 0,
+      "published": "2026-09-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d35e847e4c6c",
+      "title": "How to Wear the Art Deco Trend for Wedding Guest Dressing",
+      "link": "https://www.vogue.com/article/art-deco-wedding-guest-dress-trend",
+      "summary": "Want to incorporate one of fall's biggest trends into your occasionwear wardrobe? Here, we pulled together the best Art Deco dresses for wedding guests, from brands like Ulla Johnson, Bode, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: How to Wear the Art Deco Trend for Wedding Guest Dressing — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-09-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4d853040ddc2",
+      "title": "Camo Pants Are Suddenly Everywhere—These Are the Shoe Trends to Wear With Them in 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/shoes-to-wear-with-camo-pants",
+      "summary": "Think sleek flats, leather boots, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4ed35e50e7a",
+      "title": "CEC Under Fire, Hindu Outfits Back SIR Drive, Oppn Demands Impeachment",
+      "link": "https://www.indiatoday.in/india/video/cec-under-fire-hindu-outfits-back-sir-drive-oppn-demands-impeachment-ytvd-3004108-2026-09-27?utm_source=rss",
+      "summary": "CEC Under Fire, Hindu Outfits Back SIR Drive, Oppn Demands Impeachment",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: CEC Under Fire, Hindu Outfits Back SIR Drive, Oppn Demands Impeachment...",
+      "score": 1,
+      "published": "2026-09-27T09:36:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "37089159adcb",
+      "title": "Fashion Girls in New York Just Put Me On to the Coolest Way to Wear Jeans With Heels Right Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/puddle-jeans-heels-outfit-trend-new-york-2026",
+      "summary": "The chicest pairing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion Girls in New York Just Put Me On to the Coolest Way to Wear Je...",
+      "score": 2,
+      "published": "2026-09-27T09:00:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -188,20 +272,6 @@
       "angle": "Fashion Intelligence: Fashion Best Dressed Have Spoken: These 9 Handbags Make Up Their Dream...",
       "score": 2,
       "published": "2026-09-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "55674d2ebee0",
-      "title": "CM Vijay to launch 1-gram gold ring scheme, a key TVK poll promise, on Monday",
-      "link": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-newborn-gold-ring-scheme-vijay-thaaimaman-thanga-mothiram-thittam-ptag-3003979-2026-09-27?utm_source=rss",
-      "summary": "CM Vijay to launch 1-gram gold ring scheme, a key TVK poll promise, on Monday",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-27T06:19:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -244,20 +314,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-09-27T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e371013dc35b",
-      "title": "DMK MP Moves Election Commission Against TVK Leaders Over Model Code Violation",
-      "link": "https://www.indiatoday.in/india/video/dmk-mp-moves-election-commission-against-tvk-leaders-over-model-code-violation-ytvd-3003972-2026-09-27?utm_source=rss",
-      "summary": "DMK MP Moves Election Commission Against TVK Leaders Over Model Code Violation",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: DMK MP Moves Election Commission Against TVK Leaders Over Model Code V...",
-      "score": 1,
-      "published": "2026-09-27T04:28:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -317,20 +373,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "44919d0056b2",
-      "title": "Don’t Sleep On Shopbop’s Accessories—These 35 Handbags, Shoes, and Jewelry Picks Will Surprise You",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-handbags-shoes-jewelry-september-2026",
-      "summary": "The perfect cherry on top of your favorite fall outfits.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Don’t Sleep On Shopbop’s Accessories—These 35 Handbags, Shoes, and Jew...",
-      "score": 1,
-      "published": "2026-09-26T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "da123d1df2a1",
       "title": "I Live in Ballet Flats—3 Gorgeous (and Affordable) Pairs I Swear By",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-under-200-ballet-flats-2026",
@@ -340,6 +382,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Live in Ballet Flats—3 Gorgeous (and Affordable) Pairs I Swear By...",
+      "score": 1,
+      "published": "2026-09-26T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "44919d0056b2",
+      "title": "Don’t Sleep On Shopbop’s Accessories—These 35 Handbags, Shoes, and Jewelry Picks Will Surprise You",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-handbags-shoes-jewelry-september-2026",
+      "summary": "The perfect cherry on top of your favorite fall outfits.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Don’t Sleep On Shopbop’s Accessories—These 35 Handbags, Shoes, and Jew...",
       "score": 1,
       "published": "2026-09-26T20:00:00+00:00",
       "discovered_via": "feed"
@@ -709,20 +765,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2d5cf09ed401",
-      "title": "Heading West: 5 Perfect Fall Outfits Spotted in Wyoming, Montana, and Colorado",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/western-inspired-outfits-women-fall-2026",
-      "summary": "Yeehaw.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-26T08:35:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2962c20658b6",
       "title": "Scarlett Johansson Just Predicted 2027’s Biggest Bag Color Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/scarlett-johansson-prada-bag-color-trend",
@@ -732,6 +774,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-09-26T08:35:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2d5cf09ed401",
+      "title": "Heading West: 5 Perfect Fall Outfits Spotted in Wyoming, Montana, and Colorado",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/western-inspired-outfits-women-fall-2026",
+      "summary": "Yeehaw.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-09-26T08:35:00+00:00",
       "discovered_via": "feed"
@@ -1045,34 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6f43b2bd411e",
-      "title": "34 Thoughts I Had About Season 13, Episode 2 of ‘American Horror Story’",
-      "link": "https://www.vogue.com/article/34-thoughts-i-had-about-season-13-episode-2-of-american-horror-story",
-      "summary": "Honestly, feed me tree sap and poison, Jessica Lange!",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-25T19:28:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "87367414e833",
-      "title": "35 Thoughts I Had About Season 13, Episode 1 of ‘American Horror Story’",
-      "link": "https://www.vogue.com/article/35-thoughts-i-had-about-season-13-episode-1-of-american-horror-story",
-      "summary": "I fear I screamed at Emma Roberts as Madison Montgomery saying “Surprise, bitch.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-25T19:20:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b22136a514df",
       "title": "All the Stars Sitting Front Row at Milan Fashion Week’s Spring 2027 Shows",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73852032/every-celebrity-look-milan-fashion-week-spring-2027-shows-front-row-photos/",
@@ -1084,20 +1112,6 @@
       "angle": "Fashion Intelligence: All the Stars Sitting Front Row at Milan Fashion Week’s Spring 2027 Sh...",
       "score": 2,
       "published": "2026-09-25T19:19:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e2734241f1d9",
-      "title": "10 Milan Fashion Week Outfits to Recreate Now",
-      "link": "https://www.vogue.com/article/fashion-week-trends",
-      "summary": "From cool everyday looks to statement ensembles, recreate the season’s top fashion week outfits, inspired by the street style scene at Milan Fashion Week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 10 Milan Fashion Week Outfits to Recreate Now...",
-      "score": 4,
-      "published": "2026-09-25T19:16:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1518,34 +1532,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-09-25T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fae5c7c0ed1d",
-      "title": "Chic Women Can’t Stop Wearing This £35 Top to Fashion Week—So I Bought It in Three Colours",
-      "link": "https://www.whowhatwear.com/fashion/shopping/cos-purple-clean-cut-tee",
-      "summary": "Royally cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-09-25T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a590c06a2bab",
-      "title": "Suddenly, All the Cool Fashion People Are Wearing This Rich-Looking Jacket Trend",
-      "link": "https://www.whowhatwear.com/fashion/shopping/brocade-jacquard-jacket-trend-fall-2026",
-      "summary": "Make a major maximalist statement.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-09-25T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3049,52 +3035,52 @@
   ],
   "trends": [
     {
-      "term": "zimbabwe vs west indies",
+      "term": "વિદ્યાર્થી",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "zimw vs wi-w",
+      "term": "ബസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pay commission",
+      "term": "భారతదేశం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఆంధ్ర ప్రదేశ్",
+      "term": "२८ सितंबर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "squadron leader",
+      "term": "कॉकरोच जनता पार्टी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "prasidh krishna",
+      "term": "england cricket team vs sri lanka national cricket team match scorecard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kuldeep yadav",
+      "term": "इंग्लैंड क्रिकेट टीम बनाम श्रीलंका क्रिकेट टीम के मैच का स्कोरकार्ड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कश्मीर",
+      "term": "nitish kumar reddy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వాతావరణ సూచన",
+      "term": "ఇరాన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kavach",
+      "term": "icc",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
