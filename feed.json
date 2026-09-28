@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T08:09:28.545856+00:00",
+  "generated_at": "2026-09-28T11:27:38.977993+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 194,
+  "industry_count": 189,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: For Restless Sleepers Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-28T08:05:47+00:00",
+      "published": "2026-09-28T11:25:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dušan Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-28T08:05:47+00:00",
+      "published": "2026-09-28T11:25:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: HUI Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-28T08:05:47+00:00",
+      "published": "2026-09-28T11:25:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,21 +61,147 @@
       "aza_category": "Occasion Dressing",
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 1,
-      "published": "2026-09-28T08:05:47+00:00",
+      "published": "2026-09-28T11:25:39+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "5b842f17a76a",
-      "title": "Giorgio Armani Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/giorgio-armani",
-      "summary": "",
+      "id": "2a3a08c3372b",
+      "title": "Okay, I See You, Legit Shopbop Sale—These Are the Fall Items Fashionable People Want to Wear",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-fall-sale-2026",
+      "summary": "This tiered sale is excellent.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Okay, I See You, Legit Shopbop Sale—These Are the Fall Items Fashionab...",
+      "score": 2,
+      "published": "2026-09-28T11:20:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c54aa5be5a75",
+      "title": "6 Designers From London Fashion Week You Should Know, According to An Expert",
+      "link": "https://www.whowhatwear.com/fashion/trends/london-fashion-week-spring-summer-2027-best-emerging-designers",
+      "summary": "The coolest brands in London right now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 6 Designers From London Fashion Week You Should Know, According to An ...",
+      "score": 3,
+      "published": "2026-09-28T10:55:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "94302b8091ba",
+      "title": "S Is For Show: Anrealage Marks Its 25th With a Collectible Alphabet Collection",
+      "link": "https://www.vogue.com/article/s-is-for-show-anrealage-marks-its-25th-with-a-collectible-alphabet-collection",
+      "summary": "Anrealage's Kunihiko Morinaga has partnered with Sarah Andelman of Just An Idea on a retrospective presentation and gift shop at Gallery Perrotin.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-09-28T10:32:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bcc8db9c0c49",
+      "title": "Tarot Moves Beyond the Cards: How Mysticism Trend Is Entering Fashion’s Mainstream",
+      "link": "https://in.apparelresources.com/fashion-news/trends/tarot-moves-beyond-cards-mysticism-trend-entering-fashions-mainstream/",
+      "summary": "From literal tarot prints to zodiac jewellery, fashion is turning symbolic systems into expressions of identity, self-expression and personal meaning. Indian brands are interpreting the movement through both Western esotericism and local spiritual traditions. Internationally, designers have used tarot imagery not only ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 5,
+      "published": "2026-09-28T10:21:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a2b80bc5f1e7",
+      "title": "MTV VMAs 2026 Fashion: Taylor Swift, Tyla, Charli XCX & More Arrive on the Red Carpet",
+      "link": "https://www.vogue.com/slideshow/2026-mtv-vmas-red-carpet-fashion",
+      "summary": "See what your favorite musicians and performers wore on the red carpet at the 2026 MTV VMAs.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "90cbb2f16df6",
+      "title": "Joseph Altuzarra’s Old Navy Collection Is as Romantic and Feminine as You’d Imagine",
+      "link": "https://www.vogue.com/article/old-navy-altuzarra-collaboration-2026",
+      "summary": "Florals, plaid, and Fair Isle–the designer shares with Vogue the inspiration behind his fall capsule. Shop the collection now, exclusively on Vogue for 24 hours.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-09-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f7a1a4ef31e1",
+      "title": "The 10 Best Airbnbs in Kyoto for a Fall Getaway",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-kyoto",
+      "summary": "The best Airbnbs in Kyoto feature tranquil water features, elevated Japanese design, and central locations—here, 12 spots currently on our wishlist.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Giorgio Armani Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: The 10 Best Airbnbs in Kyoto for a Fall Getaway...",
+      "score": 0,
+      "published": "2026-09-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ccca3c8564b1",
+      "title": "The 18 Best Airbnbs in Rome for an Italian Escapade",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-rome",
+      "summary": "From the trendy neighborhood of Monti to the quintessential charm of Trastevere, here’s where to stay in the best Airbnbs in Rome.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The 18 Best Airbnbs in Rome for an Italian Escapade...",
       "score": 1,
-      "published": "2026-09-28T08:05:47+00:00",
+      "published": "2026-09-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8376f9f805f",
+      "title": "Indigo Returns as Autumn’s Defining Denim, and the Shirt Dress Leads It",
+      "link": "https://in.apparelresources.com/fashion-news/trends/indigo-returns-autumns-defining-denim-shirt-dress-leads/",
+      "summary": "As pale summer washes retire, deep indigo is resetting the denim wardrobe. The dress is the pivot, and Indian labels from mass-market to couture are already working in the same territory. Denim has changed its tone for autumn. Rich, inky indigo is the season&#8217;s key wash and the pale blues that filled high street r",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Indigo Returns as Autumn’s Defining Denim, and the Shirt Dress Leads I...",
+      "score": 4,
+      "published": "2026-09-28T09:39:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5d20692af0f9",
+      "title": "Anything But Boring: 33 *Very Special* Tops I'm Wearing With My Jeans This Fall",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-party-tops-to-wear-with-jeans",
+      "summary": "Make a statement in this season's bold new styles.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-09-28T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -90,62 +216,6 @@
       "angle": "Fashion Intelligence: Demna's \"Complete Personal Vision\" for Gucci is Here, and It's His Bes...",
       "score": 2,
       "published": "2026-09-28T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "55e8ac3d4444",
-      "title": "When will you address inflation? Congress slams PM over festive-season price hikes",
-      "link": "https://www.indiatoday.in/india/story/congress-attacks-modi-over-inflation-as-led-tv-and-washing-machine-prices-may-rise-ptag-3004537-2026-09-28?utm_source=rss",
-      "summary": "When will you address inflation? Congress slams PM over festive-season price hikes",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-28T07:45:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ed4e9e4a1d2d",
-      "title": "Tamil Nadu CM Launches Thaimaman Gold Ring Scheme For Newborns In Madurai",
-      "link": "https://www.indiatoday.in/india/video/tamil-nadu-cm-launches-thaimaman-gold-ring-scheme-for-newborns-in-madurai-ytvd-3004666-2026-09-28?utm_source=rss",
-      "summary": "Tamil Nadu CM Launches Thaimaman Gold Ring Scheme For Newborns In Madurai",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-28T07:29:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cd5e64bee91c",
-      "title": "Tamil Nadu POCSO Case: Closure Report Details Accessed Amid Political Showdown",
-      "link": "https://www.indiatoday.in/india/video/tamil-nadu-pocso-case-closure-report-details-accessed-amid-political-showdown-ytvd-3004655-2026-09-28?utm_source=rss",
-      "summary": "Tamil Nadu POCSO Case: Closure Report Details Accessed Amid Political Showdown",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Tamil Nadu POCSO Case: Closure Report Details Accessed Amid Political ...",
-      "score": 1,
-      "published": "2026-09-28T07:18:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e7d32f78eaed",
-      "title": "Tamil Nadu CM Vijay Launches Gold Ring Scheme For Newborns Born In State-Run Hospitals",
-      "link": "https://www.indiatoday.in/india/video/tamil-nadu-cm-vijay-launches-gold-ring-scheme-for-newborns-born-in-state-run-hospitals-ytvd-3004648-2026-09-28?utm_source=rss",
-      "summary": "Tamil Nadu CM Vijay Launches Gold Ring Scheme For Newborns Born In State-Run Hospitals",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-09-28T07:15:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -191,20 +261,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b0d9ed70a244",
-      "title": "Paris Fashion Week Cheat Sheet: Spring/Summer 2027",
-      "link": "https://www.vogue.com/article/paris-fashion-week-cheat-sheet-spring-summer-2027",
-      "summary": "With two designer debuts, pivotal third shows and a packed events calendar, there’s plenty to watch out for this season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Paris Fashion Week Cheat Sheet: Spring/Summer 2027...",
-      "score": 4,
-      "published": "2026-09-28T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c3b1b9d4461f",
       "title": "Rooted in Reality: Key Takeaways From Milan Fashion Week Spring/Summer 2027",
       "link": "https://www.vogue.com/article/rooted-in-reality-3-key-takeaways-for-milan-fashion-week-spring-summer-2027",
@@ -215,6 +271,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Rooted in Reality: Key Takeaways From Milan Fashion Week Spring/Summer...",
       "score": 3,
+      "published": "2026-09-28T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b0d9ed70a244",
+      "title": "Paris Fashion Week Cheat Sheet: Spring/Summer 2027",
+      "link": "https://www.vogue.com/article/paris-fashion-week-cheat-sheet-spring-summer-2027",
+      "summary": "With two designer debuts, pivotal third shows and a packed events calendar, there’s plenty to watch out for this season.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Paris Fashion Week Cheat Sheet: Spring/Summer 2027...",
+      "score": 4,
       "published": "2026-09-28T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -342,20 +412,6 @@
       "angle": "Fashion Intelligence: Madonna, Sabrina Carpenter, Charli XCX and More Opened the 2026 MTV VM...",
       "score": 0,
       "published": "2026-09-28T00:45:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a2b80bc5f1e7",
-      "title": "MTV VMAs 2026 Fashion: Taylor Swift, Tyla, Charli XCX & More Arrive on the Red Carpet",
-      "link": "https://www.vogue.com/slideshow/2026-mtv-vmas-red-carpet-fashion",
-      "summary": "See what your favorite musicians and performers wore on the red carpet at the 2026 MTV VMAs.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-28T00:27:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,6 +793,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "cc51edc3b36c",
+      "title": "7 Best Field Jackets: 2026 Top Updates of Absolute Classics",
+      "link": "https://www.fashionbeans.com/article/best-field-jackets/",
+      "summary": "Military field jackets have occupied a key place in the men’s fashion world ever since they were first introduced by the US Army during WWII. As a key part of the US Military uniform for decades, the field jacket adorned the shoulder of many men during their service and these soldiers grew to love the &#8230; Continue ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Best Field Jackets: 2026 Top Updates of Absolute Classics...",
+      "score": 1,
+      "published": "2026-09-27T11:43:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e59e915313ea",
       "title": "Massimo Dutti Goes Into the Wild for Fall",
       "link": "https://www.fashiongonerogue.com/story/massimo-dutti-untamed-fall-2026/",
@@ -779,34 +849,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8f67038511bd",
-      "title": "The 12 Best Airbnbs in Big Sur for Your West Coast Road Trip",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-big-sur",
-      "summary": "Book one of the best Airbnbs in Big Sur ahead of your trip to the California Coast, from cozy cottages to sprawling residences.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 12 Best Airbnbs in Big Sur for Your West Coast Road Trip...",
-      "score": 0,
-      "published": "2026-09-27T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d35e847e4c6c",
-      "title": "How to Wear the Art Deco Trend for Wedding Guest Dressing",
-      "link": "https://www.vogue.com/article/art-deco-wedding-guest-dress-trend",
-      "summary": "Want to incorporate one of fall's biggest trends into your occasionwear wardrobe? Here, we pulled together the best Art Deco dresses for wedding guests, from brands like Ulla Johnson, Bode, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: How to Wear the Art Deco Trend for Wedding Guest Dressing — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-09-27T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4d853040ddc2",
       "title": "Camo Pants Are Suddenly Everywhere—These Are the Shoe Trends to Wear With Them in 2026",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/shoes-to-wear-with-camo-pants",
@@ -835,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b5e13aa501b5",
-      "title": "Fashion Best Dressed Have Spoken: These 9 Handbags Make Up Their Dream Wish Lists",
-      "link": "https://www.whowhatwear.com/fashion/handbags/influencer-handbag-wish-list-winter-2026",
-      "summary": "I need them all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion Best Dressed Have Spoken: These 9 Handbags Make Up Their Dream...",
-      "score": 2,
-      "published": "2026-09-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1fcf9aa26fde",
       "title": "I Think This Is Sienna's Best Outfit of the Year, and It's All Down to This Chic Jacket Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/cinched-leather-jacket-trend-sienna-miller-2026",
@@ -858,6 +886,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-09-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5e13aa501b5",
+      "title": "Fashion's Best-Dressed Have Spoken: These 9 Handbags Are on Their Dream Wish Lists",
+      "link": "https://www.whowhatwear.com/fashion/handbags/influencer-handbag-wish-list-winter-2026",
+      "summary": "Serious arm candy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion's Best-Dressed Have Spoken: These 9 Handbags Are on Their Drea...",
       "score": 2,
       "published": "2026-09-27T07:00:00+00:00",
       "discovered_via": "feed"
@@ -944,20 +986,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-09-26T23:05:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aeab1f1242fc",
-      "title": "Olivia Rodrigo’s Melting Dress Revives One of Fashion’s Great Runway Experiments",
-      "link": "https://www.vogue.com/article/olivia-rodrigo-melting-dress-unraveled-tour",
-      "summary": "For the opening night of The Unraveled Tour, Rodrigo enlisted the iconic and innovative designer Hussein Chalayan to make a dress that dissolves under water.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Olivia Rodrigo’s Melting Dress Revives One of Fashion’s Great Runway E...",
-      "score": 4,
-      "published": "2026-09-26T21:47:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1378,48 +1406,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-09-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fb2182b96ad5",
-      "title": "It's Knee-High-Boot Season: The Chicest Pairs to Shop for Every Budget",
-      "link": "https://www.whowhatwear.com/fashion/shopping/knee-high-boots-fall-2026",
-      "summary": "From Zara to Miu Miu.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-09-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a40b90e9e2f8",
-      "title": "My Makeup Would Always Wear Off Until I Added This Product to My Routine",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-gripping-primers",
-      "summary": "For makeup that lasts all day.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Makeup Would Always Wear Off Until I Added This Product to My Routi...",
-      "score": 1,
-      "published": "2026-09-26T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b3f3ce177efc",
-      "title": "It's My Job to Predict Best-Sellers—These 7 Luxury Handbags Are Set to Dominate Autumn/Winter 2026",
-      "link": "https://www.whowhatwear.com/fashion/handbags/autumn-winter-it-bags-2026",
-      "summary": "You heard it here first.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's My Job to Predict Best-Sellers—These 7 Luxury Handbags Are Set to...",
-      "score": 1,
-      "published": "2026-09-26T02:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2347,34 +2333,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "22988e1fe2d8",
-      "title": "12 Types of Pants for Men – Different Trouser Styles 2026",
-      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
-      "summary": "Statement jackets and the latest sneakers are always going to be top of men&#8217;s lust lists, but don&#8217;t let high-wattage clobber blind you to the essentials. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
-      "score": 3,
-      "published": "2026-09-23T06:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c318e2377ec1",
-      "title": "Heart Face Shape – How Men Can Find It And Style It For 2026",
-      "link": "https://www.fashionbeans.com/article/heart-face-shapes/",
-      "summary": "Ever caught yourself squinting in the mirror, wondering if your face is more Ryan Gosling or&#8230; not? You&#8217;re not alone. Understanding your face shape is like unlocking the cheat codes to personal style, and if you&#8217;ve got a heart-shaped face—wider forehead and cheekbones tapering to a pointed chin—then yo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Heart Face Shape – How Men Can Find It And Style It For 2026...",
-      "score": 1,
-      "published": "2026-09-23T05:29:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8d03a4a07ee0",
       "title": "Rooms Showroom Is Hiring A Sales Representative - Boutiques In New York, NY",
       "link": "https://fashionista.com/2026/09/rooms-showroom-is-hiring-a-sales-representative-boutiques-in-new-york-ny",
@@ -2456,34 +2414,6 @@
       "angle": "Fashion Intelligence: The Museum at FIT Gets All Dolled Up With New Exhibit Exploring Fashio...",
       "score": 2,
       "published": "2026-09-22T11:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "20df0bef23da",
-      "title": "Why Single-Colour Dressing Is Having a Fashion Season",
-      "link": "https://in.apparelresources.com/fashion-news/trends/single-colour-dressing-fashion-season/",
-      "summary": "Monochrome is often shorthand for black and white, but the term properly means dressing in a single colour from head to toe. It&#8217;s this broader reading of monochrome that&#8217;s driving one of the season&#8217;s most consistent styling trends, offering a way for minimalist dressers to add personality without aban",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-09-22T10:50:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "195154915167",
-      "title": "Androgynous Suiting is Why Tailoring Is Shedding Gender Lines",
-      "link": "https://in.apparelresources.com/fashion-news/trends/androgynous-suiting-tailoring-shedding-gender-lines/",
-      "summary": "Tailoring has re-entered the fashion conversation this season, but not in the sharp, hyper-structured form associated with power dressing of the past. Instead, designers are leaning into a softer, more fluid version of the suit; one that borrows from menswear proportions without adhering strictly to them. Androgynous s",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Androgynous Suiting is Why Tailoring Is Shedding Gender Lines...",
-      "score": 6,
-      "published": "2026-09-22T09:47:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3035,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "బంగాళాఖాతము",
+      "term": "மதுமிதா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मुख्य न्यायाधीश",
+      "term": "shehzad poonawalla",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "புயல்",
+      "term": "आंधी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अधिग्रहण",
+      "term": "జ్యోతిక",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gold rate today",
+      "term": "આગાહી",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அமைச்சர்",
+      "term": "bt73",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कॉकरोच जनता पार्टी",
+      "term": "one ui 9.0",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मैथिली ठाकुर",
+      "term": "siwet tomar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पश्चिमी विक्षोभ",
+      "term": "उज्जैन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ज्ञानेश कुमार",
+      "term": "south korea vs uruguay",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
