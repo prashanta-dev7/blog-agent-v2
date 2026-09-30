@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-30T07:52:54.407792+00:00",
+  "generated_at": "2026-09-30T10:55:03.496840+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 186,
+  "industry_count": 191,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "59fd97651dd1",
+      "title": "Courrèges Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/courreges",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Courrèges Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-09-30T10:51:14+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "a8d7522dcfdd",
       "title": "Ganni Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ganni Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-30T07:50:39+00:00",
+      "published": "2026-09-30T10:51:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tove Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-30T07:50:39+00:00",
+      "published": "2026-09-30T10:51:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Saint Laurent Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-30T07:50:39+00:00",
+      "published": "2026-09-30T10:51:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: A. Potts Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-30T07:50:39+00:00",
+      "published": "2026-09-30T10:51:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Anrealage Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-30T07:50:39+00:00",
+      "published": "2026-09-30T10:51:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,21 +103,189 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Maison Margiela Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-09-30T07:50:39+00:00",
+      "published": "2026-09-30T10:51:14+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "3da304575fef",
-      "title": "CPM is Keralam's dominant Hindu outfit: BJP leader on why his party struggles in state",
-      "link": "https://www.indiatoday.in/india/kerala/story/kerala-bjp-cpm-hindu-politics-radhakrishnan-weak-growth-3006350-2026-09-30?utm_source=rss",
-      "summary": "CPM is Keralam's dominant Hindu outfit: BJP leader on why his party struggles in state",
+      "id": "9fe8f3502ad9",
+      "title": "Yes, I Said It—Hailey Bieber Just Stepped Out Wearing Her Most Elegant Manicure to Date",
+      "link": "https://www.whowhatwear.com/beauty/nails/hailey-bieber-chocolate-brown-chrome-nails-trend-2026",
+      "summary": "You have to see this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-09-30T10:40:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bef904a3a68a",
+      "title": "Jennifer Lawrence Puts Her Best Bangs Forward at Paris Fashion Week",
+      "link": "https://www.vogue.com/article/jennifer-lawrence-puts-her-best-bangs-forward-at-paris-fashion-week",
+      "summary": "From Birkin and butterfly bangs, to a brow-revealing fringe, Jennifer Lawrence took her wispy new set to the front row of Dior.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jennifer Lawrence Puts Her Best Bangs Forward at Paris Fashion Week...",
+      "score": 1,
+      "published": "2026-09-30T10:24:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e1740e883f2",
+      "title": "Dakota Johnson Says Goodbye to the Blurred Lip",
+      "link": "https://www.vogue.com/article/dakota-johnson-says-goodbye-to-the-blurred-lip",
+      "summary": "Appearing at the Verity premiere in New York, Dakota Johnson sported a fall beauty reset that felt both sumptuous and precise.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dakota Johnson Says Goodbye to the Blurred Lip...",
+      "score": 1,
+      "published": "2026-09-30T10:00:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "798799c49d52",
+      "title": "The 22 Best Airbnbs in Mexico City to Book for Your Next Getaway",
+      "link": "https://www.vogue.com/article/best-airbnbs-mexico-city",
+      "summary": "From historic Roma to trendy La Condesa, these are the best Airbnbs in Mexico City worth bookmarking.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The 22 Best Airbnbs in Mexico City to Book for Your Next Getaway...",
+      "score": 1,
+      "published": "2026-09-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4c5bc624ee84",
+      "title": "24 White-Tie Wedding Guest Dresses for the Most Formal Occasions",
+      "link": "https://www.vogue.com/article/white-tie-wedding-guest-dresses",
+      "summary": "Finding the right white-tie wedding guest dress for an ultra-formal ceremony comes with its own requirements; here, a bridal stylist breaks down the dress code.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 24 White-Tie Wedding Guest Dresses for the Most Formal Occasions — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-09-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "753b52b3863c",
+      "title": "For Their Third Collaboration, Levi's and Sacai Push the Proportions of Denim",
+      "link": "https://www.vogue.com/article/levis-sacai-collaboration-2026",
+      "summary": "Exaggerated cuts and unexpected detailing turn denim classics into something new and compelling.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: For Their Third Collaboration, Levi's and Sacai Push the Proportions o...",
+      "score": 0,
+      "published": "2026-09-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc3576f62015",
+      "title": "A Childhood Dream, a Custom Tennis Dress, and One Very Full-Circle Day",
+      "link": "https://www.whowhatwear.com/fashion/claudia-li-rolex-us-open-outfit-2026",
+      "summary": "Come with me to play in the USTA Foundation Pro-Am with Rolex.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Childhood Dream, a Custom Tennis Dress, and One Very Full-Circle Day...",
+      "score": 1,
+      "published": "2026-09-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3e025cc36cdb",
+      "title": "Brooklyn and Nicola Peltz Beckham Bring Their Best Basics to Paris Fashion Week",
+      "link": "https://www.vogue.com/article/brooklyn-nicola-peltz-beckham-bring-their-best-basics-to-paris-fashion-week",
+      "summary": "After a recent return to the spotlight in dramatic red carpet looks, Brooklyn and Nicola Peltz Beckham begin PFW decidedly low-key.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Brooklyn and Nicola Peltz Beckham Bring Their Best Basics to Paris Fas...",
+      "score": 1,
+      "published": "2026-09-30T09:46:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1d57c7103f4d",
+      "title": "Why 68% of GenZ voted for Vijay? TVK decodes Tamil Nadu political trend",
+      "link": "https://www.indiatoday.in/india/story/gen-z-voters-back-vijay-tvk-says-68-percent-chose-jobs-values-and-governance-cjp-congress-bjp-3006456-2026-09-30?utm_source=rss",
+      "summary": "Why 68% of GenZ voted for Vijay? TVK decodes Tamil Nadu political trend",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: CPM is Keralam's dominant Hindu outfit: BJP leader on why his party st...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-09-30T07:45:02+00:00",
+      "published": "2026-09-30T09:16:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3823ea47f92",
+      "title": "Is Menswear Back? For Me, the New Collections Offer the Return of Possibility",
+      "link": "https://www.whowhatwear.com/fashion/trends/menswear-fall-2026",
+      "summary": "An essay on the shift in menswear.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-09-30T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dff32dd4d0ad",
+      "title": "CM Vijay To Hold Coimbatore-Dharapuram Roadshow; Security Up For Bypoll",
+      "link": "https://www.indiatoday.in/india/video/cm-vijay-to-hold-coimbatore-dharapuram-roadshow-security-up-for-bypoll-ytvd-3006427-2026-09-30?utm_source=rss",
+      "summary": "CM Vijay To Hold Coimbatore-Dharapuram Roadshow; Security Up For Bypoll",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: CM Vijay To Hold Coimbatore-Dharapuram Roadshow; Security Up For Bypol...",
+      "score": 1,
+      "published": "2026-09-30T08:26:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d54e3de487d7",
+      "title": "Kerala Left Politics, Minority Outfits, Sabarimala Row & BJP Southern Growth",
+      "link": "https://www.indiatoday.in/india/video/kerala-left-politics-minority-outfits-sabarimala-row-bjp-southern-growth-ytvd-3006399-2026-09-30?utm_source=rss",
+      "summary": "Kerala Left Politics, Minority Outfits, Sabarimala Row & BJP Southern Growth",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kerala Left Politics, Minority Outfits, Sabarimala Row & BJP Southern ...",
+      "score": 1,
+      "published": "2026-09-30T08:02:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "05ad881d712c",
+      "title": "The Season-Defining Shows Happened in Milan, and These 7 Trends are Set to Be Major",
+      "link": "https://www.whowhatwear.com/fashion/runway/milan-fashion-week-trends-spring-summer-2027",
+      "summary": "Bra tops! It skirts! Everything that's shaping spring 2027 style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-09-30T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -121,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6f7ec645d4b9",
-      "title": "Second-Day Hair and Last Night's Eyeliner—My Favorite Fall Beauty Trends Are Surprisingly Low-Effort",
-      "link": "https://www.whowhatwear.com/beauty/makeup/low-maintenance-fall-beauty-trends-2026",
-      "summary": "What can I say? I'm a lazy girl at heart.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-09-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e30090f4387",
       "title": "And Here They Are, the 8 Items That Have Officially Reached Cult Status This Fashion Month",
       "link": "https://www.whowhatwear.com/fashion/shopping/fashion-month-september-2026-cult-buys",
@@ -145,6 +313,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: And Here They Are, the 8 Items That Have Officially Reached Cult Statu...",
       "score": 1,
+      "published": "2026-09-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6f7ec645d4b9",
+      "title": "Second-Day Hair and Last Night's Eyeliner—My Favorite Fall Beauty Trends Are Surprisingly Low-Effort",
+      "link": "https://www.whowhatwear.com/beauty/makeup/low-maintenance-fall-beauty-trends-2026",
+      "summary": "What can I say? I'm a lazy girl at heart.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-09-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -695,62 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f767901aef37",
-      "title": "Fresh-Faced Silver Surfers Walk Jonathan Anderson’s Spring 2027 Dior Runway",
-      "link": "https://www.vogue.com/article/beauty-jonathan-andersons-spring-2027-dior-runway",
-      "summary": "Vogue goes backstage for Dior’s spring show.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Fresh-Faced Silver Surfers Walk Jonathan Anderson’s Spring 2027 Dior R...",
-      "score": 2,
-      "published": "2026-09-29T15:37:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ebf282b1ca32",
-      "title": "The Best Behind-the-Scenes Photos From the Spring 2027 Shows in Paris",
-      "link": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-photos-from-the-spring-2027-shows-in-paris",
-      "summary": "Acielle Tanbetova photographs the best backstage moments from the spring 2027 shows in Paris.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Behind-the-Scenes Photos From the Spring 2027 Shows in Paris...",
-      "score": 1,
-      "published": "2026-09-29T15:35:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7dfdc15ae022",
-      "title": "A New Book Celebrates the Stylish History of Bolo Ties",
-      "link": "https://www.vogue.com/article/bolo-tie-history-rizzoli-book-william-matthews",
-      "summary": "It’s been a big year for western fashion—and a new Rizzoli title features over 500 unique bolo ties to meet the moment.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A New Book Celebrates the Stylish History of Bolo Ties...",
-      "score": 1,
-      "published": "2026-09-29T15:06:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-09-29T15:00:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f3bfe537167a",
       "title": "Sorry, Stilettos—I'm Pretty Sure Fashion People Will Be Wearing These 7 Flat Shoes Instead",
       "link": "https://www.whowhatwear.com/fashion/shoes/fall-flat-shoe-trends-2026",
@@ -776,20 +902,6 @@
       "angle": "Fashion Intelligence: Jennifer Lawrence Is Angelic in a Draping Baby-Blue Slip Dress...",
       "score": 3,
       "published": "2026-09-29T14:57:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e6e9348a943f",
-      "title": "The Best Street Style Photos From the Spring 2027 Shows in Paris",
-      "link": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-paris",
-      "summary": "Phil Oh photographs the best dressed guests at the spring 2027 shows in Paris.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Street Style Photos From the Spring 2027 Shows in Paris...",
-      "score": 3,
-      "published": "2026-09-29T14:51:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1843,48 +1955,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ba3973f3bebf",
-      "title": "Stella Lefty Wore a Literal Wedding Dress on the VMAs Red Carpet—See It From Every Angle",
-      "link": "https://www.whowhatwear.com/fashion/red-carpet/stella-lefty-vmas-red-carpet-dress",
-      "summary": "And it's vintage!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Bridal Edit: Stella Lefty Wore a Literal Wedding Dress on the VMAs Red Carpet—See It From Every Angle — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-09-28T00:17:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c46be3f6c746",
-      "title": "It Girls With Casual Style Know That This Low-Key Anti-Trend Fall Basic Makes Outfits 10 Times Cooler",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-shirt-outfits-jennifer-lawrence",
-      "summary": "Jennifer Lawrence is the blueprint.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-09-27T22:03:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6ac7da114780",
-      "title": "The VMAs Red Carpet Always Pushes Boundaries—See the Best Looks of 2026",
-      "link": "https://www.whowhatwear.com/fashion/red-carpet/vmas-red-carpet-looks-2026",
-      "summary": "What music's biggest stars are wearing tonight.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-27T21:51:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f9945cb30ccb",
       "title": "14 Best Sling Bags For Men: Top Carriers in 2026)",
       "link": "https://www.fashionbeans.com/article/best-sling-bags-for-men/",
@@ -2838,14 +2908,14 @@
     },
     {
       "id": "9e807b9700fb",
-      "title": "No Bluffing, These 7 Taash Night Looks Are Giving Winning Energy",
+      "title": "No Bluffing, These 7 Diwali Taash Night Looks Are Giving Winning Energy",
       "link": "https://www.azafashions.com/blog/diwali-taash-party-outfit-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-taash-party-outfit-ideas",
-      "summary": "Diwali taash nights are not really about the cards. They are about who walks in looking like the main character before the first deal even happens. Somewhere between the diyas,&#8230; The post No Bluffing, These 7 Taash Night Looks Are Giving Winning Energy appeared first on Aza Editorials .",
+      "summary": "Diwali taash nights are not really about the cards. They are about who walks in looking like the main character before the first deal even happens. Somewhere between the diyas,&#8230; The post No Bluffing, These 7 Diwali Taash Night Looks Are Giving Winning Energy appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: No Bluffing, These 7 Taash Night Looks Are Giving Winning Energy...",
+      "angle": "Festive Dressing: How to Own This Occasion",
       "score": 0,
       "published": "2026-09-25T20:09:34+00:00",
       "discovered_via": "feed"
@@ -2923,52 +2993,52 @@
   ],
   "trends": [
     {
-      "term": "west indies vs zimbabwe",
+      "term": "roston chase",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "३० सितम्बर",
+      "term": "యూట్యూబర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "5000 electric buses in bhopal",
+      "term": "ravindra jadeja",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "amir jangoo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "समाजवादी पार्टी",
+      "term": "निर्वाचन आयोग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಡಿ ಕೆ ಶಿವಕುಮಾರ್",
+      "term": "live cricket score",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "october",
+      "term": "2026 एशियन गेम्स",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "srit india ipo gmp",
+      "term": "gurnoor brar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వీరమాచనేని రామకృష్ణ",
+      "term": "जॉन कैंपबेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "apple pay india",
+      "term": "tanya mishra",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
