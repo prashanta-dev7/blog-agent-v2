@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-02T07:53:34.190382+00:00",
+  "generated_at": "2026-10-02T10:53:54.594287+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 181,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "1c50bff21ef4",
+      "title": "Loewe Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/loewe",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Loewe Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-02T10:51:13+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "677bf2341eed",
       "title": "Schiaparelli Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Schiaparelli Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-02T07:49:39+00:00",
+      "published": "2026-10-02T10:51:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Isabel Marant Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-02T07:49:39+00:00",
+      "published": "2026-10-02T10:51:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: August Barron Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-02T07:49:39+00:00",
+      "published": "2026-10-02T10:51:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Gauchere Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-02T07:49:39+00:00",
+      "published": "2026-10-02T10:51:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,63 +89,175 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Chloé Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-02T07:49:39+00:00",
+      "published": "2026-10-02T10:51:13+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "211509272615",
-      "title": "Rick Owens Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rick-owens",
-      "summary": "",
+      "id": "a486fe40b521",
+      "title": "Spotted in Paris: This Anti-Straight-Leg Jeans Trend Makes Short Jackets Look Best",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hip-length-jackets-bootcut-jeans-paris-outfit-trend-2026",
+      "summary": "This combination is all over the city.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-10-02T10:50:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eb710381ffde",
+      "title": "The 15 Best New Design and Art Books to Know This Fall",
+      "link": "https://www.vogue.com/article/best-new-design-and-art-books",
+      "summary": "Need design inspiration, gift-giving advice, or hosting tips for the upcoming holiday season? These new books have it all.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The 15 Best New Design and Art Books to Know This Fall...",
+      "score": 1,
+      "published": "2026-10-02T10:40:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "54e26af290d7",
+      "title": "The 10 Best Airbnbs in the Cotswolds to Book Yourself Into for a Weekend Away",
+      "link": "https://www.vogue.com/article/airbnbs-in-the-cotswolds",
+      "summary": "Heading to the English countryside? Book an Airbnb in the Cotswolds for your own perfect cozy cottage. Here, 10 Vogue-approved listings to start with.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The 10 Best Airbnbs in the Cotswolds to Book Yourself Into for a Weeke...",
+      "score": 0,
+      "published": "2026-10-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "title": "Zara’s New Arrivals Are Full of Fall 2026’s Biggest Trends",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Shop the just-dropped Baisi Guadagnino for Zara collection—a collaboration between architect and production designer Stefano Baisi and filmmaker Luca Guadagnino.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-02T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3564ab6d7cf6",
+      "title": "Is Your Beauty Brand Actually Ready for Retail?",
+      "link": "https://www.vogue.com/article/is-your-beauty-brand-actually-ready-for-retail",
+      "summary": "Securing a shelf at Sephora or Ulta can take a budding beauty brand to new heights. But succeeding once you’re in the door requires strong operations behind the scenes.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rick Owens Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-10-02T07:49:39+00:00",
+      "angle": "Fashion Intelligence: Is Your Beauty Brand Actually Ready for Retail?...",
+      "score": 2,
+      "published": "2026-10-02T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "229afba13feb",
-      "title": "Uma Wang Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/uma-wang",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Uma Wang Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-10-02T07:49:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7a03678592a7",
-      "title": "Cecilie Bahnsen Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cecilie-bahnsen",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Cecilie Bahnsen Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-10-02T07:49:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "83c5e5105715",
-      "title": "Election Commission Launches Special Drive To Add Left-Out Electors To Voter List",
-      "link": "https://www.indiatoday.in/india/video/election-commission-launches-special-drive-to-add-left-out-electors-to-voter-list-ytvd-3007928-2026-10-02?utm_source=rss",
-      "summary": "Election Commission Launches Special Drive To Add Left-Out Electors To Voter List",
+      "id": "3b3f3712be27",
+      "title": "Sit-in protest, Form 7 charge: DK Shivakumar back in form with EC showdown",
+      "link": "https://www.indiatoday.in/india/south/story/dk-shivakumar-form-7-row-sit-in-protest-cm-confronts-ec-congress-widens-sir-fight-3008006-2026-10-02?utm_source=rss",
+      "summary": "Sit-in protest, Form 7 charge: DK Shivakumar back in form with EC showdown",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "angle": "Fashion Intelligence: Sit-in protest, Form 7 charge: DK Shivakumar back in form with EC show...",
       "score": 1,
-      "published": "2026-10-02T06:22:10+00:00",
+      "published": "2026-10-02T09:24:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "600e6436f31e",
+      "title": "If You Want to Look Chic and Modern This Season, These Gorgeous Fall Staples From ALC Are It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/alc-fall-2026",
+      "summary": "The leather! The knits!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-02T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "88e472c9b142",
+      "title": "Rihanna’s Red Waterline Is the Unexpected Beauty Detail Picking up at Paris Fashion Week",
+      "link": "https://www.vogue.com/article/rihanna-colorful-waterline-trend-paris-fashion-week",
+      "summary": "Stepping out for the AWGE spring 2027 show, the singer matched her scarlet lower lashline to her manicure, updating the ’90s glam detail.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Rihanna’s Red Waterline Is the Unexpected Beauty Detail Picking up at ...",
+      "score": 3,
+      "published": "2026-10-02T08:45:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7dac31950bd6",
+      "title": "By Winter, French Women Will All Be Wearing One of These 7 Trends",
+      "link": "https://www.whowhatwear.com/fashion/trends/early-winter-french-fashion-trends-2026",
+      "summary": "Take note.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-02T08:38:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2b6ebece2358",
+      "title": "Sienna Miller’s Outfits in War Are Everything I Want to Wear This Autumn—Shop Her Chicest Looks Here",
+      "link": "https://www.whowhatwear.com/fashion/shopping/sienna-miller-war-tv-show-outfits",
+      "summary": "A ’90s fashion dream.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sienna Miller’s Outfits in War Are Everything I Want to Wear This Autu...",
+      "score": 3,
+      "published": "2026-10-02T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ab2388f75ff",
+      "title": "How Zoe Kazan’s East of Eden Finds Answers in Age-Old Biblical Questions",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a73647426/east-of-eden-timshel-bible-explained/",
+      "summary": "We break down the Biblical origins behind the storylines in Zoe Kazan’s Netflix mini-series and the John Steinbeck’ classic its based on",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Zoe Kazan’s East of Eden Finds Answers in Age-Old Biblical Questio...",
+      "score": 0,
+      "published": "2026-10-02T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -174,20 +300,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-02T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "21c740a311d0",
-      "title": "Tamil Nadu Expands Free Bus Travel For Women Under Rebranded Vetri Payanam Scheme",
-      "link": "https://www.indiatoday.in/india/video/tamil-nadu-expands-free-bus-travel-for-women-under-rebranded-vetri-payanam-scheme-ytvd-3007893-2026-10-02?utm_source=rss",
-      "summary": "Tamil Nadu Expands Free Bus Travel For Women Under Rebranded Vetri Payanam Scheme",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Tamil Nadu Expands Free Bus Travel For Women Under Rebranded Vetri Pay...",
-      "score": 1,
-      "published": "2026-10-02T05:34:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -807,76 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "233f886d3701",
-      "title": "Jennifer Lawrence Adds Sk8r Boi Staples to Her Fall Wardrobe",
-      "link": "https://www.vogue.com/article/jennifer-lawrence-sk8r-boi-staples-fall-wardrobe-2026-10-01",
-      "summary": "When it comes to her style inspirations, Jennifer Lawrence reminds us that there’s no need to choose between uptown mom and skater boy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jennifer Lawrence Adds Sk8r Boi Staples to Her Fall Wardrobe...",
-      "score": 1,
-      "published": "2026-10-01T15:40:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "284718666d87",
-      "title": "My Minimalist Fashion Friend and I Tried on H&M’s A/W 26 Outerwear—These Are the 4 Pieces We Fell For",
-      "link": "https://www.whowhatwear.com/fashion/shopping/h-and-m-editor-approved-outerwear-picks",
-      "summary": "Day-to-night heroes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Minimalist Fashion Friend and I Tried on H&M’s A/W 26 Outerwear—The...",
-      "score": 2,
-      "published": "2026-10-01T15:33:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2ac0fb6d0c77",
-      "title": "Apple Martin Makes Her Runway Debut at Chloé",
-      "link": "https://www.vogue.com/article/apple-martin-walks-the-runway-chloe-paris-fashion-week",
-      "summary": "The model, and daughter to Gwyneth Paltrow, marked her Paris Fashion Week debut on a chic bohemian note.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 3,
-      "published": "2026-10-01T15:18:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5ad4344aab67",
-      "title": "Daisy Edgar-Jones Introduces Jane Austen to the Naked Dress",
-      "link": "https://www.vogue.com/article/daisy-edgar-jones-naked-dress-sense-and-sensibility-2026-10-01",
-      "summary": "In her contemporary, glamorous take on Regency fashion, Daisy Edgar-Jones reminds us what method dressing should be.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Daisy Edgar-Jones Introduces Jane Austen to the Naked Dress...",
-      "score": 2,
-      "published": "2026-10-01T15:10:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cf7ed346adcd",
-      "title": "The Cornerstone of Kate Middleton’s Fall Wardrobe Is the Perfect Wool Coat",
-      "link": "https://www.vogue.com/article/kate-middleton-fall-wardrobe-wool-coat",
-      "summary": "Kate Middleton swapped her usual Edeline Lee tailoring for a more relaxed approach today, wearing a grey Jigsaw coat for a trip to Sussex.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Cornerstone of Kate Middleton’s Fall Wardrobe Is the Perfect Wool ...",
-      "score": 1,
-      "published": "2026-10-01T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "eededf2b82e4",
       "title": "These Are the Fall Outfit Ideas I'll Be Copying All Season",
       "link": "https://www.whowhatwear.com/fashion/fall/fall-outfit-ideas-2026",
@@ -936,13 +978,13 @@
       "id": "a3767f642863",
       "title": "First Sienna, Now Models in Paris—This Coat Trend Practically Screams \"I'm Stylish\"",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-trench-coat-trend-rosie-huntington-whiteley-2026",
-      "summary": "Every stylish person I know has started wearing suede trench coats. Click through to discover how Rosie Huntington-Whiteley styled hers in Paris here.",
+      "summary": "Elegant every time.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
+      "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
+      "score": 2,
       "published": "2026-10-01T13:40:59+00:00",
       "discovered_via": "feed"
     },
@@ -1591,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "82ea70d62516",
-      "title": "Dior Lets the Light In",
-      "link": "https://www.harpersbazaar.com/fashion/fashion-week/a73944985/dior-spring-summer-2027-review/",
-      "summary": "For spring 2027, Jonathan Anderson’s focus is making timely variations on timeless house codes",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dior Lets the Light In...",
-      "score": 0,
-      "published": "2026-09-30T14:53:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6df3890ca4df",
       "title": "Cadence: A Beauty Organization Brand Simplifying Complex Routines",
       "link": "https://fashionista.com/2026/09/cadence-beauty-organization-brand",
@@ -1672,76 +1700,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-09-30T11:33:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f3515458232f",
-      "title": "What Cool People Are Wearing in the F1 Paddock So Far in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/formula-1-paddock-fashion-trends-2026",
-      "summary": "From The Row's Peggy Clutch to Galliano's iconic Dior Gazette dress.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-09-30T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9fe8f3502ad9",
-      "title": "Yes, I Said It—Hailey Bieber Just Stepped Out Wearing Her Most Elegant Manicure to Date",
-      "link": "https://www.whowhatwear.com/beauty/nails/hailey-bieber-chocolate-brown-chrome-nails-trend-2026",
-      "summary": "You have to see this.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-09-30T10:40:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dc3576f62015",
-      "title": "A Childhood Dream, a Custom Tennis Dress, and One Very Full-Circle Day",
-      "link": "https://www.whowhatwear.com/fashion/claudia-li-rolex-us-open-outfit-2026",
-      "summary": "Come with me to play in the USTA Foundation Pro-Am with Rolex.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Childhood Dream, a Custom Tennis Dress, and One Very Full-Circle Day...",
-      "score": 1,
-      "published": "2026-09-30T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f3823ea47f92",
-      "title": "Is Menswear Back? For Me, the New Collections Offer the Return of Possibility",
-      "link": "https://www.whowhatwear.com/fashion/trends/menswear-fall-2026",
-      "summary": "An essay on the shift in menswear.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 3,
-      "published": "2026-09-30T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "05ad881d712c",
-      "title": "The Season-Defining Shows Happened in Milan, and These 7 Trends Are Set to Be Major",
-      "link": "https://www.whowhatwear.com/fashion/runway/milan-fashion-week-trends-spring-summer-2027",
-      "summary": "Bra tops! It skirts! Here's everything that's shaping spring 2027 style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-09-30T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2853,52 +2811,52 @@
   ],
   "trends": [
     {
-      "term": "अभिजीत दीपके",
+      "term": "தமிழ் நாடு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "याचिका",
+      "term": "south korea vs venezuela",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "உதயநிதி ஸ்டாலின்",
+      "term": "पीबी फिनटेक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "medal tally asian games",
+      "term": "एशियाई खेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cjp protest",
+      "term": "finance",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "பயணம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sigma movie",
+      "term": "முதலீடு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sigma movie review",
+      "term": "वृषभ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "लाल बहादुर शास्त्री",
+      "term": "captain smit machchhar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakistan",
+      "term": "स्मार्टफ़ोन",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
