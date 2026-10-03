@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-03T07:31:23.378147+00:00",
+  "generated_at": "2026-10-03T10:13:46.977147+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 179,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8865f56274c2",
+      "title": "Junya Watanabe Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/junya-watanabe",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Junya Watanabe Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-03T10:10:36+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "65fe13234b39",
       "title": "Polo Ralph Lauren Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Polo Ralph Lauren Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-03T07:25:51+00:00",
+      "published": "2026-10-03T10:10:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Caroline Hu Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-03T07:25:51+00:00",
+      "published": "2026-10-03T10:10:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Victoria Beckham Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-03T07:25:51+00:00",
+      "published": "2026-10-03T10:10:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Giuseppe Di Morabito Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-03T07:25:51+00:00",
+      "published": "2026-10-03T10:10:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Yohji Yamamoto Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-03T07:25:51+00:00",
+      "published": "2026-10-03T10:10:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,21 +103,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: ArdAzAei Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-03T07:25:51+00:00",
+      "published": "2026-10-03T10:10:36+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "c9489e03fa5a",
-      "title": "Givenchy Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/givenchy",
-      "summary": "",
+      "id": "1c5be7617d55",
+      "title": "The 26 Best Throw Blankets for Every Style",
+      "link": "https://www.vogue.com/article/best-throw-blanket",
+      "summary": "Alpaca, wool, cashmere, cotton—the best throw blankets can change a room. Shop our favorites from West Elm, Jenni Kayne, Tekla, and more.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Givenchy Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: The 26 Best Throw Blankets for Every Style...",
       "score": 1,
-      "published": "2026-10-03T07:25:51+00:00",
+      "published": "2026-10-03T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2dd5c192066a",
+      "title": "10 Things to Buy This October If You're Busy But Want to Look On-Trend",
+      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-in-october-2026",
+      "summary": "Looking cool this fall is about to get a lot easier.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-03T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "39e04a81c86d",
+      "title": "From Hailey to J.Lo—8 Chic Celebrity Looks We're Loving (and Copying) This Fall",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-fall-outfits",
+      "summary": "Get inspired.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-10-03T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e913d6263d2a",
+      "title": "Raymond Lifestyle Appoints Publicis Groupe as Marketing Partner",
+      "link": "https://in.apparelresources.com/business-news/retail/raymond-lifestyle-appoints-publicis-groupe-marketing-partner/",
+      "summary": "Raymond Lifestyle Limited has appointed Publicis Groupe India as its integrated marketing partner, bringing together creative, media, performance marketing, customer relationship management (CRM), digital, reputation and technology capabilities under a customised structure called ‘Team One Thread’. The dedicated team w",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Raymond Lifestyle Appoints Publicis Groupe as Marketing Partner...",
+      "score": 1,
+      "published": "2026-10-03T09:54:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a3c4b245509c",
+      "title": "Nike Plans New Campus in Bengaluru as India Operations Expand",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/nike-plans-new-campus-bengaluru-india-operations-expand/",
+      "summary": "Nike Inc plans to establish a new campus in Bengaluru as the sportswear company expands its operations in India. According to the company, full-time Nike employees based in India will begin moving to the new campus from FY28. The facility will support work across Nike, Jordan and Converse. Its exact location has not be",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nike Plans New Campus in Bengaluru as India Operations Expand...",
+      "score": 1,
+      "published": "2026-10-03T09:38:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a41be9ca209",
+      "title": "Rahul Gandhi launches Satyagraha platform, urges people to register protests online",
+      "link": "https://www.indiatoday.in/india/story/rahul-gandhi-launches-satyagraha-platform-to-map-protests-and-support-rights-movements-congress-ptag-3008666-2026-10-03?utm_source=rss",
+      "summary": "Rahul Gandhi launches Satyagraha platform, urges people to register protests online",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-10-03T09:16:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a10f5dca4835",
+      "title": "Fashion People Will Be Wearing Selena Gomez's Specific Sleeve Trend With Jeans This Fall",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/selena-gomez-balloon-sleeves",
+      "summary": "So posh.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-10-03T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fa880929f080",
+      "title": "The New Designer Status Symbol Isn't a Bag—It's *These* Sneakers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/vittoria-ceretti-favorite-prada-sneakers",
+      "summary": "Run, don't walk.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The New Designer Status Symbol Isn't a Bag—It's *These* Sneakers...",
+      "score": 1,
+      "published": "2026-10-03T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8c05f872a3f0",
+      "title": "Rahul Gandhi launches digital platform 'Satyagraha' to map protests across India",
+      "link": "https://www.indiatoday.in/india/story/rahul-gandhi-launches-satyagraha-platform-to-map-protests-across-india-3008676-2026-10-03?utm_source=rss",
+      "summary": "Rahul Gandhi launches digital platform 'Satyagraha' to map protests across India",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-10-03T08:23:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8647a5e319be",
+      "title": "Arvind Fashions Subsidiary Invests Rs 50 Cr in Flying Machine operator AYBPL",
+      "link": "https://in.apparelresources.com/business-news/retail/arvind-fashions-subsidiary-invests-rs-50-cr-in-flying-machine-operator-aybpl/",
+      "summary": "Arvind Lifestyle Brands Ltd (ALBL), the wholly-owned material subsidiary of Arvind Fashions, has invested around Rs 50 crore in Arvind Youth Brands Pvt Ltd (AYBPL), which operates the casualwear brand Flying Machine, through a subscription to equity shares, according to Arvind Fashions. According to a regulatory filing",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Arvind Fashions Subsidiary Invests Rs 50 Cr in Flying Machine operator...",
+      "score": 4,
+      "published": "2026-10-03T07:51:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -163,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ba30d09b474b",
-      "title": "I Love a Neutral Nail as Much as the Next Person, But This Colour Is About to Be Huge",
-      "link": "https://www.whowhatwear.com/beauty/nails/petrol-blue-nail-trend",
-      "summary": "It's already a fashion favourite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Love a Neutral Nail as Much as the Next Person, But This Colour Is A...",
-      "score": 1,
-      "published": "2026-10-03T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fb7a5300c0e6",
       "title": "Cosy, Classy and Expensive-Looking—9 New-In High Street Knits I’m Eyeing for Instant Polish",
       "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/cos-massimo-dutti-sezane-knitwear-2026",
@@ -186,6 +312,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Cosy, Classy and Expensive-Looking—9 New-In High Street Knits I’m Eyei...",
+      "score": 1,
+      "published": "2026-10-03T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba30d09b474b",
+      "title": "I Love a Neutral Nail as Much as the Next Person, But This Colour Is About to Be Huge",
+      "link": "https://www.whowhatwear.com/beauty/nails/petrol-blue-nail-trend",
+      "summary": "It's already a fashion favourite.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Love a Neutral Nail as Much as the Next Person, But This Colour Is A...",
       "score": 1,
       "published": "2026-10-03T06:00:00+00:00",
       "discovered_via": "feed"
@@ -821,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4754dcab6ecb",
-      "title": "Sarah Jessica Parker Gets Ready for the New York City Ballet Fall Fashion Gala in Custom Simone Rocha",
-      "link": "https://www.vogue.com/slideshow/sarah-jessica-parker-new-york-city-ballet-fall-fashion-gala-simone-rocha-01-10-2026",
-      "summary": "We drop in on the actress and producer as she prepares for the annual fundraiser.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Sarah Jessica Parker Gets Ready for the New York City Ballet Fall Fash...",
-      "score": 1,
-      "published": "2026-10-02T16:00:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0563b4616850",
       "title": "3 Timeless Red-Carpet Hair Trends You Can Recreate",
       "link": "https://www.harpersbazaar.com/beauty/hair/a73835522/3-timeless-red-carpet-hair-trends-you-can-recreate/",
@@ -1017,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0e0a66cefa81",
-      "title": "The Insiders Guide to Rome: Where to Stay, Dine, and Shop (and What to Skip)",
-      "link": "https://www.whowhatwear.com/living/travel/rome-travel-guide",
-      "summary": "Every buzzy spot on my fashion-editor short list.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Insiders Guide to Rome: Where to Stay, Dine, and Shop (and What to...",
-      "score": 1,
-      "published": "2026-10-02T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "048f64a898d4",
       "title": "I Asked a Plastic Surgeon, a Derm, and an Injector for the Wrinkle Creams They Swear By",
       "link": "https://www.whowhatwear.com/beauty/skin/best-wrinkle-creams",
@@ -1040,6 +1152,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Asked a Plastic Surgeon, a Derm, and an Injector for the Wrinkle Cre...",
+      "score": 1,
+      "published": "2026-10-02T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0e0a66cefa81",
+      "title": "The Insiders Guide to Rome: Where to Stay, Dine, and Shop (and What to Skip)",
+      "link": "https://www.whowhatwear.com/living/travel/rome-travel-guide",
+      "summary": "Every buzzy spot on my fashion-editor short list.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Insiders Guide to Rome: Where to Stay, Dine, and Shop (and What to...",
       "score": 1,
       "published": "2026-10-02T11:00:00+00:00",
       "discovered_via": "feed"
@@ -1577,20 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a3767f642863",
-      "title": "First Sienna, Now Models in Paris—This Coat Trend Practically Screams \"I'm Stylish\"",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/suede-trench-coat-trend-rosie-huntington-whiteley-2026",
-      "summary": "It hits every time.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-01T13:40:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "590d7b9531ae",
       "title": "Surat Embroidery Units Directed to Follow Four Labour Codes",
       "link": "https://in.apparelresources.com/business-news/manufacturing/surat-embroidery-units-directed-follow-four-labour-codes/",
@@ -1630,62 +1742,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 3,
       "published": "2026-10-01T12:08:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e2b0ba51be8",
-      "title": "John Galliano Just Brought Haute Couture to Zara—15 Pieces I Predict Will Sell Out First",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-john-galliano-collaboration",
-      "summary": "The wait is over.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: John Galliano Just Brought Haute Couture to Zara—15 Pieces I Predict W...",
-      "score": 1,
-      "published": "2026-10-01T11:38:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "915a8b4bb544",
-      "title": "SNITCH Expands Northeast Presence With New Dimapur Store",
-      "link": "https://in.apparelresources.com/business-news/retail/snitch-expands-northeast-presence-new-dimapur-store/",
-      "summary": "SNITCH, a D2C menswear fashion brand, is set to open a new store in Dimapur, Nagaland, as it expands its offline retail network in Northeast India. The development was announced by Chetan Siyal, Founding Member and CMO of SNITCH, in a LinkedIn post. He said the brand is looking at markets beyond the cities that [&#8230",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: SNITCH Expands Northeast Presence With New Dimapur Store...",
-      "score": 4,
-      "published": "2026-10-01T10:56:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "964876c400fa",
-      "title": "The Column Skirt Anchors a Quieter Fall/Winter 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/column-skirt-anchors-quieter-fall-winter-2026/",
-      "summary": "Not every skirt story this season is about ornament. At The Row, the column skirt distilled the season&#8217;s mood into an elegant, narrow shape. It shows that a well-judged silhouette can carry a look without embellishment. The long, lean line elongates the figure, which is why it reads as sophisticated rather than o",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Column Skirt Anchors a Quieter Fall/Winter 2026...",
-      "score": 2,
-      "published": "2026-10-01T09:39:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "62d285f58d4b",
-      "title": "Embellished Skirts Take Centre Stage for Fall/Winter 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/embellished-skirts-take-centre-stage-fall-winter-2026/",
-      "summary": "After several seasons of restraint, the skirt is where fall/winter 2026 shows its more ornamental side. Designers turned to beading, sequins, embroidery, brocade and appliqué to give clothes texture, emotion and visual weight, at a moment when stripped-back minimalism risked feeling too severe. The femininity that resu",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Embellished Skirts Take Centre Stage for Fall/Winter 2026...",
-      "score": 4,
-      "published": "2026-10-01T09:34:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2825,54 +2881,54 @@
   ],
   "trends": [
     {
-      "term": "google fitbit air fitness tracker",
+      "term": "पेट्रोल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "साहिबज़ादा फरहान",
+      "term": "বায়রন বিশ্বাস",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "flydubai flight tracker",
+      "term": "वेस्टइंडीज़ क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ttv namboori cricket",
+      "term": "ആര്. ശ്രീലേഖ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रेमानंद महाराज",
+      "term": "jayden seales",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricbuzz live score",
+      "term": "jio hotstar",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "kl rahul",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एसियन गेम्स",
+      "term": "கூட்டுறவு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "carlos alcaraz",
+      "term": "hotstar",
       "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Celebrity Style"
     },
     {
-      "term": "നിവിന് പോളി",
+      "term": "jiohotstar",
       "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "whatsapp",
-      "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Celebrity Style"
     }
   ],
   "tracked_keywords": [
