@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-10-05T08:12:07.332462+00:00",
+  "generated_at": "2026-10-05T12:03:46.769398+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 180,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8fdcf609f5a8",
+      "title": "Gabriela Hearst Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gabriela-hearst",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Gabriela Hearst Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-05T11:59:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7d5cb8566e5",
+      "title": "Abra Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/abra",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Abra Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-05T11:59:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "21520de64370",
+      "title": "Margaret Howell Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/margaret-howell",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Margaret Howell Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-05T11:59:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8752130db67",
+      "title": "Sacai Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/sacai",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sacai Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-05T11:59:48+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "eee95a25a7a6",
       "title": "A.W.A.K.E. Mode Spring 2027 Ready-to-Wear",
@@ -19,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: A.W.A.K.E. Mode Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T11:59:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Jean Paul Gaultier Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T11:59:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +103,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mugler Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T11:59:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +117,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mira Mikati Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T11:59:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +131,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Johanna Ortiz Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T11:59:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +145,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Undercover Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T11:59:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +159,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mossi Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T11:59:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,42 +173,112 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Valentino Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T11:59:48+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "89d7d9ad87b9",
-      "title": "Akris Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/akris",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "f1e5a9067860",
+      "title": "These 11 Outfits Are Replacing The Ones We Couldn't Stop Wearing Last Fall",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/outdated-fall-outfits-2026",
+      "summary": "Simple updates inside.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Akris Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-05T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "319129ee4e0d",
-      "title": "Miu Miu Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/miu-miu",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "cc3df6b500fa",
+      "title": "All My Favourite Autumn Outfits Have This Rich-Looking Shoe Colour in Common",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/brown-heels-trend-victoria-beckham-2026",
+      "summary": "An outfit-altering shoe colour.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Miu Miu Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: All My Favourite Autumn Outfits Have This Rich-Looking Shoe Colour in ...",
       "score": 1,
-      "published": "2026-10-05T08:11:30+00:00",
+      "published": "2026-10-05T10:28:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6d5482a5b41a",
+      "title": "28 Best Beach Wedding Dresses for a Walk Down a Sandy Aisle",
+      "link": "https://www.vogue.com/slideshow/best-beach-wedding-dresses",
+      "summary": "Read on to discover tips for finding the best beach wedding dress—plus, shop 28 of our favorite designs here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 28 Best Beach Wedding Dresses for a Walk Down a Sandy Aisle — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-10-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b5e9d26d188",
+      "title": "Leave It to NYC & LA’s Coolest Fashion Girls to Debut Fall’s Latest Denim Trend",
+      "link": "https://www.whowhatwear.com/fashion/denim/green-denim-outfits-fall-2026",
+      "summary": "Find out inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-10-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed765c672f75",
+      "title": "Sai Silks Posts Rs 434 Cr Q2 Turnover, Adds 4 Stores",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/sai-silks-posts-rs-434-cr-q2-turnover-adds-4-stores/",
+      "summary": "Sai Silks (Kalamandir) Limited, South Indian retail textile and ethnic apparel company recorded a turnover of Rs 434 crore in Q2 FY27, ended September 30, compared with Rs 444 crore in the corresponding quarter of the previous fiscal, marking a 2.25% year-on-year decline. For the first half of FY27, the company&#8217;s",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sai Silks Posts Rs 434 Cr Q2 Turnover, Adds 4 Stores...",
+      "score": 2,
+      "published": "2026-10-05T09:58:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ada23b0a2d6",
+      "title": "Textile Output Surges 13.1%, Apparel Production Falls 7.4% in August",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/textile-output-surges-13-1-apparel-production-falls-7-4-august/",
+      "summary": "India’s industrial production grew 8% in August 2026, although textile and wearing-apparel manufacturing moved in opposite directions. Textile production increased 13.1% year-on-year (YoY), while wearing-apparel output declined 7.4%, according to data released by the Ministry of Statistics and Programme Implementation ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Textile Output Surges 13.1%, Apparel Production Falls 7.4% in August...",
+      "score": 1,
+      "published": "2026-10-05T09:35:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d976b31a2817",
+      "title": "Sandeep Chandrasekaran Promoted to Senior Director at Myntra",
+      "link": "https://in.apparelresources.com/business-news/retail/sandeep-chandrasekaran-promoted-senior-director-myntra/",
+      "summary": "Myntra has promoted Sandeep Chandrasekaran to Senior Director. He has been with Myntra since February 2025, previously serving as Director and Category Head for footwear, sports and sports apparel. In his expanded role, Chandrasekaran will continue to oversee the footwear, sports apparel and sporting goods categories, ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sandeep Chandrasekaran Promoted to Senior Director at Myntra...",
+      "score": 1,
+      "published": "2026-10-05T09:28:05+00:00",
       "discovered_via": "feed"
     },
     {
       "id": "dfad41534476",
       "title": "Diane Keaton Films Are My Ultimate Style Inspiration—3 Iconic Characters I Still Want to Be in 2026",
       "link": "https://www.whowhatwear.com/fashion/diane-keaton-movie-outfits",
-      "summary": "The pillar of timeless dressing.",
+      "summary": "My icon of timeless dressing.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -527,34 +653,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8a9f5ca2d468",
-      "title": "On ‘SNL,’ Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy",
-      "link": "https://www.vogue.com/article/taylor-swift-and-dakota-johnson-saturday-night-live",
-      "summary": "Taylor Swift joined her “Patient Zero” costar during her “Saturday Night Live” monologue, with the friends trading their co-ords for two very different takes on the statement mini.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: On ‘SNL,’ Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t H...",
-      "score": 1,
-      "published": "2026-10-04T11:35:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "60bf44e80dd3",
-      "title": "From the Archives: Rebel with a Shrine",
-      "link": "https://www.vogue.com/article/from-the-archives-rebel-with-a-shrine",
-      "summary": "In a culture that worships youth, James Dean remains one of our most potent icons—a young man for whom youth itself was a torture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From the Archives: Rebel with a Shrine...",
-      "score": 0,
-      "published": "2026-10-04T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6beda28a8b57",
       "title": "This Is the Flat Shoe Trend Fashion People Will Be Wearing With Skirts and Jeans All Autumn",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/dune-loafers-iris-law-2026",
@@ -566,20 +664,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-10-04T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2e43cabbe55c",
-      "title": "Lily Brant Followed in Her Mom’s Alaïa Footsteps—After Practicing in Heels on a Treadmill",
-      "link": "https://www.vogue.com/slideshow/lily-brant-alaia-paris-fashion-week-diary",
-      "summary": "For her Paris Fashion Week runway debut, 20-year-old Lily Brant took a little advice from Stephanie Seymour and revisited her lifelong connection to Alaïa.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Lily Brant Followed in Her Mom’s Alaïa Footsteps—After Practicing in H...",
-      "score": 2,
-      "published": "2026-10-04T10:46:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -863,20 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3ae6088edb7a",
-      "title": "V2 Retail Q2 Revenue Rises 28.4% to Rs 905 Crore",
-      "link": "https://in.apparelresources.com/business-news/retail/v2-retail-q2-revenue-rises-28-4-rs-905-crore/",
-      "summary": "V2 Retail Ltd., a value-fashion chain offering apparel for men, women, and children, reported a 28.4% year-on-year (YoY) increase in standalone revenue to Rs 905 crore (US $9.41 million) in the second quarter of FY27, compared with Rs 705 crore (US $7.33 million) in Q2 FY26. The growth was supported by the addition of ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: V2 Retail Q2 Revenue Rises 28.4% to Rs 905 Crore...",
-      "score": 1,
-      "published": "2026-10-03T11:06:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "38a6eed79c60",
       "title": "I'm a Shopping-Obsessed Editor—These Are the Fall Fashion and Beauty Buys Taking Up 20+ Tabs on My Laptop",
       "link": "https://www.whowhatwear.com/beauty/fall-fashion-beauty-editor-picks",
@@ -919,34 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e913d6263d2a",
-      "title": "Raymond Lifestyle Appoints Publicis Groupe as Marketing Partner",
-      "link": "https://in.apparelresources.com/business-news/retail/raymond-lifestyle-appoints-publicis-groupe-marketing-partner/",
-      "summary": "Raymond Lifestyle Limited has appointed Publicis Groupe India as its integrated marketing partner, bringing together creative, media, performance marketing, customer relationship management (CRM), digital, reputation and technology capabilities under a customised structure called ‘Team One Thread’. The dedicated team w",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Raymond Lifestyle Appoints Publicis Groupe as Marketing Partner...",
-      "score": 1,
-      "published": "2026-10-03T09:54:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3c4b245509c",
-      "title": "Nike Plans New Campus in Bengaluru as India Operations Expand",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/nike-plans-new-campus-bengaluru-india-operations-expand/",
-      "summary": "Nike Inc plans to establish a new campus in Bengaluru as the sportswear company expands its operations in India. According to the company, full-time Nike employees based in India will begin moving to the new campus from FY28. The facility will support work across Nike, Jordan and Converse. Its exact location has not be",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Nike Plans New Campus in Bengaluru as India Operations Expand...",
-      "score": 1,
-      "published": "2026-10-03T09:38:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a10f5dca4835",
       "title": "Fashion People Will Be Wearing Selena Gomez's Specific Sleeve Trend With Jeans This Fall",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/selena-gomez-balloon-sleeves",
@@ -972,20 +1014,6 @@
       "angle": "Fashion Intelligence: The New Designer Status Symbol Isn't a Bag—It's *These* Sneakers...",
       "score": 1,
       "published": "2026-10-03T08:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8647a5e319be",
-      "title": "Arvind Fashions Subsidiary Invests Rs 50 Cr in Flying Machine operator AYBPL",
-      "link": "https://in.apparelresources.com/business-news/retail/arvind-fashions-subsidiary-invests-rs-50-cr-in-flying-machine-operator-aybpl/",
-      "summary": "Arvind Lifestyle Brands Ltd (ALBL), the wholly-owned material subsidiary of Arvind Fashions, has invested around Rs 50 crore in Arvind Youth Brands Pvt Ltd (AYBPL), which operates the casualwear brand Flying Machine, through a subscription to equity shares, according to Arvind Fashions. According to a regulatory filing",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Arvind Fashions Subsidiary Invests Rs 50 Cr in Flying Machine operator...",
-      "score": 4,
-      "published": "2026-10-03T07:51:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1031,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ba30d09b474b",
-      "title": "I Love a Neutral Nail as Much as the Next Person, But This Colour Is About to Be Huge",
-      "link": "https://www.whowhatwear.com/beauty/nails/petrol-blue-nail-trend",
-      "summary": "It's already a fashion favourite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Love a Neutral Nail as Much as the Next Person, But This Colour Is A...",
-      "score": 1,
-      "published": "2026-10-03T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fb7a5300c0e6",
       "title": "Cosy, Classy and Expensive-Looking—9 New-In High Street Knits I’m Eyeing for Instant Polish",
       "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/cos-massimo-dutti-sezane-knitwear-2026",
@@ -1054,6 +1068,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Cosy, Classy and Expensive-Looking—9 New-In High Street Knits I’m Eyei...",
+      "score": 1,
+      "published": "2026-10-03T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba30d09b474b",
+      "title": "I Love a Neutral Nail as Much as the Next Person, But This Colour Is About to Be Huge",
+      "link": "https://www.whowhatwear.com/beauty/nails/petrol-blue-nail-trend",
+      "summary": "It's already a fashion favourite.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Love a Neutral Nail as Much as the Next Person, But This Colour Is A...",
       "score": 1,
       "published": "2026-10-03T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1213,34 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fb1e7386d79d",
-      "title": "Not Black—This Is the Elegant Color Every Sophisticated Person Will Wear This Fall",
-      "link": "https://www.whowhatwear.com/fashion/navy-fall-2026-shopping",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Not Black—This Is the Elegant Color Every Sophisticated Person Will We...",
-      "score": 1,
-      "published": "2026-10-02T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dc8d7ace3214",
-      "title": "People in Paris Know Black Jeans Are a Big Fall Denim Trend—This Is the Shoe Trend They Look Best With",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-jeans-white-sneakers-outfit-elsa-hosk-2026",
-      "summary": "Not loafers or ballet flats.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-02T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2421bac8d7e4",
       "title": "It Turns Out, This \"Dated\" Eyeliner Trend Is the Key to Looking Like a Cool Celeb in Paris",
       "link": "https://www.whowhatwear.com/beauty/makeup/rihanna-inde-navarrette-paris-fashion-week-eyeliner",
@@ -1250,6 +1250,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-02T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fb1e7386d79d",
+      "title": "Not Black—This Is the Elegant Color Every Sophisticated Person Will Wear This Fall",
+      "link": "https://www.whowhatwear.com/fashion/navy-fall-2026-shopping",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Not Black—This Is the Elegant Color Every Sophisticated Person Will We...",
       "score": 1,
       "published": "2026-10-02T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1266,20 +1280,6 @@
       "angle": "Fashion Intelligence: The Best Street-Style Looks From Paris Fashion Week...",
       "score": 3,
       "published": "2026-10-02T18:46:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12f964fc01bb",
-      "title": "Wearing This Viral Item Is a True Sign of a High-Fashion 2026 It Girl",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/conner-ives-embroidered-fur-robe-laura-harrier",
-      "summary": "Spotted at Paris Fashion Week.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-02T18:38:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1420,20 +1420,6 @@
       "angle": "Fashion Intelligence: Sarah Jessica Parker’s Rapunzel Braid Is Totally and Completely Mesmer...",
       "score": 0,
       "published": "2026-10-02T15:49:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a989a667b6ee",
-      "title": "If You Care About Cost Per Wear, These 23 Elevated Basics From Shopbop Are Worth Buying",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-elevated-basics",
-      "summary": "Fall staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Care About Cost Per Wear, These 23 Elevated Basics From Shopbop...",
-      "score": 1,
-      "published": "2026-10-02T15:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2839,52 +2825,52 @@
   ],
   "trends": [
     {
-      "term": "carlos alcaraz",
+      "term": "earthquake",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "v2 retail",
+      "term": "novak djokovic",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பெ. சண்முகம்",
+      "term": "भुवनेश्वर कुमार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "దిగుమతి",
+      "term": "सरकार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "russia plague outbreak",
+      "term": "bse sensex",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రంజీ ట్రోఫీ",
+      "term": "महंगाई भत्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aadhar card",
+      "term": "उपेन्द्र कुशवाहा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cancer horoscope today",
+      "term": "japan vs new zealand",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi",
+      "term": "വിജയ് ദേവരകൊണ്ട",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "zimbabwe vs west indies",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
