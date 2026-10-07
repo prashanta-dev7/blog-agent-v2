@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T08:06:05.115768+00:00",
+  "generated_at": "2026-10-07T11:32:27.592625+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 174,
+  "industry_count": 169,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Self-Portrait Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-07T08:05:04+00:00",
+      "published": "2026-10-07T11:27:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Louis Vuitton Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-07T08:05:04+00:00",
+      "published": "2026-10-07T11:27:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tíscar Espadas Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-07T08:05:04+00:00",
+      "published": "2026-10-07T11:27:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Dominnico Spain Spring 2027...",
       "score": 0,
-      "published": "2026-10-07T08:05:04+00:00",
+      "published": "2026-10-07T11:27:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Moisés Nieto Spain Spring 2027...",
       "score": 0,
-      "published": "2026-10-07T08:05:04+00:00",
+      "published": "2026-10-07T11:27:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fumito Ganryu Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-10-07T08:05:04+00:00",
+      "published": "2026-10-07T11:27:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,35 +103,315 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Situationist Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-07T08:05:04+00:00",
+      "published": "2026-10-07T11:27:43+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "c3e5e09cf70b",
-      "title": "CFCL Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cfcl",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "b19a78d2c65c",
+      "title": "FYI: Chic Dresses Are Wearing Jeans With Loafers In This Elevated Neutral",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/navy-loafers-trend-uma-thurman-2026",
+      "summary": "Easy and elevated.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: CFCL Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-10-07T08:05:04+00:00",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-07T11:18:25+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "216edcca6fc2",
-      "title": "Christopher Esber Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/christopher-esber",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "d725df6687de",
+      "title": "Kasturi Cotton Certification Reaches 2.13 Lakh Bales",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/kasturi-cotton-certification-reaches-2-13-lakh-bales/",
+      "summary": "Nearly 2.13 lakh bales of Indian-grown cotton were certified under the Kasturi Cotton Bharat programme during the 2025-26 cotton marketing season. Certified volumes have increased sharply from 47,100 bales in 2023-24. More than 10 lakh bales have now been brought under the Kasturi Cotton Bharat blockchain, creating a t",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Kasturi Cotton Certification Reaches 2.13 Lakh Bales...",
+      "score": 1,
+      "published": "2026-10-07T11:08:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d43544645493",
+      "title": "I'm Tired of Wearing Jeans the Same Way—These 5 Outfit Ideas Feel So Much Cooler",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/new-fall-denim-outfit-ideas-2026",
+      "summary": "Re-create each look inside.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Christopher Esber Spring 2027 Ready-to-Wear...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed561d6c0728",
+      "title": "Starting in 2027, Cool Girls Will Wear All-Black Outfits With This Specific Pop of Color",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-purple-color-trend-2026",
+      "summary": "As seen on Zoë Kravitz.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Starting in 2027, Cool Girls Will Wear All-Black Outfits With This Spe...",
+      "score": 2,
+      "published": "2026-10-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9f35628aa309",
+      "title": "I Saved $760 By Shopping These On-Sale Fashion, Beauty, and Home Items at Amazon",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-beauty-home-amazon-big-deal-days",
+      "summary": "There's one day left to shop the sale.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Saved $760 By Shopping These On-Sale Fashion, Beauty, and Home Items...",
+      "score": 2,
+      "published": "2026-10-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08aa731bb3dc",
+      "title": "Crocs Elevates India to Tier 1 Market Amid Double-Digit Growth",
+      "link": "https://in.apparelresources.com/business-news/retail/crocs-elevates-india-tier-1-market-amid-double-digit-growth/",
+      "summary": "Crocs has classified India as a Tier 1 market, making the country a key priority for both its Asia-Pacific (APAC) business and global operations as the footwear brand continues to record double-digit growth and increase investments across retail, omnichannel, product expansion and sourcing. According to the company, In",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Crocs Elevates India to Tier 1 Market Amid Double-Digit Growth...",
+      "score": 2,
+      "published": "2026-10-07T10:49:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3c2a33629da2",
+      "title": "Inside Sephora and Vogue Business’s Night Kicking Off a Global Cause",
+      "link": "https://www.vogue.com/article/inside-sephora-and-vogue-businesss-night-kicking-off-a-global-cause",
+      "summary": "At the Sephora and Vogue Business event during Paris Fashion Week, the beauty retailer launched its global initiative Project Hearts Not Hate.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Inside Sephora and Vogue Business’s Night Kicking Off a Global Cause...",
+      "score": 3,
+      "published": "2026-10-07T10:11:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "50af4bb9177a",
+      "title": "KKCL Targets 15–18% Growth, Plans to Add 50–70 Stores in FY27",
+      "link": "https://in.apparelresources.com/business-news/retail/kkcl-targets-15-18-growth-plans-add-50-70-stores-fy27/",
+      "summary": "Kewal Kiran Clothing (KKCL) is targeting 15–18% organic revenue growth in FY27 and plans to add around 50–70 stores as it expands Kraus, strengthens its core Killer brand and shifts smaller brands towards new channels and consumer segments. The company, which operates brands including Killer, Lawman, Easies, Integriti ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: KKCL Targets 15–18% Growth, Plans to Add 50–70 Stores in FY27...",
       "score": 1,
-      "published": "2026-10-07T08:05:04+00:00",
+      "published": "2026-10-07T10:04:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1555cd93da5e",
+      "title": "How to Style a Slip Dress for 5 Different Weddings",
+      "link": "https://www.vogue.com/article/slip-dress-wedding-guest-styling-ideas",
+      "summary": "A bridal stylist shares five ways to wear a slip dress as a wedding guest—whether you're attending a courthouse ceremony or a black-tie soiree.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: How to Style a Slip Dress for 5 Different Weddings — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-10-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6cfec328883d",
+      "title": "Vogue First! DeMellier's New “Icons” Collection Puts a Spin on Its Bestselling Bags",
+      "link": "https://www.vogue.com/article/demellier-icons-collection",
+      "summary": "Five content creators reimagine DeMellier’s hero handbags through their own personal lens—and Vogue Shopping readers get 24 hours exclusive access to shop the collection first.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-10-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d072b3e2c3fb",
+      "title": "Decoding the Fall 2026 Leather Jacket Trend",
+      "link": "https://www.vogue.com/article/leather-jacket-trend",
+      "summary": "Let the fall/winter 2026 runways and the latest street style show how to wear fall’s top leather jacket trend.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 5,
+      "published": "2026-10-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2b6efa3d5ddf",
+      "title": "Retinol, Retinal, or Tretinoin? How to Choose the Best Retinoid for You",
+      "link": "https://www.vogue.com/article/best-retinoid",
+      "summary": "The best retinoids, like tretinoin, adapalene, retinol, and retinal, cater to different issues, like acne and sensitivity, so choose wisely. Shop our top picks now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Retinol, Retinal, or Tretinoin? How to Choose the Best Retinoid for Yo...",
+      "score": 0,
+      "published": "2026-10-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "027981d21461",
+      "title": "30+ Wardrobe Essentials That Should Be in Your Closet in 2026",
+      "link": "https://www.vogue.com/article/vogue-wardrobe-essentials-guide",
+      "summary": "Capsule wardrobe essentials, classics, basics—whatever you call them, here are the top styles as curated by the editors at Vogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 30+ Wardrobe Essentials That Should Be in Your Closet in 2026...",
+      "score": 1,
+      "published": "2026-10-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "44d5812a05e1",
+      "title": "The Paris Fashion Week Way to Wear Jeans and a Tank Includes This Jacket Trend and This Shoe Color",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-louis-vuitton-tank-top-jeans-outfit-paris-fashion-week",
+      "summary": "According to Zendaya, of course.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "815788447190",
+      "title": "Baazar Style Retail H1 Revenue Rises 6%, Store Network Hits 283",
+      "link": "https://in.apparelresources.com/business-news/retail/baazar-style-retail-h1-revenue-rises-6-store-network-hits-283/",
+      "summary": "Baazar Style Retail reported a 6% year-on-year increase in revenue from operations to Rs 964.5 crore (US $99.87 million) in H1 FY27, despite a shift in the festive calendar that moved Durga Puja demand from Q2 FY26 to Q3 FY27. Revenue from operations in Q2 FY27 declined 10% year-on-year to Rs 478.1 crore (US $49.51 [&#",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Baazar Style Retail H1 Revenue Rises 6%, Store Network Hits 283...",
+      "score": 2,
+      "published": "2026-10-07T09:51:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "54a7661ce05b",
+      "title": "All the Wonderfully Whimsical Trends Alessandro Michele Dreamt Up for Valentino Spring 2027",
+      "link": "https://www.whowhatwear.com/fashion/runway/valentino-paris-fashion-week-spring-summer-2027",
+      "summary": "Live from Paris.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-07T09:40:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "828aefa7284e",
+      "title": "Florence Pugh Goes Baby Bangs-First Into Fall",
+      "link": "https://www.vogue.com/article/florence-pugh-goes-baby-bangs-first-into-fall",
+      "summary": "“East of Eden” star Florence Pugh continues her red carpet rebel streak with some punky bangs and a spiky up-do.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Florence Pugh Goes Baby Bangs-First Into Fall...",
+      "score": 0,
+      "published": "2026-10-07T09:13:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "97705a6f12d0",
+      "title": "If Your Vibe Is Designer Looking and Your Budget Is $80, These Chic Amazon Sale Finds Belong in Your Cart",
+      "link": "https://www.whowhatwear.com/fashion/shopping/designer-looking-fashion-amazon-big-deal-days-2026",
+      "summary": "Don't miss out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: If Your Vibe Is Designer Looking and Your Budget Is $80, These Chic Am...",
+      "score": 1,
+      "published": "2026-10-07T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9b880b505510",
+      "title": "Zendaya Just Closed Paris Fashion Week With Her Coolest Pixie Cut Yet—Here's How She Styled It",
+      "link": "https://www.whowhatwear.com/beauty/hair/zendaya-pixie-cut-louis-vuitton-spring-summer-2027",
+      "summary": "Plus, every product used.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Zendaya Just Closed Paris Fashion Week With Her Coolest Pixie Cut Yet—...",
+      "score": 2,
+      "published": "2026-10-07T08:32:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c28ff965431d",
+      "title": "Vogue Editor-Tested Prime Day Beauty Deals Are Up to 48% Off 2026",
+      "link": "https://www.vogue.com/article/prime-day-beauty-deals-10-06-2026",
+      "summary": "Shopping Prime Day beauty deals? From up to 46% off high-tech gadgets to skin-care staples, today’s the last day to grab deals.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Vogue Editor-Tested Prime Day Beauty Deals Are Up to 48% Off 2026...",
+      "score": 1,
+      "published": "2026-10-07T08:23:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be83715e519d",
+      "title": "The Prime Day Clothing Deals I’m Shopping in 2026",
+      "link": "https://www.vogue.com/article/best-prime-day-clothing-deals-10-07-2026",
+      "summary": "Shop the best Prime Day clothing deals 2026, curated by Vogue editors. It’s tight edit of fashion finds you want (and none you don’t).",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Prime Day Clothing Deals I’m Shopping in 2026...",
+      "score": 1,
+      "published": "2026-10-07T08:11:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3acb02e6a0d",
+      "title": "The Best Prime Day Deals 2026, According to Vogue Editors",
+      "link": "https://www.vogue.com/article/best-prime-day-deals-editor-picks-10-07-2026",
+      "summary": "Shop the best Prime Day deals 2026—handpicked by Vogue editors across fashion, beauty, and home.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Prime Day Deals 2026, According to Vogue Editors...",
+      "score": 2,
+      "published": "2026-10-07T08:07:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -145,20 +425,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-10-07T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ce4fbb8aef97",
-      "title": "If a Fashion Person Skips a Leather Jacket This Fall, This Trend's the Culprit",
-      "link": "https://www.whowhatwear.com/fashion/fall/how-to-wear-military-jacket-trend",
-      "summary": "Reporting for duty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-10-07T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -177,31 +443,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "093379af3bc2",
-      "title": "25 Years of Modi in Governance: Gujarat Model, Economic Reforms and National Security Transformation",
-      "link": "https://www.indiatoday.in/india/video/25-years-of-modi-in-governance-gujarat-model-economic-reforms-and-national-security-transformation-ytvd-3011494-2026-10-07?utm_source=rss",
-      "summary": "25 Years of Modi in Governance: Gujarat Model, Economic Reforms and National Security Transformation",
-      "source": "India Today Fashion",
+      "id": "ce4fbb8aef97",
+      "title": "If a Fashion Person Skips a Leather Jacket This Fall, This Trend's the Culprit",
+      "link": "https://www.whowhatwear.com/fashion/fall/how-to-wear-military-jacket-trend",
+      "summary": "Reporting for duty.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 25 Years of Modi in Governance: Gujarat Model, Economic Reforms and Na...",
-      "score": 1,
-      "published": "2026-10-07T07:57:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5b17441d5d30",
-      "title": "Delhi Showdown: FIR Filed Against Opposition MPs Over Akashvani Bhavan Sit-In During EC March",
-      "link": "https://www.indiatoday.in/india/video/delhi-showdown-fir-filed-against-opposition-mps-over-akashvani-bhavan-sit-in-during-ec-march-ytvd-3011460-2026-10-07?utm_source=rss",
-      "summary": "Delhi Showdown: FIR Filed Against Opposition MPs Over Akashvani Bhavan Sit-In During EC March",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Delhi Showdown: FIR Filed Against Opposition MPs Over Akashvani Bhavan...",
-      "score": 1,
-      "published": "2026-10-07T07:23:09+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-07T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -317,20 +569,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c28ff965431d",
-      "title": "Vogue Editor-Tested Prime Day Beauty Deals Are Up to 46% Off 2026",
-      "link": "https://www.vogue.com/article/prime-day-beauty-deals-10-06-2026",
-      "summary": "Shopping Prime Day beauty deals? From up to 46% off high-tech gadgets to skin-care staples, today’s the last day to grab deals.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Vogue Editor-Tested Prime Day Beauty Deals Are Up to 46% Off 2026...",
-      "score": 1,
-      "published": "2026-10-06T22:31:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dd23f7e476e1",
       "title": "Uma Thurman Brings Timeless Style to Harper’s Bazaar Spain",
       "link": "https://www.fashiongonerogue.com/photo-shoot/uma-thurman-harpers-bazaar-spain-2026/",
@@ -342,34 +580,6 @@
       "angle": "Fashion Intelligence: Uma Thurman Brings Timeless Style to Harper’s Bazaar Spain...",
       "score": 1,
       "published": "2026-10-06T22:29:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fd0bff8711a6",
-      "title": "The Prime Day Clothing Deals I’m Shopping in 2026",
-      "link": "https://www.vogue.com/article/best-prime-day-clothing-deals-10-06-2026",
-      "summary": "Shop the best Prime Day clothing deals 2026, curated by Vogue editors. It’s tight edit of fashion finds you want (and none you don’t).",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Prime Day Clothing Deals I’m Shopping in 2026...",
-      "score": 1,
-      "published": "2026-10-06T22:21:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fd32d057d047",
-      "title": "The Best Prime Day Deals 2026, According to Vogue Editors",
-      "link": "https://www.vogue.com/article/best-prime-day-deals-editor-picks-10-06-2026",
-      "summary": "Shop the best Prime Day deals 2026—handpicked by Vogue editors across fashion, beauty, and home.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Prime Day Deals 2026, According to Vogue Editors...",
-      "score": 2,
-      "published": "2026-10-06T22:11:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -807,6 +1017,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f9446733aa33",
+      "title": "8 Best Black Men’s Hairstyles – Top Haircuts 2026",
+      "link": "https://www.fashionbeans.com/article/black-mens-haircuts-hairstyles/",
+      "summary": "Afro hair has a reputation for being unwilling to cooperate: more often than not it seems determined to do the exact opposite of what its owner wants. But, while obedience isn&#8217;t this hair type&#8217;s forte, there are plenty of excellent haircuts for black men to experiment with. That&#8217;s because, when treate",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Black Men’s Hairstyles – Top Haircuts 2026...",
+      "score": 1,
+      "published": "2026-10-06T14:23:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7adc5a4ea62f",
       "title": "Best At-Home Beauty Devices From Wavytalk: Microcurrent, LED & IPL Tools",
       "link": "https://fashionista.com/2026/10/best-at-home-beauty-devices-from-wavytalk-microcurrent-led-ipl-tools",
@@ -947,29 +1171,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d70ed436814a",
-      "title": "The Vogue Business Funding Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
-      "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
-      "score": 2,
-      "published": "2026-10-06T12:25:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "12f363c4dd1b",
-      "title": "The Best Apple Deals to Shop This Prime Day",
+      "title": "The Best Apple Deals to Shop Before October Prime Day Ends",
       "link": "https://www.harpersbazaar.com/fashion/trends/a74047433/amazon-prime-apple-deals-october-2026/",
-      "summary": "It’s a rare chance to save on iPads, MacBooks, headphones, and more",
+      "summary": "You have a few more hours to save on iPads, MacBooks, and AirPods.",
       "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Apple Deals to Shop This Prime Day...",
+      "angle": "Fashion Intelligence: The Best Apple Deals to Shop Before October Prime Day Ends...",
       "score": 0,
       "published": "2026-10-06T12:24:34+00:00",
       "discovered_via": "feed"
@@ -1059,59 +1269,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c313b3279415",
-      "title": "How Rachel Ojuromi, the Coolest Girl in Nigeria, Came to Walk the Chanel Show",
-      "link": "https://www.vogue.com/slideshow/rachel-ojuromi-chanel-spring-2027-model-interview",
-      "summary": "22-year-old Rachel Ojuromi turned Lagos into her runway with her viral outfit videos. Then Chanel came calling for the spring 2027 show in Paris.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: How Rachel Ojuromi, the Coolest Girl in Nigeria, Came to Walk the Chan...",
-      "score": 3,
-      "published": "2026-10-06T10:03:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "27463ab98674",
-      "title": "Here’s What 13 Vogue Editors Are Wearing to Their Fall Weddings",
-      "link": "https://www.vogue.com/article/vogue-editors-wedding-outfits",
-      "summary": "See what fall wedding guest outfits Vogue editors are putting together for their own RSVPs–and get inspired for your own.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Here’s What 13 Vogue Editors Are Wearing to Their Fall Weddings — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-10-06T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd979e4b0841",
-      "title": "How a Laundry Disaster Led Liana Satenstein to Make the Perfect T-Shirt",
-      "link": "https://www.vogue.com/article/liana-satenstein-oksana-brand-launch",
-      "summary": "Introducing Oksana, former Vogue editor Liana Satenstein’s latest creative endeavor.",
-      "source": "Vogue US",
+      "id": "6e587cfac5d2",
+      "title": "8 Fragrances Worn By The World’s Most Stylish Men",
+      "link": "https://www.fashionbeans.com/article/celebrity-mens-fragrances/",
+      "summary": "Having already read the FashionBeans guides to dressing for your body shape, nailing smart-casual and picking the right tie to wear with your shirt — you have read them, right? — it’s likely you’ve already got your appearance pretty down pat. But it’ll all be for naught if you don’t smell good. “Manners and a &#8230; C",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How a Laundry Disaster Led Liana Satenstein to Make the Perfect T-Shir...",
-      "score": 0,
-      "published": "2026-10-06T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e4f025433c4c",
-      "title": "Victoria Beckham Is Breaking One Very British Lipstick Rule",
-      "link": "https://www.vogue.com/article/victoria-beckham-rouge-victoria-lipstick",
-      "summary": "Budge-proof, smudge-proof, transfer-proof, and housed in a luxurious white case, the new Rouge Victoria red lipstick collection is designed to make wearing red lipstick effortless.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Victoria Beckham Is Breaking One Very British Lipstick Rule...",
-      "score": 2,
-      "published": "2026-10-06T10:00:00+00:00",
+      "angle": "Fashion Intelligence: 8 Fragrances Worn By The World’s Most Stylish Men...",
+      "score": 3,
+      "published": "2026-10-06T10:19:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1126,34 +1294,6 @@
       "angle": "Fashion Intelligence: 5 Best Spicebomb Colognes: Explosive Scents to Style in 2026...",
       "score": 2,
       "published": "2026-10-06T09:39:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ff3374ec15a",
-      "title": "V2 Retail Expects 50%+ FY27 Revenue Growth, Plans 200 New Stores",
-      "link": "https://in.apparelresources.com/business-news/retail/v2-retail-expects-50-fy27-revenue-growth-plans-200-new-stores/",
-      "summary": "New Delhi-based fashion retailer V2 Retail reported around 42% revenue growth in the first half of FY27 and retained its full-year revenue growth guidance of more than 50%, supported by the shift in festive demand to October. Akash Agarwal, Whole-Time Director &#38; CEO, V2 Retail, said, “Even without Durga Puja, we ha",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: V2 Retail Expects 50%+ FY27 Revenue Growth, Plans 200 New Stores...",
-      "score": 2,
-      "published": "2026-10-06T09:27:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4c38c1486385",
-      "title": "Trent’s Q2 Revenue Rises 23% to Rs 5,788 Crore as Zudio Crosses 1,000 Stores",
-      "link": "https://in.apparelresources.com/business-news/retail/trents-q2-revenue-rises-23-rs-5788-crore-zudio-crosses-1000-stores/",
-      "summary": "Tata Group retail company Trent reported a 23% year-on-year increase in standalone revenue from operations to Rs 5,788 crore (US $60.1 million) in the second quarter of FY27, supported by continued expansion across its fashion and lifestyle businesses. Revenue rose from Rs 4,724 crore (US $49.0 million) in the correspo",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Trent’s Q2 Revenue Rises 23% to Rs 5,788 Crore as Zudio Crosses 1,000 ...",
-      "score": 2,
-      "published": "2026-10-06T09:15:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1185,6 +1325,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "efebf83de133",
+      "title": "I Assumed My Friend's Elegant Handbag Was Designer—Now, It's Under £50 on Amazon",
+      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-donnain-handbag-big-deal-days-sale-2026",
+      "summary": "*Immediately adds to basket*",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Assumed My Friend's Elegant Handbag Was Designer—Now, It's Under £50...",
+      "score": 1,
+      "published": "2026-10-06T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1bb155467cdf",
       "title": "Butter Yellow Is Dying, and the Most Elegant Dressers I Know Are Wearing This Color Trend Instead",
       "link": "https://www.whowhatwear.com/fashion/trends/mustard-gold-color-trend",
@@ -1199,17 +1353,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "efebf83de133",
-      "title": "I Assumed My Friend's Elegant Handbag Was Designer—Now, It's Under £50 on Amazon",
-      "link": "https://www.whowhatwear.com/fashion/shopping/amazon-donnain-handbag-big-deal-days-sale-2026",
-      "summary": "*Immediately adds to basket*",
-      "source": "Who What Wear",
+      "id": "9cea432fe226",
+      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
+      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
+      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Assumed My Friend's Elegant Handbag Was Designer—Now, It's Under £50...",
-      "score": 1,
-      "published": "2026-10-06T08:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
+      "score": 2,
+      "published": "2026-10-06T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1227,6 +1381,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ed5bd6c19c48",
+      "title": "24 Best Boot Brands For Men: Top Companies and Styles 2026",
+      "link": "https://www.fashionbeans.com/2015/the-very-best-mens-boot-brands/",
+      "summary": "As the weather turns colder, men look to their wardrobes to ensure they&#8217;re ready to acclimate to the snowy season. But if you&#8217;re in the know, the best boot brands for men can work in your wardrobe throughout the entire year. But while we&#8217;re talking about colder weather we know that clothing can be ada",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 24 Best Boot Brands For Men: Top Companies and Styles 2026...",
+      "score": 3,
+      "published": "2026-10-06T06:05:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6291e5720e4d",
       "title": "Do as the Parisians Do and Wear One of These 5 Trainer Trends We Spotted During Fashion Month",
       "link": "https://www.whowhatwear.com/fashion/street-style/paris-fashion-week-street-style-trainer-trends-september-2026",
@@ -1238,34 +1406,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-10-06T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "27ef7e074d2c",
-      "title": "We Came, We Scrolled, We Shopped— 12 Amazon Prime Day Beauty Deals Our Editors Want You to See",
-      "link": "https://www.whowhatwear.com/beauty/skin/amazon-prime-big-deal-days-beauty-sale-2026",
-      "summary": "The best of the best.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: We Came, We Scrolled, We Shopped— 12 Amazon Prime Day Beauty Deals Our...",
-      "score": 1,
-      "published": "2026-10-06T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f30c9e3b8483",
-      "title": "Fact: People With the Best Taste Are Wearing These 6 Print Trends Right Now",
-      "link": "https://www.whowhatwear.com/fashion/trends/print-trends-autumn-2026",
-      "summary": "Anything but plain.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-06T05:15:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1283,20 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6750e2d01341",
-      "title": "In Miuccia Prada's Words, Miu Miu S/S 27 Is Bringing \"Elegance to Sports\"—Here's What That Looks Like",
-      "link": "https://www.whowhatwear.com/fashion/runway/miu-miu-paris-fashion-week-spring-summer-2027",
-      "summary": "This collection will change how people wear athleisure.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: In Miuccia Prada's Words, Miu Miu S/S 27 Is Bringing \"Elegance to Spor...",
-      "score": 2,
-      "published": "2026-10-05T23:43:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8248b2d23448",
       "title": "Why I’m Still Thinking About London Fashion Week",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73943665/london-fashion-week-trends/",
@@ -1308,34 +1434,6 @@
       "angle": "Fashion Intelligence: Why I’m Still Thinking About London Fashion Week...",
       "score": 2,
       "published": "2026-10-05T22:43:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "96ba96b08a6d",
-      "title": "The Runway Rundown: These 4 Shows From Fashion Week in Paris Left Editors Swooning",
-      "link": "https://www.whowhatwear.com/fashion/runway/paris-fashion-week-runway-looks",
-      "summary": "Here's a virtual front-row seat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Runway Rundown: These 4 Shows From Fashion Week in Paris Left Edit...",
-      "score": 3,
-      "published": "2026-10-05T21:02:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "00de70b3b845",
-      "title": "Breaking News From the Streets of L.A., Paris, and NYC: Everyone's Carrying This New Designer Bag",
-      "link": "https://www.whowhatwear.com/fashion/luxury/loewe-whisker-bag",
-      "summary": "It's easy to see why.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Breaking News From the Streets of L.A., Paris, and NYC: Everyone's Car...",
-      "score": 1,
-      "published": "2026-10-05T20:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1381,20 +1479,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fa1cb5652583",
-      "title": "Paris Street Style Calls the Shots: 16 Fall Outfits to Re-Create If You Know What's Good for You",
-      "link": "https://www.whowhatwear.com/fashion/street-style/paris-fashion-week-street-style-outfits-spring-summer-2027",
-      "summary": "Getting dressed in October just got easier.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Paris Street Style Calls the Shots: 16 Fall Outfits to Re-Create If Yo...",
-      "score": 3,
-      "published": "2026-10-05T19:51:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "34a2f92ff77d",
       "title": "The Best Shoes at Paris Fashion Week Were All About Drama",
       "link": "https://www.harpersbazaar.com/fashion/a74034689/ornate-footwear-maximalist-trend/",
@@ -1437,34 +1521,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1713f026831a",
-      "title": "How Rickie De Sole Has Built a Fashion Career Across Magazines, Luxury & Retail",
-      "link": "https://www.whowhatwear.com/living/career/second-life-podcast-rickie-de-sole",
-      "summary": "Hear her story here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Rickie De Sole Has Built a Fashion Career Across Magazines, Luxury...",
-      "score": 2,
-      "published": "2026-10-05T18:58:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3907808a4757",
-      "title": "IYKYK: 12 Luxe Fall Pieces Fashion People Are Shopping Right Now",
-      "link": "https://www.whowhatwear.com/fashion/fall/cinq-a-sept-fall-collection-saks",
-      "summary": "Take a peek at their carts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: IYKYK: 12 Luxe Fall Pieces Fashion People Are Shopping Right Now...",
-      "score": 1,
-      "published": "2026-10-05T18:18:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2eeaddf946c4",
       "title": "Dakota Johnson Dresses Like a Starry Night Sky for the SNL After-Party",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74034193/dakota-johnson-snl-after-party-outfit-photos-37th-birthday-chainmail-bag/",
@@ -1490,20 +1546,6 @@
       "angle": "Fashion Intelligence: WWAKE Is Hiring A Temporary Shipping & Logistics Coordinator In Brookl...",
       "score": 1,
       "published": "2026-10-05T18:10:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1d3113def5df",
-      "title": "Everyone Wants to Dress Like Michael Rider's Celine Woman",
-      "link": "https://www.whowhatwear.com/fashion/runway/celine-paris-fashion-week-spring-summer-2027",
-      "summary": "The designer embraces \"emotional dressing\".",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Everyone Wants to Dress Like Michael Rider's Celine Woman...",
-      "score": 2,
-      "published": "2026-10-05T17:58:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1675,20 +1717,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0de482f88450",
-      "title": "Céline Dion's Outfits Have Never Been More Glam—7 Ideas I'm Stealing From Her",
-      "link": "https://www.whowhatwear.com/fashion/luxury/celine-dion-fall-2026-outfits",
-      "summary": "She's in Paris.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Céline Dion's Outfits Have Never Been More Glam—7 Ideas I'm Stealing F...",
-      "score": 1,
-      "published": "2026-10-05T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bf73ec159433",
       "title": "Djerf Avenue Finds Its First Permanent Home in New York City With SoHo Flagship",
       "link": "https://fashionista.com/2026/10/djerf-avenue-new-york-soho-flagship-store-opening",
@@ -1714,48 +1742,6 @@
       "angle": "Bridal Edit: Gigi Hadid and Bradley Cooper Step Out for a Paris Date Night Wearing Their Matching Wedding Bands — A Complete Style Guide",
       "score": 2,
       "published": "2026-10-05T14:05:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cef8ec8dbb8e",
-      "title": "I’m Confident This Will Be the Last (and Biggest) Trouser Trend of 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/split-hem-trouser-trend-jennifer-lawrence-2026",
-      "summary": "Chic with heels and flats.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-05T13:32:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "70fdc34334c9",
-      "title": "NEXT Opens First Mumbai Store, Takes India Store Network to Six",
-      "link": "https://in.apparelresources.com/business-news/retail/next-opens-first-mumbai-store-takes-india-store-network-six/",
-      "summary": "British fashion retailer NEXT has opened its first store in Mumbai at Infiniti Mall, Malad, in partnership with Myntra. The 8,900 sq. ft. store offers women’s, men’s and children’s apparel. The store has been opened through Myntra Jabong India Pvt. Ltd. (MJIPL), Myntra’s B2B wholesale entity. MJIPL holds the licensed r",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: NEXT Opens First Mumbai Store, Takes India Store Network to Six...",
-      "score": 1,
-      "published": "2026-10-05T13:14:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ed765c672f75",
-      "title": "Sai Silks Posts Rs 434 Cr Q2 Turnover, Adds 4 Stores",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/sai-silks-posts-rs-434-cr-q2-turnover-adds-4-stores/",
-      "summary": "Sai Silks (Kalamandir) Limited, South Indian retail textile and ethnic apparel company recorded a turnover of Rs 434 crore in Q2 FY27, ended September 30, compared with Rs 444 crore in the corresponding quarter of the previous fiscal, marking a 2.25% year-on-year decline. For the first half of FY27, the company&#8217;s",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sai Silks Posts Rs 434 Cr Q2 Turnover, Adds 4 Stores...",
-      "score": 2,
-      "published": "2026-10-05T09:58:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2263,62 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1854a0b48b98",
-      "title": "6 Best Bald Head Moisturizers For Happy Crowns in 2026",
-      "link": "https://www.fashionbeans.com/article/best-bald-head-moisturizers/",
-      "summary": "There’s no shame in being bald. Just because your dome is lacking locks of hair, that doesn’t mean you don’t look sharp, sexy, or cool. With the right style and a well-crafted beard, a bald head can really stand out from the crowd—in the best possible way. To keep your cranium in tip-top shape, using &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: 6 Best Bald Head Moisturizers For Happy Crowns in 2026...",
-      "score": 2,
-      "published": "2026-09-28T13:41:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ecec97b236a7",
-      "title": "The Best Backpacks You Can Buy In 2026",
-      "link": "https://www.fashionbeans.com/article/best-backpacks-for-men/",
-      "summary": "It’s difficult to believe that, just a few years ago, pretty much the only people wearing backpacks were either gap-toothed school kids who needed something to stash their Pokemon cards in or, well, backpackers. Backpacks for men seemed like an oxymoron, as what self-respecting full grown adult would be seen carrying o",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Backpacks You Can Buy In 2026...",
-      "score": 1,
-      "published": "2026-09-28T12:23:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c121a9610f5c",
-      "title": "7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026",
-      "link": "https://www.fashionbeans.com/article/best-5-pocket-pants/",
-      "summary": "There are some items that should be present in every guy’s wardrobe—whether you’re a country bumpkin or a suit-obsessed city dweller. And when it comes to pants, the five-pocket style is one of the most versatile lower-half options you can own. A reliable yet seriously stylish staple, the best 5 pocket pants will be yo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026...",
-      "score": 1,
-      "published": "2026-09-28T09:04:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee9f49bf9122",
-      "title": "How To Dress In Your 20s – Men’s Fashion Guide 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-in-20s/",
-      "summary": "Your twenties &#8211; or the early ones at least &#8211; are the “wonder years”. You wonder how you’re ever going to pay off these tuition fees. Why people voluntarily choose to get married and have children. Why you drunk so many Jagerbombs last night. You also wonder what to wear, which is complicated by the &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Dress In Your 20s – Men’s Fashion Guide 2026...",
-      "score": 3,
-      "published": "2026-09-28T09:00:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "267c61ee54f7",
       "title": "ICYMI: London Fashion Week's Coolest Trends, Inside Falconeri's Cashmere Factories &amp; The Museum at FIT's New Doll Exhibit",
       "link": "https://fashionista.com/2026/09/fashion-news-you-need-to-know-september-26",
@@ -2627,6 +2557,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6a18830d00be",
+      "title": "Navratri Style Edit: What to Wear for Garba Nights in Australia",
+      "link": "https://www.azafashions.com/blog/navratri-style-edit-australia/?utm_source=rss&utm_medium=rss&utm_campaign=navratri-style-edit-australia",
+      "summary": "Navratri is celebrated across Australia with vibrant Garba nights in Sydney, Melbourne, and Casey, drawing thousands of attendees each year. The energy is unmistakable: drumbeats, swirling outfits, and busy gatherings. &#8230; The post Navratri Style Edit: What to Wear for Garba Nights in Australia appeared first on Az",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-10-05T10:40:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8afbbffbb889",
       "title": "Lab-Grown Diamond Rings in India: The Complete Buying Guide for 2026",
       "link": "https://www.azafashions.com/blog/lab-grown-diamond-rings-india-buying-guide/?utm_source=rss&utm_medium=rss&utm_campaign=lab-grown-diamond-rings-india-buying-guide",
@@ -2737,70 +2681,56 @@
       "score": 1,
       "published": "2026-09-28T19:16:53+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "5be6a6e0465d",
-      "title": "Royal Blue, Reimagined: Navratri Outfit Ideas for 2026",
-      "link": "https://www.azafashions.com/blog/royal-blue-navratri-outfit/?utm_source=rss&utm_medium=rss&utm_campaign=royal-blue-navratri-outfit",
-      "summary": "There's a reason royal blue keeps finding its way back into festive wardrobes. It has the depth of midnight and the confidence of a colour that refuses to fade into&#8230; The post Royal Blue, Reimagined: Navratri Outfit Ideas for 2026 appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-09-28T11:09:01+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "பங்குச்சந்தை",
+      "term": "কৃষক",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సాక్షి",
+      "term": "ఫ్లైదుబాయ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्मृति ईरानी",
+      "term": "క్రైమ్ థ్రిల్లర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांग्लादेश",
+      "term": "കെ. മുരളീധരന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "પેન્શન",
+      "term": "अरुण गोविल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "elise mertens",
+      "term": "संयुक्त राष्ट्र सुरक्षा परिषद",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "central bureau of investigation",
+      "term": "अजीत आगरकर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "coco gauff",
+      "term": "വാഹനം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जंतर मंतर",
+      "term": "কলকাতা হাইকোর্ট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "premanand maharaj",
+      "term": "વિરાટ કોહલી",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
