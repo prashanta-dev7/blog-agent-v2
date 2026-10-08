@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T08:22:09.567699+00:00",
+  "generated_at": "2026-10-08T11:47:47.023264+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 176,
+  "industry_count": 171,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Telfar Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-08T08:16:49+00:00",
+      "published": "2026-10-08T11:43:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tokyo James Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-08T08:16:49+00:00",
+      "published": "2026-10-08T11:43:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,21 +47,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Lee Mathews Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-08T08:16:49+00:00",
+      "published": "2026-10-08T11:43:18+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "d4372cecdc3c",
-      "title": "Melitta Baumeister Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/melitta-baumeister",
-      "summary": "",
+      "id": "943ff277873e",
+      "title": "Bombay HC questions Sachin Waze's luxury cars, hotel stay in Antilia case",
+      "link": "https://www.indiatoday.in/india/story/sachin-waze-antilia-case-bombay-high-court-questions-luxury-cars-oberoi-stay-ptag-3012516-2026-10-08?utm_source=rss",
+      "summary": "Bombay HC questions Sachin Waze's luxury cars, hotel stay in Antilia case",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bombay HC questions Sachin Waze's luxury cars, hotel stay in Antilia c...",
+      "score": 1,
+      "published": "2026-10-08T11:18:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "025486f5293c",
+      "title": "Amazon India Sees 35–40% Festive Demand Spike, Adds 50% Capacity",
+      "link": "https://in.apparelresources.com/business-news/retail/amazon-india-sees-35-40-festive-demand-spike-adds-50-capacity/",
+      "summary": "Amazon India is seeing a 35–40% increase in customer demand following the launch of early festive deals, as the e-commerce company expands its fulfillment capacity and strengthens its operations network ahead of the festive season. The company has invested more than Rs 2,800 crore in its India operations network and ad",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-10-08T11:01:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ae2f525f02fb",
+      "title": "I Own a Fashion Brand in L.A.—This is the 3-Piece Uniform That Always Makes Me Feel Cool",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/easy-outfit-idea-fall-2026",
+      "summary": "What SET Active Lindsey Carter wears.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Own a Fashion Brand in L.A.—This is the 3-Piece Uniform That Always ...",
+      "score": 3,
+      "published": "2026-10-08T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "68cc60f5b40a",
+      "title": "Just Browsing: Sézane’s Parisian Outpost on the Upper East Side",
+      "link": "https://www.vogue.com/article/just-browsing-sezane-fall-2026",
+      "summary": "The French brand’s new Madison Avenue shop is designed to look like an artful apartment—take a peek inside, plus, browse the fall collection.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Just Browsing: Sézane’s Parisian Outpost on the Upper East Side...",
+      "score": 2,
+      "published": "2026-10-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "045bcc220d12",
+      "title": "On the Podcast: Vogue Editors Share Their Thoughts From Paris Fashion Week",
+      "link": "https://www.vogue.com/article/on-the-podcast-vogue-editors-thoughts-from-paris-fashion-week-the-bra-is-the-new-shirt",
+      "summary": "As the marathon that is fashion month finally came to an end, “The Run-Through” co-hosts Chloe, Chioma, and Nicole gathered with Claire Thomson-Jonville, Vogue France’s head of editorial content, in Paris to break down their favorite moments.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: On the Podcast: Vogue Editors Share Their Thoughts From Paris Fashion ...",
+      "score": 1,
+      "published": "2026-10-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "76be703dc167",
+      "title": "Meet the 9 Breakout Models of Spring 2027",
+      "link": "https://www.vogue.com/slideshow/9-breakout-models-of-spring-2027",
+      "summary": "Perhaps you spotted members of the spring 2027 class rocking one of the 63 skirts at Prada or strutting through the Tuileries Gardens at Dior.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Meet the 9 Breakout Models of Spring 2027...",
+      "score": 1,
+      "published": "2026-10-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "49ad121c298b",
+      "title": "What Should You Do About Your First Gray Hairs?",
+      "link": "https://www.vogue.com/article/first-gray-hair",
+      "summary": "When I got my first gray hairs, it became my mission to find a solution. Here are the tried-and-tested ways to shield or celebrate your grays—from semi-permanent color to smoothing glosses.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Melitta Baumeister Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: What Should You Do About Your First Gray Hairs?...",
+      "score": 0,
+      "published": "2026-10-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9b53e721c506",
+      "title": "The 28 Best Destination Wedding Guest Dresses for Every Exotic Locale",
+      "link": "https://www.vogue.com/article/best-destination-wedding-guest-dresses",
+      "summary": "If you’re traveling for a loved one’s ceremony, consider Vogue’s edit of the best destination wedding guest dresses fit for any setting and theme.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 28 Best Destination Wedding Guest Dresses for Every Exotic Locale — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-10-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1644e9f55d5a",
+      "title": "Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?",
+      "link": "https://www.vogue.com/article/would-you-pay-to-redesign-your-clothes-rather-than-get-rid-of-them",
+      "summary": "Beyond donation and resale, a new wave of businesses is cropping up to help consumers find new life in their old favorites. Vogue Business is putting them to the test, and London redesign studio Phini is up first.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?...",
+      "score": 0,
+      "published": "2026-10-08T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5a64f6821be6",
+      "title": "Textile Waste Crisis: After 10 Years, Fabscrap Knows What Circular Fashion Is Missing",
+      "link": "https://www.vogue.com/article/after-10-years-fabscrap-knows-what-circular-fashion-is-missing",
+      "summary": "The New York non-profit has spent the last decade sorting and recirculating fashion’s pre-consumer waste. The next decade is all about collaboration and scale, says co-founder Camille Tagle.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Textile Waste Crisis: After 10 Years, Fabscrap Knows What Circular Fas...",
       "score": 1,
-      "published": "2026-10-08T08:16:49+00:00",
+      "published": "2026-10-08T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -104,48 +230,6 @@
       "angle": "Fashion Intelligence: From Paris to Caracas: Meet the 8 Designers That Make Up Fashion's New...",
       "score": 3,
       "published": "2026-10-08T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cdf6839263f3",
-      "title": "Starlink helping militants bypass shutdowns? Musk reacts amid India launch row",
-      "link": "https://www.indiatoday.in/india/story/elon-musk-starlink-internet-india-launch-delay-northeast-insurgents-security-3012218-2026-10-08?utm_source=rss",
-      "summary": "Starlink helping militants bypass shutdowns? Musk reacts amid India launch row",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-08T06:32:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "19d463421ea4",
-      "title": "Dhruv Rathee joins CJP's Bengaluru protest, Prakash Raj warns Singham-style",
-      "link": "https://www.indiatoday.in/india/story/dhruv-rathee-prakash-raj-cjp-bengaluru-protest-freedon-park-gyanesh-kumar-sir-jantar-mantar-itspc-3012196-2026-10-08?utm_source=rss",
-      "summary": "Dhruv Rathee joins CJP's Bengaluru protest, Prakash Raj warns Singham-style",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dhruv Rathee joins CJP's Bengaluru protest, Prakash Raj warns Singham-...",
-      "score": 1,
-      "published": "2026-10-08T06:29:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d8009f77d709",
-      "title": "Op Sindoor showed world IAF's destructive power: Air Chief Marshal",
-      "link": "https://www.indiatoday.in/india/story/operation-sindoor-indian-air-force-operational-capabilities-rising-air-chief-says-iaf-ready-for-challenges-ptag-3012163-2026-10-08?utm_source=rss",
-      "summary": "Op Sindoor showed world IAF's destructive power: Air Chief Marshal",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Op Sindoor showed world IAF's destructive power: Air Chief Marshal...",
-      "score": 1,
-      "published": "2026-10-08T06:04:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,20 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9a0eaf620f2c",
-      "title": "Lisa Revives Barbie Style in Paris",
-      "link": "https://www.vogue.com/article/lisa-paris-fashion-week-barbie-style-10-07-2026",
-      "summary": "C’mon Barbie, let’s go party!",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Lisa Revives Barbie Style in Paris...",
-      "score": 1,
-      "published": "2026-10-07T14:50:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "37a536428b81",
       "title": "It’s the Season of the Witchy Nail",
       "link": "https://www.harpersbazaar.com/beauty/nails/a74038188/witchy-nail-ideas/",
@@ -933,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9f2cc9c5c766",
-      "title": "Taylor Swift’s Version of Bad Girl Style Lands Just in Time for Fall",
-      "link": "https://www.vogue.com/article/taylor-swift-bad-girl-style-10-07-2026",
-      "summary": "Are you ready for it? Taylor Swift swapped her usual tea dresses and boxy handbags for leather and lace in New York this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Taylor Swift’s Version of Bad Girl Style Lands Just in Time for Fall...",
-      "score": 2,
-      "published": "2026-10-07T11:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8a22ca257c64",
       "title": "Sona Selection India Crosses Rs 300 Crore Revenue, Shifts to Integrated Manufacturing",
       "link": "https://in.apparelresources.com/business-news/manufacturing/sona-selection-india-crosses-rs-300-crore-revenue-shifts-integrated-manufacturing/",
@@ -989,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d43544645493",
-      "title": "I'm Tired of Wearing Jeans the Same Way—These 5 Outfit Ideas Feel So Much Cooler",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/new-fall-denim-outfit-ideas-2026",
-      "summary": "Re-create each look inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-07T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ed561d6c0728",
       "title": "Starting in 2027, Cool Girls Will Wear All-Black Outfits With This Specific Pop of Color",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-purple-color-trend-2026",
@@ -1031,6 +1073,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d43544645493",
+      "title": "I'm Tired of Wearing Jeans the Same Way—These 5 Outfit Ideas Feel So Much Cooler",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/new-fall-denim-outfit-ideas-2026",
+      "summary": "Re-create each look inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "08aa731bb3dc",
       "title": "Crocs Elevates India to Tier 1 Market Amid Double-Digit Growth",
       "link": "https://in.apparelresources.com/business-news/retail/crocs-elevates-india-tier-1-market-amid-double-digit-growth/",
@@ -1042,90 +1098,6 @@
       "angle": "Fashion Intelligence: Crocs Elevates India to Tier 1 Market Amid Double-Digit Growth...",
       "score": 2,
       "published": "2026-10-07T10:49:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c2a33629da2",
-      "title": "Inside Sephora and Vogue Business’s Night Kicking Off a Global Cause",
-      "link": "https://www.vogue.com/article/inside-sephora-and-vogue-businesss-night-kicking-off-a-global-cause",
-      "summary": "At the Sephora and Vogue Business event during Paris Fashion Week, the beauty retailer launched its global initiative Project Hearts Not Hate.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Inside Sephora and Vogue Business’s Night Kicking Off a Global Cause...",
-      "score": 3,
-      "published": "2026-10-07T10:11:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "50af4bb9177a",
-      "title": "KKCL Targets 15–18% Growth, Plans to Add 50–70 Stores in FY27",
-      "link": "https://in.apparelresources.com/business-news/retail/kkcl-targets-15-18-growth-plans-add-50-70-stores-fy27/",
-      "summary": "Kewal Kiran Clothing (KKCL) is targeting 15–18% organic revenue growth in FY27 and plans to add around 50–70 stores as it expands Kraus, strengthens its core Killer brand and shifts smaller brands towards new channels and consumer segments. The company, which operates brands including Killer, Lawman, Easies, Integriti ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: KKCL Targets 15–18% Growth, Plans to Add 50–70 Stores in FY27...",
-      "score": 1,
-      "published": "2026-10-07T10:04:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1555cd93da5e",
-      "title": "How to Style a Slip Dress for 5 Different Weddings",
-      "link": "https://www.vogue.com/article/slip-dress-wedding-guest-styling-ideas",
-      "summary": "A bridal stylist shares five ways to wear a slip dress as a wedding guest—whether you're attending a courthouse ceremony or a black-tie soiree.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Style a Slip Dress for 5 Different Weddings — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-10-07T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d072b3e2c3fb",
-      "title": "Decoding the Fall 2026 Leather Jacket Trend",
-      "link": "https://www.vogue.com/article/leather-jacket-trend",
-      "summary": "Let the fall/winter 2026 runways and the latest street style show how to wear fall’s top leather jacket trend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 5,
-      "published": "2026-10-07T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6cfec328883d",
-      "title": "Vogue First! DeMellier's New “Icons” Collection Puts a Spin on Its Bestselling Bags",
-      "link": "https://www.vogue.com/article/demellier-icons-collection",
-      "summary": "Five content creators reimagine DeMellier’s hero handbags through their own personal lens—and Vogue Shopping readers get 24 hours exclusive access to shop the collection first.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-07T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "027981d21461",
-      "title": "30+ Wardrobe Essentials That Should Be in Your Closet in 2026",
-      "link": "https://www.vogue.com/article/vogue-wardrobe-essentials-guide",
-      "summary": "Capsule wardrobe essentials, classics, basics—whatever you call them, here are the top styles as curated by the editors at Vogue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 30+ Wardrobe Essentials That Should Be in Your Closet in 2026...",
-      "score": 1,
-      "published": "2026-10-07T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1143,20 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "815788447190",
-      "title": "Baazar Style Retail H1 Revenue Rises 6%, Store Network Hits 283",
-      "link": "https://in.apparelresources.com/business-news/retail/baazar-style-retail-h1-revenue-rises-6-store-network-hits-283/",
-      "summary": "Baazar Style Retail reported a 6% year-on-year increase in revenue from operations to Rs 964.5 crore (US $99.87 million) in H1 FY27, despite a shift in the festive calendar that moved Durga Puja demand from Q2 FY26 to Q3 FY27. Revenue from operations in Q2 FY27 declined 10% year-on-year to Rs 478.1 crore (US $49.51 [&#",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Baazar Style Retail H1 Revenue Rises 6%, Store Network Hits 283...",
-      "score": 2,
-      "published": "2026-10-07T09:51:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "54a7661ce05b",
       "title": "All the Wonderfully Whimsical Trends Alessandro Michele Dreamt Up for Valentino S/S 27",
       "link": "https://www.whowhatwear.com/fashion/runway/valentino-paris-fashion-week-spring-summer-2027",
@@ -1168,6 +1126,34 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-07T09:40:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3dfd33e6f524",
+      "title": "26 Best Sneaker Brands For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-sneaker-brands/",
+      "summary": "There was a time not so very long ago when attending a special event in a pair of sneakers was a surefire way to flag yourself to your shiny-shoed peers as a sartorial pariah. However, sneakers are now en vogue, with the best sneaker brands constantly innovating new and stylish footwear. Attitudes have shifted in &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 26 Best Sneaker Brands For Men In 2026...",
+      "score": 2,
+      "published": "2026-10-07T09:12:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "987969ed2c51",
+      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
+      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
+      "score": 4,
+      "published": "2026-10-07T09:00:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1213,6 +1199,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "35b7673c56ab",
+      "title": "How Internet Fashion Darling Steph Hui Gets Ready for the Miu Miu Show",
+      "link": "https://www.whowhatwear.com/fashion/runway/steph-hui-miu-miu-spring-2027-interview",
+      "summary": "The social media star takes Who What Wear through her time at PFW.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: How Internet Fashion Darling Steph Hui Gets Ready for the Miu Miu Show...",
+      "score": 3,
+      "published": "2026-10-07T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a20aa01911be",
       "title": "French Women Agree: These 6 Fall Trends Look Best With Jeans",
       "link": "https://www.whowhatwear.com/fashion/trends/fall-trends-french-women-wear-with-jeans",
@@ -1237,20 +1237,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-10-07T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "35b7673c56ab",
-      "title": "How Internet Fashion Darling Steph Hui Gets Ready for the Miu Miu Show",
-      "link": "https://www.whowhatwear.com/fashion/runway/steph-hui-miu-miu-spring-2027-interview",
-      "summary": "The social media star takes Who What Wear through her time at PFW.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: How Internet Fashion Darling Steph Hui Gets Ready for the Miu Miu Show...",
-      "score": 3,
       "published": "2026-10-07T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1283,17 +1269,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0399e7623ff0",
-      "title": "As Seen From the Front Row: Every Major Spring/Summer 2027 Beauty Look to Know",
-      "link": "https://www.whowhatwear.com/beauty/makeup/fashion-week-spring-summer-2027-beauty-looks",
-      "summary": "From Paris to New York.",
-      "source": "Who What Wear",
+      "id": "c595aa5265f5",
+      "title": "12 Pieces Of Menswear That Defined Style In The 2010s",
+      "link": "https://www.fashionbeans.com/article/menswear-defined-2010s/",
+      "summary": "The last decade was a momentous one for menswear. It was the decade in which men&#8217;s fashion finally caught up with womenswear in both creativity and clout. The work of men&#8217;s designers was analysed in a way once reserved only for the fairer sex&#8217;s creative directors. And the glacial pace of plain old &#8",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: As Seen From the Front Row: Every Major Spring/Summer 2027 Beauty Look...",
-      "score": 1,
-      "published": "2026-10-07T06:00:00+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 12 Pieces Of Menswear That Defined Style In The 2010s...",
+      "score": 5,
+      "published": "2026-10-07T06:00:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1308,6 +1294,34 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-10-07T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0399e7623ff0",
+      "title": "As Seen From the Front Row: Every Major Spring/Summer 2027 Beauty Look to Know",
+      "link": "https://www.whowhatwear.com/beauty/makeup/fashion-week-spring-summer-2027-beauty-looks",
+      "summary": "From Paris to New York.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: As Seen From the Front Row: Every Major Spring/Summer 2027 Beauty Look...",
+      "score": 1,
+      "published": "2026-10-07T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9251fb5fd61c",
+      "title": "How to Dress Like Paul Newman: Timeless Lessons To Be Learned",
+      "link": "https://www.fashionbeans.com/article/paul-newman-style/",
+      "summary": "Paul Newman style is the blueprint for timeless menswear. He wasn&#8217;t just a movie star; he was a cultural icon whose wardrobe choices perfectly captured his effortless charisma. From the silver screen to candid street moments, Newman&#8217;s fashion embodied a blend of rugged masculinity and refined elegance. Whet",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: How to Dress Like Paul Newman: Timeless Lessons To Be Learned...",
+      "score": 5,
+      "published": "2026-10-07T05:10:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1350,6 +1364,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-10-07T02:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8acb1c84c8c7",
+      "title": "18 Types of Jackets for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/types-of-jackets-for-men/",
+      "summary": "What’s the first piece of clothing you notice on someone? Their shoes? Nah, too far down. Their shirt? Often not visible at first glance. The pants? Likely obscured by a piece of outerwear. No matter which way you spin it, your jacket is getting spotted first. The types of jackets for men span the seasons &#8230; Conti",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 18 Types of Jackets for Men In 2026...",
+      "score": 2,
+      "published": "2026-10-07T01:30:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1563,20 +1591,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e922d7b2ee1b",
-      "title": "10 Timeless Designer Brands Fashion Editors Rely On to Look Effortlessly Chic",
-      "link": "https://www.whowhatwear.com/fashion/luxury/editor-favorite-timeless-designer-brands",
-      "summary": "From Chanel to Manolo Blahnik.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 10 Timeless Designer Brands Fashion Editors Rely On to Look Effortless...",
-      "score": 3,
-      "published": "2026-10-06T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d74a8274c757",
       "title": "Matthieu Blazy Sent Coco Chanel’s Own 2.55 Bag Down the Runway",
       "link": "https://www.harpersbazaar.com/fashion/a74049160/chanel-spring-2027-coco-gabrielle-chanel-original-255-bag/",
@@ -1700,20 +1714,6 @@
       "angle": "Fashion Intelligence: Matthieu Blazy Gives Us More at Chanel...",
       "score": 2,
       "published": "2026-10-06T13:36:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "470c6607280a",
-      "title": "Baazar Style Promoters Oppose Kedia Reappointment",
-      "link": "https://in.apparelresources.com/business-news/retail/baazar-style-promoters-oppose-kedia-reappointment/",
-      "summary": "Baazar Style Retail’s promoter group has shown a divide over the reappointment of former chairman Rohit Kedia as a director, with 67.93% of promoter votes cast against the resolution at the company’s annual general meeting (AGM). Of the 20.79 million promoter votes cast on Kedia’s reappointment, 14.12 million were agai",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Baazar Style Promoters Oppose Kedia Reappointment...",
-      "score": 2,
-      "published": "2026-10-06T13:28:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2008,76 +2008,6 @@
       "angle": "Fashion Intelligence: Djerf Avenue Finds Its First Permanent Home in New York City With SoHo...",
       "score": 2,
       "published": "2026-10-05T14:09:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cf96233bfcc0",
-      "title": "7 Best Diptyque Perfumes for Him to Showcase in 2026",
-      "link": "https://www.fashionbeans.com/article/best-diptyque-perfumes/",
-      "summary": "If you’ve grown tired of the same old department store fragrances and are ready to branch out on your cologne exploration, the best Diptyque perfume provides a full-blown experience in every bottle. The innovative scents make up a well-rounded fragrance line that bypasses traditional notions of gender in the perfume wo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 7 Best Diptyque Perfumes for Him to Showcase in 2026...",
-      "score": 2,
-      "published": "2026-10-05T09:27:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3fe8cabcd2c1",
-      "title": "20 Best Jean Brands for Men in 2026",
-      "link": "https://www.fashionbeans.com/article/best-jeans-brands/",
-      "summary": "Jeans are often considered a generic product, so ubiquitous in our wardrobes that they’re the single most widely-worn garment on the planet. As such, to invest in a pair from expensive jeans brands can, to some, still seem a little excessive. But for those obsessed with jeans &#8211; and there are some real obsessives ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 20 Best Jean Brands for Men in 2026...",
-      "score": 1,
-      "published": "2026-10-05T07:00:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "22988e1fe2d8",
-      "title": "12 Types of Pants for Men – Different Trouser Styles 2026",
-      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
-      "summary": "Statement jackets and the latest sneakers are always going to be top of men&#8217;s lust lists, but don&#8217;t let high-wattage clobber blind you to the essentials. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
-      "score": 3,
-      "published": "2026-10-05T06:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "916cb34fa48e",
-      "title": "The Best Jeans For Men With No Butt – 6 Styles That Add Shape",
-      "link": "https://www.fashionbeans.com/article/best-jeans-for-men-with-no-butt/",
-      "summary": "FYI After our latest round of research, we’ve refined our recommendations to ensure we’re only featuring the best jeans for men with a flatter posterior. These updates include swapping out older models for newer, high-quality styles that provide better structure, fit, and design enhancements—such as strategic back pock",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Jeans For Men With No Butt – 6 Styles That Add Shape...",
-      "score": 2,
-      "published": "2026-10-05T01:24:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "059bc17c7613",
-      "title": "Dress Code: Deck",
-      "link": "https://www.fashionbeans.com/article/deck/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dress Code: Deck...",
-      "score": 1,
-      "published": "2026-10-04T17:52:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2473,20 +2403,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b91264412225",
-      "title": "Navratri 2026: What To Wear for All 9 Days",
-      "link": "https://blog.kalkifashion.com/navratri-2026-outfit-ideas-for-all-9-days/",
-      "summary": "We all look forward to the festive season. Don’t we? And why not? The festive season gives us a reason to socialise, feast on finger-licking food, and most of all, dress up in gorgeous outfits that make us look spectacular. So, get ready to shop for mind-blowing ethnic and contemporary wear as Navratri is just [&#8230;",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 6,
-      "published": "2026-10-08T07:37:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "33f92a89feb1",
       "title": "Garba Night Outfit Ideas That Are Stylish and Easy to Dance In",
       "link": "https://blog.kalkifashion.com/garba-night-outfit-ideas-that-are-stylish-and-easy-to-dance-in/",
@@ -2641,6 +2557,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3e1de67aa661",
+      "title": "Thoughtful Raksha Bandhan Gifts For Your Brother",
+      "link": "https://blog.kalkifashion.com/thoughtful-raksha-bandhan-gifts-for-your-brother/",
+      "summary": "Are you also enjoying the festive air that has been surrounding us lately? Doesn’t the atmosphere feel a little different as soon as the calendar reaches mid-year? The air feels fresher, the vibes get happier, and there’s a certain excitement that comes with knowing the festive season is just around the corner. And Rak",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Thoughtful Raksha Bandhan Gifts For Your Brother...",
+      "score": 2,
+      "published": "2026-08-24T06:14:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a0325b351a18",
       "title": "The Key Takeaways from Paris Fashion Week Spring/Summer 27",
       "link": "https://www.azafashions.com/blog/paris-fashion-week-spring-summer-27/?utm_source=rss&utm_medium=rss&utm_campaign=paris-fashion-week-spring-summer-27",
@@ -2680,6 +2610,20 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 3,
       "published": "2026-10-05T10:40:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d8c9c99178c0",
+      "title": "These 10 Dussehra Looks Are Festive, Fashionable & Photo-Ready",
+      "link": "https://www.azafashions.com/blog/festive-dussehra-looks/?utm_source=rss&utm_medium=rss&utm_campaign=festive-dussehra-looks",
+      "summary": "Dussehra is one of those festivals that asks a lot of you in a single day. There's the morning puja, the family lunch, the obligatory photos with relatives, and often&#8230; The post These 10 Dussehra Looks Are Festive, Fashionable &amp; Photo-Ready appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 2,
+      "published": "2026-10-05T08:40:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2765,70 +2709,56 @@
       "score": 2,
       "published": "2026-09-29T04:07:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "41040f2dfa5d",
-      "title": "Before You Buy the Ring, Know Your Diamond",
-      "link": "https://www.azafashions.com/blog/know-your-diamond/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-diamond",
-      "summary": "An engagement ring carries a lot of weight for something so small. It's meant to symbolize forever, sure, but before you get to the sentimental part, there's a more practical&#8230; The post Before You Buy the Ring, Know Your Diamond appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Before You Buy the Ring, Know Your Diamond...",
-      "score": 0,
-      "published": "2026-09-28T19:34:47+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "சென்னை",
+      "term": "పాముకాటు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "abp ananda live",
+      "term": "ट्वेन्टी ट्वेन्टी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "khushbu sundar",
+      "term": "weather kolkata",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रेल",
+      "term": "mirra andreeva",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nikola bartunkova",
+      "term": "luca van assche",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "francis halzen physics",
+      "term": "আইএফএ শিল্ড",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्मार्ट टीवी",
+      "term": "anne carson",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sensex live",
+      "term": "সংবাদ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chatgpt intelligent ui",
+      "term": "mohammed shami",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மு. க. ஸ்டாலின்",
+      "term": "భారతీయ రిజర్వ్ బ్యాంక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
