@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T08:25:01.672481+00:00",
+  "generated_at": "2026-10-09T11:40:39.622909+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 178,
+  "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Derrick Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-10-09T08:20:33+00:00",
+      "published": "2026-10-09T11:40:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,21 +33,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Julie de Libran Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-09T08:20:33+00:00",
+      "published": "2026-10-09T11:40:19+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "af9547bd7e19",
-      "title": "Telfar Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/telfar",
-      "summary": "",
+      "id": "5d4592fb83c1",
+      "title": "Daisy Edgar-Jones Just Solidified Her \"Best Bangs\" Status on the Red Carpet—This Is How She Styles Them",
+      "link": "https://www.whowhatwear.com/beauty/hair/daisy-edgar-jones-sense-and-sensibility-red-carpet-bangs",
+      "summary": "I've found the exact products.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-10-09T10:52:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc3437fdc63e",
+      "title": "24 Casual Wedding Guest Dresses for the Most Low-Key Fêtes",
+      "link": "https://www.vogue.com/article/casual-wedding-guest-dresses",
+      "summary": "Wondering what constitutes a casual wedding guest dress? A bridal stylist weighs in—plus, the best pieces to wear from brands like Staud, Khaite, and Brandon Maxwell.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 24 Casual Wedding Guest Dresses for the Most Low-Key Fêtes — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-10-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b219aa2f2ccd",
+      "title": "Greta Van Fleet Is Still Burning Bright",
+      "link": "https://www.vogue.com/article/greta-van-fleet-palace-for-the-people-interview",
+      "summary": "Josh Kiszka explains to Vogue why, after a three-year break, Greta Van Fleet is back and more plugged in than ever.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Telfar Spring 2027 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-10-09T08:20:33+00:00",
+      "angle": "Fashion Intelligence: Greta Van Fleet Is Still Burning Bright...",
+      "score": 0,
+      "published": "2026-10-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "32b970613015",
+      "title": "If You Want to Look Polished This Fall, Save These 11 Outfits for Future Reference",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/polished-fall-outfit-ideas-2026",
+      "summary": "The key to dressing well.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Want to Look Polished This Fall, Save These 11 Outfits for Futu...",
+      "score": 2,
+      "published": "2026-10-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-09T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f741cc5d42b2",
+      "title": "If You Want to Look Like a Cool Girl in Paris, Add These 9 Trends to Your Fall Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-trends-fall-2026",
+      "summary": "Opulent outerwear, statement skirts, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-09T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "02dec1ca01b7",
+      "title": "This Fashion Bride Wore Danielle Frankel to Marry Her High School Sweetheart at a French Château",
+      "link": "https://www.whowhatwear.com/living/wedding/abbie-farrell-and-max-howard-wedding",
+      "summary": "A 2013 Lanvin Blanche dress and a custom One Of gown were also part of the wedding weekend.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: This Fashion Bride Wore Danielle Frankel to Marry Her High School Sweetheart at a French Château — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-10-09T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -765,6 +849,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f7b29cfcadc3",
+      "title": "18 Best Black Sneakers For Men To Wear In 2026",
+      "link": "https://www.fashionbeans.com/article/black-sneakers/",
+      "summary": "We all know that a pair of crisp, white sneakers are definitely a staple piece for a stylish men’s wardrobe. But what about black sneakers for men? Are they up to par? The answer is yes, and in some aspects, black shoes could even be considered to have more value than their white counterparts. Darker &#8230; Continue r",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 18 Best Black Sneakers For Men To Wear In 2026...",
+      "score": 1,
+      "published": "2026-10-08T13:00:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3d97dc84d816",
       "title": "These Were the Biggest Street Style Trends From Spring 2027 Fashion Month",
       "link": "https://fashionista.com/2026/10/street-style-trends-spring-2027-fashion-month",
@@ -919,16 +1017,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "045bcc220d12",
-      "title": "On the Podcast: Vogue Editors Share Their Thoughts From Paris Fashion Week",
-      "link": "https://www.vogue.com/article/on-the-podcast-vogue-editors-thoughts-from-paris-fashion-week-the-bra-is-the-new-shirt",
-      "summary": "As the marathon that is fashion month finally came to an end, “The Run-Through” co-hosts Chloe, Chioma, and Nicole gathered with Claire Thomson-Jonville, Vogue France’s head of editorial content, in Paris to break down their favorite moments.",
+      "id": "9b53e721c506",
+      "title": "The 28 Best Destination Wedding Guest Dresses for Every Exotic Locale",
+      "link": "https://www.vogue.com/article/best-destination-wedding-guest-dresses",
+      "summary": "If you’re traveling for a loved one’s ceremony, consider Vogue’s edit of the best destination wedding guest dresses fit for any setting and theme.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: On the Podcast: Vogue Editors Share Their Thoughts From Paris Fashion ...",
-      "score": 1,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 28 Best Destination Wedding Guest Dresses for Every Exotic Locale — A Complete Style Guide",
+      "score": 2,
       "published": "2026-10-08T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -961,17 +1059,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9b53e721c506",
-      "title": "The 28 Best Destination Wedding Guest Dresses for Every Exotic Locale",
-      "link": "https://www.vogue.com/article/best-destination-wedding-guest-dresses",
-      "summary": "If you’re traveling for a loved one’s ceremony, consider Vogue’s edit of the best destination wedding guest dresses fit for any setting and theme.",
+      "id": "045bcc220d12",
+      "title": "On the Podcast: Vogue Editors Share Their Thoughts From Paris Fashion Week",
+      "link": "https://www.vogue.com/article/on-the-podcast-vogue-editors-thoughts-from-paris-fashion-week-the-bra-is-the-new-shirt",
+      "summary": "As the marathon that is fashion month finally came to an end, “The Run-Through” co-hosts Chloe, Chioma, and Nicole gathered with Claire Thomson-Jonville, Vogue France’s head of editorial content, in Paris to break down their favorite moments.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The 28 Best Destination Wedding Guest Dresses for Every Exotic Locale — A Complete Style Guide",
-      "score": 2,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: On the Podcast: Vogue Editors Share Their Thoughts From Paris Fashion ...",
+      "score": 1,
       "published": "2026-10-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "842b3e1b65d8",
+      "title": "The Best Autumn/Winter Footwear Trends For Men 2026",
+      "link": "https://www.fashionbeans.com/article/mens-autumn-winter-footwear-trends/",
+      "summary": "The transition from summer into the colder months brings with it many unpleasant changes: prolonged darkness, frigid temperatures and a woeful lack of ice cream vans, to name a few. However, for all of autumn/winter&#8217;s glaring faults, it does boast one redeeming feature. It equips you with a bombproof excuse to tr",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-08T09:56:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -985,20 +1097,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?...",
       "score": 0,
-      "published": "2026-10-08T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5a64f6821be6",
-      "title": "Textile Waste Crisis: After 10 Years, Fabscrap Knows What Circular Fashion Is Missing",
-      "link": "https://www.vogue.com/article/after-10-years-fabscrap-knows-what-circular-fashion-is-missing",
-      "summary": "The New York non-profit has spent the last decade sorting and recirculating fashion’s pre-consumer waste. The next decade is all about collaboration and scale, says co-founder Camille Tagle.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Textile Waste Crisis: After 10 Years, Fabscrap Knows What Circular Fas...",
-      "score": 1,
       "published": "2026-10-08T09:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -1031,17 +1129,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ad8697e9ebee",
-      "title": "I Just Got Back From Spain—6 Fall Trends I Spotted From Madrid to Seville",
-      "link": "https://www.whowhatwear.com/fashion/trends/fall-2026-trends-spain",
-      "summary": "You don't need a passport to try these looks.",
-      "source": "Who What Wear",
+      "id": "3b5698c191ba",
+      "title": "What Color Shoes To Wear With Your Suit: A Definitive Guide",
+      "link": "https://www.fashionbeans.com/article/what-colour-shoes-to-wear-with-a-suit/",
+      "summary": "Shoes are dangerous, financially speaking. Watches are expensive, sure, but it&#8217;s shoes that&#8217;ll do real damage to your wallet. Buy the wrong the pair, or the right pair in the wrong colour, and you can wave goodbye to hundreds if not thousands of pounds worth of tailoring. After all, not even the finest Savi",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What Color Shoes To Wear With Your Suit: A Definitive Guide...",
       "score": 1,
-      "published": "2026-10-08T08:00:00+00:00",
+      "published": "2026-10-08T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f1c4379c72b9",
+      "title": "Best Sweatshirts For Men: A Cozy Deep-Dive Into The Internet’s Favorites",
+      "link": "https://www.fashionbeans.com/article/best-sweatshirts-for-men/",
+      "summary": "Let&#8217;s Compare a $391 Japanese Sweatshirt to a $17 Amazon One! One of the best sweatshirts for men on this list is from a brand I had never heard of before &#8211; it’s a brand called American Giant. When I opened this massive tank of a monster from the box, I just was like, &#8220;Oh!&#8221; &#8230; Continue read",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Best Sweatshirts For Men: A Cozy Deep-Dive Into The Internet’s Favorit...",
+      "score": 1,
+      "published": "2026-10-08T08:40:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1055,6 +1167,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: From Paris to Caracas: Meet the 8 Designers That Make Up Fashion's New...",
       "score": 3,
+      "published": "2026-10-08T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ad8697e9ebee",
+      "title": "I Just Got Back From Spain—6 Fall Trends I Spotted From Madrid to Seville",
+      "link": "https://www.whowhatwear.com/fashion/trends/fall-2026-trends-spain",
+      "summary": "You don't need a passport to try these looks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-10-08T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1101,20 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "84d7e71fc4af",
-      "title": "How Isamu Noguchi, Ruth Asawa, and More Japanese Artists Changed American Design",
-      "link": "https://www.vogue.com/article/noguchi-to-asawa-designing-postwar-america-barnes-foundation",
-      "summary": "“Noguchi to Asawa: Designing Postwar America” is on view at the Barnes Foundation through January 10, 2027.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How Isamu Noguchi, Ruth Asawa, and More Japanese Artists Changed Ameri...",
-      "score": 0,
-      "published": "2026-10-08T04:54:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3e7983ac9e59",
       "title": "Irina Shayk Gives Hunza G Resort 2027 a 00s Edge",
       "link": "https://www.fashiongonerogue.com/story/irina-shayk-hunza-g-resort-2027/",
@@ -1126,6 +1238,20 @@
       "angle": "Fashion Intelligence: Irina Shayk Gives Hunza G Resort 2027 a 00s Edge...",
       "score": 1,
       "published": "2026-10-08T02:33:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d07b00065a7e",
+      "title": "Fashion for Tall Men – Style Guide To Looking Good 2026",
+      "link": "https://www.fashionbeans.com/article/tall-mens-clothing-tips/",
+      "summary": "The tall man is lucky in most things. He makes more money than shorter men, he&#8217;s happier, has higher levels of life satisfaction, and he&#8217;s handy whenever something&#8217;s on a high shelf. But it&#8217;s not all gravy. Travel can be torture, back pain is inevitable, and clothing choices shrink for every bit",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-08T01:16:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1633,6 +1759,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d43544645493",
+      "title": "I'm Tired of Wearing Jeans the Same Way—These 5 Outfit Ideas Feel So Much Cooler",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/new-fall-denim-outfit-ideas-2026",
+      "summary": "Re-create each look inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ed561d6c0728",
       "title": "Starting in 2027, Cool Girls Will Wear All-Black Outfits With This Specific Pop of Color",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-purple-color-trend-2026",
@@ -1656,20 +1796,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Saved $760 by Shopping These On-Sale Fashion, Beauty, and Home Items...",
-      "score": 2,
-      "published": "2026-10-07T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d43544645493",
-      "title": "I'm Tired of Wearing Jeans the Same Way—These 5 Outfit Ideas Feel So Much Cooler",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/new-fall-denim-outfit-ideas-2026",
-      "summary": "Re-create each look inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-10-07T11:00:00+00:00",
       "discovered_via": "feed"
@@ -1801,48 +1927,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "35b7673c56ab",
-      "title": "How Internet Fashion Darling Steph Hui Gets Ready for the Miu Miu Show",
-      "link": "https://www.whowhatwear.com/fashion/runway/steph-hui-miu-miu-spring-2027-interview",
-      "summary": "The social media star takes Who What Wear through her time at PFW.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: How Internet Fashion Darling Steph Hui Gets Ready for the Miu Miu Show...",
-      "score": 3,
-      "published": "2026-10-07T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a20aa01911be",
-      "title": "French Women Agree: These 6 Fall Trends Look Best With Jeans",
-      "link": "https://www.whowhatwear.com/fashion/trends/fall-trends-french-women-wear-with-jeans",
-      "summary": "These combos won't disappoint.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-07T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ce4fbb8aef97",
-      "title": "If a Fashion Person Skips a Leather Jacket This Fall, This Trend's the Culprit",
-      "link": "https://www.whowhatwear.com/fashion/fall/how-to-wear-military-jacket-trend",
-      "summary": "Reporting for duty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-07T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f18be4c260a4",
       "title": "10 Best Walking Shoes For Men – Stride in Style in 2026",
       "link": "https://www.fashionbeans.com/article/best-walking-shoes-for-men/",
@@ -1854,20 +1938,6 @@
       "angle": "Fashion Intelligence: 10 Best Walking Shoes For Men – Stride in Style in 2026...",
       "score": 1,
       "published": "2026-10-07T07:00:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "567d52c1be38",
-      "title": "I’d Argue That Every It Girl’s Autumn Wardrobe Includes This Stylish Jacket Trend",
-      "link": "https://www.whowhatwear.com/fashion/shopping/checked-jacket-trend-2026",
-      "summary": "Cue many excellent outfits.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-07T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2011,34 +2081,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d3919e3e3a89",
-      "title": "The Best Hairstyles For Men With Thick Hair",
-      "link": "https://www.fashionbeans.com/article/thick-hair-styles-men/",
-      "summary": "Thick hair is one of those blessings that too often feels like a curse. Yes, as your barber (and mother) will often tell you, you’ve got a lovely head of thick locks and probably won&#8217;t go bald, but thick hair does come with its own set of hairdo dilemmas. Does it give you more or &#8230; Continue reading The Best",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Hairstyles For Men With Thick Hair...",
-      "score": 1,
-      "published": "2026-10-06T17:01:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f9446733aa33",
-      "title": "8 Best Black Men’s Hairstyles – Top Haircuts 2026",
-      "link": "https://www.fashionbeans.com/article/black-mens-haircuts-hairstyles/",
-      "summary": "Afro hair has a reputation for being unwilling to cooperate: more often than not it seems determined to do the exact opposite of what its owner wants. But, while obedience isn&#8217;t this hair type&#8217;s forte, there are plenty of excellent haircuts for black men to experiment with. That&#8217;s because, when treate",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Black Men’s Hairstyles – Top Haircuts 2026...",
-      "score": 1,
-      "published": "2026-10-06T14:23:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7adc5a4ea62f",
       "title": "Best At-Home Beauty Devices From Wavytalk: Microcurrent, LED & IPL Tools",
       "link": "https://fashionista.com/2026/10/best-at-home-beauty-devices-from-wavytalk-microcurrent-led-ipl-tools",
@@ -2050,20 +2092,6 @@
       "angle": "Fashion Intelligence: Best At-Home Beauty Devices From Wavytalk: Microcurrent, LED & IPL Too...",
       "score": 1,
       "published": "2026-10-06T14:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db3e5bc8aa39",
-      "title": "Mous x Mercedes-AMG F1 Team Backpack Review: Performance Gear That Looks Luxury",
-      "link": "https://www.fashionbeans.com/article/mous-mercedes-amg-f1-team-optimal-backpack-review/",
-      "summary": "Performance bags usually ask you to accept a compromise. Tough but ugly. Clever but bulky. The Optimal Protective Lid Backpack from Mous, made for the Mercedes-AMG PETRONAS F1 Team, is the rare exception: a technical carry that looks like it belongs in a considered wardrobe. It is a 25 litre backpack with 18 purpose-bu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Mous x Mercedes-AMG F1 Team Backpack Review: Performance Gear That Loo...",
-      "score": 1,
-      "published": "2026-10-06T14:10:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2106,48 +2134,6 @@
       "angle": "Fashion Intelligence: How Cassey Ho Turned 'Blogilates' Into a Viral Activewear Brand...",
       "score": 3,
       "published": "2026-10-06T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb7c20128c5a",
-      "title": "25 Hottest Young Actresses Under 30 in 2026",
-      "link": "https://www.fashionbeans.com/article/hottest-young-actresses-under-30/",
-      "summary": "Hollywood has always loved a young star. The difference in 2026 is that the new generation isn&#8217;t politely waiting for the old guard to move aside. Jenna Ortega has turned deadpan staring into an international export. Sydney Sweeney can launch a movie, sell a pair of jeans and start an internet argument before lun",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 25 Hottest Young Actresses Under 30 in 2026...",
-      "score": 1,
-      "published": "2026-10-06T10:51:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3de73d5d466c",
-      "title": "Football Casuals: How To Wear Terrace Fashion",
-      "link": "https://www.fashionbeans.com/article/terrace-fashion-guide/",
-      "summary": "Ordinarily, getting kitted out head to toe in your most expensive clothing might be something you’d reserve for a date, a wedding or a black-tie event. However, if you were a devotee of terrace fashion, a matchday trip to the pub would be the only excuse you’d need to get yourself suited and booted. Of course, &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Football Casuals: How To Wear Terrace Fashion...",
-      "score": 3,
-      "published": "2026-10-06T10:32:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6e587cfac5d2",
-      "title": "8 Fragrances Worn By The World’s Most Stylish Men",
-      "link": "https://www.fashionbeans.com/article/celebrity-mens-fragrances/",
-      "summary": "Having already read the FashionBeans guides to dressing for your body shape, nailing smart-casual and picking the right tie to wear with your shirt — you have read them, right? — it’s likely you’ve already got your appearance pretty down pat. But it’ll all be for naught if you don’t smell good. “Manners and a &#8230; C",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 8 Fragrances Worn By The World’s Most Stylish Men...",
-      "score": 3,
-      "published": "2026-10-06T10:19:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2669,6 +2655,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e64548881e05",
+      "title": "Diwali in Bangkok Is Calling for These 10 Indianwear Looks",
+      "link": "https://www.azafashions.com/blog/diwali-in-bangkok/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-in-bangkok",
+      "summary": "Bangkok doesn't do Diwali quietly. Every year, the city's Thai Indian community transforms a handful of streets into something closer to a fashion runway than a festival ground, and the&#8230; The post Diwali in Bangkok Is Calling for These 10 Indianwear Looks appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-10-09T10:21:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d0d2e0cf1d3e",
+      "title": "5 Chhath Puja Saree Colours That Look Beautiful at the Ghat",
+      "link": "https://www.azafashions.com/blog/chhath-puja-colours/?utm_source=rss&utm_medium=rss&utm_campaign=chhath-puja-colours",
+      "summary": "Chhath Puja begins when much of the world is still asleep. At the ghats, the air carries the scent of fresh fruits, the rustle of sugarcane and the quiet prayers&#8230; The post 5 Chhath Puja Saree Colours That Look Beautiful at the Ghat appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 5 Chhath Puja Saree Colours That Look Beautiful at the Ghat...",
+      "score": 1,
+      "published": "2026-10-08T09:10:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a0325b351a18",
       "title": "The Key Takeaways from Paris Fashion Week Spring/Summer 27",
       "link": "https://www.azafashions.com/blog/paris-fashion-week-spring-summer-27/?utm_source=rss&utm_medium=rss&utm_campaign=paris-fashion-week-spring-summer-27",
@@ -2779,84 +2793,56 @@
       "score": 2,
       "published": "2026-10-05T08:40:58+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "8afbbffbb889",
-      "title": "Lab-Grown Diamond Rings in India: The Complete Buying Guide for 2026",
-      "link": "https://www.azafashions.com/blog/lab-grown-diamond-rings-india-buying-guide/?utm_source=rss&utm_medium=rss&utm_campaign=lab-grown-diamond-rings-india-buying-guide",
-      "summary": "Buying a diamond ring is rarely just about the sparkle. It is about finding a piece that feels personal, suits your style, fits your budget, and stays meaningful long after&#8230; The post Lab-Grown Diamond Rings in India: The Complete Buying Guide for 2026 appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Lab-Grown Diamond Rings in India: The Complete Buying Guide for 2026...",
-      "score": 1,
-      "published": "2026-10-02T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "13d9ccd585d3",
-      "title": "Dia Mirza Brings Her Effortless Energy to Aza’s Latest Cover Story",
-      "link": "https://www.azafashions.com/blog/dia-mirza-for-azas-latest-cover-story/?utm_source=rss&utm_medium=rss&utm_campaign=dia-mirza-for-azas-latest-cover-story",
-      "summary": "Dia Mirza has never fit into one box, and she's stopped trying to. From beauty queen to actor, producer, mother, and one of the country's most consistent voices on climate&#8230; The post Dia Mirza Brings Her Effortless Energy to Aza’s Latest Cover Story appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Dia Mirza Brings Her Effortless Energy to Aza’s Latest Cover Story...",
-      "score": 1,
-      "published": "2026-10-01T10:52:48+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ओलावृष्टि",
+      "term": "scholarship up",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jewar airport",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "oneplus 15 coloros 17 beta",
+      "term": "आज तक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कॉकरोच जनता पार्टी",
+      "term": "ഡല്ഹി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नन्दीग्राम",
+      "term": "ವಿರಾಟ್ ಕೊಹ್ಲಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "temba bavuma",
+      "term": "arvind kejriwal jantar mantar protest",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "நியூசிலாந்து தேசிய கிரிக்கெட் அணி",
+      "term": "దిగుమతి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mitchell starc",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "weather moradabad",
+      "term": "ट्वेंटी-२० क्रिकेट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "elina svitolina",
+      "term": "রাজধানী এক্সপ্রেস",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "सरपंच",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "top selling cars in india",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
