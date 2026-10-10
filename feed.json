@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-10T10:58:14.567875+00:00",
+  "generated_at": "2026-10-10T16:09:22.494067+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 191,
+  "industry_count": 193,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "2c003e1a71ce",
+      "title": "Taylor Swift and Travis Kelce’s Date Night Style Is Fall Fashion at Its Finest",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a74098698/taylor-swift-travis-kelce-matching-fall-date-night-fashion-gucci-horsebit-bag-photos/",
+      "summary": "It’s Red season",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Taylor Swift and Travis Kelce’s Date Night Style Is Fall Fashion at It...",
+      "score": 3,
+      "published": "2026-10-10T16:08:22+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "0c4903b11c60",
       "title": "David Koma Spring 2027 Ready-to-Wear",
@@ -19,7 +33,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: David Koma Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-10T10:56:11+00:00",
+      "published": "2026-10-10T16:05:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "86c6f4967989",
+      "title": "Maleesha Kharwa: 'Beauty Has Nothing To Do With Skin Color'",
+      "link": "https://www.indiatoday.in/india/video/maleesha-kharwa-beauty-has-nothing-to-do-with-skin-color-ytvd-3014417-2026-10-10?utm_source=rss",
+      "summary": "Maleesha Kharwa: 'Beauty Has Nothing To Do With Skin Color'",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Maleesha Kharwa: 'Beauty Has Nothing To Do With Skin Color'...",
+      "score": 1,
+      "published": "2026-10-10T15:22:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82e9642c9459",
+      "title": "The Once-Dated Skirt Trend That's About to Be Everywhere This Fall",
+      "link": "https://www.whowhatwear.com/fashion/skirts/knee-length-skirt-trend-fall-2026",
+      "summary": "Yet another comeback.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-10T15:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4a42dba8c5d0",
+      "title": "On Her Triumphant New Album, Remi Wolf Gets Down in the Mud",
+      "link": "https://www.vogue.com/article/remi-wolf-mud-interview",
+      "summary": "After a grueling tour, a breakup, and reembracing sobriety, the singer-songwriter decamped to Big Bear and Joshua Tree to craft “Mud,” her most mature, liberating record to date.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: On Her Triumphant New Album, Remi Wolf Gets Down in the Mud...",
+      "score": 1,
+      "published": "2026-10-10T14:59:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2f11cd50ad4f",
+      "title": "Here’s Why Prince Harry and Duchess Meghan Haven’t Seen King Charles Since Their Move",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a74098513/why-prince-harry-meghan-markle-have-not-seen-king-charles-since-england-move-explained/",
+      "summary": "The father-son reunion will have to wait",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Here’s Why Prince Harry and Duchess Meghan Haven’t Seen King Charles S...",
+      "score": 0,
+      "published": "2026-10-10T14:28:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c668f28d5f70",
+      "title": "Alexa Called It: This Surprising Accessory Makes Skirt Outfits 10x More Chic",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cummerbund-trend-alexa-chung-2026",
+      "summary": "It's going to be everywhere soon.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Alexa Called It: This Surprising Accessory Makes Skirt Outfits 10x Mor...",
+      "score": 2,
+      "published": "2026-10-10T13:41:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "603c4469b47b",
+      "title": "15 Retinol-Rich Foods to Stimulate Collagen and Your Immune System",
+      "link": "https://www.vogue.com/article/retinol-rich-foods",
+      "summary": "A doctor weighs in on everything you need to know about the trendy “retinol” diet.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 15 Retinol-Rich Foods to Stimulate Collagen and Your Immune System...",
+      "score": 1,
+      "published": "2026-10-10T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4e3e585c5428",
+      "title": "ICYMI: Djerf Avenue Opens New York City Flagship, How Cassey Ho Founded Popflex & Fashionista's Favorite Paris Fashion Week Collections",
+      "link": "https://fashionista.com/news/fashion-news-you-need-to-know-october-10",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-10-10T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e92a3a483ef6",
+      "title": "What If the World’s Chicest New Hotel Is Actually a Cruise Ship?",
+      "link": "https://www.harpersbazaar.com/culture/travel-dining/a74056011/luxury-hotel-cruises/",
+      "summary": "Luxury hotels are bringing their services and amenities to the sea, offering never-cruisers a reason to set sail",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What If the World’s Chicest New Hotel Is Actually a Cruise Ship?...",
+      "score": 1,
+      "published": "2026-10-10T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3544552001e5",
+      "title": "I'm Convinced These 7 Outfit Combos Are the Secret to Looking Put-Together With Very Little Effort",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/put-together-fall-outfit-formulas-2026",
+      "summary": "So simple yet so stylish.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Convinced These 7 Outfit Combos Are the Secret to Looking Put-Toge...",
+      "score": 1,
+      "published": "2026-10-10T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2dc1a996426",
+      "title": "\"I'm Always Down for a Change\": Willow Smith Talks New Music, Concert Glam, and Her Celestial Beauty Era",
+      "link": "https://www.whowhatwear.com/beauty/makeup/willow-smith-beauty-interview",
+      "summary": "The Dior ambassador sits down with Who What Wear in New York.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: \"I'm Always Down for a Change\": Willow Smith Talks New Music, Concert ...",
+      "score": 2,
+      "published": "2026-10-10T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -79,6 +233,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0182e6df2e42",
+      "title": "Women With Great Taste Are Quietly Obsessed With This Elegant Jumper—Now, It’s Selling Out",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/almada-yara-v-neck-sweater",
+      "summary": "A trend-proof staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Women With Great Taste Are Quietly Obsessed With This Elegant Jumper—N...",
+      "score": 1,
+      "published": "2026-10-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6d953d7828d4",
       "title": "Autumn Perfumes Are My Entire Personality—These 7 New Launches Will Guarantee You Compliments",
       "link": "https://www.whowhatwear.com/beauty/fragrance/best-autumn-2026-fragrance-launches",
@@ -117,20 +285,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Latest Sign of An It Couple in 2026? They'll Be Dressing Exactly L...",
       "score": 2,
-      "published": "2026-10-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0182e6df2e42",
-      "title": "Women With Great Taste Are Quietly Obsessed With This Elegant Jumper—Now, It’s Selling Out",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/almada-yara-v-neck-sweater",
-      "summary": "A trend-proof staple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Women With Great Taste Are Quietly Obsessed With This Elegant Jumper—N...",
-      "score": 1,
       "published": "2026-10-10T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -499,20 +653,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "603c4469b47b",
-      "title": "15 Retinol-Rich Foods to Stimulate Collagen and Your Immune System",
-      "link": "https://www.vogue.com/article/retinol-rich-foods",
-      "summary": "A doctor weighs in on everything you need to know about the trendy “retinol” diet.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 15 Retinol-Rich Foods to Stimulate Collagen and Your Immune System...",
-      "score": 1,
-      "published": "2026-10-09T17:25:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e63571d69595",
       "title": "How Catherine Zeta-Jones, 57, Maintains Her Lush, Shiny Hair",
       "link": "https://www.harpersbazaar.com/beauty/hair/a74091453/catherine-zeta-jones-hair-secrets/",
@@ -580,6 +720,20 @@
       "angle": "Fashion Intelligence: Cheers to the Nominees! The CFDA Board of Directors Toasted to the 202...",
       "score": 1,
       "published": "2026-10-09T16:35:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8718fa250b7d",
+      "title": "8 Best Trench Coats for Men: Mystery Meets Utility in 2026",
+      "link": "https://www.fashionbeans.com/article/best-trench-coats-for-men/",
+      "summary": "Wearing a trench coat is always a strong fashion choice, able to set you apart from the crowd. But what’s particularly fascinating about the best trench coats for men is their ability to set you apart from the crowd in several different ways, depending on exactly what style you choose to wear. Although you can &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Trench Coats for Men: Mystery Meets Utility in 2026...",
+      "score": 3,
+      "published": "2026-10-09T16:32:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -877,6 +1031,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "af3cff2fc6d9",
+      "title": "Why Fireman Clasp Jackets Are Everywhere Again – From Firefighters to TikTok to Menswear Grail",
+      "link": "https://www.fashionbeans.com/article/fireman-clasp-jackets-trend/",
+      "summary": "The Jacket Trend You Can Hear Before You See There’s a sharp metallic click echoing across menswear right now. Fireman clasp jackets, once built for emergency crews and industrial work, have quietly become one of the most distinctive outerwear trends of 2025. Equal parts functional, nostalgic and tactile, they sit perf",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Why Fireman Clasp Jackets Are Everywhere Again – From Firefighters to ...",
+      "score": 3,
+      "published": "2026-10-09T12:51:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5d4518054e2f",
       "title": "The Top 10 Most-Viewed SS27 Shows on Vogue Runway",
       "link": "https://www.vogue.com/article/the-top-10-most-viewed-ss27-shows-on-vogue-runway",
@@ -1171,6 +1339,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ee9f49bf9122",
+      "title": "How To Dress In Your 20s – Men’s Fashion Guide 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-dress-in-20s/",
+      "summary": "Your twenties &#8211; or the early ones at least &#8211; are the “wonder years”. You wonder how you’re ever going to pay off these tuition fees. Why people voluntarily choose to get married and have children. Why you drunk so many Jagerbombs last night. You also wonder what to wear, which is complicated by the &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Dress In Your 20s – Men’s Fashion Guide 2026...",
+      "score": 3,
+      "published": "2026-10-09T09:00:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f741cc5d42b2",
       "title": "If You Want to Look Like a Cool Girl in Paris, Add These 9 Trends to Your Fall Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/shopping/fashion-trends-fall-2026",
@@ -1210,6 +1392,20 @@
       "angle": "Fashion Intelligence: 5 Classic Ways To Wear A Short Back And Sides...",
       "score": 1,
       "published": "2026-10-09T08:30:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "227926995c9e",
+      "title": "20 Best Hats for Men – Must Have’s For Any Taste in 2026",
+      "link": "https://www.fashionbeans.com/article/best-hats-for-men/",
+      "summary": "Every man has that one hat he reaches for no matter the occasion. If a certain hat came to your mind, we bet you’re guilty of practically having it glued to your head. When’s the last time you washed it, by the way? If you came across this article about the best hats for men &#8230; Continue reading 20 Best Hats for Me",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: 20 Best Hats for Men – Must Have’s For Any Taste in 2026...",
+      "score": 1,
+      "published": "2026-10-09T08:00:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1336,20 +1532,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 6,
       "published": "2026-10-09T05:26:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d43569693238",
-      "title": "The Scoop With Guess’s Nicolai Marciano: On the Brand’s Latest Campaign and New Ambassador",
-      "link": "https://www.vogue.com/article/the-scoop-with-guesss-nicolai-marciano-on-the-brands-latest-campaign-and-new-ambassador",
-      "summary": "This week’s guest is Guess Inc.’s chief new business development officer, Nicolai Marciano. Nicolai has officially worked for the company for 13 years, but as the son of co-founder Paul Marciano, that really means he started the job when he was zero.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Scoop With Guess’s Nicolai Marciano: On the Brand’s Latest Campaig...",
-      "score": 1,
-      "published": "2026-10-09T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2067,20 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "089e6fc355a0",
-      "title": "Diptyque Candles Have Quietly Rebranded—These 9 Will Always Be Found in the Chicest Homes",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-diptyque-candles",
-      "summary": "The best of them all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Diptyque Candles Have Quietly Rebranded—These 9 Will Always Be Found i...",
-      "score": 1,
-      "published": "2026-10-08T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b43e70c97ebf",
       "title": "Wait, Did the \"Girl Grip\" Trend Just Render Our Big, Practical Tote Bags Obsolete?",
       "link": "https://www.whowhatwear.com/fashion/handbags/mini-handbag-trend-2026",
@@ -2095,45 +2263,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c824779ccd13",
-      "title": "Sneakers Are Taking a Step Back as Loafers Lead Menswear in 2026",
-      "link": "https://www.fashionbeans.com/article/best-loafers-men-2026/",
-      "summary": "For the better part of a decade, sneakers have been the default. They worked with everything, required no thought, and became the easy answer to almost every outfit. That dominance is starting to fade. In 2026, men’s footwear is shifting toward something more refined. Not formal, not restrictive, but intentional. Loafe",
-      "source": "FashionBeans",
+      "id": "089e6fc355a0",
+      "title": "Diptyque Candles Have Quietly Rebranded—These 9 Will Always Be Found in the Chicest Homes",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-diptyque-candles",
+      "summary": "The best of them all.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Sneakers Are Taking a Step Back as Loafers Lead Menswear in 2026...",
-      "score": 3,
-      "published": "2026-10-08T05:35:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5b3eced04b77",
-      "title": "Square Face Shape: Your Ticket to Chiseled Perfection",
-      "link": "https://www.fashionbeans.com/article/square-face-shapes/",
-      "summary": "Ever caught yourself squinting at the mirror, wondering why that trendy haircut doesn&#8217;t quite hit the mark? Welcome to the square-faced club, gentlemen. Your chiseled jawline isn&#8217;t just for intimidating your sister&#8217;s prom date—it&#8217;s your secret weapon in the style arena. Understanding your face s",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Square Face Shape: Your Ticket to Chiseled Perfection...",
-      "score": 2,
-      "published": "2026-10-08T05:23:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "21e8193308a4",
-      "title": "How to Dress Like Steve McQueen: King of Cool Style Guide",
-      "link": "https://www.fashionbeans.com/article/steve-mcqueen-style/",
-      "summary": "Steve McQueen style was the epitome of effortless cool—a man whose style transcended decades and trends. Born in 1930 and alive until 1980, McQueen had a sartorial legacy that was shaped during the mid-20th century, a time when men&#8217;s fashion was clean, functional, and timeless. Although the 1960s embraced psyched",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-10-08T05:00:35+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Diptyque Candles Have Quietly Rebranded—These 9 Will Always Be Found i...",
+      "score": 1,
+      "published": "2026-10-08T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2165,20 +2305,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7e56e5190fb8",
-      "title": "Pretty Outfit Tip: Wear This Blazer Trend and Closet-Toe Heel Trend With a Skirt in This Color",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/blazer-lavender-skirt-satin-mules-outfit-jennifer-lawrence",
-      "summary": "You'll want to recreate this 10/10 JLaw look.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-07T21:38:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f94e6359e6a5",
       "title": "Zendaya’s Flippy Paris Pixie Cut Was Styled Using This Single Tool",
       "link": "https://www.harpersbazaar.com/beauty/hair/a74069132/zendaya-pixie-haircut-styling-tips/",
@@ -2193,34 +2319,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0f0057dff6ca",
-      "title": "I'm a Fashion Editor—Here's What NYC It Girls Are Shopping During Amazon Big Deal Days",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nyc-fashion-amazon-big-deals-day-2026",
-      "summary": "Yes to everything.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—Here's What NYC It Girls Are Shopping During Amaz...",
-      "score": 1,
-      "published": "2026-10-07T21:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "254ebcc54225",
-      "title": "It Girls in Paris Know That This Jeans-and-Heels Outfit Looks Great at Every Age",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-jeans-black-pumps-outfit-dua-lipa-2026",
-      "summary": "Add a statement jacket to tie it all together.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It Girls in Paris Know That This Jeans-and-Heels Outfit Looks Great at...",
-      "score": 1,
-      "published": "2026-10-07T20:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "af55fe045487",
       "title": "Duchess Meghan Pulls Off a Timeless All-Black Look for As Ever",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74069480/meghan-markle-timeless-all-black-monochrome-look-royal-dressing-photos/",
@@ -2232,62 +2330,6 @@
       "angle": "Fashion Intelligence: Duchess Meghan Pulls Off a Timeless All-Black Look for As Ever...",
       "score": 1,
       "published": "2026-10-07T20:31:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e834813b9285",
-      "title": "Daisy Chain Fields’s Art Show Inspires a New Wave of Riot Grrrls",
-      "link": "https://www.harpersbazaar.com/culture/art-books-music/a74057443/astria-suparak-grrrl-germs-daisy-chain-fields-exhibition-riot-grrrl-loewe-interview/",
-      "summary": "Artist and curator Astria Suparak talks to Harper’s Bazaar about crafting an exhibition for Olivia Rodrigo’s Daisy Chain Fields",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Daisy Chain Fields’s Art Show Inspires a New Wave of Riot Grrrls...",
-      "score": 2,
-      "published": "2026-10-07T19:31:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "493e0333fd65",
-      "title": "Chriselle Lim Shares How She Got Her Start In The Fashion Industry",
-      "link": "https://www.whowhatwear.com/living/who-what-wear-podcast-chriselle-lim",
-      "summary": "The creator and founder is one of the original fashion bloggers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Chriselle Lim Shares How She Got Her Start In The Fashion Industry...",
-      "score": 1,
-      "published": "2026-10-07T19:10:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1981c3d40b5c",
-      "title": "Inside Cartier’s Animal Kingdom",
-      "link": "https://www.harpersbazaar.com/fashion/a73671458/into-the-wild-cartiers-flora-fauna-in-motion/",
-      "summary": "The Into the Wild collection explores the Maison’s enduring fascination with fauna.",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Inside Cartier’s Animal Kingdom...",
-      "score": 1,
-      "published": "2026-10-07T19:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c5f4989ae33",
-      "title": "All the Best Mature Beauty Sales We’re Eyeing from Amazon’s Prime Big Deal Days 2026",
-      "link": "https://www.harpersbazaar.com/beauty/skin-care/g74057023/amazon-prime-big-deal-days-mature-beauty-deals-2026/",
-      "summary": "Don’t miss up to 47 percent off discounts on firming K-Beauty serums, volumizing hair tools, and more",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: All the Best Mature Beauty Sales We’re Eyeing from Amazon’s Prime Big ...",
-      "score": 1,
-      "published": "2026-10-07T18:37:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2655,20 +2697,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f1907a78d7d1",
-      "title": "The 13 Best Beauty Products Fashionista Editors Tried in September",
-      "link": "https://fashionista.com/2026/09/fashionista-editors-favorite-beauty-products-september-2026",
-      "summary": "Including a glowy serum foundation, a blurring loose setting powder and a creamy mocha gourmand.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The 13 Best Beauty Products Fashionista Editors Tried in September...",
-      "score": 2,
-      "published": "2026-09-30T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6b3a5694f6cc",
       "title": "Milano Fashion Week SS27: la moda torna a essere personale",
       "link": "https://www.theblondesalad.com/fashion/milano-fashion-week-ss27-la-moda-torna-a-essere-personale/",
@@ -2993,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "bengaluru vs sc delhi",
+      "term": "रुपया",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बीबीसी हिन्दी",
+      "term": "harry kane",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கார்த்திக் சுப்புராஜ்",
+      "term": "पत्नी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "arsenal vs leeds",
+      "term": "ইডেন গার্ডেন্স",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "batting order",
+      "term": "man utd vs spurs",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एबीपी न्यूज़",
+      "term": "తెలంగాణ ముఖ్యమంత్రి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "geomagnetic storm",
+      "term": "faf du plessis",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నక్షత్రం",
+      "term": "నాని",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "karunya lottery result today",
+      "term": "nvidia",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বৃহস্পতি",
+      "term": "robin uthappa",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
