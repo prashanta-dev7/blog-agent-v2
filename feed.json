@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T08:02:03.511294+00:00",
+  "generated_at": "2026-10-10T10:58:14.567875+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 188,
+  "industry_count": 191,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: David Koma Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-10T08:00:29+00:00",
+      "published": "2026-10-10T10:56:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f1c95228bdb7",
+      "title": "7 Fall Decor Trends Worth the Investment, According to Interior Designers",
+      "link": "https://www.vogue.com/article/fall-home-decor-trends-2026",
+      "summary": "As temperatures continue to drop, transform your space by shopping our favorite fall home decor essentials—here, interior designers share the trends to know.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aef58d1d4833",
+      "title": "If Elegance is What You're After, This is The Number One Shoe Trend to Add to Your Wardrobe This Fall",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-satin-shoes-fall-winter-2026",
+      "summary": "Instantly elevate your outfit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a8bf81afe3b2",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-october-10",
+      "summary": "From razor-sharp eyeliner to romantic curls and soft-focus skin, this week’s best beauty looks found a sweet spot between pretty and punchy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-10-10T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -34,20 +76,6 @@
       "angle": "Fashion Intelligence: It's Already Winter At Zara—Who What Wear Editors Are Shopping These H...",
       "score": 1,
       "published": "2026-10-10T06:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4de520f5fba0",
-      "title": "Delhi Police Detain Cockroach Janta Party Leaders Inside Aircraft at Airport",
-      "link": "https://www.indiatoday.in/india/video/delhi-police-detain-cockroach-janta-party-leaders-inside-aircraft-at-airport-ytvd-3013918-2026-10-10?utm_source=rss",
-      "summary": "Delhi Police Detain Cockroach Janta Party Leaders Inside Aircraft at Airport",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-10T06:05:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -216,6 +244,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-10-09T21:43:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73c9fb369329",
+      "title": "8 Best Fall Jackets for Men for All Kinds of Weather in 2026",
+      "link": "https://www.fashionbeans.com/article/best-fall-jackets-for-men/",
+      "summary": "Letting go of summer is never easy, though it can be made more bearable should your wardrobe be prepared for the cooler climes that await. First things first, you’ll need to assemble a stellar selection of outerwear, starting with a suitable jacket that can handle the transitional period between now and winter. Keep re",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 8 Best Fall Jackets for Men for All Kinds of Weather in 2026...",
+      "score": 1,
+      "published": "2026-10-09T21:08:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1003,6 +1045,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0708affb9255",
+      "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
+      "summary": "It’s not hard to remember a time when wide-leg trousers were considered one of those beyond-the-pale pieces that fashion designers periodically tried to foist on sceptical menfolk, perhaps out of boredom, or “for banter”. Sure, wide-leg trousers made an impact on the runway. Okay, so they created a striking silhouette.",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
+      "score": 4,
+      "published": "2026-10-09T11:03:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f6588d2f0f24",
       "title": "On Lake Como, a New Design-Forward Hotel Offers a Different Kind of Lakeside Luxury",
       "link": "https://www.vogue.com/article/lake-como-edition-makes-the-case-for-a-new-era-of-luxury",
@@ -1028,6 +1084,34 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-10-09T10:52:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "457863f0f5cf",
+      "title": "The Best Baseball Caps You Can Buy In 2026",
+      "link": "https://www.fashionbeans.com/article/best-baseball-caps/",
+      "summary": "Baseball caps have endured more highs and lows than a Prince song. Just think, the preferred headgear for teenage terrors of the nineties is also the celebrity disguise of choice, not to mention a campaign-trail fixture for a certain Mr President with a certain dubious slogan. Yet credit where credit’s due. Despite the",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Baseball Caps You Can Buy In 2026...",
+      "score": 1,
+      "published": "2026-10-09T10:00:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2c212ed96c95",
+      "title": "25 Best Sweaters For Men To Sport Year-Round 2026",
+      "link": "https://www.fashionbeans.com/article/best-sweaters-for-men/",
+      "summary": "Say goodbye to evenings in the sunshine and exposed skin as we greet the cold and begin to layer our clothing. In this article, we’ll pay particular attention to the best sweaters for men. The sweater is arguably the most integral winter layer and the one that will go on to define your style. Trust &#8230; Continue rea",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 25 Best Sweaters For Men To Sport Year-Round 2026...",
+      "score": 1,
+      "published": "2026-10-09T10:00:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1115,6 +1199,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c845e67dd3ad",
+      "title": "5 Classic Ways To Wear A Short Back And Sides",
+      "link": "https://www.fashionbeans.com/article/best-mens-short-back-sides-hairstyles/",
+      "summary": "Staying well-groomed is not nearly as effortless as it should look. From mastering tie knots to keeping your toenails from sprouting their own toenails, the official list of requirements for looking good seems to grow longer by the day. You can make the task of looking constantly vaguely presentable easier with four si",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Classic Ways To Wear A Short Back And Sides...",
+      "score": 1,
+      "published": "2026-10-09T08:30:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "814fa14009f3",
+      "title": "8 Best Colognes For Older Men That Cater To Any Age in 2026",
+      "link": "https://www.fashionbeans.com/article/best-colognes-for-older-men/",
+      "summary": "FYI After our latest round of research, we’ve enhanced this guide with a new comparison table to make finding the perfect cologne easier for readers. This table includes everything from scent notes to seasonal recommendations, helping you zero in on the ideal choice. We also revisited our product lineup, confirming tha",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Best Colognes For Older Men That Cater To Any Age in 2026...",
+      "score": 1,
+      "published": "2026-10-09T07:58:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9d2f5edcd002",
       "title": "Anthony Vaccarello Bows Out at Saint Laurent",
       "link": "https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent",
@@ -1126,6 +1238,48 @@
       "angle": "Fashion Intelligence: Anthony Vaccarello Bows Out at Saint Laurent...",
       "score": 0,
       "published": "2026-10-09T06:31:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c9d9ccbb878c",
+      "title": "17 Best Shirt Brands for Men: Top Wardrobe Staples of 2026",
+      "link": "https://www.fashionbeans.com/article/best-shirt-brands-for-men/",
+      "summary": "A good shirt is hard to come by. That is if you aren’t well-versed in the best shirt brands for men. But why should you care in the first place? The importance of high-quality shirts should not be overlooked, as they often set the tone for your first impression. An ill-fitting, tattered number may say, &#8230; Continue",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 17 Best Shirt Brands for Men: Top Wardrobe Staples of 2026...",
+      "score": 1,
+      "published": "2026-10-09T06:25:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0eca213d5b3e",
+      "title": "15 Best Wool Sweaters For Men To Wear In 2026",
+      "link": "https://www.fashionbeans.com/article/best-wool-sweaters-for-men/",
+      "summary": "Never has an article titled The Best Wool Sweaters for Men are Dead been written. That’s because it has never happened and will never happen. That’s a bold claim. If the wool sweater has proved so popular throughout the years, then which is the best men’s wool sweater available right now? That’s the premise of &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Best Wool Sweaters For Men To Wear In 2026...",
+      "score": 1,
+      "published": "2026-10-09T06:17:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ad2a3d93d661",
+      "title": "10 Best Fall Colognes for Men To Feel Cozy in 2026",
+      "link": "https://www.fashionbeans.com/article/best-fall-colognes/",
+      "summary": "Pumpkin patches, apple orchards, and bonfires, oh my. The best fall colognes for men capture the essence of autumn. As a transitional season, fall evokes all kinds of feelings: the desire to cling to summer weather, the temptation to seek warmth with others, and of course, the impending cold of the winter season. Autum",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 10 Best Fall Colognes for Men To Feel Cozy in 2026...",
+      "score": 1,
+      "published": "2026-10-09T06:10:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1171,6 +1325,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1d6e7e871763",
+      "title": "The Menswear Reset: 2026’s Most Wearable Style Trends Right Now",
+      "link": "https://www.fashionbeans.com/article/menswear-reset-2026-style-trends/",
+      "summary": "Forget chasing the algorithm. The best-dressed men of 2026 are building wardrobes with intention and these are the eight trends worth investing in right now. Something shifted on the menswear calendar last season, and it wasn’t loud or theatrical. The industry didn’t announce it, but the change was undeniable once you ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 6,
+      "published": "2026-10-09T05:26:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d43569693238",
       "title": "The Scoop With Guess’s Nicolai Marciano: On the Brand’s Latest Campaign and New Ambassador",
       "link": "https://www.vogue.com/article/the-scoop-with-guesss-nicolai-marciano-on-the-brands-latest-campaign-and-new-ambassador",
@@ -1182,34 +1350,6 @@
       "angle": "Fashion Intelligence: The Scoop With Guess’s Nicolai Marciano: On the Brand’s Latest Campaig...",
       "score": 1,
       "published": "2026-10-09T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6813a95a98f2",
-      "title": "In the Age of AI, Fashion Wants to Turn You On",
-      "link": "https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on",
-      "summary": "From PDA catwalks to climaxing soundtracks, designers took a turn to the erotic this season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: In the Age of AI, Fashion Wants to Turn You On...",
-      "score": 3,
-      "published": "2026-10-09T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "10cabbe871ca",
-      "title": "‘It’s My Most Experimental Album Yet’: Troye Sivan on ‘She’s the Best’ and His Sultry ‘FF’ Music Video",
-      "link": "https://www.vogue.com/article/troye-sivan-shes-the-best-interview",
-      "summary": "On the eve of the release of his fourth album, Sivan talks to Vogue about vulnerability, visual references, and his desire to make an album that feels truly alive.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ‘It’s My Most Experimental Album Yet’: Troye Sivan on ‘She’s the Best’...",
-      "score": 0,
-      "published": "2026-10-09T04:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2011,34 +2151,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d07b00065a7e",
-      "title": "Fashion for Tall Men – Style Guide To Looking Good 2026",
-      "link": "https://www.fashionbeans.com/article/tall-mens-clothing-tips/",
-      "summary": "The tall man is lucky in most things. He makes more money than shorter men, he&#8217;s happier, has higher levels of life satisfaction, and he&#8217;s handy whenever something&#8217;s on a high shelf. But it&#8217;s not all gravy. Travel can be torture, back pain is inevitable, and clothing choices shrink for every bit",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-08T01:16:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "06836f395a6a",
-      "title": "19 Best Work Bags for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-work-bags-for-men/",
-      "summary": "The best work bags for men aren’t just for the everyday commuter. Perfectly marrying style with substance, they’re a must-have for guys of all occupations—whether you’re a banker, bookkeeper, or building site manager. Equipped with a suitable bag, you’ll not only be able to carry the right tools for the job but cement ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 19 Best Work Bags for Men In 2026...",
-      "score": 1,
-      "published": "2026-10-08T01:10:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8c3dedbbbf23",
       "title": "Telfar Invited the Industry to a Fashion Show in Paris—Then Held One in New York Instead",
       "link": "https://www.harpersbazaar.com/fashion/a74068020/telfar-spring-2027-runway-show/",
@@ -2179,20 +2291,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c5027fdf34a3",
-      "title": "My Sister Asked Me for a List of Must-Buy Amazon Products—I Sent Her Links to These 14 On-Sale Items",
-      "link": "https://www.whowhatwear.com/beauty/amazon-big-deal-days-october-2026-editor-picks",
-      "summary": "Consider me your beauty-editor big sister.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: My Sister Asked Me for a List of Must-Buy Amazon Products—I Sent Her L...",
-      "score": 1,
-      "published": "2026-10-07T16:04:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7c4433431f3b",
       "title": "Must Read: Telfar 'Shows' Spring 2027 Collection in Paris, Anta Sports Secures $1.7 Billion Investment in Puma",
       "link": "https://fashionista.com/2026/10/telfar-shows-spring-2027-collection-in-paris",
@@ -2249,20 +2347,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c1e8361ca667",
-      "title": "10 Best Leather Jackets for Men: Timeless Swagger in 2026",
-      "link": "https://www.fashionbeans.com/article/best-leather-jackets-for-men/",
-      "summary": "Few garments are immune from fashion’s fickleness, but the best leather jackets for men continue to pass through each season unscathed. Why? Not only totally badass, they take many forms, from truckers to bombers, and possess that unique wearability that means they can be paired with pretty much anything, anywhere. Joi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 10 Best Leather Jackets for Men: Timeless Swagger in 2026...",
-      "score": 3,
-      "published": "2026-10-07T12:38:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d171600cfaa2",
       "title": "Fashionista's 11 Favorite Spring 2027 Collections From Paris Fashion Week",
       "link": "https://fashionista.com/2026/10/paris-fashion-week-spring-2027-best-collections",
@@ -2288,48 +2372,6 @@
       "angle": "Fashion Intelligence: Legendary Makeup Artist Bobbi Brown Is Still Doing Makeup Her Way...",
       "score": 2,
       "published": "2026-10-07T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "496f09ea63a4",
-      "title": "7 Jacket, Shirt, and Tie Combos for Outerwear in 2026",
-      "link": "https://www.fashionbeans.com/article/jacket-shirt-tie-combinations/",
-      "summary": "Navigating dress codes can be a minefield. Take smart-casual, for example. Many men have devoted countless hours to decoding what on earth it could possibly mean, and in truth the jury’s still out. One solid trick to rely on is to start smart, and switch out one element for something laid-back – a roll-neck jumper &#82",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 7 Jacket, Shirt, and Tie Combos for Outerwear in 2026...",
-      "score": 2,
-      "published": "2026-10-07T10:01:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3dfd33e6f524",
-      "title": "26 Best Sneaker Brands For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-sneaker-brands/",
-      "summary": "There was a time not so very long ago when attending a special event in a pair of sneakers was a surefire way to flag yourself to your shiny-shoed peers as a sartorial pariah. However, sneakers are now en vogue, with the best sneaker brands constantly innovating new and stylish footwear. Attitudes have shifted in &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 26 Best Sneaker Brands For Men In 2026...",
-      "score": 2,
-      "published": "2026-10-07T09:12:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "987969ed2c51",
-      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
-      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
-      "score": 4,
-      "published": "2026-10-07T09:00:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2951,52 +2993,52 @@
   ],
   "trends": [
     {
-      "term": "mirra andreeva",
+      "term": "bengaluru vs sc delhi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "judge",
+      "term": "बीबीसी हिन्दी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വി.ഡി. സതീശന്",
+      "term": "கார்த்திக் சுப்புராஜ்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಅಭಿಜೀತ್ ದಿಪ್ಕೆ",
+      "term": "arsenal vs leeds",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "శివమ్ దూబే",
+      "term": "batting order",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tushar gandhi",
+      "term": "एबीपी न्यूज़",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "નક્ષત્ર",
+      "term": "geomagnetic storm",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taylor fritz",
+      "term": "నక్షత్రం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांगलादेश बनाम अफ़ग़ानिस्तान",
+      "term": "karunya lottery result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neet",
+      "term": "বৃহস্পতি",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
