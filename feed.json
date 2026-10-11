@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T08:13:51.620699+00:00",
+  "generated_at": "2026-10-11T11:13:34.960426+00:00",
   "owned_count": 10,
-  "competitor_count": 12,
-  "industry_count": 192,
+  "competitor_count": 2,
+  "industry_count": 191,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: David Koma Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-11T08:12:09+00:00",
+      "published": "2026-10-11T11:12:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f2366757628",
+      "title": "The Fashion Crowd Is Styling Their Basics Differently This Fall—5 Small Changes Making a Big Impact",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-fall-basics-2026",
+      "summary": "See the proof inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Fashion Crowd Is Styling Their Basics Differently This Fall—5 Smal...",
+      "score": 1,
+      "published": "2026-10-11T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "41951ae32f22",
+      "title": "Where to Stay in the Pacific Northwest for a Coastal Fall Getaway",
+      "link": "https://www.vogue.com/article/where-to-stay-in-the-pacific-northwest",
+      "summary": "Whether it’s a remote cabin tucked between towering Douglas-firs, or a historic Queen Anne farmhouse in Portland, the Pacific Northwest is the perfect fall getaway—here's where to stay.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Where to Stay in the Pacific Northwest for a Coastal Fall Getaway...",
+      "score": 0,
+      "published": "2026-10-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cab405c7e9f8",
+      "title": "Not Straight-Leg: This Petite-Girl-Approved Jeans Trend Looks Even Better With Ankle Boots",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cuffed-jeans-black-boots-outfit-florence-pugh-2026",
+      "summary": "I can confirm.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-11T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -34,20 +76,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-11T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a334ff747d0a",
-      "title": "Delhi Protests: Left Student Outfits Detained at Connaught Place Amid Heavy Security",
-      "link": "https://www.indiatoday.in/india/video/delhi-protests-left-student-outfits-detained-at-connaught-place-amid-heavy-security-ytvd-3014683-2026-10-11?utm_source=rss",
-      "summary": "Delhi Protests: Left Student Outfits Detained at Connaught Place Amid Heavy Security",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Delhi Protests: Left Student Outfits Detained at Connaught Place Amid ...",
-      "score": 1,
-      "published": "2026-10-11T07:34:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -76,20 +104,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2d6bf6c746f4",
-      "title": "PM Modi in Chennai, Inaugurates Metro Phase Two Alongside CM Vijay, Launches Key Projects",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-in-chennai-inaugurates-metro-phase-two-alongside-cm-vijay-launches-key-projects-ytvd-3014661-2026-10-11?utm_source=rss",
-      "summary": "PM Modi in Chennai, Inaugurates Metro Phase Two Alongside CM Vijay, Launches Key Projects",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-11T06:54:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -233,6 +247,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "314c01c56768",
+      "title": "Topcoat vs Overcoat: Why This Confusion Exists (And Which One You Actually Need)",
+      "link": "https://www.fashionbeans.com/article/topcoat-vs-overcoat/",
+      "summary": "You&#8217;re standing in a menswear store looking at two wool coats. The sales associate calls one a &#8220;topcoat&#8221; and the other an &#8220;overcoat.&#8221; They look similar—both are knee-length, both are wool, both cost about the same. You ask what the difference is, and you get a vague answer about formality ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Topcoat vs Overcoat: Why This Confusion Exists (And Which One You Actu...",
+      "score": 2,
+      "published": "2026-10-10T19:15:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c61378e12bb2",
       "title": "From Bella Hadid to EmRata: The Polarizing Shoe Trend Celebrities Return to Every Fall",
       "link": "https://www.whowhatwear.com/fashion/shopping/uggs-fall-2026",
@@ -244,6 +272,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-10T19:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e9e55c227cc4",
+      "title": "Inside the Growing Clicky Bezel Watch Collection: From Dive Watches to Grails",
+      "link": "https://www.fashionbeans.com/article/clicky-bezel-watch-collection/",
+      "summary": "A New Year, A New State of the Collection Well, it&#8217;s a new year and that means it&#8217;s a new state of the Clicky Bezel watch collection. We&#8217;re going to see where the collection stands now: watches that left the collection, watches that stayed in the collection, and new acquisitions from last year. I’ll p",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-10-10T18:57:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -331,6 +373,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f9945cb30ccb",
+      "title": "14 Best Sling Bags For Men: Top Carriers in 2026)",
+      "link": "https://www.fashionbeans.com/article/best-sling-bags-for-men/",
+      "summary": "You know the drill; if you see a men&#8217;s accessory trend on the runway, it&#8217;s coming to every store near you. These days, the best sling bags for men are all the rage. The best sling bags for men pair form with function like no other men&#8217;s accessory (and they actually look cool). It&#8217;s time &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 14 Best Sling Bags For Men: Top Carriers in 2026)...",
+      "score": 3,
+      "published": "2026-10-10T13:29:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "603c4469b47b",
       "title": "15 Retinol-Rich Foods to Stimulate Collagen and Your Immune System",
       "link": "https://www.vogue.com/article/retinol-rich-foods",
@@ -370,6 +426,34 @@
       "angle": "Fashion Intelligence: What If the World’s Chicest New Hotel Is Actually a Cruise Ship?...",
       "score": 1,
       "published": "2026-10-10T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17abf55b698d",
+      "title": "15 Best Men’s T-Shirt Brands For Every Guy in 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-t-shirt-brands/",
+      "summary": "Navy suit and blue jeans aside, the trusty T-shirt is the ultimate wardrobe staple. The foundation of any successful smart-casual outfit, it’s not only comfortable but reliable, versatile, and undeniably stylish. Which is something the best men’s T-shirt brands fully understand. But who are they? I’m glad you asked. I’",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Best Men’s T-Shirt Brands For Every Guy in 2026...",
+      "score": 2,
+      "published": "2026-10-10T11:39:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "680050fbbb4a",
+      "title": "7 Best Playboy Colognes to Smell Irresistibly Sexy in 2026",
+      "link": "https://www.fashionbeans.com/article/best-playboy-colognes/",
+      "summary": "If you’re looking for an easy, sexy fragrance at a steal, your best bets are the best Playboy colognes. For nearly two decades, the iconic brand that put out its first magazine issue in 1953 has been steadily releasing some 40-odd colognes, some to greater success than others. But let’s face it, even their least &#8230",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Best Playboy Colognes to Smell Irresistibly Sexy in 2026...",
+      "score": 1,
+      "published": "2026-10-10T11:30:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -415,6 +499,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "260735fa0246",
+      "title": "Why Riviera Style Should Be Your Go-To Summer Look",
+      "link": "https://www.fashionbeans.com/article/riviera-style-guide/",
+      "summary": "Most holiday style guides stop at suggesting a few T-shirts, a pair of swim shorts and some sunglasses for your travels. And we get it, all three are essentials when hopping across borders. But what if you skipped arm day, have no desire to take a dip and actually enjoy forcibly squinting at the sun? &#8230; Continue r",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Why Riviera Style Should Be Your Go-To Summer Look...",
+      "score": 1,
+      "published": "2026-10-10T10:21:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f1c95228bdb7",
       "title": "7 Fall Decor Trends Worth the Investment, According to Interior Designers",
       "link": "https://www.vogue.com/article/fall-home-decor-trends-2026",
@@ -454,6 +552,20 @@
       "angle": "Fashion Intelligence: 7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026...",
       "score": 1,
       "published": "2026-10-10T09:04:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a3ea33ff5eb1",
+      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
+      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
+      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
+      "score": 2,
+      "published": "2026-10-10T09:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -552,6 +664,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-10-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3cc630394e1f",
+      "title": "Behind the Gloss: Achieve the Wet Hair Look with 2026’s Trendsetting Products",
+      "link": "https://www.fashionbeans.com/article/best-wet-hair-look-products/",
+      "summary": "It’s hard to put a finger on why the wet look is so appealing. Perhaps it’s because it makes us think of emerging from a cool body of water or that it generally evokes moisture, which inevitably makes us think of youth. Needless to say, the wet look is hot. Both sultry and sleek with &#8230; Continue reading Behind the",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-10T05:51:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1451,20 +1577,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4de8411a4a68",
-      "title": "The Best of Anthony Vaccarello’s Saint Laurent, As Seen on Celebrities",
-      "link": "https://www.vogue.com/slideshow/anthony-vaccarello-saint-laurent-on-celebrities",
-      "summary": "Anthony Vaccarello has become a celebrity favorite thanks to his ability to telegraph power and sexuality through sheer, slinky gowns and sharp-shouldered suits.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best of Anthony Vaccarello’s Saint Laurent, As Seen on Celebrities...",
-      "score": 2,
-      "published": "2026-10-09T11:44:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0708affb9255",
       "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
       "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
@@ -2067,20 +2179,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "97fbfdf0e723",
-      "title": "DeMellier Just Reinvented Its Cult Bags—5 Limited-Edition Styles That Won’t Be Around for Long",
-      "link": "https://www.whowhatwear.com/fashion/handbags/demellier-icons-handbag-collection-2026",
-      "summary": "You won't want to miss these.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: DeMellier Just Reinvented Its Cult Bags—5 Limited-Edition Styles That ...",
-      "score": 1,
-      "published": "2026-10-08T14:15:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8ab15008361b",
       "title": "A Trusted NYC Derm on the Truth About Fragrance in Skin Care",
       "link": "https://fashionista.com/beauty/dr-michelle-henry-dermatologist-skin-care-interview",
@@ -2137,20 +2235,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f7b29cfcadc3",
-      "title": "18 Best Black Sneakers For Men To Wear In 2026",
-      "link": "https://www.fashionbeans.com/article/black-sneakers/",
-      "summary": "We all know that a pair of crisp, white sneakers are definitely a staple piece for a stylish men’s wardrobe. But what about black sneakers for men? Are they up to par? The answer is yes, and in some aspects, black shoes could even be considered to have more value than their white counterparts. Darker &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 18 Best Black Sneakers For Men To Wear In 2026...",
-      "score": 1,
-      "published": "2026-10-08T13:00:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3d97dc84d816",
       "title": "These Were the Biggest Street Style Trends From Spring 2027 Fashion Month",
       "link": "https://fashionista.com/2026/10/street-style-trends-spring-2027-fashion-month",
@@ -2179,48 +2263,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b9ee90166906",
-      "title": "Fashion Friends Are Easy to Spot—One's Wearing This Top, the Other's Wearing These Trousers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kendall-jenner-boat-neck-top-hailey-bieber-bootcut-trousers-2026",
-      "summary": "Always chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-08T12:27:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f38b641ae124",
-      "title": "12 Best Tracksuits for Men – Ultimate Style Guide in 2026",
-      "link": "https://www.fashionbeans.com/article/best-tracksuits-for-men/",
-      "summary": "The best tracksuits for men have been all the rage since long before Squid Games aired. Think Run-DMC making tracksuits central to hip-hop culture. Or the varied men of The Sopranos sporting matching zip-up jackets and pants as they catch rays outside of Satriale’s. Don’t even get me started about Juicy Couture&#8217;s",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-08T12:26:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7d871a3f7fbd",
-      "title": "5 Best Overshirts For Men To Level Up Your Layering in 2026",
-      "link": "https://www.fashionbeans.com/article/best-overshirts-for-men/",
-      "summary": "The overshirt does overtime in your wardrobe. Get it? That’s how it acquired its name. Well, not really, but that doesn’t change the fact that Fashionbeans have got the best overshirts for men waiting for you below. I’ve found overshirts to be the perfect thing to throw over in the summer evenings when it gets &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Overshirts For Men To Level Up Your Layering in 2026...",
-      "score": 1,
-      "published": "2026-10-08T12:18:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d7b069271d67",
       "title": "Emily Sundberg Knows What People Want",
       "link": "https://www.harpersbazaar.com/culture/features/a74034529/emily-sundberg-feed-me-interview-2026/",
@@ -2246,62 +2288,6 @@
       "angle": "Fashion Intelligence: V-Mart Retail Plans 3-5% Apparel Price Hike in Q3fy27 Amid Cost Pressu...",
       "score": 1,
       "published": "2026-10-08T11:37:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "256701c8d5f1",
-      "title": "25 Types of Hats For Men – Styles for Any Occasion in 2026",
-      "link": "https://www.fashionbeans.com/article/mens-hat-styles/",
-      "summary": "Remember when Justin Bieber wore a hot pink beanie to a black tie event? Unless you’re Justin, who can pull off anything (you guessed it, we are Beliebers), a beanie at the Grammys isn’t the most appropriate choice of hat. Then what types of hats are suitable for a black tie event, you ask? We’d &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-10-08T10:23:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "842b3e1b65d8",
-      "title": "The Best Autumn/Winter Footwear Trends For Men 2026",
-      "link": "https://www.fashionbeans.com/article/mens-autumn-winter-footwear-trends/",
-      "summary": "The transition from summer into the colder months brings with it many unpleasant changes: prolonged darkness, frigid temperatures and a woeful lack of ice cream vans, to name a few. However, for all of autumn/winter&#8217;s glaring faults, it does boast one redeeming feature. It equips you with a bombproof excuse to tr",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-08T09:56:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f69d0f79a465",
-      "title": "The 30 Hottest Celebrities Over 40 in 2026",
-      "link": "https://www.fashionbeans.com/article/hottest-celebrities-over-40/",
-      "summary": "Meet the 30 hottest celebrities over 40 in 2026, from actors and musicians to fashion icons. Explore the ranking, standout careers and personal style.",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The 30 Hottest Celebrities Over 40 in 2026...",
-      "score": 2,
-      "published": "2026-10-08T09:26:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6706f945a013",
-      "title": "The 30 Greatest 90s Actresses: Hollywood’s Hottest Women of the Decade",
-      "link": "https://www.fashionbeans.com/article/hottest-90s-actresses/",
-      "summary": "The 1990s produced a concentration of female star power that has never quite been repeated. It was the decade of the rom-com golden age, the supermodel era, and the rise of the action heroine — all happening simultaneously, all feeding off each other. The women who defined it weren&#8217;t just pretty faces. They were ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The 30 Greatest 90s Actresses: Hollywood’s Hottest Women of the Decade...",
-      "score": 1,
-      "published": "2026-10-08T09:04:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2697,48 +2683,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "33f92a89feb1",
-      "title": "Garba Night Outfit Ideas That Are Stylish and Easy to Dance In",
-      "link": "https://blog.kalkifashion.com/garba-night-outfit-ideas-that-are-stylish-and-easy-to-dance-in/",
-      "summary": "Are you too eagerly waiting for Navratri just like me? I&#8217;m sure you are well, most of us are. And why not? It is the most beautiful time of the year, with so many celebrations to enjoy, so many Garba nights to attend, and so many gorgeous outfits to shop for. From spectacular suits to [&#8230;] The post Garba Nig",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Garba Night Outfit Ideas That Are Stylish and Easy to Dance In...",
-      "score": 1,
-      "published": "2026-10-07T06:10:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66b2747f4294",
-      "title": "Best Garba Outfits for Women: Lehengas, Chaniya Cholis & More",
-      "link": "https://blog.kalkifashion.com/best-garba-outfits-for-women-lehengas-chaniya-cholis-more/",
-      "summary": "Garba is more than a dance form. It is a celebration of new shades, flashy clothes, music, tradition, and lots of memories. As the dhol beats begin, your feet move to the rhythm, and every twirl becomes a little celebration. This is why you need to pick the right Garba outfit that not only makes [&#8230;] The post Best",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Best Garba Outfits for Women — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-10-03T05:35:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e08665fd231d",
-      "title": "Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United",
-      "link": "https://blog.kalkifashion.com/shivika-and-mihirs-sydney-love-story-a-bangkok-wedding-two-cultures-united/",
-      "summary": "Some weddings unite two people, while others bring together entire worlds. For this Sydney-based bride and groom, their celebration beautifully connected their Rajasthani and Haryanvi roots with the culture and warmth of Bangkok, the city the bride had always called home. The bride grew up in Bangkok, while Mihir, a Ha",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-09-10T11:32:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "47c325e26b5f",
       "title": "Types of Ethnic Wear for Men: A Complete Guide for Every Occasion",
       "link": "https://www.torani.in/blogs/news/types-of-ethnic-wear-for-men-a-complete-guide-for-every-occasion",
@@ -2764,104 +2708,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 9,
       "published": "2026-09-07T10:35:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c6d3a2cac426",
-      "title": "Nakshu’s Bridal Lehenga Was a Beautiful Reflection of Her Love Story",
-      "link": "https://blog.kalkifashion.com/nakshus-bridal-lehenga-was-a-beautiful-reflection-of-her-love-story/",
-      "summary": "From the very beginning of her bridal journey, Nakshu knew she wanted a wedding look that felt completely like her—timeless, elegant and filled with emotion. She was not searching for an outfit simply because it was trending or looked beautiful in photographs. She wanted a bridal lehenga that reflected her personality,",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Nakshu’s Bridal Lehenga Was a Beautiful Reflection of Her Love Story — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-09-01T08:52:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "70029b14daab",
-      "title": "How Did a Childhood Meeting Lead Sanjana Tiwari to Her Dream Wedding in Chhindwara?",
-      "link": "https://blog.kalkifashion.com/sanjana-childhood-story-red-lehenga/",
-      "summary": "Some love stories begin with a grand romantic gesture. Others start with a chance meeting, a perfectly timed conversation or two strangers crossing paths unexpectedly. Sanjana Tiwari’s story, however, began when she was only 12 years old—long before she could have imagined that a simple visit to a family home would one",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How Did a Childhood Meeting Lead Sanjana Tiwari to Her Dream Wedding in Chhindwara? — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-08-31T06:39:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eeab187d1473",
-      "title": "BEYOND THE VOWS: Janhvi Kapoor & Ishaan Khatter Step Into The New Chapter Of Love",
-      "link": "https://blog.kalkifashion.com/janhvi-kapoor-ishaan-khatter-beyond-the-vows/",
-      "summary": "You know your wedding is not defined by a single day. There are moments before the vows are exchanged. Featuring Ishaan Khatter and Janhvi Kapoor, Kalki Fashion brings to you the Second chapter of Bride &#38; Groom Couture &#8217;26—Beyond the Vows. Moving past the pheras and into the occasions that follow, this chapte",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: BEYOND THE VOWS: Janhvi Kapoor & Ishaan Khatter Step Into The New Chap...",
-      "score": 4,
-      "published": "2026-08-28T06:39:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cebc790d3327",
-      "title": "Isha’s Perfect Bollywood Love Story Turned into an Ivory Bridal Dream in Jaipur",
-      "link": "https://blog.kalkifashion.com/ishas-ivory-bridal-dream-in-jaipur/",
-      "summary": "Some love stories begin with a perfect first meeting. Isha’s began with a meeting that seemingly led nowhere—only to return with a wonderfully unexpected twist. What started as an arranged introduction gradually became a friendship, then a romance, and finally a marriage celebrated amid the regal beauty of Vijayran Pal",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Bridal Edit: Isha’s Perfect Bollywood Love Story Turned into an Ivory Bridal Dream in Jaipur — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-08-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "19896b7afc45",
-      "title": "Shivani’s Magenta Bridal Dream Amid the Natural Beauty of Sasan Gir",
-      "link": "https://blog.kalkifashion.com/shivanis-magenta-bridal-look-in-sasan-gir/",
-      "summary": "Some love stories unfold slowly, finding their rhythm over months or even years. Others arrive with complete certainty. For this KALKI bride and her husband, it took only one meeting to know that they had found the person with whom they wanted to spend the rest of their lives. There was no hesitation or second-guessing",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Shivani’s Magenta Bridal Dream Amid the Natural Beauty of Sasan Gir — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-25T09:52:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2d0bce7d1c7b",
-      "title": "Kushali’s Wedding Look Was a Beautiful Celebration of Tradition and Individuality",
-      "link": "https://blog.kalkifashion.com/kushalis-wedding-look-was-a-beautiful-celebration-of-tradition-and-individuality/",
-      "summary": "Some bridal looks make a statement through grandeur, while others remain memorable because they feel deeply personal. Real bride Kushali’s wedding ensemble brought both worlds together. Rich in traditional colour, intricate craftsmanship and thoughtful styling, her look reflected the significance of the occasion withou",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Kushali’s Wedding Look Was a Beautiful Celebration of Tradition and Individuality — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-08-24T10:35:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3e1de67aa661",
-      "title": "Thoughtful Raksha Bandhan Gifts For Your Brother",
-      "link": "https://blog.kalkifashion.com/thoughtful-raksha-bandhan-gifts-for-your-brother/",
-      "summary": "Are you also enjoying the festive air that has been surrounding us lately? Doesn’t the atmosphere feel a little different as soon as the calendar reaches mid-year? The air feels fresher, the vibes get happier, and there’s a certain excitement that comes with knowing the festive season is just around the corner. And Rak",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Thoughtful Raksha Bandhan Gifts For Your Brother...",
-      "score": 2,
-      "published": "2026-08-24T06:14:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +2853,52 @@
   ],
   "trends": [
     {
-      "term": "ಹೆಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ",
+      "term": "ദുബായ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather delhi",
+      "term": "స్టీవ్ స్మిత్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "icc odi world cup 2027 schedule",
+      "term": "ತಾಯಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata consultancy services",
+      "term": "ಮಂಡ್ಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अभिषेक शर्मा",
+      "term": "dehradun weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संजय राऊत",
+      "term": "oneplus 15 coloros 17 beta",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "phoebe litchfield",
+      "term": "southampton vs portsmouth",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇల్లు ఇల్లాలు పిల్లలు",
+      "term": "india vs australia odi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फरीदकोट",
+      "term": "kbfc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "virgo horoscope today",
+      "term": "bmsd",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
