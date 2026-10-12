@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T08:30:58.349168+00:00",
+  "generated_at": "2026-10-12T12:46:28.680277+00:00",
   "owned_count": 10,
   "competitor_count": 14,
   "industry_count": 192,
@@ -9,17 +9,171 @@
   },
   "articles": [
     {
-      "id": "ea313fbe4d63",
-      "title": "Festive season, rising prices; Congress corners government over inflation",
-      "link": "https://www.indiatoday.in/india/story/congress-attacks-modi-government-over-festive-inflation-and-rising-prices-ptag-3015309-2026-10-12?utm_source=rss",
-      "summary": "Festive season, rising prices; Congress corners government over inflation",
+      "id": "e6de91d7d626",
+      "title": "How Tariffs Are Testing Indie Retail",
+      "link": "https://www.vogue.com/article/how-tariffs-are-testing-indie-retail",
+      "summary": "Data suggests independent retailers can adapt to tariff shifts faster than larger chains, but duties, shipping terms, supplier trust and thin margins limit that agility.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Tariffs Are Testing Indie Retail...",
+      "score": 0,
+      "published": "2026-10-12T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08433cc5e529",
+      "title": "Goa Govt Approves Apparel Manufacturing Cluster in Honda",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/goa-govt-approves-apparel-manufacturing-cluster-honda/",
+      "summary": "The Goa government has approved a proposal by Brighter Ideas Production and Supplies Pvt Ltd to establish an apparel manufacturing cluster in Honda, Sattari, North Goa. The proposed facility will manufacture school uniforms, school bags, rainwear, safety apparel and other institutional textile products. The company pla",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Goa Govt Approves Apparel Manufacturing Cluster in Honda...",
+      "score": 1,
+      "published": "2026-10-12T12:22:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7d5e94cae8c2",
+      "title": "Gigi Hadid Gives Denim a Twist With Liu Jo",
+      "link": "https://www.fashiongonerogue.com/story/gigi-hadid-liu-jo-denim/",
+      "summary": "Gigi Hadid fronts Liu Jo’s new denim campaign. Called “The Gigi Hadid Edit,” it&#8217;s a collection shaped by the supermodel’s ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Gigi Hadid Gives Denim a Twist With Liu Jo...",
+      "score": 2,
+      "published": "2026-10-12T12:15:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6f6fdd48b2a9",
+      "title": "Jaipur Kurti Opens Four Stores in a Day, Targets 50 Outlets by March 2027",
+      "link": "https://in.apparelresources.com/business-news/retail/jaipur-kurti-opens-four-stores-day-targets-50-outlets-march-2027/",
+      "summary": "Nandani Creation Limited, which operates the women’s ethnic wear brand Jaipur Kurti, has opened four stores in a single day as part of its Project 50 expansion plan. The new outlets are located at DT Mega Mall, Gurgaon; Jammu; Pacific Mall, Jaipur; and Rajouri Garden, Delhi. Announced in September 2026, Project 50 aims",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jaipur Kurti Opens Four Stores in a Day, Targets 50 Outlets by March 2...",
+      "score": 3,
+      "published": "2026-10-12T12:10:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4bc98826c81b",
+      "title": "Batman masks steal the show at INDIA bloc's march against Gyanesh Kumar",
+      "link": "https://www.indiatoday.in/india/story/rahul-gandhi-batman-mask-india-bloc-chalo-dilli-march-against-cec-gyanesh-kumar-3015644-2026-10-12?utm_source=rss",
+      "summary": "Batman masks steal the show at INDIA bloc's march against Gyanesh Kumar",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Batman masks steal the show at INDIA bloc's march against Gyanesh Kuma...",
+      "score": 1,
+      "published": "2026-10-12T12:07:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a9060ba7ba2",
+      "title": "Exclusive First Look: When Marc Quinn Made Kate Moss Into a Monument",
+      "link": "https://www.vogue.com/article/kate-by-marc-quinn-book-preview",
+      "summary": "“‘Siren’ is what collective belief looks like when it hardens into gold,” Raven Smith writes in the introduction to “Kate by Marc” from Idea Books.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Exclusive First Look: When Marc Quinn Made Kate Moss Into a Monument...",
+      "score": 0,
+      "published": "2026-10-12T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8a3571428adc",
+      "title": "*This* Is Exactly How to Wear Leggings to the Airport and Still Look Chic",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/grey-leggings-heeled-knee-high-boots-airport-outfit-bella-hadid-2026",
+      "summary": "Step-by-step.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-10-12T10:39:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "59e6ce361df8",
+      "title": "The Shoe and Skirt Combination Sweeping the Street-Style Scene This Month",
+      "link": "https://www.vogue.com/article/pencil-skirt-and-pointed-shoe-outfits",
+      "summary": "There was one outfit combination that swept the street style scene this fashion month; pencil skirts and pointed pumps. Here are 7 outfits to try.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Shoe and Skirt Combination Sweeping the Street-Style Scene This Mo...",
+      "score": 3,
+      "published": "2026-10-12T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08d40204806c",
+      "title": "The 16 Best Airbnbs in New England Include Cozy Cabins & Coastal Retreats",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-new-england",
+      "summary": "Planning a trip to the Northeast this season? Stay in one of the best Airbnbs in New England—our list of favorites covers every state (and style).",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: The 16 Best Airbnbs in New England Include Cozy Cabins & Coastal Retre...",
       "score": 2,
-      "published": "2026-10-12T07:17:20+00:00",
+      "published": "2026-10-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0fe1a02da7a7",
+      "title": "Vogue’s Fall Travel Capsule Wardrobe Essentials",
+      "link": "https://www.vogue.com/article/travel-capsule-wardrobe",
+      "summary": "From walking shoes to lightweight layers, here's everything you need for your fall travel capsule wardrobe.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Vogue’s Fall Travel Capsule Wardrobe Essentials...",
+      "score": 0,
+      "published": "2026-10-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "323dd32d6742",
+      "title": "The Best J.Crew New Arrivals to Shop for Fall 2026",
+      "link": "https://www.vogue.com/article/best-jcrew-finds",
+      "summary": "Barn jackets, pops of purple, and great knitwear are among the best J.Crew new arrivals we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best J.Crew New Arrivals to Shop for Fall 2026...",
+      "score": 1,
+      "published": "2026-10-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5881191608c0",
+      "title": "It's Simple: Wearing This Specific Coat Trend With Capris Is an Instant It-Girl Indicator",
+      "link": "https://www.whowhatwear.com/fashion/celebrity/celebrity-style/laura-harrier-silk-robe-coat-capri-pants-outfit",
+      "summary": "A look good enough to wear on repeat. Just ask Laura Harrier.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-12T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -877,6 +1031,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0182e6df2e42",
+      "title": "Women With Great Taste Are Quietly Obsessed With This Elegant Jumper—Now, It’s Selling Out",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/almada-yara-v-neck-sweater",
+      "summary": "A trend-proof staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Women With Great Taste Are Quietly Obsessed With This Elegant Jumper—N...",
+      "score": 1,
+      "published": "2026-10-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6d953d7828d4",
       "title": "Autumn Perfumes Are My Entire Personality—These 7 New Launches Will Guarantee You Compliments",
       "link": "https://www.whowhatwear.com/beauty/fragrance/best-autumn-2026-fragrance-launches",
@@ -886,20 +1054,6 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-10-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aa3cb1ac5ac7",
-      "title": "No, Not Polka Dots—Fashion People Everywhere Are Wearing This Effortlessly Luxe Shirt Instead",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-a-plaid-shirt-2026",
-      "summary": "Lumberjack, who?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-10-10T06:00:00+00:00",
       "discovered_via": "feed"
@@ -919,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0182e6df2e42",
-      "title": "Women With Great Taste Are Quietly Obsessed With This Elegant Jumper—Now, It’s Selling Out",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/almada-yara-v-neck-sweater",
-      "summary": "A trend-proof staple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Women With Great Taste Are Quietly Obsessed With This Elegant Jumper—N...",
-      "score": 1,
-      "published": "2026-10-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f861219c3022",
       "title": "ICYMI: Off-Duty Celebrities are Suddenly Wearing Trousers in This Specific Colour This Autumn",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/grey-trouser-trend-paris-alexa-chung-elsa-hosk-nara-smith-maude-apatow-2026",
@@ -943,6 +1083,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-10-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aa3cb1ac5ac7",
+      "title": "No, Not Polka Dots—Fashion People Everywhere Are Wearing This Effortlessly Luxe Shirt Instead",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-a-plaid-shirt-2026",
+      "summary": "Lumberjack, who?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-10-10T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1227,20 +1381,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c7cd83bb7f96",
-      "title": "The Deeper Meaning Behind Kate Middleton’s Quintessential Fall Look",
-      "link": "https://www.vogue.com/article/kate-middleton-quintessential-fall-look-tartan-skirt-meaning",
-      "summary": "Though most closely associated with Scotland, tartan has a history in the north of Ireland stretching back centuries—a detail Kate Middleton, the Princess of Wales may well have had in mind when choosing her latest look.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Deeper Meaning Behind Kate Middleton’s Quintessential Fall Look...",
-      "score": 0,
-      "published": "2026-10-09T18:18:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "553709800122",
       "title": "The Best Street-Style Looks From Paris Fashion Week",
       "link": "https://www.harpersbazaar.com/fashion/trends/a73981821/spring-2027-paris-fashion-week-street-style-trends/",
@@ -1269,20 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "314fa6bd6ebf",
-      "title": "Sex and the Cities: How Each Fashion Capital Interpreted Sex for Spring 2027",
-      "link": "https://www.vogue.com/article/sexy-clothes-spring-2027-collections",
-      "summary": "From the downtown, casual cool of New York to the forthright seduction of Paris, designers approached sex in various ways for the spring 2027 season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Sex and the Cities: How Each Fashion Capital Interpreted Sex for Sprin...",
-      "score": 3,
-      "published": "2026-10-09T18:05:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1b28ebbec94d",
       "title": "I Know You're an It Girl If You're Wearing These 6 Major Fall Jacket Trends",
       "link": "https://www.whowhatwear.com/fashion/jacket-trends-fall-2026",
@@ -1294,20 +1420,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-10-09T18:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee714b19382c",
-      "title": "Hillary Clinton, Huma Abedin, and Katie Couric Helped Argent Celebrate Ten Years of Work Friends",
-      "link": "https://www.vogue.com/slideshow/argent-work-friends-dinner-ten-year-anniversary",
-      "summary": "On Wednesday evening, the workwear-focused label’s founder Sali Christeson gathered an extraordinary group for a special night at Marcel uptown, with Secretary Hillary Rodham Clinton, Huma Abedin, and Katie Couric among those joining her for the milestone.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Hillary Clinton, Huma Abedin, and Katie Couric Helped Argent Celebrate...",
-      "score": 2,
-      "published": "2026-10-09T17:39:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1339,20 +1451,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "27f463bb4b37",
-      "title": "6 Best Vitamin C Serums to Brighten and Firm Skin",
-      "link": "https://www.vogue.com/article/vitamin-c-serums",
-      "summary": "The best vitamin C serums take advantage of the antioxidant to even out dark spots and boost collagen production in a single step. Shop our top picks.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Best Vitamin C Serums to Brighten and Firm Skin...",
-      "score": 0,
-      "published": "2026-10-09T16:56:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "52bab224f684",
       "title": "Kinnik Is Hiring A Freelance Fashion Designer (Remote, NYC or Hybrid)",
       "link": "https://fashionista.com/2026/10/kinnik-is-hiring-a-freelance-fashion-designer-remote-nyc-or-hybrid",
@@ -1367,20 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ea9a83ebbb59",
-      "title": "Cheers to the Nominees! The CFDA Board of Directors Toasted to the 2026 Fashion Award Contenders",
-      "link": "https://www.vogue.com/slideshow/cfda-pre-fashion-awards-dinner-celebration",
-      "summary": "Michael Kors hosted the annual Board of Directors dinner on Thursday evening at Café Zaffri, joined by a whole host of industry figures and upcoming CFDA Fashion Award nominees.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Cheers to the Nominees! The CFDA Board of Directors Toasted to the 202...",
-      "score": 1,
-      "published": "2026-10-09T16:35:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8718fa250b7d",
       "title": "8 Best Trench Coats for Men: Mystery Meets Utility in 2026",
       "link": "https://www.fashionbeans.com/article/best-trench-coats-for-men/",
@@ -1392,20 +1476,6 @@
       "angle": "Fashion Intelligence: 8 Best Trench Coats for Men: Mystery Meets Utility in 2026...",
       "score": 3,
       "published": "2026-10-09T16:32:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-09T16:27:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1955,48 +2025,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "526225822715",
-      "title": "I'm Bringing My Feet Out of Hibernation—9 Autumnal Pedicures to Try on Your Toes This Season",
-      "link": "https://www.whowhatwear.com/beauty/nails/autumnal-pedicures-2026",
-      "summary": "Too good to hide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-09T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c7434ef30c99",
-      "title": "My Friend Asked Me What Jacket Styles Will Dominate Winter 2026—I Sent Her These 7 Runway-Approved Trends",
-      "link": "https://www.whowhatwear.com/winter-jacket-trends-2026",
-      "summary": "Time to layer up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-09T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f6acd84773ce",
-      "title": "Alexa Chung, Bella Hadid and Hailey Bieber Agree: This \"Dated\" Y2K Trend Is the Next Big Print of 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/camo-print-trend-2026",
-      "summary": "Now you see it, now you don't.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-09T05:55:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1d6e7e871763",
       "title": "The Menswear Reset: 2026’s Most Wearable Style Trends Right Now",
       "link": "https://www.fashionbeans.com/article/menswear-reset-2026-style-trends/",
@@ -2050,20 +2078,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-08T22:20:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "83674d6a7186",
-      "title": "Cummerbunds Are Fall's Hot-Ticket Trend: 5 Ways I'm Wearing One IRL",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-cummerbunds",
-      "summary": "Runway to real life.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-08T21:50:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2316,20 +2330,6 @@
       "angle": "Fashion Intelligence: Bella Hadid Shines for Orebella Vanilla’s Touch...",
       "score": 1,
       "published": "2026-10-08T12:28:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "390218aa2dab",
-      "title": "V-Mart Retail Plans 3-5% Apparel Price Hike in Q3fy27 Amid Cost Pressures",
-      "link": "https://in.apparelresources.com/business-news/retail/v-mart-retail-plans-3-5-apparel-price-hike-q3fy27-amid-cost-pressures/",
-      "summary": "V-Mart Retail is planning a 3% to 5% price increase in the October-December quarter of 2026 (Q3FY27) to offset rising raw material costs, according to Anand Agarwal, Chief Operating Officer and Chief Financial Officer. The value-fashion retailer had maintained its prices during the July-September quarter (Q2FY27), even",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: V-Mart Retail Plans 3-5% Apparel Price Hike in Q3fy27 Amid Cost Pressu...",
-      "score": 1,
-      "published": "2026-10-08T11:37:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2893,6 +2893,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f61456cc1c90",
+      "title": "Lab-Grown Diamond Earrings in India: The Complete Buying Guide",
+      "link": "https://www.azafashions.com/blog/lab-grown-diamond-earrings-guide/?utm_source=rss&utm_medium=rss&utm_campaign=lab-grown-diamond-earrings-guide",
+      "summary": "Diamond earrings have long been a staple of fine jewellery collections. Whether it is a pair of classic solitaire studs for everyday wear or intricate drop earrings for festive occasions,&#8230; The post Lab-Grown Diamond Earrings in India: The Complete Buying Guide appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Lab-Grown Diamond Earrings in India: The Complete Buying Guide...",
+      "score": 5,
+      "published": "2026-10-12T09:07:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e2b2e0401cd6",
       "title": "6 Diwali Outfit Trends Everyone Will Want to Copy This Year",
       "link": "https://www.azafashions.com/blog/diwali-fashion-trends/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-fashion-trends",
@@ -3017,70 +3031,56 @@
       "score": 3,
       "published": "2026-10-07T12:55:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "57f72aae5d95",
-      "title": "Your Gen Z Bridal Moodboard Needs These 9 Lehenga Alternatives",
-      "link": "https://www.azafashions.com/blog/gen-z-lehenga-alternatives/?utm_source=rss&utm_medium=rss&utm_campaign=gen-z-lehenga-alternatives",
-      "summary": "For decades, the bridal lehenga was the default. You said \"wedding,\" and everyone pictured the same silhouette: a heavy skirt, a fitted blouse, a dupatta draped just so. It worked,&#8230; The post Your Gen Z Bridal Moodboard Needs These 9 Lehenga Alternatives appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Your Gen Z Bridal Moodboard Needs These 9 Lehenga Alternatives — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-10-07T12:41:49+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "australia vs south africa",
+      "term": "कर्मचारी भविष्य निधि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऑस्ट्रेलिया बनाम दक्षिण अफ्रीका",
+      "term": "वायुसेना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऐश्वर्या राय बच्चन",
+      "term": "ವಾರ್ತೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "తిలక్ వర్మ",
+      "term": "shanghai masters",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mathura aligarh railway line survey",
+      "term": "delhi vs bengal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పొదరిల్లు",
+      "term": "சென்னை சூப்பர் கிங்ஸ்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chris bradley mckinsey",
+      "term": "voting",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adam gilchrist",
+      "term": "australia national cricket team vs south africa national cricket team timeline",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "কপিল সিব্বল",
+      "term": "election contest",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "coloros 17 india release date",
+      "term": "சஞ்சு சாம்சன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
