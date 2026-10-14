@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-14T07:03:43.879932+00:00",
+  "generated_at": "2026-10-14T09:56:32.817661+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 193,
+  "industry_count": 194,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "5f295d66ff75",
+      "title": "Ao Yes Shanghai Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/ao-yes",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ao Yes Shanghai Spring 2027...",
+      "score": 0,
+      "published": "2026-10-14T09:54:14+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "fb73cdbded7d",
       "title": "Oude Waag Shanghai Spring 2027",
@@ -19,7 +33,189 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Oude Waag Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-14T07:03:09+00:00",
+      "published": "2026-10-14T09:54:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "74c8926a5cbb",
+      "title": "The Power of Pat",
+      "link": "https://www.whowhatwear.com/beauty/makeup/pat-mcgrath-best-runway-makeup-looks",
+      "summary": "Twenty years of runway magic, as Pat McGrath remembers it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Power of Pat...",
+      "score": 1,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "241656362f53",
+      "title": "What to Wear",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-fashion-items-to-shop-2026",
+      "summary": "The season's greatest hits await.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: What to Wear...",
+      "score": 2,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b7117cbdb98",
+      "title": "20 Years of Iconic Runway Fashion, Revisited",
+      "link": "https://www.whowhatwear.com/fashion/20-years-of-iconic-runway-looks",
+      "summary": "Remember me?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20 Years of Iconic Runway Fashion, Revisited...",
+      "score": 2,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e31cab319a9",
+      "title": "Los Angeles According to Nicole Richie and Rodarte's Kate and Laura Mulleavy",
+      "link": "https://www.whowhatwear.com/living/travel/los-angeles-city-guide-nicole-richie-kate-laura-mulleavy",
+      "summary": "The native Angelenos and fashion-industry fixtures share their favorite addresses in the city.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Los Angeles According to Nicole Richie and Rodarte's Kate and Laura Mu...",
+      "score": 2,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2521a11f26bf",
+      "title": "Retail Therapy: The 20 Fall Items You Need This Season",
+      "link": "https://www.whowhatwear.com/fashion/shopping/retail-therapy-best-fall-fashion",
+      "summary": "The best of the best.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7ee7eb384eac",
+      "title": "Up Next",
+      "link": "https://www.whowhatwear.com/fashion/best-new-fashion-designers-new-york-los-angeles-london-2026",
+      "summary": "Discover the best new designers from L.A., NYC, and London.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Up Next...",
+      "score": 1,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e869539a6cbf",
+      "title": "Fashion High",
+      "link": "https://www.whowhatwear.com/fashion/creative-director-superlatives-2026",
+      "summary": "Superlatives for fashion's biggest overachievers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion High...",
+      "score": 1,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98022f20dcee",
+      "title": "Bag Check: What Fashion People Carried in 2006 vs. 2026",
+      "link": "https://www.whowhatwear.com/fashion/bag-check-2006-2026",
+      "summary": "Everything a fashion person carried in 2006—and everything they're carrying now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bag Check: What Fashion People Carried in 2006 vs. 2026...",
+      "score": 1,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "960230e3e61e",
+      "title": "Hillary Kerr's World: Her Fashion Nonnegotiables, Virgo Tendencies, and 20 Years of Who What Wear",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/my-world-hillary-kerr",
+      "summary": "\"My younger self would just be so proud of the fact that we built a brand with real longevity and relevance.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hillary Kerr's World: Her Fashion Nonnegotiables, Virgo Tendencies, an...",
+      "score": 3,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "13f24eb0207b",
+      "title": "This Is Fashion’s Most-Wanted Cashmere Jumper—and the World’s Chicest Women Own It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/the-row-ophelia-jumper",
+      "summary": "Pure luxury.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Is Fashion’s Most-Wanted Cashmere Jumper—and the World’s Chicest ...",
+      "score": 2,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aa2f3315e372",
+      "title": "Celebrating 20 Years of Who What Wear",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/who-what-wear-20",
+      "summary": "It's our birthday—here’s to two decades of style, inspiration, and stories worth sharing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Celebrating 20 Years of Who What Wear...",
+      "score": 2,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "02af125c3c50",
+      "title": "Iris Law Is the Blueprint",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/iris-law-interview",
+      "summary": "The model and founder has spent a decade inside the fashion industry. Now, she's taking everything she's learned and building something that's entirely her own.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Iris Law Is the Blueprint...",
+      "score": 2,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "59b4a644b7a2",
+      "title": "Whitney Peak Isn't Waiting for Permission Anymore",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/whitney-peak-interview",
+      "summary": "The actress has spent her early 20s being told she's fashion's and Hollywood's next big thing. Now, she's figuring out what happens when she stops worrying about what comes next.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Whitney Peak Isn't Waiting for Permission Anymore...",
+      "score": 1,
+      "published": "2026-10-14T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -76,20 +272,6 @@
       "angle": "Fashion Intelligence: The Old Retail KPIs Are Out. What Matters Now?...",
       "score": 2,
       "published": "2026-10-14T05:47:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "64869decc3d0",
-      "title": "Annamalai says his We The Leaders outfit to contest Tamil Nadu local body polls",
-      "link": "https://www.indiatoday.in/india/tamil-nadu/story/k-annamalai-we-the-leaders-contest-tamil-nadu-local-body-polls-former-bjp-3016917-2026-10-14?utm_source=rss",
-      "summary": "Annamalai says his We The Leaders outfit to contest Tamil Nadu local body polls",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Annamalai says his We The Leaders outfit to contest Tamil Nadu local b...",
-      "score": 1,
-      "published": "2026-10-14T05:47:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1143,20 +1325,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "871b190ed5de",
-      "title": "I Am So Over Comics Who Simply Don’t Like Women",
-      "link": "https://www.vogue.com/article/i-am-so-over-comics-who-simply-dont-like-women-shane-gillis-snl-2026-10-12",
-      "summary": "“I haven’t been to the gym in so long, I didn’t know women just dress like whores now,” said Shane Gillis in his opening monologue on “Saturday Night Live” over the weekend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Am So Over Comics Who Simply Don’t Like Women...",
-      "score": 1,
-      "published": "2026-10-12T21:24:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bef98be16c3c",
       "title": "Black Pants and Sneakers Won't Look Dated If You Wear Them With This Chic Accessories Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/sheer-skinny-scarf-trend-zoe-kravitz",
@@ -1493,20 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "76dc00dea258",
-      "title": "The 5 Most Important Trends to Shop for Fall 2026, According to WWW Editors",
-      "link": "https://www.whowhatwear.com/fashion/top-fall-2026-trends-according-to-editors",
-      "summary": "Including the color of the season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-11T19:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b3ce72e46a94",
       "title": "Jennifer Lawrence Adds a Touch of Drama to Her Date-Night Look With a Red Ombré Bag",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74102342/jennifer-lawrence-red-ombre-beaded-fringe-bag-date-night-look-photos/",
@@ -1605,90 +1759,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0f2366757628",
-      "title": "The Fashion Crowd Is Styling Their Basics Differently This Fall—5 Small Changes Making a Big Impact",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-fall-basics-2026",
-      "summary": "See the proof inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Fashion Crowd Is Styling Their Basics Differently This Fall—5 Smal...",
-      "score": 1,
-      "published": "2026-10-11T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cab405c7e9f8",
-      "title": "Not Straight-Leg: This Petite-Girl-Approved Jeans Trend Looks Even Better With Ankle Boots",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cuffed-jeans-black-boots-outfit-florence-pugh-2026",
-      "summary": "I can confirm.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-11T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7eeedefad7f4",
-      "title": "It’s Only October, But H&M Has Already Nailed Winter’s Chicest Trends—5 Pieces Set to Sell Out First",
-      "link": "https://www.whowhatwear.com/fashion/shopping/hm-winter-trends-2026",
-      "summary": "Bring on the chill.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-11T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2de0c673370d",
-      "title": "Not Jeans—The Chicest Over 50s Are Already Styling This Elegant Winter Trouser Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/checked-trouser-trend-tracee-ellis-ross-2026",
-      "summary": "Get ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5e20ecf2ec2d",
-      "title": "Black Shoes Are Classic, But These 6 Elevated Alternatives Are Definitely Trendier",
-      "link": "https://www.whowhatwear.com/fashion/shoes/what-to-wear-instead-of-black-shoes",
-      "summary": "One step ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-11T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d75acc817f55",
-      "title": "If You Want to Look Sophisticated This Winter, These 9 Elegant Brands Should Be on Your Radar",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-luxury-brands-autumn-winter-2026",
-      "summary": "Pure luxury.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want to Look Sophisticated This Winter, These 9 Elegant Brands ...",
-      "score": 2,
-      "published": "2026-10-11T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "06c8557a29b7",
       "title": "Florence Pugh Wears Shimmering Beaded Wiederhoeft to Go Red-Carpet Official With Boyfriend Finn Cole",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74099877/florence-pugh-boyfriend-finn-cole-go-red-carpet-official-london-film-festival-photos/",
@@ -1700,20 +1770,6 @@
       "angle": "Fashion Intelligence: Florence Pugh Wears Shimmering Beaded Wiederhoeft to Go Red-Carpet Off...",
       "score": 1,
       "published": "2026-10-10T22:20:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8297e94d7527",
-      "title": "It Girls in Their 20s and 30s Agree: This Is the Rich-Looking Trend to Wear With Jeans Right Now",
-      "link": "https://www.whowhatwear.com/fashion/fall/jacquard-jacket-trend-with-jeans",
-      "summary": "Emma Stone and Daisy Edgar-Jones get it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-10T22:11:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1745,20 +1801,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1f7b6013f723",
-      "title": "I'm a Fashion Editor Who Loves a Fall Dress—32 Elegant Picks That Look Expensive",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-dresses-2026",
-      "summary": "Florals! Plaids! Knits!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor Who Loves a Fall Dress—32 Elegant Picks That Look...",
-      "score": 2,
-      "published": "2026-10-10T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "314c01c56768",
       "title": "Topcoat vs Overcoat: Why This Confusion Exists (And Which One You Actually Need)",
       "link": "https://www.fashionbeans.com/article/topcoat-vs-overcoat/",
@@ -1770,20 +1812,6 @@
       "angle": "Fashion Intelligence: Topcoat vs Overcoat: Why This Confusion Exists (And Which One You Actu...",
       "score": 2,
       "published": "2026-10-10T19:15:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c61378e12bb2",
-      "title": "From Bella Hadid to EmRata: The Polarizing Shoe Trend Celebrities Return to Every Fall",
-      "link": "https://www.whowhatwear.com/fashion/shopping/uggs-fall-2026",
-      "summary": "Including under-$100 pairs.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-10T19:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1812,20 +1840,6 @@
       "angle": "Fashion Intelligence: Taylor Swift and Travis Kelce’s Date-Night Style Is All About the Fall...",
       "score": 3,
       "published": "2026-10-10T16:08:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "82e9642c9459",
-      "title": "The Once-Dated Skirt Trend That's About to Be Everywhere This Fall",
-      "link": "https://www.whowhatwear.com/fashion/skirts/knee-length-skirt-trend-fall-2026",
-      "summary": "Yet another comeback.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-10T15:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2711,6 +2725,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "618ce4e314b9",
+      "title": "Navratri 2026: What To Wear for All 9 Days",
+      "link": "https://blog.kalkifashion.com/navratri-2026-outfits-what-to-wear-for-all-9-days/",
+      "summary": "We all look forward to the festive season. Don’t we? And why not? The festive season gives us a reason to socialise, feast on finger-licking food, and most of all, dress up in gorgeous outfits that make us look spectacular. So, get ready to shop for mind-blowing ethnic and contemporary wear as Navratri is just [&#8230;",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 6,
+      "published": "2026-10-14T07:45:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cb3853882888",
       "title": "The New Indian Festive Wardrobe: Dressing for Celebrations Beyond Tradition",
       "link": "https://www.torani.in/blogs/news/the-new-indian-festive-wardrobe-dressing-for-celebrations-beyond-tradition",
@@ -2893,17 +2921,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3e1de67aa661",
-      "title": "Thoughtful Raksha Bandhan Gifts For Your Brother",
-      "link": "https://blog.kalkifashion.com/thoughtful-raksha-bandhan-gifts-for-your-brother/",
-      "summary": "Are you also enjoying the festive air that has been surrounding us lately? Doesn’t the atmosphere feel a little different as soon as the calendar reaches mid-year? The air feels fresher, the vibes get happier, and there’s a certain excitement that comes with knowing the festive season is just around the corner. And Rak",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
+      "id": "4221281834b6",
+      "title": "Here’s What’s Trending in Men’s Engagement Rings Right Now",
+      "link": "https://www.azafashions.com/blog/mens-engagement-rings/?utm_source=rss&utm_medium=rss&utm_campaign=mens-engagement-rings",
+      "summary": "Men's engagement rings have quietly become one of the most exciting categories in fine jewellery. What was once an afterthought — a plain metal band chosen without much ceremony —&#8230; The post Here&#8217;s What&#8217;s Trending in Men&#8217;s Engagement Rings Right Now appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Thoughtful Raksha Bandhan Gifts For Your Brother...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-08-24T06:14:53+00:00",
+      "published": "2026-10-13T08:31:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c91fc880e2b",
+      "title": "Jogiya by Torani: A Collection Full of Beautiful Plot Twists",
+      "link": "https://www.azafashions.com/blog/jogiya-by-torani/?utm_source=rss&utm_medium=rss&utm_campaign=jogiya-by-torani",
+      "summary": "Some collections whisper. Jogiya announces itself. This is Torani's latest ode to festive dressing, and it doesn't tiptoe around tradition so much as it dances straight through it, colour-blocked cape&#8230; The post Jogiya by Torani: A Collection Full of Beautiful Plot Twists appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-10-12T09:28:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3017,84 +3059,56 @@
       "score": 1,
       "published": "2026-10-08T09:10:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "a0325b351a18",
-      "title": "The Key Takeaways from Paris Fashion Week Spring/Summer 27",
-      "link": "https://www.azafashions.com/blog/paris-fashion-week-spring-summer-27/?utm_source=rss&utm_medium=rss&utm_campaign=paris-fashion-week-spring-summer-27",
-      "summary": "Paris didn't reinvent itself this season. It did something harder: it looked back at its own archives and figured out how to make them feel current again. Across the Spring/Summer&#8230; The post The Key Takeaways from Paris Fashion Week Spring/Summer 27 appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Key Takeaways from Paris Fashion Week Spring/Summer 27...",
-      "score": 2,
-      "published": "2026-10-08T08:18:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c2af96353e3b",
-      "title": "Top Trending Pastel Bridal Shades That Will Rule 2026 Weddings",
-      "link": "https://www.azafashions.com/blog/pastel-bridal-colours/?utm_source=rss&utm_medium=rss&utm_campaign=pastel-bridal-colours",
-      "summary": "Bridal reds had their share of fame and was heaped with all the love they deserved. And thought it continues to live in our hearts rent-free, it has begun giving&#8230; The post Top Trending Pastel Bridal Shades That Will Rule 2026 Weddings appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Top Trending Pastel Bridal Shades That Will Rule 2026 Weddings — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-10-07T12:55:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ellyse perry",
+      "term": "వార్త",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தீபாவளி",
+      "term": "বর্ধমান",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అనుపమ పరమేశ్వరన్",
+      "term": "மேட்டூர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "saurav das ashutosh ranka custody",
+      "term": "म्हाडा पुणे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "robot",
+      "term": "ரோகித் சர்மா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "తెంబా బవుమా",
+      "term": "ஐப்பசி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जयपुर इंटरनेशनल एयरपोर्ट",
+      "term": "மின்சாரம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अक्षरा सिंह",
+      "term": "वेस्ट इंडीज क्रिकेट संघ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "movie roles",
+      "term": "ತನುಶ್ರೀ ದತ್ತಾ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "roman abramovich",
+      "term": "october 16 2026 ott releases",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
