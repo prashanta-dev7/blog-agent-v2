@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-15T06:54:47.497271+00:00",
+  "generated_at": "2026-10-15T09:37:57.401110+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 191,
+  "industry_count": 192,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d5d8fbf239b2",
+      "title": "Shuting Qiu Shanghai Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/shuting-qiu",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Shuting Qiu Shanghai Spring 2027...",
+      "score": 0,
+      "published": "2026-10-15T09:35:13+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "24470b9213c1",
       "title": "Danielle Frankel Spring 2027 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Danielle Frankel Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-15T06:54:26+00:00",
+      "published": "2026-10-15T09:35:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Jacques Wei Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-15T06:54:26+00:00",
+      "published": "2026-10-15T09:35:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Samuel Guì Yang Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-15T06:54:26+00:00",
+      "published": "2026-10-15T09:35:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Xu Zhi Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-15T06:54:26+00:00",
+      "published": "2026-10-15T09:35:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Shao Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-15T06:54:26+00:00",
+      "published": "2026-10-15T09:35:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,21 +103,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ao Yes Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-15T06:54:26+00:00",
+      "published": "2026-10-15T09:35:13+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "8e4da0017f40",
-      "title": "Businessman shot dead by robbers, looted of Rs 1.5 crore jewellery, incident on cam",
-      "link": "https://www.indiatoday.in/india/gujarat/story/rajkot-robbery-businessman-shot-dead-by-robbers-looted-of-rs-15-crore-gold-and-silver-jewellery-incident-on-cam-3017756-2026-10-15?utm_source=rss",
-      "summary": "Businessman shot dead by robbers, looted of Rs 1.5 crore jewellery, incident on cam",
-      "source": "India Today Fashion",
+      "id": "c31cca6e2d83",
+      "title": "What Would It Take to Fix Fashion’s Audit Fatigue?",
+      "link": "https://www.vogue.com/article/what-would-it-take-to-fix-fashions-audit-fatigue",
+      "summary": "A series of supply chain scandals has left fashion overly reliant on audits and painfully aware of their shortcomings. Vogue Business invited leading auditors to share their blueprints for change.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Businessman shot dead by robbers, looted of Rs 1.5 crore jewellery, in...",
+      "angle": "Fashion Intelligence: What Would It Take to Fix Fashion’s Audit Fatigue?...",
       "score": 1,
-      "published": "2026-10-15T06:36:33+00:00",
+      "published": "2026-10-15T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f1a05cfba17a",
+      "title": "Ex-IAS officer Divya Mittal launches Janniti Bharat Party, to contest 2027 UP polls",
+      "link": "https://www.indiatoday.in/india/story/divya-mittal-launches-janniti-bharat-party-2027-uttar-pradesh-assembly-elections-3017858-2026-10-15?utm_source=rss",
+      "summary": "Ex-IAS officer Divya Mittal launches Janniti Bharat Party, to contest 2027 UP polls",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-10-15T08:39:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ad7c1cef709b",
+      "title": "If You Like Parisian Style, Wear Your Sweaters Like This, This, and This",
+      "link": "https://www.whowhatwear.com/fashion/fall/french-sweater-outfits",
+      "summary": "Ouais, ouais, ouais.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Like Parisian Style, Wear Your Sweaters Like This, This, and Th...",
+      "score": 2,
+      "published": "2026-10-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "01950752aba2",
+      "title": "I Studied the Runways—These Are the Emerging Designers Who Stood Out to Me During Fashion Month",
+      "link": "https://www.whowhatwear.com/fashion/fashion-month-emerging-designers-spring-summer-2027",
+      "summary": "All my favorites from the spring/summer 2027 shows.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Studied the Runways—These Are the Emerging Designers Who Stood Out t...",
+      "score": 4,
+      "published": "2026-10-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -947,48 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2fed4dfe72be",
-      "title": "Rachel Gurjar’s New Cookbook, ‘East to East,’ Celebrates Flavors Near and Far",
-      "link": "https://www.vogue.com/article/rachel-gurjar-east-to-east-2026-10-14",
-      "summary": "“East to East: Recipes and Stories from Mumbai to New York” is out now from Chronicle Books.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rachel Gurjar’s New Cookbook, ‘East to East,’ Celebrates Flavors Near ...",
-      "score": 0,
-      "published": "2026-10-14T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aeea64e0517a",
-      "title": "Top Trends of the Spring 2027 Ready-to-Wear Season Span Skirts, Bra Tops, and Misfit Glamour",
-      "link": "https://www.vogue.com/article/the-top-trends-of-the-spring-2027-ready-to-wear-season",
-      "summary": "At the spring 2027 shows, designers responded to the chaos of the current moment with mixed prints and wonky fits.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 5,
-      "published": "2026-10-14T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66feac907a95",
-      "title": "The Unexpected Joy of a Second Marathon",
-      "link": "https://www.vogue.com/article/berlin-marathon-diary",
-      "summary": "On going the distance without carrying the weight.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Unexpected Joy of a Second Marathon...",
-      "score": 0,
-      "published": "2026-10-14T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9eb980a5b59c",
       "title": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
       "link": "https://www.vogue.com/article/best-airbnbs-in-lisbon",
@@ -1013,6 +1027,48 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: 44 Wedding Shoes That Are Perfect for Your Walk Down the Aisle — A Complete Style Guide",
       "score": 2,
+      "published": "2026-10-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66feac907a95",
+      "title": "The Unexpected Joy of a Second Marathon",
+      "link": "https://www.vogue.com/article/berlin-marathon-diary",
+      "summary": "On going the distance without carrying the weight.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Unexpected Joy of a Second Marathon...",
+      "score": 0,
+      "published": "2026-10-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2fed4dfe72be",
+      "title": "Rachel Gurjar’s New Cookbook, ‘East to East,’ Celebrates Flavors Near and Far",
+      "link": "https://www.vogue.com/article/rachel-gurjar-east-to-east-2026-10-14",
+      "summary": "“East to East: Recipes and Stories from Mumbai to New York” is out now from Chronicle Books.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rachel Gurjar’s New Cookbook, ‘East to East,’ Celebrates Flavors Near ...",
+      "score": 0,
+      "published": "2026-10-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "aeea64e0517a",
+      "title": "Top Trends of the Spring 2027 Ready-to-Wear Season Span Skirts, Bra Tops, and Misfit Glamour",
+      "link": "https://www.vogue.com/article/the-top-trends-of-the-spring-2027-ready-to-wear-season",
+      "summary": "At the spring 2027 shows, designers responded to the chaos of the current moment with mixed prints and wonky fits.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 5,
       "published": "2026-10-14T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1143,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "74c8926a5cbb",
-      "title": "The Power of Pat",
-      "link": "https://www.whowhatwear.com/beauty/makeup/pat-mcgrath-best-runway-makeup-looks",
-      "summary": "Twenty years of runway magic, as Pat McGrath remembers it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Power of Pat...",
-      "score": 1,
-      "published": "2026-10-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "59b4a644b7a2",
       "title": "Whitney Peak Isn't Waiting for Permission Anymore",
       "link": "https://www.whowhatwear.com/fashion/cover-features/whitney-peak-interview",
@@ -1181,6 +1223,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 20 Years of Iconic Runway Fashion, Revisited...",
       "score": 2,
+      "published": "2026-10-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "74c8926a5cbb",
+      "title": "The Power of Pat",
+      "link": "https://www.whowhatwear.com/beauty/makeup/pat-mcgrath-best-runway-makeup-looks",
+      "summary": "Twenty years of runway magic, as Pat McGrath remembers it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Power of Pat...",
+      "score": 1,
       "published": "2026-10-14T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1280,34 +1336,6 @@
       "angle": "Fashion Intelligence: The Old Retail KPIs Are Out. What Matters Now?...",
       "score": 2,
       "published": "2026-10-14T05:47:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "766b6951b3f6",
-      "title": "The Vogue Business SS27 Global Buyer Report",
-      "link": "https://www.vogue.com/article/cinched-waists-and-freaky-shoes-the-vogue-business-ss27-global-buyer-report",
-      "summary": "Buyers share their top trends, collections and takeaways from the Spring/Summer 2027 season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Vogue Business SS27 Global Buyer Report...",
-      "score": 3,
-      "published": "2026-10-14T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "072449e35b4a",
-      "title": "Frieze London 2026 Cheat Sheet",
-      "link": "https://www.vogue.com/article/frieze-london-2026-cheat-sheet",
-      "summary": "Despite market uncertainty, this year’s edition of the UK’s most prominent art fair is buoyed by an optimistic mood, bringing with it a series of brand activations, major openings and a raft of new names to know.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Frieze London 2026 Cheat Sheet...",
-      "score": 1,
-      "published": "2026-10-14T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1840,20 +1868,6 @@
       "angle": "Fashion Intelligence: The Specific Shoes, Bags, and Jackets I'm Buying to Enhance My Outfits...",
       "score": 1,
       "published": "2026-10-13T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "59d5ad66d2b8",
-      "title": "Suddenly, Every Elegant Woman in Europe Is Wearing This New Knitwear Trend",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/deep-scoop-neck-jumper-trend-winter-2026",
-      "summary": "Cosy and elegant in equal measure.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-13T06:20:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +3035,52 @@
   ],
   "trends": [
     {
-      "term": "மழை",
+      "term": "அன்புமணி ராமதாஸ்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "केंद्रीय औद्योगिक सुरक्षा बल",
+      "term": "గోదావరి నది",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "australia champions vs england",
+      "term": "tax",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अनुपम खेर",
+      "term": "સરકાર",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गैस",
+      "term": "ಪಬ್ಲಿಕ್ ಟಿವಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राकेश प्रताप सिंह",
+      "term": "अर्शदीप सिंह",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഹൈക്കോടതി",
+      "term": "mauritius",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विराट कोहली",
+      "term": "मनोरंजन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mahindra xuv 3xo",
+      "term": "yes bank news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಭಾರತದ ಚುನಾವಣಾ ಆಯೋಗ",
+      "term": "బౌలర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
