@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-16T06:41:43.681009+00:00",
+  "generated_at": "2026-10-16T09:30:42.624649+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 189,
+  "industry_count": 192,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d19819e4b80e",
+      "title": "Markgong Shanghai Spring 2027",
+      "link": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/markgong",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Markgong Shanghai Spring 2027...",
+      "score": 0,
+      "published": "2026-10-16T09:29:19+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "59538c574d85",
       "title": "Nehera Spring 2027 Ready-to-Wear",
@@ -19,7 +33,77 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Nehera Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-16T06:40:05+00:00",
+      "published": "2026-10-16T09:29:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cfa057db4cc6",
+      "title": "I've Been a Fashion Editor for 10 Years—Here's Everything I Think Is Worth Buying This Fall",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-fall-fashion-items-2026",
+      "summary": "I do a lot of shopping.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I've Been a Fashion Editor for 10 Years—Here's Everything I Think Is W...",
+      "score": 1,
+      "published": "2026-10-16T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "668028f576bc",
+      "title": "6 Under-$500 Outfits That Will Make Everyone Think You Hired a Personal Stylist",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fall-2026-outfits",
+      "summary": "Take the guesswork out of dressing this season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 6 Under-$500 Outfits That Will Make Everyone Think You Hired a Persona...",
+      "score": 3,
+      "published": "2026-10-16T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3c3a1a437a84",
+      "title": "FYI, Sienna Miller Found the Non-Basic Heels You Can Wear With Nearly Every Outfit This Fall",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jude-mixer-sandals",
+      "summary": "They come in seven different colors.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: FYI, Sienna Miller Found the Non-Basic Heels You Can Wear With Nearly ...",
+      "score": 2,
+      "published": "2026-10-16T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "da94d983dc18",
+      "title": "Your Balloon Pants Are Begging to Be Worn With These 5 Chic Shoe Trends",
+      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-balloon-pants",
+      "summary": "According to the fashion set.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-16T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a07ea3a86fe",
+      "title": "Here You Go—a Curated Edit of the Chicest Outerwear and Shoes From Zara",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-outerwear-shoes-fall-2026",
+      "summary": "Starting at under $60.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Here You Go—a Curated Edit of the Chicest Outerwear and Shoes From Zar...",
+      "score": 1,
+      "published": "2026-10-16T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1073,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b12f05321f02",
-      "title": "If You Want Your Scent to Subliminally Signal Good Taste, Wear This Underrated and Expensive-Smelling Perfume",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-plum-perfumes",
-      "summary": "Juicy, and jammy, and mouthwatering.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want Your Scent to Subliminally Signal Good Taste, Wear This Un...",
-      "score": 1,
-      "published": "2026-10-15T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "be7360a03981",
       "title": "Word to the Wise: Beauty Advent Calendars Sell Out *Fast*—12 I Recommend Ordering Now",
       "link": "https://www.whowhatwear.com/beauty/beauty-advent-calendars-2026",
@@ -1096,6 +1166,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Word to the Wise: Beauty Advent Calendars Sell Out *Fast*—12 I Recomme...",
+      "score": 1,
+      "published": "2026-10-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b12f05321f02",
+      "title": "If You Want Your Scent to Subliminally Signal Good Taste, Wear This Underrated and Expensive-Smelling Perfume",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-plum-perfumes",
+      "summary": "Juicy, and jammy, and mouthwatering.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Want Your Scent to Subliminally Signal Good Taste, Wear This Un...",
       "score": 1,
       "published": "2026-10-15T11:00:00+00:00",
       "discovered_via": "feed"
@@ -1115,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fdc4611c90a3",
-      "title": "From Sleek Office Wear to Night Out Finds, Zara’s New Arrivals Have Fall Covered",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "From knits to skirts to a wide assortment of jackets, Zara’s new arrivals have fall covered.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Sleek Office Wear to Night Out Finds, Zara’s New Arrivals Have Fa...",
-      "score": 1,
-      "published": "2026-10-15T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b857383b1870",
       "title": "Hold the Jeans and Sneakers—This Is the 2027 Way to Wear 2026's Biggest T-Shirt Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/baseball-tee-outfits-daisy-edgar-jones",
@@ -1140,6 +1210,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-10-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3e31a81ad018",
+      "title": "9 Classic Men’s Hairstyles – Timeless Haircuts in 2026",
+      "link": "https://www.fashionbeans.com/article/classic-mens-hairstyles/",
+      "summary": "Most people say it&#8217;s your footwear that is the first thing people fix their eyes on &#8211; but we&#8217;d argue, given it&#8217;s location on the body, it&#8217;s your hair. And, unlike a subpar pair of brogues or some battered white leather sneakers, you can&#8217;t easily slip out of a questionable hairstyle. ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 9 Classic Men’s Hairstyles – Timeless Haircuts in 2026...",
+      "score": 2,
+      "published": "2026-10-15T09:00:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1157,6 +1241,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "dc7beb8f1e05",
+      "title": "Grunge Fashion For Men: Outfits And Style Guide",
+      "link": "https://www.fashionbeans.com/article/grunge-fashion-guide/",
+      "summary": "In the beginning, it meant nothing. “It could have been sludge, grime, crud, any word like that,” according to Jonathan Poneman, the founder of Seattle-based record label Sub Pop, some time later. But in his description of the scene, sent out to journalists in the late 1980s when its soon-to-be-stars were still dossing",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-10-15T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ad7c1cef709b",
       "title": "If You Like Parisian Style, Wear Your Sweaters Like This, This, and This",
       "link": "https://www.whowhatwear.com/fashion/fall/french-sweater-outfits",
@@ -1171,6 +1269,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3fe8cabcd2c1",
+      "title": "20 Best Jean Brands for Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-jeans-brands/",
+      "summary": "Jeans are often considered a generic product, so ubiquitous in our wardrobes that they’re the single most widely-worn garment on the planet. As such, to invest in a pair from expensive jeans brands can, to some, still seem a little excessive. But for those obsessed with jeans &#8211; and there are some real obsessives ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20 Best Jean Brands for Men in 2026...",
+      "score": 1,
+      "published": "2026-10-15T07:00:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "01950752aba2",
       "title": "I Studied the Runways—These Are the Emerging Designers Who Stood Out to Me During Fashion Month",
       "link": "https://www.whowhatwear.com/fashion/fashion-month-emerging-designers-spring-summer-2027",
@@ -1182,6 +1294,20 @@
       "angle": "Fashion Intelligence: I Studied the Runways—These Are the Emerging Designers Who Stood Out t...",
       "score": 4,
       "published": "2026-10-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "22988e1fe2d8",
+      "title": "12 Types of Pants for Men – Different Trouser Styles 2026",
+      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
+      "summary": "Statement jackets and the latest sneakers are always going to be top of men&#8217;s lust lists, but don&#8217;t let high-wattage clobber blind you to the essentials. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
+      "score": 3,
+      "published": "2026-10-15T06:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1210,6 +1336,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-15T05:20:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26ddd674037d",
+      "title": "10 Best Shoes for Overweight Men – Comfort Walking For 2026",
+      "link": "https://www.fashionbeans.com/article/best-shoes-for-overweight-men/",
+      "summary": "Shopping when you’re carrying a few extra pounds can be a challenge. It’s not always as simple as buying the things you like. There needs to be extra thought put into your purchases to ensure you’re investing in clothes that are not only stylish but comfortable and flattering too. Footwear is no different. Mess it &#82",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Shoes for Overweight Men – Comfort Walking For 2026...",
+      "score": 1,
+      "published": "2026-10-15T05:11:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1801,20 +1941,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "241656362f53",
-      "title": "What to Wear",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-fashion-items-to-shop-2026",
-      "summary": "The season's greatest hits await.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Wear...",
-      "score": 2,
-      "published": "2026-10-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6e31cab319a9",
       "title": "Los Angeles According to Nicole Richie and Rodarte's Kate and Laura Mulleavy",
       "link": "https://www.whowhatwear.com/living/travel/los-angeles-city-guide-nicole-richie-kate-laura-mulleavy",
@@ -1909,34 +2035,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Celebrating 20 Years of Who What Wear...",
       "score": 2,
-      "published": "2026-10-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0b7117cbdb98",
-      "title": "20 Years of Iconic Runway Fashion, Revisited",
-      "link": "https://www.whowhatwear.com/fashion/20-years-of-iconic-runway-looks",
-      "summary": "Remember me?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 20 Years of Iconic Runway Fashion, Revisited...",
-      "score": 2,
-      "published": "2026-10-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "74c8926a5cbb",
-      "title": "The Power of Pat",
-      "link": "https://www.whowhatwear.com/beauty/makeup/pat-mcgrath-best-runway-makeup-looks",
-      "summary": "Twenty years of runway magic, as Pat McGrath remembers it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Power of Pat...",
-      "score": 1,
       "published": "2026-10-14T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2179,34 +2277,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a3ea33ff5eb1",
-      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
-      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
-      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
-      "score": 2,
-      "published": "2026-10-10T09:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3cc630394e1f",
-      "title": "Behind the Gloss: Achieve the Wet Hair Look with 2026’s Trendsetting Products",
-      "link": "https://www.fashionbeans.com/article/best-wet-hair-look-products/",
-      "summary": "It’s hard to put a finger on why the wet look is so appealing. Perhaps it’s because it makes us think of emerging from a cool body of water or that it generally evokes moisture, which inevitably makes us think of youth. Needless to say, the wet look is hot. Both sultry and sleek with &#8230; Continue reading Behind the",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-10T05:51:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dd2852615315",
       "title": "The Craziest Thing Vivian Jenna Wilson’s Done for Fashion? Wrangle a Live Snake",
       "link": "https://fashionista.com/2026/10/vivian-jenna-wilson-awe-inspired-interview",
@@ -2221,20 +2291,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "73c9fb369329",
-      "title": "8 Best Fall Jackets for Men for All Kinds of Weather in 2026",
-      "link": "https://www.fashionbeans.com/article/best-fall-jackets-for-men/",
-      "summary": "Letting go of summer is never easy, though it can be made more bearable should your wardrobe be prepared for the cooler climes that await. First things first, you’ll need to assemble a stellar selection of outerwear, starting with a suitable jacket that can handle the transitional period between now and winter. Keep re",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 8 Best Fall Jackets for Men for All Kinds of Weather in 2026...",
-      "score": 1,
-      "published": "2026-10-09T21:08:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "52bab224f684",
       "title": "Kinnik Is Hiring A Freelance Fashion Designer (Remote, NYC or Hybrid)",
       "link": "https://fashionista.com/2026/10/kinnik-is-hiring-a-freelance-fashion-designer-remote-nyc-or-hybrid",
@@ -2246,20 +2302,6 @@
       "angle": "Fashion Intelligence: Kinnik Is Hiring A Freelance Fashion Designer (Remote, NYC or Hybrid)...",
       "score": 3,
       "published": "2026-10-09T16:39:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8718fa250b7d",
-      "title": "8 Best Trench Coats for Men: Mystery Meets Utility in 2026",
-      "link": "https://www.fashionbeans.com/article/best-trench-coats-for-men/",
-      "summary": "Wearing a trench coat is always a strong fashion choice, able to set you apart from the crowd. But what’s particularly fascinating about the best trench coats for men is their ability to set you apart from the crowd in several different ways, depending on exactly what style you choose to wear. Although you can &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Trench Coats for Men: Mystery Meets Utility in 2026...",
-      "score": 3,
-      "published": "2026-10-09T16:32:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2851,6 +2893,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "549866915feb",
+      "title": "Newlywed Diwali Outfit Ideas for Your First Festive Season Together",
+      "link": "https://www.azafashions.com/blog/diwali-outfit-ideas-for-newlyweds/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-outfit-ideas-for-newlyweds",
+      "summary": "Your first Diwali as a married couple deserves a little extra sparkle. It’s the season to turn heads together, colour-coordinate without looking too matchy-matchy and start traditions that are yours&#8230; The post Newlywed Diwali Outfit Ideas for Your First Festive Season Together appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-16T08:52:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7bbc439b256",
+      "title": "Know Your Designer – Episode 55: Rohit Doshi",
+      "link": "https://www.azafashions.com/blog/know-your-designer-rohit-doshi/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-rohit-doshi",
+      "summary": "In a world where trends come and go, Rohit Doshi is designing for the long run. The Mumbai-based designer launched his eponymous label in 2021 with a vision rooted in&#8230; The post Know Your Designer &#8211; Episode 55: Rohit Doshi appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Know Your Designer – Episode 55: Rohit Doshi...",
+      "score": 4,
+      "published": "2026-10-16T07:56:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ae73c19de92c",
+      "title": "Trending Sarees to Wear for Chhath Puja: The US Edit",
+      "link": "https://www.azafashions.com/blog/sarees-for-chhath-puja-us/?utm_source=rss&utm_medium=rss&utm_campaign=sarees-for-chhath-puja-us",
+      "summary": "Chhath Puja is a significant festival on the cultural calendar. It's also one of the most visually striking, and what you wear plays a big part. The right saree needs&#8230; The post Trending Sarees to Wear for Chhath Puja: The US Edit appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-15T13:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c2ca7958ba0f",
       "title": "Sabyasachi: The Complete Guide to Lehengas, Sarees & Accessories",
       "link": "https://www.azafashions.com/blog/sabyasachi/?utm_source=rss&utm_medium=rss&utm_campaign=sabyasachi",
@@ -2947,98 +3031,56 @@
       "score": 2,
       "published": "2026-10-13T04:02:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "0c91fc880e2b",
-      "title": "Jogiya by Torani: A Collection Full of Beautiful Plot Twists",
-      "link": "https://www.azafashions.com/blog/jogiya-by-torani/?utm_source=rss&utm_medium=rss&utm_campaign=jogiya-by-torani",
-      "summary": "Some collections whisper. Jogiya announces itself. This is Torani's latest ode to festive dressing, and it doesn't tiptoe around tradition so much as it dances straight through it, colour-blocked cape&#8230; The post Jogiya by Torani: A Collection Full of Beautiful Plot Twists appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 3,
-      "published": "2026-10-12T09:28:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f61456cc1c90",
-      "title": "Lab-Grown Diamond Earrings in India: The Complete Buying Guide",
-      "link": "https://www.azafashions.com/blog/lab-grown-diamond-earrings-guide/?utm_source=rss&utm_medium=rss&utm_campaign=lab-grown-diamond-earrings-guide",
-      "summary": "Diamond earrings have long been a staple of fine jewellery collections. Whether it is a pair of classic solitaire studs for everyday wear or intricate drop earrings for festive occasions,&#8230; The post Lab-Grown Diamond Earrings in India: The Complete Buying Guide appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Lab-Grown Diamond Earrings in India: The Complete Buying Guide...",
-      "score": 5,
-      "published": "2026-10-12T09:07:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e2b2e0401cd6",
-      "title": "6 Diwali Outfit Trends Everyone Will Want to Copy This Year",
-      "link": "https://www.azafashions.com/blog/diwali-fashion-trends/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-fashion-trends",
-      "summary": "Diwali has always been the one night of the year when dressing up isn’t optional. This season, the wardrobe has stopped asking for permission. It’s structured, shimmering, saturated, and unapologetically&#8230; The post 6 Diwali Outfit Trends Everyone Will Want to Copy This Year appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-10-11T18:53:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "பெரியார் அறிவுலகம்",
+      "term": "టీవీ9 - తెలుగు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రాహుల్ గాంధీ",
+      "term": "విద్యా బాలన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मेष",
+      "term": "ಎಲಾನ್ ಮಸ್ಕ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ibps so result",
+      "term": "आर्यवीर सहवाग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ధాన్యం నిల్వ",
+      "term": "ముఖేష్ అంబానీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संजय राउत",
+      "term": "ஹர்திக் பாண்டியா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ssa",
+      "term": "ప్రధాన మంత్రి కిసాన్ సమ్మాన్ నిధి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्टारलिंक",
+      "term": "ಹೆಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कॉकरोच जनता पार्टी",
+      "term": "ಪ್ರಶಾಂತ್ ಭೂಷಣ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "taiwan index",
+      "term": "nmc extra attempt first professional mbbs",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
