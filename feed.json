@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-10-17T09:01:39.069520+00:00",
+  "generated_at": "2026-10-17T14:04:54.481607+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 185,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
-    {
-      "id": "1c42a5f3c8ae",
-      "title": "CJI Surya Kant Addresses NLSIU Bengaluru Convocation Amid Student Agitations and Row",
-      "link": "https://www.indiatoday.in/india/video/cji-surya-kant-addresses-nlsiu-bengaluru-convocation-amid-student-agitations-and-row-ytvd-3019548-2026-10-17?utm_source=rss",
-      "summary": "CJI Surya Kant Addresses NLSIU Bengaluru Convocation Amid Student Agitations and Row",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: CJI Surya Kant Addresses NLSIU Bengaluru Convocation Amid Student Agit...",
-      "score": 1,
-      "published": "2026-10-17T08:58:19+00:00",
-      "discovered_via": "feed"
-    },
     {
       "id": "b3952d043e9d",
       "title": "Shushu/Tong Shanghai Spring 2027",
@@ -33,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Shushu/Tong Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-17T08:56:45+00:00",
+      "published": "2026-10-17T14:01:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,21 +33,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Marchesa Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-17T08:56:45+00:00",
+      "published": "2026-10-17T14:01:36+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "d19819e4b80e",
-      "title": "Markgong Shanghai Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/markgong",
-      "summary": "",
+      "id": "1fc484578035",
+      "title": "In Hyères, Yui Chen Takes Top Prize",
+      "link": "https://www.vogue.com/article/in-hyeres-yui-chen-takes-top-prize",
+      "summary": "At 41, France’s oldest fashion festival, Hyères, gets back on track with a string of firsts.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Markgong Shanghai Spring 2027...",
+      "angle": "Fashion Intelligence: In Hyères, Yui Chen Takes Top Prize...",
+      "score": 1,
+      "published": "2026-10-17T13:07:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4a1da021a910",
+      "title": "Different names, multiple addresses: Suspected Bangladeshi woman detained in Gujarat",
+      "link": "https://www.indiatoday.in/india/story/gujarat-junagadh-police-detain-suspected-bangladeshi-woman-multiple-identities-3019716-2026-10-17?utm_source=rss",
+      "summary": "Different names, multiple addresses: Suspected Bangladeshi woman detained in Gujarat",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Different names, multiple addresses: Suspected Bangladeshi woman detai...",
+      "score": 1,
+      "published": "2026-10-17T13:00:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c613ac961eb1",
+      "title": "ICYMI: This Distributor Wants to Curate K-Beauty for U.S. Stores, What Buyers Are Buying From the Runways & Seán McGirr Leaves Alexander McQueen",
+      "link": "https://fashionista.com/news/fashion-news-you-need-to-know-october-17",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ICYMI: This Distributor Wants to Curate K-Beauty for U.S. Stores, What...",
+      "score": 2,
+      "published": "2026-10-17T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98c61747325f",
+      "title": "This Brand Takes a Haute Couture Approach to Bedding",
+      "link": "https://www.harpersbazaar.com/fashion/trends/a74121876/millaux-brand-review/",
+      "summary": "Millaux’s made-to-order “bedclothes” bring high fashion to bedtime",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: This Brand Takes a Haute Couture Approach to Bedding...",
+      "score": 3,
+      "published": "2026-10-17T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "85e08813ce67",
+      "title": "The Row, Saint Laurent, or Something Else? I'm Predicting Zoë Kravitz's Bridal Style",
+      "link": "https://www.whowhatwear.com/living/wedding/zoe-kravitz-wedding-dress-predictions-2026",
+      "summary": "Shop the pared-back and elegant bridal looks, from simple cream gowns to satin pantsuits.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Row, Saint Laurent, or Something Else? I'm Predicting Zoë Kravitz's Bridal Style — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-10-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "379a9db96de2",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-october-17",
+      "summary": "From nostalgic bobs and cool-toned makeup to star-spangled eyes and high-shine skin, this week’s best beauty moments balanced classic polish with a playful streak.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-10-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2e29070c4316",
+      "title": "The 25 Best Airbnbs in Italy, From Puglia to the Dolomites",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-italy",
+      "summary": "Whether you’re dreaming of rugged coastlines or rambling hillsides, these are the best Airbnbs to book in Italy, from Puglia to Tuscany to the Amalfi Coast.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 25 Best Airbnbs in Italy, From Puglia to the Dolomites...",
       "score": 0,
-      "published": "2026-10-17T08:56:45+00:00",
+      "published": "2026-10-17T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -891,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "31d95f926c2f",
-      "title": "When Will Spanish Beauty Get Its Global Moment?",
-      "link": "https://www.vogue.com/article/when-will-spanish-beauty-get-its-global-moment",
-      "summary": "The country specializes in fragrance and skincare innovation, yet its counterparts in Korea and France get most of the global glory. Is that about to change?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: When Will Spanish Beauty Get Its Global Moment?...",
-      "score": 1,
-      "published": "2026-10-16T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2eb21a2fa055",
       "title": "8 Best Nautica Colognes & Perfumes for Men To Try in 2026",
       "link": "https://www.fashionbeans.com/article/best-nautica-colognes/",
@@ -916,6 +972,34 @@
       "angle": "Fashion Intelligence: 8 Best Nautica Colognes & Perfumes for Men To Try in 2026...",
       "score": 2,
       "published": "2026-10-16T09:03:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "987969ed2c51",
+      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
+      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
+      "score": 4,
+      "published": "2026-10-16T09:00:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "da94d983dc18",
+      "title": "Your Balloon Pants Are Begging to Be Worn With These 5 Chic Shoe Trends",
+      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-balloon-pants",
+      "summary": "According to the fashion set.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-16T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -956,20 +1040,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: FYI, Sienna Miller Found the Non-Basic Heels You Can Wear With Nearly ...",
-      "score": 2,
-      "published": "2026-10-16T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "da94d983dc18",
-      "title": "Your Balloon Pants Are Begging to Be Worn With These 5 Chic Shoe Trends",
-      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-balloon-pants",
-      "summary": "According to the fashion set.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-10-16T09:00:00+00:00",
       "discovered_via": "feed"
@@ -1045,6 +1115,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c595aa5265f5",
+      "title": "12 Pieces Of Menswear That Defined Style In The 2010s",
+      "link": "https://www.fashionbeans.com/article/menswear-defined-2010s/",
+      "summary": "The last decade was a momentous one for menswear. It was the decade in which men&#8217;s fashion finally caught up with womenswear in both creativity and clout. The work of men&#8217;s designers was analysed in a way once reserved only for the fairer sex&#8217;s creative directors. And the glacial pace of plain old &#8",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 12 Pieces Of Menswear That Defined Style In The 2010s...",
+      "score": 5,
+      "published": "2026-10-16T06:00:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "110b555cb633",
       "title": "Experts Are Calling It: These Dark Nail Colours Will Reign Supreme This Season",
       "link": "https://www.whowhatwear.com/beauty/nails/dark-nail-colours-for-autumn",
@@ -1087,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "121891763e3e",
       "title": "If You Want to Look Like a French Woman This Winter, These Are the 6 Trends You Need to Wear",
       "link": "https://www.whowhatwear.com/fashion/winter/winter-french-fashion-trends-2026",
@@ -1126,6 +1196,20 @@
       "angle": "Fashion Intelligence: Gucci’s Bag Campaign Gets a Fresh Look for Fall...",
       "score": 2,
       "published": "2026-10-16T02:35:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd02101742fb",
+      "title": "14 Best Men’s Overcoat Brands: Ultimate Guide (Updated 2026)",
+      "link": "https://www.fashionbeans.com/article/mens-overcoat-guide/",
+      "summary": "When you have a discerning eye for the best overcoat brands, as the saying goes, you can shop anywhere. But knowing what to buy when you get there, that’s a different story altogether For all the smart-casual occasions that might come up during the winter season, it&#8217;s hard to beat a classic men&#8217;s overcoat. ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 14 Best Men’s Overcoat Brands: Ultimate Guide (Updated 2026)...",
+      "score": 3,
+      "published": "2026-10-16T02:00:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1745,20 +1829,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "be7360a03981",
-      "title": "Word to the Wise: Beauty Advent Calendars Sell Out *Fast*—12 I Recommend Ordering Now",
-      "link": "https://www.whowhatwear.com/beauty/beauty-advent-calendars-2026",
-      "summary": "Organized based on who'd enjoy them most.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Word to the Wise: Beauty Advent Calendars Sell Out *Fast*—12 I Recomme...",
-      "score": 1,
-      "published": "2026-10-15T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b12f05321f02",
       "title": "If You Want Your Scent to Subliminally Signal Good Taste, Wear This Underrated and Expensive-Smelling Perfume",
       "link": "https://www.whowhatwear.com/beauty/fragrance/best-plum-perfumes",
@@ -1768,6 +1838,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: If You Want Your Scent to Subliminally Signal Good Taste, Wear This Un...",
+      "score": 1,
+      "published": "2026-10-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be7360a03981",
+      "title": "Word to the Wise: Beauty Advent Calendars Sell Out *Fast*—12 I Recommend Ordering Now",
+      "link": "https://www.whowhatwear.com/beauty/beauty-advent-calendars-2026",
+      "summary": "Organized based on who'd enjoy them most.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Word to the Wise: Beauty Advent Calendars Sell Out *Fast*—12 I Recomme...",
       "score": 1,
       "published": "2026-10-15T11:00:00+00:00",
       "discovered_via": "feed"
@@ -1857,20 +1941,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "01950752aba2",
-      "title": "I Studied the Runways—These Are the Emerging Designers Who Stood Out to Me During Fashion Month",
-      "link": "https://www.whowhatwear.com/fashion/fashion-month-emerging-designers-spring-summer-2027",
-      "summary": "All my favorites from the spring/summer 2027 shows.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Studied the Runways—These Are the Emerging Designers Who Stood Out t...",
-      "score": 4,
-      "published": "2026-10-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9cea432fe226",
       "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
       "link": "https://www.fashionbeans.com/article/cross-body-bags/",
@@ -1896,34 +1966,6 @@
       "angle": "Fashion Intelligence: 12 Types of Pants for Men – Different Trouser Styles 2026...",
       "score": 3,
       "published": "2026-10-15T06:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a17306e92f8d",
-      "title": "The French Braid Is Making Moves to Become Autumn's Biggest Hairstyle Trend—Here's How to Do It",
-      "link": "https://www.whowhatwear.com/beauty/hair/how-to-do-a-french-braid",
-      "summary": "It's surprisingly easy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7fd68121195d",
-      "title": "It's Simple—People With Great Taste Will Carry These 6 Bag Trends This Winter",
-      "link": "https://www.whowhatwear.com/fashion/handbags/winter-bag-trends-2026",
-      "summary": "Make sure you're in the know.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-15T05:20:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1966,20 +2008,6 @@
       "angle": "Fashion Intelligence: Why Is Fashion So Obsessed With Dolls?...",
       "score": 2,
       "published": "2026-10-14T21:06:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2857bb8e7a00",
-      "title": "Dior and Harper’s Bazaar Take NYC with a Cocktail Celebrating Richard Avedon’s Legacy",
-      "link": "https://www.harpersbazaar.com/culture/art-books-music/a74135121/dior-harpers-bazaar-cocktail-party-new-york-city/",
-      "summary": "Guests toasted the release of a coffee table book recalling some of the photographer’s most memorable moments in print.",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dior and Harper’s Bazaar Take NYC with a Cocktail Celebrating Richard ...",
-      "score": 0,
-      "published": "2026-10-14T20:37:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2123,20 +2151,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5f57b84ae0cd",
-      "title": "6 Best Height Increase Insoles for Men: Lift, Fit & Comfort",
-      "link": "https://www.fashionbeans.com/article/best-height-increase-insoles/",
-      "summary": "Let’s start here: I’ve never been embarrassed when I wear shoe lifts, and I don’t think you should be, either. Adding a little bit of height is a great way to feel more confident and comfortable, so there’s no reason not to do it. However, there are a lot of misconceptions when it comes to &#8230; Continue reading 6 Be",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 6 Best Height Increase Insoles for Men: Lift, Fit & Comfort...",
-      "score": 1,
-      "published": "2026-10-14T12:53:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f2e408812bb3",
       "title": "What the Buyers Are Buying From the Spring 2027 Runways",
       "link": "https://fashionista.com/2026/10/what-buyers-are-buying-spring-2027-collections",
@@ -2176,34 +2190,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 2,
       "published": "2026-10-14T11:44:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a9b2d9f7df11",
-      "title": "1980s Men’s Fashion: Iconic Styles, Outfits & How to Wear Them",
-      "link": "https://www.fashionbeans.com/article/1980s-mens-fashion/",
-      "summary": "Men&#8217;s fashion in the 1980s wasn&#8217;t one look. Sharp-shouldered suits shared the decade with stonewashed denim, leather jackets, preppy polos and sportswear that moved well beyond the gym. The trick to recognizing an &#8217;80s outfit is often its shape: roomier jackets, higher-waisted trousers, bold color and",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 1980s Men’s Fashion: Iconic Styles, Outfits & How to Wear Them...",
-      "score": 4,
-      "published": "2026-10-14T11:28:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bcd9cdef4303",
-      "title": "Best Ray-Bans for Men: 8 Sunglasses & Glasses Picks",
-      "link": "https://www.fashionbeans.com/article/best-ray-bans-for-men/",
-      "summary": "Ray-Ban has made some of the most recognizable frames in eyewear, but choosing between a Wayfarer, a metal-frame pair of sunglasses and prescription glasses isn&#8217;t quite as simple as picking a logo. The best Ray-Bans for men depend on how you&#8217;ll wear them, how the frame fits and which lenses you need. This g",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Best Ray-Bans for Men: 8 Sunglasses & Glasses Picks...",
-      "score": 1,
-      "published": "2026-10-14T07:57:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2585,20 +2571,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7e90386f5b35",
-      "title": "Balloon Pants Are Paris Fashion Week's Biggest Street Style Trend — Literally",
-      "link": "https://fashionista.com/2026/10/pfw-spring-2027-street-style-trend-balloon-pants",
-      "summary": "Showgoers in the French fashion capital are embracing voluminous trousers this season.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 5,
-      "published": "2026-10-06T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "618ce4e314b9",
       "title": "Navratri 2026: What To Wear for All 9 Days",
       "link": "https://blog.kalkifashion.com/navratri-2026-outfits-what-to-wear-for-all-9-days/",
@@ -2937,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "divya mittal jan neeti bharat party",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "अजय देवगन",
+      "term": "वेस्टइंडीज़ क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "झारखंड",
+      "term": "fc goa",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "બેંક",
+      "term": "cricbuzz.com",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भुवनेश्वर कुमार",
+      "term": "मुख्य न्यायाधीश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सेवानिवृत्ति",
+      "term": "everton f.c. vs chelsea f.c. standings",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दिल्ली",
+      "term": "cricket score",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मौसम चेतावनी",
+      "term": "weather kolkata",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "marco rubio",
+      "term": "imd",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hdfc bank results",
+      "term": "வழக்கு",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "today's match",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
