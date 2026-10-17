@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-17T06:30:15.831979+00:00",
+  "generated_at": "2026-10-17T09:01:39.069520+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 183,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "1c42a5f3c8ae",
+      "title": "CJI Surya Kant Addresses NLSIU Bengaluru Convocation Amid Student Agitations and Row",
+      "link": "https://www.indiatoday.in/india/video/cji-surya-kant-addresses-nlsiu-bengaluru-convocation-amid-student-agitations-and-row-ytvd-3019548-2026-10-17?utm_source=rss",
+      "summary": "CJI Surya Kant Addresses NLSIU Bengaluru Convocation Amid Student Agitations and Row",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: CJI Surya Kant Addresses NLSIU Bengaluru Convocation Amid Student Agit...",
+      "score": 1,
+      "published": "2026-10-17T08:58:19+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b3952d043e9d",
       "title": "Shushu/Tong Shanghai Spring 2027",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Shushu/Tong Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-17T06:27:37+00:00",
+      "published": "2026-10-17T08:56:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Marchesa Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-17T06:27:37+00:00",
+      "published": "2026-10-17T08:56:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Markgong Shanghai Spring 2027...",
       "score": 0,
-      "published": "2026-10-17T06:27:37+00:00",
+      "published": "2026-10-17T08:56:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1789a38bedfa",
+      "title": "I Just Found Every Fall 2026 Trend at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-fall-2026-trends",
+      "summary": "Boatneck T-shirts, capris, pointed-toe kitten-heel pumps, royal purple, taffeta pants, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "568c9d880ee2",
+      "title": "Looking Like an Autumn It Girl Is Easy—Just Wear This Jacket Trend",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/leopard-print-jacket-trend",
+      "summary": "Upgrade everything you own with one new item.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-17T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -76,20 +118,6 @@
       "angle": "Fashion Intelligence: Wear Your Leggings With These Precise Jackets and Shoes to Make Them L...",
       "score": 1,
       "published": "2026-10-17T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdd05df6dedb",
-      "title": "Infiltration Bid Foiled in Kupwara's Keran Sector, Army Launches Search Ops",
-      "link": "https://www.indiatoday.in/india/video/infiltration-bid-foiled-in-kupwaras-keran-sector-army-launches-search-ops-ytvd-3019415-2026-10-17?utm_source=rss",
-      "summary": "Infiltration Bid Foiled in Kupwara's Keran Sector, Army Launches Search Ops",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-17T04:58:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -709,6 +737,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7175ad77d0c1",
+      "title": "The Best Men’s Wavy Hairstyles For 2026",
+      "link": "https://www.fashionbeans.com/article/best-wavy-hairstyles-for-men/",
+      "summary": "Why do we always want what we don’t have? Those with limp, straight hair would often kill for a bit of volume that doesn’t require styling tools or bucket-loads of product. And those with tight spiral curls eye the straight-haired with envy. But between the two, there’s natural waves. And while those with wavy hair &#8",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Men’s Wavy Hairstyles For 2026...",
+      "score": 1,
+      "published": "2026-10-16T12:57:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6596087db249",
       "title": "Inside Fine Jewelry’s Growing Battle Against Dupes",
       "link": "https://fashionista.com/industry/fine-jewelry-dupes-legal-protections",
@@ -863,17 +905,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "da94d983dc18",
-      "title": "Your Balloon Pants Are Begging to Be Worn With These 5 Chic Shoe Trends",
-      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-balloon-pants",
-      "summary": "According to the fashion set.",
-      "source": "Who What Wear",
+      "id": "2eb21a2fa055",
+      "title": "8 Best Nautica Colognes & Perfumes for Men To Try in 2026",
+      "link": "https://www.fashionbeans.com/article/best-nautica-colognes/",
+      "summary": "Are you having trouble finding the right cologne? Even if you already have a favorite, consider Nautica. I certainly have. Nautica is an ocean-themed lifestyle brand. Their cologne line focuses on a range of smells suitable for active, outdoor lifestyles, especially near the ocean, which, as we know, is a powerful draw",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Nautica Colognes & Perfumes for Men To Try in 2026...",
       "score": 2,
-      "published": "2026-10-16T09:00:00+00:00",
+      "published": "2026-10-16T09:03:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -919,6 +961,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "da94d983dc18",
+      "title": "Your Balloon Pants Are Begging to Be Worn With These 5 Chic Shoe Trends",
+      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-balloon-pants",
+      "summary": "According to the fashion set.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-16T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1bebff978575",
       "title": "10 Best Bootcut Jeans for Men And How To Style Them in 2026",
       "link": "https://www.fashionbeans.com/article/best-bootcut-jeans-for-men/",
@@ -944,6 +1000,34 @@
       "angle": "Fashion Intelligence: Here You Go—a Curated Edit of the Chicest Outerwear and Shoes From Zar...",
       "score": 1,
       "published": "2026-10-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d51850d357a7",
+      "title": "6 Best Ferragamo Cologne For The Modern Man in 2026",
+      "link": "https://www.fashionbeans.com/article/best-ferragamo-colognes/",
+      "summary": "Are you suited, booted, and searching for a scent that smells as good as you look? The best Ferragamo colognes are created for confident, go-getting guys. Those who are comfortable in their skin and looking for an unforgettable fragrance. Italian designer Ferragamo is a master of the olfactory art of creating timeless ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 6 Best Ferragamo Cologne For The Modern Man in 2026...",
+      "score": 1,
+      "published": "2026-10-16T07:49:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d45c36e2829f",
+      "title": "How To Build The Ultimate Minimalist Wardrobe For Men 2026",
+      "link": "https://www.fashionbeans.com/article/minimalist-wardrobe-men/",
+      "summary": "All the best things come in capsules. Medicine. Space food. Time. And, naturally, clothes. Not in a download-your-outfit-from-the-internet way, the minimalist wardrobe is far simpler than that. It&#8217;s the answer to every instance when you looked at your wardrobe and wondered, “What shall I wear today?” Ostensibly i",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Build The Ultimate Minimalist Wardrobe For Men 2026...",
+      "score": 2,
+      "published": "2026-10-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -989,6 +1073,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9c0548969149",
+      "title": "Harvey Specter: How To Dress Like The Sharpest Man On TV",
+      "link": "https://www.fashionbeans.com/article/harvey-specter-suits-style/",
+      "summary": "Harvey Specter. For those in the know, it’s a name that conjures up a knowing nod of agreement among men and women alike: goddamn, that guy looks good in a suit. If you’ve seen any of the high-stakes legal drama, Suits, (the clue is in the title; and yes, it’s the one that starred the Royal Family’s &#8230; Continue re",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Harvey Specter: How To Dress Like The Sharpest Man On TV...",
+      "score": 1,
+      "published": "2026-10-16T05:04:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "904f20a31d4f",
       "title": "The Vogue Business Beauty Trend Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
@@ -1028,6 +1126,20 @@
       "angle": "Fashion Intelligence: Gucci’s Bag Campaign Gets a Fresh Look for Fall...",
       "score": 2,
       "published": "2026-10-16T02:35:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4f713d178157",
+      "title": "Business Casual for Men – 14 Dress Code Styles + Guide 2026",
+      "link": "https://www.fashionbeans.com/article/business-casual-guide-men/",
+      "summary": "Business Casual is an album by Canadian electro-funk duo Chromeo. Confusingly, men&#8217;s business casual is also a dress code &#8211; one that is as baffling as its inherently contradictory moniker. Business isn’t something that you want to be casual about. Which oxymoron came up with that not-too-smart idea? “Busine",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Business Casual for Men – 14 Dress Code Styles + Guide 2026...",
+      "score": 2,
+      "published": "2026-10-16T01:30:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1633,20 +1745,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b12f05321f02",
-      "title": "If You Want Your Scent to Subliminally Signal Good Taste, Wear This Underrated and Expensive-Smelling Perfume",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-plum-perfumes",
-      "summary": "Juicy, and jammy, and mouthwatering.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Want Your Scent to Subliminally Signal Good Taste, Wear This Un...",
-      "score": 1,
-      "published": "2026-10-15T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "be7360a03981",
       "title": "Word to the Wise: Beauty Advent Calendars Sell Out *Fast*—12 I Recommend Ordering Now",
       "link": "https://www.whowhatwear.com/beauty/beauty-advent-calendars-2026",
@@ -1656,6 +1754,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Word to the Wise: Beauty Advent Calendars Sell Out *Fast*—12 I Recomme...",
+      "score": 1,
+      "published": "2026-10-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b12f05321f02",
+      "title": "If You Want Your Scent to Subliminally Signal Good Taste, Wear This Underrated and Expensive-Smelling Perfume",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-plum-perfumes",
+      "summary": "Juicy, and jammy, and mouthwatering.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Want Your Scent to Subliminally Signal Good Taste, Wear This Un...",
       "score": 1,
       "published": "2026-10-15T11:00:00+00:00",
       "discovered_via": "feed"
@@ -1868,20 +1980,6 @@
       "angle": "Fashion Intelligence: Dior and Harper’s Bazaar Take NYC with a Cocktail Celebrating Richard ...",
       "score": 0,
       "published": "2026-10-14T20:37:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "16bef0757e9d",
-      "title": "The Future-Proof Beauty Products Keke Palmer, Sofia Richie Grainge, and Maude Apatow Swear By",
-      "link": "https://www.whowhatwear.com/beauty/celebs-essential-beauty-products",
-      "summary": "The most timeless items, according to three Who What Wear cover stars.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Future-Proof Beauty Products Keke Palmer, Sofia Richie Grainge, an...",
-      "score": 2,
-      "published": "2026-10-14T20:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2165,62 +2263,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a9adee458044",
-      "title": "Medium Crew Cut: 10 Styles & How to Ask Your Barber",
-      "link": "https://www.fashionbeans.com/article/medium-crew-cut/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Medium Crew Cut: 10 Styles & How to Ask Your Barber...",
-      "score": 1,
-      "published": "2026-10-13T09:40:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "314c01c56768",
-      "title": "Topcoat vs Overcoat: Why This Confusion Exists (And Which One You Actually Need)",
-      "link": "https://www.fashionbeans.com/article/topcoat-vs-overcoat/",
-      "summary": "You&#8217;re standing in a menswear store looking at two wool coats. The sales associate calls one a &#8220;topcoat&#8221; and the other an &#8220;overcoat.&#8221; They look similar—both are knee-length, both are wool, both cost about the same. You ask what the difference is, and you get a vague answer about formality ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Topcoat vs Overcoat: Why This Confusion Exists (And Which One You Actu...",
-      "score": 2,
-      "published": "2026-10-10T19:15:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e9e55c227cc4",
-      "title": "Inside the Growing Clicky Bezel Watch Collection: From Dive Watches to Grails",
-      "link": "https://www.fashionbeans.com/article/clicky-bezel-watch-collection/",
-      "summary": "A New Year, A New State of the Collection Well, it&#8217;s a new year and that means it&#8217;s a new state of the Clicky Bezel watch collection. We&#8217;re going to see where the collection stands now: watches that left the collection, watches that stayed in the collection, and new acquisitions from last year. I’ll p",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-10T18:57:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f9945cb30ccb",
-      "title": "14 Best Sling Bags For Men: Top Carriers in 2026)",
-      "link": "https://www.fashionbeans.com/article/best-sling-bags-for-men/",
-      "summary": "You know the drill; if you see a men&#8217;s accessory trend on the runway, it&#8217;s coming to every store near you. These days, the best sling bags for men are all the rage. The best sling bags for men pair form with function like no other men&#8217;s accessory (and they actually look cool). It&#8217;s time &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 14 Best Sling Bags For Men: Top Carriers in 2026)...",
-      "score": 3,
-      "published": "2026-10-10T13:29:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e3e585c5428",
       "title": "ICYMI: Djerf Avenue Opens New York City Flagship, How Cassey Ho Founded Popflex & Fashionista's Favorite Paris Fashion Week Collections",
       "link": "https://fashionista.com/news/fashion-news-you-need-to-know-october-10",
@@ -2232,20 +2274,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 2,
       "published": "2026-10-10T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "17abf55b698d",
-      "title": "15 Best Men’s T-Shirt Brands For Every Guy in 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-t-shirt-brands/",
-      "summary": "Navy suit and blue jeans aside, the trusty T-shirt is the ultimate wardrobe staple. The foundation of any successful smart-casual outfit, it’s not only comfortable but reliable, versatile, and undeniably stylish. Which is something the best men’s T-shirt brands fully understand. But who are they? I’m glad you asked. I’",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 15 Best Men’s T-Shirt Brands For Every Guy in 2026...",
-      "score": 2,
-      "published": "2026-10-10T11:39:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "overseas citizenship of india",
+      "term": "divya mittal jan neeti bharat party",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "अजय देवगन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "deva music director",
+      "term": "झारखंड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "srh",
+      "term": "બેંક",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "deva music",
+      "term": "भुवनेश्वर कुमार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "యశస్వి జైస్వాల్",
+      "term": "सेवानिवृत्ति",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संयुक्त राष्ट्र",
+      "term": "दिल्ली",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chak de india",
+      "term": "मौसम चेतावनी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कनाडा बनाम नेपाल",
+      "term": "marco rubio",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "लखनऊ",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "अष्टमी दुर्गा अष्टमी कब है",
+      "term": "hdfc bank results",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
