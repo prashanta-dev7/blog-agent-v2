@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-10-19T07:15:13.705112+00:00",
+  "generated_at": "2026-10-19T10:31:51.897009+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 185,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8e93ab720f80",
+      "title": "All the VS Fashion Show After-Party Outfits You Haven't Seen",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/victorias-secret-fashion-show-after-party-outfits",
+      "summary": "Worn by Bella Hadid, Irina Shayk, Alix Earle, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: All the VS Fashion Show After-Party Outfits You Haven't Seen...",
+      "score": 3,
+      "published": "2026-10-19T10:24:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "702a140bd361",
+      "title": "Here’s How 14 Vogue Editors Dress for Black-Tie Weddings",
+      "link": "https://www.vogue.com/article/vogue-editor-black-tie-wedding-guest-dresses",
+      "summary": "See what black-tie wedding guest outfits Vogue editors are wearing for the more formal nuptials on their calendars.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Here’s How 14 Vogue Editors Dress for Black-Tie Weddings — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-10-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "15776ded1c1b",
+      "title": "13 J.Crew New Arrivals Fashion Editors Are Shopping First",
+      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-new-arrivals-fall-2026",
+      "summary": "Including under-$100 wardrobe staples.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 13 J.Crew New Arrivals Fashion Editors Are Shopping First...",
+      "score": 1,
+      "published": "2026-10-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "52feaa9a88b4",
+      "title": "Pumpkin Warms Up the A/W 2026 This Season",
+      "link": "https://in.apparelresources.com/fashion-news/trends/pumpkin-warms-w-2026-season/",
+      "summary": "Orange is replacing the deep wine tones that dominated recent autumns. The shift is already visible in the sources. Orange-family shades such as persimmon, rust, burnt orange and pumpkin spice appeared at Chanel and Dior, and dominated Milan Fashion Week street style. Pantone’s A/W 2026-27 New York Fashion Week report ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-19T09:37:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "248dd3780294",
+      "title": "French Girls and Off-Duty Models Always Wear Loafers With This Autumnal Jeans Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-loafers-outfit-elsa-hosk-2026",
+      "summary": "The chicest combination.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-19T09:22:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f61927b65d27",
+      "title": "Slate Grey Is the Neutral That Softens Winter Dressing",
+      "link": "https://in.apparelresources.com/fashion-news/trends/slate-grey-neutral-softens-winter-dressing/",
+      "summary": "Grey is moving from a background shade to a lead colour this A/W 2026. The industry tracking the season’s runways point to carbon grey, with Prada, Bottega Veneta and Sportmax showing head-to-toe looks in the hue. Slate sits in the same family: softer than black, with more depth than a light grey. It is positioned [&#8",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Slate Grey Is the Neutral That Softens Winter Dressing...",
+      "score": 4,
+      "published": "2026-10-19T08:46:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "aa82630c292d",
       "title": "Trust Me: We’ll All Be Wearing Our French Tips In This Shade for Autumn",
@@ -19,20 +103,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-10-19T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a2066f28097a",
-      "title": "Suddenly, Tasteful Dressers in NYC Are All Wearing This Elegant Micro Bag Trend for Party Season",
-      "link": "https://www.whowhatwear.com/fashion/handbags/satin-bag-trend-2026",
-      "summary": "The perfect plus one.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
       "published": "2026-10-19T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -51,31 +121,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "46b279cf0c69",
-      "title": "HarperCollins Teases Sonia Gandhi Memoir 'Belonging' Ahead of November 10 Launch",
-      "link": "https://www.indiatoday.in/india/video/harpercollins-teases-sonia-gandhi-memoir-belonging-ahead-of-november-10-launch-ytvd-3020525-2026-10-19?utm_source=rss",
-      "summary": "HarperCollins Teases Sonia Gandhi Memoir 'Belonging' Ahead of November 10 Launch",
-      "source": "India Today Fashion",
+      "id": "a2066f28097a",
+      "title": "Suddenly, Tasteful Dressers in NYC Are All Wearing This Elegant Bag Trend",
+      "link": "https://www.whowhatwear.com/fashion/handbags/satin-bag-trend-2026",
+      "summary": "The perfect plus one.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-19T05:07:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4e3f9c0d75c3",
-      "title": "RSS Warning on Bangladesh Model, Opposition Row and Protests in India",
-      "link": "https://www.indiatoday.in/india/video/rss-warning-on-bangladesh-model-opposition-row-and-protests-in-india-ytvd-3020511-2026-10-19?utm_source=rss",
-      "summary": "RSS Warning on Bangladesh Model, Opposition Row and Protests in India",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: RSS Warning on Bangladesh Model, Opposition Row and Protests in India...",
-      "score": 1,
-      "published": "2026-10-19T04:53:18+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-10-19T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -132,6 +188,20 @@
       "angle": "Fashion Intelligence: An Exclusive Behind-the-Scenes Look at the 2026 Victoria’s Secret Fash...",
       "score": 2,
       "published": "2026-10-19T03:52:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8ed4ef66bb40",
+      "title": "Join The Waitlist | Vogue Business Global Summit: New York",
+      "link": "https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york",
+      "summary": "Join us on 4 November for our annual Global Summit.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Join The Waitlist | Vogue Business Global Summit: New York...",
+      "score": 0,
+      "published": "2026-10-19T03:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -667,6 +737,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f7b29cfcadc3",
+      "title": "18 Best Black Sneakers For Men To Wear In 2026",
+      "link": "https://www.fashionbeans.com/article/black-sneakers/",
+      "summary": "We all know that a pair of crisp, white sneakers are definitely a staple piece for a stylish men’s wardrobe. But what about black sneakers for men? Are they up to par? The answer is yes, and in some aspects, black shoes could even be considered to have more value than their white counterparts. Darker &#8230; Continue r",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 18 Best Black Sneakers For Men To Wear In 2026...",
+      "score": 1,
+      "published": "2026-10-18T13:00:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c1e8361ca667",
       "title": "10 Best Leather Jackets for Men: Timeless Swagger in 2026",
       "link": "https://www.fashionbeans.com/article/best-leather-jackets-for-men/",
@@ -751,20 +835,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4bd91d3ee8ce",
-      "title": "Beauty Editors and Former Bridesmaids Here: These Are the 7 Hairstyles That Complement Any Dress",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-bridesmaid-hairstyles-ideas",
-      "summary": "Painfully chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Beauty Editors and Former Bridesmaids Here — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-10-18T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1064200fd934",
       "title": "SPF Stacking Is the Derm-Approved Dewy-Makeup Hack I'm Taking Into Fall",
       "link": "https://www.whowhatwear.com/beauty/skin/spf-stacking",
@@ -775,6 +845,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: SPF Stacking Is the Derm-Approved Dewy-Makeup Hack I'm Taking Into Fal...",
       "score": 1,
+      "published": "2026-10-18T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4bd91d3ee8ce",
+      "title": "Beauty Editors and Former Bridesmaids Here: These Are the 7 Hairstyles That Complement Any Dress",
+      "link": "https://www.whowhatwear.com/beauty/hair/best-bridesmaid-hairstyles-ideas",
+      "summary": "Painfully chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Beauty Editors and Former Bridesmaids Here — A Complete Style Guide",
+      "score": 3,
       "published": "2026-10-18T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -877,6 +961,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7a2e7fd28277",
+      "title": "6 Best Chino Colors: Must Have Versatile Styles 2026",
+      "link": "https://www.fashionbeans.com/article/chino-colours-every-man-should-own/",
+      "summary": "Chinos. Hardly the life and soul of a man’s wardrobe, but integral nonetheless. But then, isn’t it precisely the former military staple’s inherent boringness that makes them so great anyway? Sure, a pair of slashed-knee skinny jeans may give a little more edge to your image and let everyone know in no uncertain terms t",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
+      "score": 1,
+      "published": "2026-10-18T09:00:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eab78e90c084",
+      "title": "The Most Iconic Pieces Of Menswear Ever Made",
+      "link": "https://www.fashionbeans.com/article/iconic-menswear-pieces/",
+      "summary": "It’s a simple fact that men need to own certain items: a good hammer, a decent record player, a really warm blanket that potential mates will totally dig and, of course, a handful of tried and tested wardrobe classics. Granted, it&#8217;s a term that’s bandied about a lot in menswear, but it takes something truly &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Most Iconic Pieces Of Menswear Ever Made...",
+      "score": 2,
+      "published": "2026-10-18T09:00:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8b1fc056d378",
       "title": "Casual Dress for Men – Outfits And Style Guide 2026",
       "link": "https://www.fashionbeans.com/article/casual-dress-for-men/",
@@ -916,6 +1028,20 @@
       "angle": "Fashion Intelligence: Best Ray-Bans for Men: 8 Sunglasses & Glasses Picks...",
       "score": 1,
       "published": "2026-10-18T07:57:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df6ffbcda5e6",
+      "title": "Rock Clothing: How Rock Stars Changed Fashion Forever",
+      "link": "https://www.fashionbeans.com/article/rock-clothing-guide/",
+      "summary": "It starts, like everything else, with Elvis Presley. Before the boy from Memphis first shimmied his way onstage, fashion and music were only connected in as much as artists had to wear something when they performed. After him, rock stars would be the biggest influence on what young people wore for the next half a &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Rock Clothing: How Rock Stars Changed Fashion Forever...",
+      "score": 2,
+      "published": "2026-10-18T07:00:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -961,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "afb043a3378b",
-      "title": "Beyoncé's Haircare Brand Just Launched in the UK—9 Products Worth Adding to Your Basket",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-cecred-products",
-      "summary": "I've been testing it for months.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-10-18T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c90da66ec744",
       "title": "Zara’s Sister Brand Just Dropped Exceptionally Chic Knitwear—9 Pieces I Predict Will Sell Out First",
       "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/best-massimo-dutti-knitwear-2026",
@@ -989,6 +1101,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "afb043a3378b",
+      "title": "Beyoncé's Haircare Brand Just Launched in the UK—9 Products Worth Adding to Your Basket",
+      "link": "https://www.whowhatwear.com/beauty/hair/best-cecred-products",
+      "summary": "I've been testing it for months.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-10-18T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b3eced04b77",
+      "title": "Square Face Shape: Your Ticket to Chiseled Perfection",
+      "link": "https://www.fashionbeans.com/article/square-face-shapes/",
+      "summary": "Ever caught yourself squinting at the mirror, wondering why that trendy haircut doesn&#8217;t quite hit the mark? Welcome to the square-faced club, gentlemen. Your chiseled jawline isn&#8217;t just for intimidating your sister&#8217;s prom date—it&#8217;s your secret weapon in the style arena. Understanding your face s",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Square Face Shape: Your Ticket to Chiseled Perfection...",
+      "score": 2,
+      "published": "2026-10-18T05:23:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "52748e7c6233",
       "title": "Hailey Bieber Proves Bubblegum Pink Is Her Color in a Custom Chanel Gown",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74169200/hailey-bieber-academy-museum-gala-2026-red-carpet-photos/",
@@ -1000,6 +1140,20 @@
       "angle": "Fashion Intelligence: Hailey Bieber Proves Bubblegum Pink Is Her Color in a Custom Chanel Go...",
       "score": 1,
       "published": "2026-10-18T05:13:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "21e8193308a4",
+      "title": "How to Dress Like Steve McQueen: King of Cool Style Guide",
+      "link": "https://www.fashionbeans.com/article/steve-mcqueen-style/",
+      "summary": "Steve McQueen style was the epitome of effortless cool—a man whose style transcended decades and trends. Born in 1930 and alive until 1980, McQueen had a sartorial legacy that was shaped during the mid-20th century, a time when men&#8217;s fashion was clean, functional, and timeless. Although the 1960s embraced psyched",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-10-18T05:00:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1098,6 +1252,34 @@
       "angle": "Fashion Intelligence: 8 Best Gucci Colognes For Men – Head-Turning Scents for 2026...",
       "score": 4,
       "published": "2026-10-18T01:55:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d07b00065a7e",
+      "title": "Fashion for Tall Men – Style Guide To Looking Good 2026",
+      "link": "https://www.fashionbeans.com/article/tall-mens-clothing-tips/",
+      "summary": "The tall man is lucky in most things. He makes more money than shorter men, he&#8217;s happier, has higher levels of life satisfaction, and he&#8217;s handy whenever something&#8217;s on a high shelf. But it&#8217;s not all gravy. Travel can be torture, back pain is inevitable, and clothing choices shrink for every bit",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-18T01:16:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "06836f395a6a",
+      "title": "19 Best Work Bags for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-work-bags-for-men/",
+      "summary": "The best work bags for men aren’t just for the everyday commuter. Perfectly marrying style with substance, they’re a must-have for guys of all occupations—whether you’re a banker, bookkeeper, or building site manager. Equipped with a suitable bag, you’ll not only be able to carry the right tools for the job but cement ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 19 Best Work Bags for Men In 2026...",
+      "score": 1,
+      "published": "2026-10-18T01:10:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1465,20 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fa9bfb9addc9",
-      "title": "The Model Off-Duty Uniform, Decoded",
-      "link": "https://www.vogue.com/article/model-off-duty-outfits",
-      "summary": "For your next weekend look, take a cue from the model off-duty playbook. Their personal brand of nonchalant cool is easily recreated with these simple basics.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Model Off-Duty Uniform, Decoded...",
-      "score": 2,
-      "published": "2026-10-16T21:12:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dbe451acc605",
       "title": "It's Official: This Legging Trend Makes White Sneakers Look So Much More Up-to-Date",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/side-stripe-leggings-trend-jennifer-lawrence-2026",
@@ -1504,20 +1672,6 @@
       "angle": "Fashion Intelligence: What Did the Victoria’s Secret Fashion Show Look Like When It Started?...",
       "score": 4,
       "published": "2026-10-16T20:57:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5ab8de5f3fd8",
-      "title": "Now Might Be a Good Time for a Talisman",
-      "link": "https://www.vogue.com/article/talisman-amulet-trend",
-      "summary": "From ancient Egypt to the modern age, amulets and talismans have played a leading role in the spiritual landscape. Here’s why protective objects are capturing our imaginations today.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Now Might Be a Good Time for a Talisman...",
-      "score": 0,
-      "published": "2026-10-16T20:34:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1801,48 +1955,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "da94d983dc18",
-      "title": "Your Balloon Pants Are Begging to Be Worn With These 5 Chic Shoe Trends",
-      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-balloon-pants",
-      "summary": "According to the fashion set.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-16T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cfa057db4cc6",
-      "title": "I've Been a Fashion Editor for 10 Years—Here's Everything I Think Is Worth Buying This Fall",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-fall-fashion-items-2026",
-      "summary": "I do a lot of shopping.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I've Been a Fashion Editor for 10 Years—Here's Everything I Think Is W...",
-      "score": 1,
-      "published": "2026-10-16T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "668028f576bc",
-      "title": "6 Under-$500 Outfits That Will Make Everyone Think You Hired a Personal Stylist",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fall-2026-outfits",
-      "summary": "Take the guesswork out of dressing this season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 6 Under-$500 Outfits That Will Make Everyone Think You Hired a Persona...",
-      "score": 3,
-      "published": "2026-10-16T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1bebff978575",
       "title": "10 Best Bootcut Jeans for Men And How To Style Them in 2026",
       "link": "https://www.fashionbeans.com/article/best-bootcut-jeans-for-men/",
@@ -1871,48 +1983,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d45c36e2829f",
-      "title": "How To Build The Ultimate Minimalist Wardrobe For Men 2026",
-      "link": "https://www.fashionbeans.com/article/minimalist-wardrobe-men/",
-      "summary": "All the best things come in capsules. Medicine. Space food. Time. And, naturally, clothes. Not in a download-your-outfit-from-the-internet way, the minimalist wardrobe is far simpler than that. It&#8217;s the answer to every instance when you looked at your wardrobe and wondered, “What shall I wear today?” Ostensibly i",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Build The Ultimate Minimalist Wardrobe For Men 2026...",
-      "score": 2,
-      "published": "2026-10-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c595aa5265f5",
-      "title": "12 Pieces Of Menswear That Defined Style In The 2010s",
-      "link": "https://www.fashionbeans.com/article/menswear-defined-2010s/",
-      "summary": "The last decade was a momentous one for menswear. It was the decade in which men&#8217;s fashion finally caught up with womenswear in both creativity and clout. The work of men&#8217;s designers was analysed in a way once reserved only for the fairer sex&#8217;s creative directors. And the glacial pace of plain old &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 12 Pieces Of Menswear That Defined Style In The 2010s...",
-      "score": 5,
-      "published": "2026-10-16T06:00:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c0548969149",
-      "title": "Harvey Specter: How To Dress Like The Sharpest Man On TV",
-      "link": "https://www.fashionbeans.com/article/harvey-specter-suits-style/",
-      "summary": "Harvey Specter. For those in the know, it’s a name that conjures up a knowing nod of agreement among men and women alike: goddamn, that guy looks good in a suit. If you’ve seen any of the high-stakes legal drama, Suits, (the clue is in the title; and yes, it’s the one that starred the Royal Family’s &#8230; Continue re",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Harvey Specter: How To Dress Like The Sharpest Man On TV...",
-      "score": 1,
-      "published": "2026-10-16T05:04:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "71512eb88e72",
       "title": "Gucci’s Bag Campaign Gets a Fresh Look for Fall",
       "link": "https://www.fashiongonerogue.com/story/gucci-bag-fall-2026-campaign/",
@@ -1924,34 +1994,6 @@
       "angle": "Fashion Intelligence: Gucci’s Bag Campaign Gets a Fresh Look for Fall...",
       "score": 2,
       "published": "2026-10-16T02:35:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd02101742fb",
-      "title": "14 Best Men’s Overcoat Brands: Ultimate Guide (Updated 2026)",
-      "link": "https://www.fashionbeans.com/article/mens-overcoat-guide/",
-      "summary": "When you have a discerning eye for the best overcoat brands, as the saying goes, you can shop anywhere. But knowing what to buy when you get there, that’s a different story altogether For all the smart-casual occasions that might come up during the winter season, it&#8217;s hard to beat a classic men&#8217;s overcoat. ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 14 Best Men’s Overcoat Brands: Ultimate Guide (Updated 2026)...",
-      "score": 3,
-      "published": "2026-10-16T02:00:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4f713d178157",
-      "title": "Business Casual for Men – 14 Dress Code Styles + Guide 2026",
-      "link": "https://www.fashionbeans.com/article/business-casual-guide-men/",
-      "summary": "Business Casual is an album by Canadian electro-funk duo Chromeo. Confusingly, men&#8217;s business casual is also a dress code &#8211; one that is as baffling as its inherently contradictory moniker. Business isn’t something that you want to be casual about. Which oxymoron came up with that not-too-smart idea? “Busine",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Business Casual for Men – 14 Dress Code Styles + Guide 2026...",
-      "score": 2,
-      "published": "2026-10-16T01:30:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2025,20 +2067,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "381019a0c2a9",
-      "title": "9 Shoes that Make You Taller – Added Height for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/shoes-that-make-you-taller/",
-      "summary": "If you’re short, it’s only natural that you might want shoes that make you taller. But you should be inconspicuous about it. You need a shoe that’s subtle and not super obvious so you don’t look like you’re walking on stilts. Fortunately, the chunky–soled thing is very much in for every style of shoes, from &#8230; Con",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Shoes that Make You Taller – Added Height for Men In 2026...",
-      "score": 1,
-      "published": "2026-10-15T11:58:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1602b78a22f6",
       "title": "Green Takes The Lead This Autumn/Winter, Anchored by Black and Bitter Chocolate",
       "link": "https://in.apparelresources.com/fashion-news/trends/green-takes-lead-autumn-winter-anchored-black-bitter-chocolate/",
@@ -2050,90 +2078,6 @@
       "angle": "Fashion Intelligence: Green Takes The Lead This Autumn/Winter, Anchored by Black and Bitter ...",
       "score": 4,
       "published": "2026-10-15T11:14:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "51617f71df86",
-      "title": "Tartan Jackets Find A Place In India’s Autumn/Winter Wardrobe",
-      "link": "https://in.apparelresources.com/fashion-news/trends/tartan-jackets-find-place-indias-autumn-winter-wardrobe/",
-      "summary": "Tartan is one of the most dependable patterns of the cold-weather season, and in India it is moving from shirting into outerwear. The pattern was originally woven only in wool but now comes in every yarn, from cotton and flannel to velvet and synthetics, and it works as a unisex design. That range suits Indian [&#8230;",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Tartan Jackets Find A Place In India’s Autumn/Winter Wardrobe...",
-      "score": 2,
-      "published": "2026-10-15T11:10:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3e31a81ad018",
-      "title": "9 Classic Men’s Hairstyles – Timeless Haircuts in 2026",
-      "link": "https://www.fashionbeans.com/article/classic-mens-hairstyles/",
-      "summary": "Most people say it&#8217;s your footwear that is the first thing people fix their eyes on &#8211; but we&#8217;d argue, given it&#8217;s location on the body, it&#8217;s your hair. And, unlike a subpar pair of brogues or some battered white leather sneakers, you can&#8217;t easily slip out of a questionable hairstyle. ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Classic Men’s Hairstyles – Timeless Haircuts in 2026...",
-      "score": 2,
-      "published": "2026-10-15T09:00:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ebaf4f2cb92",
-      "title": "How A Man Should Dress In His 40s 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-in-your-40s-men/",
-      "summary": "They say that life begins at 40, which frankly is a little bit too Benjamin Button for comfort. It’s also not true, clearly. Even if you can reasonably expect to make it to 80, up from a short and not especially sweet 25 in medieval times, your fifth decade is middle age at best; you’re &#8230; Continue reading How A M",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How A Man Should Dress In His 40s 2026...",
-      "score": 1,
-      "published": "2026-10-15T09:00:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dc7beb8f1e05",
-      "title": "Grunge Fashion For Men: Outfits And Style Guide",
-      "link": "https://www.fashionbeans.com/article/grunge-fashion-guide/",
-      "summary": "In the beginning, it meant nothing. “It could have been sludge, grime, crud, any word like that,” according to Jonathan Poneman, the founder of Seattle-based record label Sub Pop, some time later. But in his description of the scene, sent out to journalists in the late 1980s when its soon-to-be-stars were still dossing",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-10-15T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3fe8cabcd2c1",
-      "title": "20 Best Jean Brands for Men in 2026",
-      "link": "https://www.fashionbeans.com/article/best-jeans-brands/",
-      "summary": "Jeans are often considered a generic product, so ubiquitous in our wardrobes that they’re the single most widely-worn garment on the planet. As such, to invest in a pair from expensive jeans brands can, to some, still seem a little excessive. But for those obsessed with jeans &#8211; and there are some real obsessives ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 20 Best Jean Brands for Men in 2026...",
-      "score": 1,
-      "published": "2026-10-15T07:00:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9cea432fe226",
-      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
-      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
-      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
-      "score": 2,
-      "published": "2026-10-15T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2176,20 +2120,6 @@
       "angle": "Fashion Intelligence: Inūra: A 'Ritual-Focused' Canadian Skin-Care Brand...",
       "score": 1,
       "published": "2026-10-14T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "393878b98348",
-      "title": "64% of Indian Shoppers Willing to Try New Brands: Report",
-      "link": "https://in.apparelresources.com/business-news/retail/64-indian-shoppers-willing-try-new-brands-report/",
-      "summary": "Around 64% of experimental shoppers in India are willing to try new brands even if their products fall short of expectations, while 55% move from discovery to purchase within a couple of days, according to a report by Google, WPP Media and Elevation Capital. The study, conducted with Kantar and based on 1,200 challenge",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 64% of Indian Shoppers Willing to Try New Brands: Report...",
-      "score": 1,
-      "published": "2026-10-14T13:54:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2867,52 @@
   ],
   "trends": [
     {
-      "term": "రజినీకాంత్",
+      "term": "हताहत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sensex index",
+      "term": "m k stalin",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കേരള കോണ്ഗ്രസ്",
+      "term": "joyalukkas gold rate october 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ben simmons",
+      "term": "stock market crash",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ayush badoni",
+      "term": "याचिका",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anthropic",
+      "term": "ഡല്ഹി പോലീസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "భర్త",
+      "term": "death threat",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi index",
+      "term": "rolling loud india 2026 lineup",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಡಿ ಕೆ ಶಿವಕುಮಾರ್",
+      "term": "நீதிபதி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भगवंत मान",
+      "term": "eas sarma idbi disinvestment letter",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
