@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:20:59.045792+00:00",
+  "generated_at": "2026-10-20T07:04:22.357764+00:00",
   "owned_count": 10,
   "competitor_count": 14,
   "industry_count": 185,
@@ -8,6 +8,300 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b18f6ae7d6d7",
+      "title": "Yes, I'm Certain—This COS Jumper Is All You Need to Look Polished and Put-Together This Winter",
+      "link": "https://www.whowhatwear.com/fashion/affordable/cos-rounded-wool-crew-neck-jumper",
+      "summary": "Everyone will think it's designer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Yes, I'm Certain—This COS Jumper Is All You Need to Look Polished and ...",
+      "score": 1,
+      "published": "2026-10-20T05:50:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f2bffccb1e79",
+      "title": "RSS Vijayadashami Address Targets Regime Change Plots, Drug Menace And OTT Content",
+      "link": "https://www.indiatoday.in/india/video/rss-vijayadashami-address-targets-regime-change-plots-drug-menace-and-ott-content-ytvd-3021172-2026-10-20?utm_source=rss",
+      "summary": "RSS Vijayadashami Address Targets Regime Change Plots, Drug Menace And OTT Content",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: RSS Vijayadashami Address Targets Regime Change Plots, Drug Menace And...",
+      "score": 1,
+      "published": "2026-10-20T05:06:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fd43e5899258",
+      "title": "What Will It Take to Fortify Fashion’s Supply Chain?",
+      "link": "https://www.vogue.com/article/what-will-it-take-to-fortify-fashions-supply-chains",
+      "summary": "Brands and suppliers alike are battling with climate change and geopolitical crises. At the Textile Exchange conference, conversations about regenerative agriculture and textile-to-textile recycling quickly turned to supply chain resilience.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Will It Take to Fortify Fashion’s Supply Chain?...",
+      "score": 2,
+      "published": "2026-10-20T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7893cce93eb0",
+      "title": "Rewriting the Everyday: Key Takeaways From Shanghai Fashion Week",
+      "link": "https://www.vogue.com/article/rewriting-the-everyday-key-takeaways-from-shanghai-fashion-week",
+      "summary": "At Shanghai Fashion Week SS27, independent labels looked beyond runway visibility to build relationships with consumers.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Rewriting the Everyday: Key Takeaways From Shanghai Fashion Week...",
+      "score": 3,
+      "published": "2026-10-20T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eabc668e82b6",
+      "title": "The Unlikely Longevity of Longchamp",
+      "link": "https://www.vogue.com/article/the-unlikely-longevity-of-longchamp",
+      "summary": "For CEO Jean Cassegrain, trying too hard with the kids doesn’t land. Instead, he’s letting accessible luxury, a touch of humor, and clear value-for-money make the family brand a growing success with a whole new generation.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Unlikely Longevity of Longchamp...",
+      "score": 2,
+      "published": "2026-10-20T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c840712cd50f",
+      "title": "Why Church’s CEO Denni Manzatto Is Banking on Made in the UK",
+      "link": "https://www.vogue.com/article/why-churchs-ceo-denni-manzatto-is-banking-on-made-in-the-uk",
+      "summary": "The Italian leader of England’s most famous shoemaker reveals Prada Group’s plans to bring new investment and training to Northampton.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Church’s CEO Denni Manzatto Is Banking on Made in the UK...",
+      "score": 0,
+      "published": "2026-10-20T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d82ef4475992",
+      "title": "‘Making Marie Antoinette’ Is a Magical Tribute to a Genre-Defining Period Drama",
+      "link": "https://www.vogue.com/article/making-marie-antoinette-review",
+      "summary": "This behind-the-scenes peek at Sofia Coppola’s seminal cult classic, as captured by her documentarian mother Eleanor Coppola, is a multi-layered love letter to female filmmaking.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ‘Making Marie Antoinette’ Is a Magical Tribute to a Genre-Defining Per...",
+      "score": 0,
+      "published": "2026-10-20T00:30:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "81dbb2c30353",
+      "title": "Sweet Dreams: 8 Expert-Approved Healthy Bedtime Snacks",
+      "link": "https://www.vogue.com/article/expert-approved-bedtime-snacks",
+      "summary": "In defence of a quick bedtime snack",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sweet Dreams: 8 Expert-Approved Healthy Bedtime Snacks...",
+      "score": 0,
+      "published": "2026-10-19T23:26:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e55aecccf34",
+      "title": "Inside the Grand Opening Night of ‘Other Desert Cities’ on Broadway",
+      "link": "https://www.vogue.com/slideshow/opening-night-other-desert-cities",
+      "summary": "On Sunday night, the star-studded revival of Jon Robin Baitz’s “Other Desert Cities” drew an equally dazzling crowd for the play’s opening last night at the Hudson Theatre.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Inside the Grand Opening Night of ‘Other Desert Cities’ on Broadway...",
+      "score": 0,
+      "published": "2026-10-19T22:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d50e593395c",
+      "title": "It's Here: The Winter Accessories Trend It Girls Will Use to Elevate Their Outfits",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/velvet-scarf-trend-jennifer-lawrence",
+      "summary": "Jennifer Lawrence is laying the blueprint.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-19T21:38:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66f7b5b0cc6e",
+      "title": "My 54-Year-Old Mom and I Struggle With Dry Skin—7 Derm-Approved Moisturizers We Both Swear By",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-moisturizer-for-dry-skin",
+      "summary": "The results are undeniable.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My 54-Year-Old Mom and I Struggle With Dry Skin—7 Derm-Approved Moistu...",
+      "score": 1,
+      "published": "2026-10-19T21:37:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e01085fd640e",
+      "title": "Watch Alex Consani Get Angel-Ready for the 2026 Victoria’s Secret Fashion Show",
+      "link": "https://www.vogue.com/slideshow/alex-consani-gets-ready-2026-victorias-secret-fashion-show",
+      "summary": "The top model brought Vogue backstage during glam, rehearsals, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Watch Alex Consani Get Angel-Ready for the 2026 Victoria’s Secret Fash...",
+      "score": 3,
+      "published": "2026-10-19T21:18:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "799f65d1daa2",
+      "title": "Millennial Side Parts Are Angel-Approved on the Victoria’s Secret Runway",
+      "link": "https://www.harpersbazaar.com/beauty/hair/a74180926/side-part-blowout-victorias-secret/",
+      "summary": "In the center-part versus side-part debate, the Angels have landed on a verdict",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Millennial Side Parts Are Angel-Approved on the Victoria’s Secret Runw...",
+      "score": 1,
+      "published": "2026-10-19T20:50:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a0ac1a8999a9",
+      "title": "An Inside Look at Miley Cyrus’s Noir Hollywood Bowl Looks",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a74183400/miley-cyrus-hollywood-bowl-outfits-saint-laurent-stylist-bradley-kenneth-interview/",
+      "summary": "The pop star’s longtime stylist, Bradley Kenneth, details the curation of her all-Saint Laurent show wardrobe",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: An Inside Look at Miley Cyrus’s Noir Hollywood Bowl Looks...",
+      "score": 1,
+      "published": "2026-10-19T20:46:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5716d02185dd",
+      "title": "Do Female Writers Have to Turn Themselves Into a Brand While Men Get a Pass?",
+      "link": "https://www.vogue.com/article/female-writers-brand",
+      "summary": "I’ve never heard a male writer agonize over the tension between writing and being a public figure. It’s the women who are starting Substacks and attending to social media.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Do Female Writers Have to Turn Themselves Into a Brand While Men Get a...",
+      "score": 1,
+      "published": "2026-10-19T20:44:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6d38cde083b",
+      "title": "I’m So Glad That Olivia Rodrigo and Chappell Roan Have Each Other",
+      "link": "https://www.vogue.com/article/i-want-what-they-have-friendship-edition-olivia-rodrigo-and-chappell-roan",
+      "summary": "Every straight woman needs a lesbian bestie to be so appalled at how straight men are moving in 2026 that she actually raises said straight friend’s standards.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I’m So Glad That Olivia Rodrigo and Chappell Roan Have Each Other...",
+      "score": 0,
+      "published": "2026-10-19T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1507d96b20fd",
+      "title": "Inside Ejae and Samuel Kim’s Garden Wedding at Her Grandfather’s Former Home in Seoul",
+      "link": "https://www.vogue.com/slideshow/ejae-and-samuel-kim-wedding",
+      "summary": "The ‘KPop Demon Hunters’ star Ejae married on October 17 in Korea, with a wedding wardrobe that included custom Danielle Frankel and Zac Posen looks and a traditional Paebaek ceremony.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Inside Ejae and Samuel Kim’s Garden Wedding at Her Grandfather’s Former Home in Seoul — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-10-19T19:59:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7fb938274b78",
+      "title": "Y2K Makeup Is So Back, According to Megan Thee Stallion",
+      "link": "https://www.harpersbazaar.com/beauty/makeup/a74178974/megan-thee-stallion-victorias-secret-fashion-show-makeup-2026/",
+      "summary": "The star’s makeup artist shares exactly how to get her angelic beauty look from the 2026 Victoria’s Secret Fashion Show",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Y2K Makeup Is So Back, According to Megan Thee Stallion...",
+      "score": 3,
+      "published": "2026-10-19T18:36:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3400aa7a4ad7",
+      "title": "A Fifth Fashion Week Capital? Shanghai Makes the Case for Itself",
+      "link": "https://www.vogue.com/article/a-fifth-fashion-week-capital-shanghai-makes-the-case-for-itself",
+      "summary": "At Shanghai Fashion Week, the scene feels young, interconnected, and unusually close to the people who actually buy the clothes.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: A Fifth Fashion Week Capital? Shanghai Makes the Case for Itself...",
+      "score": 1,
+      "published": "2026-10-19T18:32:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "31e0b3cb175d",
+      "title": "6 Fall Boot Trends to Try This Season, From Buckled Styles to Slim Knee-Highs",
+      "link": "https://www.vogue.com/article/fall-2026-boot-trends",
+      "summary": "The silver lining of summer ending? All the fall 2026 boot trends. From stompy buckled styles to slim knee-highs, these are the shapes to know—and try.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-19T18:05:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f4a5107f799b",
+      "title": "Irina Shayk Changes Into Sheer Red Pants for the Victoria’s Secret Fashion Show After-Party",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a74181270/irina-shayk-victorias-secret-fashion-show-2026-afterparty-outfit-photos-sheer-pants/",
+      "summary": "Say hello to naked pants",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Irina Shayk Changes Into Sheer Red Pants for the Victoria’s Secret Fas...",
+      "score": 2,
+      "published": "2026-10-19T17:49:33+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "cf1d4a307ed3",
       "title": "Iris Law, Whitney Peak, and Este Haim Partied With Who What Wear for Our 20th Anniversary—See All the Pics",
@@ -34,20 +328,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-10-19T17:00:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "00b9d62e9645",
-      "title": "Saurav Das, Ashutosh Ranka showed no respect for law: Court on extending custody",
-      "link": "https://www.indiatoday.in/india/story/saurav-das-ashutosh-ranka-breached-bonds-showed-no-respect-for-law-court-in-order-extending-custody-3021017-2026-10-19?utm_source=rss",
-      "summary": "Saurav Das, Ashutosh Ranka showed no respect for law: Court on extending custody",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Saurav Das, Ashutosh Ranka showed no respect for law: Court on extendi...",
-      "score": 1,
-      "published": "2026-10-19T16:03:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -135,6 +415,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "af4a8e11eb96",
+      "title": "How To Wear Pinstripe Trousers The Modern Way",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-pinstripe-trousers/",
+      "summary": "If, like everyone else, you have long been confused and frustrated by the smart-casual dress code, base a pair of pinstripe trousers at the core of your wardrobe and you’ll make the job a whole lot easier. The fine-line print hasn’t always been seen as a key piece in a man’s everyday arsenal. For a &#8230; Continue rea",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Pinstripe Trousers The Modern Way...",
+      "score": 2,
+      "published": "2026-10-19T15:01:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "62d0933c4ff4",
       "title": "All the Fabulous Looks From the 2026 Victoria’s Secret Fashion Show After-Party",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74178781/all-the-after-party-looks-victorias-secret-fashion-show-2026/",
@@ -192,14 +486,14 @@
     },
     {
       "id": "d6ced0926b7a",
-      "title": "“It’s A Mindset”: Rosie Huntington-Whiteley On Returning To Victoria’s Secret 16 Years Later",
+      "title": "“It’s a Mindset”: Rosie Huntington-Whiteley on Returning to Victoria’s Secret 16 Years Later",
       "link": "https://www.vogue.com/article/rosie-huntington-whiteley-victorias-secret-return-10-19-2026",
       "summary": "“It’s really about consistency because I’m a gym girl,” says Rosie Huntington-Whiteley of preparing for her Victoria’s Secret runway comeback 16 years after she hung up her wings.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: “It’s A Mindset”: Rosie Huntington-Whiteley On Returning To Victoria’s...",
+      "angle": "Fashion Intelligence: “It’s a Mindset”: Rosie Huntington-Whiteley on Returning to Victoria’s...",
       "score": 1,
       "published": "2026-10-19T14:29:41+00:00",
       "discovered_via": "feed"
@@ -331,6 +625,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0708affb9255",
+      "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
+      "summary": "It’s not hard to remember a time when wide-leg trousers were considered one of those beyond-the-pale pieces that fashion designers periodically tried to foist on sceptical menfolk, perhaps out of boredom, or “for banter”. Sure, wide-leg trousers made an impact on the runway. Okay, so they created a striking silhouette.",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
+      "score": 4,
+      "published": "2026-10-19T11:03:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6946a99458b7",
       "title": "At the Airport, for Date Night and to Work—This Is the Flat Shoe Trend Celebrities Are Wearing Everywhere",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/slipper-shoe-trend-kendall-jenner-emily-ratajkowski-jennifer-lawrence-2026",
@@ -387,6 +695,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "457863f0f5cf",
+      "title": "The Best Baseball Caps You Can Buy In 2026",
+      "link": "https://www.fashionbeans.com/article/best-baseball-caps/",
+      "summary": "Baseball caps have endured more highs and lows than a Prince song. Just think, the preferred headgear for teenage terrors of the nineties is also the celebrity disguise of choice, not to mention a campaign-trail fixture for a certain Mr President with a certain dubious slogan. Yet credit where credit’s due. Despite the",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Baseball Caps You Can Buy In 2026...",
+      "score": 1,
+      "published": "2026-10-19T10:00:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "702a140bd361",
       "title": "Here’s How 14 Vogue Editors Dress for Black-Tie Weddings",
       "link": "https://www.vogue.com/article/vogue-editor-black-tie-wedding-guest-dresses",
@@ -412,6 +734,34 @@
       "angle": "Fashion Intelligence: 13 J.Crew New Arrivals Fashion Editors Are Shopping First...",
       "score": 1,
       "published": "2026-10-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "68b228db544c",
+      "title": "The Best Boots For Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-boots/",
+      "summary": "Men have been wearing boots for at least 3,000 years, so we&#8217;re going to hold our hands up here. What follows does not include calfskin ankle boots designed by Inca warriors or mankind&#8217;s original winter men&#8217;s boots, which were made by Inuit tribes and decorated with seal intestines. Sorry about that. W",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Boots For Men in 2026...",
+      "score": 1,
+      "published": "2026-10-19T09:49:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ec351137bfdc",
+      "title": "8 Best YSL Colognes For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-ysl-cologne/",
+      "summary": "Following in the footsteps of Chanel, Yves Saint Laurent launched his first fragrance for women, Y, in 1964 by creating, in his own words, &#8220;a lush, heavy, and languid perfume.&#8221; Just seven years later, the designer shocked the world of haute couture, posing naked to launch Pour Homme, the first and best YSL ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 8 Best YSL Colognes For Men In 2026...",
+      "score": 3,
+      "published": "2026-10-19T09:38:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -457,6 +807,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0eca213d5b3e",
+      "title": "15 Best Wool Sweaters For Men To Wear In 2026",
+      "link": "https://www.fashionbeans.com/article/best-wool-sweaters-for-men/",
+      "summary": "Never has an article titled The Best Wool Sweaters for Men are Dead been written. That’s because it has never happened and will never happen. That’s a bold claim. If the wool sweater has proved so popular throughout the years, then which is the best men’s wool sweater available right now? That’s the premise of &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Best Wool Sweaters For Men To Wear In 2026...",
+      "score": 1,
+      "published": "2026-10-19T06:17:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b9b88b45de0a",
       "title": "Fashion People Everywhere Are Suddenly Swapping Oversized Jackets for This Dressier Alternative, and I'm Sold",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fitted-jackets-outfits-2026",
@@ -496,6 +860,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-10-19T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1d6e7e871763",
+      "title": "The Menswear Reset: 2026’s Most Wearable Style Trends Right Now",
+      "link": "https://www.fashionbeans.com/article/menswear-reset-2026-style-trends/",
+      "summary": "Forget chasing the algorithm. The best-dressed men of 2026 are building wardrobes with intention and these are the eight trends worth investing in right now. Something shifted on the menswear calendar last season, and it wasn’t loud or theatrical. The industry didn’t announce it, but the change was undeniable once you ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 6,
+      "published": "2026-10-19T05:26:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,34 +1311,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c553c56e66de",
-      "title": "Stars Kept the Night Going at Giorgio Armani’s Academy Gala After-Party at Chateau Marmont",
-      "link": "https://www.vogue.com/slideshow/armani-academy-museum-gala-after-party-chateau-marmont",
-      "summary": "Right at the 10:30 p.m. kickoff, a flurry of camera flashes turned the sidewalk into a makeshift red carpet as paparazzi lined the street, eager to capture the industry’s brightest stars making their entrances.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Stars Kept the Night Going at Giorgio Armani’s Academy Gala After-Part...",
-      "score": 0,
-      "published": "2026-10-18T20:06:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "af6c3c6a2282",
-      "title": "Kendall Jenner Finally Got Her Polka-Dot Moment at the 2026 Academy Museum Gala",
-      "link": "https://www.vogue.com/slideshow/kendall-jenner-valentino-polkadots-2026-academy-museum-gala-10-18-2026",
-      "summary": "“I’ve always wanted a red carpet polka-dot moment,\" says Jenner of her custom Valentino gown. “It might be one of my favorites I’ve worn on a carpet.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Kendall Jenner Finally Got Her Polka-Dot Moment at the 2026 Academy Mu...",
-      "score": 1,
-      "published": "2026-10-18T20:04:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f45e3301ee76",
       "title": "The Best Victoria’s Secret Angel Hair and Makeup Through the Years",
       "link": "https://www.harpersbazaar.com/beauty/makeup/g13140549/victorias-secret-show-hair-makeup-through-the-years/",
@@ -1003,48 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc64528d2a10",
-      "title": "Da’Vine Joy Randolph Wanted to “Give Drama—and Body” at the 2026 Academy Museum Gala",
-      "link": "https://www.vogue.com/slideshow/davine-joy-randolph-2026-academy-gala-louis-vuitton-10-18-2026",
-      "summary": "The Oscar-winning actor chose custom Louis Vuitton for the red carpet. “It gives drama, elegance—and body,” she says. See how the star got ready for the big night.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Da’Vine Joy Randolph Wanted to “Give Drama—and Body” at the 2026 Acade...",
-      "score": 0,
-      "published": "2026-10-18T16:25:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8240a71bb260",
-      "title": "The Story Behind Emma Chamberlain’s Classic Hollywood Look for the 2026 Academy Museum Gala",
-      "link": "https://www.vogue.com/slideshow/emma-chamberlain-academy-museum-gala-2026-10-17",
-      "summary": "“The after-party is at the Chateau. It just feels like, ‘This is LA, baby! This is Hollywood.’ And we’re going to do it exactly like that,” Chamberlain told Vogue ahead of Saturday’s gala event.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: The Story Behind Emma Chamberlain’s Classic Hollywood Look for the 202...",
-      "score": 0,
-      "published": "2026-10-18T16:06:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "779aa8511c72",
-      "title": "40 Cult Horror Movies to Watch This Halloween",
-      "link": "https://www.vogue.com/slideshow/47-cult-horror-movies-to-watch-this-halloween",
-      "summary": "From “Longlegts” to “Carrie,” “Heathers,” and “Rosemary’s Baby.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 40 Cult Horror Movies to Watch This Halloween...",
-      "score": 0,
-      "published": "2026-10-18T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ac04f99a0f4a",
       "title": "Kendall Jenner and Jacob Elordi Gave Us Some Classic Black-and-White Couple Dressing at the Academy Museum Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74170446/kendall-jenner-jacob-elordi-couple-goals-2026-academy-museum-gala-photos/",
@@ -1070,20 +1378,6 @@
       "angle": "Fashion Intelligence: Taylor Swift Is All About Romantic Blues at the 2026 Academy Museum Ga...",
       "score": 0,
       "published": "2026-10-18T14:21:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3651092620e8",
-      "title": "The Next Generation of Collagen Is Here—Does It Work?",
-      "link": "https://www.vogue.com/article/collagen-tripeptides",
-      "summary": "Collagen supplements can help with healthier joints and smoother skin—but does the latest version live up to the hype?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Next Generation of Collagen Is Here—Does It Work?...",
-      "score": 0,
-      "published": "2026-10-18T14:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1227,20 +1521,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6f983bb23951",
-      "title": "Exclusive: Inside the Academy Museum Gala, Where Hollywood Let Its Hair Down",
-      "link": "https://www.vogue.com/slideshow/academy-museum-gala-2026",
-      "summary": "Hollywood turned out in full force on Saturday for its favorite Q4 night out: the sixth annual Academy Museum of Motion Pictures gala, an evening that doubled as a celebration of the museum’s anniversary and raised more than $14 million for its exhibitions, education initiatives, and public programs.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Exclusive: Inside the Academy Museum Gala, Where Hollywood Let Its Hai...",
-      "score": 0,
-      "published": "2026-10-18T10:47:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b779a7936c79",
       "title": "Hey Dude Shoes Review: Our Top 3 Picks Explained + Video",
       "link": "https://www.fashionbeans.com/article/hey-dude-shoes-review/",
@@ -1266,34 +1546,6 @@
       "angle": "Fashion Intelligence: 7 Jacket, Shirt, and Tie Combos for Outerwear in 2026...",
       "score": 2,
       "published": "2026-10-18T10:01:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4d12c926f3ca",
-      "title": "Tommy’s Take on Why More Is More When it Comes to Accessorizing",
-      "link": "https://www.vogue.com/article/tommy-tons-take",
-      "summary": "In monthly installments surrounding a fashion theme, street style photographer Tommy Ton gives us an unfiltered close-up of the outfits that caught his eye and why.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Tommy’s Take on Why More Is More When it Comes to Accessorizing...",
-      "score": 3,
-      "published": "2026-10-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a426124ed20",
-      "title": "The 12 Best Airbnbs in Scotland for a Folkloric Fall Getaway",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-scotland",
-      "summary": "Stay in one of the best Airbnbs in Scotland, from cozy Edinburgh flats to cliffside homes.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 12 Best Airbnbs in Scotland for a Folkloric Fall Getaway...",
-      "score": 0,
-      "published": "2026-10-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1549,48 +1801,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "57499a2bdb9f",
-      "title": "The Best Dressed Stars From the 2026 Academy Museum Gala",
-      "link": "https://www.vogue.com/slideshow/best-dressed-stars-academy-museum-gala-10-15-2026",
-      "summary": "The best dressed stars of the night were those who leaned into classic Hollywood glamour—with a twist.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Dressed Stars From the 2026 Academy Museum Gala...",
-      "score": 1,
-      "published": "2026-10-18T03:40:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "23c37add1d15",
-      "title": "Exclusive: The Story Behind Hailey Bieber’s Jet-Black Mani at the 2026 Academy Museum Gala",
-      "link": "https://www.vogue.com/article/hailey-bieber-academy-gala-nail-look-exclusive-bts",
-      "summary": "Hailey Bieber attended the sixth Academy Museum Gala with a new nail look: the jet-black mani. Here, Vogue speaks to Bieber’s go-to nail artist Zola Ganzorigt for the exclusive BTS details.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Exclusive: The Story Behind Hailey Bieber’s Jet-Black Mani at the 2026...",
-      "score": 0,
-      "published": "2026-10-18T02:59:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "568668edac27",
-      "title": "Taylor Swift Is Belle of the Ball in Dior—and a Curly Lob—at the 2026 Academy Museum Gala",
-      "link": "https://www.vogue.com/article/taylor-swift-2026-academy-museum-gala-dior-gown-10-17-2026",
-      "summary": "The singer, who is the special performer at this year’s Academy Gala, chose a custom Dior gown by Jonathan Anderson for the red carpet.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Taylor Swift Is Belle of the Ball in Dior—and a Curly Lob—at the 2026 ...",
-      "score": 1,
-      "published": "2026-10-18T02:34:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c47e495f52a4",
       "title": "Fashion People Have Spoken: Every Great Autumn Outfit Features At Least One of These 7 Cult Buys",
       "link": "https://www.whowhatwear.com/fashion/fall/autumn-2026-cult-buys",
@@ -1633,20 +1843,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "06836f395a6a",
-      "title": "19 Best Work Bags for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-work-bags-for-men/",
-      "summary": "The best work bags for men aren’t just for the everyday commuter. Perfectly marrying style with substance, they’re a must-have for guys of all occupations—whether you’re a banker, bookkeeper, or building site manager. Equipped with a suitable bag, you’ll not only be able to carry the right tools for the job but cement ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 19 Best Work Bags for Men In 2026...",
-      "score": 1,
-      "published": "2026-10-18T01:10:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7b50cd0151de",
       "title": "These Are the Biggest Runway Trends From Paris Fashion Week, Period",
       "link": "https://www.whowhatwear.com/fashion/runway/paris-fashion-week-trends-spring-summer-2027",
@@ -1675,20 +1871,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ea7374314aab",
-      "title": "Hailey Bieber Masters High-Low Dressing With an Iridescent Chanel Jacket and Faded Blue Jeans",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74167394/hailey-bieber-high-low-party-dressing-iridescent-chanel-jacket-faded-blue-jeans-photos/",
-      "summary": "Disco-ball core",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hailey Bieber Masters High-Low Dressing With an Iridescent Chanel Jack...",
-      "score": 1,
-      "published": "2026-10-17T18:38:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "86607f3dc001",
       "title": "I'm Moving From L.A. to New York—These Are the Staples I'll Wear in Both",
       "link": "https://www.whowhatwear.com/fashion/shopping/sami-miro-interview-bicoastal-wardrobe-staples",
@@ -1703,34 +1885,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5ccc2d3ae79b",
-      "title": "Kim Kardashian Puts a Witchy Twist on Her Classic Skintight Style With This Sculptural Sportmax Dress",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74167099/kim-kardashian-witchy-plunging-skintight-black-dress-sportmax-spring-2027-jimmy-kimmel-live-photos/",
-      "summary": "It is spooky season, after all",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Kim Kardashian Puts a Witchy Twist on Her Classic Skintight Style With...",
-      "score": 3,
-      "published": "2026-10-17T16:52:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9e15d8e5adc5",
-      "title": "Jennifer Lawrence Pairs an Old Favorite Coat With Furry Valentino Flip Flops for Troye Sivan’s Intimate NYC Show",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74166910/jennifer-lawrence-attends-troye-sivan-nyc-concert-the-row-robe-coat-valentino-fur-flip-flops-photos/",
-      "summary": "She’s the best",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Jennifer Lawrence Pairs an Old Favorite Coat With Furry Valentino Flip...",
-      "score": 1,
-      "published": "2026-10-17T15:59:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a69b2697e7ce",
       "title": "Not Sneakers, Not Flats—the Shoe Trend Zoë Kravitz Uses to Take Slip Skirts Into Fall and Winter",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/slip-skirt-brown-heels-outfit-zoe-kravitz-2026",
@@ -1742,34 +1896,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-10-17T14:50:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "21525277e418",
-      "title": "Kate Middleton Is All About the Fair Isle Sweater With This Cozy Pecan-Brown Knitwear",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74166701/kate-middleton-fair-isle-sweater-trend-me-em-royal-fall-look-photos/",
-      "summary": "The autumnal staple got the royal stamp of approval",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kate Middleton Is All About the Fair Isle Sweater With This Cozy Pecan...",
-      "score": 1,
-      "published": "2026-10-17T14:27:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1fc484578035",
-      "title": "In Hyères, Yui Chen Takes Top Prize",
-      "link": "https://www.vogue.com/article/in-hyeres-yui-chen-takes-top-prize",
-      "summary": "At 41, France’s oldest fashion festival, Hyères, gets back on track with a string of firsts.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: In Hyères, Yui Chen Takes Top Prize...",
-      "score": 1,
-      "published": "2026-10-17T13:07:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1840,48 +1966,6 @@
       "angle": "Fashion Intelligence: From Mod Crops to Blunt Bobs—13 Hairstyles Experts Recommend for Squar...",
       "score": 1,
       "published": "2026-10-17T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9fae2ffc77c7",
-      "title": "Wear Your Leggings With These Precise Jackets and Shoes to Make Them Look Chic This Autumn",
-      "link": "https://www.whowhatwear.com/fashion/fall/autumn-2026-leggings-outfits",
-      "summary": "Foolproof formulas.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Wear Your Leggings With These Precise Jackets and Shoes to Make Them L...",
-      "score": 1,
-      "published": "2026-10-17T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dae86b935915",
-      "title": "We Try Before You Buy: How Fashion Insiders Are Wearing Purple Now",
-      "link": "https://www.whowhatwear.com/fashion/how-to-wear-purple-2026",
-      "summary": "This is how it's done.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-17T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a2860863de66",
-      "title": "Faux Fur Is Back, But French Women Never Really Put It Away",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/faux-fur-shopping-french-women-eugenie-trochu",
-      "summary": "Discover how French women wear faux fur coats for winter.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Faux Fur Is Back, But French Women Never Really Put It Away...",
-      "score": 1,
-      "published": "2026-10-17T00:06:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1983,20 +2067,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7175ad77d0c1",
-      "title": "The Best Men’s Wavy Hairstyles For 2026",
-      "link": "https://www.fashionbeans.com/article/best-wavy-hairstyles-for-men/",
-      "summary": "Why do we always want what we don’t have? Those with limp, straight hair would often kill for a bit of volume that doesn’t require styling tools or bucket-loads of product. And those with tight spiral curls eye the straight-haired with envy. But between the two, there’s natural waves. And while those with wavy hair &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Men’s Wavy Hairstyles For 2026...",
-      "score": 1,
-      "published": "2026-10-16T12:57:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6596087db249",
       "title": "Inside Fine Jewelry’s Growing Battle Against Dupes",
       "link": "https://fashionista.com/industry/fine-jewelry-dupes-legal-protections",
@@ -2022,76 +2092,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-10-16T11:52:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bca3713c9068",
-      "title": "12 Cool Hairstyles For Men That Have Stood The Test Of Time",
-      "link": "https://www.fashionbeans.com/article/cool-mens-haircuts/",
-      "summary": "A man’s hair has always been an important identifier of success; historically, it would denote class, wealth and masculinity. Now? Well, not much has changed. And despite some tweaks to length and texture, nor have the styles. What looked good on Roman emperors still has the potential to flatter a modern mug. So take a",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 12 Cool Hairstyles For Men That Have Stood The Test Of Time...",
-      "score": 1,
-      "published": "2026-10-16T09:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2eb21a2fa055",
-      "title": "8 Best Nautica Colognes & Perfumes for Men To Try in 2026",
-      "link": "https://www.fashionbeans.com/article/best-nautica-colognes/",
-      "summary": "Are you having trouble finding the right cologne? Even if you already have a favorite, consider Nautica. I certainly have. Nautica is an ocean-themed lifestyle brand. Their cologne line focuses on a range of smells suitable for active, outdoor lifestyles, especially near the ocean, which, as we know, is a powerful draw",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Nautica Colognes & Perfumes for Men To Try in 2026...",
-      "score": 2,
-      "published": "2026-10-16T09:03:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "987969ed2c51",
-      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
-      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
-      "score": 4,
-      "published": "2026-10-16T09:00:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1bebff978575",
-      "title": "10 Best Bootcut Jeans for Men And How To Style Them in 2026",
-      "link": "https://www.fashionbeans.com/article/best-bootcut-jeans-for-men/",
-      "summary": "I was going to start off by announcing that bootcut jeans are back. However, I’m not sure they ever really went away. Sure, they’ve been temporarily kicked off the podium by skinnier, flashier counterparts, but the flared-out favorite has always found its way back to the closets of sharply-dressed guys. A reliable ward",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 10 Best Bootcut Jeans for Men And How To Style Them in 2026...",
-      "score": 2,
-      "published": "2026-10-16T08:21:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d51850d357a7",
-      "title": "6 Best Ferragamo Cologne For The Modern Man in 2026",
-      "link": "https://www.fashionbeans.com/article/best-ferragamo-colognes/",
-      "summary": "Are you suited, booted, and searching for a scent that smells as good as you look? The best Ferragamo colognes are created for confident, go-getting guys. Those who are comfortable in their skin and looking for an unforgettable fragrance. Italian designer Ferragamo is a master of the olfactory art of creating timeless ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 6 Best Ferragamo Cologne For The Modern Man in 2026...",
-      "score": 1,
-      "published": "2026-10-16T07:49:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "ವಿಮಾನ",
+      "term": "സല്മാന് ഖാന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಜಿ.ಪರಮೇಶ್ವರ",
+      "term": "వంగవీటి రాధాకృష్ణ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नमित मल्होत्रा",
+      "term": "వారణాసి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राजमार्ग",
+      "term": "ಕಿಮ್ ಜಾಂಗ್-ಉನ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "രമേശ് ചെന്നിത്തല",
+      "term": "rashmika mandanna",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "trabzonspor vs beşiktaş",
+      "term": "યુસુફ પઠાણ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "arishfa khan",
+      "term": "न्यायालय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jailer 2 box office",
+      "term": "অগ্নিকাণ্ড",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "to lam",
+      "term": "anita kanwal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "monza vs cagliari",
+      "term": "मुद्रा",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
