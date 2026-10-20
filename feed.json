@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-10-20T07:04:22.357764+00:00",
+  "generated_at": "2026-10-20T09:50:09.311678+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 185,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "fbaeac120d20",
+      "title": "How Fashion Creatives Can Avoid AI Brain Rot",
+      "link": "https://www.vogue.com/article/how-fashion-creatives-can-avoid-ai-brain-rot",
+      "summary": "Emerging research suggests AI could be dulling our creative instincts. As fashion’s demand for newness drives its adoption, experts reveal how to keep them sharp.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How Fashion Creatives Can Avoid AI Brain Rot...",
+      "score": 1,
+      "published": "2026-10-20T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f2e8e90eba2",
+      "title": "I Wear Zara When I Want to Look Trend-Forward—40 New Items That Are Chic and Relevant for Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-fall-winter-2026-collection",
+      "summary": "From opulent outerwear to pops of purple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-20T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cde3c5c7c7d0",
+      "title": "If You're a Fashion Person in Paris, You're Wearing Your Jeans With One of These 6 Fall Shoe Trends",
+      "link": "https://www.whowhatwear.com/fashion/shoes/fall-2026-shoe-trends-paris",
+      "summary": "Guaranteed to elevate your outfit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-10-20T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3518e3e1450",
+      "title": "Peep-Toe Pumps Are Trending Again—Here's How They're Different Than 2009",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/anya-taylor-joy-peep-toe-pumps",
+      "summary": "So pretty.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-20T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-10-20T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e60ad46481b",
+      "title": "Hold the Black Ankle Boots—Florence Pugh's Airport Shoes Are Way More Trendy",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/florence-pugh-airport-jeans-and-boots",
+      "summary": "A big step up.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-10-20T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9b06456c84fa",
+      "title": "The 5 Specific Items Everyone With Elegant Taste Will Buy This October",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-elegant-fashion-items-october-2026",
+      "summary": "If you want to dress like a chic sophisticate, try these recs.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 5 Specific Items Everyone With Elegant Taste Will Buy This October...",
+      "score": 1,
+      "published": "2026-10-20T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b18f6ae7d6d7",
       "title": "Yes, I'm Certain—This COS Jumper Is All You Need to Look Polished and Put-Together This Winter",
@@ -20,20 +118,6 @@
       "angle": "Fashion Intelligence: Yes, I'm Certain—This COS Jumper Is All You Need to Look Polished and ...",
       "score": 1,
       "published": "2026-10-20T05:50:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f2bffccb1e79",
-      "title": "RSS Vijayadashami Address Targets Regime Change Plots, Drug Menace And OTT Content",
-      "link": "https://www.indiatoday.in/india/video/rss-vijayadashami-address-targets-regime-change-plots-drug-menace-and-ott-content-ytvd-3021172-2026-10-20?utm_source=rss",
-      "summary": "RSS Vijayadashami Address Targets Regime Change Plots, Drug Menace And OTT Content",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: RSS Vijayadashami Address Targets Regime Change Plots, Drug Menace And...",
-      "score": 1,
-      "published": "2026-10-20T05:06:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -807,6 +891,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "227926995c9e",
+      "title": "20 Best Hats for Men – Must Have’s For Any Taste in 2026",
+      "link": "https://www.fashionbeans.com/article/best-hats-for-men/",
+      "summary": "Every man has that one hat he reaches for no matter the occasion. If a certain hat came to your mind, we bet you’re guilty of practically having it glued to your head. When’s the last time you washed it, by the way? If you came across this article about the best hats for men &#8230; Continue reading 20 Best Hats for Me",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: 20 Best Hats for Men – Must Have’s For Any Taste in 2026...",
+      "score": 1,
+      "published": "2026-10-19T08:00:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "0eca213d5b3e",
       "title": "15 Best Wool Sweaters For Men To Wear In 2026",
       "link": "https://www.fashionbeans.com/article/best-wool-sweaters-for-men/",
@@ -1269,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1431d6ccee51",
-      "title": "Retail Executives Speak Out After Store Looting in Paris",
-      "link": "https://www.vogue.com/article/retail-executives-speak-out-after-store-looting-in-paris",
-      "summary": "Protesters in Paris targeted luxury stores, including Burberry, Celine, and Lacoste, on Saturday.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Retail Executives Speak Out After Store Looting in Paris...",
-      "score": 1,
-      "published": "2026-10-18T21:49:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "de0425b4d366",
       "title": "Hollywood Mourns Presley Gerber After His Sudden Passing",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73821979/celebrities-react-presley-gerber-death-tributes/",
@@ -1294,20 +1378,6 @@
       "angle": "Fashion Intelligence: Hollywood Mourns Presley Gerber After His Sudden Passing...",
       "score": 0,
       "published": "2026-10-18T21:47:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "199acdd1665c",
-      "title": "The Most Evocative Period Dramas of the 21st Century",
-      "link": "https://www.vogue.com/article/best-period-dramas-to-rewatch-now",
-      "summary": "The best period dramas whisk viewers to times and places that feel a world away from modern life. Here are our favorites, from “Gosford Park” to “The Crown.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Most Evocative Period Dramas of the 21st Century...",
-      "score": 0,
-      "published": "2026-10-18T21:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1493,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1064200fd934",
-      "title": "SPF Stacking Is the Derm-Approved Dewy-Makeup Hack I'm Taking Into Fall",
-      "link": "https://www.whowhatwear.com/beauty/skin/spf-stacking",
-      "summary": "Trust me. Your skin will look like silk.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: SPF Stacking Is the Derm-Approved Dewy-Makeup Hack I'm Taking Into Fal...",
-      "score": 1,
-      "published": "2026-10-18T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4bd91d3ee8ce",
       "title": "Beauty Editors and Former Bridesmaids Here: These Are the 7 Hairstyles That Complement Any Dress",
       "link": "https://www.whowhatwear.com/beauty/hair/best-bridesmaid-hairstyles-ideas",
@@ -1517,6 +1573,20 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: Beauty Editors and Former Bridesmaids Here — A Complete Style Guide",
       "score": 3,
+      "published": "2026-10-18T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1064200fd934",
+      "title": "SPF Stacking Is the Derm-Approved Dewy-Makeup Hack I'm Taking Into Fall",
+      "link": "https://www.whowhatwear.com/beauty/skin/spf-stacking",
+      "summary": "Trust me. Your skin will look like silk.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: SPF Stacking Is the Derm-Approved Dewy-Makeup Hack I'm Taking Into Fal...",
+      "score": 1,
       "published": "2026-10-18T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1815,34 +1885,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9bf8a5ba11a2",
-      "title": "8 Best Gucci Colognes For Men – Head-Turning Scents for 2026",
-      "link": "https://www.fashionbeans.com/article/best-gucci-colognes-for-men/",
-      "summary": "Sometimes when you’re looking for cologne, you want the best of the best. Gucci fits that bill perfectly. From a brand that&#8217;s always been associated with luxury and cutting-edge fashion, their cologne is no different. They’ve been producing awesome scents since the 70s, and it shows in how perfectly versatile the",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 8 Best Gucci Colognes For Men – Head-Turning Scents for 2026...",
-      "score": 4,
-      "published": "2026-10-18T01:55:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d07b00065a7e",
-      "title": "Fashion for Tall Men – Style Guide To Looking Good 2026",
-      "link": "https://www.fashionbeans.com/article/tall-mens-clothing-tips/",
-      "summary": "The tall man is lucky in most things. He makes more money than shorter men, he&#8217;s happier, has higher levels of life satisfaction, and he&#8217;s handy whenever something&#8217;s on a high shelf. But it&#8217;s not all gravy. Travel can be torture, back pain is inevitable, and clothing choices shrink for every bit",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-18T01:16:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7b50cd0151de",
       "title": "These Are the Biggest Runway Trends From Paris Fashion Week, Period",
       "link": "https://www.whowhatwear.com/fashion/runway/paris-fashion-week-trends-spring-summer-2027",
@@ -1910,62 +1952,6 @@
       "angle": "Fashion Intelligence: ICYMI: This Distributor Wants to Curate K-Beauty for U.S. Stores, What...",
       "score": 2,
       "published": "2026-10-17T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85e08813ce67",
-      "title": "The Row, Saint Laurent, or Something Else? I'm Predicting Zoë Kravitz's Bridal Style",
-      "link": "https://www.whowhatwear.com/living/wedding/zoe-kravitz-wedding-dress-predictions-2026",
-      "summary": "Shop the pared-back and elegant bridal looks, from simple cream gowns to satin pantsuits.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Row, Saint Laurent, or Something Else? I'm Predicting Zoë Kravitz's Bridal Style — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-10-17T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1789a38bedfa",
-      "title": "I Just Found Every Fall 2026 Trend at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-fall-2026-trends",
-      "summary": "Boatneck T-shirts, capris, pointed-toe kitten-heel pumps, royal purple, taffeta pants, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "568c9d880ee2",
-      "title": "Looking Like an Autumn It Girl Is Easy—Just Wear This Jacket Trend",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/leopard-print-jacket-trend",
-      "summary": "Upgrade everything you own with one new item.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-17T06:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "226290e12e9e",
-      "title": "From Mod Crops to Blunt Bobs—13 Hairstyles Experts Recommend for Square Face Shapes",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-hairstyles-for-square-faces",
-      "summary": "Flattering cuts for square face shapes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Mod Crops to Blunt Bobs—13 Hairstyles Experts Recommend for Squar...",
-      "score": 1,
-      "published": "2026-10-17T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2923,52 @@
   ],
   "trends": [
     {
-      "term": "സല്മാന് ഖാന്",
+      "term": "స్టాక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వంగవీటి రాధాకృష్ణ",
+      "term": "తుఫాను",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వారణాసి",
+      "term": "जैकब डफी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಕಿಮ್ ಜಾಂಗ್-ಉನ್",
+      "term": "ক্যারেট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rashmika mandanna",
+      "term": "নবমী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "યુસુફ પઠાણ",
+      "term": "ಯಶ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "न्यायालय",
+      "term": "ஈரான்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অগ্নিকাণ্ড",
+      "term": "ilhan omar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anita kanwal",
+      "term": "नीरज कुमार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मुद्रा",
+      "term": "supreme court",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
