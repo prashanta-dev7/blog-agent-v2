@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T06:58:22.880785+00:00",
+  "generated_at": "2026-10-21T09:50:29.783339+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 182,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Francisco Cancino Mexico Spring 2027...",
       "score": 0,
-      "published": "2026-10-21T06:53:20+00:00",
+      "published": "2026-10-21T09:50:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Mikio Sakabe Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-10-21T06:53:20+00:00",
+      "published": "2026-10-21T09:50:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a59440873d3a",
+      "title": "Introducing Ultimax™ 81: Engineered for Speed and Stitch Quality",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/introducing-ultimax-81-engineered-speed-stitch-quality/",
+      "summary": "For over a century, Coats has served apparel manufacturers across the globe. The company built its position by solving real manufacturing challenges: delivering consistent quality at the speeds global brands demand, maintaining stitch precision in technical fabrics, and scaling production without compromising standards",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Introducing Ultimax™ 81: Engineered for Speed and Stitch Quality...",
+      "score": 1,
+      "published": "2026-10-21T08:07:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82d15c8ef7d8",
+      "title": "This Lake Como Hotel Is Less Than a Year Old and Already a Fashion Girl Favorite",
+      "link": "https://www.whowhatwear.com/living/travel/lake-como-edition-hotel-review",
+      "summary": "Fans include Milan’s top designers and Martha Stewart herself.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: This Lake Como Hotel Is Less Than a Year Old and Already a Fashion Gir...",
+      "score": 2,
+      "published": "2026-10-21T08:05:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1675,20 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "aa82630c292d",
-      "title": "Trust Me: We’ll All Be Wearing Our French Tips in This Shade for Autumn",
-      "link": "https://www.whowhatwear.com/beauty/nails/black-french-manicure-ideas",
-      "summary": "Nail noir.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-19T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1d6e7e871763",
       "title": "The Menswear Reset: 2026’s Most Wearable Style Trends Right Now",
       "link": "https://www.fashionbeans.com/article/menswear-reset-2026-style-trends/",
@@ -1770,34 +1784,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-10-19T00:51:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "06336ab83072",
-      "title": "Kylie Jenner Just Walked Her First Victoria’s Secret Fashion Show Wearing a $50 Million Fantasy Bra",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-victorias-secret-fashion-show-2026",
-      "summary": "An iconic bra for an iconic girl",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-19T00:51:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c83ea75898f",
-      "title": "Bella! Adriana! Vittoria! The Most Iconic Victoria's Secret Fashion Show Looks from 2026",
-      "link": "https://www.whowhatwear.com/fashion/runway/victorias-secret-fashion-show-2026",
-      "summary": "Plus, the best wings that walked the runway",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Bella! Adriana! Vittoria! The Most Iconic Victoria's Secret Fashion Sh...",
-      "score": 3,
-      "published": "2026-10-19T00:13:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2092,20 +2078,6 @@
       "angle": "Fashion Intelligence: Inside Fine Jewelry’s Growing Battle Against Dupes...",
       "score": 1,
       "published": "2026-10-16T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ef471132b51f",
-      "title": "How the Narrow Trouser Is Returning This A/W Season",
-      "link": "https://in.apparelresources.com/fashion-news/trends/narrow-trouser-returning-w-season/",
-      "summary": "After years of puddling hems and barrel legs, the slim-fit trouser is moving from runway outlier to a real wardrobe question for Indian brands and buyers. For several seasons the silhouette conversation has been about volume: wider legs, deeper pleats, longer hems. This A/W season the pendulum is swinging the other way",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-16T11:52:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2895,52 +2867,52 @@
   ],
   "trends": [
     {
-      "term": "கூவம்",
+      "term": "ஜீவா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बिहार",
+      "term": "october 23 2026 ott releases",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "noel tata chandrasekaran power struggle",
+      "term": "ओप्पो रेनो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cbse 2027 candidate list submission",
+      "term": "2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రోహిత్ శర్మ",
+      "term": "मार्को रुबियो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ਪੁਲਿਸ",
+      "term": "l&t andhra pradesh office towers",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "வேலை",
+      "term": "fentanyl",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ssa",
+      "term": "दिल्ली उच्च न्यायालय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rodri barcelona",
+      "term": "ഡല്ഹി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "state bank of india",
+      "term": "കോക്രോച്ച് ജനതാ പാര്ട്ടി",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
