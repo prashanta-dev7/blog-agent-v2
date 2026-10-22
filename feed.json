@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T07:01:31.297320+00:00",
+  "generated_at": "2026-10-22T09:51:31.378680+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 181,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Romance Was Born Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-22T07:00:59+00:00",
+      "published": "2026-10-22T09:46:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Alfredo Martínez Mexico Spring 2027...",
       "score": 0,
-      "published": "2026-10-22T07:00:59+00:00",
+      "published": "2026-10-22T09:46:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bcd423757365",
+      "title": "Should You Hire a Head of Nature?",
+      "link": "https://www.vogue.com/article/should-you-hire-a-head-of-nature",
+      "summary": "Nature is rising up the sustainability agenda, and becoming integral to long-term business resilience. More fashion companies are bringing in experts to lead the way.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Should You Hire a Head of Nature?...",
+      "score": 1,
+      "published": "2026-10-22T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "31b001c1ddfd",
+      "title": "Hermès Sales Rise 4.3% in Q3",
+      "link": "https://www.vogue.com/article/hermes-sales-rise-43-in-q3",
+      "summary": "This marks a deceleration compared with the last quarter, when sales were up more than 6%.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hermès Sales Rise 4.3% in Q3...",
+      "score": 0,
+      "published": "2026-10-22T07:26:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -48,20 +76,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-10-22T06:10:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3cd671f6c518",
-      "title": "Delhi Art Show Faces Political Bias Claim as Over 70 Protest Photos and Tricolour Pulled Down",
-      "link": "https://www.indiatoday.in/india/video/delhi-art-show-faces-political-bias-claim-as-over-70-protest-photos-and-tricolour-pulled-down-ytvd-3022506-2026-10-22?utm_source=rss",
-      "summary": "Delhi Art Show Faces Political Bias Claim as Over 70 Protest Photos and Tricolour Pulled Down",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Delhi Art Show Faces Political Bias Claim as Over 70 Protest Photos an...",
-      "score": 1,
-      "published": "2026-10-22T06:08:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -317,20 +331,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a85a2a4f790e",
-      "title": "This Parisian Brand Has the Perfect Fall Staples—15 New Arrivals Worth Seeing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/sezane-new-arrivals",
-      "summary": "Shop the latest from Sézane.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Parisian Brand Has the Perfect Fall Staples—15 New Arrivals Worth...",
-      "score": 1,
-      "published": "2026-10-21T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ae1d7edadf3b",
       "title": "Tate McRae's Gilded Cursive Manicure Is the Chicest Nail Look I've Seen All Season",
       "link": "https://www.whowhatwear.com/tate-mcrae-victorias-secret-manicure",
@@ -340,6 +340,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-21T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a85a2a4f790e",
+      "title": "This Parisian Brand Has the Perfect Fall Staples—15 New Arrivals Worth Seeing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/sezane-new-arrivals",
+      "summary": "Shop the latest from Sézane.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Parisian Brand Has the Perfect Fall Staples—15 New Arrivals Worth...",
       "score": 1,
       "published": "2026-10-21T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1073,6 +1087,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "cf18ec39434b",
+      "title": "14 Best Men’s Tech And Gadgets Christmas Gift Guide For 2026",
+      "link": "https://www.fashionbeans.com/article/mens-tech-gadgets-gift-guide/",
+      "summary": "We like a scarf and socks as much as the next man, but they&#8217;re not the same as opening your own drone aircraft on a Christmas morning, are they? Things you can plug in always make for more exciting gifts, so we&#8217;ve trawled through this year&#8217;s finest gadgetry to hand-pick the gizmos we&#8217;d most like",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: 14 Best Men’s Tech And Gadgets Christmas Gift Guide For 2026...",
+      "score": 1,
+      "published": "2026-10-21T07:00:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "26e75d04ac4e",
       "title": "Beyond Fusionwear: Mapping the Indo-Western Opportunity",
       "link": "https://in.apparelresources.com/business-news/retail/beyond-fusionwear-mapping-the-indo-western-opportunity/",
@@ -1143,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7def08973e73",
-      "title": "How Luxury Is Showing Up for Diwali Across the World",
-      "link": "https://www.vogue.com/article/how-luxury-is-showing-up-for-diwali-across-the-world",
-      "summary": "Diwali can be a meaningful moment on luxury’s global calendar, but there’s room for more investment in regions beyond India.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-10-21T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b94fcaf5c48b",
       "title": "Zara Takes Halloween to Venice With Gothic Fashion",
       "link": "https://www.fashiongonerogue.com/story/zara-halloween-2026/",
@@ -1182,20 +1196,6 @@
       "angle": "Fashion Intelligence: So *This* Is What L.A.'s Best Dressed People Wear to a Fashion Party...",
       "score": 3,
       "published": "2026-10-21T00:21:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c1ced604a338",
-      "title": "Zane Li of Lii Is the Winner of the 2026 CFDA/Vogue Fashion Fund",
-      "link": "https://www.vogue.com/article/zane-li-is-the-winner-of-the-2026-cfda-vogue-fashion-fund-10-20-2026",
-      "summary": "As this year's CVFF winner, Zane Li will take home a $300,000 cash prize and industry mentorship dedicated to the further growth of his young brand.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zane Li of Lii Is the Winner of the 2026 CFDA/Vogue Fashion Fund...",
-      "score": 2,
-      "published": "2026-10-21T00:13:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1647,20 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eedb7d9a59d2",
-      "title": "Don't Sleep on the CVS Beauty Section—17 Items I Swear By, From French Skincare to Designer Perfume",
-      "link": "https://www.whowhatwear.com/beauty/best-beauty-products-cvs",
-      "summary": "Trust me. It's a gold mine.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Don't Sleep on the CVS Beauty Section—17 Items I Swear By, From French...",
-      "score": 3,
-      "published": "2026-10-20T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3e28b99ea990",
       "title": "TL;DR: This Single Complexion Perfector Made Me Forget About Foundation for an Entire Month",
       "link": "https://www.whowhatwear.com/beauty/makeup/marc-jacobs-beauty-concealer-review",
@@ -1671,6 +1657,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: TL;DR: This Single Complexion Perfector Made Me Forget About Foundatio...",
       "score": 1,
+      "published": "2026-10-20T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eedb7d9a59d2",
+      "title": "Don't Sleep on the CVS Beauty Section—17 Items I Swear By, From French Skincare to Designer Perfume",
+      "link": "https://www.whowhatwear.com/beauty/best-beauty-products-cvs",
+      "summary": "Trust me. It's a gold mine.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Don't Sleep on the CVS Beauty Section—17 Items I Swear By, From French...",
+      "score": 3,
       "published": "2026-10-20T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1686,34 +1686,6 @@
       "angle": "Fashion Intelligence: Why Riviera Style Should Be Your Go-To Summer Look...",
       "score": 1,
       "published": "2026-10-20T10:21:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "54d78dd849ad",
-      "title": "How to Wear a Fair Isle Sweater Like a Fashion Person This Winter",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/how-to-style-a-fair-isle-sweater",
-      "summary": "The knit is bound to be a cold-weather favorite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Wear a Fair Isle Sweater Like a Fashion Person This Winter...",
-      "score": 2,
-      "published": "2026-10-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5789d1780a2",
-      "title": "I'm a 54-Year-Old CEO of a Resale Brand—These Are the 7 Outfits I Wore This Week",
-      "link": "https://www.whowhatwear.com/fashion/refined-luxury-resale-outfit-ideas",
-      "summary": "The Refind has access to the world's most coveted closets.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-20T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1742,20 +1714,6 @@
       "angle": "Fashion Intelligence: 70 Unique Christmas Gifts For Men in 2026...",
       "score": 1,
       "published": "2026-10-20T09:30:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f2e8e90eba2",
-      "title": "I Wear Zara When I Want to Look Trend-Forward—40 New Items That Are Chic and Relevant for Fall 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-fall-winter-2026-collection",
-      "summary": "From opulent outerwear to pops of purple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-20T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1826,20 +1784,6 @@
       "angle": "Fashion Intelligence: 14 Best Sling Bags For Men: Top Carriers in 2026)...",
       "score": 3,
       "published": "2026-10-19T13:29:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8609941b600e",
-      "title": "The Pant Project Raises Rs 109 Crore in Series B Funding",
-      "link": "https://in.apparelresources.com/business-news/retail/pant-project-raises-rs-109-crore-series-b-funding/",
-      "summary": "The Pant Project, a menswear brand specialising in bottomwear, has raised Rs 109 crore in a Series B funding round led by Mirae Asset Venture Investments (India). Existing investor Sorin Investments also participated in the round, along with family offices and angel investors, including Anisha Saraf, B&#38;K Securities",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Pant Project Raises Rs 109 Crore in Series B Funding...",
-      "score": 3,
-      "published": "2026-10-19T13:10:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2064,20 +2008,6 @@
       "angle": "Fashion Intelligence: The Most Iconic Pieces Of Menswear Ever Made...",
       "score": 2,
       "published": "2026-10-18T09:00:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8b1fc056d378",
-      "title": "Casual Dress for Men – Outfits And Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/casual-dress-for-men/",
-      "summary": "It’s not difficult to look good in a suit. If you’ve got the money and an experienced tailor who knows what he or she is doing, then you can’t really fail. Simply hand over your cash, listen to their sartorial know-how, and allow them to stitch you something that’s made to flatter the contours of &#8230; Continue readi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-18T09:00:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2881,54 +2811,54 @@
   ],
   "trends": [
     {
-      "term": "new zealand national cricket team vs india national cricket team match scorecard",
+      "term": "alexandra eala",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സ്വര്ണം",
+      "term": "परीक्षा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sony sports network",
+      "term": "റഷ്യ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bbc news हिन्दी",
+      "term": "dunith wellalage",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கிருஷ்ணராஜ்",
+      "term": "பள்ளிக்கரணை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ind vs nz t20 live streaming",
+      "term": "sabeer bhatia",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ssa",
+      "term": "ಚಿನ್ನ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फ़्रांस",
+      "term": "பணம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wpl auction 2027",
+      "term": "പാമ്പാടി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "star sports",
+      "term": "उत्तराखंड",
       "summary": "",
-      "aza_category": "Celebrity Style"
+      "aza_category": "Fashion & Style"
     }
   ],
   "tracked_keywords": [
