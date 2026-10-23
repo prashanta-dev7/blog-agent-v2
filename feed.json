@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T06:53:55.023382+00:00",
+  "generated_at": "2026-10-23T09:46:01.146054+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 180,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rag & Bone Pre-Fall 2027 Menswear...",
       "score": 2,
-      "published": "2026-10-23T06:51:09+00:00",
+      "published": "2026-10-23T09:41:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Tao Tokyo Spring 2027...",
       "score": 0,
-      "published": "2026-10-23T06:51:09+00:00",
+      "published": "2026-10-23T09:41:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: J. Mendel Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-23T06:51:09+00:00",
+      "published": "2026-10-23T09:41:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6413e74e03c3",
+      "title": "Beauty Brands Are Chasing Purity in a Polluted World",
+      "link": "https://www.vogue.com/article/beauty-brands-are-chasing-purity-in-a-polluted-world",
+      "summary": "As pollution anxiety grows across the globe, many brands are betting big on purifying products and devices. But does doomscrolling equate to real product demand?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Brands Are Chasing Purity in a Polluted World...",
+      "score": 2,
+      "published": "2026-10-23T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-23T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7d4fdf7806f1",
+      "title": "United Colors of Benetton Adds Five Stores in Three States in a Same Day",
+      "link": "https://in.apparelresources.com/business-news/retail/united-colors-benetton-adds-five-stores-three-states-day/",
+      "summary": "Italian global fashion brand United Colors of Benetton (UCB), owned by Benetton Group, has opened five stores in a single day across Rajasthan, Bihar and Chhattisgarh, expanding its retail presence in India. The new outlets include two stores at Pacific Mall in Jaipur, catering separately to adults and children, along ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: United Colors of Benetton Adds Five Stores in Three States in a Same D...",
+      "score": 2,
+      "published": "2026-10-23T09:25:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "318b15ce2f79",
+      "title": "40 Items to Buy From Shopbop If You Want to Dress Like an It Girl This Winter",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-winter-fashion-2026",
+      "summary": "Opulent accessories, faux-fur jackets, satin shoes, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 40 Items to Buy From Shopbop If You Want to Dress Like an It Girl This...",
+      "score": 1,
+      "published": "2026-10-23T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2fc1c662a5f9",
+      "title": "Gen Z Has Spoken: These Are the Winter Trends Worth Knowing About",
+      "link": "https://www.whowhatwear.com/fashion/winter/gen-z-fashion-trends-winter",
+      "summary": "Cool kid approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-23T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "061099a810f5",
+      "title": "The Chicest Women I Know Aren't Wearing Their Sweaters With Jeans",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-sweater-outfits-2026",
+      "summary": "They're opting for these pieces instead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-10-23T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57edf3eff2ea",
+      "title": "Pants? No—This Specific Skirt Style Is Officially the Stylish Default",
+      "link": "https://www.whowhatwear.com/fashion/skirts/best-pencil-skirts",
+      "summary": "At least among fashion people.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Pants? No—This Specific Skirt Style Is Officially the Stylish Default...",
+      "score": 2,
+      "published": "2026-10-23T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -62,48 +160,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
       "published": "2026-10-23T06:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c02ab5c6b6ce",
-      "title": "Empty walls, lone Tiranga photo: What's left at Raihan Vadra's show at Bikaner House",
-      "link": "https://www.indiatoday.in/india/story/raihan-vadra-exhibition-removed-protest-photographs-delhi-protests-bikaner-house-3023298-2026-10-23?utm_source=rss",
-      "summary": "Empty walls, lone Tiranga photo: What's left at Raihan Vadra's show at Bikaner House",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Empty walls, lone Tiranga photo: What's left at Raihan Vadra's show at...",
-      "score": 1,
-      "published": "2026-10-23T06:39:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "33b9a90e867a",
-      "title": "Congress Launching Failed Product Rahul Gandhi, Nehru-Gandhi Rule, BJP Attacks",
-      "link": "https://www.indiatoday.in/india/video/congress-launching-failed-product-rahul-gandhi-nehru-gandhi-rule-bjp-attacks-ytvd-3023310-2026-10-23?utm_source=rss",
-      "summary": "Congress Launching Failed Product Rahul Gandhi, Nehru-Gandhi Rule, BJP Attacks",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-23T06:32:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e27260b6fc54",
-      "title": "BJP Slams Rahul Gandhi Abroad, Congress Protests & Rehan Vadra Art Show Row",
-      "link": "https://www.indiatoday.in/india/video/bjp-slams-rahul-gandhi-abroad-congress-protests-rehan-vadra-art-show-row-ytvd-3023297-2026-10-23?utm_source=rss",
-      "summary": "BJP Slams Rahul Gandhi Abroad, Congress Protests & Rehan Vadra Art Show Row",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: BJP Slams Rahul Gandhi Abroad, Congress Protests & Rehan Vadra Art Sho...",
-      "score": 1,
-      "published": "2026-10-23T06:19:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -230,6 +286,34 @@
       "angle": "Fashion Intelligence: More Planned Riots Put Off Art, Fashion and Sport Events in Paris...",
       "score": 3,
       "published": "2026-10-23T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c2a8bfb1cc6e",
+      "title": "The SS27 Fashion Month Lookback",
+      "link": "https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback",
+      "summary": "Watch Vogue Business editors unpack the biggest runway moments and brand wins from the Spring/Summer 2027 show season.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The SS27 Fashion Month Lookback...",
+      "score": 5,
+      "published": "2026-10-23T03:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "478a49778679",
+      "title": "The Editors’ Table: New York",
+      "link": "https://www.vogue.com/article/the-editors-table-new-york-sept-2026",
+      "summary": "Join Vogue Business editors on 17 November for an exclusive evening designed to connect and celebrate our community of founders and innovators.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Editors’ Table: New York...",
+      "score": 0,
+      "published": "2026-10-23T03:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -653,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b2fd11641ec3",
-      "title": "From Paris to London: The Fall Outfit Formulas European Fashion People Are Wearing Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/european-outfit-formulas-fall-2026",
-      "summary": "Shop the wardrobe staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-22T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "204d370c1b36",
       "title": "The Most Iconic Designer Bags Are Gaining Resale Value—These Are the Winners in 2026",
       "link": "https://www.whowhatwear.com/fashion/luxury/most-popular-designer-bags-2026",
@@ -677,6 +747,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: The Most Iconic Designer Bags Are Gaining Resale Value—These Are the W...",
       "score": 2,
+      "published": "2026-10-22T15:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2fd11641ec3",
+      "title": "From Paris to London: The Fall Outfit Formulas European Fashion People Are Wearing Right Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/european-outfit-formulas-fall-2026",
+      "summary": "Shop the wardrobe staples.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-10-22T15:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -961,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b1f372fe87fa",
-      "title": "The Art of Layering: 6 New Ways to Style Your Knitwear",
-      "link": "https://www.vogue.com/article/how-to-style-knitwear",
-      "summary": "Discover six new ways to style your knitwear this fall, from fresh takes on familiar classics to pairings that make you think twice.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Art of Layering: 6 New Ways to Style Your Knitwear...",
-      "score": 2,
-      "published": "2026-10-22T11:53:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "295a9926fae1",
       "title": "Maike Inga Lounges in Style for Vanity Fair Italy",
       "link": "https://www.fashiongonerogue.com/editorial/maike-inga-vanity-fair-italy/",
@@ -986,20 +1056,6 @@
       "angle": "Fashion Intelligence: Maike Inga Lounges in Style for Vanity Fair Italy...",
       "score": 1,
       "published": "2026-10-22T11:23:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b3dbf739619d",
-      "title": "Zegna Q3 Revenues Boosted By Americas and China Growth",
-      "link": "https://www.vogue.com/article/zegna-q3-revenues-boosted-by-americas-and-china-growth",
-      "summary": "The menswear brand bucked industry trends, with strong sales in America and China.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Zegna Q3 Revenues Boosted By Americas and China Growth...",
-      "score": 4,
-      "published": "2026-10-22T11:09:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,34 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8fdb872fe6a2",
-      "title": "The 10 Best Airbnbs in Venice for Canalside Charm",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-venice",
-      "summary": "Old-world charm and stately architecture rule at our favorite Airbnbs in Venice—these 10 rental properties are at the top of our bookmark list.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 10 Best Airbnbs in Venice for Canalside Charm...",
-      "score": 0,
-      "published": "2026-10-22T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdc4611c90a3",
-      "title": "Zara’s New Arrivals Have Fall and Winter Dressing Covered",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "From Leather Jackets to Party Dresses, Zara’s New Arrivals Have It All",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Zara’s New Arrivals Have Fall and Winter Dressing Covered...",
-      "score": 1,
-      "published": "2026-10-22T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "23ffa770e1d1",
       "title": "The Spring 2027 Color Report: The 6 Exact Shades That Will Define Next Season",
       "link": "https://www.whowhatwear.com/fashion/runway/spring-summer-color-trends-2027",
@@ -1084,6 +1112,34 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "074a15a94e6c",
+      "title": "What To Wear: Best Men’s Christmas Party Outfits for 2026",
+      "link": "https://www.fashionbeans.com/article/what-to-wear-christmas-party/",
+      "summary": "FYI Following our recent review, our advice remains as timeless as ever. The midnight blue velvet blazer still leads the pack for formal wear, blending sophistication with festive style. We&#8217;ve also updated our accessory suggestions, recommending bold checks in red or green for scarves and pocket squares to enhanc",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: What To Wear: Best Men’s Christmas Party Outfits for 2026...",
+      "score": 5,
+      "published": "2026-10-22T09:00:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9a8f87d4b902",
+      "title": "Best Christmas Fragrances for Men: A Gift Guide for 2026",
+      "link": "https://www.fashionbeans.com/article/christmas-mens-fragrances-guide/",
+      "summary": "FYI In this latest revision, we’ve refined our recommendations by adding a few new fragrances to the lineup to help you find the perfect scent for any occasion. We&#8217;ve introduced Tom Ford Tuscan Leather for its luxurious and bold profile, ideal for making a lasting impression. Dolce &#38; Gabbana The One EDP also ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Best Christmas Fragrances for Men: A Gift Guide for 2026...",
+      "score": 1,
+      "published": "2026-10-22T08:00:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1213,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ae1d7edadf3b",
-      "title": "Tate McRae's Gilded Cursive Manicure Is the Chicest Nail Look I've Seen All Season",
-      "link": "https://www.whowhatwear.com/tate-mcrae-victorias-secret-manicure",
-      "summary": "Blink, and you might miss it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-21T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a85a2a4f790e",
       "title": "This Parisian Brand Has the Perfect Fall Staples—15 New Arrivals Worth Seeing",
       "link": "https://www.whowhatwear.com/fashion/shopping/sezane-new-arrivals",
@@ -1236,6 +1278,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: This Parisian Brand Has the Perfect Fall Staples—15 New Arrivals Worth...",
+      "score": 1,
+      "published": "2026-10-21T20:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ae1d7edadf3b",
+      "title": "Tate McRae's Gilded Cursive Manicure Is the Chicest Nail Look I've Seen All Season",
+      "link": "https://www.whowhatwear.com/tate-mcrae-victorias-secret-manicure",
+      "summary": "Blink, and you might miss it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-21T20:00:00+00:00",
       "discovered_via": "feed"
@@ -1339,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9804dc091670",
-      "title": "Introducing the Makeup Winners of the Who What Wear UK Next in Beauty Awards 2026",
-      "link": "https://www.whowhatwear.com/beauty/makeup/next-in-beauty-2026-makeup-judges-testing",
-      "summary": "The best makeup products in the world.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Introducing the Makeup Winners of the Who What Wear UK Next in Beauty ...",
-      "score": 2,
-      "published": "2026-10-21T18:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c181f77d2bf0",
       "title": "The Winners of the Who What Wear UK Next in Beauty Awards 2026 Have Been Crowned",
       "link": "https://www.whowhatwear.com/beauty/next-in-beauty-awards-2026",
@@ -1367,6 +1409,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9804dc091670",
+      "title": "Introducing the Makeup Winners of the Who What Wear UK Next in Beauty Awards 2026",
+      "link": "https://www.whowhatwear.com/beauty/makeup/next-in-beauty-2026-makeup-judges-testing",
+      "summary": "The best makeup products in the world.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Introducing the Makeup Winners of the Who What Wear UK Next in Beauty ...",
+      "score": 2,
+      "published": "2026-10-21T18:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "94cc71cc9153",
       "title": "Our Expert Panel Has Tested Hundreds of Entries—These Are Officially the 9 Best Beauty Products Money Can Buy",
       "link": "https://www.whowhatwear.com/beauty/skin/next-in-beauty-best-in-class-2026",
@@ -1376,20 +1432,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Our Expert Panel Has Tested Hundreds of Entries—These Are Officially t...",
-      "score": 1,
-      "published": "2026-10-21T18:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "38eb2cf51a31",
-      "title": "The 14 Nail and Bodycare Products Our Expert Beauty Judges Can't Be Without",
-      "link": "https://www.whowhatwear.com/beauty/nails/best-nails-and-body-products-2026",
-      "summary": "Award-winners from top to toe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 14 Nail and Bodycare Products Our Expert Beauty Judges Can't Be Wi...",
       "score": 1,
       "published": "2026-10-21T18:40:00+00:00",
       "discovered_via": "feed"
@@ -1476,20 +1518,6 @@
       "angle": "Fashion Intelligence: Why Fall Is the Best Time to Go to Greece...",
       "score": 1,
       "published": "2026-10-21T15:49:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3878afbcb41f",
-      "title": "If You Own These Staples, You'll Never Have a \"Nothing to Wear\" Day Again",
-      "link": "https://www.whowhatwear.com/fashion/shopping/wardrobe-staples-fall-2026",
-      "summary": "Shop the best capsule-wardrobe pieces.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You Own These Staples, You'll Never Have a \"Nothing to Wear\" Day Ag...",
-      "score": 1,
-      "published": "2026-10-21T15:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1602,34 +1630,6 @@
       "angle": "Fashion Intelligence: Agilitas Sports Appoints Sahil Kansal as Senior Director for Retail Ex...",
       "score": 1,
       "published": "2026-10-21T13:18:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0f6dea94d380",
-      "title": "This Year, the Coolest Dressers I Know Are Skipping Neutral Bags for This Anti-Autumn Colour Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/apple-green-bag-trend-jennifer-lawrence-2026",
-      "summary": "Shockingly chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-21T13:16:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a8326d07f03",
-      "title": "Knits for Evening: The Sweater Gets Dressed Up",
-      "link": "https://in.apparelresources.com/fashion-news/trends/knits-evening-sweater-gets-dressed/",
-      "summary": "Sweaters are a fall constant, but this season designers have pulled them out of the daytime wardrobe and into evening. The new ideas come from unexpected categories: Dries Van Noten&#8217;s Fair Isle sweater set and Chloé&#8217;s matching balaclava and sweater are the clearest examples. Styling also leans on opposites.",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Knits for Evening: The Sweater Gets Dressed Up...",
-      "score": 3,
-      "published": "2026-10-21T13:01:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2134,34 +2134,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-10-18T12:26:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b779a7936c79",
-      "title": "Hey Dude Shoes Review: Our Top 3 Picks Explained + Video",
-      "link": "https://www.fashionbeans.com/article/hey-dude-shoes-review/",
-      "summary": "If you’re looking to update your footwear collection, you’ll be glad you ended up here first. This Hey Dude shoes review will tell you everything you need to know about “Shoes so light, a butterfly could steal them.” [1] Now I like to think of myself as my own man. Ever since I was a &#8230; Continue reading Hey Dude S",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Hey Dude Shoes Review: Our Top 3 Picks Explained + Video...",
-      "score": 2,
-      "published": "2026-10-18T10:16:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "496f09ea63a4",
-      "title": "7 Jacket, Shirt, and Tie Combos for Outerwear in 2026",
-      "link": "https://www.fashionbeans.com/article/jacket-shirt-tie-combinations/",
-      "summary": "Navigating dress codes can be a minefield. Take smart-casual, for example. Many men have devoted countless hours to decoding what on earth it could possibly mean, and in truth the jury’s still out. One solid trick to rely on is to start smart, and switch out one element for something laid-back – a roll-neck jumper &#82",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 7 Jacket, Shirt, and Tie Combos for Outerwear in 2026...",
-      "score": 2,
-      "published": "2026-10-18T10:01:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2867,52 +2839,52 @@
   ],
   "trends": [
     {
-      "term": "marathon fusion gold",
+      "term": "ஆசிரியர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kospi",
+      "term": "ನೀರು",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "7.0 magnitude earthquake hits tibet",
+      "term": "વડોદરા",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇషాన్ కిషన్",
+      "term": "matthew vandyke",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakistan cricket board",
+      "term": "shree charani",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ",
+      "term": "mca",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सस्पेंस",
+      "term": "judgment",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "child",
+      "term": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ssa",
+      "term": "ಪ್ರಜಾವಾಣಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sara bejlek",
+      "term": "ಚಿನ್ನ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
