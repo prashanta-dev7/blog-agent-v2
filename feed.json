@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-10-24T06:50:12.318846+00:00",
+  "generated_at": "2026-10-24T09:19:01.117703+00:00",
   "owned_count": 10,
   "competitor_count": 13,
-  "industry_count": 180,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "e845f6b1ae14",
+      "title": "My Holy Trinity of Fall Boot Trends",
+      "link": "https://www.whowhatwear.com/fashion/shoes/timeless-fall-boots-trends",
+      "summary": "You only need three styles.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-24T08:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "acdf19295f87",
+      "title": "Taylor Swift Just Wore the Jewelry Trend That Symbolizes Wealth, Power, and Protection",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/taylor-swift-ruby-ring",
+      "summary": "Hint: It's not opalite.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-10-24T08:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "89a7ab6b9223",
+      "title": "The Exact Denim Trend to Wear With Leather Jackets This Fall, According to Alessandra Ambrosio",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/alessandra-ambrosio-favorite-jeans",
+      "summary": "Off-duty style done right.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-24T08:40:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "89ee16222425",
+      "title": "The Verdict Is In: These Are the Chicest Quiet Luxury Bags Defining Winter 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-quiet-luxury-winter-bags",
+      "summary": "Expensive-looking and elegant.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Verdict Is In: These Are the Chicest Quiet Luxury Bags Defining Wi...",
+      "score": 1,
+      "published": "2026-10-24T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "05383b026ffa",
+      "title": "When the Chicest Over-50s Travel in Track Pants, They Wear Them With This Cool Shoe",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/track-pants-red-trainers-airport-outfit-naomi-watts-2026",
+      "summary": "An instant upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: When the Chicest Over-50s Travel in Track Pants, They Wear Them With T...",
+      "score": 1,
+      "published": "2026-10-24T07:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7552ccdaabe8",
+      "title": "Not Everyone Will Like This Coat Colour, But People Who Follow Fashion Will",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-coat-trend-hailey-bieber-2026",
+      "summary": "Hint: It's not black or beige.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Everyone Will Like This Coat Colour, But People Who Follow Fashion...",
+      "score": 1,
+      "published": "2026-10-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "2f3da3a6716e",
       "title": "Elegant Knits, Polished Outerwear and Chic Accessories: 7 Staples Forming the Foundation of My Winter Capsule",
@@ -34,20 +118,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 2,
       "published": "2026-10-24T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5f1fb440afce",
-      "title": "Rising Cancer Cases, Obesity Link, Early Warning Signs And Impact Of Lifestyle On Risk Explained",
-      "link": "https://www.indiatoday.in/india/video/rising-cancer-cases-obesity-link-early-warning-signs-and-impact-of-lifestyle-on-risk-explained-ytvd-3024001-2026-10-24?utm_source=rss",
-      "summary": "Rising Cancer Cases, Obesity Link, Early Warning Signs And Impact Of Lifestyle On Risk Explained",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rising Cancer Cases, Obesity Link, Early Warning Signs And Impact Of L...",
-      "score": 1,
-      "published": "2026-10-24T05:02:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -300,6 +370,20 @@
       "angle": "Fashion Intelligence: Byredo’s Havana Tonka Is a Gourmand With a Dark Side...",
       "score": 1,
       "published": "2026-10-23T17:48:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dba232395e99",
+      "title": "35 Best Small Gifts for Men That Make a Big Impact in 2026",
+      "link": "https://www.fashionbeans.com/article/best-small-gifts-for-men/",
+      "summary": "FYI After our latest round of research, we’ve made a few updates to our product recommendations. Several of the original picks have been replaced with newer models or more relevant alternatives. Additionally, we’ve included best for attributes to help you find the perfect small gift faster. Despite these changes, the A",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 35 Best Small Gifts for Men That Make a Big Impact in 2026...",
+      "score": 1,
+      "published": "2026-10-23T17:22:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,20 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ca9af18e9a3d",
-      "title": "12 Denim Trends That Are Decidedly Different for 2027",
-      "link": "https://www.whowhatwear.com/fashion/denim/denim-trends-2027",
-      "summary": "From nonconformist to classically chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-23T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bee11a35cf08",
       "title": "From Jeon Do-yeon to Tao Okamoto, Four Asian Actresses Giving Must-See Performances This Fall",
       "link": "https://www.vogue.com/article/korean-and-japanese-actresses-must-see-fall-performances-2026",
@@ -1101,20 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c2a8bfb1cc6e",
-      "title": "The SS27 Fashion Month Lookback",
-      "link": "https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback",
-      "summary": "Watch Vogue Business editors unpack the biggest runway moments and brand wins from the Spring/Summer 2027 show season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The SS27 Fashion Month Lookback...",
-      "score": 5,
-      "published": "2026-10-23T03:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "478a49778679",
       "title": "The Editors’ Table: New York",
       "link": "https://www.vogue.com/article/the-editors-table-new-york-sept-2026",
@@ -1125,6 +1181,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: The Editors’ Table: New York...",
       "score": 0,
+      "published": "2026-10-23T03:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c2a8bfb1cc6e",
+      "title": "The SS27 Fashion Month Lookback",
+      "link": "https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback",
+      "summary": "Watch Vogue Business editors unpack the biggest runway moments and brand wins from the Spring/Summer 2027 show season.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The SS27 Fashion Month Lookback...",
+      "score": 5,
       "published": "2026-10-23T03:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -1154,20 +1224,6 @@
       "angle": "Fashion Intelligence: 13 of the Biggest Contenders for the 2027 Oscars...",
       "score": 1,
       "published": "2026-10-23T00:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7d3991838c68",
-      "title": "Kate Middleton Never Wears Logos But Made an Exception for This Designer Bag",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-middleton-logo-designer-bag",
-      "summary": "She just broke one of her own fashion rules.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Kate Middleton Never Wears Logos But Made an Exception for This Design...",
-      "score": 3,
-      "published": "2026-10-22T23:29:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1339,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5fa0a340e507",
-      "title": "This Once-Dated Easy Jeans Outfit Is Cool Again—Here's the It-Girl Proof",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-with-matching-sweater-shoes-outfit-trend-jenna-ortega",
-      "summary": "Hint: The shoe color is a key factor.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: This Once-Dated Easy Jeans Outfit Is Cool Again—Here's the It-Girl Pro...",
-      "score": 1,
-      "published": "2026-10-22T16:19:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fff83dceae14",
       "title": "The Unexplored World of Fashion in Silent Film",
       "link": "https://www.harpersbazaar.com/fashion/a74182916/silent-film-fashion-exhibition-bard/",
@@ -1392,34 +1434,6 @@
       "angle": "Fashion Intelligence: How Harlem’s National Black Theatre Is Cementing Black Culture in the ...",
       "score": 0,
       "published": "2026-10-22T15:52:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "204d370c1b36",
-      "title": "The Most Iconic Designer Bags Are Gaining Resale Value—These Are the Winners in 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/most-popular-designer-bags-2026",
-      "summary": "Including one Y2K style that's up 127%!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Most Iconic Designer Bags Are Gaining Resale Value—These Are the W...",
-      "score": 2,
-      "published": "2026-10-22T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b2fd11641ec3",
-      "title": "From Paris to London: The Fall Outfit Formulas European Fashion People Are Wearing Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/european-outfit-formulas-fall-2026",
-      "summary": "Shop the wardrobe staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-22T15:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2123,48 +2137,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec351137bfdc",
-      "title": "8 Best YSL Colognes For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-ysl-cologne/",
-      "summary": "Following in the footsteps of Chanel, Yves Saint Laurent launched his first fragrance for women, Y, in 1964 by creating, in his own words, &#8220;a lush, heavy, and languid perfume.&#8221; Just seven years later, the designer shocked the world of haute couture, posing naked to launch Pour Homme, the first and best YSL ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 8 Best YSL Colognes For Men In 2026...",
-      "score": 3,
-      "published": "2026-10-19T09:38:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "227926995c9e",
-      "title": "20 Best Hats for Men – Must Have’s For Any Taste in 2026",
-      "link": "https://www.fashionbeans.com/article/best-hats-for-men/",
-      "summary": "Every man has that one hat he reaches for no matter the occasion. If a certain hat came to your mind, we bet you’re guilty of practically having it glued to your head. When’s the last time you washed it, by the way? If you came across this article about the best hats for men &#8230; Continue reading 20 Best Hats for Me",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 20 Best Hats for Men – Must Have’s For Any Taste in 2026...",
-      "score": 1,
-      "published": "2026-10-19T08:00:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0eca213d5b3e",
-      "title": "15 Best Wool Sweaters For Men To Wear In 2026",
-      "link": "https://www.fashionbeans.com/article/best-wool-sweaters-for-men/",
-      "summary": "Never has an article titled The Best Wool Sweaters for Men are Dead been written. That’s because it has never happened and will never happen. That’s a bold claim. If the wool sweater has proved so popular throughout the years, then which is the best men’s wool sweater available right now? That’s the premise of &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 15 Best Wool Sweaters For Men To Wear In 2026...",
-      "score": 1,
-      "published": "2026-10-19T06:17:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c613ac961eb1",
       "title": "ICYMI: This Distributor Wants to Curate K-Beauty for U.S. Stores, What Buyers Are Buying From the Runways & Seán McGirr Leaves Alexander McQueen",
       "link": "https://fashionista.com/news/fashion-news-you-need-to-know-october-17",
@@ -2711,6 +2683,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "afe14ebe41d8",
+      "title": "Wedge Heels Are Having a Moment, and We’re Here for It",
+      "link": "https://www.azafashions.com/blog/wedge-heels-are-having-a-moment/?utm_source=rss&utm_medium=rss&utm_campaign=wedge-heels-are-having-a-moment",
+      "summary": "Wedge heels used to mean one thing: a thick, clunky platform that screamed early 2010s festival season. That version hasn't aged particularly well. But the wedge heel making its way&#8230; The post Wedge Heels Are Having a Moment, and We&#8217;re Here for It appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Wedge Heels Are Having a Moment, and We’re Here for It...",
+      "score": 1,
+      "published": "2026-10-24T08:45:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d6c7510c34dd",
       "title": "Lakme Fashion Week x FDCI 2026: Unmissable Runway Moments",
       "link": "https://www.azafashions.com/blog/lakme-fashion-week-best-moments/?utm_source=rss&utm_medium=rss&utm_campaign=lakme-fashion-week-best-moments",
@@ -2835,70 +2821,56 @@
       "score": 4,
       "published": "2026-10-16T07:56:46+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "ae73c19de92c",
-      "title": "Trending Sarees to Wear for Chhath Puja: The US Edit",
-      "link": "https://www.azafashions.com/blog/sarees-for-chhath-puja-us/?utm_source=rss&utm_medium=rss&utm_campaign=sarees-for-chhath-puja-us",
-      "summary": "Chhath Puja is a significant festival on the cultural calendar. It's also one of the most visually striking, and what you wear plays a big part. The right saree needs&#8230; The post Trending Sarees to Wear for Chhath Puja: The US Edit appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-15T13:30:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "jacob duffy",
+      "term": "గరివిడి లక్ష్మి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nz vs ind toss",
+      "term": "പോലീസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సూర్య",
+      "term": "simran sharma",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nz बनाम ind",
+      "term": "तनुश्री दत्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அணை",
+      "term": "oppo find x10",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ind vs nz 2nd t20",
+      "term": "భూకంపం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "new zealand national cricket team vs india national cricket team players",
+      "term": "আমির খান",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dazn",
+      "term": "অমিতাভ বচ্চন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ann li",
+      "term": "axar patel",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "western australia vs new south wales",
+      "term": "నిశ్చితార్థం",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
