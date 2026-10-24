@@ -1,13 +1,195 @@
 {
-  "generated_at": "2026-10-24T09:19:01.117703+00:00",
+  "generated_at": "2026-10-24T14:16:02.717630+00:00",
   "owned_count": 10,
-  "competitor_count": 13,
-  "industry_count": 178,
+  "competitor_count": 12,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8cd25eaacd2a",
+      "title": "How To Achieve the Soft, Plump Look of “Mochi Skin”",
+      "link": "https://www.vogue.com/article/mochi-skin",
+      "summary": "The \"mochi skin\" trend takes its name from the traditional Japanese rice cake treat famous for its bouncy texture, plump appearance, and smooth surface.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Achieve the Soft, Plump Look of “Mochi Skin”...",
+      "score": 2,
+      "published": "2026-10-24T13:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d70ed436814a",
+      "title": "The Vogue Business Funding Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
+      "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
+      "score": 2,
+      "published": "2026-10-24T13:15:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ffb5bd7af833",
+      "title": "This Joan Crawford Classic Still Has Something to Teach Us About Women—and the Clothes They Wear",
+      "link": "https://www.vogue.com/article/the-women-movie-illeana-douglas-book-interview",
+      "summary": "The 1939 hit The Women spawned fashion trends, resurrected careers, launched new ones, and has fallen in and out of favor. Now, it’s enjoying another reconsideration, thanks to a new book by actress-turned-film scholar Illeana Douglas.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: This Joan Crawford Classic Still Has Something to Teach Us About Women...",
+      "score": 4,
+      "published": "2026-10-24T12:34:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7e0c17105dd9",
+      "title": "ICYMI: Gap x Victoria Beckham's Fall Collection, JT Talks Her Personal Style &amp; Target's Newest Fragrance Brand",
+      "link": "https://fashionista.com/2026/10/fashion-news-you-need-to-know-october-24",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-10-24T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f786e61d598",
+      "title": "Chandrababu Naidu's 'Kansa Mama' jab at Jagan over niece's wedding row",
+      "link": "https://www.indiatoday.in/india/andhra-pradesh/story/jagan-reddy-sister-sharmila-daughter-wedding-controversy-chandrababu-naidu-3024265-2026-10-24?utm_source=rss",
+      "summary": "Chandrababu Naidu's 'Kansa Mama' jab at Jagan over niece's wedding row",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Chandrababu Naidu's 'Kansa Mama' jab at Jagan over niece's wedding row — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-10-24T11:46:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a89786183ea",
+      "title": "I Asked Fashion Brides-to-Be What They're Putting on Their Wedding Registries—Here’s What They Said",
+      "link": "https://www.whowhatwear.com/living/wedding/fashion-people-wedding-registry-gifts-2026",
+      "summary": "From a pink iPad to Tiffany & Co. espresso cups.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I Asked Fashion Brides-to-Be What They're Putting on Their Wedding Registries—Here’s What They Said — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-10-24T11:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c0d70b06a10e",
+      "title": "From Moss Green to Antique Gold: The Best Mid-Autumn Nail Trends Are Straight Out of a Dark Fantasy Novel",
+      "link": "https://www.whowhatwear.com/beauty/nails/october-nail-colors-designs-ideas-2026",
+      "summary": "Prepare to be enchanted.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-24T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ebacfed6d84a",
+      "title": "Kim Kardashian and Kris Jenner Have Very Different Takes on Sparkle Season",
+      "link": "https://www.vogue.com/article/kim-kardashian-and-kris-jenner-have-very-different-takes-on-sparkle-season",
+      "summary": "In Rome, mother-daughter duo Kim Kardashian and Kris Jenner had two very different approaches to party-season dressing care of custom Erdem and Chanel.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-24T10:19:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4de35062e89b",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-october-24-2026",
+      "summary": "From meticulously styled bobs to disco-worthy curls and electric washes of color, this week’s best beauty looks made room for both restraint and revelry.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 2,
+      "published": "2026-10-24T10:09:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dbd2e9957822",
+      "title": "The Most-Wanted Bags in Street Style: Spring 2027 Edition",
+      "link": "https://www.vogue.com/article/the-most-wanted-bags-in-street-style-spring-2027-edition",
+      "summary": "From pretty pouches to sleek clutches, these were the most popular bag styles of the spring 2027 season.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Most-Wanted Bags in Street Style: Spring 2027 Edition...",
+      "score": 2,
+      "published": "2026-10-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1281f95df9c5",
+      "title": "11 Runway-Inspired Ways to Wear Lace This Fall",
+      "link": "https://www.vogue.com/article/runway-inspired-lace-outfits-fall-2026",
+      "summary": "How to bring romance into daylight: more than 10 runway-inspired looks from the fall collections by Khaite, Saint Laurent, Chanel, and more to try",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 11 Runway-Inspired Ways to Wear Lace This Fall...",
+      "score": 3,
+      "published": "2026-10-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2209df2ac98b",
+      "title": "If You're ITK, You're Already Styling Your Jeans With This Bold Fall Accessories Trend",
+      "link": "https://www.whowhatwear.com/fashion/shopping/big-buckle-belts",
+      "summary": "Zero effort, high impact.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5f94d4af65a5",
+      "title": "The Effortless Shoe Trend That Will Make Your Outfits Look Chic This Fall",
+      "link": "https://www.whowhatwear.com/fashion/shoes/best-flat-slipper-mules",
+      "summary": "Slide them on and go.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "e845f6b1ae14",
       "title": "My Holy Trinity of Fall Boot Trends",
@@ -863,34 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "33507307e676",
-      "title": "Just Browsing: Workout Essentials at On, Including Zendaya’s Latest Collab",
-      "link": "https://www.vogue.com/article/on-just-browsing-fall-2026",
-      "summary": "Vogue’s marketing and production manager Kasey Busiel tries on the brand’s new collection.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Just Browsing: Workout Essentials at On, Including Zendaya’s Latest Co...",
-      "score": 2,
-      "published": "2026-10-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a582ea9a783e",
-      "title": "I Just Got Back From London, and These Are the Sneakers That Were Everywhere",
-      "link": "https://www.vogue.com/article/salomon-sneakers-fall-trend",
-      "summary": "Salomon’s XT-6 are a fall favorite for a reason—cosigned by models off-duty and the street style set. Shop our favorite pairs for fall.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Got Back From London, and These Are the Sneakers That Were Ever...",
-      "score": 2,
-      "published": "2026-10-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e6f9e666b78a",
       "title": "His Year in Fashion: Artist Jack Jildevik Documented His Wardrobe in 365 Flat-Lay Photos",
       "link": "https://www.vogue.com/article/his-year-in-fashion-artist-jack-jildevik-documented-his-wardrobe-in-365-flat-lay-photos",
@@ -914,6 +1068,34 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Reed All About It: Here’s How Alexander Skarsgård Wound Up in Couture ...",
+      "score": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "33507307e676",
+      "title": "Just Browsing: Workout Essentials at On, Including Zendaya’s Latest Collab",
+      "link": "https://www.vogue.com/article/on-just-browsing-fall-2026",
+      "summary": "Vogue’s marketing and production manager Kasey Busiel tries on the brand’s new collection.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Just Browsing: Workout Essentials at On, Including Zendaya’s Latest Co...",
+      "score": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a582ea9a783e",
+      "title": "I Just Got Back From London, and These Are the Sneakers That Were Everywhere",
+      "link": "https://www.vogue.com/article/salomon-sneakers-fall-trend",
+      "summary": "Salomon’s XT-6 are a fall favorite for a reason—cosigned by models off-duty and the street style set. Shop our favorite pairs for fall.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Got Back From London, and These Are the Sneakers That Were Ever...",
       "score": 2,
       "published": "2026-10-23T10:00:00+00:00",
       "discovered_via": "feed"
@@ -1003,20 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "57edf3eff2ea",
-      "title": "Pants? No—This Specific Skirt Style Is Officially the Stylish Default",
-      "link": "https://www.whowhatwear.com/fashion/skirts/best-pencil-skirts",
-      "summary": "At least among fashion people.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Pants? No—This Specific Skirt Style Is Officially the Stylish Default...",
-      "score": 2,
-      "published": "2026-10-23T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2fc1c662a5f9",
       "title": "Gen Z Has Spoken: These Are the Winter Trends Worth Knowing About",
       "link": "https://www.whowhatwear.com/fashion/winter/gen-z-fashion-trends-winter",
@@ -1041,6 +1209,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-10-23T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57edf3eff2ea",
+      "title": "Pants? No—This Specific Skirt Style Is Officially the Stylish Default",
+      "link": "https://www.whowhatwear.com/fashion/skirts/best-pencil-skirts",
+      "summary": "At least among fashion people.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Pants? No—This Specific Skirt Style Is Officially the Stylish Default...",
+      "score": 2,
       "published": "2026-10-23T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1101,34 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a51615a2b7cc",
-      "title": "When—and Why—Did Jeans Become the Ultimate Luxury Item?",
-      "link": "https://www.whowhatwear.com/fashion/denim/are-luxury-jeans-worth-it",
-      "summary": "An investigation.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: When—and Why—Did Jeans Become the Ultimate Luxury Item?...",
-      "score": 1,
-      "published": "2026-10-23T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5f44809c1399",
-      "title": "London, Paris, Tokyo: How the Best-Dressed in Fashionable Cities Are Styling Jeans Right Now",
-      "link": "https://www.whowhatwear.com/fashion/denim/jeans-outfits-in-stylish-cities",
-      "summary": "It-girl approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: London, Paris, Tokyo: How the Best-Dressed in Fashionable Cities Are S...",
-      "score": 2,
-      "published": "2026-10-23T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bee11a35cf08",
       "title": "From Jeon Do-yeon to Tao Okamoto, Four Asian Actresses Giving Must-See Performances This Fall",
       "link": "https://www.vogue.com/article/korean-and-japanese-actresses-must-see-fall-performances-2026",
@@ -1140,90 +1294,6 @@
       "angle": "Fashion Intelligence: From Jeon Do-yeon to Tao Okamoto, Four Asian Actresses Giving Must-See...",
       "score": 0,
       "published": "2026-10-23T04:35:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0ce904cf3961",
-      "title": "The Scoop With Osama Chabbi: On Directing His First Fashion Documentary",
-      "link": "https://www.vogue.com/article/the-scoop-with-osama-chabbi-on-directing-his-first-fashion-documentary",
-      "summary": "This week’s guest is Osama Chabbi, one of the few fashion commentators that emerged on Instagram post-pandemic that actually has something to say.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Scoop With Osama Chabbi: On Directing His First Fashion Documentar...",
-      "score": 1,
-      "published": "2026-10-23T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "84a2434a88a6",
-      "title": "More Planned Riots Put Off Art, Fashion and Sport Events in Paris",
-      "link": "https://www.vogue.com/article/more-planned-riots-put-off-art-fashion-and-sport-events-in-paris",
-      "summary": "Art Basel Paris will now close on Saturday as independent and luxury brands prepare for more disruption over the weekend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: More Planned Riots Put Off Art, Fashion and Sport Events in Paris...",
-      "score": 3,
-      "published": "2026-10-23T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "478a49778679",
-      "title": "The Editors’ Table: New York",
-      "link": "https://www.vogue.com/article/the-editors-table-new-york-sept-2026",
-      "summary": "Join Vogue Business editors on 17 November for an exclusive evening designed to connect and celebrate our community of founders and innovators.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Editors’ Table: New York...",
-      "score": 0,
-      "published": "2026-10-23T03:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c2a8bfb1cc6e",
-      "title": "The SS27 Fashion Month Lookback",
-      "link": "https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback",
-      "summary": "Watch Vogue Business editors unpack the biggest runway moments and brand wins from the Spring/Summer 2027 show season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The SS27 Fashion Month Lookback...",
-      "score": 5,
-      "published": "2026-10-23T03:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f24737e85f25",
-      "title": "The Daily Grind: An Exploration of Teeth Grinding and Relief",
-      "link": "https://www.vogue.com/article/teeth-grinding-and-relief",
-      "summary": "Is a clenched jaw just a part of life in 2026? Vogue explores.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Daily Grind: An Exploration of Teeth Grinding and Relief...",
-      "score": 0,
-      "published": "2026-10-23T00:18:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bd5cdc37fc26",
-      "title": "13 of the Biggest Contenders for the 2027 Oscars",
-      "link": "https://www.vogue.com/article/biggest-oscar-contenders-2027",
-      "summary": "These are the swaggering blockbusters, charming comedies, and low-budget dark horses to add to your watchlist this awards season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 13 of the Biggest Contenders for the 2027 Oscars...",
-      "score": 1,
-      "published": "2026-10-23T00:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1294,20 +1364,6 @@
       "angle": "Fashion Intelligence: How to Style Low-Profile Sneakers With 8 Simple Outfits...",
       "score": 2,
       "published": "2026-10-22T20:18:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5115a9cc4301",
-      "title": "Fifi's Wig Shop Brings Halloween Transformations to the Next Level",
-      "link": "https://www.vogue.com/article/new-orleans-fifi-wigs-halloween-shop",
-      "summary": "Fifi's Wig Shop is a must-stop destinations for elaborate, one-of-a-kind wigs. “In New Orleans, we will always find an excuse to wear a wig.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fifi's Wig Shop Brings Halloween Transformations to the Next Level...",
-      "score": 1,
-      "published": "2026-10-22T20:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2473,20 +2529,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "21a81f60870e",
-      "title": "Here Are the Biggest Spring 2027 Trends From Every Fashion Capital",
-      "link": "https://fashionista.com/2026/10/spring-2027-fashion-week-trends",
-      "summary": "Skinny scarves in New York, kitchen aprons in London and feathered trims in Milan — oh my!",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-09T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6b3a5694f6cc",
       "title": "Milano Fashion Week SS27: la moda torna a essere personale",
       "link": "https://www.theblondesalad.com/fashion/milano-fashion-week-ss27-la-moda-torna-a-essere-personale/",
@@ -2669,17 +2711,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "19896b7afc45",
-      "title": "Shivani’s Magenta Bridal Dream Amid the Natural Beauty of Sasan Gir",
-      "link": "https://blog.kalkifashion.com/shivanis-magenta-bridal-look-in-sasan-gir/",
-      "summary": "Some love stories unfold slowly, finding their rhythm over months or even years. Others arrive with complete certainty. For this KALKI bride and her husband, it took only one meeting to know that they had found the person with whom they wanted to spend the rest of their lives. There was no hesitation or second-guessing",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
+      "id": "5e4c0d370f8c",
+      "title": "The Art of Accessorising Your Diwali Lehenga",
+      "link": "https://www.azafashions.com/blog/accessorising-diwali-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=accessorising-diwali-lehenga",
+      "summary": "Diwali is the one night your wardrobe gets to be as loud as the fireworks outside. But a stunning lehenga can lose its shine fast if the accessories fight for&#8230; The post The Art of Accessorising Your Diwali Lehenga appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Shivani’s Magenta Bridal Dream Amid the Natural Beauty of Sasan Gir — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-08-25T09:52:43+00:00",
+      "angle": "Bridal Edit: The Art of Accessorising Your Diwali Lehenga — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-10-24T10:44:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2807,70 +2849,56 @@
       "score": 3,
       "published": "2026-10-16T08:52:11+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "e7bbc439b256",
-      "title": "Know Your Designer – Episode 55: Rohit Doshi",
-      "link": "https://www.azafashions.com/blog/know-your-designer-rohit-doshi/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-rohit-doshi",
-      "summary": "In a world where trends come and go, Rohit Doshi is designing for the long run. The Mumbai-based designer launched his eponymous label in 2021 with a vision rooted in&#8230; The post Know Your Designer &#8211; Episode 55: Rohit Doshi appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Know Your Designer – Episode 55: Rohit Doshi...",
-      "score": 4,
-      "published": "2026-10-16T07:56:46+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "గరివిడి లక్ష్మి",
+      "term": "रणबीर कपूर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പോലീസ്",
+      "term": "टाटा पंच",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "simran sharma",
+      "term": "isro",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तनुश्री दत्ता",
+      "term": "अर्शदीप सिंह",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "oppo find x10",
+      "term": "daniil medvedev",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "భూకంపం",
+      "term": "erling haaland",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "আমির খান",
+      "term": "ग्रे मार्केट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "অমিতাভ বচ্চন",
+      "term": "ভারত জাতীয় ক্রিকেট দল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "axar patel",
+      "term": "wolves vs watford",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నిశ్చితార్థం",
+      "term": "২৫ অক্টোবর",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
