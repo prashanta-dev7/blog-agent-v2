@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-10-25T07:14:15.595157+00:00",
+  "generated_at": "2026-10-25T09:35:41.467429+00:00",
   "owned_count": 10,
   "competitor_count": 11,
-  "industry_count": 186,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "58430a8cc41f",
+      "title": "Fashion’s Most Discerning Dressers Swear By The Row Coats—9 Quiet Luxury Styles to Know This Winter",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-the-row-coats",
+      "summary": "Pure luxury.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion’s Most Discerning Dressers Swear By The Row Coats—9 Quiet Luxu...",
+      "score": 5,
+      "published": "2026-10-25T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ddff802d093d",
+      "title": "From Elizabeth Taylor to Kim Kardashian and Kris Jenner: The Starry History of the Scorpio Cape",
+      "link": "https://www.vogue.com/article/elizabeth-taylor-scorpio-cape-kim-kardashian-kris-jenner",
+      "summary": "At the “All’s Fair” premiere in Rome, Kris Jenner paid homage to Elizabeth Taylor, Grace Kelly, and Kim Kardashian with a piece of fashion history.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: From Elizabeth Taylor to Kim Kardashian and Kris Jenner: The Starry Hi...",
+      "score": 1,
+      "published": "2026-10-25T08:24:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6a881083a9e5",
+      "title": "Air Show Creating 'Package Of Confidence' In UP: Badri Narayan",
+      "link": "https://www.indiatoday.in/india/video/air-show-creating-package-of-confidence-in-up-badri-narayan-ytvd-3024603-2026-10-25?utm_source=rss",
+      "summary": "Air Show Creating 'Package Of Confidence' In UP: Badri Narayan",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Air Show Creating 'Package Of Confidence' In UP: Badri Narayan...",
+      "score": 1,
+      "published": "2026-10-25T08:19:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a72c58ee6da4",
+      "title": "Sophisticated, Easy and Cool—Fashion People Will Be Wearing This Two-Tone Colour Trend All Winter",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/grey-white-colour-combination-trend-miranda-kerr-alexa-chung-2026",
+      "summary": "Easy and elevated.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-10-25T08:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a86e22dea09a",
+      "title": "PM Modi In Varanasi For IAF Air Show At Namo Ghat Ahead Of UP Polls",
+      "link": "https://www.indiatoday.in/india/video/pm-modi-in-varanasi-for-iaf-air-show-at-namo-ghat-ahead-of-up-polls-ytvd-3024594-2026-10-25?utm_source=rss",
+      "summary": "PM Modi In Varanasi For IAF Air Show At Namo Ghat Ahead Of UP Polls",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: PM Modi In Varanasi For IAF Air Show At Namo Ghat Ahead Of UP Polls...",
+      "score": 1,
+      "published": "2026-10-25T08:05:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "97365071a976",
+      "title": "I Think At-Home Manicures Are Incredibly Chic—These 25 Designer Nail Polishes Are Forever Staples",
+      "link": "https://www.whowhatwear.com/beauty/nails/best-designer-nail-polish",
+      "summary": "Chanel! Dior! Gucci! Hermès!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Think At-Home Manicures Are Incredibly Chic—These 25 Designer Nail P...",
+      "score": 1,
+      "published": "2026-10-25T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9574d1afd6ed",
+      "title": "PM Modi In Varanasi: Garment Factory Unveiled, IAF Air Show At Namo Ghat",
+      "link": "https://www.indiatoday.in/india/video/pm-modi-in-varanasi-garment-factory-unveiled-iaf-air-show-at-namo-ghat-ytvd-3024570-2026-10-25?utm_source=rss",
+      "summary": "PM Modi In Varanasi: Garment Factory Unveiled, IAF Air Show At Namo Ghat",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: PM Modi In Varanasi: Garment Factory Unveiled, IAF Air Show At Namo Gh...",
+      "score": 1,
+      "published": "2026-10-25T07:14:06+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "a35778d68db2",
       "title": "PM Modi Visits Varanasi, Launches Arvind Garment Facility, Witnesses IAF Air Show",
@@ -146,20 +244,6 @@
       "angle": "Fashion Intelligence: 6 Styling Tips We Borrowed from The Row That Make Every Outfit Look Ex...",
       "score": 1,
       "published": "2026-10-25T03:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "61462baaff4f",
-      "title": "PM Modi In Varanasi: IAF Air Show At Namo Ghat, Garment Plant, Bharat Milap Row",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-in-varanasi-iaf-air-show-at-namo-ghat-garment-plant-bharat-milap-row-ytvd-3024494-2026-10-25?utm_source=rss",
-      "summary": "PM Modi In Varanasi: IAF Air Show At Namo Ghat, Garment Plant, Bharat Milap Row",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: PM Modi In Varanasi: IAF Air Show At Namo Ghat, Garment Plant, Bharat ...",
-      "score": 1,
-      "published": "2026-10-25T02:17:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1339,6 +1423,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a582ea9a783e",
+      "title": "I Just Got Back From London, and These Are the Sneakers That Were Everywhere",
+      "link": "https://www.vogue.com/article/salomon-sneakers-fall-trend",
+      "summary": "Salomon’s XT-6 are a fall favorite for a reason—cosigned by models off-duty and the street style set. Shop our favorite pairs for fall.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Got Back From London, and These Are the Sneakers That Were Ever...",
+      "score": 2,
+      "published": "2026-10-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e6f9e666b78a",
       "title": "His Year in Fashion: Artist Jack Jildevik Documented His Wardrobe in 365 Flat-Lay Photos",
       "link": "https://www.vogue.com/article/his-year-in-fashion-artist-jack-jildevik-documented-his-wardrobe-in-365-flat-lay-photos",
@@ -1349,48 +1447,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: His Year in Fashion: Artist Jack Jildevik Documented His Wardrobe in 3...",
       "score": 1,
-      "published": "2026-10-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4bfdcc559d72",
-      "title": "Reed All About It: Here’s How Alexander Skarsgård Wound Up in Couture Scuba Pants for ‘Wicker’",
-      "link": "https://www.vogue.com/article/alexander-skarsgard-wicker-suit-costume-designer-interview-andras-attila",
-      "summary": "Costume designers András Dániel Tóth and Attila Godena-Juhász were given nine days’ notice to create a bottom half for Alexander Skarsgård’s Wicker Man.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Reed All About It: Here’s How Alexander Skarsgård Wound Up in Couture ...",
-      "score": 2,
-      "published": "2026-10-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "33507307e676",
-      "title": "Just Browsing: Workout Essentials at On, Including Zendaya’s Latest Collab",
-      "link": "https://www.vogue.com/article/on-just-browsing-fall-2026",
-      "summary": "Vogue’s marketing and production manager Kasey Busiel tries on the brand’s new collection.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Just Browsing: Workout Essentials at On, Including Zendaya’s Latest Co...",
-      "score": 2,
-      "published": "2026-10-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a1200bd69ff7",
-      "title": "Not Strapless, Not Sweetheart: The Wedding-Dress Neckline to Watch for Fall 2027",
-      "link": "https://www.whowhatwear.com/living/wedding/v-neck-dress-trend-kyha-fall-2027",
-      "summary": "Kyha is leading the movement.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Not Strapless, Not Sweetheart — A Complete Style Guide",
-      "score": 2,
       "published": "2026-10-23T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1406,48 +1462,6 @@
       "angle": "Fashion Intelligence: United Colors of Benetton Adds Five Stores in Three States in a Same D...",
       "score": 2,
       "published": "2026-10-23T09:25:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "318b15ce2f79",
-      "title": "40 Items to Buy From Shopbop If You Want to Dress Like an It Girl This Winter",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-winter-fashion-2026",
-      "summary": "Opulent accessories, faux-fur jackets, satin shoes, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 40 Items to Buy From Shopbop If You Want to Dress Like an It Girl This...",
-      "score": 1,
-      "published": "2026-10-23T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2fc1c662a5f9",
-      "title": "Gen Z Has Spoken: These Are the Winter Trends Worth Knowing About",
-      "link": "https://www.whowhatwear.com/fashion/winter/gen-z-fashion-trends-winter",
-      "summary": "Cool kid approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-23T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "061099a810f5",
-      "title": "The Chicest Women I Know Aren't Wearing Their Sweaters With Jeans",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-sweater-outfits-2026",
-      "summary": "They're opting for these pieces instead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-23T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2909,52 +2923,52 @@
   ],
   "trends": [
     {
-      "term": "ಬರ",
+      "term": "నాని",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rajinikanth jailer 2 day 10 earnings",
+      "term": "sebi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "যোগেন চৌধুরী",
+      "term": "అక్టోబర్ 24",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दिल्ली पुलिस",
+      "term": "elena rybakina",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mlb",
+      "term": "வங்காள விரிகுடா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "இர்பான் பதான்",
+      "term": "പണം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "இளையராஜா",
+      "term": "ಕಾವೇರಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ind vs nz 3rd t20",
+      "term": "new zealand a cricket team",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పింఛను",
+      "term": "smriti mandhana",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "નમન ધીર",
+      "term": "बैंक अवकाश",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
