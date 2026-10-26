@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-10-26T07:22:12.693832+00:00",
+  "generated_at": "2026-10-26T10:47:02.005597+00:00",
   "owned_count": 10,
   "competitor_count": 13,
-  "industry_count": 182,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "90aeea06cf66",
+      "title": "Fashion Brands Need the Right Channels, Not More of Them",
+      "link": "https://in.apparelresources.com/business-news/retail/fashion-brands-need-right-channels-not/",
+      "summary": "Indian fashion brands today have more routes to consumers than ever before, from D2C websites and marketplaces to quick commerce, physical retail, wholesale and social commerce. But the real question isn’t how many channels a brand can enter anymore, it’s which ones are actually adding growth. As one expert puts it, th",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion Brands Need the Right Channels, Not More of Them...",
+      "score": 2,
+      "published": "2026-10-26T10:09:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdfae1f4f96f",
+      "title": "Grand Export Is the Berlin Fashion Export You Should Know",
+      "link": "https://www.vogue.com/article/grand-export-is-the-berlin-fashion-export-you-should-know",
+      "summary": "Grand Export’s Paulina Munzing and Gent Berbatovci specialize in upcycling, deadstock, and leather.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Grand Export Is the Berlin Fashion Export You Should Know...",
+      "score": 1,
+      "published": "2026-10-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f2c440d2f6a0",
+      "title": "The 7 Best Airbnbs for Experiencing Buenos Aires in Peak Pleasant Weather",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-buenos-aires",
+      "summary": "From a 1930s French-style building to a modern loft in Palermo, the best Airbnbs in Buenos Aires situate travelers in the city's best locations.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 7 Best Airbnbs for Experiencing Buenos Aires in Peak Pleasant Weat...",
+      "score": 1,
+      "published": "2026-10-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "46f408164fd9",
+      "title": "Minotaurs, Mutants, and Wicker Husbands: In Monster Romances, Women Lust After Everything But Human Men",
+      "link": "https://www.vogue.com/article/in-monster-romances-women-are-lusting-after-everything-but-men",
+      "summary": "From screen to page, the genre uses absurdism and shock value to critique what modern dating is missing.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Minotaurs, Mutants, and Wicker Husbands: In Monster Romances, Women Lu...",
+      "score": 0,
+      "published": "2026-10-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8c8f2703a42a",
+      "title": "How to Style Bootcut Jeans in 2026",
+      "link": "https://www.vogue.com/article/how-to-style-bootcut-jeans",
+      "summary": "Effortless and leg-elongating, bootcut jeans may be one of the most wearable denim shapes of 2026—consider this your guide on how to style bootcut jeans.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Style Bootcut Jeans in 2026...",
+      "score": 2,
+      "published": "2026-10-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a2345a5e3d6b",
+      "title": "The Grown-Up Guide to Wearing Loafers and a Skirt",
+      "link": "https://www.vogue.com/article/how-to-style-a-skirt-and-loafers",
+      "summary": "Taking inspiration from fashion month’s best-dressed, here are five ways to style loafers and a skirt without looking like an extra in ‘St Trinian’s’.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-10-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a139135193cb",
+      "title": "Banana Republic X Zankov Just Launched, And It's What Knitwear Dreams Are Made Of",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/banana-republic-zankov-knitwear-collaboration-october-2026",
+      "summary": "Shop these stunning pieces before they sell out.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-10-26T07:32:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7ece739f6484",
+      "title": "We're Officially In An \"Anti-Trousers\" Autumn—6 Runway Trends Tempting Us Away from Jeans and Wide-Legs",
+      "link": "https://www.whowhatwear.com/fashion/trends/anti-trouser-trends-2026",
+      "summary": "Could it be?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-26T07:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4dc4bf3ab078",
       "title": "Sorry, Black—Fashion's \"Tackiest\" Colour Is Suddenly Everywhere This Winter",
@@ -62,20 +174,6 @@
       "angle": "Fashion Intelligence: How Vestiaire Collective Is Keeping Stolen Goods From Being Resold...",
       "score": 1,
       "published": "2026-10-26T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e9e24431840d",
-      "title": "Delhi Launches Namo Yamuna Cruise Trial Run Ahead Of Chhath Puja As River Cleanup Continues",
-      "link": "https://www.indiatoday.in/india/video/delhi-launches-namo-yamuna-cruise-trial-run-ahead-of-chhath-puja-as-river-cleanup-continues-ytvd-3025039-2026-10-26?utm_source=rss",
-      "summary": "Delhi Launches Namo Yamuna Cruise Trial Run Ahead Of Chhath Puja As River Cleanup Continues",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-26T05:19:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -331,6 +429,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f2bfb41d11ea",
+      "title": "Alex Turner’s Best Hairstyles",
+      "link": "https://www.fashionbeans.com/article/alex-turners-best-hairstyles-and-how-to-get-the-look/",
+      "summary": "As the crowds shuffled along the security queue at Ibiza airport, not one person noticed that the band standing next to them had played a raucous, sold-out gig at Ibiza Rocks just the night before. A scene witnessed in 2007, the band was Arctic Monkeys, and they were still riding high on the success of Whatever &#8230;",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Alex Turner’s Best Hairstyles...",
+      "score": 1,
+      "published": "2026-10-25T10:10:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f6e43d6f9b09",
       "title": "What Is Brutalism? Alex Eagle Explains How to Bring the Aesthetic Home",
       "link": "https://www.vogue.com/article/eagle-eye-brutalism",
@@ -342,6 +454,20 @@
       "angle": "Fashion Intelligence: What Is Brutalism? Alex Eagle Explains How to Bring the Aesthetic Home...",
       "score": 2,
       "published": "2026-10-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9128e41804cb",
+      "title": "The Best British Shoe Brands: UK’s Finest 2026",
+      "link": "https://www.fashionbeans.com/article/best-british-shoe-brands/",
+      "summary": "We Brits have plenty to complain about – our weather sucks, we’re crap at almost every sport we invent and the last time we won Eurovision Nintendo had just launched the N64. But one arena in which we can hold our heads high is British-made footwear. With a dedication to premium materials and time-tested production &#8",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Best British Shoe Brands: UK’s Finest 2026...",
+      "score": 3,
+      "published": "2026-10-25T09:00:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -401,6 +527,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5f4b1d93bb4e",
+      "title": "Levi’s Fits Explained for Anyone Choosing Between Core Fits",
+      "link": "https://www.fashionbeans.com/article/levis-fits-explained/",
+      "summary": "Levi’s jeans are defined by specific rises, thigh widths, and leg shapes, but the numbers on the tag rarely explain how those differences translate in real wear. Two fits can look interchangeable on a product page yet behave very differently once you factor in top-block structure, leg geometry, and fabric choice. This ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Levi’s Fits Explained for Anyone Choosing Between Core Fits...",
+      "score": 1,
+      "published": "2026-10-25T07:41:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d31b1435055b",
       "title": "It’s Officially Freezing—9 Chic Winter Basics That Make Every Outfit Look Instantly More Expensive",
       "link": "https://www.whowhatwear.com/fashion/basics/best-winter-basics-2026",
@@ -454,6 +594,34 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed93ef79aabd",
+      "title": "16 Best Casio Watches For Men: New and Retro Picks for 2026",
+      "link": "https://www.fashionbeans.com/article/best-casio-watches/",
+      "summary": "After originally developing calculators, Casio released its first digital wristwatch in 1974. It was called the Casiotron and was the first of its kind to include an automatic calendar function. Almost five decades later, the innovative label is just as popular as ever. Reliable, tough-as-nails, and rather charming too",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 16 Best Casio Watches For Men: New and Retro Picks for 2026...",
+      "score": 1,
+      "published": "2026-10-25T05:55:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "84d1bbcb80a6",
+      "title": "50 Best British Men’s Clothing Brands 2026",
+      "link": "https://www.fashionbeans.com/article/best-british-menswear-brands/",
+      "summary": "Okay, hands up: we&#8217;re biased. But it&#8217;s no exaggeration to say that British menswear has been a standard-bearer in men&#8217;s fashion for centuries. Its influence is everywhere, from the way clothes are made to how they look and what they&#8217;re worn with. For serious suiting, the well-heeled make the pil",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 50 Best British Men’s Clothing Brands 2026...",
+      "score": 4,
+      "published": "2026-10-25T05:00:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -989,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7ad6017e8977",
-      "title": "Here’s Everything Coming to Netflix in November 2026",
-      "link": "https://www.vogue.com/article/everything-coming-to-netflix-november-2026",
-      "summary": "Season 2 of 'The Hunting Wives' returns to Netflix in November, and we’re also getting Janelle James’s stand-up special and a whole lot of Christmas movies",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Here’s Everything Coming to Netflix in November 2026...",
-      "score": 1,
-      "published": "2026-10-23T20:55:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "996a96de155d",
       "title": "The Jeans Every Stylish Woman Will Wear With Their Favorite Jenni Kayne Sweaters This Winter",
       "link": "https://www.whowhatwear.com/fashion/denim/jenni-kayne-denim-launch-try-on-2026",
@@ -1101,62 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cc75c70f73b2",
-      "title": "Cashmere Season Starts When I Get My Hands On These Under-$150 Sweaters",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/under-150-cashmere-edit-quince",
-      "summary": "My current favorite styles from Quince.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-23T18:32:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d35e2e847a6e",
-      "title": "“It’s Our Epicenter”—Eckhaus Latta Opens a New Store on New York’s Lower East Side",
-      "link": "https://www.vogue.com/article/its-our-epicenter-eckhaus-latta-opens-a-new-store-on-new-yorks-lower-east-side",
-      "summary": "The independent bicoastal brand brings its New York operation—studio, store, archive, and more—all under one roof in downtown New York.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: “It’s Our Epicenter”—Eckhaus Latta Opens a New Store on New York’s Low...",
-      "score": 1,
-      "published": "2026-10-23T18:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f7fff804ec04",
-      "title": "We Already Know the Dress Trends That Will Define 2027",
-      "link": "https://www.whowhatwear.com/fashion/runway/spring-summer-dress-trends-2027",
-      "summary": "These are the styles to know.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-23T18:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1368ab756b02",
-      "title": "Byredo’s Havana Tonka Is a Gourmand With a Dark Side",
-      "link": "https://www.vogue.com/article/byredo-havana-tonka-extrait-de-parfum",
-      "summary": "Introducing Havana Tonka, the latest extrait from Byredo's Night Veils collection. A take on a grown-up gourmand, the scent mingles tonka bean, bergamot, rum, and pink peppercorn to capture the sensuality of the Cuban capital.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Byredo’s Havana Tonka Is a Gourmand With a Dark Side...",
-      "score": 1,
-      "published": "2026-10-23T17:48:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dba232395e99",
       "title": "35 Best Small Gifts for Men That Make a Big Impact in 2026",
       "link": "https://www.fashionbeans.com/article/best-small-gifts-for-men/",
@@ -1171,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-23T17:20:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0c45b5e0a53c",
       "title": "The Hero: Blue Nile Modern Pavé Oval Signet Ring in 14K Yellow Gold With Diamonds",
       "link": "https://www.harpersbazaar.com/fashion/a74040618/the-hero-blue-nile-modern-pave-oval-signet-ring-in-14k-yellow-gold-with-diamonds/",
@@ -1196,34 +1280,6 @@
       "angle": "Fashion Intelligence: The Hero: Blue Nile Modern Pavé Oval Signet Ring in 14K Yellow Gold Wi...",
       "score": 0,
       "published": "2026-10-23T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4de861bd8cee",
-      "title": "I Know My Fashion Friends Will Be Into This New Accessory (I Certainly Want It)",
-      "link": "https://www.whowhatwear.com/fashion/shopping/flaunt-jennifer-fisher",
-      "summary": "Here for this Flaunt x Jennifer Fisher collab.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know My Fashion Friends Will Be Into This New Accessory (I Certainly...",
-      "score": 2,
-      "published": "2026-10-23T16:46:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "49957aa42337",
-      "title": "This Backyard Wedding in Seattle Was Inspired by Ralph Lauren and ’00s Rom-Coms",
-      "link": "https://www.vogue.com/slideshow/sara-walker-and-joe-ratliffe-wedding",
-      "summary": "Stylist Sara Walker married Joe Ratliffe in her parents’ backyard, wearing vintage Vivienne Westwood, bespoke Phillipa Lepley, Emilia Wickstead, and runway Chanel over the course of the weekend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Backyard Wedding in Seattle Was Inspired by Ralph Lauren and ’00s Rom-Coms — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-10-23T16:42:07+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1843,20 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "88b61913ceba",
-      "title": "Quiet Luxury Is Over, Opera Dressing Is the New Fashion Mood",
-      "link": "https://in.apparelresources.com/fashion-news/trends/quiet-luxury-opera-dressing-new-fashion-mood/",
-      "summary": "After years of minimalism and understated luxury, fashion’s mood is turning theatrical. Tassel scarves, fur-trimmed coats, chinoiserie motifs and ornate evening silhouettes are now being worn as if the wearer were on the way to the opera, and a trend once confined to black-tie evenings has moved into everyday dressing.",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Quiet Luxury Is Over, Opera Dressing Is the New Fashion Mood...",
-      "score": 5,
-      "published": "2026-10-22T11:04:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "074a15a94e6c",
       "title": "What To Wear: Best Men’s Christmas Party Outfits for 2026",
       "link": "https://www.fashionbeans.com/article/what-to-wear-christmas-party/",
@@ -2123,48 +2165,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ad22630f3222",
-      "title": "70 Unique Christmas Gifts For Men in 2026",
-      "link": "https://www.fashionbeans.com/article/christmas-gifts-for-men/",
-      "summary": "FYI We’ve freshened up our top 10 picks after diving into the latest must-haves for this holiday season. While the Amazon Echo Speaker still holds the crown as our top overall choice (it’s just that good), we’ve swapped out some of the other options to keep things interesting. These new picks are packed with cool &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 70 Unique Christmas Gifts For Men in 2026...",
-      "score": 1,
-      "published": "2026-10-20T09:30:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b15d76e21f1e",
-      "title": "7 Christmas Party Outfit Fails Every Guy Makes (And the Exact Fixes)",
-      "link": "https://www.fashionbeans.com/article/christmas-party-outfit-mistakes-men/",
-      "summary": "Christmas parties hit men in a strange way. The excitement, the pressure, the “I really hope I don’t embarrass myself in front of people I see every week”… it all mixes together and flips your style instinct upside down. Some guys panic and overdress. Some go too casual. Some lean into novelty. Most of it &#8230; Conti",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 7 Christmas Party Outfit Fails Every Guy Makes (And the Exact Fixes)...",
-      "score": 3,
-      "published": "2026-10-20T08:58:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "af4a8e11eb96",
-      "title": "How To Wear Pinstripe Trousers The Modern Way",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-pinstripe-trousers/",
-      "summary": "If, like everyone else, you have long been confused and frustrated by the smart-casual dress code, base a pair of pinstripe trousers at the core of your wardrobe and you’ll make the job a whole lot easier. The fine-line print hasn’t always been seen as a key piece in a man’s everyday arsenal. For a &#8230; Continue rea",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Pinstripe Trousers The Modern Way...",
-      "score": 2,
-      "published": "2026-10-19T15:01:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2b48036e7be2",
       "title": "Trash and Vaudeville Is Hiring An Assistant Buyer / Retail Manager In New York, NY",
       "link": "https://fashionista.com/2026/10/trash-and-vaudeville-is-hiring-an-assistant-buyer-retail-manager-in-new-york-ny",
@@ -2176,34 +2176,6 @@
       "angle": "Fashion Intelligence: Trash and Vaudeville Is Hiring An Assistant Buyer / Retail Manager In ...",
       "score": 1,
       "published": "2026-10-19T14:10:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f9945cb30ccb",
-      "title": "14 Best Sling Bags For Men: Top Carriers in 2026)",
-      "link": "https://www.fashionbeans.com/article/best-sling-bags-for-men/",
-      "summary": "You know the drill; if you see a men&#8217;s accessory trend on the runway, it&#8217;s coming to every store near you. These days, the best sling bags for men are all the rage. The best sling bags for men pair form with function like no other men&#8217;s accessory (and they actually look cool). It&#8217;s time &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 14 Best Sling Bags For Men: Top Carriers in 2026)...",
-      "score": 3,
-      "published": "2026-10-19T13:29:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0708affb9255",
-      "title": "How To Wear Wide-Leg Pants And Look Good Doing It",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-wide-leg-pants-trousers/",
-      "summary": "It’s not hard to remember a time when wide-leg trousers were considered one of those beyond-the-pale pieces that fashion designers periodically tried to foist on sceptical menfolk, perhaps out of boredom, or “for banter”. Sure, wide-leg trousers made an impact on the runway. Okay, so they created a striking silhouette.",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: How To Wear Wide-Leg Pants And Look Good Doing It...",
-      "score": 4,
-      "published": "2026-10-19T11:03:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2881,52 +2853,52 @@
   ],
   "trends": [
     {
-      "term": "storm boelo weather warnings",
+      "term": "हिन्दुस्तान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఈనాడు",
+      "term": "লক্ষ্মী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അനുശ്രീ",
+      "term": "isro",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "26 अक्टूबर 2026 का राशिफल",
+      "term": "வழக்கு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "namo ghat helipad security breach",
+      "term": "अरुणाचल प्रदेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "acquitted",
+      "term": "महंगाई भत्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india new zealand live cricket match",
+      "term": "திருமணம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बाघ",
+      "term": "সোনা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "driving licence",
+      "term": "pension",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "net",
+      "term": "माही विज",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
