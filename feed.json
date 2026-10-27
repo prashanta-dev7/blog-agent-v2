@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T07:13:57.756732+00:00",
+  "generated_at": "2026-10-27T10:13:49.242743+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 178,
+  "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,133 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Naeem Khan Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-27T07:11:32+00:00",
+      "published": "2026-10-27T10:08:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7118b346021b",
+      "title": "10 Serene Remote Vacation Rentals Across the Country, for Your Next Weekend Away",
+      "link": "https://www.vogue.com/article/best-remote-vacation-rental-homes",
+      "summary": "Craving some time off the grid? Book a remote vacation rental and enjoy some R&amp;R—from the Berkshires to Joshua Tree, here are 10 stylish homes we've bookmarked.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Serene Remote Vacation Rentals Across the Country, for Your Next We...",
+      "score": 0,
+      "published": "2026-10-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1bc765dcdd4d",
+      "title": "On the Podcast: Inside Chloe and Chioma’s November Issues",
+      "link": "https://www.vogue.com/article/on-the-podcast-inside-chloe-and-chiomas-november-issues",
+      "summary": "Last week, Chloe and Chioma reunited in the New York studio for a special taping of “The Run-Through” focused on their respective November issues.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On the Podcast: Inside Chloe and Chioma’s November Issues...",
+      "score": 0,
+      "published": "2026-10-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "286b91fd0443",
+      "title": "Coach Handbags 101: A Guide to Shopping Timeless Bags, From the Empire Carryall to the Kisslock",
+      "link": "https://www.vogue.com/article/coach-handbags",
+      "summary": "Everything you need to know about Coach’s bags before you purchase one",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Coach Handbags 101: A Guide to Shopping Timeless Bags, From the Empire...",
+      "score": 0,
+      "published": "2026-10-27T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "04f49fc74baf",
+      "title": "It’s Already Winter at Zara—15 Exceptionally Chic Cold-Weather Buys That Have My Full Attention",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-winter-buys-2026",
+      "summary": "From sumptuous outerwear and polished knitwear to excellent denim and elevated basics, these are the Zara buys defining my winter 2026 wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It’s Already Winter at Zara—15 Exceptionally Chic Cold-Weather Buys Th...",
+      "score": 1,
+      "published": "2026-10-27T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c72e881cb41",
+      "title": "Dove Cameron on Wedding Skin Prep, Red Light Therapy, and Being a \"Familiar Friend\" to Change",
+      "link": "https://www.whowhatwear.com/beauty/skin/dove-cameron-beauty-interview",
+      "summary": "Read our exclusive interview.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Dove Cameron on Wedding Skin Prep, Red Light Therapy, and Being a \"Familiar Friend\" to Change — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-10-27T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "49a6d7faeae4",
+      "title": "The Trimmed Skirt Takes Centre Stage",
+      "link": "https://in.apparelresources.com/fashion-news/trends/trimmed-skirt-takes-centre-stage/",
+      "summary": "Ruching, lace, pearls and fringe are turning the everyday skirt into the hero of the winter outfit. What the trend looks like globally, and the Indian labels already selling it. The skirt is getting a quiet makeover this winter, and the details are doing the work. The template is a lingerie-inspired skirt with a ruched",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Trimmed Skirt Takes Centre Stage...",
+      "score": 3,
+      "published": "2026-10-27T07:40:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb514e9709a1",
+      "title": "India May Extend Duty-Free Cotton Imports as Output Falls 12-18%",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/india-may-extend-duty-free-cotton-imports-output-falls-12-18/",
+      "summary": "India is expected to extend its duty-free cotton import window by two months, until December 31, as domestic cotton production is projected to decline by 12-18% in the 2026-27 season, which began in October. The move could ease raw material costs for textile mills and help stabilise domestic cotton prices, according to",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: India May Extend Duty-Free Cotton Imports as Output Falls 12-18%...",
+      "score": 1,
+      "published": "2026-10-27T07:34:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a1651ebe1f0a",
+      "title": "Theni Jailbreak: 17 Inmates Escape After Faking Illness, Four Caught as Manhunt Launched Across TN",
+      "link": "https://www.indiatoday.in/india/video/theni-jailbreak-17-inmates-escape-after-faking-illness-four-caught-as-manhunt-launched-across-tn-ytvd-3025915-2026-10-27?utm_source=rss",
+      "summary": "Theni Jailbreak: 17 Inmates Escape After Faking Illness, Four Caught as Manhunt Launched Across TN",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-10-27T07:22:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5f5517e4a514",
+      "title": "Skirts Are Chic, But Looking Sleek This Winter Comes Down to These Trouser Trends",
+      "link": "https://www.whowhatwear.com/fashion/trends/winter-trouser-trends-2026",
+      "summary": "Are you ready to look *this* polished?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-27T07:15:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -37,17 +163,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c252d7dd6b8",
-      "title": "VHP Slams INDIA Bloc Rally, Cites Diwali Impact And Hit On Festive Economy",
-      "link": "https://www.indiatoday.in/india/video/vhp-slams-india-bloc-rally-cites-diwali-impact-and-hit-on-festive-economy-ytvd-3025849-2026-10-27?utm_source=rss",
-      "summary": "VHP Slams INDIA Bloc Rally, Cites Diwali Impact And Hit On Festive Economy",
-      "source": "India Today Fashion",
+      "id": "37d3709961ed",
+      "title": "Why Black and Brown Finally Work Is Lighter and More Consumer-Facing",
+      "link": "https://in.apparelresources.com/fashion-news/trends/why-black-and-brown-finally-work-is-lighter-and-more-consumer-facing/",
+      "summary": "Once dismissed as a styling mistake, black and brown together is now a winter staple across womenswear and menswear, from Paris runways to Indian shop floors. What brands are doing, and who to watch. For decades, the advice was simple: don’t wear black with brown. This winter, the industry has quietly retired the rule.",
+      "source": "Apparel Resources India",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-10-27T06:07:04+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Black and Brown Finally Work Is Lighter and More Consumer-Facing...",
+      "score": 4,
+      "published": "2026-10-27T07:01:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -90,34 +216,6 @@
       "angle": "Fashion Intelligence: Beauty on the Move: The New Era of Travel Retail...",
       "score": 2,
       "published": "2026-10-27T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e2b27ed043da",
-      "title": "Delhi Traders Urge Deferral Of November 1 Ramlila Maidan Rally Citing Festive Season",
-      "link": "https://www.indiatoday.in/india/video/delhi-traders-urge-deferral-of-november-1-ramlila-maidan-rally-citing-festive-season-ytvd-3025801-2026-10-27?utm_source=rss",
-      "summary": "Delhi Traders Urge Deferral Of November 1 Ramlila Maidan Rally Citing Festive Season",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-27T04:53:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "19c11e8e8c5a",
-      "title": "Massive Jailbreak in Theni: 17 Inmates Escape, Manhunt Launched, Opposition Attacks Vijay Government",
-      "link": "https://www.indiatoday.in/india/video/massive-jailbreak-in-theni-17-inmates-escape-manhunt-launched-opposition-attacks-vijay-government-ytvd-3025796-2026-10-27?utm_source=rss",
-      "summary": "Massive Jailbreak in Theni: 17 Inmates Escape, Manhunt Launched, Opposition Attacks Vijay Government",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-27T04:43:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -681,6 +779,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6e587cfac5d2",
+      "title": "8 Fragrances Worn By The World’s Most Stylish Men",
+      "link": "https://www.fashionbeans.com/article/celebrity-mens-fragrances/",
+      "summary": "Having already read the FashionBeans guides to dressing for your body shape, nailing smart-casual and picking the right tie to wear with your shirt — you have read them, right? — it’s likely you’ve already got your appearance pretty down pat. But it’ll all be for naught if you don’t smell good. “Manners and a &#8230; C",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Fragrances Worn By The World’s Most Stylish Men...",
+      "score": 3,
+      "published": "2026-10-26T10:19:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "90aeea06cf66",
       "title": "Fashion Brands Need the Right Channels, Not More of Them",
       "link": "https://in.apparelresources.com/business-news/retail/fashion-brands-need-right-channels-not/",
@@ -695,16 +807,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8c8f2703a42a",
-      "title": "How to Style Bootcut Jeans in 2026",
-      "link": "https://www.vogue.com/article/how-to-style-bootcut-jeans",
-      "summary": "Effortless and leg-elongating, bootcut jeans may be one of the most wearable denim shapes of 2026—consider this your guide on how to style bootcut jeans.",
+      "id": "fdfae1f4f96f",
+      "title": "Grandexport Is the Berlin Fashion Export You Should Know",
+      "link": "https://www.vogue.com/article/grand-export-is-the-berlin-fashion-export-you-should-know",
+      "summary": "Grandexport’s Paulina Munzing and Gent Berbatovci specialize in upcycling, deadstock, and leather.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Style Bootcut Jeans in 2026...",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Grandexport Is the Berlin Fashion Export You Should Know...",
+      "score": 1,
       "published": "2026-10-26T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -723,20 +835,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fdfae1f4f96f",
-      "title": "Grandexport Is the Berlin Fashion Export You Should Know",
-      "link": "https://www.vogue.com/article/grand-export-is-the-berlin-fashion-export-you-should-know",
-      "summary": "Grandexport’s Paulina Munzing and Gent Berbatovci specialize in upcycling, deadstock, and leather.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Grandexport Is the Berlin Fashion Export You Should Know...",
-      "score": 1,
-      "published": "2026-10-26T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "46f408164fd9",
       "title": "Minotaurs, Mutants, and Wicker Husbands: In Monster Romances, Women Lust After Everything But Human Men",
       "link": "https://www.vogue.com/article/in-monster-romances-women-are-lusting-after-everything-but-men",
@@ -747,6 +845,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Minotaurs, Mutants, and Wicker Husbands: In Monster Romances, Women Lu...",
       "score": 0,
+      "published": "2026-10-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8c8f2703a42a",
+      "title": "How to Style Bootcut Jeans in 2026",
+      "link": "https://www.vogue.com/article/how-to-style-bootcut-jeans",
+      "summary": "Effortless and leg-elongating, bootcut jeans may be one of the most wearable denim shapes of 2026—consider this your guide on how to style bootcut jeans.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Style Bootcut Jeans in 2026...",
+      "score": 2,
       "published": "2026-10-26T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,6 +975,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f8a80ed62216",
+      "title": "The Best Sneaker Brands You’ve Never Heard Of",
+      "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
+      "summary": "Wherever you are right now, take a quick look around at people’s footwear. What brands are they wearing? Chances are, the results of your visual sneaker survey will look a little something like this: Adidas, Nike, Converse, New Balance, Nike, maybe a bit of Reebok if you’re lucky, Adidas, Nike, Nike. No matter how clas",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Sneaker Brands You’ve Never Heard Of...",
+      "score": 2,
+      "published": "2026-10-26T06:45:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9cea432fe226",
+      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
+      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
+      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
+      "score": 2,
+      "published": "2026-10-26T06:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d3ab7114c4f6",
       "title": "Loro Piana Goes on a Scenic Escape for the Holidays",
       "link": "https://www.fashiongonerogue.com/story/loro-piana-holiday-2026-campaign/",
@@ -877,17 +1017,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "478a49778679",
-      "title": "The Editors’ Table: New York",
-      "link": "https://www.vogue.com/article/the-editors-table-new-york-sept-2026",
-      "summary": "Join Vogue Business editors on 17 November for an exclusive evening designed to connect and celebrate our community of founders and innovators.",
-      "source": "Vogue US",
+      "id": "b982d60bd990",
+      "title": "30 Best Streetwear Brands: Our Top Picks In 2026",
+      "link": "https://www.fashionbeans.com/article/best-streetwear-brands/",
+      "summary": "The term &#8216;streetwear&#8216; once had a straightforward definition, referring to an unflattering style characterized by graphic T-shirts, baggy attire, and sneakers. However, defining the best streetwear brands in today&#8217;s fashion landscape has become more complex. This complexity arises as streetwear has tra",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Editors’ Table: New York...",
-      "score": 0,
-      "published": "2026-10-26T06:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 30 Best Streetwear Brands: Our Top Picks In 2026...",
+      "score": 4,
+      "published": "2026-10-26T06:00:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -900,6 +1040,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Join The Waitlist | Vogue Business Global Summit: New York...",
+      "score": 0,
+      "published": "2026-10-26T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "478a49778679",
+      "title": "The Editors’ Table: New York",
+      "link": "https://www.vogue.com/article/the-editors-table-new-york-sept-2026",
+      "summary": "Join Vogue Business editors on 17 November for an exclusive evening designed to connect and celebrate our community of founders and innovators.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Editors’ Table: New York...",
       "score": 0,
       "published": "2026-10-26T06:00:00+00:00",
       "discovered_via": "feed"
@@ -986,48 +1140,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-10-25T18:35:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "05ae16a8dc79",
-      "title": "11 Foods to Increase Your Ferritin Levels",
-      "link": "https://www.vogue.com/article/best-foods-with-ferritin",
-      "summary": "The best foods to help increase your ferritin levels are foods that are rich in iron. Here, the experts break down everything you need to know.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 11 Foods to Increase Your Ferritin Levels...",
-      "score": 0,
-      "published": "2026-10-25T18:19:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5feb1d46acc5",
-      "title": "The Best Dressed Stars of the Week Chose Skin-Flashing Silhouettes",
-      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-rosalia-jenna-ortega-naomi-ackie",
-      "summary": "From Rosalía to Jenna Ortega, the best red carpet looks of the week had a sexy slant—thanks to cut-outs and sheer fabrics.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Chose Skin-Flashing Silhouettes...",
-      "score": 1,
-      "published": "2026-10-25T17:22:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-10-25T17:18:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1213,20 +1325,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "baeb53ea5b70",
-      "title": "Kristen Bell Has One of L.A.'s Best Wardrobes—These Are the 3 Autumn Trends She Keeps Coming Back To",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kristen-bell-autumn-capsule-wardrobe-2026",
-      "summary": "Actually, everybody wants this.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d31b1435055b",
       "title": "It’s Officially Freezing—9 Chic Winter Basics That Make Every Outfit Look Instantly More Expensive",
       "link": "https://www.whowhatwear.com/fashion/basics/best-winter-basics-2026",
@@ -1251,6 +1349,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-10-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "baeb53ea5b70",
+      "title": "Kristen Bell Has One of L.A.'s Best Wardrobes—These Are the 3 Autumn Trends She Keeps Coming Back To",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kristen-bell-autumn-capsule-wardrobe-2026",
+      "summary": "Actually, everybody wants this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-10-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1465,62 +1577,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "acdf19295f87",
-      "title": "Taylor Swift Just Wore the Jewelry Trend That Symbolizes Wealth, Power, and Protection",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/taylor-swift-ruby-ring",
-      "summary": "Hint: It's not opalite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-24T08:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "89a7ab6b9223",
-      "title": "The Exact Denim Trend to Wear With Leather Jackets This Fall, According to Alessandra Ambrosio",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/alessandra-ambrosio-favorite-jeans",
-      "summary": "Off-duty style done right.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-24T08:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "89ee16222425",
-      "title": "The Verdict Is In: These Are the Chicest Quiet Luxury Bags Defining Winter 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-quiet-luxury-winter-bags",
-      "summary": "Expensive-looking and elegant.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Verdict Is In: These Are the Chicest Quiet Luxury Bags Defining Wi...",
-      "score": 1,
-      "published": "2026-10-24T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "05383b026ffa",
-      "title": "When the Chicest Over-50s Travel in Track Pants, They Wear Them With This Cool Shoe",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/track-pants-red-trainers-airport-outfit-naomi-watts-2026",
-      "summary": "An instant upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: When the Chicest Over-50s Travel in Track Pants, They Wear Them With T...",
-      "score": 1,
-      "published": "2026-10-24T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "22a564c40f6e",
       "title": "Check Off a Bucket List Item. See the Pyramids.",
       "link": "https://www.harpersbazaar.com/culture/travel-dining/a74233372/egypt-obsessions/",
@@ -1731,20 +1787,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "95956dd754d0",
-      "title": "AAPE by A Bathing Ape Enters India with First Store in New Delhi",
-      "link": "https://in.apparelresources.com/business-news/retail/aape-bathing-ape-enters-india-first-store-new-delhi/",
-      "summary": "Japanese streetwear brand AAPE BY A BATHING APE has entered the Indian market with its first standalone store at Ambience Mall, Vasant Kunj, New Delhi. The brand plans to expand into other major Indian cities over the next three years. The store features AAPE’s Fall/Winter 2026 collection of men’s and women’s apparel a",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: AAPE by A Bathing Ape Enters India with First Store in New Delhi...",
-      "score": 3,
-      "published": "2026-10-23T13:08:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7c5ef430e394",
       "title": "Gap and Victoria Beckham Reunite for a Second Collection",
       "link": "https://www.harpersbazaar.com/fashion/trends/a74192311/gap-victoria-beckham-collaboration-second-collection-announcement/",
@@ -1773,20 +1815,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "845f54b0f426",
-      "title": "NEWME Opens Four Stores, Targets 60 Outlets by March 2027",
-      "link": "https://in.apparelresources.com/business-news/retail/newme-opens-four-stores-targets-60-outlets-march-2027/",
-      "summary": "NEWME, a Gen Z-focused fashion brand, has expanded its offline retail presence with four new stores in Agartala, Raipur, Jaipur and Hyderabad during this Navratri festive period. The openings mark the brand’s entry into Agartala and Raipur, its fourth outlet in Jaipur and its second store in Hyderabad. With these addit",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: NEWME Opens Four Stores, Targets 60 Outlets by March 2027...",
-      "score": 3,
-      "published": "2026-10-23T12:04:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1482520bc1e3",
       "title": "Hailey Bieber Brings Calzedonia Lace to the Front",
       "link": "https://www.fashiongonerogue.com/story/hailey-bieber-calzedonia-lace/",
@@ -1812,20 +1840,6 @@
       "angle": "Fashion Intelligence: 30 Best Gifts for History Lovers in 2026...",
       "score": 1,
       "published": "2026-10-23T11:05:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7d4fdf7806f1",
-      "title": "United Colors of Benetton Adds Five Stores in Three States in a Same Day",
-      "link": "https://in.apparelresources.com/business-news/retail/united-colors-benetton-adds-five-stores-three-states-day/",
-      "summary": "Italian global fashion brand United Colors of Benetton (UCB), owned by Benetton Group, has opened five stores in a single day across Rajasthan, Bihar and Chhattisgarh, expanding its retail presence in India. The new outlets include two stores at Pacific Mall in Jaipur, catering separately to adults and children, along ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: United Colors of Benetton Adds Five Stores in Three States in a Same D...",
-      "score": 2,
-      "published": "2026-10-23T09:25:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2036,34 +2050,6 @@
       "angle": "Fashion Intelligence: Maike Inga Lounges in Style for Vanity Fair Italy...",
       "score": 1,
       "published": "2026-10-22T11:23:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "074a15a94e6c",
-      "title": "What To Wear: Best Men’s Christmas Party Outfits for 2026",
-      "link": "https://www.fashionbeans.com/article/what-to-wear-christmas-party/",
-      "summary": "FYI Following our recent review, our advice remains as timeless as ever. The midnight blue velvet blazer still leads the pack for formal wear, blending sophistication with festive style. We&#8217;ve also updated our accessory suggestions, recommending bold checks in red or green for scarves and pocket squares to enhanc",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: What To Wear: Best Men’s Christmas Party Outfits for 2026...",
-      "score": 5,
-      "published": "2026-10-22T09:00:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9a8f87d4b902",
-      "title": "Best Christmas Fragrances for Men: A Gift Guide for 2026",
-      "link": "https://www.fashionbeans.com/article/christmas-mens-fragrances-guide/",
-      "summary": "FYI In this latest revision, we’ve refined our recommendations by adding a few new fragrances to the lineup to help you find the perfect scent for any occasion. We&#8217;ve introduced Tom Ford Tuscan Leather for its luxurious and bold profile, ideal for making a lasting impression. Dolce &#38; Gabbana The One EDP also ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Best Christmas Fragrances for Men: A Gift Guide for 2026...",
-      "score": 1,
-      "published": "2026-10-22T08:00:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2811,52 +2797,52 @@
   ],
   "trends": [
     {
-      "term": "tim seifert",
+      "term": "పంట",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "புயல்",
+      "term": "ఫిన్ అలెన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "live tv",
+      "term": "அபிசேக் சர்மா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వధువు",
+      "term": "high court of bombay",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nam vs ire",
+      "term": "અભિષેક શર્મા",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "crypto exchange binance",
+      "term": "कर्जमाफी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "करवा चौथ",
+      "term": "ఎయిర్ ఇండియా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "நியூசிலாந்து தேசிய கிரிக்கெட் அணி - இந்தியா தேசிய கிரிக்கெட் அணி போட்டியின் ஸ்கோர்கார்டு",
+      "term": "ind vs eng",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "न्यूज़ीलैंड क्रिकेट टीम बनाम भारतीय क्रिकेट टीम के मैच का स्कोरकार्ड",
+      "term": "more",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "काइल जैमीसन",
+      "term": "मृणाल जाधव",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
