@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-28T07:52:47.142857+00:00",
+  "generated_at": "2026-10-28T10:59:27.351248+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 172,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b9655f7f714e",
+      "title": "3 women pose as buyers, steal gold jewellery worth Rs 45 lakh in Madhya Pradesh",
+      "link": "https://www.indiatoday.in/india/madhya-pradesh/story/madhya-pradesh-burhanpur-jewellery-theft-three-women-steal-rs-45-lakh-gold-3026845-2026-10-28?utm_source=rss",
+      "summary": "3 women pose as buyers, steal gold jewellery worth Rs 45 lakh in Madhya Pradesh",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 3 women pose as buyers, steal gold jewellery worth Rs 45 lakh in Madhy...",
+      "score": 1,
+      "published": "2026-10-28T10:57:11+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "077885374e34",
       "title": "Vivienne Westwood Spring 2027 Ready-to-Wear",
@@ -19,7 +33,161 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Vivienne Westwood Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-10-28T07:47:41+00:00",
+      "published": "2026-10-28T10:55:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a000d6fcea9",
+      "title": "Not Leather, Not Suede—This Flat Shoe Trend Makes Denim Look Even More Sophisticated",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-mules-jeans-outfit-elsa-hosk-2026",
+      "summary": "Supremely chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-10-28T10:52:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "886ee95e14b7",
+      "title": "Pioneer Embroideries Is Sharpening Its Focus on Quality and Compliance",
+      "link": "https://in.apparelresources.com/fashion-news/pioneer-embroideries-sharpening-focus-quality-compliance/",
+      "summary": "Embroidery has always been about detail. But as customer demands rise, manufacturers are being pushed to deliver greater precision, consistency and design flexibility, while meeting higher standards on sustainability and compliance. For Pioneer Embroideries, these changes are shaping both how it operates and where it s",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Pioneer Embroideries Is Sharpening Its Focus on Quality and Compliance...",
+      "score": 1,
+      "published": "2026-10-28T10:28:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "69930ffb6753",
+      "title": "The 10 Best Airbnbs in the Dolomites for Your Cozy Alpine Vacation",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-the-dolomites",
+      "summary": "Heading to the Italian Alps this winter? Book a stay in one of the best Airbnbs in the Dolomites to set the scene for your cozy holiday.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: The 10 Best Airbnbs in the Dolomites for Your Cozy Alpine Vacation...",
+      "score": 0,
+      "published": "2026-10-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5f7b5f7f8b84",
+      "title": "Princess Leonor: The Young Spanish Royal Offering a Lesson in Fall Style",
+      "link": "https://www.vogue.com/article/princess-leonor-spanish-royal-style",
+      "summary": "Future queen of Spain Princess Leonor is taking a few style cues from her mother, Queen Letizia, while making a case for a fresh and modern royal wardrobe.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Princess Leonor: The Young Spanish Royal Offering a Lesson in Fall Sty...",
+      "score": 1,
+      "published": "2026-10-28T09:50:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2e4e4567c1a6",
+      "title": "What Does It Take to Build a Profitable Fashion Store?",
+      "link": "https://in.apparelresources.com/business-news/retail/take-build-profitable-fashion-store/",
+      "summary": "Opening a fashion store involves considerable upfront investment in interiors, inventory, rentals, manpower, marketing and other operating expenses. With these costs rising and consumers having more choices, retailers need to be more disciplined about how quickly a new outlet is expected to become profitable. But store",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Does It Take to Build a Profitable Fashion Store?...",
+      "score": 1,
+      "published": "2026-10-28T09:34:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a09aa5bb08a8",
+      "title": "Lucky Brand Enters India Through Confluxe",
+      "link": "https://in.apparelresources.com/business-news/retail/lucky-brand-enters-india-confluxe/",
+      "summary": "American denim and lifestyle brand Lucky Brand has entered the Indian market through Confluxe, a Bengaluru-based, tech-led omnichannel retail platform, marking the latter’s second brand launch in the country. The development was announced on LinkedIn by Louis Coucke, Co-Founder of Confluxe. For the Indian market, the b",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Lucky Brand Enters India Through Confluxe...",
+      "score": 3,
+      "published": "2026-10-28T09:21:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7f2de34a7cdc",
+      "title": "I've Found It—This Is the Rich-Looking, Minimalist Handbag I’ll Be Wearing All Winter",
+      "link": "https://www.whowhatwear.com/fashion/shopping/mansur-gavriel-cabas-bag",
+      "summary": "The perfect accessory.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-28T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ffecfcbb04d9",
+      "title": "Kim Kardashian Is Nothing if Not Committed to a Cutout",
+      "link": "https://www.vogue.com/article/kim-kardashian-is-nothing-if-not-committed-to-a-cutout",
+      "summary": "From Rome to Mexico City, “All’s Fair” star Kim Kardashian is showing some serious skin, and proving that some style signatures are nonnegotiable.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Kim Kardashian Is Nothing if Not Committed to a Cutout...",
+      "score": 2,
+      "published": "2026-10-28T08:59:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b716d444d01",
+      "title": "I Asked My French Friend for Chic Winter Shoe Ideas—6 Trends She Said Every Parisian Is Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shoes/french-girl-winter-shoe-trends-2026",
+      "summary": "When in Paris.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-28T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e8f90031f2b8",
+      "title": "The Fall '26 Trend That Makes Every Outfit Look Expensive",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-texture-trend-fall-2026",
+      "summary": "Starting at just $100.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-28T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "008bc4eb64fd",
+      "title": "One-Stop Shop: 7 Easy Fall Outfits You Can Build Entirely From Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fall-nordstrom-outfit-ideas-2026",
+      "summary": "Add these to your rotation.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: One-Stop Shop: 7 Easy Fall Outfits You Can Build Entirely From Nordstr...",
+      "score": 1,
+      "published": "2026-10-28T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -653,20 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d0ad79231eb4",
-      "title": "9 Death-Inspired Runway Collections to Get You in the Halloween Spirit",
-      "link": "https://www.vogue.com/article/death-inspired-runway-fashion",
-      "summary": "From gothic glamour to haunting runway moments, explore nine death-inspired fashion collections from Alexander McQueen, Gucci, and more this Halloween.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 3,
-      "published": "2026-10-27T15:03:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "66691608288b",
       "title": "Revisiting Chanel’s Most Iconic Runway Shows",
       "link": "https://www.harpersbazaar.com/fashion/a74252696/chanel-shows-rizzoli-coffee-table-book-evolution/",
@@ -723,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fd8b16757021",
-      "title": "Taylor Swift Makes History (Again) In an Autumnal Red Carpet Look",
-      "link": "https://www.vogue.com/article/taylor-swift-nashville-songwriters-hall-of-fame",
-      "summary": "Swift made history as the youngest artist to be inducted into the Nashville Songwriters Hall of Fame last night, and her chosen look was textbook early Taylor.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 0,
-      "published": "2026-10-27T14:08:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e433e6e62ab5",
       "title": "Lamine Yamal Trades His Spain Jersey for a Chanel Suit With a Blooming Brooch",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74259890/lamine-yamal-chanel-suit-flower-brooch-ballon-dor-ceremony-2026-red-csrpet-photos/",
@@ -748,20 +888,6 @@
       "angle": "Fashion Intelligence: Lamine Yamal Trades His Spain Jersey for a Chanel Suit With a Blooming...",
       "score": 0,
       "published": "2026-10-27T14:00:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "832ba8dea120",
-      "title": "The Girls’ Trip Just Got Wilder: Women Are Swapping Friendship Apps for Adventure Holidays",
-      "link": "https://www.vogue.com/article/girls-trip-adventure-vacations",
-      "summary": "Writer Chloe Frost-Smith investigates the booming growth of women’s group adventure trips—and why they’re especially popular for travelers arriving solo.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 0,
-      "published": "2026-10-27T14:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -891,6 +1017,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "63424400b886",
+      "title": "10 Best Untucked Shirts For Men – All Styles For 2026",
+      "link": "https://www.fashionbeans.com/article/best-untucked-shirts/",
+      "summary": "Spoiler alert: shirts can be left untucked. Some are designed to hang free, while others just look better that way. Your dad may not have received the memo, but since when did you start listening to anything he said? If you’re the kind of guy that likes a little fabric around his tooshie, then the &#8230; Continue read",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 10 Best Untucked Shirts For Men – All Styles For 2026...",
+      "score": 1,
+      "published": "2026-10-27T12:27:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "059dd634fb3c",
       "title": "2027's Biggest Top Trend Isn't Even a Top at All",
       "link": "https://www.whowhatwear.com/fashion/runway/bra-styling-runway-trend-spring-2027",
@@ -989,6 +1129,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "712356e6ceb5",
+      "title": "Cocktail Attire For Men: Dress Code Style Guide 2026",
+      "link": "https://www.fashionbeans.com/article/mens-cocktail-attire-dress-code/",
+      "summary": "How do you define cocktail attire? Like many of the puzzling dress codes that crop up on fancy invitations now and again, the barometers are not immediately clear – at least, that is, for men. This is one of the (very) few occasions in life when women have it easier. There&#8217;s even a book on &#8230; Continue readin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-27T09:00:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9163559cb43e",
       "title": "The 16 Best Minimalist Trainer Brands",
       "link": "https://www.fashionbeans.com/article/the-best-minimalist-trainer-brands/",
@@ -1040,6 +1194,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: 55 Funny Bumble Bios for Men That Actually Stand Out in 2026...",
+      "score": 1,
+      "published": "2026-10-27T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c9cf9e0da3b",
+      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
+      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
+      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
       "score": 1,
       "published": "2026-10-27T09:00:00+00:00",
       "discovered_via": "feed"
@@ -1112,20 +1280,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-10-27T07:09:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "37d3709961ed",
-      "title": "Why Black and Brown Finally Work Is Lighter and More Consumer-Facing",
-      "link": "https://in.apparelresources.com/fashion-news/trends/why-black-and-brown-finally-work-is-lighter-and-more-consumer-facing/",
-      "summary": "Once dismissed as a styling mistake, black and brown together is now a winter staple across womenswear and menswear, from Paris runways to Indian shop floors. What brands are doing, and who to watch. For decades, the advice was simple: don’t wear black with brown. This winter, the industry has quietly retired the rule.",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why Black and Brown Finally Work Is Lighter and More Consumer-Facing...",
-      "score": 4,
-      "published": "2026-10-27T07:01:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1423,20 +1577,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "92cdb9a67297",
-      "title": "Myntra’s Big Fashion Festival Sees Nearly Double Orders for D2C Brands and FWD",
-      "link": "https://in.apparelresources.com/business-news/retail/myntras-big-fashion-festival-sees-nearly-double-orders-d2c-brands-fwd/",
-      "summary": "Myntra’s Big Fashion Festival (BFF) recorded nearly double the order volume of regular business days for direct-to-consumer (D2C) brands, international labels and its Gen Z-focused fashion platform FWD, according to the company. The event also expanded the reach of emerging brands, with visits increasing 25% compared w",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Myntra’s Big Fashion Festival Sees Nearly Double Orders for D2C Brands...",
-      "score": 3,
-      "published": "2026-10-26T13:31:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8f8806ec4818",
       "title": "A New Book Compiles the Collective History of The Studio Museum in Harlem",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a74207392/studio-museum-harlem-history-book/",
@@ -1591,48 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a139135193cb",
-      "title": "Banana Republic x Zankov Just Launched, and It's What Knitwear Dreams Are Made Of",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/banana-republic-zankov-knitwear-collaboration-october-2026",
-      "summary": "Shop these stunning pieces before they sell out.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-10-26T07:32:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ece739f6484",
-      "title": "We're Officially in an \"Anti-Trousers\" Autumn—6 Runway Trends Tempting Us Away from Jeans and Wide-Legs",
-      "link": "https://www.whowhatwear.com/fashion/trends/anti-trouser-trends-2026",
-      "summary": "Could it be?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-26T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4dc4bf3ab078",
-      "title": "Sorry, Black—Fashion's \"Tackiest\" Colour Is Suddenly Everywhere This Winter",
-      "link": "https://www.whowhatwear.com/gold-colour-trend-winter-2026",
-      "summary": "All that glitters is gold.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sorry, Black—Fashion's \"Tackiest\" Colour Is Suddenly Everywhere This W...",
-      "score": 1,
-      "published": "2026-10-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f8a80ed62216",
       "title": "The Best Sneaker Brands You’ve Never Heard Of",
       "link": "https://www.fashionbeans.com/article/best-sneaker-brands-youve-never-heard-of/",
@@ -1647,20 +1745,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9cea432fe226",
-      "title": "21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026",
-      "link": "https://www.fashionbeans.com/article/cross-body-bags/",
-      "summary": "Picture this: a baseball cap sits above an oversized graphic tee, which has been tucked messily into the waistband of a pair of loose-fitting, stonewash jeans. Below these are a pair of tightly-laced, bulky trainers; the sort your secondary school gym teacher used to wear morning, noon and night. And, to top it all off",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 21 Best Men’s Cross-Body Bags: Styles For All Budgets 2026...",
-      "score": 2,
-      "published": "2026-10-26T06:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d3ab7114c4f6",
       "title": "Loro Piana Goes on a Scenic Escape for the Holidays",
       "link": "https://www.fashiongonerogue.com/story/loro-piana-holiday-2026-campaign/",
@@ -1672,34 +1756,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 1,
       "published": "2026-10-26T06:28:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b982d60bd990",
-      "title": "30 Best Streetwear Brands: Our Top Picks In 2026",
-      "link": "https://www.fashionbeans.com/article/best-streetwear-brands/",
-      "summary": "The term &#8216;streetwear&#8216; once had a straightforward definition, referring to an unflattering style characterized by graphic T-shirts, baggy attire, and sneakers. However, defining the best streetwear brands in today&#8217;s fashion landscape has become more complex. This complexity arises as streetwear has tra",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 30 Best Streetwear Brands: Our Top Picks In 2026...",
-      "score": 4,
-      "published": "2026-10-26T06:00:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "05e432a92a8d",
-      "title": "25 Best Luxury Watches For Men: Show Up In Style 2026",
-      "link": "https://www.fashionbeans.com/article/luxury-watches-brands/",
-      "summary": "Perhaps no area of bodily real estate is more valuable—and more overlooked—than your wrist. It may feel like no one’s looking, but that couldn’t be further from the truth. Your choice to drape a fine watch over your wrist as opposed to a lesser object speaks directly to your appreciation of the exceptional. If this &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 25 Best Luxury Watches For Men: Show Up In Style 2026...",
-      "score": 3,
-      "published": "2026-10-26T04:00:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2613,6 +2669,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ed3e2840ad4f",
+      "title": "5 Top Indian Designer Stores in Kolkata for Bridal and Wedding Shopping",
+      "link": "https://www.azafashions.com/blog/indian-designer-stores-in-kolkata/?utm_source=rss&utm_medium=rss&utm_campaign=indian-designer-stores-in-kolkata",
+      "summary": "Kolkata holds a legendary spot in Indian fashion. The city blends rich textile heritage, masterful hand embroidery, and modern design sensibilities seamlessly. Whether you want a grand royal lehenga, a&#8230; The post 5 Top Indian Designer Stores in Kolkata for Bridal and Wedding Shopping appeared first on Aza Editoria",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 5 Top Indian Designer Stores in Kolkata for Bridal and Wedding Shopping — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-10-28T10:17:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5e4c0d370f8c",
       "title": "The Art of Accessorising Your Diwali Lehenga",
       "link": "https://www.azafashions.com/blog/accessorising-diwali-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=accessorising-diwali-lehenga",
@@ -2737,70 +2807,56 @@
       "score": 1,
       "published": "2026-10-16T13:59:50+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "549866915feb",
-      "title": "Newlywed Diwali Outfit Ideas for Your First Festive Season Together",
-      "link": "https://www.azafashions.com/blog/diwali-outfit-ideas-for-newlyweds/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-outfit-ideas-for-newlyweds",
-      "summary": "Your first Diwali as a married couple deserves a little extra sparkle. It’s the season to turn heads together, colour-coordinate without looking too matchy-matchy and start traditions that are yours&#8230; The post Newlywed Diwali Outfit Ideas for Your First Festive Season Together appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-16T08:52:11+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "voter",
+      "term": "ನಮ್ಮ ಮೆಟ್ರೊ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ജയിലര് 2",
+      "term": "யோகி பாபு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ਬੀਬੀਸੀ ਪੰਜਾਬੀ",
+      "term": "shillong teer result today morning",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "diana shnaider",
+      "term": "ఓటీటీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आज तक",
+      "term": "cyber crime",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "આગાહી",
+      "term": "இலங்கை தேசிய கிரிக்கெட் அணி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അര്ണബ്",
+      "term": "శ్రీనిధి శెట్టి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "মামলা",
+      "term": "vaishnavi sharma",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शतक",
+      "term": "ಆರ್. ಚಂದ್ರು",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रियांशु मोलिया",
+      "term": "alexandra eala",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
