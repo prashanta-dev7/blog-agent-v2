@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-30T08:00:38.307136+00:00",
+  "generated_at": "2026-10-30T11:12:23.610389+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 189,
+  "industry_count": 188,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "4c00a63ccaf9",
+      "title": "Zadig & Voltaire Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/zadig-voltaire",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Zadig & Voltaire Spring 2027 Ready-to-Wear...",
+      "score": 1,
+      "published": "2026-10-30T11:07:47+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "5f23e47830ad",
       "title": "Minena Mexico Spring 2027",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Minena Mexico Spring 2027...",
       "score": 0,
-      "published": "2026-10-30T07:58:17+00:00",
+      "published": "2026-10-30T11:07:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Carla Fernández Mexico Spring 2027...",
       "score": 0,
-      "published": "2026-10-30T07:58:17+00:00",
+      "published": "2026-10-30T11:07:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Zurce Mexico Spring 2027...",
       "score": 0,
-      "published": "2026-10-30T07:58:17+00:00",
+      "published": "2026-10-30T11:07:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Orange Culture Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-10-30T07:58:17+00:00",
+      "published": "2026-10-30T11:07:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,42 +89,196 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: John Elliott Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-10-30T07:58:17+00:00",
+      "published": "2026-10-30T11:07:47+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "18f2ff7db85e",
-      "title": "PM Launches Banaskantha Projects, Slams Opposition Over 'Fake Narrative'",
-      "link": "https://www.indiatoday.in/india/video/pm-launches-banaskantha-projects-slams-opposition-over-fake-narrative-ytvd-3028404-2026-10-30?utm_source=rss",
-      "summary": "PM Launches Banaskantha Projects, Slams Opposition Over 'Fake Narrative'",
-      "source": "India Today Fashion",
+      "id": "0309883380fd",
+      "title": "Pre-Halloween, Heidi Klum Embraces Pumpkin Orange for a Family Night Out",
+      "link": "https://www.vogue.com/article/heidi-klum-embraces-pumpkin-orange-for-a-family-night-out-10-30-2026",
+      "summary": "Queen of Halloween Heidi Klum is getting into the spirit a little early, with a spectacularly ruffled look and three of her children in tow.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-30T07:53:21+00:00",
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 0,
+      "published": "2026-10-30T11:01:49+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "f4b17978304e",
-      "title": "PM Modi Slams Opposition in Banaskantha Over Anarchy, Launches Rs 14,400-Crore Projects",
-      "link": "https://www.indiatoday.in/india/video/pm-modi-slams-opposition-in-banaskantha-over-anarchy-launches-rs-14400-crore-projects-ytvd-3028391-2026-10-30?utm_source=rss",
-      "summary": "PM Modi Slams Opposition in Banaskantha Over Anarchy, Launches Rs 14,400-Crore Projects",
+      "id": "0b0d93a22630",
+      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in November",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-november-2026",
+      "summary": "From Prada's Dalmatian pouch to J.Crew's satin trousers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-30T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9270d987960d",
+      "title": "A Parisian MUA Confirmed It—These Are the Winter Makeup Trends French Girls Can't Stop Wearing",
+      "link": "https://www.whowhatwear.com/beauty/makeup/french-girl-fall-winter-makeup-ideas",
+      "summary": "\"Makeup is becoming a little less obedient.\"",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-30T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6389134bba0d",
+      "title": "Dries Van Noten Announces President Switch-Up",
+      "link": "https://www.vogue.com/article/dries-van-noten-announces-president-switch-up",
+      "summary": "Axel Keller will step down after five years at the Puig-owned house, with Adrian Ward-Rees assuming the role.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dries Van Noten Announces President Switch-Up...",
+      "score": 0,
+      "published": "2026-10-30T10:50:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2919083e84bd",
+      "title": "Congress Has 'Anarchic Model' in Power and Opposition: Sudhanshu Trivedi",
+      "link": "https://www.indiatoday.in/india/video/congress-has-anarchic-model-in-power-and-opposition-sudhanshu-trivedi-ytvd-3028557-2026-10-30?utm_source=rss",
+      "summary": "Congress Has 'Anarchic Model' in Power and Opposition: Sudhanshu Trivedi",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Congress Has 'Anarchic Model' in Power and Opposition: Sudhanshu Trive...",
       "score": 1,
-      "published": "2026-10-30T07:46:07+00:00",
+      "published": "2026-10-30T10:48:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "701a65bc0f80",
+      "title": "Dua Lipa Co-Signs Jaunty Hat Fall—in Chanel Couture, of Course",
+      "link": "https://www.vogue.com/article/dua-lipa-co-signs-jaunty-hat-fall-in-chanel-couture-of-course-10-30-2026",
+      "summary": "Dua Lipa makes a sparkly and sculptural case for the return of statement headwear, with a little help from Matthieu Blazy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Dua Lipa Co-Signs Jaunty Hat Fall—in Chanel Couture, of Course...",
+      "score": 2,
+      "published": "2026-10-30T10:44:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "54ab78545b87",
+      "title": "This Skincare Disruptor From Kyoto Is Looking to Take J-Beauty Global",
+      "link": "https://www.vogue.com/article/this-skincare-disruptor-from-kyoto-is-looking-to-take-j-beauty-global",
+      "summary": "An unlikely Japanese beauty brand is winning over celebrities and retailers with its traditional fermentation techniques. As the government revises its strategy to boost cultural exports, it may be an opportune time for expansion.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Skincare Disruptor From Kyoto Is Looking to Take J-Beauty Global...",
+      "score": 3,
+      "published": "2026-10-30T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d14005aaf7cc",
+      "title": "Move Over Collagen. Is Elastin Beauty’s Next Big Thing?",
+      "link": "https://www.vogue.com/article/move-over-collagen-is-elastin-beautys-next-big-thing",
+      "summary": "As collagen claims become commonplace, beauty brands are looking to elastin for the next big skin longevity story.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Move Over Collagen. Is Elastin Beauty’s Next Big Thing?...",
+      "score": 2,
+      "published": "2026-10-30T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-30T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "04ddfc3f7469",
+      "title": "The Best Travel Jeans, According to Vogue Editors",
+      "link": "https://www.vogue.com/article/best-travel-jeans",
+      "summary": "Yes, you can wear jeans on the plane—here's how to find your most comfortable fit, plus recommendations from brands like Mother, Reformation, and Levi's.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Travel Jeans, According to Vogue Editors...",
+      "score": 2,
+      "published": "2026-10-30T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b82492aa3d6c",
+      "title": "Apple Martin's Cute Jeans-and-Shoes Outfit Combo Is Very '90s Gwyneth Paltrow",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/apple-martin-denim-outfit-idea-for-fall",
+      "summary": "Spotted in NYC.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Apple Martin's Cute Jeans-and-Shoes Outfit Combo Is Very '90s Gwyneth ...",
+      "score": 1,
+      "published": "2026-10-30T08:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "656f7d152d5a",
+      "title": "Black Is Classic, But It Girls Are Wearing These Colourful Knitwear Trends Instead This Winter",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/knitwear-colour-trends-2026",
+      "summary": "Orange is the new black.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-30T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "209adc8eb7b5",
+      "title": "The Exact 6 Shoe Colors That Signal Good Style This Fall",
+      "link": "https://www.whowhatwear.com/fashion/fall/shoe-color-trends-fall-2026",
+      "summary": "Niche but chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Exact 6 Shoe Colors That Signal Good Style This Fall...",
+      "score": 1,
+      "published": "2026-10-30T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
       "id": "bbe637742c55",
       "title": "I Swear, Jeans With This Small Detail Look Much More Elegant Than Those Without",
       "link": "https://www.whowhatwear.com/fashion/denim/pintuck-jeans-trend-winter-2026",
-      "summary": "Jeans, but make them polished.",
+      "summary": "The chicest I've seen denim look.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -118,20 +286,6 @@
       "angle": "Fashion Intelligence: I Swear, Jeans With This Small Detail Look Much More Elegant Than Thos...",
       "score": 1,
       "published": "2026-10-30T07:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f494f8f58903",
-      "title": "Looking Like a European It Girl Is Easy This Winter—Just Wear One of These 5 Elegant Trends",
-      "link": "https://www.whowhatwear.com/fashion/european-fashion-trends-winter-2026",
-      "summary": "From Paris to Oslo",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -149,17 +303,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "42cf2e91b272",
-      "title": "My First Job in Fashion: Linda Fargo",
-      "link": "https://www.vogue.com/article/my-first-job-in-fashion-linda-fargo",
-      "summary": "Fargo, who will receive the CFDA Founder’s Award on Monday, got her start in the display department at Macy’s — a role that eventually landed her a job at Bergdorf Goodman, where she’s worked for three decades.",
-      "source": "Vogue US",
+      "id": "f494f8f58903",
+      "title": "Looking Like a European It Girl Is Easy This Winter—Just Wear One of These 5 Elegant Trends",
+      "link": "https://www.whowhatwear.com/fashion/european-fashion-trends-winter-2026",
+      "summary": "From Paris to Oslo.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: My First Job in Fashion: Linda Fargo...",
-      "score": 1,
-      "published": "2026-10-30T05:30:00+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -172,6 +326,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Scoop With Tove’s Camille Perry and Holly Wright: On Their Sloane ...",
+      "score": 1,
+      "published": "2026-10-30T05:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42cf2e91b272",
+      "title": "My First Job in Fashion: Linda Fargo",
+      "link": "https://www.vogue.com/article/my-first-job-in-fashion-linda-fargo",
+      "summary": "Fargo, who will receive the CFDA Founder’s Award on Monday, got her start in the display department at Macy’s — a role that eventually landed her a job at Bergdorf Goodman, where she’s worked for three decades.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: My First Job in Fashion: Linda Fargo...",
       "score": 1,
       "published": "2026-10-30T05:30:00+00:00",
       "discovered_via": "feed"
@@ -192,14 +360,14 @@
     },
     {
       "id": "2764d915f9c0",
-      "title": "The Hirshhorn Museum’s New Sculpture Garden Is a Vision of America",
+      "title": "Inside The Hirshhorn Museum’s New Sculpture Garden",
       "link": "https://www.harpersbazaar.com/culture/features/a74288003/hirshhorn-museum-sculpture-garden/",
       "summary": "The Smithsonian Institution’s majestic new outdoor gallery opens as a battle over art, history, and the national identity has spilled onto the National Mall in Washington, D.C.",
       "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Hirshhorn Museum’s New Sculpture Garden Is a Vision of America...",
+      "angle": "Fashion Intelligence: Inside The Hirshhorn Museum’s New Sculpture Garden...",
       "score": 0,
       "published": "2026-10-30T01:20:08+00:00",
       "discovered_via": "feed"
@@ -216,6 +384,20 @@
       "angle": "Fashion Intelligence: The Best Top-Handle Bags Will Polish Up Any Look...",
       "score": 1,
       "published": "2026-10-30T00:57:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "638520e0065a",
+      "title": "On the Podcast: Happy Heidi-ween!",
+      "link": "https://www.vogue.com/article/on-the-podcast-happy-heidi-ween",
+      "summary": "“I always try to come up with something unexpected, or it’s a shape that maybe a human body doesn’t normally fit in,” Klum—the undisputed queen of Halloween—tells “The Run-Through” guest hosts Christian Allaire and Margaux Anbouba.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 0,
+      "published": "2026-10-30T00:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -751,34 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "660c30ce0cca",
-      "title": "Rihanna’s Fall Outfit Is Apple Cider-Chic",
-      "link": "https://www.vogue.com/article/rihanna-monochromatic-brown-fall-fashion-10-29-2026",
-      "summary": "Last night, Rihanna headed out to her favorite Santa Monica restaurant—in tonal shades of fall brown.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rihanna’s Fall Outfit Is Apple Cider-Chic...",
-      "score": 1,
-      "published": "2026-10-29T14:53:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "15a9ebb7432f",
-      "title": "The Great Couture Comeback",
-      "link": "https://www.vogue.com/article/the-great-couture-comeback",
-      "summary": "From Versace to Hermès, why are today’s brands going all-in on couture?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Great Couture Comeback...",
-      "score": 2,
-      "published": "2026-10-29T14:51:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d5e2545864eb",
       "title": "Kim Kardashian Gives New Life to Elizabeth Taylor’s Iconic Emerald-and-Diamond Bulgari Necklace",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74283286/kim-kardashian-wears-elizabeth-taylor-emerald-and-diamond-bulgari-necklace-video/",
@@ -835,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f7356f7f7157",
-      "title": "This Intimate Wedding on Lake Como Felt Like “A Garden Party in the Clouds”",
-      "link": "https://www.vogue.com/slideshow/alyssa-choo-and-erik-lowe-wedding",
-      "summary": "For their three-day celebration at Villa Balbiano, Alyssa Choo and Erik Lowe brought a little of New York to Italy—with 54 close family and friends, a custom Vera Wang gown, and a fireworks-filled finale.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Intimate Wedding on Lake Como Felt Like “A Garden Party in the Clouds” — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-10-29T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "35b8356606a3",
       "title": "Rodeo & Madison Agency Is Hiring A Freelance Publicist, Fashion, Beauty & Talent",
       "link": "https://fashionista.com/2026/10/rodeo-madison-agency-is-hiring-a-freelance-publicist-fashion-beauty-talent",
@@ -874,20 +1014,6 @@
       "angle": "Fashion Intelligence: Millie Bobby Brown Shares a Sweet Peek at Life With Jake Bongiovi and ...",
       "score": 0,
       "published": "2026-10-29T13:53:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7766425766bd",
-      "title": "Katie Holmes’s Fall Wardrobe Includes a Double Whammy of Trending Accessories",
-      "link": "https://www.vogue.com/article/katie-holmes-fall-wardrobe-trending-accessories",
-      "summary": "Out and about in New York, Katie Holmes paired a Toteme bag with The Row loafers.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-29T13:49:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -944,34 +1070,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-10-29T13:28:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4381394d549c",
-      "title": "Rita Konig Wants You to Have a Better Martini Glass",
-      "link": "https://www.vogue.com/article/rita-konig-household-goods",
-      "summary": "“I hate those sex in the city martini glasses,” says decorator Rita Konig, who launches a highly personal line of household goods this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Rita Konig Wants You to Have a Better Martini Glass...",
-      "score": 1,
-      "published": "2026-10-29T13:01:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3347a9fb810f",
-      "title": "A First Look at The Cormorant at 55 South, a New Luxury Lodge Redefining the Journey to Antarctica",
-      "link": "https://www.vogue.com/article/the-cormorant-at-55-south-antarctica-hotel-first-look",
-      "summary": "A first look at this new design-forward sanctuary by Silversea in the southernmost town on Earth.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A First Look at The Cormorant at 55 South, a New Luxury Lodge Redefini...",
-      "score": 1,
-      "published": "2026-10-29T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eef1734cfe34",
-      "title": "This Fall Jacket Beloved by Princess Diana in the ’80s Is Making a Comeback",
-      "link": "https://www.vogue.com/article/princess-diana-80s-fall-jacket-comeback",
-      "summary": "The lesson in off-duty royal dressing is back on the style agenda for fall 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Fall Jacket Beloved by Princess Diana in the ’80s Is Making a Com...",
-      "score": 2,
-      "published": "2026-10-29T11:39:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "13d18ef3e82f",
       "title": "Savvy Beauty Shoppers Know Perfume Advent Calendars Save You $$$ for the Whole Year—12 I Have My Eye On",
       "link": "https://www.whowhatwear.com/beauty/fragrance/fragrance-advent-calendars",
@@ -1101,31 +1185,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "106a9e553046",
-      "title": "Adidas Sales Grow 7% in Q3 Despite Footwear Slowdown",
-      "link": "https://www.vogue.com/article/adidas-breaks-sales-record-once-again",
-      "summary": "The sportswear company posted record results, noting strong apparel performance, despite a trickier environment for footwear.",
-      "source": "Vogue US",
+      "id": "702c8705830e",
+      "title": "Military Style Tips All Men Should Know",
+      "link": "https://www.fashionbeans.com/article/military-style-lessons/",
+      "summary": "War, huh, yeah. What&#8217;s it been good for? Absolutely nothing. Apart from, perhaps, shaping practically everything hanging in the male wardrobe today. The 20th century’s conflicts may have been entirely undesirable, but it’s possible that without them, men would still be trapped in a sartorial straitjacket. Crew ne",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Adidas Sales Grow 7% in Q3 Despite Footwear Slowdown...",
+      "angle": "Fashion Intelligence: Military Style Tips All Men Should Know...",
       "score": 1,
-      "published": "2026-10-29T10:57:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "20282b59639c",
-      "title": "Zoe Luca",
-      "link": "https://www.vogue.com/article/conde-future-zoe-luca",
-      "summary": "Zoe is Education Manager for Condé Nast",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zoe Luca...",
-      "score": 0,
-      "published": "2026-10-29T10:31:19+00:00",
+      "published": "2026-10-29T10:23:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1157,17 +1227,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8cb9f448f4ed",
-      "title": "Raymond Lifestyle Q2 Net Profit Falls 10% to Rs 68 Crore",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/raymond-lifestyle-q2-net-profit-falls-10-rs-68-crore/",
-      "summary": "Raymond Lifestyle Ltd reported a 10.2% year-on-year decline in net profit to Rs 68 crore (US $7.15 million) in the second quarter of FY27, compared with Rs 75 crore (US $7.88 million) in the corresponding quarter last year. Revenue from operations increased 13.2% year-on-year to Rs 2,075 crore (US $218.05 million) from",
+      "id": "294757fb42d8",
+      "title": "Raymond Lifestyle Q2 Revenue Rises 13.2% to Rs 2,075 Crore in Q2 FY27",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/raymond-lifestyle-q2-revenue-rises-13-2-to-rs-2075-crore-in-q2-fy27/",
+      "summary": "Raymond Lifestyle Ltd reported strong revenue growth across key businesses in Q2 FY27, led by a 26% year-on-year increase in Garmenting revenue to Rs 339 crore (US $35.62 million) and a 20% rise in Branded Apparel revenue to Rs 559 crore (US $58.73 million). Overall revenue from operations grew 13.2% to Rs 2,075 crore ",
       "source": "Apparel Resources India",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Raymond Lifestyle Q2 Net Profit Falls 10% to Rs 68 Crore...",
-      "score": 1,
+      "angle": "Fashion Intelligence: Raymond Lifestyle Q2 Revenue Rises 13.2% to Rs 2,075 Crore in Q2 FY27...",
+      "score": 2,
       "published": "2026-10-29T09:53:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ee9f49bf9122",
+      "title": "How To Dress In Your 20s – Men’s Fashion Guide 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-dress-in-20s/",
+      "summary": "Your twenties &#8211; or the early ones at least &#8211; are the “wonder years”. You wonder how you’re ever going to pay off these tuition fees. Why people voluntarily choose to get married and have children. Why you drunk so many Jagerbombs last night. You also wonder what to wear, which is complicated by the &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Dress In Your 20s – Men’s Fashion Guide 2026...",
+      "score": 3,
+      "published": "2026-10-29T09:00:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1308,6 +1392,20 @@
       "angle": "Fashion Intelligence: 17 Best Shirt Brands for Men: Top Wardrobe Staples of 2026...",
       "score": 1,
       "published": "2026-10-29T06:25:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba4367e7ee80",
+      "title": "10 Best Jeans For Overweight Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-jeans-for-overweight-men/",
+      "summary": "FYI After continued research, we found that our original jeans selections still stand as our top recommendations for overweight men. Wrangler’s Authentics Comfort Flex Jeans remain our favorite overall pick due to their unbeatable combination of comfort, stretch, and style. We’ve also added a comparison table to help y",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Jeans For Overweight Men in 2026...",
+      "score": 1,
+      "published": "2026-10-29T06:08:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1829,20 +1927,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6f8f49939950",
-      "title": "Lily Muni He and Rebecca Donaldson Talk F1 Paddock Style, Race-Day Routines, and Beauty Pit Stops",
-      "link": "https://www.whowhatwear.com/beauty/lily-muni-he-rebecca-donaldson-beauty-interview",
-      "summary": "From a Sex and the City–inspired vintage Prada skirt to glossy lip oil.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lily Muni He and Rebecca Donaldson Talk F1 Paddock Style, Race-Day Rou...",
-      "score": 2,
-      "published": "2026-10-28T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "198e392ba0bb",
       "title": "Prada Reclaims Its Spot as Fashion's Hottest Brand in Q3 2026",
       "link": "https://fashionista.com/2026/10/lyst-index-q3-2026-top-popular-brands-prada",
@@ -1854,20 +1938,6 @@
       "angle": "Fashion Intelligence: Prada Reclaims Its Spot as Fashion's Hottest Brand in Q3 2026...",
       "score": 2,
       "published": "2026-10-28T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a000d6fcea9",
-      "title": "Not Leather, Not Suede—This Flat-Shoe Trend Makes Denim Look Even More Sophisticated",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-mules-jeans-outfit-elsa-hosk-2026",
-      "summary": "Supremely chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-28T10:52:59+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1896,48 +1966,6 @@
       "angle": "Fashion Intelligence: 6 Best CR7 Colognes for Sporty, Active Lifestyles in 2026...",
       "score": 1,
       "published": "2026-10-28T10:06:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7f2de34a7cdc",
-      "title": "I've Found It: This Is the Rich-Looking, Minimalist Handbag I’ll Be Carrying All Winter",
-      "link": "https://www.whowhatwear.com/fashion/shopping/mansur-gavriel-cabas-bag",
-      "summary": "The perfect accessory.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Found It: This Is the Rich-Looking, Minimalist Handbag I’ll Be Ca...",
-      "score": 1,
-      "published": "2026-10-28T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e8f90031f2b8",
-      "title": "The Fall '26 Trend That Makes Every Outfit Look Expensive",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rich-texture-trend-fall-2026",
-      "summary": "Starting at just $100.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-28T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "008bc4eb64fd",
-      "title": "One-Stop Shop: 7 Easy Fall Outfits You Can Build Entirely From Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fall-nordstrom-outfit-ideas-2026",
-      "summary": "Add these to your rotation.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: One-Stop Shop: 7 Easy Fall Outfits You Can Build Entirely From Nordstr...",
-      "score": 1,
-      "published": "2026-10-28T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2221,34 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c9cf9e0da3b",
-      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
-      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
-      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
-      "score": 1,
-      "published": "2026-10-27T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c237c961987f",
-      "title": "16 Best Dress Sneakers for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-dress-sneakers-for-men/",
-      "summary": "For as long as I can remember, men have been programmed to believe that wearing shoes is pretty much the only way one can look truly presentable. Through the years, I would often question whether dress sneakers could be a suitable alternative. Ha, forget it pal. As a student of a British high school, I &#8230; Continue",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 16 Best Dress Sneakers for Men In 2026...",
-      "score": 2,
-      "published": "2026-10-27T08:20:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2d4682b5dbcb",
       "title": "AGMES Jewelry Seeking Full-Time In-Person Marketing + Social Media Coordinator In NYC",
       "link": "https://fashionista.com/2026/10/agmes-jewelry-seeking-full-time-in-person-marketing-social-media-coordinator-in-nyc",
@@ -2274,20 +2274,6 @@
       "angle": "Fashion Intelligence: Zooey Deschanel on Vintage Shopping, Designer Ballet Flats and the Lip...",
       "score": 2,
       "published": "2026-10-26T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a476ab23b044",
-      "title": "David Beckham’s Best Hairstyles (And How To Get The Look)",
-      "link": "https://www.fashionbeans.com/article/david-beckham-hair-styles/",
-      "summary": "David Beckham’s dress sense is something that, frankly, we spend too much time analysing, but the man&#8217;s frequently-changing hairstyles are just as worthy of our scrutiny. Yes, there have been some questionable choices along the way (shout out to the Alice bands and toe-curling cornrows) but on balance, Mr Beckham",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: David Beckham’s Best Hairstyles (And How To Get The Look)...",
-      "score": 2,
-      "published": "2026-10-26T11:40:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2851,6 +2837,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "fabdedcedf24",
+      "title": "Beaded Necklaces Are Trending for 2027: Here’s How to Wear Them",
+      "link": "https://www.azafashions.com/blog/beaded-necklace-trend/?utm_source=rss&utm_medium=rss&utm_campaign=beaded-necklace-trend",
+      "summary": "Remember the bead necklace you made at nine, threaded on elastic, slightly lopsided, worn with total confidence? Fashion has just decided you were onto something. Beaded necklaces turned up on the&#8230; The post Beaded Necklaces Are Trending for 2027: Here&#8217;s How to Wear Them appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-10-30T10:56:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cec14841dc26",
       "title": "Khushi Kapoor Just Gave Quiet Luxury a Festive, Mirror-Worked Twist",
       "link": "https://www.azafashions.com/blog/khushi-kapoor-diwali-look-arpita-mehta/?utm_source=rss&utm_medium=rss&utm_campaign=khushi-kapoor-diwali-look-arpita-mehta",
@@ -2975,70 +2975,56 @@
       "score": 5,
       "published": "2026-10-23T14:10:04+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "9b555331d338",
-      "title": "Manish Malhotra: The Complete Guide to India’s Most Glamorous Couturier",
-      "link": "https://www.azafashions.com/blog/manish-malhotra/?utm_source=rss&utm_medium=rss&utm_campaign=manish-malhotra",
-      "summary": "Manish Malhotra is a Mumbai-based Indian fashion designer, couturier, costume designer and film producer. He began his career in 1990 as a Bollywood costume designer, launched his eponymous label in&#8230; The post Manish Malhotra: The Complete Guide to India’s Most Glamorous Couturier appeared first on Aza Editorials ",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Manish Malhotra: The Complete Guide to India’s Most Glamorous Couturie...",
-      "score": 5,
-      "published": "2026-10-23T12:50:58+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ire vs nam",
+      "term": "jio platforms q2 results fy27",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "బియ్యం",
+      "term": "ભારત",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tim tector",
+      "term": "tilak varma",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "arshdeep singh",
+      "term": "নভেম্বর",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ధర",
+      "term": "મીરા રાજપૂત",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricket tv",
+      "term": "ராசி பலன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "daryl mitchell",
+      "term": "mumbai indians",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ireland cricket team vs namibia national cricket team match scorecard",
+      "term": "వత్సల రాజగోపాల్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "prince yadav",
+      "term": "bangladesh vs scotland",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फिन एलन",
+      "term": "ਸਰਕਾਰ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
