@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T07:56:59.201683+00:00",
+  "generated_at": "2026-10-31T10:44:55.636386+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 188,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hertunba Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-10-31T07:54:28+00:00",
+      "published": "2026-10-31T10:39:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Oshobor Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-10-31T07:54:28+00:00",
+      "published": "2026-10-31T10:39:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Nkwo Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-10-31T07:54:28+00:00",
+      "published": "2026-10-31T10:39:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e984b60e9324",
+      "title": "Keralam launches Citizen Help Desks at police stations, to replace PRO system",
+      "link": "https://www.indiatoday.in/india/story/kerala-police-citizen-help-desks-replace-pro-system-ptag-3029285-2026-10-31?utm_source=rss",
+      "summary": "Keralam launches Citizen Help Desks at police stations, to replace PRO system",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-10-31T10:16:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8acf6a546129",
+      "title": "Need Halloween Inspo? Look No Further Than These IRL Street Style Pics",
+      "link": "https://www.vogue.com/article/street-style-trend-tracker-halloween-outfits-2023",
+      "summary": "If you’re in a bind this Halloween, chances are you can pull together a costume straight from your closet, using these street style looks as inspiration.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Need Halloween Inspo? Look No Further Than These IRL Street Style Pics...",
+      "score": 1,
+      "published": "2026-10-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f192159e360d",
+      "title": "Toxic Friendship: How to Spot One—and What to Do About It",
+      "link": "https://www.vogue.com/article/toxic-friendships",
+      "summary": "Wondering if you're in a toxic friendship? Experts reveal the warning signs, how to set boundaries, when to walk away, and when the problem is actually you.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Toxic Friendship: How to Spot One—and What to Do About It...",
+      "score": 0,
+      "published": "2026-10-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2b93fce60dd5",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-october-30",
+      "summary": "From sculptural updos and dramatic bangs to frosted lids and full-body glitter, this week’s best beauty looks were anything but understated.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 1,
+      "published": "2026-10-31T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bcc603275ec5",
+      "title": "PSA: Winter Outfits Look Smarter With This Simple Styling Trick",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/matching-jacket-shoe-outfit-trend-katie-holmes-jessica-alba-2026",
+      "summary": "It's true.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: PSA: Winter Outfits Look Smarter With This Simple Styling Trick...",
+      "score": 1,
+      "published": "2026-10-31T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9a63ee91cf8f",
+      "title": "I'm a Size Inclusivity Advocate—Here's How My Edit of Chic Wide-Calf Boots Came to Life",
+      "link": "https://www.whowhatwear.com/fashion/naturalizer-lauren-chan-boot-collection",
+      "summary": "Chic, on-trend, and offered in four distinct widths.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Size Inclusivity Advocate—Here's How My Edit of Chic Wide-Calf B...",
+      "score": 1,
+      "published": "2026-10-31T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "003a7227cb0c",
+      "title": "Claudia Called It: This Is the Chicest Flat Shoe Trend You Can Wear With Leggings",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leggings-monk-shoe-outfit-claudia-winkleman-2026",
+      "summary": "In Claudia, we trust.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-10-31T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -90,34 +188,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-10-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c8685718fd20",
-      "title": "Statue of Unity to get new tourist attractions as PM Modi launches Rs 426-crore projects",
-      "link": "https://www.indiatoday.in/india/story/ekta-nagar-projects-pm-modi-rs-426-crore-tourism-civic-upgrade-ptag-3029155-2026-10-31?utm_source=rss",
-      "summary": "Statue of Unity to get new tourist attractions as PM Modi launches Rs 426-crore projects",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-31T06:33:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "99d513d7d731",
-      "title": "PM Launches Ekta Cruise in Kevadia, Pays Tribute to Patel as Nation Marks Ekta Diwas",
-      "link": "https://www.indiatoday.in/india/video/pm-launches-ekta-cruise-in-kevadia-pays-tribute-to-patel-as-nation-marks-ekta-diwas-ytvd-3029168-2026-10-31?utm_source=rss",
-      "summary": "PM Launches Ekta Cruise in Kevadia, Pays Tribute to Patel as Nation Marks Ekta Diwas",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-31T06:13:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,34 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b87056b8e725",
-      "title": "Sarah Pidgeon Is Staying True to 2026’s Biggest Lip Trend",
-      "link": "https://www.vogue.com/article/sarah-pidgeon-is-staying-true-to-2026s-biggest-lip-trend-10-30-2026",
-      "summary": "“Love Story” star Sarah Pidgeon kept things soft around the edges for an evening at the Time100 Next Event last night.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-10-30T11:22:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0309883380fd",
-      "title": "Pre-Halloween, Heidi Klum Embraces Pumpkin Orange for a Family Night Out",
-      "link": "https://www.vogue.com/article/heidi-klum-embraces-pumpkin-orange-for-a-family-night-out-10-30-2026",
-      "summary": "Queen of Halloween Heidi Klum is getting into the spirit a little early, with a spectacularly ruffled look and three of her children in tow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 0,
-      "published": "2026-10-30T11:01:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0b0d93a22630",
       "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Wearing (and Buying) in November",
       "link": "https://www.whowhatwear.com/fashion/shopping/shopping-predictions-november-2026",
@@ -986,20 +1028,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-10-30T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6389134bba0d",
-      "title": "Dries Van Noten Announces President Switch-Up",
-      "link": "https://www.vogue.com/article/dries-van-noten-announces-president-switch-up",
-      "summary": "Axel Keller will step down after five years at the Puig-owned house, with Adrian Ward-Rees assuming the role.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dries Van Noten Announces President Switch-Up...",
-      "score": 0,
-      "published": "2026-10-30T10:50:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1703,20 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0040a6a58677",
-      "title": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
-      "link": "https://www.whowhatwear.com/living/wedding/bridal-fashion-trends-fall-2027",
-      "summary": "From architectural florals to cat-eye necklines.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027 — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-10-29T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "702c8705830e",
       "title": "Military Style Tips All Men Should Know",
       "link": "https://www.fashionbeans.com/article/military-style-lessons/",
@@ -1745,20 +1759,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "da20d470e7e6",
-      "title": "6 Cool Sneaker Outfits Everyone Will Still Be Wearing in 2027",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-winter-sneaker-outfits-2026",
-      "summary": "They're trendy but have longevity.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-29T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "294757fb42d8",
       "title": "Raymond Lifestyle Q2 Revenue Rises 13.2% to Rs 2,075 Crore in Q2 FY27",
       "link": "https://in.apparelresources.com/business-news/manufacturing/raymond-lifestyle-q2-revenue-rises-13-2-to-rs-2075-crore-in-q2-fy27/",
@@ -1784,20 +1784,6 @@
       "angle": "Fashion Intelligence: How To Dress In Your 20s – Men’s Fashion Guide 2026...",
       "score": 3,
       "published": "2026-10-29T09:00:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "913f6a10d81d",
-      "title": "Zara Just Dropped the Most Expensive-Looking Winter Collection—35 Pieces Destined to Sell Out",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-winter-fashion",
-      "summary": "Rich textures, opulent fabrics, chic silhouettes, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-29T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2949,6 +2935,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "2910ac1b5618",
+      "title": "The Best-Dressed Guests at ITRH’s Star-Studded Diwali Party",
+      "link": "https://www.azafashions.com/blog/itrh-diwali-party/?utm_source=rss&utm_medium=rss&utm_campaign=itrh-diwali-party",
+      "summary": "Mumbai's fashion crowd showed up and showed out at ITRH's Diwali party, and the guest list read like a love letter to Indian craftsmanship. Between the dhol beats, the diyas,&#8230; The post The Best-Dressed Guests at ITRH’s Star-Studded Diwali Party appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 4,
+      "published": "2026-10-26T08:35:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5e4c0d370f8c",
       "title": "The Art of Accessorising Your Diwali Lehenga",
       "link": "https://www.azafashions.com/blog/accessorising-diwali-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=accessorising-diwali-lehenga",
@@ -2961,70 +2961,56 @@
       "score": 1,
       "published": "2026-10-24T10:44:11+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "afe14ebe41d8",
-      "title": "Wedge Heels Are Having a Moment, and We’re Here for It",
-      "link": "https://www.azafashions.com/blog/wedge-heels-are-having-a-moment/?utm_source=rss&utm_medium=rss&utm_campaign=wedge-heels-are-having-a-moment",
-      "summary": "Wedge heels used to mean one thing: a thick, clunky platform that screamed early 2010s festival season. That version hasn't aged particularly well. But the wedge heel making its way&#8230; The post Wedge Heels Are Having a Moment, and We&#8217;re Here for It appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Wedge Heels Are Having a Moment, and We’re Here for It...",
-      "score": 1,
-      "published": "2026-10-24T08:45:48+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ഇസ്രായേല്",
+      "term": "simon harmer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sukhoi su-57",
+      "term": "omar abdullah",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sri lanka vs pakistan",
+      "term": "तमिल नाडु",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pak vs sl",
+      "term": "अक्षर पटेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "श्रीलंका बनाम पाकिस्तान",
+      "term": "ಚಂದನ್ ಶೆಟ್ಟಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cbse board exam timetable 2027 pdf",
+      "term": "வேட்டுவம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಶಾಲೆ",
+      "term": "ജയിലര്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ध्रुव जुरेल",
+      "term": "సాయిపల్లవి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "புதுக்கோட்டை",
+      "term": "गुंतवणूक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शूटआउट",
+      "term": "அக்டோபர் 31",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
