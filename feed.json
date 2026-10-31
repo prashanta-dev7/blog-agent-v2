@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T10:44:55.636386+00:00",
+  "generated_at": "2026-10-31T15:58:19.984838+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 187,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hertunba Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-10-31T10:39:34+00:00",
+      "published": "2026-10-31T15:54:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Oshobor Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-10-31T10:39:34+00:00",
+      "published": "2026-10-31T15:54:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,21 +47,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Nkwo Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-10-31T10:39:34+00:00",
+      "published": "2026-10-31T15:54:39+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "e984b60e9324",
-      "title": "Keralam launches Citizen Help Desks at police stations, to replace PRO system",
-      "link": "https://www.indiatoday.in/india/story/kerala-police-citizen-help-desks-replace-pro-system-ptag-3029285-2026-10-31?utm_source=rss",
-      "summary": "Keralam launches Citizen Help Desks at police stations, to replace PRO system",
-      "source": "India Today Fashion",
+      "id": "a72057d43946",
+      "title": "Word on the Street: The 7 Biggest Trends Experts Spotted at Fashion Month",
+      "link": "https://www.whowhatwear.com/fashion/street-style/street-style-trends-fall-winter-2027",
+      "summary": "Plus, we matched these trends up with shopper data to prove our point.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-31T15:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5b0482060e83",
+      "title": "All the Best Celebrity Halloween Costumes of 2026",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a74241593/best-celebrity-halloween-costumes-2026-photos/",
+      "summary": "From Hailey Bieber as an angel to all the stars at Kendall Jenner’s festive birthday bash",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-10-31T14:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "11231b7607a6",
+      "title": "Gigi Hadid Cut the Ribbon on Her Fourth Guest in Residence Store with Cashmere, Caviar, and Caricatures",
+      "link": "https://www.vogue.com/slideshow/gigi-hadid-guest-in-residence-madison-store-party",
+      "summary": "Model and founder Gigi Hadid, clad in a shrunken top and tartan skirt, celebrated the debut of her label’s fourth U.S. store—and its very first uptown address.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "angle": "Fashion Intelligence: Gigi Hadid Cut the Ribbon on Her Fourth Guest in Residence Store with ...",
+      "score": 3,
+      "published": "2026-10-31T14:18:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8eca13744cb7",
+      "title": "The Best Celebrity Halloween Costumes of 2026 So Far",
+      "link": "https://www.vogue.com/slideshow/the-best-halloween-costumes-of-2026",
+      "summary": "From Kim Kardashian as North West to Paris Hilton as Britney Spears—this year, Halloween is all about imitation.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-10-31T10:16:51+00:00",
+      "published": "2026-10-31T13:37:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "21eb9cb893b5",
+      "title": "The Best Restaurants in Paris Now, From Classic Bistros to Cutting-Edge Tasting Menus",
+      "link": "https://www.vogue.com/article/best-restaurants-in-paris",
+      "summary": "From quintessential bistros to fashion-crowd favorites, find Vogue’s guide to the best restaurants in Paris here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Restaurants in Paris Now, From Classic Bistros to Cutting-Edg...",
+      "score": 1,
+      "published": "2026-10-31T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4b19f10eaa32",
+      "title": "ICYMI: Zooey Deschanel's Shopping Favorites, Prada Reclaims Its Spot as Fashion's Hottest Brand &amp; Teen Magazines Are Making a Comeback",
+      "link": "https://fashionista.com/2026/10/fashion-news-you-need-to-know-october-31",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ICYMI: Zooey Deschanel's Shopping Favorites, Prada Reclaims Its Spot a...",
+      "score": 2,
+      "published": "2026-10-31T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "090b31c481a4",
+      "title": "How The Craft Became a Teen Girl Touchstone",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a74297462/the-craft-horror-legacy/",
+      "summary": "In honor of the cult film’s 30th anniversary, Bazaar spoke to the actors, producer, and director about how it was made—and why it still resonates today",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-10-31T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc7325cbe585",
+      "title": "The End of Daylight Savings Doesn't Have to Ruin Your Routine—These Beauty & Wellness Items Play Defense",
+      "link": "https://www.whowhatwear.com/wellness/time-change-beauty-and-wellness-guide",
+      "summary": "19 investment-worthy items.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The End of Daylight Savings Doesn't Have to Ruin Your Routine—These Be...",
+      "score": 1,
+      "published": "2026-10-31T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fa99b66172c9",
+      "title": "Cool Editors and Their Moms Agree—These Are the Best Beauty and Fashion Gifts of 2026",
+      "link": "https://www.whowhatwear.com/beauty/editor-and-mom-holiday-gift-guide",
+      "summary": "Call it inherited taste.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Cool Editors and Their Moms Agree—These Are the Best Beauty and Fashio...",
+      "score": 2,
+      "published": "2026-10-31T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1070dc0d8aa6",
+      "title": "I Love a Mid-Autumn Wellness Check—16 Health and Beauty Items That Just Hit My Free People Wish List",
+      "link": "https://www.whowhatwear.com/wellness/free-people-wellness-products-fall-2026",
+      "summary": "I'm so ready to place my order.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Love a Mid-Autumn Wellness Check—16 Health and Beauty Items That Jus...",
+      "score": 1,
+      "published": "2026-10-31T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -146,20 +272,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-10-31T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5310b7dca58f",
-      "title": "Kashi-Delhi Vande Bharat Sleeper Launched, Reduces Travel Time and Enhances Amenities",
-      "link": "https://www.indiatoday.in/india/video/kashi-delhi-vande-bharat-sleeper-launched-reduces-travel-time-and-enhances-amenities-ytvd-3029193-2026-10-31?utm_source=rss",
-      "summary": "Kashi-Delhi Vande Bharat Sleeper Launched, Reduces Travel Time and Enhances Amenities",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-10-31T07:08:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -905,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4f967ace78ae",
-      "title": "A$AP Rocky Shows His Whimsical Side With a Kooky Novelty Bag",
-      "link": "https://www.vogue.com/article/asap-rocky-chanel-acorn-bag-2026-10-30",
-      "summary": "Not since Scrat, the saber-tooth squirrel from the 2002 seminal classic ‘Ice Age,’ has one shown so much dedication to acorn.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: A$AP Rocky Shows His Whimsical Side With a Kooky Novelty Bag...",
-      "score": 1,
-      "published": "2026-10-30T13:57:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a3e8693d7dbd",
       "title": "Fashion Mums Keep Swapping Blue Jeans for This Easy, Chic Winter Alt",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/khaki-trouser-trend-rihanna-2026",
@@ -930,34 +1028,6 @@
       "angle": "Fashion Intelligence: Fashion Mums Keep Swapping Blue Jeans for This Easy, Chic Winter Alt...",
       "score": 1,
       "published": "2026-10-30T13:44:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a04ab14f2120",
-      "title": "Meet the Women Changing the Face of Mariachi in San Antonio",
-      "link": "https://www.vogue.com/article/meet-the-women-changing-the-face-of-mariachi-in-san-antonio",
-      "summary": "Mariachi is getting a remix as all-female bands bring pop hits and women’s perspectives to the Mexican tradition. Just don’t call them a girl group.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meet the Women Changing the Face of Mariachi in San Antonio...",
-      "score": 0,
-      "published": "2026-10-30T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4579332476fd",
-      "title": "Yoonchae’s Glass Skin Secret, Revealed",
-      "link": "https://www.vogue.com/article/yoonchaes-glass-skin-secret-revealed",
-      "summary": "The pop star on life as a blonde, YouTube beauty tricks, and her new partnership with Dr.Jart.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Yoonchae’s Glass Skin Secret, Revealed...",
-      "score": 1,
-      "published": "2026-10-30T12:55:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1591,20 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "14f120ab4179",
-      "title": "Mark My Words: It Girls Everywhere Will Be Wearing the Elie Saab H&M Collection This Holiday Season",
-      "link": "https://www.whowhatwear.com/fashion/shopping/hm-elie-saab-collection-2026",
-      "summary": "From lace-trim dresses to faux-fur jackets, there's something for everyone.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-10-29T13:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8f4655a9cd9f",
       "title": "Trent Q2 Revenue Rises 22.5% to Rs 5,788 Crore",
       "link": "https://in.apparelresources.com/business-news/retail/trent-q2-revenue-rises-22-5-rs-5788-crore/",
@@ -1616,20 +1672,6 @@
       "angle": "Fashion Intelligence: Trent Q2 Revenue Rises 22.5% to Rs 5,788 Crore...",
       "score": 2,
       "published": "2026-10-29T13:29:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f4a2eb649676",
-      "title": "J.Law Just Wore the Coat Trend Every Fashion Person I Know Is Talking About",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/house-coat-trend-jennifer-lawrence-2026",
-      "summary": "Get this on your radar.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-29T13:28:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1700,34 +1742,6 @@
       "angle": "Fashion Intelligence: The 13 Beauty Products Our Editors Loved in October...",
       "score": 1,
       "published": "2026-10-29T11:48:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "13d18ef3e82f",
-      "title": "Savvy Beauty Shoppers Know Perfume Advent Calendars Save You $$$ for the Whole Year—12 I Have My Eye On",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/fragrance-advent-calendars",
-      "summary": "These will last you well beyond the holiday season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Savvy Beauty Shoppers Know Perfume Advent Calendars Save You $$$ for t...",
-      "score": 2,
-      "published": "2026-10-29T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f9dd632b08e9",
-      "title": "We're Proud Glass Skin Disciples and Perfume Snobs—These Were Our Favorite Beauty Products in October",
-      "link": "https://www.whowhatwear.com/beauty/best-new-beauty-products-october-2026",
-      "summary": "Seventeen wildly impressive standouts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: We're Proud Glass Skin Disciples and Perfume Snobs—These Were Our Favo...",
-      "score": 1,
-      "published": "2026-10-29T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1966,34 +1980,6 @@
       "angle": "Fashion Intelligence: Find Me a Woman Who Wants to Live Forever...",
       "score": 0,
       "published": "2026-10-28T19:45:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12eb92033285",
-      "title": "Katseye’s Lara Raj and Daniela Avanzini Make Knicks Merch Look So Good",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74275571/katseye-lara-raj-daniela-avanzini-ny-knicks-game-outfits-merch-photos/",
-      "summary": "They went all out with their fits to cheer on the NBA champions last night",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Katseye’s Lara Raj and Daniela Avanzini Make Knicks Merch Look So Good...",
-      "score": 0,
-      "published": "2026-10-28T19:31:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7038c62b1a56",
-      "title": "Bella Hadid Is So Biker-Coded in This Balmain Leather Jacket",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74273315/bella-hadid-balmain-biker-jacket-los-angeles-street-style-photos/",
-      "summary": "Is she moving on from her cowgirl era?",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bella Hadid Is So Biker-Coded in This Balmain Leather Jacket...",
-      "score": 0,
-      "published": "2026-10-28T17:49:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2599,20 +2585,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5f146cf89633",
-      "title": "Must Read: Maria Grazia Chiuri on Her Return to Fendi, How Fashion Labels Are Democratizing Runway Shows",
-      "link": "https://fashionista.com/news/maria-grazia-chiuris-return-to-fendi-interview",
-      "summary": "Plus, Ralph Lauren links executive pay to AI progress.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Must Read: Maria Grazia Chiuri on Her Return to Fendi, How Fashion Lab...",
-      "score": 4,
-      "published": "2026-10-16T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6b3a5694f6cc",
       "title": "Milano Fashion Week SS27: la moda torna a essere personale",
       "link": "https://www.theblondesalad.com/fashion/milano-fashion-week-ss27-la-moda-torna-a-essere-personale/",
@@ -2823,6 +2795,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4f1466ad92ea",
+      "title": "Celebs Are Serving Serious Diwali Outfit Inspo, and We’re Taking Notes",
+      "link": "https://www.azafashions.com/blog/celebrity-diwali-outfit-inspo/?utm_source=rss&utm_medium=rss&utm_campaign=celebrity-diwali-outfit-inspo",
+      "summary": "This year's celebrity Diwali looks 2026 prove that festive dressing has moved well beyond tradition. Bold, sculptural silhouettes, unexpected color stories, and months-in-the-making craftsmanship are now firmly part of the&#8230; The post Celebs Are Serving Serious Diwali Outfit Inspo, and We’re Taking Notes appeared f",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 5,
+      "published": "2026-10-31T11:36:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1a8045776de9",
       "title": "The Best Tummy-Flattering Dresses for Every Occasion",
       "link": "https://www.azafashions.com/blog/tummy-flattering-dresses/?utm_source=rss&utm_medium=rss&utm_campaign=tummy-flattering-dresses",
@@ -2935,82 +2921,68 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2910ac1b5618",
-      "title": "The Best-Dressed Guests at ITRH’s Star-Studded Diwali Party",
-      "link": "https://www.azafashions.com/blog/itrh-diwali-party/?utm_source=rss&utm_medium=rss&utm_campaign=itrh-diwali-party",
-      "summary": "Mumbai's fashion crowd showed up and showed out at ITRH's Diwali party, and the guest list read like a love letter to Indian craftsmanship. Between the dhol beats, the diyas,&#8230; The post The Best-Dressed Guests at ITRH’s Star-Studded Diwali Party appeared first on Aza Editorials .",
+      "id": "74592d15efd3",
+      "title": "These Halloween Nail Ideas Are Almost Too Good to Be Scary",
+      "link": "https://www.azafashions.com/blog/these-halloween-nail-ideas-are-almost-too-good-to-be-scary/?utm_source=rss&utm_medium=rss&utm_campaign=these-halloween-nail-ideas-are-almost-too-good-to-be-scary",
+      "summary": "Costumes get all the attention this time of year, but your nails deserve a moment too. Halloween nail art has become its own category of creativity, with manicurists treating fingertips&#8230; The post These Halloween Nail Ideas Are Almost Too Good to Be Scary appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 4,
-      "published": "2026-10-26T08:35:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5e4c0d370f8c",
-      "title": "The Art of Accessorising Your Diwali Lehenga",
-      "link": "https://www.azafashions.com/blog/accessorising-diwali-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=accessorising-diwali-lehenga",
-      "summary": "Diwali is the one night your wardrobe gets to be as loud as the fireworks outside. But a stunning lehenga can lose its shine fast if the accessories fight for&#8230; The post The Art of Accessorising Your Diwali Lehenga appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Art of Accessorising Your Diwali Lehenga — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-10-24T10:44:11+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: These Halloween Nail Ideas Are Almost Too Good to Be Scary...",
+      "score": 0,
+      "published": "2026-10-27T11:49:00+00:00",
       "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "simon harmer",
+      "term": "kick",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "omar abdullah",
+      "term": "उद्याचे हवामान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तमिल नाडु",
+      "term": "रोहित शर्मा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अक्षर पटेल",
+      "term": "feyenoord vs fortuna sittard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಚಂದನ್ ಶೆಟ್ಟಿ",
+      "term": "yasin ayari",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "வேட்டுவம்",
+      "term": "శ్రీలంక క్రికెట్ జట్టు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ജയിലര്",
+      "term": "abhijeet sawant",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సాయిపల్లవి",
+      "term": "leicester city vs stevenage",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गुंतवणूक",
+      "term": "levante ud vs atlético madrid standings",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அக்டோபர் 31",
+      "term": "ishaan khatter",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
