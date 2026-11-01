@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T08:38:43.232817+00:00",
+  "generated_at": "2026-11-01T11:42:06.391212+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 185,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hertunba Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-11-01T08:35:19+00:00",
+      "published": "2026-11-01T11:38:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,105 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Oshobor Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-11-01T08:35:19+00:00",
+      "published": "2026-11-01T11:38:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "41ff0719593a",
+      "title": "Ask Earl With Laurel Pantin: How to Style Leopard as a Neutral",
+      "link": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
+      "summary": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ask Earl With Laurel Pantin: How to Style Leopard as a Neutral...",
+      "score": 1,
+      "published": "2026-11-01T11:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8f49fd3a0f1",
+      "title": "Just One Thing: Polo Ralph Lauren’s Polo Blaze Bag",
+      "link": "https://www.vogue.com/article/just-one-thing-polo-ralph-lauren-blaze-bag",
+      "summary": "Drawing on the house’s equestrian heritage, Polo Ralph Lauren’s new Polo Blaze bag combines saddle-inspired details with a sculptural silhouette. Here’s why it deserves a place in your fall wardrobe.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Just One Thing: Polo Ralph Lauren’s Polo Blaze Bag...",
+      "score": 0,
+      "published": "2026-11-01T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bbe24f9abb3a",
+      "title": "30 Items Vogue Editors Happily Shopped, From Flannel Shirts to Tomato-Red Knitwear",
+      "link": "https://www.vogue.com/article/what-vogue-editors-purchased",
+      "summary": "Curious what Vogue editors actually spend their money on? These are the items that you’ll actually find in our closets this fall.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 30 Items Vogue Editors Happily Shopped, From Flannel Shirts to Tomato-...",
+      "score": 1,
+      "published": "2026-11-01T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "006f79cad17b",
+      "title": "The British Dress Brand That's Quietly Dropping the Chicest Coats of the Season",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rixo-coats-fall-winter-2026",
+      "summary": "Tapestry-inspired prints, jacquard fabrics, faux-fur trims and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-11-01T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87448175ae23",
+      "title": "Winter Is Almost Here—10 Chic Things to Buy in November That Scream Fashion Girl",
+      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-in-november-2026",
+      "summary": "Coats! Denim! Boots!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Winter Is Almost Here—10 Chic Things to Buy in November That Scream Fa...",
+      "score": 1,
+      "published": "2026-11-01T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3175044f95b7",
+      "title": "Elegant and Uncomplicated—This is the Skirt Trend Every Sophisticated Dresser is Wearing Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/long-pencil-skirt-trend-gwyneth-paltrow-2026",
+      "summary": "My new-season staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-11-01T10:05:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8eca13744cb7",
+      "title": "The Best Celebrity Halloween Costumes of 2026 So Far",
+      "link": "https://www.vogue.com/slideshow/the-best-halloween-costumes-of-2026",
+      "summary": "From Kim Kardashian as North West to Zendaya as Halle Berry—this year, Halloween is all about imitation.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-11-01T08:35:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -90,20 +188,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-11-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5982c407e295",
-      "title": "Rahul Gandhi's Ramlila March Call Sparks Mega Showdown as INDIA Bloc and BJP Face Off",
-      "link": "https://www.indiatoday.in/india/video/rahul-gandhis-ramlila-march-call-sparks-mega-showdown-as-india-bloc-and-bjp-face-off-ytvd-3029762-2026-11-01?utm_source=rss",
-      "summary": "Rahul Gandhi's Ramlila March Call Sparks Mega Showdown as INDIA Bloc and BJP Face Off",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Rahul Gandhi's Ramlila March Call Sparks Mega Showdown as INDIA Bloc a...",
-      "score": 1,
-      "published": "2026-11-01T06:39:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -345,20 +429,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8eca13744cb7",
-      "title": "The Best Celebrity Halloween Costumes of 2026 So Far",
-      "link": "https://www.vogue.com/slideshow/the-best-halloween-costumes-of-2026",
-      "summary": "From Kim Kardashian as North West to Paris Hilton as Britney Spears—this year, Halloween is all about imitation.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-31T13:37:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "21eb9cb893b5",
       "title": "The Best Restaurants in Paris Now, From Classic Bistros to Cutting-Edge Tasting Menus",
       "link": "https://www.vogue.com/article/best-restaurants-in-paris",
@@ -415,20 +485,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fa99b66172c9",
-      "title": "Cool Editors and Their Moms Agree—These Are the Best Beauty and Fashion Gifts of 2026",
-      "link": "https://www.whowhatwear.com/beauty/editor-and-mom-holiday-gift-guide",
-      "summary": "Call it inherited taste.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Cool Editors and Their Moms Agree—These Are the Best Beauty and Fashio...",
-      "score": 2,
-      "published": "2026-10-31T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1070dc0d8aa6",
       "title": "I Love a Mid-Autumn Wellness Check—16 Health and Beauty Items That Just Hit My Free People Wish List",
       "link": "https://www.whowhatwear.com/wellness/free-people-wellness-products-fall-2026",
@@ -439,6 +495,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Love a Mid-Autumn Wellness Check—16 Health and Beauty Items That Jus...",
       "score": 1,
+      "published": "2026-10-31T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fa99b66172c9",
+      "title": "Cool Editors and Their Moms Agree—These Are the Best Beauty and Fashion Gifts of 2026",
+      "link": "https://www.whowhatwear.com/beauty/editor-and-mom-holiday-gift-guide",
+      "summary": "Call it inherited taste.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Cool Editors and Their Moms Agree—These Are the Best Beauty and Fashio...",
+      "score": 2,
       "published": "2026-10-31T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -468,6 +538,20 @@
       "angle": "Fashion Intelligence: Toxic Friendship: How to Spot One—and What to Do About It...",
       "score": 0,
       "published": "2026-10-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3bf9a8783c7",
+      "title": "48 Best Golf Gifts For Men: Guaranteed Hole-in-One in 2026",
+      "link": "https://www.fashionbeans.com/article/best-golf-gifts-for-men/",
+      "summary": "FYI After our most recent review, we’ve reorganized the list and added new best for attributes to help you find the perfect golf gift with ease. While the order has shifted slightly to make browsing more user-friendly, rest assured that the products themselves remain top-notch. Notably, the Rapsodo Mobile Launch Monito",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 48 Best Golf Gifts For Men: Guaranteed Hole-in-One in 2026...",
+      "score": 1,
+      "published": "2026-10-31T09:35:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -552,6 +636,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-10-31T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9329882c0d58",
+      "title": "Top 30 Gag Gifts for Men: Hilarious Ideas for Every Occasion 2026",
+      "link": "https://www.fashionbeans.com/article/funny-gifts-for-men/",
+      "summary": "FYI After reviewing the latest offerings, we’re happy to report that our original picks still hold strong. And that&#8217;s not just us hitting our favorite Bullshit button. The Light-Up Beardaments Beard Ornaments has taken our top choice from the original Beardaments (because when you have ornaments in your beard, th",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-10-31T06:00:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1115,48 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bc58a33ceffd",
-      "title": "Elle Fanning’s ‘Hunger Games’ Style Officially Takes Flight",
-      "link": "https://www.vogue.com/article/elle-fanning-valentino-butterfly-skirt-suit-hunger-games-2026-10-30",
-      "summary": "While we’re mere days into what’s sure to be a lengthy press tour, Elle Fanning is already showing us what she’s made of.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Elle Fanning’s ‘Hunger Games’ Style Officially Takes Flight...",
-      "score": 2,
-      "published": "2026-10-30T15:12:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cf3ffee11c41",
-      "title": "Kim Kardashian Is Back in Her Lob Era",
-      "link": "https://www.vogue.com/article/kim-kardashian-is-back-in-her-lob-era",
-      "summary": "On the “All’s Fair” press tour, Kim Kardashian is revisiting one of her chicest beauty signatures: the glossy, shoulder-grazing lob.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kim Kardashian Is Back in Her Lob Era...",
-      "score": 1,
-      "published": "2026-10-30T15:00:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "482d7f40c336",
-      "title": "At This Ultra-Private New Hotel in Florence, You Can Live Like a Modern Medici",
-      "link": "https://www.vogue.com/article/la-reserve-firenze-hotel-opening",
-      "summary": "A family-owned pied-à-terre inside a 15th-century palazzo in buzzy Oltrarno, La Réserve Firenze offers Trattoria Cammillo room service and the keys to the city’s best-kept secrets.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: At This Ultra-Private New Hotel in Florence, You Can Live Like a Moder...",
-      "score": 0,
-      "published": "2026-10-30T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "caeb1359c80d",
       "title": "From NYC to L.A.: 6 Celebrity Outfit Ideas to Re-Create for Fall 2026",
       "link": "https://www.whowhatwear.com/fashion/shopping/fall-2026-outfit-formulas",
@@ -1322,62 +1378,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-10-30T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b82492aa3d6c",
-      "title": "Apple Martin's Cute Jeans-and-Shoe Outfit Combo Is Very '90s Gwyneth Paltrow",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/apple-martin-denim-outfit-idea-for-fall",
-      "summary": "Spotted in NYC.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Apple Martin's Cute Jeans-and-Shoe Outfit Combo Is Very '90s Gwyneth P...",
-      "score": 1,
-      "published": "2026-10-30T08:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "209adc8eb7b5",
-      "title": "The Exact 6 Shoe Colors That Signal Good Style This Fall",
-      "link": "https://www.whowhatwear.com/fashion/fall/shoe-color-trends-fall-2026",
-      "summary": "Niche but chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Exact 6 Shoe Colors That Signal Good Style This Fall...",
-      "score": 1,
-      "published": "2026-10-30T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "656f7d152d5a",
-      "title": "Black Is Classic, But It Girls Are Wearing These Colourful Knitwear Trends Instead This Winter",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/knitwear-colour-trends-2026",
-      "summary": "Orange is the new black.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-30T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bbe637742c55",
-      "title": "I Swear Jeans With This Small Detail Look Much More Elegant Than Those Without",
-      "link": "https://www.whowhatwear.com/fashion/denim/pintuck-jeans-trend-winter-2026",
-      "summary": "The chicest I've seen denim look.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Swear Jeans With This Small Detail Look Much More Elegant Than Those...",
-      "score": 1,
-      "published": "2026-10-30T07:15:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2263,34 +2263,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3ee969f1b3a3",
-      "title": "Cupid Cologne Review: Is Hypnosis 2.0 Worth It?",
-      "link": "https://www.fashionbeans.com/article/cupid-cologne-review/",
-      "summary": "Discover Cupid Cologne: a luxurious blend of amber, vanilla and woody notes that adapts to your chemistry. With impressive 7-8 hour longevity and universal appeal, this affordable luxury fragrance earns its stellar 4.7/5 rating from over 1,200 satisfied customers.",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Cupid Cologne Review: Is Hypnosis 2.0 Worth It?...",
-      "score": 1,
-      "published": "2026-10-27T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cbd55e2506ff",
-      "title": "55 Funny Bumble Bios for Men That Actually Stand Out in 2026",
-      "link": "https://www.fashionbeans.com/article/funny-bumble-bios/",
-      "summary": "Your Bumble bio has one job: give someone a reason to swipe right and something worth talking about. A little humor helps, but there&#8217;s a fine line between charming and trying way too hard. The best funny Bumble bios show off your personality without sounding like you borrowed your entire sense of humor from the &",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 55 Funny Bumble Bios for Men That Actually Stand Out in 2026...",
-      "score": 1,
-      "published": "2026-10-27T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2d4682b5dbcb",
       "title": "AGMES Jewelry Seeking Full-Time In-Person Marketing + Social Media Coordinator In NYC",
       "link": "https://fashionista.com/2026/10/agmes-jewelry-seeking-full-time-in-person-marketing-social-media-coordinator-in-nyc",
@@ -2937,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "आयरलैंड बनाम नामीबिया",
+      "term": "nepal premier league",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రిషబ్ పంత్",
+      "term": "kl rahul",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जहान्वी कपूर",
+      "term": "ജ്യോതിക",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ireland vs namibia",
+      "term": "student",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಜಿ.ಪರಮೇಶ್ವರ",
+      "term": "cyclonic storm murasu",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cbse date sheet 2027 class 12",
+      "term": "यो यो हनी सिंह",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "motogp",
+      "term": "cbse date sheet 2027",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "icc",
+      "term": "kannada news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "star sports",
+      "term": "dolphins vs boland",
       "summary": "",
-      "aza_category": "Celebrity Style"
+      "aza_category": "Fashion & Style"
     },
     {
-      "term": "വാഹനം",
+      "term": "como vs venezia",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
