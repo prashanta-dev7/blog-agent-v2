@@ -1,39 +1,137 @@
 {
-  "generated_at": "2026-11-02T08:47:45.361611+00:00",
+  "generated_at": "2026-11-02T13:06:47.395773+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 181,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "b57bdaef4d8f",
-      "title": "CM Vijay launches development projects worth over Rs 80 crore in Pudukkottai",
-      "link": "https://www.indiatoday.in/india/story/tamil-nadu-projects-cm-vijay-inaugurates-44-works-launches-70-more-3030454-2026-11-02?utm_source=rss",
-      "summary": "CM Vijay launches development projects worth over Rs 80 crore in Pudukkottai",
-      "source": "India Today Fashion",
+      "id": "7b27d4f8e47b",
+      "title": "Estée Lauder Companies Sales Climb 6% in Q1",
+      "link": "https://www.vogue.com/article/estee-lauder-companies-sales-climb-6-in-q1",
+      "summary": "The company marks five quarters of consecutive growth, demonstrating the success of its consumer-first turnaround plan.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-11-02T08:22:21+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Estée Lauder Companies Sales Climb 6% in Q1...",
+      "score": 0,
+      "published": "2026-11-02T12:17:30+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "70d6a453752c",
-      "title": "The Iconic 90's Celeb Outfits We'd Wear This Winter, According to Our Editors",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/it-girl-90s-outfits-2026",
-      "summary": "Take it from the It girls.",
+      "id": "4c91358b3e27",
+      "title": "Engagement Ring Care: 13 Tips From the Experts",
+      "link": "https://www.vogue.com/article/engagement-ring-rules-care-how-to",
+      "summary": "Have questions about engagement ring care? Find out when to wear it, when to leave it off, how to clean it and more, with insightful tips from industry experts.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Engagement Ring Care: 13 Tips From the Experts...",
+      "score": 1,
+      "published": "2026-11-02T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f899e338de3a",
+      "title": "If You Wear This Fashion-Forward Beauty Trend, You're Automatically Cool in My Eyes",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/perfume-pendants",
+      "summary": "It's only expected to grow this year.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Iconic 90's Celeb Outfits We'd Wear This Winter, According to Our ...",
-      "score": 2,
-      "published": "2026-11-02T07:00:00+00:00",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-11-02T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e2c8a1b04de7",
+      "title": "Bored of Jeans? IMO, This Comfortable Trouser Trend Looks Even Better With Flats",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-trousers-flat-mules-outfit-elsa-hosk-2026",
+      "summary": "Casual but considered.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-02T11:52:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b0de23d70029",
+      "title": "Leather, Suede and the Wild Side: Texture Takes the Lead for A/W 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/leather-suede-wild-side-texture-takes-lead-w-2026/",
+      "summary": "Oversized jackets, soft suede layers and croc and leopard details are shaping the season&#8217;s outerwear, accessories and footwear across womenswear and menswear. Leather is one of the most discussed materials of the Fall/Winter 2026 runways. The oversized leather jacket emerged as a standout piece, from Saint Lauren",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Leather, Suede and the Wild Side: Texture Takes the Lead for A/W 2026...",
+      "score": 4,
+      "published": "2026-11-02T11:49:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1d325102dfee",
+      "title": "Fur Gets a Second Act: Faux Fur and Texture Anchor A/W 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/fur-gets-second-act-faux-fur-texture-anchor-w-2026/",
+      "summary": "Plush surfaces, shearling-look finishes and fur trims dominate the season&#8217;s outerwear, across womenswear and menswear alike. Texture is one of the defining themes of the Fall/Winter 2026 runways. Louise Trotter&#8217;s second Bottega Veneta collection offered fur, pile, shearling and fringe, while Louis Vuitton&#",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Fur Gets a Second Act: Faux Fur and Texture Anchor A/W 2026...",
+      "score": 5,
+      "published": "2026-11-02T11:42:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4d411983475f",
+      "title": "Baazar Style Retail Opens Three New Stores, Network Reaches 290",
+      "link": "https://in.apparelresources.com/business-news/retail/baazar-style-retail-opens-three-new-stores-network-reaches-290/",
+      "summary": "Baazar Style Retail Limited has opened three new Style Baazar stores in Silapathar, Assam, and Tajpur and Bettiah in Bihar, taking its total store count to 290 as of November 1, 2026. The latest expansion follows the company&#8217;s continued retail network growth during the second quarter of FY27. As of September 30, ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Baazar Style Retail Opens Three New Stores, Network Reaches 290...",
+      "score": 1,
+      "published": "2026-11-02T11:07:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "393af2a7fd85",
+      "title": "Confessions of a Pants Girl: How I Finally Came to Love the Skirt",
+      "link": "https://www.vogue.com/article/how-i-came-to-love-the-skirt",
+      "summary": "Pernille Teisbaek on how the recent shows inspired her to revisit the skirt’s place in her wardrobe. Here’s how she’s styling it now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Confessions of a Pants Girl: How I Finally Came to Love the Skirt...",
+      "score": 1,
+      "published": "2026-11-02T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9b5e4b10348d",
+      "title": "Jeans With This Shirt Trend and This Heel Trend Will Be the It-Girl Uniform of November 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-shirt-jeans-ballet-pumps-outfit-lila-moss",
+      "summary": "Spotted on Lila Moss",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-02T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,17 +149,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8e5fe49013b8",
-      "title": "Omar Abdullah and Nidhi Razdan's wedding unlawful under Sharia: Jamaat chief",
-      "link": "https://www.indiatoday.in/india/story/omar-abdullah-nidhi-rajdan-marriage-unlawful-under-sharia-muslim-jamaat-chief-fatwa-3030369-2026-11-02?utm_source=rss",
-      "summary": "Omar Abdullah and Nidhi Razdan's wedding unlawful under Sharia: Jamaat chief",
-      "source": "India Today Fashion",
+      "id": "70d6a453752c",
+      "title": "The Iconic 90's Celeb Outfits We'd Wear This Winter, According to Our Editors",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/it-girl-90s-outfits-2026",
+      "summary": "Take it from the It girls.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Omar Abdullah and Nidhi Razdan's wedding unlawful under Sharia — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-11-02T06:35:41+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Iconic 90's Celeb Outfits We'd Wear This Winter, According to Our ...",
+      "score": 2,
+      "published": "2026-11-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -443,20 +541,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "006f79cad17b",
-      "title": "The British Dress Brand That's Quietly Dropping the Chicest Coats of the Season",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rixo-coats-fall-winter-2026",
-      "summary": "Tapestry-inspired prints, jacquard fabrics, faux-fur trims and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-11-01T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "87448175ae23",
       "title": "Winter Is Almost Here—10 Chic Things to Buy in November That Scream Fashion Girl",
       "link": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-in-november-2026",
@@ -467,6 +551,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Winter Is Almost Here—10 Chic Things to Buy in November That Scream Fa...",
       "score": 1,
+      "published": "2026-11-01T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "006f79cad17b",
+      "title": "The British Dress Brand That's Quietly Dropping the Chicest Coats of the Season",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rixo-coats-fall-winter-2026",
+      "summary": "Tapestry-inspired prints, jacquard fabrics, faux-fur trims and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-11-01T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -542,7 +640,7 @@
     },
     {
       "id": "ec1f10cb775c",
-      "title": "Forget Balayage—Nude Hair Is the Low-Key Colour Trend Taking Over This Autumn",
+      "title": "Forget Balayage—\"Nude Hair\" Is the Low-Key Colour Trend Taking Over This Autumn",
       "link": "https://www.whowhatwear.com/beauty/hair/nude-hair-colour-trend",
       "summary": "It's so chic.",
       "source": "Who What Wear",
@@ -835,20 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1070dc0d8aa6",
-      "title": "I Love a Mid-Autumn Wellness Check—16 Health and Beauty Items That Just Hit My Free People Wish List",
-      "link": "https://www.whowhatwear.com/wellness/free-people-wellness-products-fall-2026",
-      "summary": "I'm so ready to place my order.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Love a Mid-Autumn Wellness Check—16 Health and Beauty Items That Jus...",
-      "score": 1,
-      "published": "2026-10-31T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fa99b66172c9",
       "title": "Cool Editors and Their Moms Agree—These Are the Best Beauty and Fashion Gifts of 2026",
       "link": "https://www.whowhatwear.com/beauty/editor-and-mom-holiday-gift-guide",
@@ -859,6 +943,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Cool Editors and Their Moms Agree—These Are the Best Beauty and Fashio...",
       "score": 2,
+      "published": "2026-10-31T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1070dc0d8aa6",
+      "title": "I Love a Mid-Autumn Wellness Check—16 Health and Beauty Items That Just Hit My Free People Wish List",
+      "link": "https://www.whowhatwear.com/wellness/free-people-wellness-products-fall-2026",
+      "summary": "I'm so ready to place my order.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Love a Mid-Autumn Wellness Check—16 Health and Beauty Items That Jus...",
+      "score": 1,
       "published": "2026-10-31T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -961,34 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ffd9379a6948",
-      "title": "I Know You're Stylish If You're Wearing This New British Brand That Rivals COS and Reformation",
-      "link": "https://www.whowhatwear.com/fashion/shopping/arteof-small-brand-best-pieces-2026",
-      "summary": "A new favourite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "882340f1fcfe",
-      "title": "5 Fall Hair Color Combos That Shouldn’t Work, But Celebrity Stylists Love",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-unexpected-fall-hair-color-combos",
-      "summary": "Not your first thought, but so so pretty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9329882c0d58",
       "title": "Top 30 Gag Gifts for Men: Hilarious Ideas for Every Occasion 2026",
       "link": "https://www.fashionbeans.com/article/funny-gifts-for-men/",
@@ -1000,62 +1070,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 1,
       "published": "2026-10-31T06:00:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fac21f768555",
-      "title": "How to Spot an It Girl This Winter? She’ll Be Wearing One of These 7 Elite Fashion Trends",
-      "link": "https://www.whowhatwear.com/fashion/winter/it-girl-winter-trends-2026",
-      "summary": "Babe, you look so cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-10-31T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "69600e91c71d",
-      "title": "Spotted on the Set of The Housemaid's Secret: Kirsten Dunst Wearing 2027's Sexiest Heel Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/the-housemaids-secret-set-photos-kirsten-dunst",
-      "summary": "The sequel just started filming in NYC.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-10-31T02:02:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ffefdba7c6a0",
-      "title": "Zoë Kravitz Just Wore the Fall 2026 Shoe Trend That's Been Hiding in Prada's 1995 Archives",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-prada-heels",
-      "summary": "Zoë Kravitz Just Wore the Fall 2026 Shoe Trend That's Been Hiding in Prada's 1995 Archives",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-10-31T01:17:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c807425712bf",
-      "title": "I Combed Through Thousands of New Activewear Arrivals—These 33 Finds Are at the Top of My List",
-      "link": "https://www.whowhatwear.com/fashion/athleisure/new-winter-activewear-arrivals-shop-talk",
-      "summary": "So chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Combed Through Thousands of New Activewear Arrivals—These 33 Finds A...",
-      "score": 1,
-      "published": "2026-10-31T01:07:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1255,34 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "42756b01acf3",
-      "title": "Benito Skinner and Mary Beth Barone Share 12 Last-Minute Halloween Costume Ideas",
-      "link": "https://www.vogue.com/article/benito-skinner-mary-beth-barone-last-minute-halloween-ideas-10-30-2026",
-      "summary": "One of them is the \"What was that?\" lady from The Wendy Williams Show.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Benito Skinner and Mary Beth Barone Share 12 Last-Minute Halloween Cos...",
-      "score": 1,
-      "published": "2026-10-30T17:50:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c0c13ad88bb3",
-      "title": "9 Tips for The Day Before a Marathon",
-      "link": "https://www.vogue.com/article/tips-for-the-day-before-a-marathon",
-      "summary": "Experts share tips on how to survive—and even thrive—a long run.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 9 Tips for The Day Before a Marathon...",
-      "score": 0,
-      "published": "2026-10-30T17:45:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1eaa302e5dfa",
       "title": "The Best Rhode Skincare Products, According to Experts",
       "link": "https://www.harpersbazaar.com/beauty/skin-care/a74297564/best-rhode-products/",
@@ -1294,20 +1280,6 @@
       "angle": "Fashion Intelligence: The Best Rhode Skincare Products, According to Experts...",
       "score": 0,
       "published": "2026-10-30T17:43:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fb6b4c81514b",
-      "title": "9 Best Skin Tightening Creams for Smooth & Lifted Skin",
-      "link": "https://www.vogue.com/article/skin-tightening-creams",
-      "summary": "Experts sound off on the best skin-tightening creams packed with peptides, retinol, and more that boost collagen and elastin production for firmer, smoother skin.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 9 Best Skin Tightening Creams for Smooth & Lifted Skin...",
-      "score": 0,
-      "published": "2026-10-30T17:42:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1829,20 +1801,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8f4655a9cd9f",
-      "title": "Trent Q2 Revenue Rises 22.5% to Rs 5,788 Crore",
-      "link": "https://in.apparelresources.com/business-news/retail/trent-q2-revenue-rises-22-5-rs-5788-crore/",
-      "summary": "Trent Ltd, the Tata Group’s retail company, reported an 8.6% year-on-year increase in net profit to Rs 490 crore (US$51.47 million) in Q2 FY27, compared with Rs 451 crore (US$47.37 million) in the corresponding quarter last year. During the quarter, Trent’s value-fashion brand Zudio opened its 1,000th store. As of Sept",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Trent Q2 Revenue Rises 22.5% to Rs 5,788 Crore...",
-      "score": 2,
-      "published": "2026-10-29T13:29:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b2c7c98e60a2",
       "title": "Zara Larsson's Dolphin Eye Patches Put This New K-Beauty Brand on the Map",
       "link": "https://fashionista.com/2026/10/depthi-skin-care-brand-founder-interview",
@@ -1885,20 +1843,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec57f87d298c",
-      "title": "Fall/Winter 2026 Trend Intelligence How Form, Function & Fantasy Are Intersecting",
-      "link": "https://in.apparelresources.com/fashion-news/trends/fall-winter-2026-trend-intelligence-form-function-fantasy-intersecting/",
-      "summary": "The upcoming Fall Winter 2026 season marks a decisive shift away from quiet minimalism toward pieces that balance emotional expression, functionality, and long-term value. Shoppers are investing less frequently but with greater purpose, and prioritising pieces that feel distinctive, versatile, and emotionally resonant ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-10-29T11:54:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "702c8705830e",
       "title": "Military Style Tips All Men Should Know",
       "link": "https://www.fashionbeans.com/article/military-style-lessons/",
@@ -1924,20 +1868,6 @@
       "angle": "Fashion Intelligence: 25 Best Sweaters For Men To Sport Year-Round 2026...",
       "score": 1,
       "published": "2026-10-29T10:00:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "294757fb42d8",
-      "title": "Raymond Lifestyle Q2 Revenue Rises 13.2% to Rs 2,075 Crore in Q2 FY27",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/raymond-lifestyle-q2-revenue-rises-13-2-to-rs-2075-crore-in-q2-fy27/",
-      "summary": "Raymond Lifestyle Ltd reported strong revenue growth across key businesses in Q2 FY27, led by a 26% year-on-year increase in Garmenting revenue to Rs 339 crore (US $35.62 million) and a 20% rise in Branded Apparel revenue to Rs 559 crore (US $58.73 million). Overall revenue from operations grew 13.2% to Rs 2,075 crore ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Raymond Lifestyle Q2 Revenue Rises 13.2% to Rs 2,075 Crore in Q2 FY27...",
-      "score": 2,
-      "published": "2026-10-29T09:53:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2739,6 +2669,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "127b6e11594b",
+      "title": "Diwali Lehenga Ideas 2026 for Every Budget",
+      "link": "https://www.azafashions.com/blog/diwali-lehenga-ideas-2026-every-budget/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-lehenga-ideas-2026-every-budget",
+      "summary": "Diwali 2026 lehengas range from easy, budget-friendly sets under a few thousand rupees to statement couture pieces with hand embroidery and bridal-level detailing. Pick a sequinned or gota-work lehenga if&#8230; The post Diwali Lehenga Ideas 2026 for Every Budget appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Diwali Lehenga Ideas 2026 for Every Budget — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-11-02T12:40:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "734b638c8c5c",
       "title": "13 Types of Skirts Every Wardrobe Needs Right Now (And How to Wear Each One)",
       "link": "https://www.azafashions.com/blog/types-of-skirts-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-skirts-to-know",
@@ -2863,70 +2807,56 @@
       "score": 3,
       "published": "2026-10-29T04:52:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "6dfc3173b94c",
-      "title": "10 Ways to Dress for an Indian Baby Shower Without Outshining the Mom-to-Be",
-      "link": "https://www.azafashions.com/blog/indian-baby-shower-outfit-ideas-usa/?utm_source=rss&utm_medium=rss&utm_campaign=indian-baby-shower-outfit-ideas-usa",
-      "summary": "Forget the games, the cupcake tower, and the “guess the baby food” bingo.&#160; An Indian baby shower is a different kind of party. Think a living room that smells of&#8230; The post 10 Ways to Dress for an Indian Baby Shower Without Outshining the Mom-to-Be appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 10 Ways to Dress for an Indian Baby Shower Without Outshining the Mom-...",
-      "score": 2,
-      "published": "2026-10-28T14:53:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "prithvi shaw",
+      "term": "pakhtakor vs al-nassr",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "meg lanning",
+      "term": "kerala lottery results",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "abp ananda live",
+      "term": "thanksgiving 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hang seng index",
+      "term": "બંગાળની ખાડીમાં",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বেতন",
+      "term": "gta vi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hang seng",
+      "term": "rafael jodar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सांसद",
+      "term": "అంతర్జాతీయ క్రికెట్ మండలి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "airport",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "झारखंड",
+      "term": "henry nicholls",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "red dead redemption 2",
+      "term": "சூர்யா",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "लता मंगेशकर",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
