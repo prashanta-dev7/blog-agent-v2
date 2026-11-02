@@ -244,8 +244,38 @@ async def get_post_details(page, href):
     }
 
 
+EMPTY_PAGE_DIAGNOSTICS = 3   # how many empty profiles to describe in the log
+_empty_pages_logged = 0
+ABORT_AFTER = 9              # accounts to try before giving up on a 0-post run
+
+
+async def log_empty_page(page, handle):
+    """Describe what Instagram actually served when no post links were found."""
+    global _empty_pages_logged
+    if _empty_pages_logged >= EMPTY_PAGE_DIAGNOSTICS:
+        return
+    _empty_pages_logged += 1
+    try:
+        title = await page.title()
+        login_form = await page.locator("input[name='username']").count()
+        body = await page.evaluate(
+            "() => (document.body.innerText || '').replace(/\\s+/g, ' ').slice(0, 300)"
+        )
+        print(f"  🔍 @{handle} — no post links found")
+        print(f"     url:        {page.url}")
+        print(f"     title:      {title!r}")
+        print(f"     login form: {'YES' if login_form else 'no'}")
+        print(f"     page text:  {body!r}")
+        await page.screenshot(path=f"debug_{handle}.png")
+    except Exception as e:
+        print(f"  🔍 @{handle} — diagnostics failed: {e}")
+
+
 async def scrape_one_account(handle, cookies, semaphore, results, progress):
     async with semaphore:
+        if progress.get("abort"):
+            progress["done"] += 1
+            return
         try:
             await asyncio.wait_for(
                 _scrape_one_account_inner(handle, cookies, results),
@@ -262,6 +292,12 @@ async def scrape_one_account(handle, cookies, semaphore, results, progress):
         bar = "█" * (pct // 5) + "░" * (20 - pct // 5)
         n = len(results.get(handle, []))
         print(f"[{bar}] {pct}%  @{handle} — {n} posts  ({done}/{total})")
+
+        # Fail fast: if the first batch yielded nothing, the whole run will.
+        if done >= ABORT_AFTER and not any(results.values()):
+            if not progress.get("abort"):
+                print(f"\n⛔ First {done} accounts returned 0 posts, aborting early.")
+            progress["abort"] = True
 
 
 async def _scrape_one_account_inner(handle, cookies, results):
@@ -290,6 +326,8 @@ async def _scrape_one_account_inner(handle, cookies, results):
                 print(f"  ⚠️  @{handle} — login wall, skipping")
             else:
                 hrefs = await find_post_links(page, POSTS_PER_ACCOUNT)
+                if not hrefs:
+                    await log_empty_page(page, handle)
                 for href in hrefs:
                     try:
                         post = await get_post_details(page, href)
@@ -354,6 +392,7 @@ def build_ig_posts_payload(results):
 
 # ── Main ────────────────────────────────────────────────────────────────
 async def main():
+    sys.stdout.reconfigure(line_buffering=True)  # show logs live in Actions
     cookies = load_cookies()
 
     start = datetime.now(timezone.utc)
