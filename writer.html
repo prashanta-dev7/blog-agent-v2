@@ -457,7 +457,7 @@ a{color:inherit}
     <div class="settings-section">
       <h3>WordPress</h3>
       <label for="wp-site-url">Site URL</label>
-      <input type="url" id="wp-site-url" placeholder="https://ssblog.azaonline.in" value="https://ssblog.azaonline.in">
+      <input type="url" id="wp-site-url" placeholder="https://www.samyuktasinghania.com/blog" value="https://www.samyuktasinghania.com/blog">
       <label for="wp-username">Username</label>
       <input type="text" id="wp-username" placeholder="your-username">
       <label for="wp-app-password">App Password</label>
@@ -1789,7 +1789,7 @@ function openSettings(e) {
   document.getElementById('settings-overlay').classList.add('active');
   document.getElementById('api-key-input').value = getApiKey();
   document.getElementById('openai-key-input').value = sessionStorage.getItem('OPENAI_API_KEY') || '';
-  document.getElementById('wp-site-url').value = sessionStorage.getItem('WP_SITE_URL') || 'https://ssblog.azaonline.in';
+  document.getElementById('wp-site-url').value = sessionStorage.getItem('WP_SITE_URL') || 'https://www.samyuktasinghania.com/blog';
   document.getElementById('wp-username').value = sessionStorage.getItem('WP_USERNAME') || '';
   document.getElementById('wp-app-password').value = sessionStorage.getItem('WP_APP_PASSWORD') || '';
   document.getElementById('wp-default-category').value = sessionStorage.getItem('WP_DEFAULT_CATEGORY') || 'blog';
@@ -2104,8 +2104,8 @@ function rewriteMediaUrl(url) {
   if (!url) return url;
   // Handle multisite redirect: rewrite Aza Fashions URLs to Samyukta blog
   if (url.includes('azafashions.com/blog')) {
-    const corrected = url.replace('https://www.azafashions.com/blog', 'https://ssblog.azaonline.in');
-    console.log(`🔗 Media URL rewrite: ...${url.substring(url.length - 50)} → ssblog.azaonline.in...`);
+    const corrected = url.replace('https://www.azafashions.com/blog', 'https://www.samyuktasinghania.com/blog');
+    console.log(`🔗 Media URL rewrite: ...${url.substring(url.length - 50)} → samyuktasinghania.com/blog...`);
     return corrected;
   }
   return url;

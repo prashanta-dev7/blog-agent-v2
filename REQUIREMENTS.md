@@ -20,7 +20,7 @@ at the click of a button in State 3 of `writer.html`.
 
 ## WordPress Environment
 
-- **Site:** `https://ssblog.azaonline.in` (QA/staging)
+- **Site:** `https://www.samyuktasinghania.com/blog` (live)
 - **Type:** Self-hosted WordPress
 - **REST API:** Enabled and confirmed working
 - **SEO Plugin:** Yoast Premium — active, REST API fields available
@@ -53,12 +53,12 @@ Add three new fields to the settings panel:
 
 ```
 ── WordPress ──────────────────────────────
-Site URL      [https://ssblog.azaonline.in   ]
+Site URL      [https://www.samyuktasinghania.com/blog   ]
 Username      [                              ]
 App Password  [                         ••••]  ← password input type
 ```
 
-- Site URL defaults to `https://ssblog.azaonline.in` — pre-filled, user can change
+- Site URL defaults to `https://www.samyuktasinghania.com/blog` — pre-filled, user can change
 - All three stored in `sessionStorage` as `WP_SITE_URL`, `WP_USERNAME`, `WP_APP_PASSWORD`
 - Never committed, never logged, cleared on tab close
 - If any WordPress credential is missing when "Publish to WordPress Draft" is clicked,
@@ -248,7 +248,7 @@ Do not include in the WordPress post payload:
 - No category or tag assignment in this version — user sets these in WP editor
 - No featured image — user adds this in WP editor
 - No revision history or publish log
-- The QA site (`ssblog.azaonline.in`) is the only target — no multi-site support
+- The live site (`www.samyuktasinghania.com/blog`) is the only target — no multi-site support
 
 ---
 
@@ -259,14 +259,14 @@ the browser console on any page of the tool:
 
 ```javascript
 // Test 1 — REST API reachable
-fetch('https://ssblog.azaonline.in/wp-json/wp/v2/posts?per_page=1')
+fetch('https://www.samyuktasinghania.com/blog/wp-json/wp/v2/posts?per_page=1')
   .then(r => r.json())
   .then(data => console.log('REST API OK:', data))
   .catch(e => console.error('REST API failed:', e));
 
 // Test 2 — Auth works (run after getting app password)
 const creds = btoa('YOUR_USERNAME:YOUR_APP_PASSWORD');
-fetch('https://ssblog.azaonline.in/wp-json/wp/v2/users/me', {
+fetch('https://www.samyuktasinghania.com/blog/wp-json/wp/v2/users/me', {
   headers: { 'Authorization': `Basic ${creds}` }
 })
   .then(r => r.json())

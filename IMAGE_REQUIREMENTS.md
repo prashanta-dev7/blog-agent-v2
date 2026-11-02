@@ -704,7 +704,7 @@ API Key      [sk-...                            ****]
              (~$0.00004 per blog, ~6 calls)
 
 -- WordPress -----------------------------------------
-Site URL     [https://ssblog.azaonline.in          ]
+Site URL     [https://www.samyuktasinghania.com/blog          ]
 Username     [                                     ]
 App Password [                                ****]
 
@@ -791,7 +791,7 @@ Publish flow:
     browser, check figure insertion after </h2>.
 
 22. Full publish flow — wire all steps: media → post → featured
-    image → Yoast. Test on QA site (ssblog.azaonline.in).
+    image → Yoast. Test with a draft post on the live site (www.samyuktasinghania.com/blog).
 
 23. Prompt caching — replace all callClaude() with callClaudeWithCaching().
     Confirm cache stats appear in console.

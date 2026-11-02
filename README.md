@@ -281,7 +281,7 @@ callClaudeWithCaching({
 - Same sessionStorage handling as Anthropic key
 
 **WordPress Credentials**
-- Site URL: `https://ssblog.azaonline.in` (configurable)
+- Site URL: `https://www.samyuktasinghania.com/blog` (configurable)
 - Username: Application username
 - App Password: 24-character application password (not account password)
 - Used for media upload, post creation, featured image, Yoast SEO
@@ -330,7 +330,7 @@ blog_topics_new/
 - Google AI API key (for research dashboard idea generation) — [Get key](https://aistudio.google.com/app/apikey)
 - Anthropic API key (for blog writer) — [Get key](https://console.anthropic.com)
 - OpenAI API key (for product embeddings) — [Get key](https://platform.openai.com/api-keys)
-- WordPress site with REST API enabled (for blog publishing) — ssblog.azaonline.in or your site
+- WordPress site with REST API enabled (for blog publishing) — www.samyuktasinghania.com/blog or your site
 - WordPress application password (not account password) — [Generate](https://wordpress.com/support/application-passwords/)
 - Instagram cookies exported from [Cookie-Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) for Instagram scraping
 
