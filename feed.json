@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T08:57:35.867228+00:00",
+  "generated_at": "2026-11-03T12:38:24.459183+00:00",
   "owned_count": 10,
   "competitor_count": 18,
-  "industry_count": 175,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sinéad O'Dwyer Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-11-03T08:52:21+00:00",
+      "published": "2026-11-03T12:34:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Lisa Folawiyo Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-11-03T08:52:21+00:00",
+      "published": "2026-11-03T12:34:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Emmy Kasbit Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-11-03T08:52:21+00:00",
+      "published": "2026-11-03T12:34:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fruché Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-11-03T08:52:21+00:00",
+      "published": "2026-11-03T12:34:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Boyedoe Lagos Spring 2027...",
       "score": 0,
-      "published": "2026-11-03T08:52:21+00:00",
+      "published": "2026-11-03T12:34:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,189 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kith Spring 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-11-03T08:52:21+00:00",
+      "published": "2026-11-03T12:34:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e54cd9a743cf",
+      "title": "From '80s-Inspired Hair to the 2010 Smoky Eye: Fashion Month Put These 7 Bold Beauty Trends Back in Motion",
+      "link": "https://www.whowhatwear.com/beauty/makeup/fashion-week-beauty-trends-spring-summer-2027",
+      "summary": "What's old is new.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-11-03T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fae75617bd30",
+      "title": "Calling It: This \"Ugly\" Shoe-Color Trend Is About to Go Viral",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pear-colored-shoe-trend-alexa-chung",
+      "summary": "Alexa Chung's Tory Burch shoes are proof.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-03T11:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "11ce5f253861",
+      "title": "Arvind Fashions Q2 FY27 Profit Rises 19.4% to Rs 67.6 Crore; Revenue Up 10%",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/arvind-fashions-q2-fy27-profit-rises-19-4-rs-67-6-crore-revenue-10/",
+      "summary": "Arvind Fashions Ltd (AFL) reported a 19.44% year-on-year increase in consolidated net profit to Rs 67.62 crore (approximately US $7.6 million) for the second quarter of FY27, compared with Rs 56.61 crore in the corresponding quarter last year. Revenue from operations increased 9.96% to Rs 1,558.83 crore (approximately ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Arvind Fashions Q2 FY27 Profit Rises 19.4% to Rs 67.6 Crore; Revenue U...",
+      "score": 1,
+      "published": "2026-11-03T11:12:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d033494b4570",
+      "title": "Jenny Kee and the Untold Story of Chanel’s Original Australian Debut",
+      "link": "https://www.vogue.com/article/jenny-kee-and-the-untold-story-of-chanels-original-australian-debut",
+      "summary": "Jenny Kee reveals the untold story of Chanel’s original Aussie debut back in 1982, at a pivotal moment in the maison’s history.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 0,
+      "published": "2026-11-03T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19a69489642e",
+      "title": "On the Podcast: Vogue Editors on the Midterm Races They’ll Be Watching",
+      "link": "https://www.vogue.com/article/on-the-podcast-vogue-editors-on-the-most-compelling-midterm-races",
+      "summary": "Election day is upon us. Not 24 hours before the midterm elections, New York Times Congressional Correspondent and occasional Vogue essayist Annie Karni stopped by “The Run-Through” to chat with Chloe and Taylor Antrim about the possible outcomes of some of this year’s most contentious races.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: On the Podcast: Vogue Editors on the Midterm Races They’ll Be Watching...",
+      "score": 1,
+      "published": "2026-11-03T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "93354ce90c6a",
+      "title": "69 of the Best Kendall Jenner Street Style Looks",
+      "link": "https://www.vogue.com/slideshow/kendall-jenner-street-style",
+      "summary": "Over the last decade, Kendall Jenner has transformed from a nascent model to a fashion fiend. In honor of her birthday, see some of her best looks here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 69 of the Best Kendall Jenner Street Style Looks...",
+      "score": 3,
+      "published": "2026-11-03T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "831ecd4f86d0",
+      "title": "Thinking About Your Party Wardrobe? I Already Know the Best-Dressed Guests Will Be All About This Emerging Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gold-dress-trend-hailey-bieber-zoe-kravitz-cfda-awards-2026",
+      "summary": "Already confirmed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-03T10:58:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-11-03T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f5e8277fc2e",
+      "title": "Can Money Buy You A Better Brain?",
+      "link": "https://www.vogue.com/article/can-money-buy-you-a-better-brain",
+      "summary": "From five-figure cognitive longevity retreats to brain scanning headphones, luxury wellness is turning its attention to the mind. But can science keep pace with the booming business?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Can Money Buy You A Better Brain?...",
+      "score": 1,
+      "published": "2026-11-03T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "942a728a711f",
+      "title": "How Transparency Is Being Layered for A/W 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/transparency-layered-w-2026/",
+      "summary": "Sheer has moved from shock to craft. Globally, it ran through the spring/summer 2026 runways and continued into fall 2026 collections, with Khaite, The Row and Valentino taking refined approaches. The same report notes that Valentino built entire looks from organza, treating it as architecture, and that Gucci layered s",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How Transparency Is Being Layered for A/W 2026...",
+      "score": 3,
+      "published": "2026-11-03T09:51:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b209fd475a37",
+      "title": "The Peplum Revival: A/W 2026’s Playful Take on Proportion",
+      "link": "https://in.apparelresources.com/fashion-news/trends/peplum-revival-w-2026s-playful-take-proportion/",
+      "summary": "Peplum is back as one of the defining shapes of 2026, and the new version is lighter and more varied than the office-wear staple of a decade ago. Globally, the peplum jacket appeared across the Autumn/Winter 2026 runways, at Givenchy, Simone Rocha, Patrick McDowell, Dior, Paloma Wool and Magda Butrym. The styling has s",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Peplum Revival: A/W 2026’s Playful Take on Proportion...",
+      "score": 2,
+      "published": "2026-11-03T09:32:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "efaab04304c9",
+      "title": "Hugo Boss Sales Drop 5% Amid Frasers Takeover",
+      "link": "https://www.vogue.com/article/hugo-boss-sales-drop-5-amid-frasers-takeover",
+      "summary": "Hugo Boss sales continued to fall amid a protracted turnaround strategy and Fraser Group’s takeover of the company.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hugo Boss Sales Drop 5% Amid Frasers Takeover...",
+      "score": 0,
+      "published": "2026-11-03T09:29:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a55c26fb91c",
+      "title": "I Waited Weeks for Zara's Chic Reversible Coat to Restock—Now It’s Back and Already Selling Fast",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-reversible-double-sided-coat",
+      "summary": "Two styles for one.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Waited Weeks for Zara's Chic Reversible Coat to Restock—Now It’s Bac...",
+      "score": 1,
+      "published": "2026-11-03T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -104,20 +286,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-11-03T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "20cb3c78dec7",
-      "title": "Delhi Traders Urge Police Chief To Ban Festive Rallies After Claiming ₹14,000 Crore Loss",
-      "link": "https://www.indiatoday.in/india/video/delhi-traders-urge-police-chief-to-ban-festive-rallies-after-claiming-rs14000-crore-loss-ytvd-3031251-2026-11-03?utm_source=rss",
-      "summary": "Delhi Traders Urge Police Chief To Ban Festive Rallies After Claiming ₹14,000 Crore Loss",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-11-03T07:23:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -695,20 +863,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4f603817be67",
-      "title": "Adria Arjona Has Come Full Circle",
-      "link": "https://www.vogue.com/article/adria-arjona-beauty-interview-loreal-paris",
-      "summary": "The actor and producer reflects on her makeup journey, girlhood, and becoming the newest L’Oréal Paris global ambassador.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Adria Arjona Has Come Full Circle...",
-      "score": 0,
-      "published": "2026-11-02T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f3a0283b9b79",
       "title": "The 10 Best Jones Road Beauty Products, According to Harper’s Bazaar Editors",
       "link": "https://www.harpersbazaar.com/beauty/makeup/a74283242/best-jones-road-beauty-products/",
@@ -748,48 +902,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-11-02T13:17:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bff32f9bdfd0",
-      "title": "The Grooms—and Every Single Guest—Wore White to This Wedding at a Virginia Gilded Age Mansion",
-      "link": "https://www.vogue.com/slideshow/cameron-billinghurst-and-nolan-beck-rivera-wedding",
-      "summary": "From an a cappella gospel choir to a disco-ball piñata and late-night Slurpees, the wedding of Cameron Billinghurst and Nolan Beck Rivera, founders of interiors studio Studio Tarea, was filled with playful details.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Grooms—and Every Single Guest—Wore White to This Wedding at a Virginia Gilded Age Mansion — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-11-02T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7b27d4f8e47b",
-      "title": "Estée Lauder Companies Sales Climb 6% in Q1",
-      "link": "https://www.vogue.com/article/estee-lauder-companies-sales-climb-6-in-q1",
-      "summary": "The company marks five quarters of consecutive growth, demonstrating the success of its consumer-first turnaround plan.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Estée Lauder Companies Sales Climb 6% in Q1...",
-      "score": 0,
-      "published": "2026-11-02T12:17:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4c91358b3e27",
-      "title": "Engagement Ring Care: 13 Tips From the Experts",
-      "link": "https://www.vogue.com/article/engagement-ring-rules-care-how-to",
-      "summary": "Have questions about engagement ring care? Find out when to wear it, when to leave it off, how to clean it and more, with insightful tips from industry experts.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Engagement Ring Care: 13 Tips From the Experts...",
-      "score": 1,
-      "published": "2026-11-02T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -863,20 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "393af2a7fd85",
-      "title": "Confessions of a Pants Girl: How I Finally Came to Love the Skirt",
-      "link": "https://www.vogue.com/article/how-i-came-to-love-the-skirt",
-      "summary": "Pernille Teisbaek on how the recent shows inspired her to revisit the skirt’s place in her wardrobe. Here’s how she’s styling it now.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Confessions of a Pants Girl: How I Finally Came to Love the Skirt...",
-      "score": 1,
-      "published": "2026-11-02T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9b5e4b10348d",
       "title": "Jeans With This Shirt Trend and This Heel Trend Will Be the It-Girl Uniform of November 2026",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/plaid-shirt-jeans-ballet-pumps-outfit-lila-moss",
@@ -916,48 +1014,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-11-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b95059ed6dae",
-      "title": "The Commercial Potential of Double Denim",
-      "link": "https://in.apparelresources.com/fashion-news/trends/commercial-potential-double-denim/",
-      "summary": "THE CANADIAN TUXEDO RETURNS WITH COORDINATED SEPARATES, NEW COLOURWAYS AND ELEVATED DETAILING Double denim is emerging as a key SS ‘27 menswear statement trend, with designers and high fashion presenting coordinated jackets, shirts and jeans as complete looks instead of just standalone pieces. The trend moves beyond tr",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Commercial Potential of Double Denim...",
-      "score": 5,
-      "published": "2026-11-02T06:23:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fa9f7ff1e727",
-      "title": "The New Gold Standard",
-      "link": "https://in.apparelresources.com/fashion-news/trends/new-gold-standard/",
-      "summary": "After several seasons of pared-back palettes and subdued metallics, gold is reclaiming attention for the upcoming season, bringing warmth, luminosity and a stronger sense of occasion to fashion. The shift is particularly visible in the renewed prominence of yellow gold, whose rich, warm character connects with the retu",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The New Gold Standard...",
-      "score": 3,
-      "published": "2026-11-02T06:01:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a086708fb718",
-      "title": "Inside Kering’s First Water Resilience Lab in Italy",
-      "link": "https://www.vogue.com/article/inside-kerings-first-water-resilience-lab-in-italy",
-      "summary": "Kering has developed a roadmap for water resilience. There’s a long way to go, but the group says it now has the right building blocks for real change.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Inside Kering’s First Water Resilience Lab in Italy...",
-      "score": 0,
-      "published": "2026-11-02T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1241,34 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec1f10cb775c",
-      "title": "Forget Balayage—\"Nude Hair\" Is the Low-Key Colour Trend Taking Over This Autumn",
-      "link": "https://www.whowhatwear.com/beauty/hair/nude-hair-colour-trend",
-      "summary": "It's so chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3bd496a87483",
-      "title": "Gilded Drama, Gatsby Furs and Gothic Lace: 6 Luxury Trends Shaping Winter 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/luxury-fashion-trends-winter-2026",
-      "summary": "The coldest season is heating up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-11-01T03:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5e49f8cc392f",
       "title": "29 Best Leather Gifts for Him in 2026 – Unique and Timeless Choices",
       "link": "https://www.fashionbeans.com/article/best-leather-gifts-for-men/",
@@ -1322,20 +1350,6 @@
       "angle": "Fashion Intelligence: Keira Knightley’s Theater Look Is a Regal Erdem Runway Fit...",
       "score": 1,
       "published": "2026-10-31T21:49:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d3ae62b83ca6",
-      "title": "25 Trendy Fall Dresses That Are Peak Fashion Person",
-      "link": "https://www.whowhatwear.com/fashion/dresses/it-girl-fall-dresses-2026",
-      "summary": "From flowing fringe to playful plaid.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-10-31T20:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2853,52 +2867,52 @@
   ],
   "trends": [
     {
-      "term": "दिल्ली पुलिस",
+      "term": "ദുബായ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विमान दुर्घटना",
+      "term": "gujarat vs kerala",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारतीय रेल",
+      "term": "পয়সা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "trit raj das",
+      "term": "saff championship",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "fortuner",
+      "term": "sbi bank q2 results",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi results",
+      "term": "pokhara avengers vs lumbini lions match scorecard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "harmeet singh",
+      "term": "weather raipur",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "యశస్వి జైస్వాల్",
+      "term": "റിമി ടോമി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jesús de miguel",
+      "term": "ചേരാനല്ലൂര്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "au bank",
+      "term": "പിറന്നാള്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
