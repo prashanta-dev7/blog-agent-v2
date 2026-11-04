@@ -1,13 +1,279 @@
 {
-  "generated_at": "2026-11-04T08:32:01.624499+00:00",
+  "generated_at": "2026-11-04T12:47:22.362669+00:00",
   "owned_count": 10,
   "competitor_count": 24,
-  "industry_count": 174,
+  "industry_count": 171,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "fd9f9699058b",
+      "title": "23 Iconic ’90s Bobs, As Seen on Celebrities",
+      "link": "https://www.vogue.com/slideshow/iconic-90s-bobs",
+      "summary": "Flipped out, sleek, or choppy—the ’90s gave us some of our most enduring bob trends. Prepare to be inspired.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 23 Iconic ’90s Bobs, As Seen on Celebrities...",
+      "score": 1,
+      "published": "2026-11-04T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a40959b000a",
+      "title": "The 28 Best Hostess Gifts Guaranteed to Secure You an Invite Back",
+      "link": "https://www.vogue.com/article/best-hostess-gifts",
+      "summary": "Whether you’re visiting for a pasta dinner or a happy hour, we’ve rounded up the best hostess gift ideas for them all this holiday season.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The 28 Best Hostess Gifts Guaranteed to Secure You an Invite Back...",
+      "score": 1,
+      "published": "2026-11-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "83d62dc7ef82",
+      "title": "The Best Jewelry Gifts of 2026, Curated by Vogue’s Jewelry Team",
+      "link": "https://www.vogue.com/article/best-jewelry-gifts-2026",
+      "summary": "Looking for the best jewelry gifts this holiday season? Shop our edit of diamond rings, personalized necklaces, hoop earrings, and more thoughtful presents.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Jewelry Gifts of 2026, Curated by Vogue’s Jewelry Team...",
+      "score": 1,
+      "published": "2026-11-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db0b5e17daa0",
+      "title": "Gifts Under $100: Vogue-Worthy Presents for Any Occasion",
+      "link": "https://www.vogue.com/article/best-gifts-under-100",
+      "summary": "These are the best gifts under $100 to give loved ones this season. Shop gift ideas from fashion to luxury beauty products to home decor, all under $100.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 5,
+      "published": "2026-11-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "92a567538372",
+      "title": "Only the Very Best Gifts for Mom",
+      "link": "https://www.vogue.com/article/best-gift-ideas-for-mom",
+      "summary": "Discover Vogue’s edit of the best gifts for mom—from the mom with a curated beauty routine to the one who loves to host.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Only the Very Best Gifts for Mom...",
+      "score": 1,
+      "published": "2026-11-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d86306f60627",
+      "title": "50+ Incredible Gifts to Give the Women in Your Life, From Pocket-Size Luxuries to Thoughtful Tokens",
+      "link": "https://www.vogue.com/article/gifts-for-women",
+      "summary": "From fabulous fashion to skin care and more unique gifts to, shop 50+ of the best gifts for women for a wife, mom, girlfriend, or best friend in 2026.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 50+ Incredible Gifts to Give the Women in Your Life, From Pocket-Size ...",
+      "score": 1,
+      "published": "2026-11-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1fe7ea9f74eb",
+      "title": "If You Want to Elevate Your Fall Outfits, I Highly Recommend Investing in Miu Miu's Latest It Accessory",
+      "link": "https://www.whowhatwear.com/beauty/hair/zig-zag-headband-trend",
+      "summary": "You know the one.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Want to Elevate Your Fall Outfits, I Highly Recommend Investing...",
+      "score": 2,
+      "published": "2026-11-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "462c2afe1052",
+      "title": "Diptyque's Enchanted Forest Holiday Collection Is Here—16 Festive Perfumes, Candles, and Home Goods",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/diptyque-holiday-collection-2026",
+      "summary": "Is it December yet?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-11-04T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "28d2bc88bc18",
+      "title": "Monte Carlo Fashions Q2 Net Profit Falls 93%; Revenue Up 5.5%",
+      "link": "https://in.apparelresources.com/business-news/manufacturing/monte-carlo-fashions-q2-net-profit-falls-93-revenue-up-5-5/",
+      "summary": "Monte Carlo Fashions reported a 92.8% year-on-year decline in standalone net profit to Rs 1.17 crore (US $0.12 million) in Q2FY27, compared with Rs 16.26 crore (US $1.72 million) in the corresponding quarter last year. Revenue increased 5.5% to Rs 262.4 crore (US$27.67 million) from Rs 248.7 crore (US$26.24 million) in",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Monte Carlo Fashions Q2 Net Profit Falls 93%; Revenue Up 5.5%...",
+      "score": 1,
+      "published": "2026-11-04T11:48:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6ebd8b74f46b",
+      "title": "Jennifer Lawrence’s Novelty T-Shirt Is an Archive Pull for the Ages—and All Ages",
+      "link": "https://www.vogue.com/article/jennifer-lawrence-novelty-t-shirt-is-an-archive-pull-for-the-ages-11-04-2026",
+      "summary": "Flashing the “Hunger Games” salute, Jennifer Lawrence continues her streak of delightfully unpredictable off-duty dressing.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jennifer Lawrence’s Novelty T-Shirt Is an Archive Pull for the Ages—an...",
+      "score": 1,
+      "published": "2026-11-04T11:38:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8dbd582c735a",
+      "title": "Forget Arrakis, Zendaya’s Latest Look Comes From a London Auto Shop",
+      "link": "https://www.vogue.com/article/zendaya-selasi-look-11-04-2026",
+      "summary": "If Ronan McKenzie called her latest collection “Going Places,” it did just that when Law Roach enlisted the designer to dress Zendaya.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Forget Arrakis, Zendaya’s Latest Look Comes From a London Auto Shop...",
+      "score": 3,
+      "published": "2026-11-04T11:28:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "69936fadf706",
+      "title": "Sure, You *Could* Wear Jeans, But Fashion People Know This Trouser Trend Looks Even Better With Graphic Tees",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/red-trouser-trend-jennifer-lawrence-2026",
+      "summary": "Don't default to denim.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-11-04T11:27:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "219b737858af",
+      "title": "A '90s Prada Obsessive Picks Her Four Favorite Collections",
+      "link": "https://www.vogue.com/article/a-90s-prada-obsessive-picks-her-four-favorite-collections",
+      "summary": "Laia Garcia-Furtado, author of \"Prada in the Nineties\" shares her four favorite Prada collections.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-11-04T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7d7252e83340",
+      "title": "What to Read, Watch, and Listen to According to the Spring 2027 Collections",
+      "link": "https://www.vogue.com/article/what-to-read-watch-and-listen-to-according-to-the-spring-2027-collections",
+      "summary": "Designers dished on their inspos, we listened and collated their cultural touchstones of the season to help you get inspired. Here are all the movies, books, and music,that influenced the spring 2027 collections.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-11-04T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "09a700c87982",
+      "title": "Travel Experts Agree That This Elegant Resort Is One of the Best in the U.S.—Inside MyStay",
+      "link": "https://www.whowhatwear.com/living/travel/blackberry-farm-blackberry-mountain-resort-review",
+      "summary": "What to do, eat, and wear at this pair of Smoky Mountain properties.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Travel Experts Agree That This Elegant Resort Is One of the Best in th...",
+      "score": 1,
+      "published": "2026-11-04T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "593669f19e08",
+      "title": "Primary Colours Break the Winter Neutral Rule in A/W 2026",
+      "link": "https://in.apparelresources.com/fashion-news/trends/primary-colours-break-winter-neutral-rule-w-2026/",
+      "summary": "Winter wardrobes have traditionally settled into black, grey, camel and cream. This season, designers are making a case for turning up the volume. Ferragamo, Tory Burch, Batsheva, Stella McCartney, Carolina Herrera and Gucci (Resort 2027) all showed vivid shades of red, yellow and cobalt blue. The stylists&#8217; advic",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Primary Colours Break the Winter Neutral Rule in A/W 2026...",
+      "score": 4,
+      "published": "2026-11-04T10:23:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "460accac7ef0",
+      "title": "9 Coat Trends That Will Make Your Winter Outfits Look Chicer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/winter-coat-trends-2026",
+      "summary": "Opulent satin coats, brocade jackets, faux-fur trim, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-04T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "04f8e2a453bc",
+      "title": "Sculptural Silhouettes Take Over A/W 2026, and Indian Labels Are Already There",
+      "link": "https://in.apparelresources.com/fashion-news/trends/sculptural-silhouettes-take-w-2026-indian-labels-already/",
+      "summary": "Funnel necks, peplums and cocoon shapes are turning proportion into the main design idea of the winter wardrobe, across casual, formal and outerwear. Streamlined silhouettes have not gone anywhere, but this winter’s more interesting dressing comes from playing with proportion. Global labels including Balenciaga, Khaite",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Sculptural Silhouettes Take Over A/W 2026, and Indian Labels Are Alrea...",
+      "score": 3,
+      "published": "2026-11-04T09:51:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e52c21d007cb",
+      "title": "Blake Lively Makes a Big, Bold, Blue-Sequin Return to the New York Party Scene",
+      "link": "https://www.vogue.com/article/blake-lively-blue-sequin-outfit-new-york-party-scene-11-04-2026",
+      "summary": "Returning to the Upper East Side in vintage Chanel, Blake Lively brought her penchant for sparkle to a rare evening out in the city.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Blake Lively Makes a Big, Bold, Blue-Sequin Return to the New York Par...",
+      "score": 0,
+      "published": "2026-11-04T08:45:38+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "1ba8d1d1c022",
       "title": "The Stats Don’t Lie—This Is the Chic Boot Brand Fashion People Return to Year After Year",
@@ -639,34 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "89fcb4388007",
-      "title": "Mariah Carey Answers Vogue’s Holiday Questions",
-      "link": "https://www.vogue.com/article/mariah-carey-holiday-questions-gucci-11-03-2026",
-      "summary": "The queen of Christmas offers her festive styling tips, hosting no-nos, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-11-03T15:56:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c581c32d7911",
-      "title": "The ‘All’s Fair’ Season 2 Premiere Was a Mount Rushmore of Maximalism",
-      "link": "https://www.vogue.com/article/alls-fair-season-2-new-york-premiere-kim-kardashian-2026-11-03",
-      "summary": "While the ‘All’s Fair’ cast ran the gamut from sexy to avant-garde at the season 2 premiere last night, they all brought the drama—onscreen and off.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-03T15:48:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "651c90c84c8c",
       "title": "20 Luxury Gifts for Cigar Lovers (Besides Cigars) in 2026",
       "link": "https://www.fashionbeans.com/article/best-gifts-for-cigar-lovers/",
@@ -678,20 +916,6 @@
       "angle": "Fashion Intelligence: 20 Luxury Gifts for Cigar Lovers (Besides Cigars) in 2026...",
       "score": 1,
       "published": "2026-11-03T15:37:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "574c5f5058da",
-      "title": "CFDA Awards 2026: See All the Fashion From the Red Carpet",
-      "link": "https://www.vogue.com/slideshow/cfda-awards-2026-see-all-the-fashion-from-the-red-carpet",
-      "summary": "A starry crowd gathered at New York’s American Museum of Natural History on Monday to toast the crème of American fashion at the 2026 CFDA Awards.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-03T15:32:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a446ffaddba4",
-      "title": "I Went on a Cowboy Road Trip Through the American West—and Finally Learned to Disconnect",
-      "link": "https://www.vogue.com/article/cowboy-road-trip-montana-wyoming",
-      "summary": "Between dude ranches, a blown tire in Yellowstone, and an off-grid canyon camp, Olivia Singer recounts how a weeks-long Western escape—against all odds—helped reset her nervous system.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Went on a Cowboy Road Trip Through the American West—and Finally Lea...",
-      "score": 0,
-      "published": "2026-11-03T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a900d042ea4f",
       "title": "Vince Staples Is Our November 2026 Music Director",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a74198527/vince-staples-november-2026-music-director/",
@@ -765,34 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8657bdde5933",
-      "title": "Discover the Best Dresses for Every November Occasion",
-      "link": "https://www.vogue.com/article/dresses",
-      "summary": "Explore the best dresses of the month, from slip dresses to practical everyday knit styles. Shop a wide selection of handpicked Vogue dresses.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 3,
-      "published": "2026-11-03T14:36:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "56fbab9493bd",
-      "title": "Inside Francesca Allen’s New Publication, Hair",
-      "link": "https://www.vogue.com/article/inside-francesca-allens-new-publication-hair",
-      "summary": "From Lithuania to Las Vegas, Francesca Allen continues her photographic exploration of the cultural and personal significance of long hair.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Inside Francesca Allen’s New Publication, Hair...",
-      "score": 0,
-      "published": "2026-11-03T14:35:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "05b2dd202a13",
       "title": "I'm a Celebrity Makeup Artist—5 \"Eyemaxxing\" Tricks to Achieve a Chic Espresso Smoky Eye",
       "link": "https://www.whowhatwear.com/beauty/makeup/sultry-fall-eye-makeup",
@@ -804,34 +986,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-11-03T14:02:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1ed53c6d6d4",
-      "title": "The Best Exercises for Lymphatic Drainage, Courtesy of a Detox Expert",
-      "link": "https://www.vogue.com/article/best-exercise-for-lymphatic-drainage",
-      "summary": "Lymphatic drainage expert Rebecca Faria shares her secrets to easy at-home lymphatic drainage with a few simple stretches.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Exercises for Lymphatic Drainage, Courtesy of a Detox Expert...",
-      "score": 0,
-      "published": "2026-11-03T14:01:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8360b644cae5",
-      "title": "Inside Sophie Bille Brahe’s Danish Seaside Home, Where Every Object Tells a Story",
-      "link": "https://www.vogue.com/article/sophie-bille-brahe-seaside-home-copenhagen",
-      "summary": "Just north of Copenhagen and filled with the scent of sea air and pine trees, the jewelry designer’s 1920s retreat doubles as a lively family haven and a workshop for her celebrated creations.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Inside Sophie Bille Brahe’s Danish Seaside Home, Where Every Object Te...",
-      "score": 1,
-      "published": "2026-11-03T14:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -874,48 +1028,6 @@
       "angle": "Fashion Intelligence: How Leather Jackets Bring Shape to Off-Duty Style...",
       "score": 1,
       "published": "2026-11-03T13:12:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "60b987a7afb4",
-      "title": "Hailey! Demi! Keke! An Exclusive Behind-the-Scenes Look at the 2026 CFDA Awards",
-      "link": "https://www.vogue.com/slideshow/cfda-awards-photos",
-      "summary": "See the full list of 2026 CFDA Awards winners, celebrating the best in American fashion, including womenswear, menswear, accessories, and emerging designers.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Hailey! Demi! Keke! An Exclusive Behind-the-Scenes Look at the 2026 CF...",
-      "score": 4,
-      "published": "2026-11-03T13:04:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3b5cc3a90deb",
-      "title": "Brittany Howard and Anna-Maria Babcock’s Tennessee Wedding Was a Celebration of Their Mexican and Southern Roots",
-      "link": "https://www.vogue.com/slideshow/brittany-howard-and-anna-maria-babcock-wedding",
-      "summary": "The Alabama Shakes singer and record label executive gathered friends and family in Franklin for a weekend of mariachi, custom red gowns, and queer joy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Brittany Howard and Anna-Maria Babcock’s Tennessee Wedding Was a Celebration of Their Mexican and Southern Roots — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-11-03T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "31f5a6c58b93",
-      "title": "Why I’m Wearing Nothing But Pajamas",
-      "link": "https://www.vogue.com/article/pajamas-forever",
-      "summary": "When my husband died last March, I took to wearing glamorous pajamas. I’m not sure I’ll ever wear anything else.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-03T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b209fd475a37",
-      "title": "The Peplum Revival: A/W 2026’s Playful Take on Proportion",
-      "link": "https://in.apparelresources.com/fashion-news/trends/peplum-revival-w-2026s-playful-take-proportion/",
-      "summary": "Peplum is back as one of the defining shapes of 2026, and the new version is lighter and more varied than the office-wear staple of a decade ago. Globally, the peplum jacket appeared across the Autumn/Winter 2026 runways, at Givenchy, Simone Rocha, Patrick McDowell, Dior, Paloma Wool and Magda Butrym. The styling has s",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Peplum Revival: A/W 2026’s Playful Take on Proportion...",
-      "score": 2,
-      "published": "2026-11-03T09:32:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0a55c26fb91c",
       "title": "I Waited Weeks for Zara's Chic Reversible Coat to Restock—Now It’s Back and Already Selling Fast",
       "link": "https://www.whowhatwear.com/fashion/shopping/zara-reversible-double-sided-coat",
@@ -1140,20 +1238,6 @@
       "angle": "Fashion Intelligence: My Best Friend Asked Me What to Wear This November—I Sent Her These 6 ...",
       "score": 2,
       "published": "2026-11-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "51380c5d4a82",
-      "title": "KKCL’s Q2 FY27 Profit Rises 15% to Rs 54 Crore; H1 Revenue Up 11%",
-      "link": "https://in.apparelresources.com/business-news/manufacturing/kkcls-q2-fy27-profit-rises-15-rs-54-crore-h1-revenue-11/",
-      "summary": "Kewal Kiran Clothing Limited (KKCL), the company behind brands including Killer, Integriti, Lawman, Easies and Kraus, reported a 5% year-on-year (YoY) increase in revenue from operations to Rs 373 crore (US $39.3 million) in Q2 FY27, compared with Rs 354 crore (US $37.3 million) in the corresponding quarter last year. ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: KKCL’s Q2 FY27 Profit Rises 15% to Rs 54 Crore; H1 Revenue Up 11%...",
-      "score": 1,
-      "published": "2026-11-03T06:39:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1563,48 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc5cccdabea5",
-      "title": "From HardWear to T by Tiffany: Gold Jewelry Gifts for Every Style",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/tiffany-and-co-gold-jewelry-gifts-for-every-style",
-      "summary": "Bold, minimal, or somewhere in between.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From HardWear to T by Tiffany: Gold Jewelry Gifts for Every Style...",
-      "score": 2,
-      "published": "2026-11-02T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ef68024104b6",
-      "title": "2026's Upcoming Fall Hair Trends Aren't What I Expected—They're Chicer",
-      "link": "https://www.whowhatwear.com/beauty/hair/fall-hair-trends-2026",
-      "summary": "The pros have spoken.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-02T04:59:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86f4232169f3",
-      "title": "This Is the 3-Piece Outfit 2026 Cool Girls Are Wearing Instead of Leggings and a Hoodie",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/track-pants-outfit-trend-jennifer-lawrence",
-      "summary": "Jennifer Lawrence is aware.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-11-02T00:24:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9def1013c91b",
       "title": "Gracie Abrams Channels Romeo and Juliet With Armor, Angel Wings, and Tons of Chanel",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74305769/gracie-abrams-romeo-and-juliet-halloween-costumes-saturday-night-live-performance/",
@@ -1616,48 +1658,6 @@
       "angle": "Fashion Intelligence: Gracie Abrams Channels Romeo and Juliet With Armor, Angel Wings, and T...",
       "score": 1,
       "published": "2026-11-01T22:06:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "afeb20962839",
-      "title": "Anthropologie Is My Go-To for Cute Plus-Size Clothes—18 Must-Have Styles I Saw This Week",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-anthropologie-plus-size-new-arrivals-november-2026",
-      "summary": "Shop everything from on-trend taffeta pants to cool holiday-party looks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Anthropologie Is My Go-To for Cute Plus-Size Clothes—18 Must-Have Styl...",
-      "score": 2,
-      "published": "2026-11-01T22:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f1463f9f5962",
-      "title": "Lessons in Simplicity: 6 Low-Effort Scandi Trends That Look Exceptionally Sleek",
-      "link": "https://www.whowhatwear.com/fashion/shopping/effortless-scandi-trends-winter-2026",
-      "summary": "No jeans, no trench coats.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-01T21:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd7e75ed511c",
-      "title": "No Need To Guess—6 Fall Shoe Trends Fashion People Are Wearing Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shoes/best-fall-shoe-trends-november-2026",
-      "summary": "From animal print to penny loafers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-11-01T19:10:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2067,20 +2067,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "22988e1fe2d8",
-      "title": "12 Types of Pants for Men: A Guide to Trouser Styles",
-      "link": "https://www.fashionbeans.com/article/modern-trouser-styles-for-men/",
-      "summary": "Statement jackets and the latest sneakers tend to get all the attention, but a good pair of trousers can do more for an outfit than either. The right type of pants for men can be the most quietly powerful item you wear, but get it wrong and you&#8217;ll instantly dull the shine of the trending &#8230; Continue reading ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 12 Types of Pants for Men: A Guide to Trouser Styles...",
-      "score": 4,
-      "published": "2026-10-29T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7a2e7fd28277",
       "title": "6 Best Chino Colors: Must Have Versatile Styles 2026",
       "link": "https://www.fashionbeans.com/article/chino-colours-every-man-should-own/",
@@ -2092,34 +2078,6 @@
       "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
       "score": 1,
       "published": "2026-10-29T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4f713d178157",
-      "title": "Business Casual for Men – 14 Dress Code Styles + Guide 2026",
-      "link": "https://www.fashionbeans.com/article/business-casual-guide-men/",
-      "summary": "Business Casual is an album by Canadian electro-funk duo Chromeo. Confusingly, men&#8217;s business casual is also a dress code &#8211; one that is as baffling as its inherently contradictory moniker. Business isn’t something that you want to be casual about. Which oxymoron came up with that not-too-smart idea? “Busine",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Business Casual for Men – 14 Dress Code Styles + Guide 2026...",
-      "score": 2,
-      "published": "2026-10-29T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c845e67dd3ad",
-      "title": "5 Classic Ways To Wear A Short Back And Sides",
-      "link": "https://www.fashionbeans.com/article/best-mens-short-back-sides-hairstyles/",
-      "summary": "Staying well-groomed is not nearly as effortless as it should look. From mastering tie knots to keeping your toenails from sprouting their own toenails, the official list of requirements for looking good seems to grow longer by the day. You can make the task of looking constantly vaguely presentable easier with four si",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Classic Ways To Wear A Short Back And Sides...",
-      "score": 1,
-      "published": "2026-10-29T08:30:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2781,6 +2739,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d016f86ae81d",
+      "title": "Diamonds That Don’t Wait for an Occasion",
+      "link": "https://www.azafashions.com/blog/diamonds-dont-wait-for-an-occasion/?utm_source=rss&utm_medium=rss&utm_campaign=diamonds-dont-wait-for-an-occasion",
+      "summary": "There was a time when buying diamond jewellery came with a certain amount of ceremony. An engagement, a wedding, an anniversary, perhaps a milestone birthday. Diamonds, reserved for the moments&#8230; The post Diamonds That Don’t Wait for an Occasion appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-11-04T12:06:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c6ba4bc7e8df",
+      "title": "Diwali Outfits for Pregnant Women: Comfortable Festive Picks",
+      "link": "https://www.azafashions.com/blog/diwali-outfits-for-pregnant-women/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-outfits-for-pregnant-women",
+      "summary": "The best Diwali outfits for pregnant women prioritize stretch, breathable fabrics, and flowy silhouettes over tight, structured fits. Kaftans, A-line kurta sets, and anarkalis work well because they skim the&#8230; The post Diwali Outfits for Pregnant Women: Comfortable Festive Picks appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 4,
+      "published": "2026-11-04T08:58:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "127b6e11594b",
       "title": "Diwali Lehenga Ideas 2026 for Every Budget",
       "link": "https://www.azafashions.com/blog/diwali-lehenga-ideas-2026-every-budget/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-lehenga-ideas-2026-every-budget",
@@ -2891,84 +2877,56 @@
       "score": 3,
       "published": "2026-10-29T14:42:15+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "3c1b3d3bac34",
-      "title": "Best place to buy Indian bridal lehengas online in the USA",
-      "link": "https://www.azafashions.com/blog/best-place-buy-indian-bridal-lehengas-online-usa/?utm_source=rss&utm_medium=rss&utm_campaign=best-place-buy-indian-bridal-lehengas-online-usa",
-      "summary": "Indian bridal lehengas are having a major moment in the USA. More NRI brides and South Asian Americans are choosing traditional lehengas for weddings, sangeets, and reception events and the&#8230; The post Best place to buy Indian bridal lehengas online in the USA appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Best place to buy Indian bridal lehengas online in the USA — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-10-29T10:38:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ff86325c98e4",
-      "title": "13 Best Designers to Know Before Investing in Your Diwali Saree",
-      "link": "https://www.azafashions.com/blog/diwali-saree-designers/?utm_source=rss&utm_medium=rss&utm_campaign=diwali-saree-designers",
-      "summary": "Diwali is the one night when everyone dresses to be seen. Every room is gold-lit, every camera is out, and every saree has something to prove.&#160; The easy approach is&#8230; The post 13 Best Designers to Know Before Investing in Your Diwali Saree appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 3,
-      "published": "2026-10-29T04:52:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ben vs mah",
+      "term": "emma walmsley",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rajat patidar",
+      "term": "pictures",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gta vi ps5",
+      "term": "বিরাট কোহলি",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "suspended",
+      "term": "dhanteras 2026 date and time",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "women's big bash league",
+      "term": "വിരാട് കോഹ്ലി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "திருட்டு",
+      "term": "indian navy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "seven seater",
+      "term": "മത്സ്യം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eenadu news",
+      "term": "maria sakkari",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "காய்கறி",
+      "term": "விராட் கோலி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rain delay",
+      "term": "ట్రాఫిక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
