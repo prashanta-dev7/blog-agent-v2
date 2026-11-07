@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T08:14:49.893357+00:00",
+  "generated_at": "2026-11-07T11:31:14.740805+00:00",
   "owned_count": 10,
   "competitor_count": 22,
-  "industry_count": 182,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rag & Bone Pre-Fall 2027...",
       "score": 0,
-      "published": "2026-11-07T08:14:20+00:00",
+      "published": "2026-11-07T11:28:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,77 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Ralph Lauren Pre-Fall 2027...",
       "score": 0,
-      "published": "2026-11-07T08:14:20+00:00",
+      "published": "2026-11-07T11:28:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "853cbf1fd9fd",
+      "title": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now",
+      "link": "https://www.vogue.com/article/fall-2026-most-wanted-accessories",
+      "summary": "A silk scarf tied at the waist, a brooch pinned to a blazer, or a strand of pearls tucked beneath a sheer knit are the small styling gestures making the biggest impact.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The 9 Most-Wanted Accessories of Fall—and How to Style Them Now...",
+      "score": 2,
+      "published": "2026-11-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "711f383755ff",
+      "title": "Colormania Outside the Spring 2027 Shows",
+      "link": "https://www.vogue.com/article/color-mania-outside-the-spring-2027-shows",
+      "summary": "Bubble-gum pink or mustard yellow, cobalt blue or royal purple—the spring 2027 street style scene was all about color.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Colormania Outside the Spring 2027 Shows...",
+      "score": 2,
+      "published": "2026-11-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "783724c23b3b",
+      "title": "The Classics: How Tiffany & Co. Turned This Bracelet From 1962 Into an A-List Favorite in 2026",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/hardwear-by-tiffany-jewelry-collection-history",
+      "summary": "We're breaking down the HardWear collection, as seen on Zendaya, Laura Harrier, Alexa Chung, Rosie Huntington-Whiteley, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Classics: How Tiffany & Co. Turned This Bracelet From 1962 Into an...",
+      "score": 2,
+      "published": "2026-11-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "56fa908e3fae",
+      "title": "Ayodhya prepares for 10th Deepotsav with 30 lakh lamps and special drone show",
+      "link": "https://www.indiatoday.in/india/video/ayodhya-to-host-10th-deepotsav-with-record-lamp-lighting-and-cultural-events-ytvd-3034370-2026-11-07?utm_source=rss",
+      "summary": "Ayodhya prepares for 10th Deepotsav with 30 lakh lamps and special drone show",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Ayodhya prepares for 10th Deepotsav with 30 lakh lamps and special dro...",
+      "score": 1,
+      "published": "2026-11-07T09:33:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "936c8131da1b",
+      "title": "Are Fashion People Wearing Maxi Cardigans? Yes, But Only Like *This*",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/best-maxi-cardigans",
+      "summary": "Duster sweaters are back!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-11-07T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -104,34 +174,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-11-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "87173afcb0de",
-      "title": "Prime Minister Narendra Modi to deliver plenary address at India Today Group's Kisan Tak Bharat Agriculture Conference 2026",
-      "link": "https://www.indiatoday.in/india/story/pm-narendra-modi-plenary-address-kisan-tak-bharat-agriculture-conference-3034287-2026-11-07?utm_source=rss",
-      "summary": "Prime Minister Narendra Modi to deliver plenary address at India Today Group's Kisan Tak Bharat Agriculture Conference 2026",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Prime Minister Narendra Modi to deliver plenary address at India Today...",
-      "score": 1,
-      "published": "2026-11-07T06:35:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5c701fec11ad",
-      "title": "Petrol samples in Karnataka show ethanol blending above mandated 20 percent limit",
-      "link": "https://www.indiatoday.in/india/video/ethanol-blending-in-petrol-samples-from-karnataka-exceeds-20-percent-limit-ytvd-3034262-2026-11-07?utm_source=rss",
-      "summary": "Petrol samples in Karnataka show ethanol blending above mandated 20 percent limit",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Petrol samples in Karnataka show ethanol blending above mandated 20 pe...",
-      "score": 1,
-      "published": "2026-11-07T05:18:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,6 +779,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7175ad77d0c1",
+      "title": "The Best Men’s Wavy Hairstyles For 2026",
+      "link": "https://www.fashionbeans.com/article/best-wavy-hairstyles-for-men/",
+      "summary": "Why do we always want what we don’t have? Those with limp, straight hair would often kill for a bit of volume that doesn’t require styling tools or bucket-loads of product. And those with tight spiral curls eye the straight-haired with envy. But between the two, there’s natural waves. And while those with wavy hair &#8",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Men’s Wavy Hairstyles For 2026...",
+      "score": 1,
+      "published": "2026-11-06T12:57:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "105de7a70c55",
       "title": "Kendall Jenner Slips Into Holiday Red for Intimissimi",
       "link": "https://www.fashiongonerogue.com/story/kendall-jenner-intimissimi-holiday-2026/",
@@ -877,20 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bb298de8189b",
-      "title": "54 Thoughts I Had Watching the Season 2 Premiere of ‘All’s Fair’",
-      "link": "https://www.vogue.com/article/54-thoughts-i-had-watching-the-season-2-premiere-of-alls-fair",
-      "summary": "It’s not a Ryan Murphy joint if two legendary actresses over 40 aren’t glaring at each other through the dim light of a fish tank.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-06T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e685bed7f635",
       "title": "My Packing Style: Creative Director Gabriella Khalil",
       "link": "https://www.vogue.com/article/packing-style-gabriella-khalil",
@@ -901,6 +943,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: My Packing Style: Creative Director Gabriella Khalil...",
       "score": 3,
+      "published": "2026-11-06T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bb298de8189b",
+      "title": "54 Thoughts I Had Watching the Season 2 Premiere of ‘All’s Fair’",
+      "link": "https://www.vogue.com/article/54-thoughts-i-had-watching-the-season-2-premiere-of-alls-fair",
+      "summary": "It’s not a Ryan Murphy joint if two legendary actresses over 40 aren’t glaring at each other through the dim light of a fish tank.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-11-06T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1017,6 +1073,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "51d6b3ba8e0b",
+      "title": "The Best Brogues For Men 2026",
+      "link": "https://www.fashionbeans.com/article/best-brogues-men/",
+      "summary": "Even for men who live in trainers, there’s a certain excitement that comes with stepping into &#8216;proper&#8217; shoes. Particularly when they’re as storied as the brogue. The style’s distinctive perforations were designed initially as an escape valve for bog water, favored by Irish farmers who spent half their worki",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Brogues For Men 2026...",
+      "score": 1,
+      "published": "2026-11-06T09:00:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b1d241448635",
       "title": "I Just Moved to France—All the French It Girls Are Wearing These 6 Trends",
       "link": "https://www.whowhatwear.com/fashion/trends/french-it-girl-trends-fall-2026",
@@ -1084,6 +1154,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-11-06T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed592f32b06e",
+      "title": "What Shoes To Wear With Every Style Of Trousers",
+      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-trousers/",
+      "summary": "If you’re wondering why you don’t see more men wearing puffer jackets to the beach or putting sriracha sauce on their ice cream, the answer is simple. Some things simply should not and do not and go together. The same goes for shoes and trousers. Sure, you’re probably well aware that flip-flops aren’t the perfect &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Shoes To Wear With Every Style Of Trousers...",
+      "score": 2,
+      "published": "2026-11-06T08:30:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1185,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "068e898c20cc",
-      "title": "For Natural Volume, Wash Your Hair the French-Girl Way",
-      "link": "https://www.vogue.com/article/for-natural-volume-wash-your-hair-the-french-girl-way",
-      "summary": "French girl and salon owner Daphné Narcy shares five tips to keep hair healthy and give it that je ne sais quoi.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: For Natural Volume, Wash Your Hair the French-Girl Way...",
-      "score": 0,
-      "published": "2026-11-06T01:41:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "60e130c31c26",
       "title": "True Whitaker on '90s Low-Rise, Party Dressing, and Celebrating the Holidays With Old Navy",
       "link": "https://www.whowhatwear.com/fashion/shopping/true-whitaker-old-navy-holiday-campaign-2026",
@@ -1238,20 +1308,6 @@
       "angle": "Bridal Edit: Kate Hudson Packed Nordstrom's Skimpiest Bikini for Her BFF's Wedding in Hawaii—and It's Still in Stock — A Complete Style Guide",
       "score": 1,
       "published": "2026-11-06T00:20:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "50bed3e35f27",
-      "title": "Priyanka Mattoo Wants You to Try Leaning Out",
-      "link": "https://www.vogue.com/article/priyanka-mattoo-how-to-be-less-useful-interview",
-      "summary": "“How to Be Less Useful: The Joy of Inefficiency” is out now from Knopf.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Priyanka Mattoo Wants You to Try Leaning Out...",
-      "score": 0,
-      "published": "2026-11-05T23:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1717,20 +1773,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3f7c9ef86eac",
-      "title": "OMG, Nordstrom's First Black Friday Deals Are Already Here—I Know You Won't Regret These 35 Fashionable Finds",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-early-black-friday-deals-2026",
-      "summary": "Coveted boots, jeans, and coats are all on sale!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: OMG, Nordstrom's First Black Friday Deals Are Already Here—I Know You ...",
-      "score": 1,
-      "published": "2026-11-05T12:04:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ae76cf2e075f",
       "title": "Life in Focus: Rimjim Deka Founder and CEO, Littlebox",
       "link": "https://in.apparelresources.com/business-news/retail/life-focus-rimjim-deka-founder-ceo-littlebox/",
@@ -1742,20 +1784,6 @@
       "angle": "Fashion Intelligence: Life in Focus: Rimjim Deka Founder and CEO, Littlebox...",
       "score": 3,
       "published": "2026-11-05T12:00:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "916dc23b5abe",
-      "title": "I'm a 5'1\" Fashion Editor—These Are the 28 Best Winter Wedding Guest Dresses for Petite Women",
-      "link": "https://www.whowhatwear.com/fashion/dresses/petite-wedding-guest-dresses-for-winter",
-      "summary": "They're worth looking at even if you don't have anything on the calendar.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm a 5'1\" Fashion Editor—These Are the 28 Best Winter Wedding Guest Dresses for Petite Women — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-11-05T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1787,6 +1815,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "48dbef95e0d8",
+      "title": "24 Best Men’s Shorts – Top Tier Guide for 2026",
+      "link": "https://www.fashionbeans.com/article/best-mens-shorts-guide/",
+      "summary": "When things start to heat up and your afternoon walks result in glistening beads of sweat on your brow, it can only mean one thing—shorts season is around the corner. It&#8217;s easy to remove layers if you&#8217;ve overcommitted; less so to add ones you&#8217;ve not brought. &#8220;Don&#8217;t dive in too early,&#8221",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 24 Best Men’s Shorts – Top Tier Guide for 2026...",
+      "score": 1,
+      "published": "2026-11-05T09:30:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "2eb21a2fa055",
       "title": "8 Best Nautica Colognes & Perfumes for Men To Try in 2026",
       "link": "https://www.fashionbeans.com/article/best-nautica-colognes/",
@@ -1798,6 +1840,20 @@
       "angle": "Fashion Intelligence: 8 Best Nautica Colognes & Perfumes for Men To Try in 2026...",
       "score": 2,
       "published": "2026-11-05T09:03:36+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9163559cb43e",
+      "title": "The 16 Best Minimalist Trainer Brands",
+      "link": "https://www.fashionbeans.com/article/the-best-minimalist-trainer-brands/",
+      "summary": "Unless you&#8217;ve been living under a soundproof rock, you&#8217;ll have noticed that some of the most lustworthy trainers of late are bulky, acid-tinged objects that could be probably be seen from space. But whatever the latest trainer trends, there will always be room in the male wardrobe for a pair of minimalist s",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The 16 Best Minimalist Trainer Brands...",
+      "score": 2,
+      "published": "2026-11-05T09:00:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2123,20 +2179,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d51850d357a7",
-      "title": "6 Best Ferragamo Cologne For The Modern Man in 2026",
-      "link": "https://www.fashionbeans.com/article/best-ferragamo-colognes/",
-      "summary": "Are you suited, booted, and searching for a scent that smells as good as you look? The best Ferragamo colognes are created for confident, go-getting guys. Those who are comfortable in their skin and looking for an unforgettable fragrance. Italian designer Ferragamo is a master of the olfactory art of creating timeless ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 6 Best Ferragamo Cologne For The Modern Man in 2026...",
-      "score": 1,
-      "published": "2026-11-04T07:49:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a590d6ac328f",
       "title": "Must Read: Meg Stalter Stars in Marc Jacobs 'Let It Joy' Campaign, Hugo Boss Lowers Outlook as Q3 Sales Drop",
       "link": "https://fashionista.com/2026/11/meg-stalter-marc-jacobs-let-it-joy-holiday-campaign",
@@ -2148,20 +2190,6 @@
       "angle": "Fashion Intelligence: Must Read: Meg Stalter Stars in Marc Jacobs 'Let It Joy' Campaign, Hug...",
       "score": 2,
       "published": "2026-11-03T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "651c90c84c8c",
-      "title": "20 Luxury Gifts for Cigar Lovers (Besides Cigars) in 2026",
-      "link": "https://www.fashionbeans.com/article/best-gifts-for-cigar-lovers/",
-      "summary": "FYI After conducting thorough research, we&#8217;ve made a few updates to our curated list of the luxury gifts for cigar lovers. We’ve rearranged some of the products to help you find the perfect gift faster, adding new best for attributes to make navigating our recommendations easier. Notably, the Whiskey Glass with C",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 20 Luxury Gifts for Cigar Lovers (Besides Cigars) in 2026...",
-      "score": 1,
-      "published": "2026-11-03T15:37:10+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2190,20 +2218,6 @@
       "angle": "Fashion Intelligence: The Thom Browne Alum Making Playful Workwear Out of Natural Fibers...",
       "score": 2,
       "published": "2026-11-03T13:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "27b4f769de1c",
-      "title": "Elwood Updates Its Core Staples in Maroon and Dark Ash Grey",
-      "link": "https://www.fashionbeans.com/article/elwood-maroon-dark-ash-grey-core-collection/",
-      "summary": "FashionBeans may earn a commission on purchases made through links in this article. Maroon is doing the interesting work in Elwood’s latest Core drop. It gives a familiar hoodie more depth, makes a matching knit set feel considered and brings a welcome change of colour to the canvas Petrol Jacket. Dark Ash Grey supplie",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Elwood Updates Its Core Staples in Maroon and Dark Ash Grey...",
-      "score": 1,
-      "published": "2026-11-03T12:41:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3007,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "केएल राहुल",
+      "term": "sharad pawar ncp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "7 नवंबर राशिफल",
+      "term": "बैंक डकैती",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shreyas iyer",
+      "term": "પૈસા",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಸಲ್ಮಾನ್ ಖಾನ್",
+      "term": "पश्चिमी विक्षोभ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जैकब डफी",
+      "term": "shadman islam",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रेखा आर्य",
+      "term": "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hanuman ansh movie",
+      "term": "muhurat trading time 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഓഹരി",
+      "term": "teer result shillong",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गाजियाबाद",
+      "term": "માધુરી દીક્ષિત",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jacob duffy",
+      "term": "విరమణ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
