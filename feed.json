@@ -1,39 +1,151 @@
 {
-  "generated_at": "2026-11-09T09:00:36.489190+00:00",
+  "generated_at": "2026-11-09T13:38:23.002353+00:00",
   "owned_count": 10,
-  "competitor_count": 22,
-  "industry_count": 185,
+  "competitor_count": 21,
+  "industry_count": 187,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "a71e6110a20e",
-      "title": "Rag & Bone Pre-Fall 2027",
-      "link": "https://www.vogue.com/fashion-shows/pre-fall-2027/rag-bone",
-      "summary": "",
+      "id": "807761c361ed",
+      "title": "Bangladesh Factories Grind to a Halt Amid Wage Protests. What’s Next?",
+      "link": "https://www.vogue.com/article/bangladesh-factories-grind-to-a-halt-amid-wage-protests-whats-next",
+      "summary": "After a week of intense minimum wage protests brought Bangladesh’s garment manufacturers to a standstill, the government delivered a small ray of hope. But fashion’s chronic mistreatment of garment workers runs deep, and fixing it won’t be straightforward.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rag & Bone Pre-Fall 2027...",
-      "score": 0,
-      "published": "2026-11-09T08:55:26+00:00",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Bangladesh Factories Grind to a Halt Amid Wage Protests. What’s Next?...",
+      "score": 1,
+      "published": "2026-11-09T13:30:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "e40344ac622e",
-      "title": "Ralph Lauren Pre-Fall 2027",
-      "link": "https://www.vogue.com/fashion-shows/pre-fall-2027/ralph-lauren",
-      "summary": "",
+      "id": "f61be39ffcfb",
+      "title": "Vogue Etiquette: Kelly Cutrone and Bozoma Saint John Have Very Different Ideas About How to Behave at Work",
+      "link": "https://www.vogue.com/article/vogue-etiquette-kelly-cutrone-and-bozoma-saint-john-workplace-etiquette",
+      "summary": "Vogue’s Oh, Behave! is a column in which experts sound off on the ever-evolving social etiquette of today. This month, Kelly Cutrone and Bozoma Saint John break down the dos and don’ts of the workplace.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ralph Lauren Pre-Fall 2027...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Vogue Etiquette: Kelly Cutrone and Bozoma Saint John Have Very Differe...",
       "score": 0,
-      "published": "2026-11-09T08:55:26+00:00",
+      "published": "2026-11-09T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "62730c2e02c3",
+      "title": "“It’s Always About Me and What I Need or What I Want to See Out in the World”: Rick Owens on Reuniting With Adidas",
+      "link": "https://www.vogue.com/article/rick-owens-adidas-collaboration",
+      "summary": "Designer Rick Owens on his new Adidas collaboration, working out in hotel slippers, and the inflatable outfits he presented for his spring 2027 collection.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: “It’s Always About Me and What I Need or What I Want to See Out in the...",
+      "score": 3,
+      "published": "2026-11-09T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b0e7db6c5be6",
+      "title": "Delhi air quality reports show discrepancies with missing pollution control measures during peak hours",
+      "link": "https://www.indiatoday.in/india/video/discrepancies-in-delhi-air-quality-reporting-and-missing-pollution-control-measures-ytvd-3035433-2026-11-09?utm_source=rss",
+      "summary": "Delhi air quality reports show discrepancies with missing pollution control measures during peak hours",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Delhi air quality reports show discrepancies with missing pollution co...",
+      "score": 1,
+      "published": "2026-11-09T12:14:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "71f6b3c5a863",
+      "title": "Not Stiletto, Not Block: The New Heeled-Boot Trend Fashion People Are Wearing With Jeans",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bootcut-jeans-cone-heel-boots-outfit-lila-moss-winter-2026",
+      "summary": "The perfect pairing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-11-09T12:00:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "194e918a6c16",
+      "title": "IYKYK: Shop 29 Early Black Friday Deals On Nordstrom’s Chicest Basics",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-basics-early-black-friday-deals-2026",
+      "summary": "You'll wear these on repeat.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: IYKYK: Shop 29 Early Black Friday Deals On Nordstrom’s Chicest Basics...",
+      "score": 1,
+      "published": "2026-11-09T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "79c0f89bdf1b",
+      "title": "My Colleague and I Styled Four Elevated Looks From One Unexpected High Street Brand—The Compliments Speak For Themselves",
+      "link": "https://www.whowhatwear.com/fashion/fall/we-try-before-you-buy-autumn-2026",
+      "summary": "Two editors, four looks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: My Colleague and I Styled Four Elevated Looks From One Unexpected High...",
+      "score": 2,
+      "published": "2026-11-09T11:45:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8b8ac77c5937",
+      "title": "The New Moon in Scorpio Has Arrived—Here’s What It Means for Every Star Sign",
+      "link": "https://www.vogue.com/article/new-moon-in-scorpio-2026-astrology-every-star-sign",
+      "summary": "The second New Moon of autumn marks the start of a fresh lunar cycle, calling on us to manifest with intention—here, an astrologer explains what it could mean for you.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The New Moon in Scorpio Has Arrived—Here’s What It Means for Every Sta...",
+      "score": 0,
+      "published": "2026-11-09T09:04:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b80424805fd",
+      "title": "It's Official: This Once-Dated Jumper Has Become Winter's Most Wanted Knit—15 Styles Worth Knowing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-argyle-jumpers",
+      "summary": "Nostalgia meets chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Official: This Once-Dated Jumper Has Become Winter's Most Wanted ...",
+      "score": 1,
+      "published": "2026-11-09T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2aa1afb42a70",
+      "title": "I’m a Jaded Senior Shopping Editor—These 5 Excellent Zara Trends Have Reinvigorated My Closet",
+      "link": "https://www.whowhatwear.com/fashion/trends/best-zara-trends-fall-winter-2026-2027",
+      "summary": "Each adds an instant cool factor to any look.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-09T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -48,20 +160,6 @@
       "angle": "Fashion Intelligence: I Wish I Could Gatekeep These—12 Brands Cool Girls Always Buy Their Ba...",
       "score": 1,
       "published": "2026-11-09T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "106065e1a04d",
-      "title": "Rahul Gandhi to visit Manipur to meet displaced families amid ethnic conflict",
-      "link": "https://www.indiatoday.in/india/video/rahul-gandhi-to-visit-manipur-amid-ongoing-ethnic-violence-ytvd-3035199-2026-11-09?utm_source=rss",
-      "summary": "Rahul Gandhi to visit Manipur to meet displaced families amid ethnic conflict",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rahul Gandhi to visit Manipur to meet displaced families amid ethnic c...",
-      "score": 1,
-      "published": "2026-11-09T07:29:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -373,6 +471,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3350c577e1e7",
+      "title": "8 Best Starter Watches For Men – Entry Level Picks For 2026",
+      "link": "https://www.fashionbeans.com/article/best-starter-watches/",
+      "summary": "I remember buying my first watch. I was in my late teens and can recall being somewhat overwhelmed by the different types on offer. There were diving watches, chronographs, and the kind you wear with a suit. Not forgetting the digital designs that all my friends were raving about. If only someone had written a &#8230; ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 8 Best Starter Watches For Men – Entry Level Picks For 2026...",
+      "score": 1,
+      "published": "2026-11-08T15:10:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a59b0a779fd4",
       "title": "A Visit With Six Women Farmers Across the Americas",
       "link": "https://www.vogue.com/article/visit-with-six-women-farmers-across-the-americas-lys-arango",
@@ -471,6 +583,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9e7cfff31910",
+      "title": "20 Best Puffer Jackets for Men: All Styles and Budgets 2026",
+      "link": "https://www.fashionbeans.com/article/mens-puffer-jackets/",
+      "summary": "There are few things in fashion that are both on-trend and practical. Meet the puffer coat, a warm and cozy outerwear layer that is perfect for those extra chilly days and nights. Men’s puffer jackets have been around for a while, and we are on a quest to find the best puffer jackets for men &#8230; Continue reading 20",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 20 Best Puffer Jackets for Men: All Styles and Budgets 2026...",
+      "score": 4,
+      "published": "2026-11-08T12:20:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "743297b157e6",
       "title": "Not a Sequin in Sight—These 8 Holiday Outfits Are the Definition of Understated Chic",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/understated-holiday-outfit-ideas-2026",
@@ -513,6 +639,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "ad22630f3222",
+      "title": "70 Unique Christmas Gifts For Men in 2026",
+      "link": "https://www.fashionbeans.com/article/christmas-gifts-for-men/",
+      "summary": "FYI We’ve freshened up our top 10 picks after diving into the latest must-haves for this holiday season. While the Amazon Echo Speaker still holds the crown as our top overall choice (it’s just that good), we’ve swapped out some of the other options to keep things interesting. These new picks are packed with cool &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 70 Unique Christmas Gifts For Men in 2026...",
+      "score": 1,
+      "published": "2026-11-08T09:30:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "987969ed2c51",
+      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
+      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
+      "score": 4,
+      "published": "2026-11-08T09:00:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "53a315dd61f0",
       "title": "I Just Found Every F/W 26 Trend at Reformation",
       "link": "https://www.whowhatwear.com/fashion/shopping/reformation-trends-fall-winter-2026",
@@ -541,6 +695,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7a2e7fd28277",
+      "title": "6 Best Chino Colors: Must Have Versatile Styles 2026",
+      "link": "https://www.fashionbeans.com/article/chino-colours-every-man-should-own/",
+      "summary": "Chinos. Hardly the life and soul of a man’s wardrobe, but integral nonetheless. But then, isn’t it precisely the former military staple’s inherent boringness that makes them so great anyway? Sure, a pair of slashed-knee skinny jeans may give a little more edge to your image and let everyone know in no uncertain terms t",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
+      "score": 1,
+      "published": "2026-11-08T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b59f43ebc33b",
+      "title": "10 Best Silver Chains For Men – Subtle Style For 2026",
+      "link": "https://www.fashionbeans.com/article/best-silver-chains-for-men/",
+      "summary": "There are plenty of ways to add a subtle edge to your daily style choices. Adding a cuff to those dark selvedge jeans. Choosing sunglasses with a pop of color. And, of course, accessorizing with a silver chain necklace. The key here: subtle. The best silver chains for men—outside of more niche sartorial leanings like &",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Silver Chains For Men – Subtle Style For 2026...",
+      "score": 1,
+      "published": "2026-11-08T08:55:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c237c961987f",
       "title": "16 Best Dress Sneakers for Men In 2026",
       "link": "https://www.fashionbeans.com/article/best-dress-sneakers-for-men/",
@@ -552,6 +734,20 @@
       "angle": "Fashion Intelligence: 16 Best Dress Sneakers for Men In 2026...",
       "score": 2,
       "published": "2026-11-08T08:20:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9cf887472ca9",
+      "title": "How To Style A Fleece Jacket – Ways To Wear in 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-wear-the-fleece-trend/",
+      "summary": "Since when has fleece been cool? Like many of the current trends permeating fashion (ugly trainers spring to mind), you probably wouldn’t have been seen dead wearing fleece just a few years ago. Now, it’s everywhere. Once reserved for hikers, bird watchers and teachers on school trips, fleece is today just as likely to",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Style A Fleece Jacket – Ways To Wear in 2026...",
+      "score": 4,
+      "published": "2026-11-08T08:00:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -569,20 +765,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5c1ccb8a749e",
-      "title": "Not Ankle Boots—The Most Stylish Celebrities Are Wearing Tights With This Winter Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/over-the-knee-boots-tights-outfit-amal-clooney-2026",
-      "summary": "Elegant outfit incoming.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-11-08T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2b82fce8b764",
       "title": "My Mum Asked What Chic Over-50s Are Wearing This Winter—5 Trends That’ll Make You Look In The Know",
       "link": "https://www.whowhatwear.com/fashion/winter/winter-2026-fashion-trends-for-over-50s",
@@ -593,6 +775,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-11-08T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5c1ccb8a749e",
+      "title": "Not Ankle Boots—The Most Stylish Celebrities Are Wearing Tights With This Winter Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/over-the-knee-boots-tights-outfit-amal-clooney-2026",
+      "summary": "Elegant outfit incoming.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-11-08T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -748,6 +944,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-11-08T01:47:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9b3df882d9cc",
+      "title": "18 Best Dress Shoes for Men 2026",
+      "link": "https://www.fashionbeans.com/article/best-dress-shoes-for-men/",
+      "summary": "In days of yore, the best dress shoes for men might’ve matched the bronze rim of your monocle, the wood of your walking cane, or the hem of your bowler hat. In these, less formal days of dressing up, the modern dress shoe still retains a surprising amount of versatility as casual and formal dress &#8230; Continue readi",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 18 Best Dress Shoes for Men 2026...",
+      "score": 1,
+      "published": "2026-11-08T01:14:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1171,76 +1381,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f2e33d40df80",
-      "title": "10 Best Socks For Doc Martens – Men’s Ultimate Comfort 2026",
-      "link": "https://www.fashionbeans.com/article/best-socks-for-doc-martens/",
-      "summary": "I love my Doc Martens, but they didn’t always love me. While they’ll definitely up your style game, you’ll have to endure that infamous Doc Marten “break-in” phase complete with blood, sweat, tears, blisters, and chaffing. The journey has its rough patches and, like any good relationship, sometimes you need a third-par",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Best Socks For Doc Martens – Men’s Ultimate Comfort 2026...",
-      "score": 1,
-      "published": "2026-11-07T09:14:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c05242e6cfff",
-      "title": "How A Man Should Dress In His 30s: Fashion and Styles 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-well-in-your-30s/",
-      "summary": "Your twenties are about discovering who you are, or working out who you want to be. But in your thirties, you can very quickly rack up more separate identities than a millennial &#8216;slashie&#8217;. Career-man-slash-husband-slash-father. Somehow you have to blend them all into one coherent wardrobe while at the same ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How A Man Should Dress In His 30s: Fashion and Styles 2026...",
-      "score": 3,
-      "published": "2026-11-07T09:00:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b68322fa1118",
-      "title": "10 Hipster Watch Brands You Need to Know",
-      "link": "https://www.fashionbeans.com/article/underground-hipster-watch-brands/",
-      "summary": "At face value, the world of watches is dominated by a handful of companies. The banner brands are household names; Rolex is nestled alongside Lexus and Hyundai in Forbes’ list of the world’s most popular, and even people who tell the time on their phone know James Bond wears Omega. But with recognition comes spiralling",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Hipster Watch Brands You Need to Know...",
-      "score": 2,
-      "published": "2026-11-07T09:00:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8b1fc056d378",
-      "title": "Casual Dress for Men – Outfits And Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/casual-dress-for-men/",
-      "summary": "It’s not difficult to look good in a suit. If you’ve got the money and a tailor who knows what they’re doing, much of the work is done for you. Hand over your cash, take their advice and let them make something that fits. All you have to do is tie your tie. Casual dress &#8230; Continue reading Casual Dress for Men &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-11-07T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c9cf9e0da3b",
-      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
-      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
-      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
-      "score": 1,
-      "published": "2026-11-07T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "07895379f859",
       "title": "From Rihanna to Rosalía, These Are Martine Rose’s Biggest Celebrity Superfans",
       "link": "https://www.vogue.com/slideshow/martine-rose-biggest-celebrity-fans",
@@ -1283,22 +1423,8 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6f3526c39ed5",
-      "title": "Sarah Pidgeon Just Perfected Off-Duty Dressing With This Timeless Trouser Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flared-leggings-trend-sarah-pidgeon-2026",
-      "summary": "Not just activewear.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-11-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b77e1a33047b",
-      "title": "Black and Brown Will Always Be Timeless, But This Stylish Colour Trend is Very Much “In” RN",
+      "title": "Black and Brown Will Always Be Timeless, But This Stylish Colour Trend Is Very Much In RN",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/purple-outfit-ideas-2026",
       "summary": "Move over, burgundy.",
       "source": "Who What Wear",
@@ -1311,17 +1437,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ed5bd6c19c48",
-      "title": "24 Best Boot Brands For Men: Top Companies and Styles 2026",
-      "link": "https://www.fashionbeans.com/2015/the-very-best-mens-boot-brands/",
-      "summary": "As the weather turns colder, men look to their wardrobes to ensure they&#8217;re ready to acclimate to the snowy season. But if you&#8217;re in the know, the best boot brands for men can work in your wardrobe throughout the entire year. But while we&#8217;re talking about colder weather we know that clothing can be ada",
-      "source": "FashionBeans",
+      "id": "6f3526c39ed5",
+      "title": "Sarah Pidgeon Just Perfected Off-Duty Dressing With This Timeless Trouser Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flared-leggings-trend-sarah-pidgeon-2026",
+      "summary": "Not just for exercise.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 24 Best Boot Brands For Men: Top Companies and Styles 2026...",
-      "score": 3,
-      "published": "2026-11-07T06:05:42+00:00",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1423,20 +1549,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b1735ab7ec32",
-      "title": "Spotted on Hailey Bieber: The Polarizing Sneaker Trend That'll Be Everywhere in 2027",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/nike-shox-sneakers-trend-hailey-bieber-2026",
-      "summary": "This is the style the chicest celebrities are already wearing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-11-06T22:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fdad0a03ecc8",
       "title": "I Just Spent a Weekend in NYC—This Is the Coat, Jeans, and Shoe Outfit I Noticed Everywhere, and the Trends Are All at Nordstrom",
       "link": "https://www.whowhatwear.com/fashion/trends/nyc-fall-2026-trends-nordstrom-long-trench-coat-jeans-ballet-pumps",
@@ -1447,6 +1559,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-11-06T22:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b1735ab7ec32",
+      "title": "Spotted on Hailey Bieber: The Polarizing Sneaker Trend That'll Be Everywhere in 2027",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/nike-shox-sneakers-trend-hailey-bieber-2026",
+      "summary": "This is the style the chicest celebrities are already wearing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-11-06T22:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1476,34 +1602,6 @@
       "angle": "Fashion Intelligence: How to Moisturize Your Scalp in 6 Easy Steps...",
       "score": 0,
       "published": "2026-11-06T21:24:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6128665414c9",
-      "title": "A Close Look At the 10 Key Autumn/Winter 2026 Bag Trends",
-      "link": "https://www.vogue.com/article/fall-2026-handbag-trends",
-      "summary": "Vogue highlights the key fall 2026 handbag trends to shop now. From super shoulder bags to new-gen clutches, these are styles to bookmark now.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-06T21:19:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdc4611c90a3",
-      "title": "Zara's Latest Drop Is Full of Winter Must-Haves",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "From leather jackets to party dresses, Zara’s new arrivals have it all.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Zara's Latest Drop Is Full of Winter Must-Haves...",
-      "score": 1,
-      "published": "2026-11-06T21:16:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1619,20 +1717,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ed135c8a6908",
-      "title": "It Girls Are Wearing These 5 Sunglasses Trends This Fall",
-      "link": "https://www.whowhatwear.com/fashion/luxury/luxury-sunglasses-trends-fall-2026",
-      "summary": "Wayfarer! D-frame! Bug-eyed!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-11-06T16:40:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f9fb2f3a0ce4",
       "title": "Travis Kelce Is Excited to Celebrate His First Christmas “As a Married Man”",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74359081/travis-kelce-first-christmas-married-man-taylor-swift-holiday-plans-interview/",
@@ -1644,34 +1728,6 @@
       "angle": "Fashion Intelligence: Travis Kelce Is Excited to Celebrate His First Christmas “As a Married...",
       "score": 1,
       "published": "2026-11-06T16:16:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d159d73e8b75",
-      "title": "I'm a Fashion Editor in NYC—Here's What I Actually Wore for a Normal Week",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fashion-editor-daily-outfits",
-      "summary": "Outfits that scream fall.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-11-06T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "addddfcbb93f",
-      "title": "How French Women Are Wearing Cowboy Boots This Winter",
-      "link": "https://www.whowhatwear.com/fashion/shoes/french-cowboy-boots-eugenie-trochu",
-      "summary": "The French take on the Wild West.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-06T16:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1812,20 +1868,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-11-06T12:48:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c9c9c306a75",
-      "title": "I Asked My Coworkers for a List of the Chicest Beauty Gifts They Want to Give and Get—Here's the Reveal",
-      "link": "https://www.whowhatwear.com/beauty/best-beauty-gifts-2026",
-      "summary": "There's something for every taste and budget.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Asked My Coworkers for a List of the Chicest Beauty Gifts They Want ...",
-      "score": 1,
-      "published": "2026-11-06T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2078,20 +2120,6 @@
       "angle": "Fashion Intelligence: Life in Focus: Rimjim Deka Founder and CEO, Littlebox...",
       "score": 3,
       "published": "2026-11-05T12:00:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "466612954c88",
-      "title": "Dolce & Gabbana’s Holiday 2026 Campaign Goes Gold",
-      "link": "https://www.fashiongonerogue.com/story/dolce-gabbana-holiday-2026/",
-      "summary": "Dolce &#038; Gabbana makes a case for dressing up and settling in with its holiday 2026 campaign. Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-11-05T03:58:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2893,17 +2921,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e08665fd231d",
-      "title": "Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United",
-      "link": "https://blog.kalkifashion.com/shivika-and-mihirs-sydney-love-story-a-bangkok-wedding-two-cultures-united/",
-      "summary": "Some weddings unite two people, while others bring together entire worlds. For this Sydney-based bride and groom, their celebration beautifully connected their Rajasthani and Haryanvi roots with the culture and warmth of Bangkok, the city the bride had always called home. The bride grew up in Bangkok, while Mihir, a Ha",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Shivika and Mihir’s Sydney Love Story, A Bangkok Wedding & Two Cultures United — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-09-10T11:32:06+00:00",
+      "id": "5352b9b55029",
+      "title": "The Art of Editing Your Occasion Closet",
+      "link": "https://www.azafashions.com/blog/art-of-editing-your-occasion-closet/?utm_source=rss&utm_medium=rss&utm_campaign=art-of-editing-your-occasion-closet",
+      "summary": "Why investing in fewer but more versatile pieces is reshaping modern luxury If your festive wardrobe could talk, it would probably say this: \"I'm full, but I can't fulfil.\" Luxury&#8230; The post The Art of Editing Your Occasion Closet appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-11-09T12:04:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3031,70 +3059,56 @@
       "score": 2,
       "published": "2026-11-04T18:23:14+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "d016f86ae81d",
-      "title": "Diamonds That Don’t Wait for an Occasion",
-      "link": "https://www.azafashions.com/blog/diamonds-dont-wait-for-an-occasion/?utm_source=rss&utm_medium=rss&utm_campaign=diamonds-dont-wait-for-an-occasion",
-      "summary": "There was a time when buying diamond jewellery came with a certain amount of ceremony. An engagement, a wedding, an anniversary, perhaps a milestone birthday. Diamonds, reserved for the moments&#8230; The post Diamonds That Don’t Wait for an Occasion appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 3,
-      "published": "2026-11-04T12:06:57+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "david miller",
+      "term": "yash ravana character portrayal debate",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "leo horoscope today",
+      "term": "ओप्पो रेनो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "उत्तर भारत",
+      "term": "ইন্ডিয়ান প্রিমিয়ার লিগ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अनंत कुमार सिंह",
+      "term": "dear lottery result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kaviya maran",
+      "term": "kathmandu gurkhas vs chitwan rhinos",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ദീപാവലി",
+      "term": "மேம்பாலம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ashutosh sharma",
+      "term": "8th pay commission news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kangana ranaut",
+      "term": "india new zealand cricket match broadcast",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india vs pakistan u19 cricket match",
+      "term": "alex michelsen",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pokhara avengers vs karnali yaks",
+      "term": "bhagyathara lottery result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
