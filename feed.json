@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T09:09:07.606766+00:00",
+  "generated_at": "2026-11-10T13:16:22.964519+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 182,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Balmain Resort 2027...",
       "score": 0,
-      "published": "2026-11-10T09:06:09+00:00",
+      "published": "2026-11-10T13:10:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,35 +33,133 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Balmain Resort 2027 Menswear...",
       "score": 2,
-      "published": "2026-11-10T09:06:09+00:00",
+      "published": "2026-11-10T13:10:24+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "29c17005a376",
-      "title": "Bhupen Hazarika's legacy in 22 languages, but books still out of reach",
-      "link": "https://www.indiatoday.in/india/assam/story/bhupen-hazarika-biography-22-language-editions-printing-distribution-delays-ptag-3035987-2026-11-10?utm_source=rss",
-      "summary": "Bhupen Hazarika's legacy in 22 languages, but books still out of reach",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Bhupen Hazarika's legacy in 22 languages, but books still out of reach...",
-      "score": 1,
-      "published": "2026-11-10T08:55:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b38fd7f4d14f",
-      "title": "Sonia says she refused PM post, BJP counters: Kalam refused to swear her in",
-      "link": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-bjp-leader-dinesh-pratap-singh-claims-apj-abdul-kalam-blocked-2004-pm-bid-refused-to-swear-her-italian-origins-3035998-2026-11-10?utm_source=rss",
-      "summary": "Sonia says she refused PM post, BJP counters: Kalam refused to swear her in",
-      "source": "India Today Fashion",
+      "id": "4e293086cfeb",
+      "title": "Andrew Scott On the Real-Life Story Behind the His Heartbreaking Performance in the film, ‘Elsinore’",
+      "link": "https://www.vogue.com/article/andrew-scott-ian-charleson-elsinore-interview",
+      "summary": "Is this Oscar preordainment?",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sonia says she refused PM post, BJP counters: Kalam refused to swear h...",
+      "angle": "Fashion Intelligence: Andrew Scott On the Real-Life Story Behind the His Heartbreaking Perfo...",
+      "score": 0,
+      "published": "2026-11-10T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c95390fa66c5",
+      "title": "Nuuly Wants to Make the 'Spring Awakening' Revival a Fashion Moment",
+      "link": "https://fashionista.com/2026/11/nuuly-spring-awakening-revival-edit",
+      "summary": "The clothing rental service is the official styling partner of the Off-Broadway musical.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nuuly Wants to Make the 'Spring Awakening' Revival a Fashion Moment...",
       "score": 1,
-      "published": "2026-11-10T08:50:36+00:00",
+      "published": "2026-11-10T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-11-10T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "38d5da59bc98",
+      "title": "Lara Saget’s Sculptures Mine the Ancient, Alchemical, and Divine",
+      "link": "https://www.vogue.com/article/lara-saget-and-the-world-came-apart",
+      "summary": "The practice of seeing the sublime in nature is at the heart of Saget’s practice—and something she mines in her first New York City solo exhibition, “and the world came apart,” which opened at Trotter&amp;Sholer on November 7.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Lara Saget’s Sculptures Mine the Ancient, Alchemical, and Divine...",
+      "score": 0,
+      "published": "2026-11-10T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2b09f57e2ee",
+      "title": "22 Best Airbnbs in Upstate New York for a Weekend Away from the City 2026",
+      "link": "https://www.vogue.com/article/best-airbnbs-upstate-new-york",
+      "summary": "Looking for the best Airbnb in upstate New York? Here, 22 Vogue favorites, from Catskills cabins to a Woodstock artist’s studio.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 22 Best Airbnbs in Upstate New York for a Weekend Away from the City 2...",
+      "score": 0,
+      "published": "2026-11-10T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5a17e55daf22",
+      "title": "Everyone Will Be Wearing These Winter Outfit Formulas by the End of 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-winter-outfit-formulas-2026",
+      "summary": "Save and wear on repeat.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-11-10T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e74323baa0a6",
+      "title": "Petites, Take Note: This “Tricky” Skirt Trend Has Found Its Perfect Shoe",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/pencil-skirt-pointed-toe-shoes-outfit-petites-amanda-seyfried-2026",
+      "summary": "A pairing that always works.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-10T10:59:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "462ce6ceb5d3",
+      "title": "How To Crack Resale’s AI Algorithms",
+      "link": "https://www.vogue.com/article/how-to-crack-resales-ai-algorithms",
+      "summary": "AI-powered search, feeds and shopping agents are reshaping resale discovery, putting pre-owned luxury in competition with new collections. Here’s how shoppers and sellers can make the new algorithms work for them — and what’s at stake for brands.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How To Crack Resale’s AI Algorithms...",
+      "score": 3,
+      "published": "2026-11-10T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "acce544447c7",
+      "title": "The 14 Prettiest New Arrivals From Sézane, Dôen, and Hill House Home",
+      "link": "https://www.whowhatwear.com/fashion/fall/new-arrivals-sezane-fall-2026",
+      "summary": "Including brocade dresses, plaid pajamas, suede handbags, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 14 Prettiest New Arrivals From Sézane, Dôen, and Hill House Home...",
+      "score": 1,
+      "published": "2026-11-10T09:40:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -485,6 +583,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6cf8c30d2b63",
+      "title": "After a Devastating Fire, This South Australia Lodge Has Returned as One of the World’s Wildest, Most Wonderful Stays",
+      "link": "https://www.vogue.com/article/southern-ocean-lodge-kangaroo-island-hotel-australia",
+      "summary": "Four years after the Black Summer bushfires reduced Kangaroo Island’s Southern Ocean Lodge to ash, the clifftop resort is back—with a clever architectural redesign, hyper-local dining, and front-row access to Australia’s most extraordinary wildlife.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: After a Devastating Fire, This South Australia Lodge Has Returned as O...",
+      "score": 0,
+      "published": "2026-11-09T17:01:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "eceb6cb5ee8c",
       "title": "Here’s Your First Look at the Broadway Cast of ‘Paddington: The Musical’",
       "link": "https://www.vogue.com/article/first-look-at-the-broadway-cast-of-paddington-the-musical",
@@ -667,6 +779,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "99c810feaa92",
+      "title": "The Best Hairstyles For Balding Men",
+      "link": "https://www.fashionbeans.com/article/bald-men-balding-hairstyles/",
+      "summary": "What do Dwayne &#8216;The Rock&#8217; Johnson, Jason Statham and Vin Diesel have in common? Sure, there’s the unquestionable acting pedigree and careers that show just how good getting typecast can be (for your wallet at least), but there’s another common denominator shared by action’s most wanted: they’re all bald men",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Best Hairstyles For Balding Men...",
+      "score": 2,
+      "published": "2026-11-09T12:40:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "16172d901ac4",
+      "title": "8 Best Minimalist Sneakers: Low-key, High Profile in 2026",
+      "link": "https://www.fashionbeans.com/article/best-minimalist-sneakers/",
+      "summary": "Free from futile features and loud logos, the best minimalist sneakers focus on what really matters: style, comfort, and wearability. This is why every guy should own a decent pair or three. Join me as I uncover the slickest silhouettes in the game, rounding up a plethora of the most simple yet seriously stylish sneake",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Minimalist Sneakers: Low-key, High Profile in 2026...",
+      "score": 2,
+      "published": "2026-11-09T12:27:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "71f6b3c5a863",
       "title": "Not Stiletto, Not Block: The New Heeled-Boot Trend Fashion People Are Wearing With Jeans",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/bootcut-jeans-cone-heel-boots-outfit-lila-moss-winter-2026",
@@ -779,6 +919,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f98aa62faec5",
+      "title": "Classic Pieces That Should Be In Every Man’s Winter Wardrobe",
+      "link": "https://www.fashionbeans.com/article/10-classic-winter-pieces/",
+      "summary": "Fond as we are of this season’s trending pieces (the FashionBeans editorial team has rarely been seen out of a hiking boot since September), if you haven’t purchased any of them by now, it’s a little day late and a dollar short. Especially when you consider that the menswear world will likely have found another &#8230;",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Classic Pieces That Should Be In Every Man’s Winter Wardrobe...",
+      "score": 5,
+      "published": "2026-11-09T09:00:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a72e30125e79",
+      "title": "6 Key Men’s Swimwear Trends For Spring/Summer 2026",
+      "link": "https://www.fashionbeans.com/article/mens-swimwear-trends/",
+      "summary": "Mastering fashion trends in everyday clothes can be difficult enough, but when you consider that it’s just one square foot of fabric covering your modesty, swimwear has to say more about you per inch than any other garment. To make matters worse, upgrading your trunks from duty-free afterthought to a first-class fit is",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-11-09T09:00:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e24e6a9c831c",
       "title": "The Brands That Make James Bond",
       "link": "https://www.fashionbeans.com/article/james-bond-brands/",
@@ -817,6 +985,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: It's Official: This Once-Dated Jumper Has Become Winter's Most-Wanted ...",
       "score": 1,
+      "published": "2026-11-09T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df6ffbcda5e6",
+      "title": "Rock Clothing: How Rock Stars Changed Fashion Forever",
+      "link": "https://www.fashionbeans.com/article/rock-clothing-guide/",
+      "summary": "It starts, like everything else, with Elvis Presley. Before the boy from Memphis first shimmied his way onstage, fashion and music were only connected in as much as artists had to wear something when they performed. After him, rock stars would be the biggest influence on what young people wore for the next half a &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Rock Clothing: How Rock Stars Changed Fashion Forever...",
+      "score": 2,
       "published": "2026-11-09T09:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,6 +1045,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0af7021ec0cb",
+      "title": "8 Best Casual Blazers For Men – Fit Any Occasion in 2026",
+      "link": "https://www.fashionbeans.com/article/best-casual-blazers-for-men/",
+      "summary": "Wear them with jeans, slacks, or even a pair of joggers – the best casual blazers for men will take you far. Gone are the days of shoulder pads and rigid linings. Modern blazers have taken a streamlined turn for the contemporary gentleman, ensuring enough structure without becoming inflexible, along with plenty of room",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 2,
+      "published": "2026-11-09T06:14:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ad2a3d93d661",
       "title": "10 Best Fall Colognes for Men To Feel Cozy in 2026",
       "link": "https://www.fashionbeans.com/article/best-fall-colognes/",
@@ -874,20 +1070,6 @@
       "angle": "Fashion Intelligence: 10 Best Fall Colognes for Men To Feel Cozy in 2026...",
       "score": 1,
       "published": "2026-11-09T06:10:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3e08df916f0c",
-      "title": "As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In",
-      "link": "https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in",
-      "summary": "As podcasters continue to sign deals with streamers like Netflix and Disney+ they are becoming valuable fashion talents for brands.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune...",
-      "score": 2,
-      "published": "2026-11-09T05:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,34 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dd39243e68cb",
-      "title": "Taylor Swift Brings Friend Karlie Kloss to the Chiefs Game",
-      "link": "https://www.vogue.com/article/taylor-swift-karlie-kloss-chiefs-game",
-      "summary": "The two longtime friends cheered on Travis Kelce as the Kansas City Chiefs faced off against the New York Jets.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Taylor Swift Brings Friend Karlie Kloss to the Chiefs Game...",
-      "score": 0,
-      "published": "2026-11-08T22:44:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c5a439808e62",
-      "title": "From the Archives: When Iowa Governor-Elect Rob Sand Was Shot by Steven Meisel for Vogue Italia",
-      "link": "https://www.vogue.com/article/from-the-archives-iowa-governor-elect-rob-sand-steven-meisel-vogue-italia",
-      "summary": "Before winning Iowa’s gubernatorial race, Rob Sand was posing with supermodels, wearing Helmut Lang, and walking the Prada runway. Revisit his February 2004 Vogue Italia spread.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From the Archives: When Iowa Governor-Elect Rob Sand Was Shot by Steve...",
-      "score": 3,
-      "published": "2026-11-08T22:29:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "44a642eacbe9",
       "title": "If You Want Your Winter Makeup to Look Fresh, Modern, and Flawless, Try These 3 Expert-Approved Trends",
       "link": "https://www.whowhatwear.com/beauty/makeup/patrick-ta-2027-winter-makeup-trends-interview",
@@ -972,20 +1126,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-11-08T21:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1686c0d0cdfd",
-      "title": "Urban Lights & Gucci Nights: An Exclusive Look Inside the LACMA Art + Film Gala",
-      "link": "https://www.vogue.com/slideshow/lama-art-film-gala-gucci-2026",
-      "summary": "A star-studded night at the museum, where the art world met Hollywood and someone yelled out, “Am I not famous enough?!”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Urban Lights & Gucci Nights: An Exclusive Look Inside the LACMA Art + ...",
-      "score": 0,
-      "published": "2026-11-08T20:42:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1003,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e70469f3e110",
-      "title": "Cut It Out! Hollywood’s Red Carpets Are Finding New Ways to Show Skin",
-      "link": "https://www.vogue.com/article/hollywoods-red-carpets-are-finding-new-ways-to-show-skin",
-      "summary": "From gravity-defying slits to strategically placed cutouts, stars showcased novel ways to bare all at the 2026 LACMA Art + Film Gala.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-08T19:42:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "17d8a41ab170",
       "title": "9 Quarter-Zip Outfit Ideas for Men (That Always Work)",
       "link": "https://www.fashionbeans.com/article/quarter-zip-outfit-ideas-for-men/",
@@ -1028,20 +1154,6 @@
       "angle": "Fashion Intelligence: 9 Quarter-Zip Outfit Ideas for Men (That Always Work)...",
       "score": 2,
       "published": "2026-11-08T19:33:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c31a7af651f",
-      "title": "No Time to Dye: Jacob Elordi Goes Blonde",
-      "link": "https://www.vogue.com/article/jacob-elordi-goes-blonde",
-      "summary": "Trading his natural brunette for a bleach blonde job, it looks like we’re set to see a big transformation for Jacob Elordi in A24’s “Scapegoat.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No Time to Dye: Jacob Elordi Goes Blonde...",
-      "score": 0,
-      "published": "2026-11-08T19:24:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1255,34 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c121a9610f5c",
-      "title": "7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026",
-      "link": "https://www.fashionbeans.com/article/best-5-pocket-pants/",
-      "summary": "There are some items that should be present in every guy’s wardrobe—whether you’re a country bumpkin or a suit-obsessed city dweller. And when it comes to pants, the five-pocket style is one of the most versatile lower-half options you can own. A reliable yet seriously stylish staple, the best 5 pocket pants will be yo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Best 5 Pocket Pants For Men – Comfortable Fits For 2026...",
-      "score": 1,
-      "published": "2026-11-08T09:04:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "987969ed2c51",
-      "title": "How To Wear Brown: Men’s Style And Outfits Guide 2026",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-brown/",
-      "summary": "When it comes to clothing, brown’s name is mud. Brown shoes, fine. A belt, sure. But pretty much anything else in the colour has traditionally been shunned as unwelcome and unflattering. Brown is ugly, they say. It conjures up images of everything regrettable about 1970s style. That hasn’t stopped the world’s best desi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Brown: Men’s Style And Outfits Guide 2026...",
-      "score": 4,
-      "published": "2026-11-08T09:00:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dee7d208ea3a",
       "title": "Yes, Leather Coats Are Elevated—But the Chicest Dressers I Know Keep Choosing This Sophisticated Style",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-coat-trend-jennifer-lawrence-2026",
@@ -1308,76 +1392,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-11-08T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7a2e7fd28277",
-      "title": "6 Best Chino Colors: Must Have Versatile Styles 2026",
-      "link": "https://www.fashionbeans.com/article/chino-colours-every-man-should-own/",
-      "summary": "Chinos. Hardly the life and soul of a man’s wardrobe, but integral nonetheless. But then, isn’t it precisely the former military staple’s inherent boringness that makes them so great anyway? Sure, a pair of slashed-knee skinny jeans may give a little more edge to your image and let everyone know in no uncertain terms t",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Best Chino Colors: Must Have Versatile Styles 2026...",
-      "score": 1,
-      "published": "2026-11-08T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3b5698c191ba",
-      "title": "What Color Shoes To Wear With Your Suit: A Definitive Guide",
-      "link": "https://www.fashionbeans.com/article/what-colour-shoes-to-wear-with-a-suit/",
-      "summary": "Shoes are dangerous, financially speaking. Watches are expensive, sure, but it&#8217;s shoes that&#8217;ll do real damage to your wallet. Buy the wrong the pair, or the right pair in the wrong colour, and you can wave goodbye to hundreds if not thousands of pounds worth of tailoring. After all, not even the finest Savi",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What Color Shoes To Wear With Your Suit: A Definitive Guide...",
-      "score": 1,
-      "published": "2026-11-08T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b59f43ebc33b",
-      "title": "10 Best Silver Chains For Men – Subtle Style For 2026",
-      "link": "https://www.fashionbeans.com/article/best-silver-chains-for-men/",
-      "summary": "There are plenty of ways to add a subtle edge to your daily style choices. Adding a cuff to those dark selvedge jeans. Choosing sunglasses with a pop of color. And, of course, accessorizing with a silver chain necklace. The key here: subtle. The best silver chains for men—outside of more niche sartorial leanings like &",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Best Silver Chains For Men – Subtle Style For 2026...",
-      "score": 1,
-      "published": "2026-11-08T08:55:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "49a0c99e72da",
-      "title": "Dress Code: Campus",
-      "link": "https://www.fashionbeans.com/article/campus/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dress Code: Campus...",
-      "score": 1,
-      "published": "2026-11-08T08:33:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c237c961987f",
-      "title": "16 Best Dress Sneakers for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-dress-sneakers-for-men/",
-      "summary": "For as long as I can remember, men have been programmed to believe that wearing shoes is pretty much the only way one can look truly presentable. Through the years, I would often question whether dress sneakers could be a suitable alternative. Ha, forget it pal. As a student of a British high school, I &#8230; Continue",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 16 Best Dress Sneakers for Men In 2026...",
-      "score": 2,
-      "published": "2026-11-08T08:20:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1630,34 +1644,6 @@
       "angle": "Fashion Intelligence: ICYMI: 2026 CFDA Fashion Award Winners, Pierpaolo Piccioli Exits Balen...",
       "score": 1,
       "published": "2026-11-07T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a89686b2f68",
-      "title": "Sweater! Skirt! Great Coat! 5 Winter Outfits That Require Almost No Thought",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/effortless-winter-outfit-ideas-2026",
-      "summary": "You're welcome.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sweater! Skirt! Great Coat! 5 Winter Outfits That Require Almost No Th...",
-      "score": 1,
-      "published": "2026-11-07T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ff11bd634893",
-      "title": "25 Miu Miu and Prada New Arrivals Fashion People Will Wear to Holiday Parties This Year",
-      "link": "https://www.whowhatwear.com/fashion/luxury/prada-miu-miu-holiday-collections-2026",
-      "summary": "Shop the 2026 holiday collections.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 3,
-      "published": "2026-11-07T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2529,20 +2515,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2d4682b5dbcb",
-      "title": "AGMES Jewelry Seeking Full-Time In-Person Marketing + Social Media Coordinator In NYC",
-      "link": "https://fashionista.com/2026/10/agmes-jewelry-seeking-full-time-in-person-marketing-social-media-coordinator-in-nyc",
-      "summary": "This role is ideal for someone who is passionate about design, jewelry, and storytelling, and is eager to contribute across all facets of brand marketing.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: AGMES Jewelry Seeking Full-Time In-Person Marketing + Social Media Coo...",
-      "score": 1,
-      "published": "2026-10-26T15:44:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6b3a5694f6cc",
       "title": "Milano Fashion Week SS27: la moda torna a essere personale",
       "link": "https://www.theblondesalad.com/fashion/milano-fashion-week-ss27-la-moda-torna-a-essere-personale/",
@@ -2993,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "लॉरेंस बिश्नोई",
+      "term": "एसीसी यू-19 एशिया कप",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एक्शन",
+      "term": "mahanadi coalfields ipo",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neet",
+      "term": "न्यू झीलंड राष्ट्रीय क्रिकेट संघ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "clat 2027",
+      "term": "adrian mannarino",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gokul election news",
+      "term": "टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സയ്യിദ് മുഷ്താഖ് അലി ട്രോഫി",
+      "term": "tvs ntorq 150 spectral green",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bbl women",
+      "term": "मिचेल स्टार्क",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "संयुक्त अरब अमीरात राष्ट्रीय अंडर 19 क्रिकेट टीम",
+      "term": "పులి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "योगी आदित्यनाथ",
+      "term": "ഏഷ്യാ കപ്പ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಸಮಂತಾ ರುತ್ ಪ್ರಭು",
+      "term": "दिव्यांका त्रिपाठी",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
