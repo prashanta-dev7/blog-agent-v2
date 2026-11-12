@@ -1,13 +1,237 @@
 {
-  "generated_at": "2026-11-12T09:10:52.182395+00:00",
+  "generated_at": "2026-11-12T13:32:41.896038+00:00",
   "owned_count": 10,
   "competitor_count": 22,
-  "industry_count": 174,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "1ba636a88bc6",
+      "title": "India: India’s Online Festive Sales Grow 17% to US $15 Billion; Ethnic Wear Sees Double-Digit Growth",
+      "link": "https://in.apparelresources.com/business-news/retail/india-indias-online-festive-sales-grow-17-us-15-billion-ethnic-wear-sees-double-digit-growth/",
+      "summary": "India&#8217;s online festive sales grew 17% year-on-year to Rs 1.41 lakh crore (approximately US $ 15 billion) in 2026, with ethnic wear recording double-digit growth, although the overall apparel market recorded mixed growth, with several retailers reporting sales below industry expectations. According to a report by ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-11-12T13:31:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e745c37c5082",
+      "title": "48 Fashion and Beauty Gifts Gen Alpha Actually Wants This Year",
+      "link": "https://fashionista.com/2026/11/gen-alpha-gift-guide-beauty-fashion-2026",
+      "summary": "Spanning hydrating skin-care sets to on-trend beaded jewelry.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 48 Fashion and Beauty Gifts Gen Alpha Actually Wants This Year...",
+      "score": 3,
+      "published": "2026-11-12T13:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "02cc93617d95",
+      "title": "India: Tirupur Diwali Knitwear Trade Crosses US $850 Million Despite Flat Order Volumes",
+      "link": "https://in.apparelresources.com/business-news/trade-business-news/india-tirupur-diwali-knitwear-trade-crosses-us-850-million-despite-flat-order-volumes-2/",
+      "summary": "Tirupur’s domestic knitwear trade ahead of Diwali 2026 was estimated at over Rs. 8,000 crore (US $851 Million), compared with Rs. 7,300-7,500 crore (US $777 Million-US $798 Million) last year. However, manufacturers noted that the increase was largely driven by higher input costs and garment prices, with order volumes ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-11-12T13:10:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9fa098ee9677",
+      "title": "India: Tirupur Diwali Knitwear Trade Crosses US $850 Million Despite Flat Order Volumes",
+      "link": "https://in.apparelresources.com/business-news/trade-business-news/india-tirupur-diwali-knitwear-trade-crosses-us-850-million-despite-flat-order-volumes/",
+      "summary": "Tirupur’s domestic knitwear trade ahead of Diwali 2026 was estimated at over Rs. 8,000 crore (US $851 Million), compared with Rs. 7,300-7,500 crore (US $777 Million-US $798 Million) last year. However, manufacturers noted that the increase was largely driven by higher input costs and garment prices, with order volumes ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-11-12T13:03:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "72d364ed0af9",
+      "title": "The Health Benefits of Stair Climbing",
+      "link": "https://www.vogue.com/article/stair-climbing-benefits",
+      "summary": "The benefits of stair climbing include a faster metabolism, improved fitness, lower glucose spikes, and healthier aging, especially after age 40.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Health Benefits of Stair Climbing...",
+      "score": 0,
+      "published": "2026-11-12T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "675e909f1226",
+      "title": "Past and Prologue: Burberry’s Daniel Lee is Bringing Fashion—and His Extended Family—Home.",
+      "link": "https://www.vogue.com/article/past-and-prologue-burberrys-daniel-lee-is-bringing-fashion-and-his-extended-family-home",
+      "summary": "Mark Holgate gets up close with the most enigmatic man in British fashion.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Past and Prologue: Burberry’s Daniel Lee is Bringing Fashion—and His E...",
+      "score": 1,
+      "published": "2026-11-12T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1cda6ff7a66c",
+      "title": "Experts discuss sustainable farming methods and innovations to tackle climate challenges",
+      "link": "https://www.indiatoday.in/india/video/transformative-strategies-for-sustainable-farming-amid-climate-challenges-ytvd-3037571-2026-11-12?utm_source=rss",
+      "summary": "Experts discuss sustainable farming methods and innovations to tackle climate challenges",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Experts discuss sustainable farming methods and innovations to tackle ...",
+      "score": 1,
+      "published": "2026-11-12T12:44:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d7e89c10525d",
+      "title": "Live: PM to address farmers at 8 pm; policymakers, industry leaders to attend",
+      "link": "https://www.indiatoday.in/india/story/pm-modi-address-live-updates-kisan-tak-bharat-agriculture-conference-2026-smar-kisan-viksit-bharat-bharat-mandapam-plenary-address-3037545-2026-11-12?utm_source=rss",
+      "summary": "Live: PM to address farmers at 8 pm; policymakers, industry leaders to attend",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Live: PM to address farmers at 8 pm; policymakers, industry leaders to...",
+      "score": 1,
+      "published": "2026-11-12T12:29:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2f1d9e38d33a",
+      "title": "Kim Kardashian Plays Nurse in One of Louis Vuitton’s Rarest Runway Looks",
+      "link": "https://www.vogue.com/article/kim-kardashian-louis-vuitton-marc-jacobs-nurse-look",
+      "summary": "Kim Kardashian’s latest archival coup comes courtesy of a fashion obsessive who spent over a year piecing together one of Marc Jacobs’s most memorable moments.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kim Kardashian Plays Nurse in One of Louis Vuitton’s Rarest Runway Loo...",
+      "score": 2,
+      "published": "2026-11-12T12:04:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3fcdc6a16d91",
+      "title": "Ariana Grande Brings Her Two Great Loves—Ricky Álvarez and Rare Vintage—to the Red Carpet",
+      "link": "https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12",
+      "summary": "Making their red carpet debut at the “Focker-in-Law” premiere in New York, Grande and her rekindled beau Ricky couldn’t keep their hands off each other.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 0,
+      "published": "2026-11-12T11:08:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "14982785ba4f",
+      "title": "On the Podcast: Léa Seydoux Has a Shopping Problem. Plus: WNBA Star Gabby Williams!",
+      "link": "https://www.vogue.com/article/on-the-podcast-lea-seydoux-has-a-shopping-problem-or-plus-wnba-star-gabby-williams",
+      "summary": "For this Thursday’s episode of “The Run-Through,” Léa Seydoux sat down with Chloe Malle and Taylor Antrim to discuss her two latest films, both of which she shot shortly after giving birth to her second child.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: On the Podcast: Léa Seydoux Has a Shopping Problem. Plus: WNBA Star Ga...",
+      "score": 0,
+      "published": "2026-11-12T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0911789003f1",
+      "title": "I'm Calling It: These 6 Winter Basics Are About to Become Fashion People's Most-Worn Pieces",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-people-winter-basics-2026",
+      "summary": "See the list inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Calling It: These 6 Winter Basics Are About to Become Fashion Peop...",
+      "score": 1,
+      "published": "2026-11-12T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "de4806a5c35e",
+      "title": "The Great Bear Rainforest: How Fashion Rallied to Stop the Deforestation of an Ancient Rainforest",
+      "link": "https://www.vogue.com/article/how-fashion-rallied-to-stop-the-deforestation-of-an-ancient-rainforest",
+      "summary": "The Great Bear Rainforest is one of the world’s most critical carbon sinks, and fashion was unknowingly contributing to its demise.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Great Bear Rainforest: How Fashion Rallied to Stop the Deforestati...",
+      "score": 1,
+      "published": "2026-11-12T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "591673addd17",
+      "title": "Hold the Cropped Trousers—I Think This Surprising Trouser Trend Looks Even Chicer on Petites",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/puddle-pants-trend-nicola-coughlan-2026",
+      "summary": "Always elegant.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bd8777ebd4fe",
+      "title": "I Keep Seeing Fashion Friends In Black Trousers and Boots—Here's How They're Elevating the Combo Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-boots-black-trousers-jeans-outfits-zoe-kravitz-riley-keough-2026",
+      "summary": "The perfect foundation.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Keep Seeing Fashion Friends In Black Trousers and Boots—Here's How T...",
+      "score": 1,
+      "published": "2026-11-12T09:27:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b040edc738b2",
+      "title": "Burberry Grows 4% in Q2, Carried by China and US",
+      "link": "https://www.vogue.com/article/burberry-grows-6-in-q2-carried-by-china-and-us",
+      "summary": "Now two years into the Burberry Forward turnaround plan, the British company marks its fifth consecutive quarter of growth. Local demand over tourism remains the core revenue driver globally.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Burberry Grows 4% in Q2, Carried by China and US...",
+      "score": 0,
+      "published": "2026-11-12T09:17:52+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d70ed436814a",
       "title": "The Vogue Business Funding Tracker",
@@ -653,20 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "32488cf6da07",
-      "title": "Lisa Is Officially A Showgirl",
-      "link": "https://www.vogue.com/article/lisa-blackpink-interview-las-vegas",
-      "summary": "On the eve of her history-making Las Vegas residency, the Thai multi-hyphenate chats pre-show rituals, beauty, and days off with Vogue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Lisa Is Officially A Showgirl...",
-      "score": 2,
-      "published": "2026-11-11T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f84730bddc35",
       "title": "How to Find Sweaters That Won't Fall Apart",
       "link": "https://fashionista.com/2026/11/knitwear-sweaters-fabric-content-quality-guide",
@@ -681,20 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9d6c8057facd",
-      "title": "Australia, Through the Eyes of Its Traditional Custodians",
-      "link": "https://www.vogue.com/article/australia-through-the-eyes-of-its-traditional-custodians",
-      "summary": "As Indigenous-led tourism in Australia continues to rise, seven Traditional Owners offer an intimate look at the world’s oldest continuous living culture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Australia, Through the Eyes of Its Traditional Custodians...",
-      "score": 1,
-      "published": "2026-11-11T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6cc7e709ecf2",
       "title": "Cara Santana Leto on Her Dream Designer Coat, TikTok Shop Finds and the $5 Beauty Essential She Swears By",
       "link": "https://fashionista.com/2026/11/cara-santana-leto-shopping-fashion-beauty-interview",
@@ -706,34 +902,6 @@
       "angle": "Fashion Intelligence: Cara Santana Leto on Her Dream Designer Coat, TikTok Shop Finds and th...",
       "score": 5,
       "published": "2026-11-11T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9a012e8dfc52",
-      "title": "Here’s Why Robert Pattinson Is the Right Choice to Play Bond",
-      "link": "https://www.vogue.com/article/the-case-for-robert-pattinson-as-bond",
-      "summary": "Of all the actors who’ve recently screen-tested to become the next 007, he’s the most off-the-wall pick—and the best one.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Here’s Why Robert Pattinson Is the Right Choice to Play Bond...",
-      "score": 0,
-      "published": "2026-11-11T12:17:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ea43798381ce",
-      "title": "From L.A. to New York, Fashion People Are Swapping Their Hair Colors With These Rich Winter Iterations",
-      "link": "https://www.whowhatwear.com/beauty/hair/winter-hair-color-trends-2026",
-      "summary": "Your colorist will appreciate your taste.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From L.A. to New York, Fashion People Are Swapping Their Hair Colors W...",
-      "score": 1,
-      "published": "2026-11-11T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -760,6 +928,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Culture Issue Winter 2026...",
+      "score": 1,
+      "published": "2026-11-11T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ea43798381ce",
+      "title": "From L.A. to New York, Fashion People Are Swapping Their Hair Colors With These Rich Winter Iterations",
+      "link": "https://www.whowhatwear.com/beauty/hair/winter-hair-color-trends-2026",
+      "summary": "Your colorist will appreciate your taste.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From L.A. to New York, Fashion People Are Swapping Their Hair Colors W...",
       "score": 1,
       "published": "2026-11-11T12:00:00+00:00",
       "discovered_via": "feed"
@@ -821,34 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3ba3649fbac6",
-      "title": "Jennifer Lawrence Takes Fall Outerwear Advice From Harry Styles",
-      "link": "https://www.vogue.com/article/jennifer-lawrence-takes-fall-outerwear-advice-from-harry-styles",
-      "summary": "While the opera coat has been this season’s jacket du jour, Jennifer Lawrence is returning to the low-key French classic.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Jennifer Lawrence Takes Fall Outerwear Advice From Harry Styles...",
-      "score": 3,
-      "published": "2026-11-11T11:40:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e76b8ea86df7",
-      "title": "Show Us the Receipts: What a Corporate Employee, a Stylist, and a Content Creator Bought This Month",
-      "link": "https://www.vogue.com/article/show-us-the-receipts-fall-2026",
-      "summary": "We asked three stylish people in or adjacent to the fashion industry to chronicle one month of their fashion consumption—and to note what was purchased at full price, discounted, and gifted.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Show Us the Receipts: What a Corporate Employee, a Stylist, and a Cont...",
-      "score": 2,
-      "published": "2026-11-11T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5ec22b4a550c",
       "title": "6 Scarf Trends All the Women With Good Taste Are Wearing",
       "link": "https://www.whowhatwear.com/fashion/winter/scarf-trends-winter-2026",
@@ -877,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1133503b82ae",
-      "title": "Zoë Kravitz Is Back on the Red Carpet, Going for Gold, And Baring Her Abs",
-      "link": "https://www.vogue.com/article/zoe-kravitz-how-to-rob-a-bank-new-york-premiere-look",
-      "summary": "Stepping out for the “How To Rob A Bank” premiere in New York City, Zoë Kravitz made a return to form care of Saint Laurent.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 0,
-      "published": "2026-11-11T10:01:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b848f5aa6c92",
       "title": "Not Jeans, Not Trousers: Zoë Kravitz's Pretty Pant Trend Will Get More Popular Every Week 'til 2027",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-brocade-pants-trend",
@@ -902,20 +1042,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-11-11T09:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3db379be3eac",
-      "title": "At This New Retreat on a Windswept Estonian Island, You Can Experience Five Seasons of Wellness",
-      "link": "https://www.vogue.com/article/eha-retreat-estonia-hiiumaa-island-first-look",
-      "summary": "On the remote Baltic outpost of Hiiumaa Island, the newly opened Eha Retreat pairs cold plunges, bog peat body masks, and beehive meditation sessions with a sleek Nordic design philosophy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-11T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1367,20 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "243dd43aa77c",
-      "title": "I'm a Total Hat Person—This Is Why I Want You to Become One Too",
-      "link": "https://www.whowhatwear.com/fashion/how-much-hat-is-too-much-hat",
-      "summary": "How to wear a hat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Total Hat Person—This Is Why I Want You to Become One Too...",
-      "score": 1,
-      "published": "2026-11-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "55d099037b45",
       "title": "Celebrities Swear By This Plumping Face Mask, But These 7 Are Equally Impressive",
       "link": "https://www.whowhatwear.com/beauty/skin/best-medicube-face-masks",
@@ -1390,6 +1502,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Celebrities Swear By This Plumping Face Mask, But These 7 Are Equally ...",
+      "score": 1,
+      "published": "2026-11-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "243dd43aa77c",
+      "title": "I'm a Total Hat Person—This Is Why I Want You to Become One Too",
+      "link": "https://www.whowhatwear.com/fashion/how-much-hat-is-too-much-hat",
+      "summary": "How to wear a hat.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Total Hat Person—This Is Why I Want You to Become One Too...",
       "score": 1,
       "published": "2026-11-10T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1406,20 +1532,6 @@
       "angle": "Fashion Intelligence: Great Style Starts With Knowing What’s Worth Buying...",
       "score": 3,
       "published": "2026-11-10T04:40:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a90cf6072739",
-      "title": "I Just Created 8 Chic Nordstrom Looks That Are Giving It-Girl Vibes",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fall-winter-outfits-nordstrom",
-      "summary": "Outfit inspiration ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Created 8 Chic Nordstrom Looks That Are Giving It-Girl Vibes...",
-      "score": 1,
-      "published": "2026-11-10T00:18:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2137,34 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "593669f19e08",
-      "title": "Primary Colours Break the Winter Neutral Rule in A/W 2026",
-      "link": "https://in.apparelresources.com/fashion-news/trends/primary-colours-break-winter-neutral-rule-w-2026/",
-      "summary": "Winter wardrobes have traditionally settled into black, grey, camel and cream. This season, designers are making a case for turning up the volume. Ferragamo, Tory Burch, Batsheva, Stella McCartney, Carolina Herrera and Gucci (Resort 2027) all showed vivid shades of red, yellow and cobalt blue. The stylists&#8217; advic",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Primary Colours Break the Winter Neutral Rule in A/W 2026...",
-      "score": 4,
-      "published": "2026-11-04T10:23:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "04f8e2a453bc",
-      "title": "Sculptural Silhouettes Take Over A/W 2026, and Indian Labels Are Already There",
-      "link": "https://in.apparelresources.com/fashion-news/trends/sculptural-silhouettes-take-w-2026-indian-labels-already/",
-      "summary": "Funnel necks, peplums and cocoon shapes are turning proportion into the main design idea of the winter wardrobe, across casual, formal and outerwear. Streamlined silhouettes have not gone anywhere, but this winter’s more interesting dressing comes from playing with proportion. Global labels including Balenciaga, Khaite",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Sculptural Silhouettes Take Over A/W 2026, and Indian Labels Are Alrea...",
-      "score": 3,
-      "published": "2026-11-04T09:51:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a590d6ac328f",
       "title": "Must Read: Meg Stalter Stars in Marc Jacobs 'Let It Joy' Campaign, Hugo Boss Lowers Outlook as Q3 Sales Drop",
       "link": "https://fashionista.com/2026/11/meg-stalter-marc-jacobs-let-it-joy-holiday-campaign",
@@ -2414,20 +2498,6 @@
       "angle": "Fashion Intelligence: Fashionista's October Shopping List: 17 Items Our Editors Love...",
       "score": 3,
       "published": "2026-10-29T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c62f244f72db",
-      "title": "Foundation Is Seeking Beauty PR Interns & Influencer Marketing Interns In NYC + LA",
-      "link": "https://fashionista.com/2026/10/foundation-is-seeking-beauty-pr-interns-influencer-marketing-interns-in-nyc-la",
-      "summary": "Calling all beauty-obsessed intern candidates! Foundation, voted “Best Beauty PR Firm” by the PR Next Gen Awards, is looking for bright, digitally-savvy, motivated Beauty PR Interns and Influencer Marketing Interns to join our dynamic team at our New York and LA offices for the Spring 2027 semester.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Foundation Is Seeking Beauty PR Interns & Influencer Marketing Interns...",
-      "score": 1,
-      "published": "2026-10-28T16:52:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2753,6 +2823,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "022aa7ee1b1a",
+      "title": "The 5 Best Designer Stores in Banjara Hills, Hyderabad: The Ultimate Bridal Trousseau Trail",
+      "link": "https://www.azafashions.com/blog/best-designer-stores-in-banjara-hills/?utm_source=rss&utm_medium=rss&utm_campaign=best-designer-stores-in-banjara-hills",
+      "summary": "Banjara Hills sets the standard for luxury shopping in Hyderabad, with high-end stores lining its glamorous streets. Luxe flagships stand beside sleek multi-designer spaces along its wide avenues, making this neighbourhood&#8230; The post The 5 Best Designer Stores in Banjara Hills, Hyderabad: The Ultimate Bridal Trous",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 5 Best Designer Stores in Banjara Hills, Hyderabad — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-11-12T12:39:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "214249dc5a5f",
       "title": "Rimple and Harpreet Narula on Dressing the Cast of Ramayana",
       "link": "https://www.azafashions.com/blog/rimple-and-harpreet-narula-on-dressing-the-cast-of-ramayana/?utm_source=rss&utm_medium=rss&utm_campaign=rimple-and-harpreet-narula-on-dressing-the-cast-of-ramayana",
@@ -2877,70 +2961,56 @@
       "score": 3,
       "published": "2026-11-06T23:30:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "5631413d6c62",
-      "title": "Modest Holiday Looks That Bring All the Glam",
-      "link": "https://www.azafashions.com/blog/modest-holiday-outfits/?utm_source=rss&utm_medium=rss&utm_campaign=modest-holiday-outfits",
-      "summary": "Holiday dressing has a rhythm of its own. There's the warm, candlelit glow of Thanksgiving, the crisp sparkle of Christmas markets, the hush of Christmas Eve, and the full-throttle shimmer&#8230; The post Modest Holiday Looks That Bring All the Glam appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-11-06T22:45:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ellyse perry",
+      "term": "result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "narendra modi",
+      "term": "forex factory news",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "கடல்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बेटी",
+      "term": "ప్రసాదం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "উজ্জল বিশ্বাস",
+      "term": "rockstar games gta vi",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "ബംഗാള് ഉള്ക്കടലില്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakw vs banw",
+      "term": "friday the 13th",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sydney sixers vs melbourne renegades",
+      "term": "நியூசிலாந்து தேசிய கிரிக்கெட் அணி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sydney sixers (wbbl) vs melbourne renegades match scorecard",
+      "term": "બેટિંગ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hal share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "मस्जिद",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "dhs proposed h-1b extension rule",
+      "term": "विधेयक",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
