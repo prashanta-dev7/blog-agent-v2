@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T08:30:37.506280+00:00",
+  "generated_at": "2026-11-14T11:57:04.374950+00:00",
   "owned_count": 10,
   "competitor_count": 22,
-  "industry_count": 182,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,21 +19,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Liu Jo Fall 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-11-14T08:29:22+00:00",
+      "published": "2026-11-14T11:52:26+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "433e11ffcb5f",
-      "title": "Ferrari Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ferrari",
-      "summary": "",
+      "id": "771aadccafec",
+      "title": "Show the names: Kapil Sibal challenges Yogi on 1.27 crore deleted Hindu voters claim",
+      "link": "https://www.indiatoday.in/india/story/kapil-sibal-questions-yogi-adityanath-1-27-crore-hindu-voter-deletion-claim-ptag-3038865-2026-11-14?utm_source=rss",
+      "summary": "Show the names: Kapil Sibal challenges Yogi on 1.27 crore deleted Hindu voters claim",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Show the names: Kapil Sibal challenges Yogi on 1.27 crore deleted Hind...",
+      "score": 1,
+      "published": "2026-11-14T11:35:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7aa47bcaa93",
+      "title": "How to Dress Like a Pop Star, According to Street Style’s Best-Dressed Musicians",
+      "link": "https://www.vogue.com/article/street-style-fashion-week-musicians-best-looks-in-street-style",
+      "summary": "Ahead of the Grammy nominations, we’ve rounded up the artists most in tune with style.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: How to Dress Like a Pop Star, According to Street Style’s Best-Dressed...",
+      "score": 2,
+      "published": "2026-11-14T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "525bbf910c32",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-november-14",
+      "summary": "From Chappell Roan’s fiery red braid to Rosie Huntington-Whiteley’s smoldering glam, this week’s best beauty looks are all about making an impression.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ferrari Spring 2027 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
       "score": 1,
-      "published": "2026-11-14T08:29:22+00:00",
+      "published": "2026-11-14T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1577357cede3",
+      "title": "Even More Elegant Than Boots—Fashion People Have a Soft Spot For This Luxurious Flat Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/velvet-loafers-trend-jennifer-lawrence-2026",
+      "summary": "Elevate your winter wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-14T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1143,20 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e633c105a030",
-      "title": "Richemont’s Jewelry Sales Rise 14%",
-      "link": "https://www.vogue.com/article/richemonts-jewelry-sales-rise-14",
-      "summary": "Jewelry sales at Cartier’s parent company decelerated in fiscal Q2, after surging 24% in Q1.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Richemont’s Jewelry Sales Rise 14%...",
-      "score": 0,
-      "published": "2026-11-13T08:03:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5f1a3091e19d",
       "title": "Brandman Retail Targets 50 Stores by March 2027, Revenue Rises 20% in FY ’26",
       "link": "https://in.apparelresources.com/business-news/retail/brandman-retail-targets-50-stores-march-2027-revenue-rises-20-fy-26/",
@@ -1196,6 +1224,20 @@
       "angle": "Fashion Intelligence: KL Rahul Joins PlayBlue as Investor, Brand Ambassador...",
       "score": 2,
       "published": "2026-11-13T07:26:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cf18ec39434b",
+      "title": "14 Best Men’s Tech And Gadgets Christmas Gift Guide For 2026",
+      "link": "https://www.fashionbeans.com/article/mens-tech-gadgets-gift-guide/",
+      "summary": "We like a scarf and socks as much as the next man, but they&#8217;re not the same as opening your own drone aircraft on a Christmas morning, are they? Things you can plug in always make for more exciting gifts, so we&#8217;ve trawled through this year&#8217;s finest gadgetry to hand-pick the gizmos we&#8217;d most like",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: 14 Best Men’s Tech And Gadgets Christmas Gift Guide For 2026...",
+      "score": 1,
+      "published": "2026-11-13T07:00:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1689,34 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "591673addd17",
-      "title": "Hold the Cropped Trousers—I Think This Surprising Trouser Trend Looks Even Chicer on Petites",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/puddle-pants-trend-nicola-coughlan-2026",
-      "summary": "Always elegant.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-12T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bd8777ebd4fe",
-      "title": "I Keep Seeing Fashion Friends In Black Trousers and Boots—Here's How They're Elevating the Combo Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-boots-black-trousers-jeans-outfits-zoe-kravitz-riley-keough-2026",
-      "summary": "The perfect foundation.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Keep Seeing Fashion Friends In Black Trousers and Boots—Here's How T...",
-      "score": 1,
-      "published": "2026-11-12T09:27:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "449172df8065",
       "title": "How to Coordinate Your Engagement Ring With Your Bridal Jewelry",
       "link": "https://www.fashiongonerogue.com/story/coordinate-engagement-ring-bridal-jewelry/",
@@ -2162,48 +2176,6 @@
       "angle": "Fashion Intelligence: Rock Clothing: How Rock Stars Changed Fashion Forever...",
       "score": 2,
       "published": "2026-11-09T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f950be96ccdf",
-      "title": "10 Best Matching Shoes for Couples to Rock Together in 2026",
-      "link": "https://www.fashionbeans.com/article/best-matching-shoes-for-couples/",
-      "summary": "Matching outfits? Downright corny. But matching kicks with bae? Now, that’s actually pretty cool. The best matching shoes for couples are special and subtle enough that if people aren’t paying close attention, it’s a comfortable and stylish symbol shared between just the two of you. Fortunately, tons of brands make uni",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Best Matching Shoes for Couples to Rock Together in 2026...",
-      "score": 2,
-      "published": "2026-11-09T08:52:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0af7021ec0cb",
-      "title": "8 Best Casual Blazers For Men – Fit Any Occasion in 2026",
-      "link": "https://www.fashionbeans.com/article/best-casual-blazers-for-men/",
-      "summary": "Wear them with jeans, slacks, or even a pair of joggers – the best casual blazers for men will take you far. Gone are the days of shoulder pads and rigid linings. Modern blazers have taken a streamlined turn for the contemporary gentleman, ensuring enough structure without becoming inflexible, along with plenty of room",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-11-09T06:14:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ad2a3d93d661",
-      "title": "10 Best Fall Colognes for Men To Feel Cozy in 2026",
-      "link": "https://www.fashionbeans.com/article/best-fall-colognes/",
-      "summary": "Pumpkin patches, apple orchards, and bonfires, oh my. The best fall colognes for men capture the essence of autumn. As a transitional season, fall evokes all kinds of feelings: the desire to cling to summer weather, the temptation to seek warmth with others, and of course, the impending cold of the winter season. Autum",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 10 Best Fall Colognes for Men To Feel Cozy in 2026...",
-      "score": 1,
-      "published": "2026-11-09T06:10:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2865,6 +2837,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "feb4f7605251",
+      "title": "Your Jewellery Box Needs a Little Italian Elegance",
+      "link": "https://www.azafashions.com/blog/a-little-italian-elegance/?utm_source=rss&utm_medium=rss&utm_campaign=a-little-italian-elegance",
+      "summary": "Some outfits just need one good piece of jewellery to feel finished. A plain white shirt turns polished the moment you add a gold cuff. A simple slip dress feels&#8230; The post Your Jewellery Box Needs a Little Italian Elegance appeared first on The Aza Editorials | Fashion Trends, Celebrity Looks &amp; Style Guides .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Your Jewellery Box Needs a Little Italian Elegance...",
+      "score": 7,
+      "published": "2026-11-14T10:23:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3394561fcef0",
+      "title": "Cocktail Bags That Are Anything but an Afterthought",
+      "link": "https://www.azafashions.com/blog/cocktail-bags/?utm_source=rss&utm_medium=rss&utm_campaign=cocktail-bags",
+      "summary": "Here's a confession every stylish woman has made at least once: she planned the outfit for weeks and picked the bag five minutes before leaving. That math needs to change. &#8230; The post Cocktail Bags That Are Anything but an Afterthought appeared first on The Aza Editorials | Fashion Trends, Celebrity Looks &amp; St",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Cocktail Bags That Are Anything but an Afterthought...",
+      "score": 4,
+      "published": "2026-11-13T10:35:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ed7748a7b5ef",
       "title": "11 Top Indian Designer Stores in South Delhi for Luxury Fashion Shopping",
       "link": "https://www.azafashions.com/blog/designer-stores-south-delhi/?utm_source=rss&utm_medium=rss&utm_campaign=designer-stores-south-delhi",
@@ -2935,6 +2935,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9fa90e6c4839",
+      "title": "Winter Brides, This Is Your Sign to Wear a Velvet Lehenga",
+      "link": "https://www.azafashions.com/blog/winter-brides-wear-velvet-lehenga/?utm_source=rss&utm_medium=rss&utm_campaign=winter-brides-wear-velvet-lehenga",
+      "summary": "Winter weddings have a mood all their own. The air is crisper, the celebrations feel more intimate, and the colour palette shifts into something deeper and moodier. This is the&#8230; The post Winter Brides, This Is Your Sign to Wear a Velvet Lehenga appeared first on The Aza Editorials | Fashion Trends, Celebrity Look",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Winter Brides, This Is Your Sign to Wear a Velvet Lehenga — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-11-11T08:05:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "214249dc5a5f",
       "title": "Rimple and Harpreet Narula on Dressing the Cast of Ramayana",
       "link": "https://www.azafashions.com/blog/rimple-and-harpreet-narula-on-dressing-the-cast-of-ramayana/?utm_source=rss&utm_medium=rss&utm_campaign=rimple-and-harpreet-narula-on-dressing-the-cast-of-ramayana",
@@ -2961,98 +2975,56 @@
       "score": 5,
       "published": "2026-11-09T16:01:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "5352b9b55029",
-      "title": "The Art of Editing Your Occasion Closet",
-      "link": "https://www.azafashions.com/blog/art-of-editing-your-occasion-closet/?utm_source=rss&utm_medium=rss&utm_campaign=art-of-editing-your-occasion-closet",
-      "summary": "Why investing in fewer but more versatile pieces is reshaping modern luxury If your festive wardrobe could talk, it would probably say this: \"I'm full, but I can't fulfil.\" Luxury&#8230; The post The Art of Editing Your Occasion Closet appeared first on The Aza Editorials | Fashion Trends, Celebrity Looks &amp; Style G",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 7,
-      "published": "2026-11-09T12:04:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c170d6f084f7",
-      "title": "7 Designer Stores in Hyderabad for Wedding Shopping",
-      "link": "https://www.azafashions.com/blog/designer-stores-in-hyderabad-for-wedding/?utm_source=rss&utm_medium=rss&utm_campaign=designer-stores-in-hyderabad-for-wedding",
-      "summary": "Hyderabad has always had a soft spot for craftsmanship. Walk through any wedding here and you'll see it: the zardozi on a dupatta, the handwoven silk of a saree, the&#8230; The post 7 Designer Stores in Hyderabad for Wedding Shopping appeared first on The Aza Editorials | Fashion Trends, Celebrity Looks &amp; Style Gui",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: 7 Designer Stores in Hyderabad for Wedding Shopping — A Complete Style Guide",
-      "score": 10,
-      "published": "2026-11-09T09:11:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0fd239a72bad",
-      "title": "What’s Next: Indian Fashion Is Stepping into Its Global Era",
-      "link": "https://www.azafashions.com/blog/whats-next-in-indian-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=whats-next-in-indian-fashion",
-      "summary": "What happens when a culture stops looking outward for what comes next and starts looking inward instead? Indian fashion is finding the answer in its own archive. The saree is&#8230; The post What’s Next: Indian Fashion Is Stepping into Its Global Era appeared first on The Aza Editorials | Fashion Trends, Celebrity Look",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: What’s Next: Indian Fashion Is Stepping into Its Global Era...",
-      "score": 4,
-      "published": "2026-11-09T07:57:55+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "adelaide strikers vs perth scorchers",
+      "term": "sayan ghosh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india vs bhutan",
+      "term": "ಹೆಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "england cricket",
+      "term": "ethanol fuel",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അനിരുദ്ധ് രവിചന്ദര്",
+      "term": "आदिनाथ कोठारे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्मार्ट टीवी",
+      "term": "ಲೋಕಾಯುಕ್ತ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "কলকাতা হাইকোর্ট",
+      "term": "ranbir kapoor ramayana movie",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anukul roy",
+      "term": "अन्वय द्रविड़",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mumbai vs hyderabad mushtaq ali trophy",
+      "term": "वीवो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india pakistan",
+      "term": "marc cucurella",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दुल्हन",
+      "term": "जनहित याचिका",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
