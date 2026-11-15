@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T08:46:20.773216+00:00",
+  "generated_at": "2026-11-15T12:30:13.747718+00:00",
   "owned_count": 10,
   "competitor_count": 22,
-  "industry_count": 179,
+  "industry_count": 162,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Liu Jo Fall 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-11-15T08:46:00+00:00",
+      "published": "2026-11-15T12:28:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6b58f52f9a20",
+      "title": "Confirmed: This Is the Most Stylish Way to Wear a Grown-Out Bob This Year",
+      "link": "https://www.whowhatwear.com/beauty/hair/long-layered-bob-haircuts",
+      "summary": "Fine, do I chop my hair again?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Confirmed: This Is the Most Stylish Way to Wear a Grown-Out Bob This Y...",
+      "score": 1,
+      "published": "2026-11-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be4f5af58176",
+      "title": "Delhi police arrest man for murder of woman in showroom trial room near Moti Nagar",
+      "link": "https://www.indiatoday.in/india/video/delhi-police-arrest-man-for-murder-of-woman-in-trial-room-near-moti-nagar-metro-station-ytvd-3039447-2026-11-15?utm_source=rss",
+      "summary": "Delhi police arrest man for murder of woman in showroom trial room near Moti Nagar",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Delhi police arrest man for murder of woman in showroom trial room nea...",
+      "score": 1,
+      "published": "2026-11-15T11:45:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c5f78d4b531",
+      "title": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer",
+      "link": "https://www.vogue.com/article/the-hot-list-with-gab-waller",
+      "summary": "Gab Waller’s monthly cheat sheet of things to shop now before the most dreaded three words in online shopping appear (“out of stock”).",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite F...",
+      "score": 1,
+      "published": "2026-11-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "20d50266e573",
+      "title": "44 Best Wedding Guest Dresses in 2026 for Every Type of Ceremony",
+      "link": "https://www.vogue.com/article/best-wedding-guest-dresses",
+      "summary": "Shop the best wedding guest dresses for every kind of ceremony and dress code—from a garden wedding to a beach wedding and courthouse ceremony.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 44 Best Wedding Guest Dresses in 2026 for Every Type of Ceremony — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-11-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb70b43952c2",
+      "title": "These Casual It Pants Keep Selling Out—Here's How I'm Dressing Them Up For Fall and Winter",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/leset-kyoto-carpenter-pants-fall-winter-outfit-ideas",
+      "summary": "Seven outfits that show their versatility.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: These Casual It Pants Keep Selling Out—Here's How I'm Dressing Them Up...",
+      "score": 3,
+      "published": "2026-11-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d71359c3d63",
+      "title": "Prepare to Gawp at the Chicest, Coolest and Most Fabulous Party Pieces of 2026",
+      "link": "https://www.whowhatwear.com/fashion/party/best-party-pieces-2026",
+      "summary": "Bring on party season!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Prepare to Gawp at the Chicest, Coolest and Most Fabulous Party Pieces...",
+      "score": 1,
+      "published": "2026-11-15T10:37:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "507da4b06631",
+      "title": "The Exact Knit Stylish People in the Alps and Scandi Countryside Are Wearing to Keep Cosy",
+      "link": "https://www.whowhatwear.com/fashion/sezane-gaia-jacket",
+      "summary": "Escape to the country!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-11-15T10:35:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "97338f3029f6",
+      "title": "Not Boots—The Chicest Dressers I Know Tackle Rainy Weather In This Comfortable Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leather-loafers-rainy-day-outfit-lila-moss-2026",
+      "summary": "So good to know.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-15T10:10:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f0caad9766c",
+      "title": "I’m a Shopping Editor Who Lives in M&S Cashmere—These Are the 9 Jumpers I Recommend to Everyone",
+      "link": "https://www.whowhatwear.com/fashion/shopping/marks-and-cashmere-jumpers-2026",
+      "summary": "From classic crew-necks to elegant funnel-neck styles, these are the expensive-looking cashmere jumpers worth adding to your winter wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I’m a Shopping Editor Who Lives in M&S Cashmere—These Are the 9 Jumper...",
+      "score": 1,
+      "published": "2026-11-15T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b285750a29a4",
+      "title": "This Pretty Knitwear Trend Is the Key to a Cozy Yet Chic Holiday Look",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/best-embellished-sweaters",
+      "summary": "These knits will do all the talking.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-15T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -317,20 +457,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9a8f87d4b902",
-      "title": "Best Christmas Fragrances for Men: A Gift Guide for 2026",
-      "link": "https://www.fashionbeans.com/article/christmas-mens-fragrances-guide/",
-      "summary": "FYI In this latest revision, we’ve refined our recommendations by adding a few new fragrances to the lineup to help you find the perfect scent for any occasion. We&#8217;ve introduced Tom Ford Tuscan Leather for its luxurious and bold profile, ideal for making a lasting impression. Dolce &#38; Gabbana The One EDP also ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Best Christmas Fragrances for Men: A Gift Guide for 2026...",
-      "score": 1,
-      "published": "2026-11-14T08:00:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6a8648b2cdb0",
       "title": "I’ve Studied Dakota Johnson’s Wardrobe—These Are the 3 Jeans Trends She Keeps Coming Back To",
       "link": "https://www.whowhatwear.com/fashion/denim/dakota-johnson-jeans-trends-2026",
@@ -345,20 +471,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "735b8391901b",
-      "title": "The Ultimate Boys Toys for Christmas Gift Guide 2026",
-      "link": "https://www.fashionbeans.com/article/boys-toys-gift-guide/",
-      "summary": "FYI After our most recent round of research, we’ve updated the products in this guide to reflect the latest models and added best for attributes to make gift selection even easier for our readers. Each item is still selected for its ability to bring joy and excitement long after the holidays. Our top overall pick, the ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Ultimate Boys Toys for Christmas Gift Guide 2026...",
-      "score": 1,
-      "published": "2026-11-14T07:00:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "46d8a53405d6",
       "title": "Sienna Miller, Alexa Chung and Amanda Seyfried Agree: This Is the Chicest High-Street Coat of the Season",
       "link": "https://www.whowhatwear.com/fashion/outerwear/aligne-george-wrap-coat",
@@ -370,20 +482,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-11-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "95d7c0723402",
-      "title": "Top 60 Unique Christmas Gift Ideas for Women 2026",
-      "link": "https://www.fashionbeans.com/article/christmas-gifts-for-her/",
-      "summary": "FYI After our latest round of research, we&#8217;ve crowned the Dyson Airwrap as our top pick for her (and you). Its innovative use of air to style hair without extreme heat has made it a standout product this season. Aside from this new addition, the Heart Vanity Mirror has also moved up the ranks, offering &#8230; Co",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Top 60 Unique Christmas Gift Ideas for Women 2026...",
-      "score": 2,
-      "published": "2026-11-14T02:00:33+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1242,7 +1340,7 @@
     },
     {
       "id": "a56467018f6f",
-      "title": "Instead of Chelsea Boots—Elegant Over-50s Are Wearing This Winter Shoe Trend With Wide-Leg Trousers",
+      "title": "Instead of Chelsea Boots, Elegant Over-50s Are Wearing This Winter Shoe Trend With Wide-Leg Trousers",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/heeled-boots-grey-trousers-outfit-angelina-jolie-2026",
       "summary": "Instant elegance.",
       "source": "Who What Wear",
@@ -1252,20 +1350,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-11-13T10:54:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1b83ab78ae9",
-      "title": "Rosalía Co-Signs One of This Year’s Most Viral Looks at the Latin Grammys",
-      "link": "https://www.vogue.com/article/rosalia-latin-grammys-looks-2026-11-13",
-      "summary": "From a sculptural Matières Fécales confection to custom Erdem and Vivienne Westwood, Rosalía’s Latin Grammys wardrobe was a masterclass in high-fashion fantasy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rosalía Co-Signs One of This Year’s Most Viral Looks at the Latin Gram...",
-      "score": 1,
-      "published": "2026-11-13T10:50:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1283,17 +1367,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "65e7e424f554",
-      "title": "The 5 Wellness Trends That Will Define 2027",
-      "link": "https://www.vogue.com/article/the-5-wellness-trends-that-will-define-2027",
-      "summary": "Personalization, light as a supplement, and a “less is more” approach; industry leaders and analysts unpack the trends set to define wellness in 2027.",
-      "source": "Vogue US",
+      "id": "a70ceebff6eb",
+      "title": "I Just Created the Chicest Fashion Advent Calendar for Your Winter Shopping Pleasure",
+      "link": "https://www.whowhatwear.com/fashion/shopping/stunning-fashion-finds-winter-2026",
+      "summary": "Twenty-four sartorial gems to treat yourself with!",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Created the Chicest Fashion Advent Calendar for Your Winter Sho...",
       "score": 1,
-      "published": "2026-11-13T10:30:00+00:00",
+      "published": "2026-11-13T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1311,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a70ceebff6eb",
-      "title": "I Just Created the Chicest Fashion Advent Calendar for Your Winter Shopping Pleasure",
-      "link": "https://www.whowhatwear.com/fashion/shopping/stunning-fashion-finds-winter-2026",
-      "summary": "Twenty-four sartorial gems to treat yourself with!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Created the Chicest Fashion Advent Calendar for Your Winter Sho...",
-      "score": 1,
-      "published": "2026-11-13T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a0b04b3fdcb4",
       "title": "Mark My Words: This Is the One Bag Trend That'll Outsell Suede Totes This Winter",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/lily-james-new-fendi-bag-outfit",
@@ -1336,34 +1406,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-11-13T09:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "550262a326c7",
-      "title": "50 Christmas Gifts Ideas Guys Are Requesting Most in 2026",
-      "link": "https://www.fashionbeans.com/article/what-to-ask-for-this-christmas/",
-      "summary": "FYI After a fresh round of research, we’ve confirmed that most of our original gift picks still hold up — with a few standout updates worth noting. The Tissot PR 100 dress watch now takes the top spot for its minimalist design, thoughtful engineering, and everyday versatility. We’ve bumped the skincare category into po",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 50 Christmas Gifts Ideas Guys Are Requesting Most in 2026...",
-      "score": 1,
-      "published": "2026-11-13T09:34:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ad22630f3222",
-      "title": "70 Unique Christmas Gifts For Men in 2026",
-      "link": "https://www.fashionbeans.com/article/christmas-gifts-for-men/",
-      "summary": "FYI We’ve freshened up our top 10 picks after diving into the latest must-haves for this holiday season. While the Amazon Echo Speaker still holds the crown as our top overall choice (it’s just that good), we’ve swapped out some of the other options to keep things interesting. These new picks are packed with cool &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 70 Unique Christmas Gifts For Men in 2026...",
-      "score": 1,
-      "published": "2026-11-13T09:30:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1392,20 +1434,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-11-13T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b15d76e21f1e",
-      "title": "7 Christmas Party Outfit Fails Every Guy Makes (And the Exact Fixes)",
-      "link": "https://www.fashionbeans.com/article/christmas-party-outfit-mistakes-men/",
-      "summary": "Christmas parties hit men in a strange way. The excitement, the pressure, the “I really hope I don’t embarrass myself in front of people I see every week”… it all mixes together and flips your style instinct upside down. Some guys panic and overdress. Some go too casual. Some lean into novelty. Most of it &#8230; Conti",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 7 Christmas Party Outfit Fails Every Guy Makes (And the Exact Fixes)...",
-      "score": 3,
-      "published": "2026-11-13T08:58:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1451,20 +1479,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2c731dbfec4e",
-      "title": "More Elegant Than Leggings, Trendier Than Jeans—These Trousers Are Winter’s Best Buy",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/brown-cord-trouser-trend",
-      "summary": "For real.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-13T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0a65772e8dab",
       "title": "KL Rahul Joins PlayBlue as Investor, Brand Ambassador",
       "link": "https://in.apparelresources.com/business-news/retail/kl-rahul-joins-playblue-as-investor-brand-ambassador/",
@@ -1476,34 +1490,6 @@
       "angle": "Fashion Intelligence: KL Rahul Joins PlayBlue as Investor, Brand Ambassador...",
       "score": 2,
       "published": "2026-11-13T07:26:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cf18ec39434b",
-      "title": "14 Best Men’s Tech And Gadgets Christmas Gift Guide For 2026",
-      "link": "https://www.fashionbeans.com/article/mens-tech-gadgets-gift-guide/",
-      "summary": "We like a scarf and socks as much as the next man, but they&#8217;re not the same as opening your own drone aircraft on a Christmas morning, are they? Things you can plug in always make for more exciting gifts, so we&#8217;ve trawled through this year&#8217;s finest gadgetry to hand-pick the gizmos we&#8217;d most like",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: 14 Best Men’s Tech And Gadgets Christmas Gift Guide For 2026...",
-      "score": 1,
-      "published": "2026-11-13T07:00:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a890b6f50f4c",
-      "title": "I Study Designer Handbags for a Living—These Are the Brands I'd Invest in This Winter",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-designer-handbag-brands-winter-2026",
-      "summary": "The (h)it list.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Study Designer Handbags for a Living—These Are the Brands I'd Invest...",
-      "score": 2,
-      "published": "2026-11-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1521,48 +1507,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dee29572b203",
-      "title": "To Look On-Trend This Winter, Wear Blue Jeans With This Jacket and These French-Girl Shoes",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/fur-trimmed-jacket-jeans-ballet-pumps-outfit-ariana-grande",
-      "summary": "Ariana Grande is already aware.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-13T01:28:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1888de5d2e24",
-      "title": "Amelia Gray on the Perfect \"Winter in L.A.\" Outfit Combo and Her Favorite Under-$40 H&M Sweaters",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/amelia-gray-hm-holiday-interview",
-      "summary": "Amelia Gray on the Perfect \"Winter in L.A.\" Outfit Combo and Her Favorite Under-$40 H&amp;M Sweaters",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Amelia Gray on the Perfect \"Winter in L.A.\" Outfit Combo and Her Favor...",
-      "score": 1,
-      "published": "2026-11-12T22:25:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6dcab58a13b3",
-      "title": "11 Butterfly Cuts Celebrity Hairstylists Actually Recommend for Curly Hair",
-      "link": "https://www.whowhatwear.com/beauty/hair/curly-butterfly-haircuts",
-      "summary": "It's the styling hack for major volume.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-12T22:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fa6ee43d187b",
       "title": "The Best Apple Deals to Shop Before Black Friday",
       "link": "https://www.harpersbazaar.com/fashion/trends/a74391680/apple-black-friday-deals-2026/",
@@ -1574,20 +1518,6 @@
       "angle": "Fashion Intelligence: The Best Apple Deals to Shop Before Black Friday...",
       "score": 0,
       "published": "2026-11-12T21:51:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d14d9118a197",
-      "title": "Not Sneakers—Stylish Celebrities Are Wearing Track Pants With These Elegant Flat Shoes Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/track-pants-loafers-outfit-jennifer-lawrence-2026",
-      "summary": "J.Law is leading the charge.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-12T21:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1997,34 +1927,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "57120b97d908",
-      "title": "24 Best High and Tight Haircuts for Men in 2026",
-      "link": "https://www.fashionbeans.com/article/mens-high-tight-haircuts/",
-      "summary": "If you&#8217;re someone who doesn&#8217;t have a moment to waste, opt for a high and tight haircut. It&#8217;s a timeless style that is as on-trend today as it was over a century ago. Even better, when you&#8217;re ready for a change, you can style it up with more length on top, a skillful skin fade, &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 24 Best High and Tight Haircuts for Men in 2026...",
-      "score": 2,
-      "published": "2026-11-10T09:50:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "311f4d9990f6",
-      "title": "26 Best Buzz Cut Haircuts for Men: Ultimate Guide in 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-buzz-cuts-hairstyles/",
-      "summary": "Think that choosing a men&#8217;s buzz cut is as easy as choosing a number? Think again, exposing some scalp isn’t just about being bald and brave anymore, or even about having a wash ‘n go haircut, it&#8217;s still about finding the best haircut for you, no one-style-fits-all. The good news for you is that these &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 26 Best Buzz Cut Haircuts for Men: Ultimate Guide in 2026...",
-      "score": 1,
-      "published": "2026-11-10T09:50:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "127b191b372d",
       "title": "Must Read: Talia Bourne Wins the 2026 Supima Design Competition, Depop Partners With Amelia Dimoldenberg",
       "link": "https://fashionista.com/2026/11/talia-bourne-wins-2026-supima-design-competition",
@@ -2036,146 +1938,6 @@
       "angle": "Fashion Intelligence: Must Read: Talia Bourne Wins the 2026 Supima Design Competition, Depop...",
       "score": 3,
       "published": "2026-11-09T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4a02b32d1136",
-      "title": "Roderer’s Award Briefcase Review: Luxury and Practicality in Perfect Harmony",
-      "link": "https://www.fashionbeans.com/article/roderer-award-briefcase-review/",
-      "summary": "Not so long ago, briefcases had a somewhat stuffy reputation. Carried by company directors and mafioso’s en-route to a sit-down, they were seen as practical, not polished. But times have changed. Today, briefcases like Roderer’s have evolved from pure corporate baggage into sleek, stylish companions for city-bound comm",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Roderer’s Award Briefcase Review: Luxury and Practicality in Perfect H...",
-      "score": 1,
-      "published": "2026-11-09T16:21:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "af4a8e11eb96",
-      "title": "How To Wear Pinstripe Trousers The Modern Way",
-      "link": "https://www.fashionbeans.com/article/how-to-wear-pinstripe-trousers/",
-      "summary": "If, like everyone else, you have long been confused and frustrated by the smart-casual dress code, base a pair of pinstripe trousers at the core of your wardrobe and you’ll make the job a whole lot easier. The fine-line print hasn’t always been seen as a key piece in a man’s everyday arsenal. For a &#8230; Continue rea",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Wear Pinstripe Trousers The Modern Way...",
-      "score": 2,
-      "published": "2026-11-09T15:01:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "99c810feaa92",
-      "title": "The Best Hairstyles For Balding Men",
-      "link": "https://www.fashionbeans.com/article/bald-men-balding-hairstyles/",
-      "summary": "What do Dwayne &#8216;The Rock&#8217; Johnson, Jason Statham and Vin Diesel have in common? Sure, there’s the unquestionable acting pedigree and careers that show just how good getting typecast can be (for your wallet at least), but there’s another common denominator shared by action’s most wanted: they’re all bald men",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Hairstyles For Balding Men...",
-      "score": 2,
-      "published": "2026-11-09T12:40:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "16172d901ac4",
-      "title": "8 Best Minimalist Sneakers: Low-key, High Profile in 2026",
-      "link": "https://www.fashionbeans.com/article/best-minimalist-sneakers/",
-      "summary": "Free from futile features and loud logos, the best minimalist sneakers focus on what really matters: style, comfort, and wearability. This is why every guy should own a decent pair or three. Join me as I uncover the slickest silhouettes in the game, rounding up a plethora of the most simple yet seriously stylish sneake",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Best Minimalist Sneakers: Low-key, High Profile in 2026...",
-      "score": 2,
-      "published": "2026-11-09T12:27:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "362e38a12459",
-      "title": "5 Best Dove Body Washes For Men: All about the Scent in 2026",
-      "link": "https://www.fashionbeans.com/article/best-dove-body-washes-for-men/",
-      "summary": "When it comes to quality men’s skincare and hygiene products, Dove is a brand that’s up there with the best of them. Not only does Dove care about the planet and the kind of ingredients it uses in its products—but its signature scents are also out of this world. As with its deodorants, its ever-expanding &#8230; Contin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Dove Body Washes For Men: All about the Scent in 2026...",
-      "score": 1,
-      "published": "2026-11-09T11:52:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "17fca1607d3e",
-      "title": "13 Best Square Watches for Men 2026",
-      "link": "https://www.fashionbeans.com/article/best-square-watches/",
-      "summary": "No timepiece collection is complete without one of the best square watches. The shape isn’t just a fashion trend, it’s a bespoke innovation steeped in history. 100 years after the first round watch was worn on the wrist, Louis Cartier created the Cartier Santos for his fashionable aviator friend, Santos Dumont. The sha",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 13 Best Square Watches for Men 2026...",
-      "score": 3,
-      "published": "2026-11-09T10:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0914536d7484",
-      "title": "The Best Fitting Jeans You Can Buy For Every Body Type",
-      "link": "https://www.fashionbeans.com/article/perfect-jeans-for-your-body-type/",
-      "summary": "The average man is five-foot-nine and wears a size medium or large. If this sounds like you, then congratulations – you’ve hit the jackpot in denim shopping, and all jeans are essentially made for you. Brands and designers base their sizing on a man of average dimensions, then scale up or down. Of course, for &#8230; C",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Fitting Jeans You Can Buy For Every Body Type...",
-      "score": 3,
-      "published": "2026-11-09T09:40:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "492fe40c850b",
-      "title": "Best Men’s Hair Products: Modern Guide For 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-hair-products/",
-      "summary": "There was a time when hair care for men involved little more than a quick suds-up with some Head &#38; Shoulders, a furious towel dry and, on special occasions, a slather of Dax or Brylcreem – you know, if you were feeling fancy. Now though, with freeze-hold gels, matte clays and volumising sprays crowding our &#8230; ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Best Men’s Hair Products: Modern Guide For 2026...",
-      "score": 1,
-      "published": "2026-11-09T09:39:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3919e78ad2b",
-      "title": "5 Men’s Danish Clothing Brands You Should Know",
-      "link": "https://www.fashionbeans.com/2013/danish-menswear-brands/",
-      "summary": "Denmark, much like Sweden, which was featured in our previous country-specific post, is a nation often bandied into that vague category of &#8216;Scandinavia&#8217; – an umbrella term that conjures images of blonde hair, recycling and progressive policies. However, the country has every right to step out of Sweden&#821",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Men’s Danish Clothing Brands You Should Know...",
-      "score": 1,
-      "published": "2026-11-09T09:30:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8702e1fc9c56",
-      "title": "10 Autumn Style Moves To Make Right Now",
-      "link": "https://www.fashionbeans.com/article/mens-transitional-style-tips/",
-      "summary": "If HBO’s wildly popular medieval fantasy epic was set anywhere in the northern hemisphere, it’s likely that Game of Thrones’ most commonly cited catchphrase would be more like: “Winter is coming. No, wait, it’s warm again. Never mind.” While that may not be the case, the whole process of moving from one season to the &",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 10 Autumn Style Moves To Make Right Now...",
-      "score": 2,
-      "published": "2026-11-09T09:00:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +2727,52 @@
   ],
   "trends": [
     {
-      "term": "towhid hridoy",
+      "term": "പോലീസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bangladesh sheikh hasina",
+      "term": "శ్రేయాస్ అయ్యర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mitchell marsh",
+      "term": "अमर उजाला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "south africa national cricket team",
+      "term": "सोना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फिन एलन",
+      "term": "bay of bengal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "finn allen",
+      "term": "jay puri",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांगलादेश बनाम दक्षिण अफ्रीका",
+      "term": "अनंत कुमार सिंह",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दुष्काळ",
+      "term": "নিউজিল্যান্ড জাতীয় ক্রিকেট দল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bangladesh vs south africa",
+      "term": "spain vs england",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चीन",
+      "term": "மழை",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
