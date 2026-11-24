@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T11:57:27.829200+00:00",
+  "generated_at": "2026-11-24T15:32:00.540601+00:00",
   "owned_count": 0,
   "competitor_count": 24,
-  "industry_count": 175,
+  "industry_count": 144,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,231 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Stine Goya Pre-Fall 2027...",
       "score": 0,
-      "published": "2026-11-24T11:56:07+00:00",
+      "published": "2026-11-24T15:31:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "daa52c98933f",
+      "title": "Geri Halliwell’s New “Dark Honey” Hair Is Winter’s Most Expensive-Looking Color Trend: How to Recreate It",
+      "link": "https://www.harpersbazaar.com/beauty/hair/a74519796/geri-halliwell-dark-honey-hair/",
+      "summary": "Rich, warm, and glossy, the Spice Girl’s new shade is winter-ready",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-11-24T15:28:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "23669ac9d3dd",
+      "title": "Teyana Taylor’s Deconstructed F1 Jacket Was Previously Worn on the Race Track",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a74519235/teyana-taylor-crashed-leather-jacket-f1-las-vegas-grand-prix-photos/",
+      "summary": "She’s ready to drive",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Teyana Taylor’s Deconstructed F1 Jacket Was Previously Worn on the Rac...",
+      "score": 0,
+      "published": "2026-11-24T15:27:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e1e673c9d492",
+      "title": "Class 9 Kerala boy brings gun to school to show off, accidentally shoots classmate",
+      "link": "https://www.indiatoday.in/india/kerala/story/kerala-thrithala-palakkad-shooting-class-9-boy-brings-gun-to-paruthur-higher-secondary-schoo-to-show-off-accidentally-shoots-classmate-3046118-2026-11-24?utm_source=rss",
+      "summary": "Class 9 Kerala boy brings gun to school to show off, accidentally shoots classmate",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Class 9 Kerala boy brings gun to school to show off, accidentally shoo...",
+      "score": 1,
+      "published": "2026-11-24T15:14:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "34ea71436bd6",
+      "title": "Police Make Arrests After Prince William and Kate’s Norfolk Home Is Broken Into",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a74519236/prince-william-kate-middleton-anmer-hall-norfolk-home-break-in-details-arrests/",
+      "summary": "The incident happened this Monday",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Police Make Arrests After Prince William and Kate’s Norfolk Home Is Br...",
+      "score": 0,
+      "published": "2026-11-24T14:52:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5eef424c8737",
+      "title": "Is Your Phone Messing With Your Skin?",
+      "link": "https://www.harpersbazaar.com/beauty/skin-care/a74510589/blue-light-skin-protection/",
+      "summary": "Even just an hour of exposure can start to impact your skin’s health",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Is Your Phone Messing With Your Skin?...",
+      "score": 0,
+      "published": "2026-11-24T14:32:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "51ebdde64af9",
+      "title": "Can You Ever Really Get Rid of Cellulite? Experts Weigh In",
+      "link": "https://www.harpersbazaar.com/beauty/skin-care/a74507894/cellulite-treatments-expert-advice/",
+      "summary": "Four experts separate fact from fiction about the most pervasive cellulite myths",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Can You Ever Really Get Rid of Cellulite? Experts Weigh In...",
+      "score": 0,
+      "published": "2026-11-24T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c171b47c6d52",
+      "title": "Full Bloom",
+      "link": "https://www.harpersbazaar.com/fashion/photography/a74274909/high-jewelry-2026/",
+      "summary": "The season’s most exquisite high-jewelry pieces are glimmering bouquets of extraordinary craftsmanship and boundless creativity",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Full Bloom...",
+      "score": 2,
+      "published": "2026-11-24T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f689b30a1e22",
+      "title": "Facial Sculptor Joseph Carrillo Wants Us All to Be Touching Our Faces More",
+      "link": "https://fashionista.com/2026/11/joseph-carrillo-facial-sculptor-interview",
+      "summary": "For \"Fashionista Face It,\" the longtime makeup artist and \"facial posture\" expert behind Sculpted by Joseph shares his beauty hot takes, surprising insights and hard truths.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Facial Sculptor Joseph Carrillo Wants Us All to Be Touching Our Faces ...",
+      "score": 2,
+      "published": "2026-11-24T13:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "85078e35c66b",
+      "title": "Fashion Leads as Black Friday Emerges as a Key Retail Sales Window in India",
+      "link": "https://in.apparelresources.com/business-news/retail/fashion-leads-black-friday-emerges-key-retail-sales-window-india/",
+      "summary": "Black Friday, traditionally associated with Western retail markets, is gaining traction in India as a shopping event between the Diwali festive season and Christmas. For organised retailers and mall operators, the four-day sale is increasingly serving a dual purpose: clearing unsold festive inventory and creating shelf",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Fashion Leads as Black Friday Emerges as a Key Retail Sales Window in ...",
+      "score": 4,
+      "published": "2026-11-24T13:26:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4f592edea324",
+      "title": "This Creative Couple Hosted a New Orleans Wedding Complete With a Crawfish Boil and a Masquerade After-Party",
+      "link": "https://www.vogue.com/slideshow/lily-monbouquette-and-eric-bach-wedding",
+      "summary": "Jewelry designer Lily Monbouquette wore her own bridal jewelry line and designs by Wed Studio and Wiederhoeft for her wedding to Eric Bach, which featured a sculpture garden ceremony, a candlelit reception, and a second-line parade through the New Orleans streets.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: This Creative Couple Hosted a New Orleans Wedding Complete With a Crawfish Boil and a Masquerade After-Party — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-11-24T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7ec456c72238",
+      "title": "Dior’s Holiday Makeup Shows a Sweeter Side",
+      "link": "https://www.fashiongonerogue.com/story/dior-holiday-makeup-2026/",
+      "summary": "Dior serves up holiday shine with Deva Cassel, icy eye makeup, and glittery lips. Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-11-24T12:57:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "72a1c80cf427",
+      "title": "The Polo Coat Returns to the Centre of the A/W 26 Wardrobe",
+      "link": "https://in.apparelresources.com/fashion-news/trends/polo-coat-returns-centre-w-26-wardrobe/",
+      "summary": "The polo coat began as a practical garment. English polo players wore it as a warm, loose layer between matches, and the traditional version is cut generously from camel hair with a double-breasted front. It crossed from the pitch to Ivy League campuses and became a menswear classic, with details that have barely chang",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Polo Coat Returns to the Centre of the A/W 26 Wardrobe...",
+      "score": 3,
+      "published": "2026-11-24T12:32:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5744dc78b343",
+      "title": "Navy Meets Cognac: The A/W 26 Pairing Giving Black and White a Warmer Rival",
+      "link": "https://in.apparelresources.com/fashion-news/trends/navy-meets-cognac-w-26-pairing-giving-black-white-warmer-rival/",
+      "summary": "Fashion&#8217;s dark-neutral conversation this season has moved beyond black. Navy is being positioned as the season-less shade that suits tailoring, knitwear and outerwear in any climate. Cognac brown, the warm, polished end of the brown spectrum, is the natural partner. Worn alone, each reads as a quiet staple. Toget",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Navy Meets Cognac: The A/W 26 Pairing Giving Black and White a Warmer ...",
+      "score": 3,
+      "published": "2026-11-24T12:27:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "60ca89761d0b",
+      "title": "Calvin Klein Eyewear Brings Subtle Color to Fall",
+      "link": "https://www.fashiongonerogue.com/story/calvin-klein-eyewear-fall-2026/",
+      "summary": "Calvin Klein’s fall 2026 eyewear campaign shows how a hint of color can soften a strong silhouette. Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Calvin Klein Eyewear Brings Subtle Color to Fall...",
+      "score": 2,
+      "published": "2026-11-24T12:25:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed4d839896d7",
+      "title": "MBA from US: Anant Singh flaunts son-in-law's degree on wedding invite",
+      "link": "https://www.indiatoday.in/india/story/anant-singh-daughter-shivangi-wedding-invite-groom-rishikesh-kumar-us-mba-degree-mention-mokama-patna-3045978-2026-11-24?utm_source=rss",
+      "summary": "MBA from US: Anant Singh flaunts son-in-law's degree on wedding invite",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: MBA from US — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-11-24T12:06:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ca4d29cfe439",
+      "title": "Ten x You Logs Rs. 75 Crore GMV in First Year, Targets Rs. 100 Crore Run Rate",
+      "link": "https://in.apparelresources.com/business-news/retail/ten-x-logs-rs-75-crore-gmv-first-year-targets-rs-100-crore-run-rate/",
+      "summary": "Sachin Tendulkar-backed sportswear and athleisure brand Ten x You has served more than 1 lakh customers in its first year of operations and is currently tracking close to Rs. 75 crore (US $8.07 million) in gross merchandise value (GMV). The brand is targeting a Rs. 100 crore (US $10.77 million) GMV run rate within the ",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ten x You Logs Rs. 75 Crore GMV in First Year, Targets Rs. 100 Crore R...",
+      "score": 2,
+      "published": "2026-11-24T11:57:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -48,20 +272,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-11-24T11:31:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "718e2c8c5914",
-      "title": "Not All Flat Shoes Go With Knitted Midi Dresses—Gwyneth Just Found the Polished Pairing That Always Works",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/knitted-dress-chunky-loafers-outfit-trend-gwyneth-paltrow-2026",
-      "summary": "My new go-to.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not All Flat Shoes Go With Knitted Midi Dresses—Gwyneth Just Found the...",
-      "score": 1,
-      "published": "2026-11-24T11:28:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -135,20 +345,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bc782b426977",
-      "title": "Stop the Search—These Are the 17 Best Candles to Gift This Holiday Season",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-winter-candles-2026",
-      "summary": "They smell as good as they look.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-24T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6240f9db2d9e",
       "title": "Tirupur Knitwear Exports Grow 3% to Record Rs. 46,000 Crore in FY ’26",
       "link": "https://in.apparelresources.com/business-news/manufacturing/tirupur-knitwear-exports-grow-3-to-record-rs-46000-crore-in-fy-26/",
@@ -160,20 +356,6 @@
       "angle": "Fashion Intelligence: Tirupur Knitwear Exports Grow 3% to Record Rs. 46,000 Crore in FY ’26...",
       "score": 1,
       "published": "2026-11-24T10:05:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a531f4cc0aae",
-      "title": "The Year Fashion Fakes Became Too Real",
-      "link": "https://www.vogue.com/article/the-year-fashion-fakes-became-too-real",
-      "summary": "From Jensen Huang’s imaginary Saint Laurent jacket to AI-distorted designer clothes on Ssense, fashion’s synthetic reality problem is becoming impossible to ignore. For luxury brands, the stakes extend far beyond a viral joke.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Year Fashion Fakes Became Too Real...",
-      "score": 4,
-      "published": "2026-11-24T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -191,45 +373,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1949d8ebcf6a",
-      "title": "PSA: The Victoria Beckham Beauty Sale Is Here, and *That* Famous Foundation Is Currently 20% Off",
-      "link": "https://www.whowhatwear.com/beauty/makeup/victoria-beckham-black-friday-sales-2026",
-      "summary": "Discounts are site-wide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: PSA: The Victoria Beckham Beauty Sale Is Here, and *That* Famous Found...",
-      "score": 1,
-      "published": "2026-11-24T09:27:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9d06886eae38",
-      "title": "It’s True: Black Coats Never Date, But These 5 Alts Make for a Trendier Outfit",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/what-to-wear-instead-of-black-coats",
-      "summary": "Time for a switch-up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-24T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a8bf4c2c3ebb",
-      "title": "Reformation’s 25% Off Sale Has Arrived—9 Elegant Capsule Buys Already in My Basket",
-      "link": "https://www.whowhatwear.com/fashion/shopping/reformation-black-friday-sale-2026",
-      "summary": "The Reformation Black Friday sale has officially launched, and these knitwear, denim and tailoring deals are already in my basket.",
-      "source": "Who What Wear",
+      "id": "a531f4cc0aae",
+      "title": "The Year Fashion Fakes Became Too Real",
+      "link": "https://www.vogue.com/article/the-year-fashion-fakes-became-too-real",
+      "summary": "From Jensen Huang’s imaginary Saint Laurent jacket to AI-distorted designer clothes on Ssense, fashion’s synthetic reality problem is becoming impossible to ignore. For luxury brands, the stakes extend far beyond a viral joke.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Reformation’s 25% Off Sale Has Arrived—9 Elegant Capsule Buys Already ...",
-      "score": 2,
-      "published": "2026-11-24T07:00:00+00:00",
+      "angle": "Fashion Intelligence: The Year Fashion Fakes Became Too Real...",
+      "score": 4,
+      "published": "2026-11-24T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -244,20 +398,6 @@
       "angle": "Fashion Intelligence: Meet ‘Dune: Part Three’’s Ida Brooke, the Young Brit Denis Villeneuve ...",
       "score": 0,
       "published": "2026-11-24T06:28:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e645633ff6eb",
-      "title": "Blue Jeans Look Even Better Worn With These 6 Niche Yet Chic Winter Trends",
-      "link": "https://www.whowhatwear.com/fashion/trends/winter-trends-to-wear-with-jeans-2026",
-      "summary": "Elite pairings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-24T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -345,34 +485,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2234143d4aea",
-      "title": "I Only Buy New Beauty Tools During Black Friday—15 LED Masks, Sauna Mats, and More on Sale Early",
-      "link": "https://www.whowhatwear.com/beauty/nordstrom-beauty-tools-cyber-week-sale-2026",
-      "summary": "Save $1178 on these savvy Nordstrom deals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Only Buy New Beauty Tools During Black Friday—15 LED Masks, Sauna Ma...",
-      "score": 1,
-      "published": "2026-11-23T22:36:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7b43faf83a93",
-      "title": "From Olive Young to Amazon: The K-Beauty Black Friday Deals You Should Prioritize",
-      "link": "https://www.whowhatwear.com/beauty/skin/best-korean-beauty-products-sale-cyber-week-2026",
-      "summary": "Don't wait! Some deals end tonight.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Olive Young to Amazon: The K-Beauty Black Friday Deals You Should...",
-      "score": 1,
-      "published": "2026-11-23T22:25:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0c346e9a53b3",
       "title": "The Stars Brought Their Sleek Motorsport Style to the 2026 Formula One Las Vegas Grand Prix",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74511288/every-celebrity-look-formula-one-las-vegas-grand-prix-2026/",
@@ -426,20 +538,6 @@
       "angle": "Fashion Intelligence: Anthony Boyle and Julia Garner Reunited at the Paris Theater as The Al...",
       "score": 0,
       "published": "2026-11-23T22:09:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c37f9005510a",
-      "title": "Not Every Denim Trend Works With the Fur-Trimmed Jacket Trend—This One Does",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/fur-trim-jacket-flare-jeans-outfit-elsa-hosk-2026",
-      "summary": "Spotted on Elsa Hosk.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-23T22:08:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -538,20 +636,6 @@
       "angle": "Fashion Intelligence: Rihanna and A$AP Rocky Are in Physical and Sartorial Lockstep...",
       "score": 2,
       "published": "2026-11-23T21:29:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "de39c05e6c99",
-      "title": "The CHANEL Jewelry and Watches Fashion People Will Never Tire Of",
-      "link": "https://www.whowhatwear.com/fashion/luxury/fashion-people-favorite-jewelry-watches-chanel",
-      "summary": "Dream investment pieces.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The CHANEL Jewelry and Watches Fashion People Will Never Tire Of...",
-      "score": 1,
-      "published": "2026-11-23T21:25:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -779,20 +863,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b158e19af38e",
-      "title": "Shopbop’s Black Friday Sale Officially Starts Now—Here’s Every Chic Item Worth Adding to Your Cart",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-black-friday-cyber-monday-sale-2026",
-      "summary": "25% off select styles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Shopbop’s Black Friday Sale Officially Starts Now—Here’s Every Chic It...",
-      "score": 1,
-      "published": "2026-11-23T17:58:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b315b5fea4b3",
       "title": "Bella Hadid Opens Up About Being Rejected From the Victoria’s Secret Fashion Show",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74509617/bella-hadid-talks-rejection-victorias-secret-fashion-show-interview-quotes/",
@@ -818,20 +888,6 @@
       "angle": "Fashion Intelligence: Bella Hadid Just Wants to Settle Down in a Small Town With “a Man That...",
       "score": 1,
       "published": "2026-11-23T17:29:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "36b7a495a3f4",
-      "title": "Not a Sweater, Not a Jacket: I'm Only Gifting Elite and On-Trend Shoes and Accessories This Season",
-      "link": "https://www.whowhatwear.com/fashion/top-tier-shoes-accessories-gift-guide",
-      "summary": "From one expert gift-giver to another.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-23T17:26:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -877,34 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "775d5113d6d9",
-      "title": "Discover Your Seasonal Fragrance Heroes",
-      "link": "https://www.whowhatwear.com/carolina-herrera-good-girl-fragrance-finder",
-      "summary": "Not all heroes wear capes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-23T16:55:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "458b860d52cf",
-      "title": "Katy Perry and Justin Trudeau Have Very Different Approaches to Travel Style",
-      "link": "https://www.vogue.com/article/katy-perry-justin-trudeau-couple-travel-style",
-      "summary": "Trudeau loves a cheeky slogan tee, while Perry’s off-duty wardrobe revolves around quiet luxury.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Katy Perry and Justin Trudeau Have Very Different Approaches to Travel...",
-      "score": 2,
-      "published": "2026-11-23T16:55:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "342090d702f1",
       "title": "The Art of the Winter Layer",
       "link": "https://www.harpersbazaar.com/fashion/a74391915/the-art-of-the-winter-layer/",
@@ -933,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7cbbe0a4a280",
-      "title": "It Girls in New York Are Still Wearing Co-Ords—In 2026, They're Wearing Them Like This, This and This",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/co-ord-trends-2026",
-      "summary": "3 chic ways to wear co-ords now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-23T16:08:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "347288e80ced",
       "title": "Noah Cyrus Delivers a Daring Take on Sister-of-the-Bride Attire",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74507420/noah-cyrus-miley-maxx-wedding-outfit-details-naked-dress-photos/",
@@ -958,20 +972,6 @@
       "angle": "Bridal Edit: Noah Cyrus Delivers a Daring Take on Sister-of-the-Bride Attire — A Complete Style Guide",
       "score": 1,
       "published": "2026-11-23T15:34:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c3e9d5eb40bc",
-      "title": "Wow, I Can't Even Believe These Items Are on Sale at Net-a-Porter—Fashion People, This Is Your Black Friday Event",
-      "link": "https://www.whowhatwear.com/fashion/shopping/net-a-porter-black-friday-sale-2026",
-      "summary": "Up to 50% off!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Wow, I Can't Even Believe These Items Are on Sale at Net-a-Porter—Fash...",
-      "score": 1,
-      "published": "2026-11-23T15:23:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -989,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3d53f282521",
-      "title": "Fashion People in Europe are Always Ahead—7 Boots They're Into Most for Winter",
-      "link": "https://www.whowhatwear.com/fashion/shoes/european-winter-boot-trends-2026",
-      "summary": "Cold-weather classics",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People in Europe are Always Ahead—7 Boots They're Into Most fo...",
-      "score": 1,
-      "published": "2026-11-23T15:16:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "25cd8c48754b",
       "title": "Taylor Swift Supported a Fellow WAG With Her Sunday Chiefs Game Outfit",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74507418/taylor-swift-chiefs-game-outfit-erin-andrews-windbreaker-shop/",
@@ -1014,20 +1000,6 @@
       "angle": "Fashion Intelligence: Taylor Swift Supported a Fellow WAG With Her Sunday Chiefs Game Outfit...",
       "score": 1,
       "published": "2026-11-23T15:12:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12b3c2428053",
-      "title": "The Gifting Atelier",
-      "link": "https://www.whowhatwear.com/fashion/luxury/the-gifting-atelier",
-      "summary": "The editor-approved guide to this season's chicest presents.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Gifting Atelier...",
-      "score": 1,
-      "published": "2026-11-23T15:10:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,90 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f80bdf0da20f",
-      "title": "Indian Terrain Fashions Q2FY27 Revenue Rises 5.6% to US$11.50 Million",
-      "link": "https://in.apparelresources.com/business-news/retail/indian-terrain-fashions-q2fy27-revenue-rises-5-6-us11-50-million/",
-      "summary": "Indian Terrain Fashions Limited reported a net profit of Rs 5.09 crore (US $0.55 million) in the second quarter of FY27, compared with a net loss of Rs 0.38 crore (US $0.04 million) in the corresponding quarter of the previous fiscal year. The Chennai-based apparel retailer recorded revenue from operations of Rs 106.59",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Indian Terrain Fashions Q2FY27 Revenue Rises 5.6% to US$11.50 Million...",
-      "score": 1,
-      "published": "2026-11-23T12:32:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0accb5f2c3a4",
-      "title": "FYI: This Classy Knitwear Trend Makes Leather Trousers Look So Sophisticated",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sleeveless-knit-trend-rosie-huntington-whiteley-2026",
-      "summary": "Elegance incoming.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-23T12:22:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "930185a26a3f",
-      "title": "If You're Going to Wear Leggings This Winter, Don't Make These 4 Shoe Mistakes",
-      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-avoid-wearing-with-leggings",
-      "summary": "According to a fashion editor.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: If You're Going to Wear Leggings This Winter, Don't Make These 4 Shoe ...",
-      "score": 2,
-      "published": "2026-11-23T09:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e394b7f75fd6",
-      "title": "My Stylish 67-Year-Old Mom Approves of These Sweaters, Boots, and Beauty Staples From Nordstrom's Cyber Week Sale",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-sweaters-boots-beauty-nordstrom-black-friday-2026",
-      "summary": "Ahem, up to 60% off!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Stylish 67-Year-Old Mom Approves of These Sweaters, Boots, and Beau...",
-      "score": 1,
-      "published": "2026-11-23T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66adb4f7d8a4",
-      "title": "Merit Beauty's Only Sale of the Year Is Here—11 Products to Add to Your Basket Before It Ends",
-      "link": "https://www.whowhatwear.com/beauty/makeup/merit-beauty-black-friday-sales-2026",
-      "summary": "Editor-approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Merit Beauty's Only Sale of the Year Is Here—11 Products to Add to You...",
-      "score": 1,
-      "published": "2026-11-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3e87ba42cef7",
-      "title": "H&M Just Quietly Launched Its Black Friday Sale—9 Elegant Pieces That Will Sell Out Before the Weekend",
-      "link": "https://www.whowhatwear.com/fashion/shopping/hm-early-black-friday-deals-2026",
-      "summary": "Chic buys only.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-11-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bf583d70dedf",
       "title": "Kate Moss, Zoë Kravitz Celebrate Saint Laurent’s Le Smoking",
       "link": "https://www.fashiongonerogue.com/story/saint-laurent-le-smoking-2026/",
@@ -1154,20 +1042,6 @@
       "angle": "Fashion Intelligence: Kate Moss, Zoë Kravitz Celebrate Saint Laurent’s Le Smoking...",
       "score": 1,
       "published": "2026-11-23T03:35:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e5ffbbeb7f2c",
-      "title": "Elizabeth Hurley Nailed Miley Cyrus's Wedding-Guest Dress Code in a Sheer Corseted Gown",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/miley-cyrus-wedding-guest-outfits-elizabeth-hurley",
-      "summary": "She's engaged to Billy Ray Cyrus.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Elizabeth Hurley Nailed Miley Cyrus's Wedding-Guest Dress Code in a Sheer Corseted Gown — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-11-23T02:45:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1196,20 +1070,6 @@
       "angle": "Fashion Intelligence: Gigi Hadid Takes a Cozy Winter Walk in a Structured Topcoat and Slouch...",
       "score": 0,
       "published": "2026-11-22T23:21:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "979477a80f53",
-      "title": "It's Here: The Summer-to-Winter Everyday Bag It Girls in Their 30s Swear By",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/coach-chelsea-bag-trend-bella-hadid-2026",
-      "summary": "Bella Hadid can't stop wearing it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Here: The Summer-to-Winter Everyday Bag It Girls in Their 30s Swe...",
-      "score": 1,
-      "published": "2026-11-22T21:14:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1283,34 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e0e89db5b0b4",
-      "title": "Not a Purple Person? Try This Winter Color Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/trends/mustard-yellow-color-trend-winter-2026",
-      "summary": "It'll be on heavy rotation come spring, too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-22T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b57e6a8bc916",
-      "title": "Stylish Petite Women Wear This Exact Jeans and Heels Pairing When They Want to Look Elevated",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/wide-leg-jeans-pointed-toe-heels-petite-outfit-nicola-coughlan-2026",
-      "summary": "It always works.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Stylish Petite Women Wear This Exact Jeans and Heels Pairing When They...",
-      "score": 1,
-      "published": "2026-11-22T10:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "baad08d8750b",
       "title": "75 Best Gifts for Husbands For Every Occasion",
       "link": "https://www.fashionbeans.com/article/best-gifts-for-husbands/",
@@ -1325,76 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9e162cb07c18",
-      "title": "Your Outfits Aren’t Boring, But *Maybe* Your Jeans Are—5 New Denim Trends That'll Change Everything",
-      "link": "https://www.whowhatwear.com/fashion/denim/jeans-trends-winter-2026",
-      "summary": "Your good (winter) jeans guide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-22T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "da641d4d926f",
-      "title": "Stylish Women Have Declared This the It Bag of Winter 2026—Now, It’s 20% Off in the Sale",
-      "link": "https://www.whowhatwear.com/fashion/handbags/demellier-stockholm-black-friday-sale-2026",
-      "summary": "This designer-passing bag will sell out fast.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Stylish Women Have Declared This the It Bag of Winter 2026—Now, It’s 2...",
-      "score": 1,
-      "published": "2026-11-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c4796ecb5780",
-      "title": "4 Beauty Insiders Reveal the Christmas Gifts They Are *Actually* Asking for This Year",
-      "link": "https://www.whowhatwear.com/beauty/beauty-team-gift-guide-2026",
-      "summary": "Wish-list-worthy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 4 Beauty Insiders Reveal the Christmas Gifts They Are *Actually* Askin...",
-      "score": 1,
-      "published": "2026-11-22T06:55:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9059815f1182",
-      "title": "Forget Style Tribes—Show Me Your Ugg Boots, and I’ll Tell You Exactly What Kind of Dresser You Are",
-      "link": "https://www.whowhatwear.com/fashion/shoes/which-womens-ugg-boot-style-suits-me-2026",
-      "summary": "It's Uggs season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Forget Style Tribes—Show Me Your Ugg Boots, and I’ll Tell You Exactly ...",
-      "score": 4,
-      "published": "2026-11-22T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b30306593545",
-      "title": "Suddenly, Tasteful Dressers Are All Ditching Jeans for This \"Tricky\" Skirt Trend",
-      "link": "https://www.whowhatwear.com/fashion/skirts/how-to-style-knee-length-skirt",
-      "summary": "From Prada to Zara.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-22T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "212b1a506634",
       "title": "Jennifer Lawrence Slips Into Statement Slippers for an Easy Autumn Walk",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74498328/jennifer-lawrence-red-slippers-row-car-coat-nyc-street-style-photos/",
@@ -1406,20 +1168,6 @@
       "angle": "Fashion Intelligence: Jennifer Lawrence Slips Into Statement Slippers for an Easy Autumn Wal...",
       "score": 0,
       "published": "2026-11-21T22:11:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "25fedf0a5aa9",
-      "title": "These Holiday Dresses That Are Very It-Girl Coded",
-      "link": "https://www.whowhatwear.com/fashion/holiday-dress-shopping",
-      "summary": "These Holiday Dresses That Are Very It-Girl Coded",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-11-21T21:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1448,20 +1196,6 @@
       "angle": "Fashion Intelligence: Kim Kardashian Makes Her Las Vegas Grand Prix Entrance in Ferrari-Red ...",
       "score": 0,
       "published": "2026-11-21T17:09:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "989d756a514f",
-      "title": "We Have the Data: The 53 Fall Beauty Products Who What Wear Readers Loved the Most This Season",
-      "link": "https://www.whowhatwear.com/beauty/best-fall-beauty-products",
-      "summary": "Let's dive in.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-11-21T16:52:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1507,48 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3c4196c99b08",
-      "title": "Not Jeans and Sambas—Fashion People Are Wearing This Trouser and Trainers Combination Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/grey-trousers-chunky-trainers-outfit-trend-zoe-kavitz-2026",
-      "summary": "An instant upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-11-21T12:43:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "07546da6cc47",
-      "title": "I'm a Fashion Designer—5 Sweater Trends I'm Buying in 2026 and 5 I'm Skipping",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/outdated-sweater-trends-jenni-kayne-2026",
-      "summary": "Jenni Kayne shares her thoughts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-11-21T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "699f85087bc3",
-      "title": "30 Elevated Winter Basics From Ref, Nordstrom, and COS That Scream Fashion Person",
-      "link": "https://www.whowhatwear.com/fashion/shopping/chic-winter-basics",
-      "summary": "Pieces with a point of view.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 30 Elevated Winter Basics From Ref, Nordstrom, and COS That Scream Fas...",
-      "score": 1,
-      "published": "2026-11-21T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7964d464067b",
       "title": "All the Best Early Black Friday 2026 Beauty Deals to Shop Now",
       "link": "https://www.harpersbazaar.com/beauty/skin-care/a74423213/best-black-friday-beauty-skincare-deals-2026/",
@@ -1591,62 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c22da507d313",
-      "title": "Prince Harry and Meghan Are Giving Their Kids Their First British Christmas",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74493585/prince-harry-meghan-markle-holiday-christmas-in-england-kids-plans-details/",
-      "summary": "There’s nothing like London during the holidays",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Prince Harry and Meghan Are Giving Their Kids Their First British Chri...",
-      "score": 0,
-      "published": "2026-11-20T20:14:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b91ac5c25a3e",
-      "title": "Miley Cyrus and Maxx Morando’s Complete Relationship Timeline",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a46684360/miley-cyrus-maxx-morando-relationship-timeline/",
-      "summary": "They’ve been linked since 2021",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Miley Cyrus and Maxx Morando’s Complete Relationship Timeline...",
-      "score": 0,
-      "published": "2026-11-20T20:11:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d47979db3397",
-      "title": "Jennifer Lopez Is a Boho Goddess at the Premiere of The JLo Show",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74490954/jennifer-lopez-the-jlo-show-premiere-dolce-and-gabbana-outfit-red-carpet-photos/",
-      "summary": "She celebrated her new concert film in a showstopping Dolce &amp; Gabbana look",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Jennifer Lopez Is a Boho Goddess at the Premiere of The JLo Show...",
-      "score": 1,
-      "published": "2026-11-20T17:21:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9d6707c97d18",
-      "title": "The Best Apple Deals to Shop Before Black Friday",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a74481048/best-apple-black-friday-deals-2026/",
-      "summary": "Shop watches, MacBooks, AirPods, and more on sale",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Apple Deals to Shop Before Black Friday...",
-      "score": 0,
-      "published": "2026-11-20T17:07:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ebc8c7a86e0c",
       "title": "Must Read: Gap Inc. Names New Athleta Brand President and CEO, Nike Enters Long-Term Formula One Apparel Partnership",
       "link": "https://fashionista.com/2026/11/gap-inc-athleta-brand-president-ceo-announcement",
@@ -1658,34 +1294,6 @@
       "angle": "Fashion Intelligence: Must Read: Gap Inc. Names New Athleta Brand President and CEO, Nike En...",
       "score": 1,
       "published": "2026-11-20T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7640cb402453",
-      "title": "Michelle Obama, Hillary Clinton, and Jill Biden Come Together at Gloria Steinem’s Joyous Celebration of Life",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74490775/michelle-obama-hillary-clinton-jill-biden-gloria-steinem-memorial-service-photos/",
-      "summary": "The former first ladies coordinated in elegant, high-fashion ensembles to honor the feminist activist",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Michelle Obama, Hillary Clinton, and Jill Biden Come Together at Glori...",
-      "score": 1,
-      "published": "2026-11-20T16:34:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "acb294d70354",
-      "title": "Liffner Kicks Off Its Black Friday Sale Early—Exclusively for Bazaar Readers",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a74467622/liffner-black-friday-sale-2026/",
-      "summary": "Shop the brand’s signature belted totes and Pushlock bags, on sale until November 22",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Liffner Kicks Off Its Black Friday Sale Early—Exclusively for Bazaar R...",
-      "score": 1,
-      "published": "2026-11-20T16:21:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1787,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cfaf6c722ff3",
-      "title": "Mango Capsule Gets Festive with Feathers & Fringe",
-      "link": "https://www.fashiongonerogue.com/story/mango-capsule-festive-2026/",
-      "summary": "Mango Capsule gives year-end dressing a playful flourish, balancing expressive textures with sleek evening silhouettes. Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-11-20T02:53:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5e49f8cc392f",
       "title": "29 Best Leather Gifts for Him in 2026 – Unique and Timeless Choices",
       "link": "https://www.fashionbeans.com/article/best-leather-gifts-for-men/",
@@ -1896,20 +1490,6 @@
       "angle": "Fashion Intelligence: 5 Best Vanilla Tobacco Colognes: Dare to Stand Out in 2026...",
       "score": 1,
       "published": "2026-11-19T14:22:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "491134c86159",
-      "title": "Tory Burch’s Holiday Campaign Brings Party Style to the Garden",
-      "link": "https://www.fashiongonerogue.com/story/tory-burch-holiday-2026-campaign/",
-      "summary": "Paper crowns, quilted bags, and bright knits bring a relaxed charm to Tory Burch’s holiday festivities. Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 1,
-      "published": "2026-11-19T13:38:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2431,20 +2011,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c95390fa66c5",
-      "title": "Nuuly Wants to Make the 'Spring Awakening' Revival a Fashion Moment",
-      "link": "https://fashionista.com/2026/11/nuuly-spring-awakening-revival-edit",
-      "summary": "The clothing rental service is the official styling partner of the Off-Broadway musical.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Nuuly Wants to Make the 'Spring Awakening' Revival a Fashion Moment...",
-      "score": 1,
-      "published": "2026-11-10T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6b3a5694f6cc",
       "title": "Milano Fashion Week SS27: la moda torna a essere personale",
       "link": "https://www.theblondesalad.com/fashion/milano-fashion-week-ss27-la-moda-torna-a-essere-personale/",
@@ -2797,52 +2363,52 @@
   ],
   "trends": [
     {
-      "term": "ind",
+      "term": "धर्मेन्द्र",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "asian games 2026",
+      "term": "മറിയാമ്മ ഉമ്മന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "syed modi badminton",
+      "term": "బండ్ల గణేష్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "har vs bih",
+      "term": "zahoor khan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india cricket match",
+      "term": "kieron pollard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india",
+      "term": "वादळ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gordon bay south africa",
+      "term": "sachin tendulkar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rising star asia cup",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "mumbai vs odisha",
+      "term": "levent alpöge riemann hypothesis",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ind vs aus",
+      "term": "champions league",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "mi emirates vs gulf giants",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
