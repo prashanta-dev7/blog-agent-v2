@@ -1,13 +1,279 @@
 {
-  "generated_at": "2026-11-26T10:22:49.190342+00:00",
+  "generated_at": "2026-11-26T14:44:25.103778+00:00",
   "owned_count": 0,
   "competitor_count": 24,
-  "industry_count": 169,
+  "industry_count": 173,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "70cc8648ba7e",
+      "title": "Delta Roam’s Beaumont Robe Is the Ultimate Cold-Weather Coat",
+      "link": "https://www.fashionbeans.com/article/delta-roam-outdoor-robe/",
+      "summary": "If it was socially acceptable to spend my life in a dressing gown, I would. So you can imagine how happy I was to discover Delta Roam’s Beaumont robe. Designed for the realities of cold, wet days outdoors, it’s a below-the-knee length coat that’s perfect for school runs, windswept walks, and weekends spent on muddy &#8",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Delta Roam’s Beaumont Robe Is the Ultimate Cold-Weather Coat...",
+      "score": 2,
+      "published": "2026-11-26T14:24:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a8e187ea99f6",
+      "title": "Video: On duty Bihar cop caught serving food at MLA Anant Singh's daughter's wedding",
+      "link": "https://www.indiatoday.in/india/story/bihar-patna-home-guard-removed-serving-food-mokama-mla-anant-singh-daughter-wedding-3047653-2026-11-26?utm_source=rss",
+      "summary": "Video: On duty Bihar cop caught serving food at MLA Anant Singh's daughter's wedding",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Video — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-11-26T14:03:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5b33a4f4a02",
+      "title": "Brave New Visions Creativity as Rebellion",
+      "link": "https://www.vogue.com/article/brave-new-visions-creativity-as-rebellion",
+      "summary": "100 artists from around the world. 100 different ways of questioning, challenging, and reimagining the world. Discover the shortlist of PhotoVogue's Global Open Call, celebrating creativity as an act of freedom, resistance, and possibility.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Brave New Visions Creativity as Rebellion...",
+      "score": 0,
+      "published": "2026-11-26T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "672134e22c75",
+      "title": "PhotoVogue Presents the Digital Gallery for Brave New Visions: Creativity as Rebellion",
+      "link": "https://www.vogue.com/article/photovogue-presents-the-digital-gallery-for-brave-new-visions-creativity-as-rebellion",
+      "summary": "Explore the full gallery and the amazing work of our creatives from our 2026 global Open Call",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: PhotoVogue Presents the Digital Gallery for Brave New Visions: Creativ...",
+      "score": 0,
+      "published": "2026-11-26T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "00eef6a25a78",
+      "title": "Jennifer Lopez’s “Spiced Apple Cider” Manicure Is the Coziest Winter Nail Trend",
+      "link": "https://www.harpersbazaar.com/beauty/nails/a74521735/jennifer-lopez-apple-cider-manicure/",
+      "summary": "The perfect manicure for minimalists this season",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-26T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6bf3e45510f7",
+      "title": "Long “Squoval” Nails Are the Elegant Manicure Shape Taking Over This Winter: 5 Designs to Try Now",
+      "link": "https://www.harpersbazaar.com/beauty/nails/a74522769/long-squoval-nails-manicure-shape/",
+      "summary": "The celebrity-approved nail shape pairs perfectly with everything from soft neutrals to dark, festive shades",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Long “Squoval” Nails Are the Elegant Manicure Shape Taking Over This W...",
+      "score": 2,
+      "published": "2026-11-26T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "93837eb33991",
+      "title": "Every Under-£11 Makeup Product Miley Used on Her Wedding Day",
+      "link": "https://www.whowhatwear.com/beauty/makeup/miley-cyrus-wedding-day-makeup-products",
+      "summary": "Yes, really.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Every Under-£11 Makeup Product Miley Used on Her Wedding Day — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-11-26T13:15:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6867fe46b8e",
+      "title": "Warm Up Your Thanksgiving Weekend With Fresh From the Runway Sweet Potato-Orange Dressing",
+      "link": "https://www.vogue.com/article/warm-up-your-thanksgiving-weekend-with-fresh-from-the-runway-sweet-potato-orange-dressing",
+      "summary": "Move over cherry red, this funky orange shade has become the Thanksgiving-themed It color we can't escape.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Warm Up Your Thanksgiving Weekend With Fresh From the Runway Sweet Pot...",
+      "score": 2,
+      "published": "2026-11-26T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f9fdc80355f",
+      "title": "How Meghan Markle Is Hosting Her First Thanksgiving Back in Britain",
+      "link": "https://www.vogue.com/article/how-meghan-markle-is-hosting-her-first-thanksgiving-back-in-britain",
+      "summary": "In a new interview, the Duchess of Sussex shares her philosophy on holiday entertaining as she and her family prepare for a rather different festive season back in Britain.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: How Meghan Markle Is Hosting Her First Thanksgiving Back in Britain...",
+      "score": 2,
+      "published": "2026-11-26T12:55:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2197304b821f",
+      "title": "SHEIN Struggles to Recreate Its India Success Amid Operational Challenges",
+      "link": "https://in.apparelresources.com/business-news/retail/shein-struggles-recreate-india-success-amid-operational-challenges/",
+      "summary": "SHEIN Global Holdings Ltd.’s return to India through its partnership with Reliance Retail is facing challenges, including supply chain disruptions, leadership uncertainty and the absence of its proprietary technology. Relaunched in February 2025, the fast-fashion brand has struggled to regain its earlier market positio",
+      "source": "Apparel Resources India",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: SHEIN Struggles to Recreate Its India Success Amid Operational Challen...",
+      "score": 3,
+      "published": "2026-11-26T12:19:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2788f18ec2b6",
+      "title": "Not Leather, Not a Puffer—This Is the Elevated Jacket London’s It Girls Are Wearing With Jeans",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/shearling-fur-jacket-trend-alexa-chung-2026",
+      "summary": "The city's chicest are obsessed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-11-26T12:17:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "29cf16fd7bec",
+      "title": "After Careful Review, These Are the Best Perfumes for Women",
+      "link": "https://www.vogue.com/article/perfumes-for-women",
+      "summary": "Here are the best perfumes for women from brands like Chanel, Byredo, Régime des Fleurs, and much more. From warm vanilla notes to fresh citrus fragrances, find your new favorite scent.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: After Careful Review, These Are the Best Perfumes for Women...",
+      "score": 1,
+      "published": "2026-11-26T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5979a93e4cc",
+      "title": "Hilary Duff’s Holiday Gift Guide Is What Beauty Dreams Are Made Of—Every Essential I’m Buying From $9",
+      "link": "https://www.whowhatwear.com/beauty/hilary-duff-holiday-gift-guide-2026",
+      "summary": "From a French-girl lipstick to an IYKYK glow serum.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 1,
+      "published": "2026-11-26T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08bd7ede7d9d",
+      "title": "I Can Save $2,109 on 37 of the Best Cyber Week Beauty Deals—Here's My Exhaustive Shopping List",
+      "link": "https://www.whowhatwear.com/beauty/best-beauty-deals-cyber-week-2026",
+      "summary": "Celeb-approved face cream! LED masks! Flawless foundation!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Can Save $2,109 on 37 of the Best Cyber Week Beauty Deals—Here's My ...",
+      "score": 1,
+      "published": "2026-11-26T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a0e3385a1f9",
+      "title": "Pilates Girls Are Obsessed With This Thanksgiving Staple—Here’s Why",
+      "link": "https://www.vogue.com/article/peas-health-benefits",
+      "summary": "It’s high protein and high fiber with lots of vitamins, and you probably have it in the back of your fridge freezer—consider the humble peas.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Pilates Girls Are Obsessed With This Thanksgiving Staple—Here’s Why...",
+      "score": 0,
+      "published": "2026-11-26T11:56:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c1c25c476c98",
+      "title": "8 Reasons to Eat More Oatmeal",
+      "link": "https://www.vogue.com/article/oatmeal-benefits",
+      "summary": "Oatmeal may not be the most glamorous breakfast food, but it’s one of the healthiest. There’s a reason oats have been eaten for thousands of years, after all.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Reasons to Eat More Oatmeal...",
+      "score": 0,
+      "published": "2026-11-26T11:43:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9674a41b4717",
+      "title": "“Focus on Learning”: Career Lessons With Burberry’s Daniel Lee and Anna Wintour",
+      "link": "https://www.vogue.com/article/focus-on-learning-career-lessons-with-burberrys-daniel-lee-and-anna-wintour",
+      "summary": "Burberry’s chief creative officer Daniel Lee and Vogue’s global editorial director Anna Wintour unpack leadership, AI and the future of British fashion at the Vogue Business Global Summit in New York.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: “Focus on Learning”: Career Lessons With Burberry’s Daniel Lee and Ann...",
+      "score": 1,
+      "published": "2026-11-26T11:35:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7ff5cc6935b",
+      "title": "Vogue Staffers Debate the Best Pair of Eating Pants",
+      "link": "https://www.vogue.com/article/vogue-staffers-favorite-eating-pants",
+      "summary": "With so many food-centric holidays in the immediate future, the Vogue staff is preparing to enjoy many a meal without sacrificing fashion.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Vogue Staffers Debate the Best Pair of Eating Pants...",
+      "score": 1,
+      "published": "2026-11-26T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c25304b87f8a",
+      "title": "Nature on the Board: Should Brands Opt In?",
+      "link": "https://www.vogue.com/article/should-brands-put-nature-on-the-board",
+      "summary": "A growing number of businesses are recognizing the rights of nature by appointing a proxy for nature on their board. What does best practice look like?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nature on the Board: Should Brands Opt In?...",
+      "score": 1,
+      "published": "2026-11-26T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "38d43a90b68f",
       "title": "Christopher Bailey on His Post-Burberry Reinvention at the Historic Burleigh Pottery",
@@ -34,20 +300,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-11-26T09:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7673571f5a47",
-      "title": "Woman cop gatecrashes UP constable's wedding, claims groom is her boyfriend",
-      "link": "https://www.indiatoday.in/india/story/up-constable-wedding-halted-woman-cop-claims-groom-boyfriend-settlement-3047355-2026-11-26?utm_source=rss",
-      "summary": "Woman cop gatecrashes UP constable's wedding, claims groom is her boyfriend",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Woman cop gatecrashes UP constable's wedding, claims groom is her boyfriend — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-11-26T09:21:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -737,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c4aa1913c74c",
-      "title": "Veruschka: The Late ’60s Supermodel’s Best Beauty Looks of All Time",
-      "link": "https://www.vogue.com/article/veruschka-60s-supermodel-best-beauty-looks-graphic-eyes-big-hair",
-      "summary": "Following news of her death at 87, a look back at the chameleonic German model Veruschka and her most striking beauty looks.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Veruschka: The Late ’60s Supermodel’s Best Beauty Looks of All Time...",
-      "score": 2,
-      "published": "2026-11-25T15:34:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9b76752a33d5",
       "title": "Katy Perry and Justin Trudeau Give Their Couple Style the Cozy Airport Treatment",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74531229/katy-perry-justin-trudeau-couple-style-venice-airport-photos/",
@@ -779,34 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e58aee6262cd",
-      "title": "Every Time Veruschka Was on the Cover of American Vogue",
-      "link": "https://www.vogue.com/slideshow/veruschka-american-vogue-covers",
-      "summary": "With the news of the legendary German model’s passing at the age of 87, Vogue looks back at the many times she graced the magazine’s cover.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Time Veruschka Was on the Cover of American Vogue...",
-      "score": 1,
-      "published": "2026-11-25T15:15:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6de07d712ac7",
-      "title": "Veruschka, the Shape-Shifting Supermodel Who Defined an Era, Has Died at 87",
-      "link": "https://www.vogue.com/article/veruschka-obituary",
-      "summary": "A favorite of Richard Avedon and Diana Vreeland, German countess turned supermodel and artist Veruschka approached beauty, fashion, and identity with verve.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Veruschka, the Shape-Shifting Supermodel Who Defined an Era, Has Died ...",
-      "score": 3,
-      "published": "2026-11-25T15:14:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "af4477744dac",
       "title": "Denmark’s Queen Mary Delivers a Trifecta of Designer Looks During Her Historic State Visit to Colombia",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a74531239/queen-mary-denmark-state-visit-colombia-outfits-photos/",
@@ -832,34 +1042,6 @@
       "angle": "Fashion Intelligence: Liffner Kicks Off Its Black Friday Sale...",
       "score": 1,
       "published": "2026-11-25T15:07:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "84088e9c7893",
-      "title": "Ballerina Farm Is Opening a Restaurant, Farm Store, and Cooking School—Here’s a First Look",
-      "link": "https://www.vogue.com/article/ballerina-farm-restaurant-farm-store-cookery-school-utah-exclusive",
-      "summary": "From fall 2027, visitors to Utah’s Kamas Valley will be able to step directly into the world of Ballerina Farm via a farm-to-table restaurant, market, and cooking school. Here’s an exclusive first look at Daniel and Hannah Neeleman’s new venture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ballerina Farm Is Opening a Restaurant, Farm Store, and Cooking School...",
-      "score": 0,
-      "published": "2026-11-25T15:07:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2f2fbfd794f5",
-      "title": "Vogue’s Best Dressed List of 2026 Is Live! Here’s How to Recreate Our Favorite Looks of the Year",
-      "link": "https://www.vogue.com/article/best-dressed-2026-outfits-style",
-      "summary": "We’re breaking down their style signifiers, one shoppable piece at a time.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Vogue’s Best Dressed List of 2026 Is Live! Here’s How to Recreate Our ...",
-      "score": 2,
-      "published": "2026-11-25T15:01:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -905,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a3a2d61faeb2",
-      "title": "How Women Weavers Are Preserving Indigenous Amazigh Culture in Morocco",
-      "link": "https://www.vogue.com/article/how-women-weavers-are-preserving-indigenous-amazigh-culture-in-morocco",
-      "summary": "As global demand for Moroccan rugs surges, a new generation is working directly with rural artisans to keep centuries-old textile traditions alive.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 0,
-      "published": "2026-11-25T14:59:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cd2e13b0d246",
       "title": "DeMellier’s Black Friday Sale Is Here",
       "link": "https://www.harpersbazaar.com/fashion/trends/a74455502/demellier-black-friday-sale-2026/",
@@ -930,20 +1098,6 @@
       "angle": "Fashion Intelligence: DeMellier’s Black Friday Sale Is Here...",
       "score": 0,
       "published": "2026-11-25T14:58:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5c895aa25837",
-      "title": "Agilitas Appoints Prateek Kotha as Brand Director",
-      "link": "https://in.apparelresources.com/business-news/retail/agilitas-appoints-prateek-kotha-brand-director/",
-      "summary": "Prateek Kotha joins Agilitas as Brand Director. Kotha brings over 16 years of experience across brand strategy, marketing, communications and retail. He joins Agilitas following an independent consulting stint, during which he partnered with businesses across four domains on brand positioning, storytelling and integrat",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Agilitas Appoints Prateek Kotha as Brand Director...",
-      "score": 1,
-      "published": "2026-11-25T14:00:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1014,34 +1168,6 @@
       "angle": "Fashion Intelligence: How Sarah Gibson Tuttle Grew Olive & June Into Target's Number One Nai...",
       "score": 3,
       "published": "2026-11-25T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "93b5e257ce55",
-      "title": "Libas FY26 Revenue Grows 19% to Rs. 726 Crore; Net Loss Narrows to Rs. 15.2 Crore",
-      "link": "https://in.apparelresources.com/business-news/retail/libas-fy26-revenue-grows-19-to-rs-726-crore-net-loss-narrows-to-rs-15-2-crore/",
-      "summary": "Women&#8217;s Ethnic wear brand Libas reported that its revenue from operations of Rs. 726 crore (US $78.55 million) in the financial year ended March 2026 (FY26), registering a 19% year-on-year (YoY) growth. However, the brand continued to report losses, although its net loss narrowed marginally to Rs. 15.2 crore (US ",
-      "source": "Apparel Resources India",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Libas FY26 Revenue Grows 19% to Rs. 726 Crore; Net Loss Narrows to Rs....",
-      "score": 3,
-      "published": "2026-11-25T12:44:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "08e08fdd0e0b",
-      "title": "Meghan Markle’s Two Favorite Staples Survived Her Move to the UK",
-      "link": "https://www.vogue.com/article/meghan-markle-british-wardrobe-staples-2026-11-25",
-      "summary": "A breezy slip dress and a sharp black blazer: the Duchess of Sussex’s wardrobe essentials have made the transatlantic trip.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meghan Markle’s Two Favorite Staples Survived Her Move to the UK...",
-      "score": 1,
-      "published": "2026-11-25T12:09:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1129,48 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5e9ae6bfc6ce",
-      "title": "These Are the 6 Luckiest Zodiac Signs This Sagittarius Season",
-      "link": "https://www.vogue.com/article/luckiest-star-signs-sagittarius-season-2026",
-      "summary": "Scorpio season might have felt intense, but Sagittarius season is all about bringing the party. Here are the signs set to soar over the next month.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-25T11:05:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee35b9baa3f8",
-      "title": "These Were the Breakout Red Carpet Stars of 2026",
-      "link": "https://www.vogue.com/article/breakout-red-carpet-stars-2026",
-      "summary": "These rising stars had a splashy, career-making year in Hollywood—and they all come armed with unique red carpet style to match.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-25T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "edf253f6e0e7",
-      "title": "The 17 Best Airbnbs in Copenhagen Embrace Hygge",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-copenhagen",
-      "summary": "Book one of the best Airbnbs in Copenhagen ahead of your trip to the Danish capital—and get ready for tons of Scandinavian design inspiration.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 17 Best Airbnbs in Copenhagen Embrace Hygge...",
-      "score": 0,
-      "published": "2026-11-25T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "101e381eb5a7",
       "title": "The Tasteful Dress Trend Fashion People in Their 50s Are Wearing This Winter",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/fur-trimmed-dress-trend-jennifer-lopez-2026",
@@ -1196,6 +1280,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-11-25T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9a1c5cb46b9a",
+      "title": "How To Dress With Sprezzatura",
+      "link": "https://www.fashionbeans.com/article/how-to-dress-with-sprezzatura/",
+      "summary": "What on earth is that man doing with his tie? Has he dressed in a huge hurry? What’s with the collar sticking out? Hold fire with your assumption that the subject of your disdain just doesn’t know how to dress well. Those points you critique may, in fact, be expressions of ‘sprezzatura’, the art of dressing &#8230; Con",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Dress With Sprezzatura...",
+      "score": 1,
+      "published": "2026-11-25T10:29:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1322,20 +1420,6 @@
       "angle": "Fashion Intelligence: Levi’s Fits Explained for Anyone Choosing Between Core Fits...",
       "score": 1,
       "published": "2026-11-25T07:41:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6f07e80aa1b4",
-      "title": "The Airport? In Winter? Looking Stylish Is Possible—Just Wear One of These 6 Fashion-Girl Items",
-      "link": "https://www.whowhatwear.com/fashion/airport-style/airport-outfit-trends-winter-2026",
-      "summary": "The aisle is your runway.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-11-25T07:25:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1784,34 +1868,6 @@
       "angle": "Fashion Intelligence: For Love & Lemons Gives Winter 2026 a Fairytale Twist...",
       "score": 1,
       "published": "2026-11-24T03:18:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c346e9a53b3",
-      "title": "The Stars Brought Their Sleek Motorsport Style to the 2026 Formula One Las Vegas Grand Prix",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a74511288/every-celebrity-look-formula-one-las-vegas-grand-prix-2026/",
-      "summary": "Including Lisa, Kim Kardashian, and Venus Williams",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Stars Brought Their Sleek Motorsport Style to the 2026 Formula One...",
-      "score": 1,
-      "published": "2026-11-23T22:21:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "08d147cdaec2",
-      "title": "Louisa Jacobson’s Stylist on 10 Things That Inspire Her Red Carpet Looks",
-      "link": "https://www.harpersbazaar.com/fashion/a74493479/louisa-jacobson-stylist-inspiration-red-carpet/",
-      "summary": "She’s been on a winning style streak—here’s a glimpse at the conversations behind the ensembles",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-23T22:17:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2713,52 +2769,52 @@
   ],
   "trends": [
     {
-      "term": "sonyliv",
+      "term": "tamil nadu vs saurashtra",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "today cricket match live",
+      "term": "delimitation bill",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मोर्ने मोर्केल",
+      "term": "is us market closed today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rising star asia cup 2026 schedule",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "इंडिया ए बनाम श्रीलंका ए",
+      "term": "movie rules 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi clerk mains analysis 2026",
+      "term": "icc matches",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ठरलं तर मग",
+      "term": "सारा तेंदुलकर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sharad pawar",
+      "term": "gukesh vs sindarov game 3",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vivo x500 series",
+      "term": "scene ott release",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bihar cricket team vs punjab cricket team match scorecard",
+      "term": "mi emirates vs abu dhabi knight riders",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "employees' provident fund organisation",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
